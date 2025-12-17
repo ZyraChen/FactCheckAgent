@@ -1,77 +1,108 @@
 """
-证据池(Evidence Pool)
-存储所有检索到的证据
+证据池 - 改进版
+核心改进:每个证据作为独立节点,不再合并
 """
+from typing import List, Dict, Optional
+from datetime import datetime
+from dataclasses import dataclass
 
-from typing import List, Optional
-from utils.models import Evidence
-import hashlib
+@dataclass
+class Evidence:
+    """证据节点 - 每个证据是独立的论证节点"""
+    id: str
+    content: str
+    url: str
+    source: str  # 来源网站/机构
+    credibility: str  # High/Medium/Low
+    retrieved_by: str  # pro/con
+    round_num: int
+    search_query: str
+    timestamp: datetime
+    quality_score: float = 0.0  # 新增:质量分数(0-1)
+
+    def get_priority(self) -> float:
+        """计算优先级分数"""
+        cred_map = {"High": 1.0, "Medium": 0.6, "Low": 0.3}
+        base = cred_map.get(self.credibility, 0.5)
+        return base * self.quality_score
 
 
 class EvidencePool:
-    """证据池 - 双方共享"""
-    
+    """
+    证据池 - 改进版
+
+    核心改进:
+    1. 每个证据作为独立节点存储
+    2. 支持质量筛选
+    3. 双方共享证据池
+    """
+
     def __init__(self):
-        self.evidences: List[Evidence] = []
-        self._content_hashes = set()  # 用于去重
-    
-    def add_evidence(self, evidence: Evidence) -> bool:
-        """
-        添加单条证据
-        返回: 是否成功添加(False表示重复)
-        """
-        # 基于内容去重
-        content_hash = self._hash_content(evidence.content)
-        if content_hash in self._content_hashes:
-            return False
-        
-        self.evidences.append(evidence)
-        self._content_hashes.add(content_hash)
-        return True
-    
-    def add_evidences(self, evidences: List[Evidence]) -> int:
-        """
-        批量添加证据
-        返回: 成功添加的数量
-        """
-        count = 0
+        self.evidences: Dict[str, Evidence] = {}
+        self._evidence_count = 0
+
+    def add_evidence(self, evidence: Evidence):
+        """添加证据节点"""
+        if evidence.id not in self.evidences:
+            self.evidences[evidence.id] = evidence
+            self._evidence_count += 1
+
+    def add_batch(self, evidences: List[Evidence]):
+        """批量添加证据"""
         for evidence in evidences:
-            if self.add_evidence(evidence):
-                count += 1
-        return count
-    
-    def _hash_content(self, content: str) -> str:
-        """计算内容哈希用于去重"""
-        return hashlib.md5(content.encode()).hexdigest()
-    
+            self.add_evidence(evidence)
+
     def get_by_id(self, evidence_id: str) -> Optional[Evidence]:
-        """通过ID获取证据"""
-        for evidence in self.evidences:
-            if evidence.id == evidence_id:
-                return evidence
-        return None
-    
-    def get_by_agent(self, agent: str) -> List[Evidence]:
-        """获取特定Agent检索的证据"""
-        return [e for e in self.evidences if e.retrieved_by == agent]
-    
+        """根据ID获取证据"""
+        return self.evidences.get(evidence_id)
+
+    def get_by_agent(self, agent: str, round_num: int = None) -> List[Evidence]:
+        """
+        获取某个agent检索的证据
+        可选:只返回特定轮次的证据
+        """
+        result = [e for e in self.evidences.values() if e.retrieved_by == agent]
+        if round_num is not None:
+            result = [e for e in result if e.round_num == round_num]
+        return result
+
     def get_by_round(self, round_num: int) -> List[Evidence]:
-        """获取特定轮次的证据"""
-        return [e for e in self.evidences if e.round_num == round_num]
-    
+        """获取某轮的所有证据"""
+        return [e for e in self.evidences.values() if e.round_num == round_num]
+
+    def get_high_quality(self, min_score: float = 0.6) -> List[Evidence]:
+        """获取高质量证据(quality_score >= min_score)"""
+        return [e for e in self.evidences.values() if e.quality_score >= min_score]
+
     def get_by_credibility(self, credibility: str) -> List[Evidence]:
-        """获取特定可信度的证据"""
-        return [e for e in self.evidences if e.credibility == credibility]
-    
-    def get_high_credibility(self) -> List[Evidence]:
-        """获取高可信度证据"""
-        return self.get_by_credibility("High")
-    
-    def __len__(self):
+        """根据可信度筛选"""
+        return [e for e in self.evidences.values() if e.credibility == credibility]
+
+    def get_all(self) -> List[Evidence]:
+        """获取所有证据"""
+        return list(self.evidences.values())
+
+    def __len__(self) -> int:
         return len(self.evidences)
-    
-    def __iter__(self):
-        return iter(self.evidences)
-    
-    def __str__(self):
-        return f"EvidencePool(size={len(self.evidences)})"
+
+    def __repr__(self):
+        return f"EvidencePool({len(self)} evidences)"
+
+    def get_statistics(self) -> Dict:
+        """获取统计信息"""
+        total = len(self.evidences)
+        if total == 0:
+            return {"total": 0}
+
+        pro_count = len(self.get_by_agent("pro"))
+        con_count = len(self.get_by_agent("con"))
+        high_quality = len(self.get_high_quality())
+        high_cred = len(self.get_by_credibility("High"))
+
+        return {
+            "total": total,
+            "pro": pro_count,
+            "con": con_count,
+            "high_quality": high_quality,
+            "high_credibility": high_cred
+        }

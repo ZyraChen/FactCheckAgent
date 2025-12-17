@@ -1,5 +1,21 @@
 [
     {
+    "claim": "程立目前是蚂蚁集团的董事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，程立曾任蚂蚁集团非执行董事，但目前蚂蚁集团官网上已无程立信息。",
+    "evidence_sources": [
+      {
+        "content": "蚂蚁集团官网董事会",
+        "url": "https://www.antgroup.com/about/leadership",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "程立目前不是蚂蚁集团的董事。",
+    "topic": "Economy"
+  },
+    {
     "claim": "欧盟计划在2030年全面禁止销售燃油车。",
     "verdict": "Refuted",
     "error_type": "Temporal Errors",

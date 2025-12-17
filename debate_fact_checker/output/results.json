@@ -1,9 +1,16 @@
 [
   {
     "claim": "欧盟计划在2030年全面禁止销售燃油车。",
-    "predicted": "Refuted",
+    "predicted": "NEI",
     "ground_truth": "Refuted",
-    "confidence": 1.0,
-    "correct": true
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "claim": "冥王星距太阳最远约为74亿公里。",
+    "predicted": "NEI",
+    "ground_truth": "Supported",
+    "confidence": 0.5,
+    "correct": false
   }
 ]

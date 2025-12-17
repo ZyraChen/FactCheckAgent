@@ -1,157 +1,167 @@
 """
-Con Agent: 反对claim的辩论方
+Con Agent - 改进版
+使用LangGraph框架,每个证据作为独立节点
 """
-
 from typing import List, Dict
-from utils.models import ArgumentNode, Evidence, SearchQuery
-from core.argumentation_graph import ArgumentationGraph
-from core.evidence_pool import EvidencePool
-from llm.qwen_client import QwenClient
-from tools.priority_calculator import calculate_priority
-import uuid
+from datetime import datetime
+import re
+
+import sys
+
+sys.path.insert(0, '/mnt/user-data/outputs')
+from core.evidence_pool import Evidence, EvidencePool
+from core.argumentation_graph import ArgumentationGraph, AttackEdge
 
 
 class ConAgent:
-    """反对方Agent"""
-    
-    def __init__(self, claim: str, llm_client: QwenClient):
+    """
+    反对方Agent - 改进版
+
+    核心改进:
+    1. 不再构建ArgumentNode,直接操作Evidence节点
+    2. select_and_attack()从证据池选择证据并生成攻击边
+    """
+
+    def __init__(self, claim: str, llm_client):
         self.claim = claim
         self.llm = llm_client
-        self.stance = "refute"
         self.agent_name = "con"
-    
+        self.stance = "refute"
+
     def generate_search_queries(
-        self,
-        round_num: int,
-        arg_graph: ArgumentationGraph,
-        evidence_pool: EvidencePool
-    ) -> List[SearchQuery]:
+            self,
+            round_num: int,
+            arg_graph: ArgumentationGraph,
+            evidence_pool: EvidencePool
+    ) -> List[str]:
         """生成搜索查询 - 寻找反驳证据"""
-        # 获取Pro的最新论点
-        pro_nodes = [
-            n for n in arg_graph.get_nodes_by_agent("pro")
-            if n.round == round_num - 1 or round_num == 1
-        ]
-        opponent_args = [n.content for n in pro_nodes]
-        
-        # 已有主题
-        existing_queries = [e.search_query for e in evidence_pool.evidences]
-        
-        # 调用LLM生成查询词
-        queries = self.llm.generate_search_queries(
-            claim=self.claim,
-            agent_role="反对方(Con) - 寻找反驳claim的证据",
-            current_round=round_num,
-            opponent_args=opponent_args,
-            existing_topics=existing_queries
-        )
-        
-        # 包装为SearchQuery对象
-        search_queries = []
-        for q in queries[:5]:
-            search_queries.append(SearchQuery(
-                query=q,
-                agent="con",
-                round=round_num,
-                rationale=f"第{round_num}轮反对方搜索"
-            ))
-        
-        return search_queries
-    
-    def construct_arguments(
-        self,
-        round_num: int,
-        arg_graph: ArgumentationGraph,
-        evidence_pool: EvidencePool
-    ) -> List[ArgumentNode]:
-        """
-        构建反驳论证
-        Con可以看到Pro本轮新增的节点!
-        """
-        new_nodes = []
-        
-        # 1. 选择有利证据(反驳性证据)
-        relevant_evidences = self._select_refuting_evidences(
-            evidence_pool, arg_graph, round_num
-        )
-        
-        if not relevant_evidences:
-            print(f"Con Agent第{round_num}轮未找到反驳证据")
+        # 获取正方证据
+        pro_evidences = arg_graph.get_nodes_by_agent("pro")
+
+        # 构建上下文
+        if round_num == 1:
+            context = f"这是第1轮。你需要找到反驳这个claim的证据。"
+        else:
+            context = f"这是第{round_num}轮。"
+            if pro_evidences:
+                context += f"\n正方已找到{len(pro_evidences)}个支持证据。"
+                context += "\n你需要找到更强的反驳证据。"
+
+        system_prompt = f"""你是事实核查的反方,需要找证据反驳claim: {self.claim}
+
+你的目标是找到权威证据来证明这个claim是错误的或不准确的。"""
+
+        user_prompt = f"""{context}
+
+请生成{2 if round_num == 1 else 3}个搜索查询来反驳这个claim。
+
+要求:
+1. 查询要具体,能找到权威来源
+2. 寻找反例、错误信息、过时数据
+3. 每个查询用一行,格式: 查询词 | 动机
+
+示例:
+疫苗副作用 临床研究 统计数据 | 寻找关于副作用的研究数据
+CDC疫苗不良反应报告系统 | 寻找官方不良反应数据
+
+现在生成查询:"""
+
+        messages = [{"role": "user", "content": user_prompt}]
+
+        response = self.llm.chat(messages, system=system_prompt, temperature=0.7)
+
+        # 解析查询
+        queries = []
+        for line in response.split('\n'):
+            if '|' in line:
+                parts = line.split('|')
+                if len(parts) >= 1:
+                    query_text = parts[0].strip()
+                    if query_text:
+                        queries.append(query_text)
+
+        return queries[:3]
+
+    def select_and_attack(
+            self,
+            pool: EvidencePool,
+            arg_graph: ArgumentationGraph,
+            round_num: int
+    ) -> List[AttackEdge]:
+        """从证据池选择有利证据,攻击对方证据节点"""
+        # 1. 获取己方高质量证据
+        my_evidences = [e for e in pool.get_by_agent("con") if e.quality_score >= 0.6]
+
+        # 2. 获取对方证据节点
+        opponent_evidences = [e for e in arg_graph.evidence_nodes.values() if e.retrieved_by == "pro"]
+
+        if not my_evidences or not opponent_evidences:
             return []
-        
-        # 2. 获取Pro的论点(特别是本轮的)
-        pro_nodes = arg_graph.get_nodes_by_agent("pro")
-        opponent_args = [
-            {"id": n.id, "content": n.content, "priority": n.priority}
-            for n in pro_nodes
-        ]
-        
-        # 3. 调用LLM构建反驳论证
-        evidence_list = [
-            {
-                "id": e.id,
-                "content": e.content,
-                "url": e.url,
-                "credibility": e.credibility
-            }
-            for e in relevant_evidences
-        ]
-        
-        llm_result = self.llm.construct_argument(
-            claim=self.claim,
-            agent_role="反对方(Con) - 你要证明这个claim是错误的或不准确的",
-            evidence_list=evidence_list,
-            opponent_args=opponent_args,
-            round_num=round_num
-        )
-        
-        if not llm_result:
-            return []
-        
-        # 4. 创建论证节点
-        used_evidence_ids = [
-            relevant_evidences[i].id
-            for i in llm_result.get("key_evidence_indices", [0])
-            if i < len(relevant_evidences)
-        ]
-        
-        # 计算优先级
-        used_evidences = [evidence_pool.get_by_id(eid) for eid in used_evidence_ids]
-        priority = calculate_priority(used_evidences)
-        
-        node = ArgumentNode(
-            id=f"con_arg_{round_num}_{uuid.uuid4().hex[:8]}",
-            agent="con",
-            round=round_num,
-            content=llm_result.get("argument", ""),
-            evidence_ids=used_evidence_ids,
-            priority=priority,
-            stance="refute_claim"
-        )
-        
-        new_nodes.append(node)
-        
-        return new_nodes
-    
-    def _select_refuting_evidences(
-        self,
-        evidence_pool: EvidencePool,
-        arg_graph: ArgumentationGraph,
-        round_num: int
-    ) -> List[Evidence]:
-        """选择反驳性证据"""
-        candidates = []
-        
-        for evidence in evidence_pool.evidences:
-            if evidence.round_num <= round_num:
-                # 简单的反驳性判断
-                # 实际应该用语义分析判断是否与claim矛盾
-                candidates.append(evidence)
-        
-        # 按可信度排序
-        candidates.sort(
-            key=lambda e: {"High": 3, "Medium": 2, "Low": 1}[e.credibility],
-            reverse=True
-        )
-        
-        return candidates[:5]
+
+        # 3. 构建LLM prompt
+        system_prompt = f"""你是反方,要用证据攻击正方的证据。
+
+Claim: {self.claim}
+
+你的任务:
+1. 分析我方证据和对方证据的内容
+2. 找出我方证据可以攻击对方证据的地方
+3. 攻击必须基于:内容矛盾、可信度差异、权威性差异"""
+
+        my_ev_text = "\n".join([
+            f"[CON-{i + 1}] {e.content[:200]}... (来源:{e.source}, 可信度:{e.credibility}, 优先级:{e.get_priority():.2f})"
+            for i, e in enumerate(my_evidences[:5])
+        ])
+        opp_ev_text = "\n".join([
+            f"[PRO-{i + 1}] {e.content[:200]}... (来源:{e.source}, 可信度:{e.credibility}, 优先级:{e.get_priority():.2f})"
+            for i, e in enumerate(opponent_evidences[:5])
+        ])
+
+        user_prompt = f"""我方证据:
+{my_ev_text}
+
+对方证据:
+{opp_ev_text}
+
+请分析哪些我方证据可以攻击对方证据。
+
+要求:
+1. 只有当我方证据的可信度/权威性更高时才能攻击
+2. 必须有实质性的内容矛盾
+3. 每行格式: CON-X攻击PRO-Y | 理由(50字内)
+
+示例:
+CON-1攻击PRO-2 | 我方来自IAU官方定义,对方是科普网站,权威性更高
+CON-2攻击PRO-1 | 我方数据更新,直接反驳对方过时信息
+
+现在分析(最多5个攻击):"""
+
+        messages = [{"role": "user", "content": user_prompt}]
+
+        response = self.llm.chat(messages, system=system_prompt, temperature=0.5)
+
+        # 4. 解析攻击关系
+        attacks = []
+        for line in response.split('\n'):
+            match = re.search(r'CON-(\d+)攻击PRO-(\d+)\s*\|\s*(.+)', line)
+            if match:
+                con_idx = int(match.group(1)) - 1
+                pro_idx = int(match.group(2)) - 1
+                rationale = match.group(3).strip()
+
+                if con_idx < len(my_evidences) and pro_idx < len(opponent_evidences):
+                    attacker = my_evidences[con_idx]
+                    target = opponent_evidences[pro_idx]
+
+                    # 验证优先级规则
+                    if attacker.get_priority() > target.get_priority():
+                        strength = attacker.get_priority() - target.get_priority()
+                        attacks.append(AttackEdge(
+                            attacker_id=attacker.id,
+                            target_id=target.id,
+                            strength=strength,
+                            rationale=rationale,
+                            round_num=round_num
+                        ))
+
+        return attacks

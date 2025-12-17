@@ -11,7 +11,7 @@ import os
 class QwenClient:
     """LLM API封装 - 使用阿里云Qwen"""
 
-    def __init__(self, api_key: str = None, model: str = "qwen3-max"):
+    def __init__(self, api_key: str = None, model: str = "qwen-plus-latest"):
         # 如果没传api_key,从环境变量获取
         if not api_key:
             api_key = os.getenv("DASHSCOPE_API_KEY", "")
