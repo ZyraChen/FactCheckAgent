@@ -1,0 +1,9 @@
+[
+  {
+    "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 1.0,
+    "correct": true
+  }
+]
