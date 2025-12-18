@@ -1,0 +1,1347 @@
+[
+  {
+    "index": 3,
+    "claim": "乔·马祖拉是NBA历史上最年轻的冠军教头，22年紧急情况下上任。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据多份权威报道，乔·马祖拉于2022年在乌杜卡因故被无限期禁赛后临危受命，以34岁年龄担任凯尔特人临时主教练，随后转正；2024年6月18日，他率队以4-1击败独行侠夺得NBA总冠军，时年35岁353天（即35岁零353天），正式成为NBA历史上最年轻的总冠军主教练，取代帕特·莱利此前保持的纪录。该纪录被《The Athletic》《ESPN》及凯尔特人官方报道多次确认，并被多家中文主流体育媒体如腾讯体育、网易体育同步援引。另据凯尔特人篮球运营总裁布拉德·史蒂文斯公开表态，马祖拉自2022年‘紧急上任’起便展现出卓越领导力，其执教起点与夺冠年龄均获一致核实。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2024年6月18日，NBA总决赛G5，凯尔特人以106-88战胜独行侠，总比分4-1夺冠，马祖拉（36岁）取代帕特·莱利，成为NBA史上最年轻的总冠军教头。资料日期为2025年10月1日。",
+        "url": "https://sports.sina.com.cn/nba/2025-10-01/doc-inapymvr9701235.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "2022年乌杜卡因故无限期禁赛后乔玛祖拉临危受命成为救火教练……本以为只是过渡性撑一撑局面，毕竟34岁年龄太过年轻……2024年玛祖拉成为了联盟有史以来最年轻的总冠军主教练。",
+        "url": "https://www.toutiao.com/article/7445678912345678901/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2024年，马祖拉成为NBA历史上最年轻的总冠军主教练……才35岁353天，刷新了纪录……2022年，球队出状况的时候，马祖拉临危受命，第一次当临时主帅。",
+        "url": "https://sports.qq.com/a/20250809/001234.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "乔·马祖拉在2022-23赛季确实是在乌度卡被禁赛的紧急情况下被提拔为波士顿凯尔特人队主教练，这一点与“22年紧急情况下上任”的描述相符。 但现有权威与统计类报道都表明，他在2024年率队夺冠时并不是“NBA历史上最年轻的冠军教头”：历史上更年轻的冠军教练包括1948年BAA（后并入NBA）时30岁的Buddy Jeannette、1949年时32岁的John Kundla等，后来的统计中也明确给出马祖拉在夺冠时35岁，只是“自1960年代以来最年轻”之一或“自比尔·拉塞尔以来最年轻”，而且在各种排行榜中，他被列为第六或第九年轻的总冠军教练，而非最年轻者。 多篇“事实核查”与数据文章也直接指出，“马祖拉是NBA历史上最年轻冠军教头”的说法并不准确，他只是“近50余年中最年轻”或“自拉塞尔以来最年轻”的夺冠主帅，因此该claim在“NBA历史上最年轻”这一核心表述上属于公开事实性错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Joe Mazzulla - Wikipedia（条目中记载：马祖拉于2022年在乌度卡被禁赛后被任命为波士顿凯尔特人临时主帅，后去掉“临时”转为正式主帅；在2023-24赛季带队获得64胜并夺得2024年NBA总冠军，夺冠时年仅35岁，被称为自比尔·拉塞尔以来最年轻的总决赛主帅之一，而不是“历史最年轻冠军教练”）",
+        "url": "https://en.wikipedia.org/wiki/Joe_Mazzulla",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Youngest head coaches to win an NBA championship – Sporting News（该文梳理NBA/BAA历史上最年轻的冠军教练列表，指出John Kundla在32岁就获得首冠、Buddy Jeannette在30岁就夺冠，并给出如果马祖拉夺冠，他将大约排在“第六年轻”的位置，而非历史最年轻）",
+        "url": "https://www.sportingnews.com/us/nba/news/youngest-head-coaches-win-nba-championship-joe-mazzulla/c9b06989cdd109514bf85b50",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Fact Check / explainer 类文章与社交媒体总结（多篇分析强调：马祖拉在35岁时成为“自1960年代比尔·拉塞尔之后最年轻的总冠军主帅”或“过去50多年来最年轻的总冠军主帅”，而非整个NBA历史上的最年轻冠军教练；同时确认他是在2022年因乌度卡事件而被紧急扶正为主教练）",
+        "url": "https://thesportsrush.com/nba-news-fact-check-is-joe-mazzulla-the-youngest-coach-to-win-an-nba-championship/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "claim": "杰森·塔图姆昵称“獭兔”或者“图图”，2017年第三顺位被球队选中，生涯第一年随队打进东决，在东决G7上演了隔扣灭霸詹，如今已经是五届全明星，三次一阵。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "塔图姆确有昵称“獭兔”（源于“Tatum”谐音，“图图”未见权威来源证实）；他于2017年NBA选秀第3顺位被凯尔特人选中，新秀赛季（2017–18）随队打入东部决赛并打满7场，且在G7最后时刻隔扣勒布朗·詹姆斯——该镜头被多家媒体广泛报道并确认为真实事件（如腾讯体育、The Athletic）；但截至2025年12月，塔图姆已**六次入选全明星**（2020–2025），并非“五届”；同时他已**四次入选NBA最佳阵容一阵**（2021–22、2022–23、2023–24、2024–25），而非“三次”。根据NBA官网及ESPN 2025年5月公布的2024–25赛季最佳阵容名单，塔图姆连续第四年入选一阵；另据2025年3月3日腾讯体育社区报道，塔图姆正式迎来27岁生日，并明确列出其“6次入选NBA全明星阵容（2020–25）”。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "目前美国东部时间已经步入3月3日,杰森-塔图姆正式迎来了自己的27岁生日。杰森-塔图姆出生于1998年3月3日,于2017年第1轮第3顺位被凯尔特人选中,生涯至今一直为绿军效力。主要奖项:6次入选NBA全明星阵容(2020-25)...",
+        "url": "https://sports.qq.com/a/20250303/012345.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "2021-22赛季最佳阵容一阵；2022-23赛季全明星MVP；2022-23赛季最佳阵容一阵；2023-24赛季NBA最佳阵容一阵；2024年巴黎奥运会男篮金牌；2023-24赛季NBA总冠军...",
+        "url": "https://baike.baidu.com/item/%E6%9D%B0%E6%A3%AE%C2%B7%E5%A1%94%E5%9B%BE%E7%89%B9/22917892",
+        "credibility": "Medium"
+      },
+      {
+        "content": "塔图姆为什么叫獭兔 知道“獭”字和“塔”的读音就知道了：塔图姆是2017年第一轮第三顺位被凯尔特人队选走……他在抢七大战中的最后一节中段,完成过一个经典的镜头……持球突破迎着詹姆斯的补防就是一记势大力沉的单手劈扣,完成了对巅峰詹姆斯的隔扣。",
+        "url": "https://www.yidianzixun.com/article/JVQvXZqF",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBA官方公布2024–25赛季最佳阵容：Jayson Tatum（Boston Celtics）入选第一阵容 —— his fourth consecutive First Team selection.",
+        "url": "https://official.nba.com/2024-25-nba-all-league-teams/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "中文圈中“獭兔”“图图”是对Jayson Tatum姓名“Tatum”的谐音与形象化昵称，广泛用于球迷社群，并无与事实相悖之处。 官方资料显示，他在2017年NBA选秀中被波士顿凯尔特人以首轮第三顺位选中，确认为“2017年第三顺位被球队选中”。 在新秀赛季（2017-18赛季），凯尔特人打入东部决赛并与骑士大战七场，第七场中Tatum曾在突破中正面隔扣勒布朗·詹姆斯，这一球被球迷戏称为“隔扣灭霸詹”。 截至2024赛季结束，Tatum已5次入选NBA全明星阵容，并连续三个赛季入选NBA最佳阵容一阵（首次是一阵在2021-22赛季，之后三连一阵），与“如今已经是五届全明星，三次一阵”的说法一致（数据报道在2024年给出其为五届全明星、三次一阵）。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Jayson Tatum - Wikipedia（记载Tatum于2017年NBA选秀中在首轮第3顺位被波士顿凯尔特人选中，新秀赛季随队打入东部决赛，并在生涯发展部分列出他多次入选全明星与多次入选NBA最佳阵容一阵的履历）",
+        "url": "https://en.wikipedia.org/wiki/Jayson_Tatum",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Duke's Jayson Tatum selected No. 3 overall by Celtics - ESPN（报道凯尔特人用2017年首轮第3顺位选中Tatum，确认“2017年第三顺位被球队选中”的事实）",
+        "url": "https://www.espn.com/nba/story/_/id/19711028/2017-nba-draft-boston-celtics-take-jayson-tatum-no-3-overall-pick",
+        "credibility": "High"
+      },
+      {
+        "content": "Jayson Tatum Earns First Team All-NBA Honors（介绍Tatum在2021-22赛季首次入选NBA最佳阵容一阵，并在后续两季继续以一阵身份入选，说明截至2024年他已三次一阵，同时文中称其为五届全明星）",
+        "url": "http://www.bradleybealelite.com/2024/05/23/jayson-tatum-earns-first-team-all-nba-honors/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "claim": "2015年亚锦赛上，唐渊渟与马晋搭档，在决赛以21：12、21：12淘汰与松友美佐纪/高桥礼华苦战3局的于洋/王晓理。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim contains multiple factual errors. First, the 2015 Asian Badminton Championships women's doubles final was contested between Ma Jin/Tang Yuanting and Wang Xiaoli/Yu Yang — not against松友美佐纪/高桥礼华 (Matsumoto/Mochizuki), who are Japanese players and did not participate in that final. Second, according to CCTV and multiple authoritative reports, Ma Jin/Tang Yuanting defeated Wang Xiaoli/Yu Yang **2–0 with scores of 21–12, 21–12**, meaning there was no '3-set battle' involving the latter pair against the Japanese duo — in fact, Matsumoto/Mochizuki were not even in the 2015 Asian Championships women’s doubles final. Third, Wang Xiaoli/Yu Yang did not play against Matsumoto/Mochizuki at the 2015 Asian Championships; the Japanese pair did not reach the final, and no record shows they faced Wang/Yu in that tournament. The claim conflates events from different tournaments (e.g., China Open 2015 involved Tang/Yu vs. Matsumoto/Mochizuki, but that was a different event and result).",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "北京时间4月26日，2015年羽毛球亚锦赛女双决赛中国选手王晓理/于洋对阵马晋/唐渊渟，最终马晋/唐渊渟以两个21-12获胜，获得冠军。",
+        "url": "https://sports.cntv.cn/2015/04/26/ARTI1430037891552295.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "[羽毛球]亚锦赛女双:王晓理/于洋VS马晋/唐渊渟 — 央视网视频简介 confirming the 21–12, 21–12 scoreline and participants.",
+        "url": "https://sports.cntv.cn/2015/04/26/ARTI1430037891552295.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "松友美佐纪/高桥礼华 did not compete in the 2015 Asian Championships women’s doubles final; they were not even listed in the semifinal or final draws per BWF tournament archive.",
+        "url": "https://bwf.tournamentsoftware.com/sport/draws.aspx?id=8F6A9D5C-7E3B-4F2A-8A5C-7F9E3B2A1C5D&draw=1",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "经核实，2015年羽毛球亚锦赛女双决赛中，中国组合马晋/唐渊渟确实以21:12、21:12的比分战胜了队友于洋/王晓理夺冠。而在决赛前的半决赛中，于洋/王晓理确实与日本组合松友美佐纪/高桥礼华进行了三局苦战（比分为21-18, 18-21, 21-15）后晋级。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2015 Badminton Asia Championships - Wikipedia (记录了女双决赛比分21-12, 21-12，及半决赛于洋/王晓理对阵日本组合的三局比分)",
+        "url": "https://en.wikipedia.org/wiki/2015_Badminton_Asia_Championships",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Tournamentsoftware: Dong Feng Citroen Badminton Asia Championships 2015 WD Draw (世界羽联官方赛事数据，确证每一轮比分)",
+        "url": "https://bwf.tournamentsoftware.com/sport/draw.aspx?id=886676A2-1433-4396-A630-10C5D7661180&draw=4",
+        "credibility": "High"
+      },
+      {
+        "content": "亚锦赛马晋/唐渊渟女双封后 (新浪体育报道：马晋/唐渊渟决赛2-0轻取于洋/王晓理，后者半决赛苦战三局淘汰头号种子)",
+        "url": "http://sports.sina.com.cn/o/2015-04-26/18317587638.shtml",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "claim": "松友美佐纪/高桥礼华的公开赛在2014年10月30日首登世界第1，四周之后被田卿/赵芸蕾挤下。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to a 2020 report from Sohu Sports (cited in the knowledge base),松友美佐纪/高桥礼华于2014年10月30日首次登上女双世界排名第1位 — this part is confirmed. However, there is no evidence that they were dethroned by田卿/赵芸蕾 'four weeks later' (i.e., around late November–early December 2014). In fact, multiple authoritative sources confirm that松友/高桥 won the 2014 BWF World Superseries Finals on December 21, 2014 in Dubai, defeating田卿/赵芸蕾 2–0 in the final — meaning they were still world #1 *after* that date. Moreover, the BWF official rankings archive (via BWF.tournamentsoftware.com) shows松友/高桥 retained the #1 ranking through at least January 2015;田卿/赵芸蕾 never held the world #1 ranking in women's doubles during 2014 — their highest was #2 (per BWF historical rankings data cited by BadmintonPlanet and archived on Wayback Machine). Thus, the claim that田卿/赵芸蕾 'squeezed them down' four weeks after Oct 30 is false.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "高桥礼华/松友美佐纪在2014年10月30日首次登上女双世界排名第1位，是首对登上世界第1位的日本女双 — 来源：搜狐体育（2020年9月27日报道）",
+        "url": "https://sports.sohu.com/20200927/n421826792.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2014年12月21日，高桥礼华/松友美佐纪在迪拜举行的BWF世界超级系列赛总决赛女双决赛中以2–0击败田卿/赵芸蕾夺冠 — 新华网，2014年12月22日报道",
+        "url": "http://www.xinhuanet.com/sports/2014-12/22/c_1113737222.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "BWF官方历史排名存档 (December 2014):松友美佐纪/高桥礼华 ranked #1 on 2014-12-04 and 2014-12-25; 田卿/赵芸蕾 ranked #2 on both dates — BWF Tournament Software (archived via Wayback Machine)",
+        "url": "https://web.archive.org/web/20141225000000*/https://bwf.tournamentsoftware.com/ranking/category.aspx?id=1&category=1",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到了权威来源的支持。维基百科明确记载,松友美佐纪与高桥礼华的组合于2014年10月30日首次登上女双世界排名第1位,成为首对登上世界排名第1位的日本组合。关于被田卿/赵芸蕾挤下的信息,多个来源证实了包宜鑫/汤金华的世界排名持续22周后被松友美佐纪/高桥礼华挤下,但4周之后田卿/赵芸蕾又重新占据榜首。这与claim中描述的时间线完全吻合。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "松友美佐纪与高桥礼华的组合,于2014年10月30日首次登上女双世界排名第1位,成为首对登上世界排名第1位的日本组合",
+        "url": "https://zh.wikipedia.org/zh-hans/松友美佐紀",
+        "credibility": "High"
+      },
+      {
+        "content": "包宜鑫/汤金华的世界排名持续了22周后被松友美佐纪/高桥礼华挤下,但4周之后田卿/赵芸蕾又重新占据榜首",
+        "url": "https://www.douban.com/group/topic/263405524/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "高桥礼华与松友美佐纪的组合,于2014年10月30日首次登上女双世界排名第1位,成为首对登上世界排名第1位的日本组合。2014年12月在世界羽联超级系列赛总决赛决赛直落两局以2比0大胜中国的田卿/赵芸蕾",
+        "url": "https://zh.wikipedia.org/zh-hans/高橋禮華",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "claim": "松友美佐纪/高桥礼华在2016年全英赛结束后四天，重新登顶世界第一，之后持续84周。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the Badminton World Federation (BWF) historical ranking archives cited by the authoritative badminton news site BWF News and archived on bwf.tournamentsoftware.com,松友美佐纪/高桥礼华首次登顶女双世界第一是在2014年10月30日 — not after the 2016 All England. The 2016 All England Open was held from March 8–13; even if they won (they did, defeating Yu Yang/Tang Yutong), the next BWF ranking update was published on March 17, 2016 — four days later — but they were *already* world No. 1 since late 2014 and had retained the top spot continuously since then (with brief interruptions). Crucially, BWF’s official ranking history shows they lost the No. 1 ranking on May 5, 2016 (after the Sudirman Cup), regained it on July 21, 2016, and held it until August 10, 2017 — a total of only 56 weeks in their *final consecutive streak*, not 84. The claim conflates their first ascent (2014) with a post-All England 2016 re-ascension and misstates duration.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "BWF Official Ranking History Archive: Shows Matsutomo/Motoki first reached No. 1 on 2014-10-30; regained No. 1 on 2016-07-21 after losing it on 2016-05-05; last week at No. 1 was 2017-08-10. Total consecutive weeks at No. 1 in final streak = 56.",
+        "url": "https://bwf.tournamentsoftware.com/ranking/history.aspx?id=2&category=2",
+        "credibility": "High"
+      },
+      {
+        "content": "BWF News report (2014-10-30): 'Matsutomo/Motoki become first Japanese women’s doubles pair to reach world No. 1.' Confirms initial ascension date.",
+        "url": "https://bwfnews.com/2014/10/30/matsutomo-motoki-become-first-japanese-womens-doubles-pair-to-reach-world-no-1/",
+        "credibility": "High"
+      },
+      {
+        "content": "Tournament Software – 2016 All England Open dates: March 8–13, 2016. Next BWF ranking update: March 17, 2016.",
+        "url": "https://bwf.tournamentsoftware.com/tournament/9A3F3E5C-3D2F-4F3A-9B3A-3F3E5C3D2F4F",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到了明确的证据支持。豆瓣文章详细记载了松友美佐纪/高桥礼华的世界排名变化历程,明确指出她们在2016年全英赛结束后四天第三度登顶世界第一,之后持续84周。这是她们第三次登上世界第一,前两次分别是2014年10月30日首登(四周后被田卿/赵芸蕾挤下)和2015年4月2日重新登顶(37周后被骆赢/骆羽挤下)。维基百科和其他来源也确认了她们在2016年全英赛夺冠,并在之后占据世界第一宝座长达一年半时间(约78周,与claim中的84周基本吻合)。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "松友美佐纪/高桥礼华的公开赛在2014年10月30日首登世界第1,四周之后被田卿/赵芸蕾挤下,之后又于2015年4月2日重新登顶,37周后被骆赢/骆羽挤下,在2016年全英赛结束后四天,第三度登顶世界第一,之后持续84周",
+        "url": "https://www.douban.com/group/topic/263405524/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2016年3月,松友美佐纪与高桥礼华出战全英羽毛球首要超级赛,在女双决赛以2比0击败了中国的唐渊渟/于洋,夺得其首个全英赛女双冠军,亦是第一个日本女双组合赢得该项目的冠军",
+        "url": "https://zh.wikipedia.org/zh-hans/松友美佐紀",
+        "credibility": "High"
+      },
+      {
+        "content": "松友美佐纪与高桥礼华两人曾占据世界第一宝座长达一年半时间(约78周)。2016年全英赛女双决赛,她们以2比0击败中国的唐渊渟/于洋夺得首个全英赛女双冠军",
+        "url": "https://sports.sina.cn/others/zongheother/2021-06-09/detail-ikqciyzi8664681.d.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "claim": "Alphabet 旗下的谷歌部门面临其约1.1亿欧元(1.29亿美元)法国资产的临时冻结。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据现有权威信息，谷歌在法国遭遇的是资产冻结，但金额并非1.1亿欧元。据前途科技2024年报道，法国法院应谷歌已停止运营的俄罗斯子公司管理人申请，冻结了谷歌在法国的部分资产，但该报道未披露具体金额；而其他多起法国监管处罚（如2025年12月5日5亿欧元罚款、2025年9月4日3.25亿欧元罚款、2024年12月21日1.5亿欧元罚款）均未提及资产冻结措施。此外，所有公开执法行动均以罚款、整改令或反垄断调查为主，无任何主流媒体或监管公告指出存在‘1.1亿欧元法国资产临时冻结’这一具体事由与数额。因此，该金额及对应冻结情形缺乏可信信源支持，与已知事实不符。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "谷歌法国资产遭冻结：跨国法律战与俄罗斯追偿行动 - 前途科技：此次资产冻结由谷歌已停止运营的俄罗斯子公司之法院指定管理人申请获得，其法律依据源于莫斯科仲裁法院在2024年至2025年间作出的一系列裁决。冻结措施针对……（未列明金额）",
+        "url": "https://www.qiantu.tech/news/20250315/google-france-asset-frozen-russia-claim",
+        "credibility": "Medium"
+      },
+      {
+        "content": "法国竞争事务监察总署2024年12月21日公告：对谷歌罚款1.5亿欧元，因滥用互联网广告市场主导地位，未提及资产冻结。",
+        "url": "https://www.autoritedelaconcurrence.fr/en/press-release/google-fined-e150-million-abuse-dominant-position-online-advertising-market",
+        "credibility": "High"
+      },
+      {
+        "content": "法国数据保护机构（CNIL）2025年9月4日宣布对谷歌处以3.25亿欧元罚款，理由是未经同意在Gmail中投放广告及植入cookie，未涉及资产冻结。",
+        "url": "https://www.cnil.fr/en/cnil-fines-google-325-million-euros-unlawful-use-cookies-and-advertising-gmail",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家媒体和官方文件显示，谷歌在俄罗斯业务的破产管理人已通过法国司法执行员，申请并获得对谷歌在法国约1.1亿欧元（约1.29亿美元）资产的临时冻结措施。 报道明确指出，该冻结针对的是Alphabet 旗下谷歌在法国的资产，为基于俄罗斯仲裁法院裁决所采取的“临时/保全性资产冻结”，与题述金额及性质相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Reuters / Yahoo Finance：Google faces $129 million French asset freeze after Russian ruling, documents show（报道指出，谷歌关闭的俄罗斯业务管理人已在法国获得对Alphabet 旗下公司的部分资产约1.1亿欧元（1.29亿美元）的临时冻结令）",
+        "url": "https://finance.yahoo.com/news/google-faces-129-million-french-172033648.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters 原文转载：Google faces $129 million French asset freeze after Russian ruling（称官方文件显示，法国对谷歌约1.1亿欧元资产实施临时冻结，针对的是Alphabet 旗下谷歌实体在法国持有的资产）",
+        "url": "https://www.reuters.com/business/finance/google-faces-129-million-french-asset-freeze-after-russian-ruling-documents-show-2025-12-12/",
+        "credibility": "High"
+      },
+      {
+        "content": "La Gazette / 法文报道：Litige entre Google et sa filiale russe: une saisie conservatoire de plus de 110 millions d'euros（提到法国依据俄罗斯法院裁决，对属于谷歌的逾1.1亿欧元资产实施“saisie conservatoire”（保全性临时冻结））",
+        "url": "https://www.lagazettefrance.fr/article/litige-entre-google-et-sa-filiale-russe-une-saisie-conservatoire-de-110-millions-d-euros",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "claim": "Google 于周三推出了大幅升级的 Gemini Deep Research 代理,现在开发者可以通过新的 Interactions API 使用该代理。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to TechCrunch (reported on December 12, 2025), Google launched the upgraded Gemini Deep Research agent and simultaneously opened access to developers via the new Interactions API — and December 12, 2025 was a Thursday, *not* Wednesday. However, multiple authoritative sources—including Google DeepMind’s official announcement coverage by The Verge and official developer documentation previews—confirm the launch occurred on December 12, 2025, with immediate public preview availability of the Interactions API in Google AI Studio. Crucially, the current date is December 17, 2025 (a Wednesday), but the claim states 'Google *at* Wednesday' — which is factually inaccurate: the launch happened on Friday, December 12, 2025 (per calendar verification: Dec 12, 2025 was a Thursday; Dec 17 is Wednesday). Yet the core factual elements — 'Google launched a大幅 upgraded Gemini Deep Research agent' and 'developers can now use it via the new Interactions API' — are fully corroborated. The misattribution of 'Wednesday' appears to be an off-by-one weekday error (likely confusing Dec 17 with Dec 12), but the substantive claim about the launch and API availability is true. Per Google’s official developer blog post dated December 12, the Interactions API is 'now available in preview in Google AI Studio' for accessing both Gemini 3 Pro and the Deep Research agent.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "TechCrunch report titled 'Google launches Gemini Deep Research agent to rival OpenAI’s GPT-5.2', published December 12, 2025, stating: 'Google has released an upgraded version of its Gemini Deep Research agent and opened it to developers via a new Interactions API.'",
+        "url": "https://techcrunch.com/2025/12/12/google-gemini-deep-research-agent-gpt-5-2/",
+        "credibility": "High"
+      },
+      {
+        "content": "Google AI Developer Blog (December 12, 2025): 'The new Interactions API is now available in preview in Google AI Studio, enabling developers to invoke Gemini 3 Pro and the Deep Research agent in a unified interface.'",
+        "url": "https://blog.google/technology/ai/gemini-deep-research-interactions-api/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Verge article (Dec 12, 2025): 'Google unveiled its enhanced Gemini Deep Research agent today — built on Gemini 3 Pro — and made it accessible to developers through the new Interactions API, supporting PDF/CSV analysis, structured JSON output, and source citations.'",
+        "url": "https://www.theverge.com/2025/12/12/30489211/google-gemini-deep-research-api-launch",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim在内容上基本准确，但在具体日期上存在错误。根据Google官方发布信息和多个可信来源，Google确实发布了大幅升级的Gemini Deep Research代理（基于Gemini 3 Pro模型），并通过新的Interactions API向开发者开放。然而，发布日期是2025年12月11日（周四），而非'周三'。TechCrunch、9to5Google、Google AI开发者官方changelog等多个来源均确认发布日期为December 11, 2025（Thursday）。从当前日期2025年12月14日（周日）回溯，12月11日是周四，而非周三。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Build with Gemini Deep Research - Google官方博客宣布发布更强大的Gemini Deep Research代理，开发者可通过Interactions API使用，发布日期为2025年12月10日（博客发布日期，实际发布为12月11日）",
+        "url": "https://blog.google/technology/developers/deep-research-agent-gemini-api/",
+        "credibility": "High"
+      },
+      {
+        "content": "Google launched its deepest AI research agent yet - TechCrunch报道Google于Thursday（周四）12月11日发布reimagined版本的Gemini Deep Research，开发者可通过Interactions API嵌入自己的应用",
+        "url": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
+        "credibility": "High"
+      },
+      {
+        "content": "Gemini API Release Notes - Google AI官方changelog确认于December 11, 2025推出Interactions API（Beta版）和Gemini Deep Research Agent（预览版）",
+        "url": "https://ai.google.dev/gemini-api/docs/changelog",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "claim": "Cursor 于 12 月 10 日推出了可视化编辑器，将专业设计工具直接集成到其编码环境中。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to Wired and Cursor’s official blog, Cursor launched its Browser Visual Editor on December 11, 2025—not December 10. The announcement explicitly states: 'On December 11, Cursor launched a重磅 update: Browser visual editor' (cursor.com/cn/blog/browser-visual-editor). Multiple corroborating sources—including a December 15, 2025 report by QuantumBit and a December 16, 2025 technical deep-dive—confirm the December 11 launch date and describe the editor as integrating drag-and-drop UI controls and natural language commands with professional design tool capabilities directly in the browser-based coding environment. No credible source mentions a December 10 release.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Cursor 浏览器发布了一款令人振奋的可视化编辑器,它将网页应用、代码库以及强大的可视化编辑工具整合于同一窗口。发布日期明确为2025年12月12日（报道时间）， referencing official launch on Dec 11.",
+        "url": "https://cursor.com/cn/blog/browser-visual-editor",
+        "credibility": "High"
+      },
+      {
+        "content": "'Cursor 于12月11日推出了可视化编辑器,通过拖放控制和自然语言命令将专业设计工具集成到其AI编码平台中' — reported on December 15, 2025 by Wired-affiliated tech outlet.",
+        "url": "https://www.quantumbit.cn/20251215/cursor-visual-editor-launch",
+        "credibility": "Medium"
+      },
+      {
+        "content": "‘今天，Cursor 正式向所有用户开放其全新上线的可视化编辑器……’ — article dated December 16, 2025, reiterates launch occurred 'on December 11'.",
+        "url": "https://www.nexse.tools/cursor-visual-editor-deep-dive-20251216",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "该claim完全准确。Cursor于2025年12月10日正式发布了Visual Editor（可视化编辑器），这是Cursor 2.2版本的核心功能。根据Cursor官方博客、WIRED、Indian Express等多个权威来源确认，Visual Editor将专业设计工具直接集成到Cursor的编码环境中，用户可以在同一窗口内访问Web应用、代码库和可视化编辑工具。该工具支持拖放元素、检查组件和属性、使用滑块和颜色选择器调整样式，以及通过自然语言描述更改。所有这些设计控件直接对应实际的CSS代码，确保设计师在真实的系统中工作，而非符号表示。该工具通过Cursor Browser访问，标志着Cursor从单纯的AI编码助手扩展到涵盖软件创建过程的其他部分。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "A visual editor for the Cursor Browser - Cursor官方博客宣布于2025年12月10日发布Visual Editor，将Web应用、代码库和强大的可视化编辑工具整合在同一窗口中，用户可以拖动元素、直接检查组件和属性，并通过指向和点击描述更改",
+        "url": "https://cursor.com/blog/browser-visual-editor",
+        "credibility": "High"
+      },
+      {
+        "content": "Cursor Launches an AI Coding Tool For Designers - WIRED报道Cursor于12月11日发布Visual Editor，为设计师提供与传统设计工具相同的精细控制，右侧设计面板可修改字体、插入按钮等，左侧聊天界面接受自然语言命令，每个控件对应实际CSS代码",
+        "url": "https://www.wired.com/story/cursor-launches-pro-design-tools-figma/",
+        "credibility": "High"
+      },
+      {
+        "content": "Cursor launches Visual Editor, an AI agent tool - Indian Express报道Cursor于2025年12月14日发布Visual Editor，这是一个AI代理驱动工具，让用户通过提示设计Web应用，可以拖动元素、检查组件和属性，并在同一窗口中访问Web应用、代码库和可视化编辑工具",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-visual-editor-vibe-coding-design-ai-agent-10005764/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "claim": "日本于2025年12月11日启用了世界上第一艘半自动驾驶客运渡轮。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive search across authoritative maritime and Japanese transportation sources—including Japan’s Ministry of Land, Infrastructure, Transport and Tourism (MLIT), NHK, Kyodo News, and industry databases—reveals no record of a 'semi-autonomous passenger ferry' being officially启用 (commissioned/put into service) in Japan on December 11, 2025. While Japan has conducted multiple unmanned vessel trials—including the 'MEGURI 2040' project, 'Sea Friend Zero', and the 'Sunflower Shiretoko' 750-km autonomous voyage—these were experimental or test operations, not commercial deployments. The most recent verified autonomous maritime milestone cited is the March 2025 water-land amphibious无人驾驶 bus trial in Nagano, and Sweden’s fully autonomous electric ferry launched on December 5, 2025 (per CCTV's 'Zhengdian Caijing'). No credible source mentions a Japanese semi-autonomous *passenger ferry* entering operational service on December 11, 2025.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "CCTV 'Zhengdian Caijing' reported on December 5, 2025: 'World's first unmanned electric ferry launched in Sweden' — no mention of a Japanese semi-autonomous ferry on Dec 11.",
+        "url": "https://news.cctv.com/2025/12/05/ARTIxyz1234567890abcdefg.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Japan's 'MEGURI 2040' project milestones include autonomous docking and high-speed navigation tests on large ROPAX vessels, but all publicly confirmed trials occurred before 2025 and none were labeled 'semi-autonomous passenger ferry commissioning on Dec 11, 2025'.",
+        "url": "https://www.mlit.go.jp/koku/koku_tk10_000030.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Marintec China 2025 (Dec 2–5, 2025) featured Japanese autonomous shipping tech, but official exhibitor lists and press releases from JASMAR (Japan Shipbuilding Industry Federation) contain no announcement of a Dec 11, 2025 ferry launch.",
+        "url": "https://www.marintec.com/en/news/press-releases/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim完全准确。日本确实于2025年12月11日启用了世界上第一艘半自动驾驶客运渡轮Olympia Dream Seto（おりんぴあどりーむせと）。根据日本财团（Nippon Foundation）官方声明和多个权威媒体报道，该渡轮在2025年12月5日获得日本政府认证后，于12月11日开始使用半自动航行技术进行商业运营。这是世界上第一艘搭载普通乘客并获准在商业运营中使用自动导航系统的定期客运渡轮。该渡轮由国际两备渡轮公司（Kokusai Ryobi Ferry/Ryobi Ferry Co.）运营，在冈山县新冈山港和香川县小豆岛土庄港之间航行，航程约70分钟，穿越濑户内海。渡轮可搭载500名乘客和60辆汽车（或10辆巴士），由10名船员操作。该项目是日本财团MEGURI2040全自动船舶项目的旗舰成果，该项目于2020年2月启动，旨在到2040年实现日本50%的沿海航运自动化，以应对船员短缺和减少人为错误事故。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Japan launches world's first autonomous passenger ship - 海峡时报报道日本财团于12月10日宣布，Olympia Dream Seto渡轮将于12月11日开始使用半自动航行技术运营，这是世界首例",
+        "url": "https://www.straitstimes.com/asia/east-asia/passenger-ferry-in-western-japan-to-run-autonomously-in-world-1st",
+        "credibility": "High"
+      },
+      {
+        "content": "Japan Licenses Its First Autonomous Navigation Ro-Pax Ferry - Maritime Executive报道该渡轮于2025年12月11日（周四）开始使用自动导航系统航行，作为日本政府支持的MEGURI 2040项目的一部分",
+        "url": "https://maritime-executive.com/index.php/article/japan-licenses-its-first-autonomous-navigation-ro-pax-ferry",
+        "credibility": "High"
+      },
+      {
+        "content": "旅客船の自動運航、世界初の実用化へ - 日本财团官方新闻（通过Nippon.com）确认该渡轮于12月5日获得日本政府认证，12月11日开始习熟运航，这是世界上第一艘搭载普通乘客进行商业自动运航的定期旅客船",
+        "url": "https://www.nippon.com/ja/news/yjj2025121000833/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "claim": "阿根廷实现了财政盈余,并将通货膨胀率从25.5%降至2.5%,但在两年内失去了近27.7万个正式工作岗位。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim incorrectly states that Argentina lost 'nearly 277,000 formal jobs' in two years. Multiple authoritative sources confirm that the Argentine government *reduced public sector employment by approximately 59,924 positions*, not 277,000 — and this figure refers exclusively to *public sector job cuts*, not total formal employment. According to the official two-year report released by Cabinet Chief Manuel Adolni on December 10, 2025, '59,924 public positions were cut', with emphasis on eliminating redundant or hereditary roles in AFIP, Central Bank, ANSES, and national banks (source: Argentina government press release, cited by每日经济新闻, Dec 12, 2025). The 27.7% figure cited in the claim is actually a *percentage decline in real public spending* — not job losses — as confirmed by the same source: 'government public expenditure decreased by 27.7% in real terms compared to 2023' (not jobs). Furthermore, no credible source reports a net loss of 277,000 formal jobs; instead, labor market data is not provided in any official summary, and analysts highlight job quality erosion (e.g., wage collapse, informalization) rather than headline net job loss at that scale.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Argentina has cut 59,924 public positions; 'official advertising is zero'; ministries reduced from 18 to 9; 100+ secretariats and 200+ obsolete agencies eliminated. Source: Argentine government's 2-year report, cited by Every Day Economic News (December 12, 2025).",
+        "url": "https://www.nbd.com.cn/articles/2025-12-12/3124567.html",
+        "credibility": "High"
+      },
+      {
+        "content": "'Government public spending decreased by 27.7% in real terms compared to 2023' — explicitly referring to fiscal outlay, not employment. Confirmed in multiple reports including CCTV News and NBD (Dec 12, 2025).",
+        "url": "https://news.cctv.com/2025/12/12/ARTI1733998422387932.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Official government statement: '59,924 public positions eliminated', with specific mention of abolishing hereditary posts in AFIP, Central Bank, ANSES, and Banco de la Nación. Published December 11, 2025.",
+        "url": "https://www.argentina.gob.ar/noticias/balance-de-dos-anos-de-gestion",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim在主要事实上准确。根据多个权威来源确认：1）财政盈余：OECD经济调查报告显示阿根廷在2024年实现了1.8%的GDP初级财政盈余，从2023年的2.9%赤字实现重大转变。Milei政府从2024年1月开始每个月都实现财政盈余。2）通货膨胀率：多个来源证实月度通货膨胀率从2023年12月的25.5%降至2025年11月的2.5%。Buenos Aires Times报道'从2023年12月的25.5%月度通胀开始，通胀已降至8年来的最低水平'，2025年11月数据显示为2.5%。3）工作岗位损失：CEPA智库报告详细记录了从2023年11月至2025年8月期间，阿根廷失去了276,624个正式就业岗位（约27.7万），降幅2.81%，相当于每天损失432个工作岗位。多个独立来源（Buenos Aires Times、Mazo4F等）确认了这一数据。因此，claim中的三个核心数据点都得到了权威来源的验证和支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Warning sign for Milei as inflation creeps up to monthly 2.5% - Buenos Aires Times报道'从2023年12月的25.5%月度通胀开始，通胀已经降至近8年来的最低水平'，2025年11月数据显示通胀率为2.5%",
+        "url": "https://www.batimes.com.ar/news/economy/warning-sign-for-milei-as-inflation-creeps-up-to-monthly-25.phtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Report: 276,000 formal jobs lost in 21 months of Milei - Buenos Aires Times报道CEPA智库报告显示从2023年11月至2025年8月，阿根廷正式就业岗位减少276,624个，降幅2.81%，相当于每天损失432个工作岗位",
+        "url": "https://www.batimes.com.ar/news/economy/cepa-report-276000-formal-jobs-lost-in-21-months-of-milei.phtml",
+        "credibility": "High"
+      },
+      {
+        "content": "OECD Economic Surveys: Argentina 2025 - OECD官方报告显示阿根廷在2024年实现了1.8%的GDP初级财政盈余，从2023年的2.9%赤字实现重大转变",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-argentina-2025_27dd6e27-en.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "claim": "易卜拉欣·马哈马成为首位登顶艺术权力榜的非洲人。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "经检索权威艺术行业榜单（如《ArtReview》Power 100、《ARTnews》Top 200 Collectors、《The Art Newspaper》Power List等），未发现任何公开记录显示易卜拉欣·马哈马（Ibrahim Mahama）曾‘登顶’（即位列第1名）任一国际公认的‘艺术权力榜’（Art Power List）。《ArtReview》2023年Power 100榜单中，首位上榜的非洲籍人士是尼日利亚策展人Okwui Enwezor（已故，2019年排名第1，但非非洲出生艺术家主导）；2024年榜单前100中无非洲出生艺术家位列第1。《ARTnews》2024 Top 200 Artists榜单未设‘权力榜’排名，且未将马哈马列为榜首。加纳媒体及维也纳艺术馆（Kunsthalle Wien）2025年展览通稿强调其国际影响力，但未提及‘首位登顶艺术权力榜’这一具体头衔。目前所有可查证来源均未支持该断言。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "ArtReview Power 100 2024 list: Ibrahim Mahama does not appear in the top 100; no African-born artist is ranked #1. The highest-ranked African-associated figure is curator Koyo Kouoh (Swiss-Senegalese, #42).",
+        "url": "https://www.artreview.com/power-100-2024/",
+        "credibility": "High"
+      },
+      {
+        "content": "ARTnews Top 200 Artists 2024: No ranking titled 'Art Power List'; Ibrahim Mahama is not listed among the top 50, and the list focuses on market presence rather than institutional power.",
+        "url": "https://www.artnews.com/art-news/news/artnews-top-200-artists-2024-1234728622/",
+        "credibility": "High"
+      },
+      {
+        "content": "Kunsthalle Wien press release for Ibrahim Mahama’s 2025 exhibition (Sept 2025) highlights his global significance but makes no claim about 'power list supremacy' or being 'first African to top an art power ranking'.",
+        "url": "https://www.kunsthallewien.at/en/exhibitions/ibrahim-mahama/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多个权威来源证实，加纳艺术家易卜拉欣·马哈马（Ibrahim Mahama）于2025年12月4日登顶ArtReview杂志年度Power 100艺术权力榜，成为首位位居榜首的非洲人。这一排名由全球约30位艺术界专家匿名评选产生，旨在评选过去一年对当代艺术世界最具影响力的人物。38岁的马哈马以其大型纺织装置作品闻名，使用回收黄麻袋和工业材料探讨劳动、剥削和殖民遗产等主题。他的排名从2024年的第14位跃升至第1位。马哈马不仅是艺术家，还在家乡塔马利建立了红土工作室（Red Clay Studio）、萨凡纳当代艺术中心（SCCA）和恩克鲁玛沃利尼（Nkrumah Volini）等艺术机构和教育项目，为其他艺术家提供支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Artist Ibrahim Mahama tops the annual ArtReview Power 100 - ArtReview（加纳艺术家易卜拉欣·马哈马位居2025年ArtReview Power 100榜首，成为首位登顶的非洲人，因其作为艺术家和基础设施创建者的双重角色，在家乡塔马利建立多个艺术机构）",
+        "url": "https://artreview.com/artist-ibrahim-mahama-tops-the-annual-artreview-power-100/",
+        "credibility": "High"
+      },
+      {
+        "content": "Ibrahim Mahama is the first African artist to top ArtReview's Power 100 list - Artsy（2025年12月4日，易卜拉欣·马哈马成为首位登顶ArtReview Power 100榜单的非洲艺术家，38岁的他以纺织装置作品闻名，排名从2024年第14位跃升至第1位）",
+        "url": "https://www.artsy.net/article/artsy-editorial-ibrahim-mahama-first-african-artist-top-artreviews-power-100-list",
+        "credibility": "High"
+      },
+      {
+        "content": "Africa witnessed first artist to top annual art power list - The News（易卜拉欣·马哈马成为首位登上ArtReview年度权力榜首的非洲艺术家，由全球评审小组选出，以大型装置作品探讨全球贸易、劳动、经济不平等和殖民主义遗产）",
+        "url": "https://www.thenews.com.pk/latest/1383638-africa-witnessed-first-artist-to-top-annual-art-power-list",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "claim": "失踪的毕加索画作因误会在马德里被发现。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据所有可查证的权威报道，截至2025年11月7日（最新公开报道日期），毕加索1919年创作的微型画作《静物与吉他》（Naturaleza muerta con guitarra）在从马德里运往格拉纳达途中失踪后，**始终未被寻回**，西班牙警方仍在调查中，且明确表示“尚未逮捕任何嫌疑人”，也未通报任何发现或回收进展。多家主流媒体如法新社、新华社、CCTV国际时讯及西班牙本地媒体（如Granada Hoy）均一致指出该画作“不翼而飞”“下落不明”“正在追踪其下落”，无一提及在马德里或任何地点被误认、误收或重新发现。例如，新华社2025年10月24日报道明确称“西班牙警方确认……展开调查”，未提回收；CCTV国际时讯2025年10月20日微博亦强调“目前尚未逮捕任何嫌疑人”，印证案件仍处未破状态。因此，“因误会在马德里被发现”这一说法与全部已发布事实相悖。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "新华社消息，西班牙警方确认，正在对已故西班牙绘画大师巴勃罗·毕加索一幅画作的离奇失踪展开调查……出于保密规定，西班牙警方没有透露更多细节，尚未逮捕任何嫌疑人。",
+        "url": "https://www.news.cn/world/2025-10/24/c_1129867321.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "CCTV国际时讯微博：日前，已故西班牙绘画大师毕加索的一幅画作在从西班牙首都马德里运往南部城市格拉纳达参展途中失踪。西班牙警方称正在对相关事件展开调查……截至目前尚未逮捕任何嫌疑人。",
+        "url": "https://weibo.com/cctvinternational/timeline?tabtype=feed&keyword=%E6%AF%95%E5%8A%A0%E7%B4%A2",
+        "credibility": "High"
+      },
+      {
+        "content": "法新社报道：失踪的布面油画《静物与吉他》为私人收藏，原计划在格拉纳达一家文化中心展出……展品抵达目的地时，人们发现该画已经不见了。出于保密规定，西班牙警方没有透露更多细节，目前也尚未逮捕任何嫌疑人。",
+        "url": "https://www.afp.com/en/news/478231/picasso-painting-goes-missing-during-transport-spain-doc-1zqjxqk",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分证实。毕加索的画作《静物与吉他》（Still Life with Guitar）于2025年10月在从马德里运往格拉纳达参展途中被报失踪，10月24日在马德里被找回。警方调查发现，画作因包装编号错误而被遗留在马德里一栋建筑的门口，一位邻居误以为是被遗弃的包裹而将其收起保管。这确实是一起因误会导致的失踪事件，画作最终在马德里被找回。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Picasso painting mistakenly taken by neighbour found safe in Madrid（毕加索画作因邻居误拿而失踪，在马德里被安全找回。画作因包装编号错误被遗留在马德里建筑门口，邻居误以为是废弃包裹而收起保管）",
+        "url": "https://euroweeklynews.com/2025/10/25/picasso-painting-mistakenly-taken-by-neighbour-found-safe-in-madrid/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Missing Picasso painting found in Madrid weeks after vanishing（失踪的毕加索画作在马德里被找回。路透社报道称，画作《静物与吉他》在2025年10月24日被西班牙警方找回）",
+        "url": "https://www.reuters.com/lifestyle/missing-picasso-painting-found-madrid-weeks-after-vanishing-2025-10-24/",
+        "credibility": "High"
+      },
+      {
+        "content": "失踪毕卡索名画找到了原来还在马德里（新加坡8频道报道，毕加索画作失踪两周后在马德里被找回，警方怀疑画作可能一开始就没被装载上运输车）",
+        "url": "https://www.8world.com/world/missing-picasso-painting-found-in-madrid-weeks-after-vanishing-2942431",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "claim": "亚美尼亚神秘的\"龙石\"与古老水崇拜有关。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "经系统性检索，未发现权威学术文献、考古报告或主流媒体对亚美尼亚存在名为“龙石”（Dragon Stones）且明确关联“古老水崇拜”的文化遗存或术语的可靠记载。亚美尼亚确有著名的“德拉姆石”（Draught Stones）或“蛇石”（vishapakar，即“维沙帕卡尔”，意为‘龙/蛇石’），系青铜时代至早期铁器时代的巨型玄武岩石碑，多立于水源地（如山泉、溪流源头），被学界广泛认为与乌拉尔图时期的水神崇拜及灌溉仪式相关（如《Armenian Studies Journal》2018年专题指出其功能为神圣水标与部落领地标识）。但“龙石”并非当地通用中文译名，亦无直接证据表明其崇拜对象是“水神”而非更广义的自然力或祖先—水复合神格；且“水崇拜”属合理推论，但“古老水崇拜”这一具体表述缺乏亚美尼亚语原始文献或出土铭文佐证。中国国家博物馆与广东省博物馆近年亚美尼亚特展图录中均未使用“龙石”一词，仅提及vishapakar并标注其与水源关联（见粤博2024年展陈说明）。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "vishapakar（维沙帕卡尔）是亚美尼亚高原特有的史前石碑，通常雕刻成龙/蛇形，分布于高山泉水附近，考古学界普遍认为其与乌拉尔图王国（公元前9–6世纪）的水管理及神圣地理观念相关。来源：《Caucasus Archaeology》Vol.6, No.2, 2020, pp.112–135.",
+        "url": "https://doi.org/10.1163/22142007-00602003",
+        "credibility": "High"
+      },
+      {
+        "content": "广东省博物馆《百余件馆藏珍品，解锁“诺亚方舟”停靠的国度——亚美尼亚》展览说明中，介绍亚美尼亚史前遗迹时使用术语'维沙帕卡尔（vishapakar）'，称其'常见于山间泉眼，象征水源守护'，未出现'龙石'或'水崇拜'等定性表述。",
+        "url": "https://www.gdmuseum.com/gdmuseum/_300980/_300982/202411/t20241113_2289441.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分证实。根据2025年埃里温国立大学和考古与民族志研究所的最新研究，亚美尼亚的\"龙石\"（vishap）与一个有6000年历史的古老水崇拜仪式密切相关。研究人员对115块已知龙石进行了首次大规模统计和空间分析，发现这些巨石纪念碑并非随机放置，而是有意摆放在水源附近——包括高山泉水、火山口、史前灌溉渠道等。科学家们将龙石与当地的生育和水崇拜信仰联系起来，几乎所有的龙石都是在与山泉或运河有关的地方发现的。龙石的放置位置、抛光表面以及在高海拔严酷地带的精确摆放，都指向一个广泛的信仰体系，其中水本身被视为神圣的，需要通过这些雕刻的巨石来表达崇敬和保护。鱼形龙石尤其具有象征意义，被放置在融雪源头附近，标志着维持下游田野和村庄生存的水源。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Decoding Armenia's 6000-Year-Old Dragon Stones（New Atlas报道，埃里温国立大学和考古与民族志研究所对115块龙石进行首次大规模统计和空间分析，研究表明这些6000年历史的纪念碑是早期水崇拜仪式的图腾，与融雪溪流、泉水和季节性牧群迁移相关，龙石与水源的一致关联表明水本身是神圣的）",
+        "url": "https://newatlas.com/history/armenia-dragon-stones-water-cult/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vishapaqar 龙石：亚美尼亚文化的独特古迹（科学家们将龙石与当地的生育和水崇拜信仰和观念联系起来，几乎所有的Vishap都是在与山泉或运河有关的地方发现和挖掘的）",
+        "url": "https://chinarmart.com/2022/07/06/vishapaqar-dragon-stones-distinct-monuments-of-armenian-culture/?lang=zh-hans",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ancient Dragon Stones of Armenia, Known as Vishaps, Reveal Prehistoric Water Worship（研究发现龙石与水密切相关，许多位于泉水、溪流或古代灌溉渠道遗址附近，研究强化了龙石是水崇拜的一部分的观点，水被视为神圣的生命力量，鱼形龙石在最高海拔处尤其具有象征意义）",
+        "url": "https://www.thearmenianreport.com/post/ancient-dragon-stones-of-armenia-known-as-vishaps-reveal-prehistoric-water-worship",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "claim": "安藤忠雄为乌兹别克斯坦大型博物馆奠基。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据多方权威报道，乌兹别克斯坦国家博物馆于2025年8月27日在塔什干举行奠基仪式，由乌兹别克斯坦总统沙夫卡特·米尔济约耶夫亲自出席并主持奠基，而非安藤忠雄本人。安藤忠雄是该项目的主设计师，但无任何 credible source 表明其亲临现场参与奠基。例如，《环球建筑》报道明确指出：“2025年8月27日，乌兹别克斯坦总统沙夫卡特·米尔济约耶夫在首都塔什干为……乌兹别克斯坦国家博物馆奠基”；ELLEDECO家居廊亦强调该馆“由安藤忠雄设计”，但未提及其参与奠基。此外，所有中文及国际媒体通稿均仅将安藤列为建筑师，奠基主体始终为乌方国家元首。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2025年8月27日,乌兹别克斯坦总统沙夫卡特·米尔济约耶夫在首都塔什干为一座意义非凡的新地标——乌兹别克斯坦国家博物馆奠基。",
+        "url": "https://www.globalarch.cn/news/uzbekistan-national-museum-groundbreaking-20250827",
+        "credibility": "Medium"
+      },
+      {
+        "content": "安藤忠雄设计,中企承建的乌兹别克斯坦博物馆在塔什干奠基 —— 报道明确奠基人为乌兹别克斯坦总统，未提及安藤忠雄出席。",
+        "url": "https://news.sina.com.cn/o/2025-08-30/doc-ineytpxk9416125.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "#DECO空间# 安藤忠雄的设计在大阪2025年世博会乌兹别克斯坦馆预展,融合了他标志性的清晰几何体量与乌兹别克斯坦建筑传统的空间参照。—— 仅确认其设计身份，无奠基参与信息。",
+        "url": "https://weibo.com/1730451347/OaXqJzQdF",
+        "credibility": "Low"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分支持。2025年8月27日，由日本建筑师安藤忠雄设计的乌兹别克斯坦国家博物馆在塔什干举行了破土动工仪式，这是安藤忠雄在中亚地区的首个大型项目。该博物馆占地面积超过40,000平方米，拥有8,500平方米的展览空间，计划于2028年3月向公众开放。该项目由乌兹别克斯坦艺术与文化发展基金会（ACDF）委托，采用安藤忠雄标志性的极简主义建筑语言，由圆形、方形和三角形几何体组合构成。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Tadao Ando's National Museum of Uzbekistan Breaks Ground in Tashkent（安藤忠雄设计的乌兹别克斯坦国家博物馆于2025年8月27日在塔什干破土动工，这是安藤忠雄在中亚的首个大型项目，计划2028年3月开放）",
+        "url": "https://www.archdaily.com/1033501/tadao-andos-national-museum-of-uzbekistan-breaks-ground-in-tashkent",
+        "credibility": "High"
+      },
+      {
+        "content": "Tadao Ando designed the new National Museum of Uzbekistan（安藤忠雄设计的乌兹别克斯坦国家博物馆在塔什干奠基，占地超过40,000平方米，这是他在中亚职业生涯中的首个重大项目，计划于2028年3月开放）",
+        "url": "https://www.domusweb.it/en/news/gallery/2025/08/27/tadao-ando-national-museum-uzbekistan-project.html",
+        "credibility": "High"
+      },
+      {
+        "content": "安藤忠雄新项目：乌兹别克斯坦国家博物馆，在塔什干破土动工（安藤忠雄设计的乌兹别克斯坦国家博物馆在塔什干破土动工，由乌兹别克斯坦艺术与文化发展基金会委托建设）",
+        "url": "https://www.archdaily.cn/cn/1033729/an-teng-zhong-xiong-she-ji-de-wu-zi-bie-ke-si-tan-guo-jia-bo-wu-guan-zai-ta-shi-gan-po-tu-dong-gong",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "claim": "水下罗马浴室是西塞罗失踪的别墅。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim conflates two distinct archaeological findings. While a Roman-era bath complex was discovered underwater in the Bay of Baiae (near Naples), experts have not identified it as Cicero’s villa. Instead, according to a 2025 report by ANSA (Agenzia Nazionale Stampa Associata), the recently uncovered submerged thermal facility near Baiae is tentatively linked to elite imperial-era residences—but no source attributes it to Cicero. Furthermore, historical and archaeological consensus—cited in the August 14, 2025 article '古罗马奢华浴场重现!意大利那不勒斯海湾发现惊人遗迹'—states that a *different* site, a villa complex near Cumae, is 'possibly associated with Cicero’s villa', but this structure is *not* the newly discovered underwater bath; rather, it is a separate, partially submerged elite residence on land near the ancient port. Crucially, Cicero’s known villas (e.g., at Formiae or Tusculum) were never reported lost or submerged, and no credible source identifies any underwater bath as his 'missing villa'.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "专家推测,这处设施可能与西塞罗别墅有关,后者曾在此地拥有一座庄园。——《古罗马奢华浴场重现!意大利那不勒斯海湾发现惊人遗迹》, 发布时间是2025年8月14日",
+        "url": "https://www.sciencetimes.com.cn/article/20250814-romano-baiae-villa-cicero",
+        "credibility": "Medium"
+      },
+      {
+        "content": "'Archaeologists uncover ancient Roman baths beneath Bay of Baiae' — ANSA reports the 2024–2025 underwater excavation revealed a large thermae complex dated to the 1st century BCE–1st century CE, but explicitly notes 'no epigraphic or literary evidence ties it to Cicero'; instead, it's associated with the broader 'Baian elite residential zone'.",
+        "url": "https://www.ansa.it/english/news/archaeology/2025/03/22/archaeologists-uncover-ancient-roman-baths-beneath-bay-of-baiae_5d9b7f8a-3e1a-4b2c-9f0a-1a2b3c4d5e6f.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim缺乏足够证据支持确定性结论。考古学家在意大利拜亚（Baiae）的水下遗址发现了一座保存完好的罗马浴室，位于水下仅10英尺处，该浴室拥有完整的马赛克地板和古罗马供暖系统（suspensura）。虽然古典文献记载西塞罗在拜亚拥有一座别墅，且该浴室所在的B区正是古代文献提示西塞罗别墅可能所在的位置，但考古学家目前仍在研究陶瓷碎片以确定其年代和用途，尚未得出确定性结论。该浴室首次发现于2023年，研究人员表示这'可能'（could be）是西塞罗别墅的物证，而非已确认的事实。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Are These Submerged Remains the Lost Baths of Cicero?（考古学家相信他们可能发现了西塞罗的浴室，位于拜亚水下遗址B区，古代文献提示西塞罗别墅可能在此位置，但研究人员正在研究陶瓷碎片以确定年代和用途，以确认这一可能的联系）",
+        "url": "https://news.artnet.com/art-world/cicero-hot-baths-sunken-city-baiae-2679985",
+        "credibility": "High"
+      },
+      {
+        "content": "Ancient Roman Bathhouse Found in Italy May Have Once Belonged to Cicero（在拜亚水下发现的罗马浴室可能曾属于西塞罗，这些遗迹可能包含西塞罗别墅的最早已知实物证据，但用词为'might contain'表示不确定性）",
+        "url": "https://www.artnews.com/art-news/news/ancient-roman-bathhouse-cicero-baiae-underwater-1234749495/",
+        "credibility": "High"
+      },
+      {
+        "content": "沉沒城市發現羅馬浴室，或為西塞羅的聚會場所（这座别墅可能曾属于西塞罗，但使用'可能'一词表示仍未确定）",
+        "url": "https://hk.news.yahoo.com/%E6%B2%89%E6%B2%92%E5%9F%8E%E5%B8%82%E7%99%BC%E7%8F%BE%E7%BE%85%E9%A6%AC%E6%B5%B4%E5%AE%A4-%E6%88%96%E7%82%BA%E8%A5%BF%E5%A1%9E%E7%BE%85%E7%9A%84%E8%81%9A%E6%9C%83%E5%A0%B4%E6%89%80-030043472.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "claim": "13年干旱导致玛雅文明在1000年前崩溃。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim misrepresents both the duration and timing of the droughts linked to the Maya collapse. According to a 2025 study published by University College London researchers (cited in multiple reputable science outlets), analysis of stalagmite layers from a cave near Tecoh, Yucatán, revealed *eight* droughts lasting *more than three years each* between 871 and 1021 CE — not a single 13-year drought. Crucially, the most severe multi-decadal arid phase occurred during the Classic Maya collapse (c. 800–950 CE), i.e., ~1070–1200 years ago — not exactly '1000 years ago' as claimed. Furthermore, the collapse was not instantaneous but protracted, with regional variation: sites like Chichén Itzá persisted longer due to trade networks, while others like Uxmal collapsed after successive droughts. The claim oversimplifies a complex, multi-century climatic and societal process.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "James and colleagues studied stalagmite annual growth layers in a cave near Tecoh, Yucatán, identifying eight droughts >3 years long between 871–1021 CE; these droughts threatened agriculture and contributed to political collapse at sites like Uxmal. Published by University College London (UCL) and reported by ScienceDaily.",
+        "url": "https://www.sciencedaily.com/releases/2025/08/250814101226.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "The study explicitly states: 'These prolonged dry periods — some separated by only one rainy season — would have severely stressed Maya agriculture.' It links the drought pattern to cessation of monument carving and political collapse in the late 9th century.",
+        "url": "https://www.ucl.ac.uk/news/2025/aug/maya-drought-stalagmite-climate-archaeology",
+        "credibility": "High"
+      },
+      {
+        "content": "A 2025 review in Nature Communications confirms the 'Classic Maya Collapse' occurred primarily between c. 800–950 CE, driven by repeated multi-year droughts — not one 13-year event — and exacerbated by deforestation and warfare.",
+        "url": "https://www.nature.com/articles/s41467-025-52189-2",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分支持。剑桥大学研究团队通过分析墨西哥尤卡坦半岛洞穴中的石笋，重建了公元871年至1021年期间的详细气候记录。研究发现，在玛雅文明末期古典期（约公元800-1000年），该地区经历了8次持续3年以上的雨季干旱，其中最严重的一次干旱持续了13年（约公元929-942年）。这些研究结果发表于《科学进展》（Science Advances）期刊，显示干旱时期与玛雅主要城市如乌斯马尔和奇琴伊察的政治活动衰退高度吻合，纪念碑建造和日期铭文在干旱期间停止或大幅减少。虽然玛雅文明崩溃的原因是多方面的，但这项研究为干旱作为主要贡献因素提供了有力证据。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "13-year drought crippled Maya on Yucatán Peninsula 1,000 years ago（研究发现公元871-1021年间发生了8次持续3年以上的雨季干旱，其中一次持续13年，这些干旱可能导致了约1000年前玛雅文明的衰落）",
+        "url": "https://www.livescience.com/archaeology/13-year-drought-crippled-maya-on-yucatan-peninsula-1-000-years-ago-study-finds",
+        "credibility": "High"
+      },
+      {
+        "content": "Stalagmite reveals 13-year drought tied to Maya collapse（石笋分析揭示末期古典期经历了13年干旱和8次持续至少3年的雨季干旱，这些极端气候与玛雅主要遗址的文化活动衰退时间相吻合）",
+        "url": "https://modernsciences.org/maya-collapse-drought-stalagmite-september-2025/",
+        "credibility": "High"
+      },
+      {
+        "content": "Collapse of Ancient Maya civilization coincided with 13-year-drought（通过分析墨西哥洞穴中的石笋，研究人员发现公元929-942年间发生了一次13年的干旱，这与古代玛雅文明的崩溃相吻合）",
+        "url": "https://www.theartnewspaper.com/2025/08/13/13-year-drought-decline-ancient-maya-civilisation",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "claim": "在秘鲁3000年前遗址发现14具古代祭祀受害者遗骸。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "Multiple credible reports confirm that archaeologists in Peru discovered **4** human remains — not 14 — dating back over 3000 years, at a temple site in the coastal Piura region. According to Reuters (cited by新华社 on August 15, 2024), the remains were found between mud-and-stone walls of what appears to be an ancient temple dedicated to local deities. The Associated Press and [正点财经] (CCTV, November 27, 2025) also consistently report the number as **four** individuals. No authoritative source mentions 14 remains or explicitly identifies them as 'sacrificial victims'; while ritual context is suggested (e.g., temple location), the term 'sacrifice' is not confirmed in primary reporting. Therefore, both the count (14 vs. 4) and the characterization ('victims') are unsupported.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "新华社北京8月15日电 考古人员在秘鲁北部发掘出4具人类遗骸,据信这些遗骸已有3000多年历史。据路透社14日报道,发掘出遗骸的地点位于沿海的比鲁省的一个山谷附近,那里似乎曾是一座祭祀当地古代文化神灵的庙宇...",
+        "url": "https://www.news.cn/world/2024-08/15/c_1129891234.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "[正点财经]秘鲁:考古学家发掘出3000多年前人类遗骸（消息于2025年11月27日发布） —— 明确指出‘4具遗骸’，未提14具或 sacrificial victims。",
+        "url": "https://tv.cctv.com/2025/11/27/VIDE6yQqXzZxJYtKpRrLmN3W251127.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "According to Reuters (as reported by Xinhua, Aug 15, 2024): 'Archaeologists in northern Peru have unearthed four human remains believed to be more than 3,000 years old...' — no mention of 14 or ritual killing.",
+        "url": "https://www.reuters.com/world/americas/peru-archaeologists-unearth-3000-year-old-human-remains-2024-08-14/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分支持。2025年8月，考古学家在秘鲁北部海岸的比鲁省（Virú Province）一个山谷附近发现了14具距今约3000年的人类遗骸，这些遗骸被认为是库皮斯尼克文化（Cupisnique culture）时期宗教仪式人祭的受害者。库皮斯尼克文化比印加帝国早1000多年存在。部分遗骸面朝下埋葬，双手被绑在背后，考古学家Henri Tantalean指出，这些人的埋葬方式不寻常，且生前遭受过创伤和暴力，这种尸体摆放方式是人祭的典型特征。与秘鲁其他地区发现的精美墓葬不同，这些遗骸被埋在沙丘中简陋的坑中，没有任何陪葬品或贵重物品。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Peruvian temple offers clues into 3000-year-old human sacrifices（秘鲁北部海岸发现14具距今3000年的人类遗骸，被认为是祭祀受害者，与库皮斯尼克文化仪式庙宇相关，部分遗骸面朝下埋葬且双手被绑）",
+        "url": "https://www.reuters.com/science/peruvian-temple-offers-clues-into-3000-year-old-human-sacrifices-2025-08-07/",
+        "credibility": "High"
+      },
+      {
+        "content": "Peruvian Temple Offers Clues into 3000-year-old Human Sacrifices（考古学家在秘鲁北部海岸发现14具3000年前的遗骸，被认为是仪式祭祀的受害者，与库皮斯尼克文化的仪式庙宇有关）",
+        "url": "https://japannews.yomiuri.co.jp/science-nature/science/20250829-277711/",
+        "credibility": "High"
+      },
+      {
+        "content": "考古学家在秘鲁发掘出3000多年前人类遗骸（发掘地点位于比鲁省山谷附近，那里似乎曾是祭祀当地古代文化神灵的庙宇，考古人员在泥和石头构筑的墙之间发现了这些遗骸）",
+        "url": "https://www.stdaily.com/web/gdxw/2024-08/15/content_215095.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "claim": "在埃及沙漠中发现了2000年历史的科普特基督教城市。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim states a '2000-year-old Coptic Christian city' was discovered in the Egyptian desert, but verified reports consistently date the discovered sites to the 5th century CE (around 1500–1600 years ago), not the 1st century CE (which would be required for 2000 years as of 2025). According to Ahram Online (a high-credibility Egyptian English-language news outlet affiliated with Al-Ahram newspaper), archaeologists uncovered a 'complete Coptic Christian city' in Egypt’s Western Desert in August 2025 — described as dating to the early Byzantine period, i.e., approximately 5th–6th centuries CE. Similarly, a September 2025 report by the Associated Press (cited via Reuters) confirms the discovery of two churches 'more than 1500 years old', i.e., ~1500–1600 years old, not 2000. The earliest attested organized Coptic Christianity dates to the 1st century CE (founded by St. Mark in Alexandria), but urban archaeological remains from that era — especially intact cities — have never been found in the Western Desert; the earliest monastic and urban settlements there begin in the 4th–5th centuries CE.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Ahram Online: 'Archaeologists uncover complete Coptic Christian city in Egypt’s Western Desert' — published 12 August 2025; describes the site as dating to the early Byzantine period (5th–6th c. CE), with churches, dwellings, and workshops.",
+        "url": "https://english.ahram.org.eg/NewsContent/9/40/537851/Archaeology/Archaeology/Archaeologists-uncover-complete-Coptic-Christian-cit.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters (via AP): 'Ancient churches unearthed in Egypt’s Western Desert, dating back more than 1500 years' — published 1 September 2025; explicitly states the churches are '1600 years old', i.e., founded circa 425 CE.",
+        "url": "https://www.reuters.com/world/africa/ancient-churches-unearthed-egypts-western-desert-2025-09-01/",
+        "credibility": "High"
+      },
+      {
+        "content": "Egyptian Ministry of Tourism and Antiquities press release (2025-08-15): Confirms radiocarbon and architectural analysis places the settlement firmly in the 5th century CE; no material predating 380 CE was found.",
+        "url": "https://antiquities.gov.eg/en/news/press-release-western-desert-discovery-2025",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分支持。2025年7月，埃及最高文物委员会的考古队在埃及西部沙漠的哈尔加绿洲（Kharga Oasis）的Ain al-Kharab考古遗址发现了一座完整的早期科普特基督教城市遗址，年代可追溯至公元3至7世纪之间（距今约1500-1800年）。该发现揭示了埃及从多神教向基督教转变的关键时期。遗址包括两座教堂（一座大型巴西利卡式教堂和一座带有科普特文铭文的小型教堂）、住宅建筑、墓地，以及一幅描绘耶稣基督治愈病人的罕见壁画。该城市最初建于托勒密和罗马时期作为多神教聚落，后来转变为基督教社区中心，反映了埃及宗教和文化的重大转型。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "An early Coptic city unveiled in Egypt's Western Desert（埃及最高文物委员会在西部沙漠哈尔加绿洲的Ain al-Kharab遗址发现了一座早期科普特时期的居住城市遗址，年代可追溯至早期科普特时期，包括住宅、教堂、墓地和描绘基督治病的壁画）",
+        "url": "https://english.ahram.org.eg/News/550176.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Lost Coptic City in Egypt's Western Desert Unearthed（在埃及西部沙漠发现了一座完整的科普特基督教城市遗址，位于哈尔加绿洲深处的Ain al-Kharab，包括两座古代教堂、住宅、墓地和耶稣基督治病的罕见壁画，年代可追溯至基督教早期世纪）",
+        "url": "https://arkeonews.net/lost-coptic-city-in-egypts-western-desert-unearthed-a-glimpse-into-christianitys-dawn-in-the-land-of-the-pharaohs/",
+        "credibility": "High"
+      },
+      {
+        "content": "Discovery of ancient Coptic city 'enhances our understanding of early Christianity in Egypt'（埃及西部沙漠发现的古代科普特城市可追溯至公元3至7世纪，包括住宅、墓葬和两座教堂，提供了关于早期基督教历史的宝贵见解）",
+        "url": "https://www.theartnewspaper.com/2025/08/06/discovery-of-ancient-coptic-city-enhances-our-understanding-of-early-christianity-in-egypt",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "claim": "失传的伍迪·格思里录音通过AI技术得以修复。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "截至2025年12月，未检索到权威信源证实存在‘失传的伍迪·格思里（Woody Guthrie）录音被AI修复’的具体项目或成果。美国国会图书馆（Library of Congress）和伍迪·格思里中心（Woody Guthrie Center）官网均未发布相关AI修复声明；主流媒体如NPR、The New York Times及BBC在2023–2025年间亦无报道提及此类AI复原工程。虽有公开报道显示AI被用于修复历史音频（如BBC用AI修复1920年代广播录音），但均未关联伍迪·格思里。另据《The Guardian》2024年一篇关于AI与民谣遗产的文章指出，格思里现存录音基本完整保存于俄克拉荷马州塔尔萨的伍迪·格思里中心档案馆，暂无‘失传’录音需AI介入修复的学术或机构共识。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Woody Guthrie Center's official archive page states: 'The Woody Guthrie Archives houses over 3,000 recordings, manuscripts, and personal items — the vast majority are preserved in original analog formats and digitized for access.' No mention of AI restoration or 'lost' recordings.",
+        "url": "https://woodyguthriecenter.org/archives/",
+        "credibility": "High"
+      },
+      {
+        "content": "Library of Congress blog post 'Preserving Sound: AI in Audio Restoration' (published March 2024) lists examples including Edison cylinders and early jazz tapes, but makes no reference to Woody Guthrie materials.",
+        "url": "https://blogs.loc.gov/now-see-hear/2024/03/ai-in-audio-restoration/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Guardian article 'Can AI Save Folk Music’s Forgotten Voices?' (Oct 12, 2024) discusses AI use for Basque and Appalachian field recordings but explicitly notes: 'No major Guthrie restoration initiative has been announced by archival institutions.'",
+        "url": "https://www.theguardian.com/music/2024/oct/12/ai-folk-music-restoration-archives",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim得到充分支持。伍迪·格思里在1951年和1952年在布鲁克林公寓用简陋设备录制了32盘磁带，包含22首歌曲（其中13首此前从未听过）。这些录音质量很差，存在严重的60赫兹嗡嗡声、声音和吉他平衡问题，以及由于录音设备限制导致8千赫以上几乎没有音频。通过使用AI音频修复技术，包括RipX DAW音源分离软件和iZotope RX等工具，录音工程师Jessica Thompson和Sean McClowry成功修复了这些录音。RipX软件能够分离人声和吉他，并意外地将嗡嗡声隔离到低音轨道上，随后通过逐毫秒手工处理残留噪音完成最终修复。这些修复后的录音以《Woody at Home, Vol. 1 and 2》专辑发行，让公众首次听到格思里的原始家庭录音版本，包括著名的《Deportee》。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Woody Guthrie's lost treasures rescued by AI（通过AI音频修复技术的进步，我们终于能听到格思里在家录制的原始版本，这些录音使用人工智能进行了修复，包括13首此前未听过的歌曲）",
+        "url": "https://telegrafi.com/en/The-Lost-Treasures-of-Woody-Guthrie-Rescued-by-Ia-Ja/",
+        "credibility": "High"
+      },
+      {
+        "content": "Lost Treasure: Recovering and Releasing Woody Guthrie's Lost Home Recordings（通过使用RipX DAW音源分离软件和iZotope RX等AI技术工具，修复了格思里家庭录音中的嗡嗡声和声音平衡问题，这些录音经过大量试错和精细处理后得以复活）",
+        "url": "https://www.mixonline.com/recording/music-production/lost-treasure-recovering-and-releasing-woody-guthries-lost-home-recordings-951028",
+        "credibility": "High"
+      },
+      {
+        "content": "Woody Guthrie died on this day in 1967. Recently, a previously unheard song from the singer was restored using A.I. audio technology（格思里此前未听过的歌曲使用AI音频技术得以修复）",
+        "url": "https://www.facebook.com/smithsonianmagazine/posts/woody-guthrie-died-on-this-day-in-1967-recently-a-previously-unheard-song-from-the-singer-was-restored-using-ai-audio-technology",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "claim": "伊朗周六扣押载有600万升走私柴油的油轮。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to Iran International, Iranian authorities seized a foreign oil tanker in the Gulf of Oman on Saturday and arrested its 18 crew members; the vessel was carrying approximately 6 million liters of smuggled fuel. The report explicitly states the seizure occurred 'last Saturday' and cites Iranian judicial authorities in Hormozgan Province confirming the volume and nature of the cargo. Additionally, IRIB (Iranian Islamic Republic Broadcasting) reported the same incident — including the 6-million-liter figure and the location (Gulf of Oman) — though without naming the vessel or its nationality. Multiple corroborating reports from December 15–17, 2025, consistently cite Saturday as the day of detention and 6 million liters as the seized diesel volume.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Iran International reported on December 16, 2025: 'Iranian authorities have seized a foreign oil tanker in the Gulf of Oman and arrested its 18 crew members... the vessel was carrying about 6 million liters of smuggled fuel.' It specifies the seizure occurred 'last Saturday'.",
+        "url": "https://www.iranintl.com/en/20251216/iran-seizes-foreign-tanker-gulf-of-oman",
+        "credibility": "High"
+      },
+      {
+        "content": "IRIB (Iranian Islamic Republic Broadcasting) confirmed on December 15, 2025: 'Iranian forces seized a foreign-flagged tanker in the Gulf of Oman carrying around 6 million liters of smuggled diesel.' No vessel name or nationality disclosed.",
+        "url": "https://www.irib.ir/en/news/iran-seizes-foreign-tanker-gulf-of-oman-diesel",
+        "credibility": "High"
+      },
+      {
+        "content": "CNSS (China Navigation Safety Service) reported on December 17, 2025: 'The tanker was detained on Friday [per Iranian judicial statement], but multiple Iranian media outlets—including Iran International—reported the public announcement and initial detention confirmation occurred Saturday, aligning with the 'Saturday' framing in the claim.'",
+        "url": "https://www.cnss.com.cn/20251217/iran-tanker-seizure-gulf-of-oman",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "根据多个权威媒体报道，伊朗扣押油轮的实际时间是周四（Thursday），而非周六（Saturday）。据新华社、中央社等媒体报道，伊朗霍尔木茲甘省司法长官Mojtaba Ghahremani表示，该油轮于周四在阿曼湾伊朗领海被扣押，相关消息在周五或周六被报道。该油轮确实载有约600万升走私柴油，船上18名船员（来自印度、斯里兰卡和孟加拉国）被拘留。因此，该claim的时间信息存在错误，实际扣押时间是周四而非周六。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Iran seizes foreign oil tanker carrying 6 mln liters of smuggled diesel - Xinhua（新华社报道：伊朗于周四在阿曼湾伊朗领海扣押一艘载有600万升走私柴油的外国油轮，该消息于周五由伊朗国家媒体IRIB报道）",
+        "url": "https://english.news.cn/20251213/24e4860079fb424ca9c3def6d3c132ee/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Iran Seizes Foreign Oil Tanker Carrying 6 Mln Litres Of Smuggled Diesel - Bernama（马来西亚国家通讯社报道：伊朗于周四在阿曼湾扣押载有600万升走私柴油的油轮，18名船员被拘留）",
+        "url": "https://www.bernama.com/en/world/news.php?id=2502434",
+        "credibility": "High"
+      },
+      {
+        "content": "伊朗扣押外籍油輪18名船員遭拘留調查 - 中央社（伊朗当局于昨天，即周四在阿曼湾查扣一艘载有600万公升走私燃油的外籍油轮，并拘留18名船员）",
+        "url": "https://www.cna.com.tw/news/aopl/202512130128.aspx",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "claim": "嘉德带来了知名画家房莹的个展，展期一周。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to China Guardian Auctions Co., Ltd. (中国嘉德国际拍卖有限公司), the solo exhibition 'Time's Crease — Fang Ying Art Exhibition' was held at Guardian Art Center in Beijing from December 8 to December 15, 2025 — precisely seven days, i.e., one week. Multiple authoritative sources, including China News Service (中新网) and official exhibition announcements, confirm both the organizer (China Guardian) and the duration. For instance, China News Service reported on December 10, 2025: '“Time's Crease” Fang Ying Art Exhibition is being held at Guardian Art Center in Beijing from December 8 to 15.' Additionally, the exhibition’s opening was marked by a special fashion show on December 7, with the public exhibition running for the full week thereafter. The artist is identified as award-winning fashion designer and now painter Fang Ying, widely recognized as a 'Jin Ding Award' winner and veteran of major international stages including the Louvre and the 2008 Beijing Olympics.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“Time's Crease” Fang Ying Art Exhibition is being held at Guardian Art Center in Beijing from December 8 to 15. — China News Service (中新网), Dec 10, 2025",
+        "url": "https://www.chinanews.com.cn/cul/2025/12-10/10345678.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Exhibition organized by China Guardian International Auction Co., Ltd., held Dec 8–15, 2025 at Guardian Art Center, Beijing. Described as Fang Ying’s first solo painting exhibition. — Guardian Art Center official press release, Dec 8, 2025",
+        "url": "https://www.guardianartcenter.com/exhibitions/time-crease-fang-ying-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "'Time's Crease' marks Fang Ying’s debut as a painter — a 'Jin Ding Award' designer who has shown at the Louvre, NY Javits Center, and 2008 Beijing Olympics. Exhibition runs Dec 8–15. — Beijing Youth Daily, Dec 11, 2025",
+        "url": "https://www.bjyouth.net/culture/20251211/987654321.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据多个权威媒体报道，房莹的首要身份是时装设计师，而非画家。该展览\"时间的褶皱——房莹艺术展\"于2025年12月8日至15日在北京嘉德艺术中心举办，展期为8天而非一周（7天）。多家媒体明确指出，这是时装设计师房莹以画家身份的首次个人亮相，她是一位成功的时尚创作者，曾在巴黎卢浮宫、纽约等国际舞台举办时装发布会，并参与2008年北京奥运会开幕式。房莹从小热爱绘画，但其职业生涯主要在时装设计领域。因此，该claim在实体身份描述上存在错误，将时装设计师误称为\"知名画家\"，且展期计算也不准确。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "时装设计师在京办画展\"时间的褶皱\"启发多元解读 - 中新网（\"时间的褶皱\"房莹艺术展于12月8日至15日在北京嘉德艺术中心举办，这是时装设计师房莹以画家身份的首次个人亮相）",
+        "url": "https://www.bj.chinanews.com.cn/news/2025/1210/101218.html",
+        "credibility": "High"
+      },
+      {
+        "content": "\"时间的褶皱——房莹艺术展\"将在嘉德艺术中心举办 - 艺术中国（12月8日至15日展出，房莹是时装设计师，此次展览主要展出其近10年的部分油画作品以及最新的时装作品）",
+        "url": "http://art.china.cn/txt/2025-12/01/content_43290778.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "时间的褶皱——房莹艺术展 - 网易新闻（展览时间2025年12月8日至15日，房莹是时装设计师，曾在巴黎卢浮宫、纽约等国际舞台举办时装发布会，并参与2008北京奥运会开幕式）",
+        "url": "https://www.163.com/dy/article/KFNETTI70514CHJA.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "claim": "嘉德带来了知名画家房莹的个展，展期一周。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to China Guardian Auctions Co., Ltd. (中国嘉德国际拍卖有限公司), the solo exhibition 'Time’s Crease — Fang Ying Art Exhibition' was held at Guardian Art Center in Beijing from December 8 to December 15, 2025 — exactly seven days, i.e., one week. Multiple authoritative sources, including China News Service (中新网) and official exhibition announcements, confirm both the organizer (China Guardian) and the duration. For instance, China News Service reported on December 10, 2025: '“Time’s Crease” Fang Ying Art Exhibition is being held at Guardian Art Center from December 8 to 15.' Additionally, the exhibition’s opening was preceded by a special fashion show on December 7, further anchoring the December 8–15 timeframe.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“时间的褶皱”房莹艺术展于12月8日至15日在北京嘉德艺术中心举办。这是时装设计师房莹以画家身份的首次个人亮相……（中新网北京新闻12月10日电）",
+        "url": "https://www.chinanews.com.cn/sh/2025/12-10/10345678.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "“时间的褶皱——房莹艺术展”于2025年12月8日至15日在北京嘉德艺术中心开启……（中国嘉德官方新闻稿，2025年12月8日）",
+        "url": "https://www.guardian-art.com/news/2025/fangying-exhibition-launch",
+        "credibility": "High"
+      },
+      {
+        "content": "展览由12月7日下午3点的嘉宾专场时装秀启幕，展期为12月8日至15日……（北京青年报，2025年12月10日）",
+        "url": "https://epaper.ynet.com/html/2025-12/10/content_456789.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据多个权威媒体报道，房莹的首要身份是时装设计师，而非画家。该展览\"时间的褶皱——房莹艺术展\"于2025年12月8日至15日在北京嘉德艺术中心举办，展期为8天而非一周（7天）。多家媒体明确指出，这是时装设计师房莹以画家身份的首次个人亮相，她是一位成功的时尚创作者，曾在巴黎卢浮宫、纽约等国际舞台举办时装发布会，并参与2008年北京奥运会开幕式。房莹从小热爱绘画，但其职业生涯主要在时装设计领域。因此，该claim在实体身份描述上存在错误，将时装设计师误称为\"知名画家\"，且展期计算也不准确。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "时装设计师在京办画展\"时间的褶皱\"启发多元解读 - 中新网（\"时间的褶皱\"房莹艺术展于12月8日至15日在北京嘉德艺术中心举办，这是时装设计师房莹以画家身份的首次个人亮相）",
+        "url": "https://www.bj.chinanews.com.cn/news/2025/1210/101218.html",
+        "credibility": "High"
+      },
+      {
+        "content": "\"时间的褶皱——房莹艺术展\"将在嘉德艺术中心举办 - 艺术中国（12月8日至15日展出，房莹是时装设计师，此次展览主要展出其近10年的部分油画作品以及最新的时装作品）",
+        "url": "http://art.china.cn/txt/2025-12/01/content_43290778.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "时间的褶皱——房莹艺术展 - 网易新闻（展览时间2025年12月8日至15日，房莹是时装设计师，曾在巴黎卢浮宫、纽约等国际舞台举办时装发布会，并参与2008北京奥运会开幕式）",
+        "url": "https://www.163.com/dy/article/KFNETTI70514CHJA.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "claim": "自传体小说《比利时的哀愁》是雨果·克劳斯最著名的作品之一。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple authoritative sources consistently identify *The Sorrow of Belgium* (*De Verdriet van België*) as Hugo Claus’s most famous and celebrated work. According to译林出版社 (Yilin Press), the novel is '雨果·克劳斯最著名的作品' ('Hugo Claus’s most famous work') and is described as his '半自传体小说' ('semi-autobiographical novel') — a designation confirmed across multiple publications. The *Los Angeles Times* called it 'a masterpiece' and emphasized its centrality in Claus’s oeuvre. Additionally, the Nobel laureate J.M. Coetzee hailed it as 'one of the greatest novels of postwar Europe', reinforcing its canonical status. The novel’s 1983 publication, 758-page scope, and critical acclaim—including the 1986 French Prix du Meilleur Livre Étranger—further substantiate its prominence.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "《比利时的哀愁》:比利时国宝级作家雨果·克劳斯的半自传体小说,也是他最著名的作品。——译林出版社官方微博（2025年5月10日）",
+        "url": "https://weibo.com/1742502675/IxqkzvXl0",
+        "credibility": "High"
+      },
+      {
+        "content": "'This extraordinary semi-autobiographical novel is undoubtedly Claus’s most celebrated work.' — The Guardian, 2019 review of the English translation.",
+        "url": "https://www.theguardian.com/books/2019/may/17/the-sorrow-of-belgium-hugo-claus-review",
+        "credibility": "High"
+      },
+      {
+        "content": "“这部极佳的自传体小说毫无疑问是杰作。” —《洛杉矶时报》（The Los Angeles Times）",
+        "url": "https://www.latimes.com/archives/la-xpm-1984-03-18-bo-11511-story.html",
+        "credibility": "High"
+      },
+      {
+        "content": "雨果·克劳斯(1929–2008)……半自传体小说《比利时的哀愁》为其最著名的作品。——中国作家网，2024年10月25日",
+        "url": "http://www.chinawriter.com.cn/n1/2024/1025/c404030-40352981.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据多个权威来源的明确描述，《比利时的哀愁》是一部\"半自传体小说\"而非\"自传体小说\"。微信读书、搜狐、界面新闻、封面新闻、参考网等多个中文来源，以及英文来源均一致地将该作品定义为\"半自传体小说\"（semi-autobiographical novel）。虽然该小说具有浓厚的自传性质——克劳斯本人也在1929年出生，与主人公路易斯年龄相仿，且在西弗兰德省度过童年——但小说融合了虚构元素，主人公路易斯·塞纳夫生活的Walle镇是虚构的，小说内容也并非完全真实的个人经历再现。因此，将《比利时的哀愁》称为\"自传体小说\"是不准确的，正确的文体分类应该是\"半自传体小说\"。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "雨果·克劳斯-全部作品在线阅读 - 微信读书（在他的创作生涯中，他的作品超过200部，半自传体小说《比利时的哀愁》为其最著名的作品）",
+        "url": "https://weread.qq.com/web/search/books?author=%E9%9B%A8%E6%9E%9C%C2%B7%E5%85%8B%E5%8A%B3%E6%96%AF&ii=61f3217071e46dc461f86f4",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《比利时的哀愁》终于出了中文版！你了解比利时国宝作家雨果 - 搜狐（《比利时的哀愁》是一本半自传体小说，以一个佛拉芒少年的视角，描述二战中维持中立但最后还是受到纳粹的欺凌的比利时）",
+        "url": "https://www.sohu.com/a/403202996_657771",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Sorrow of Belgium by Hugo Claus - JR Alexander（该书是半自传体作品。中心人物是路易斯·塞纳夫，战争开始时他是10岁儿童，生活在西弗兰德斯虚构小镇Walle。克劳斯本人也出生于1929年）",
+        "url": "https://jralexanderauthor.com/2025/10/21/the-sorrow-of-belgium-het-verdriet-van-belgie-by-hugo-claus-1983/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "claim": "Champion player on holiday是郑敬儒的画。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The knowledge base contains a fragment 'Champion swimmer on holiday' listed under a 2022-07-17 entry alongside 'deca joins郑敬儒 钟情他的画远胜那些歌', suggesting a possible association between郑敬儒 (Zheng Jingru) and the phrase, but no explicit attribution of 'Champion player on holiday' as a titled artwork by him. No credible source—such as museum records, gallery exhibitions, auction listings, or artist monographs—confirms that 'Champion player on holiday' is a known painting by Zheng Jingru. The phrase appears isolated without context (e.g., medium, year, provenance), and no authoritative art database (e.g., Artnet, ArtFacts, China Artists Association) or news report verifies its existence as his work. Furthermore, Zheng Jingru is not widely documented in major English or Chinese art databases as a visual artist producing figurative or sports-themed paintings under that title.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "deca joins郑敬儒 钟情他的画远胜那些歌 — 'Champion swimmer on holiday' appears as a standalone phrase in a 2022-07-17 entry, with no attribution to a specific artwork or exhibition.",
+        "url": "https://web.archive.org/web/20220717000000*/https://example.com/placeholder",
+        "credibility": "Low"
+      }
+    ],
+    "ground_truth_justification": "该claim存在画作名称错误。郑敬儒的画作实际名称是\"Champion swimmer on holiday\"（冠军游泳运动员在度假），而非\"Champion player on holiday\"。claim中将\"swimmer\"（游泳运动员）错误地表述为\"player\"（球员/选手），导致画作标题不准确。这是对作品名称的误记或误传，属于实体信息错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "表演藝術家 - 臺中國家歌劇院（©照片提供動見体攝影鄭敬儒，证实郑敬儒是台湾艺术界的摄影师和创作者）",
+        "url": "https://www.npac-ntt.org/program/events/pgartistcont/c-uf86ZLTxOpD",
+        "credibility": "High"
+      },
+      {
+        "content": "郑敬儒画作合集 - 抖音（提及郑敬儒的画作作品）",
+        "url": "https://www.douyin.com/search/%E9%83%91%E6%95%AC%E5%84%92%E7%94%BB%E4%BD%9C%E5%90%88%E9%9B%86",
+        "credibility": "Low"
+      },
+      {
+        "content": "談起家與家人，鄭敬儒的語氣中充滿安心 - Facebook（介绍郑敬儒作为艺术家的创作背景和家庭生活）",
+        "url": "https://www.facebook.com/500times/posts/%E8%AB%87%E8%B5%B7%E5%AE%B6%E8%88%87%E5%AE%B6%E4%BA%BA%E9%84%AD%E6%95%AC%E5%84%92%E7%9A%84%E8%AA%9E%E6%B0%A3%E4%B8%AD%E5%85%85%E6%BB%BF%E5%AE%89%E5%BF%83%E9%82%A3%E6%88%96%E8%A8%B1%E8%A7%A3%E9%87%8B%E4%BA%86%E4%BB%96%E5%89%B5%E4%BD%9C%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%E7%B8%BD%E6%98%AF%E6%98%BE%E5%BE%97%E8%87%AA%E5%9C%A8%E8%80%8C%E8%88%92%E6%9C%8D%E8%80%8C%E4%BB%96%E6%9C%80%E5%96%9C%E6%AD%A1%E7%9A%84%E4%B8%80%E5%B9%85%E7%95%AB/pfbid0rQWQf7ixUHdWr4JbXrJaBEuWjBPeRJXtE7VDgfydnB7XCvQ5cVsqo3PL4iEzKXRZl/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 82,
+    "claim": "羊肉汤会诱发咳嗽、呼吸道问题 。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources indicate that羊肉汤（mutton soup）—a warm-natured, tonifying food in Traditional Chinese Medicine—can exacerbate cough and respiratory symptoms, particularly in individuals with wind-heat or phlegm-heat patterns. According to a 2025-07-10 health advisory (cited in the knowledge base), wind-heat cough patients (characterized by yellow, thick phlegm and sore throat) may experience aggravated coughing and increased phlegm viscosity after consuming羊肉汤 due to its warming and heat-promoting properties. A 2025-11-29 source notes羊肉汤 may irritate the pharyngeal mucosa, especially when served too hot, worsening respiratory discomfort. Furthermore, a 2023-12-12 clinical nutrition resource explicitly states: '羊汤是一种热性的食物...喝羊汤后体温可能更高' and '不利于咳嗽的恢复', linking it to increased phlegm production and lung heat. These consistent mechanistic explanations across multiple time-stamped, medically aligned sources support the claim as physiologically plausible and clinically observed.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "咳嗽能否喝羊肉汤不能一概而论...风热咳嗽患者体内本就有热邪...羊肉汤的温热属性可能会加重体内的燥热，导致咳嗽加剧、痰液增多变黏...（截至2025年7月10日）",
+        "url": "https://www.yidianzixun.com/article/JVQvYlXx",
+        "credibility": "Medium"
+      },
+      {
+        "content": "羊肉汤富含优质蛋白和矿物质...但过量可能刺激咽喉黏膜，过烫可能加重呼吸道不适。（搜索结果收录于2025年11月29日）",
+        "url": "https://www.39health.com/food/20251129/12345678.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "喝羊汤是有可能加重咳嗽症状的。咳嗽期间尽量不要喝羊汤，因为羊汤是一种热性的食物，热性食物会导致上火，上火容易生痰，不利于咳嗽的恢复...（2023年12月12日）",
+        "url": "https://www.kangfuzhijia.com/health/20231212/987654321.html",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "根据多个医学专业来源的信息，该claim的表述过于绝对化且缺乏准确语境。羊肉汤本身不会直接\"诱发\"咳嗽和呼吸道问题，但在特定情况下可能\"加重\"已有症状。具体分析如下：1）对于健康人群或恢复期患者，羊肉汤不会诱发咳嗽或呼吸道问题，反而有营养补充作用；2）对于急性期感冒咳嗽患者（特别是风热型、有黄痰咽痛症状者），羊肉汤的温热性质可能\"助热生痰\"，加重已有的咳嗽症状，使痰液更粘稠；3）个别人群可能对羊肉过敏，导致呼吸困难等过敏反应，但这属于过敏而非普遍现象。中山大学附属第一医院呼吸内科副主任医师明确指出，羊肉汤并无直接化痰止咳作用，但也不是会普遍\"诱发\"呼吸道问题的食物。因此，该claim混淆了\"诱发\"与\"加重已有症状\"的概念，且忽略了适用人群和具体情境。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "羊肉汤能止咳化痰吗 - 39健康网（中山大学附属第一医院呼吸内科副主任医师林耿鹏：羊肉汤本身没有直接化痰止咳的作用，但因其温补特性，可能通过增强体质、缓解寒咳症状间接起到辅助效果）",
+        "url": "https://m-mip.39.net/askar/mipso_t4937dm.html",
+        "credibility": "High"
+      },
+      {
+        "content": "咳嗽能喝羊汤吃羊肉吗 - 健康之路（福建医科大学附属协和医院呼吸内科副主任医师李勇：生理性咳嗽可以喝羊汤，病理性咳嗽则不建议，因为会助热生痰，加重咳嗽症状，甚至导致上火、头痛）",
+        "url": "https://m.jkzl.com/doctor/mip/mip_article.html?contentId=23501",
+        "credibility": "High"
+      },
+      {
+        "content": "感冒咳嗽能吃羊肉汤吗 - 39健康网（感冒咳嗽期间不建议饮用羊肉汤。外感风寒初期或风热感冒患者饮用性质温热的羊肉汤，可能助长体内邪热，导致咽痛加重、痰液黏稠不易咳出。高脂饮食会刺激呼吸道黏膜分泌增多，可能诱发或加重咳嗽反射）",
+        "url": "https://m-mip.39.net/askar/mipso_y690pp4.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 84,
+    "claim": "韩国从2026年起要求在广告上标注AI标签，新规将在该国网络安全法及相关法律修订后于2026年初生效。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to multiple credible reports from环球时报 (Global Times),美联社 (AP), and韩联社, the South Korean government announced on December 10, 2025 that it will require all AI-generated advertisements—including images and videos—to be clearly labeled as 'AI制作' (AI-made), with enforcement beginning in early 2026 after legal revisions. The policy was confirmed during a policy meeting chaired by Prime Minister Kim Min-seok, and officials stated the revisions will be made to the Telecommunications Act and other related laws—not the Cybersecurity Act specifically—but the broader regulatory framework includes strengthened oversight of AI content. The Korea Food and Drug Safety Ministry’s data on surging illegal online ads (e.g., 96,700查处 in 2024) underscores the urgency driving this legislative timeline. While the claim incorrectly names the 'Cybersecurity Law', the core factual elements—mandatory AI labeling for ads and implementation in early 2026—are consistently verified across sources.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "\"韩国正式宣布,从2026年起,所有使用AI生成的广告内容都必须进行明确标识。这一举措由韩国总理金旼锡主持政策会议后公布...政府将着手修订《电信法》及其他相关法律,以确保人工智能标签规定及强化的监管与处罚措施能在2026年初生效。\"",
+        "url": "https://www.globaltimes.cn/news/2025-12-10/korea-ai-ad-labeling-2026",
+        "credibility": "High"
+      },
+      {
+        "content": "AP Top News report dated December 10, 2025: \"South Korea to require AI labels on ads starting in early 2026, following amendments to the Telecommunications Act and related regulations.\"",
+        "url": "https://apnews.com/article/south-korea-ai-advertising-regulation-2026-telecom-law-12102025",
+        "credibility": "High"
+      },
+      {
+        "content": "Korea Food and Drug Safety Office reported 96,700 illegal food/pharma online ads查处 in 2024; nearly 70,000 in first 9 months of 2025 — cited as key driver for AI ad labeling rule.",
+        "url": "https://www.mfds.go.kr/eng/brd/m_22/view.do?seq=123456789",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据多个权威媒体报道，韩国确实计划从2026年初开始要求在AI生成的广告上标注AI标签，这一点是正确的。然而，该claim在相关法律名称上存在错误。根据人民网、环球时报、Yahoo奇摩新闻、Qatar Tribune等多个来源的报道，韩国政府将推动修订的是《电信法》（telecommunications act）及其他相关法律，而非claim中所述的\"网络安全法\"（cybersecurity law）。多个中文和英文来源均明确指出，新规将通过修订《电信法》和相关法规来实施，使AI标注要求、加强监测和惩罚措施能够在2026年初生效。因此，该claim将法律名称错误地表述为\"网络安全法\"，而实际应为\"电信法\"。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "遏制AI滥用，韩国要求对AI广告进行\"显著标识\" - 人民网（韩国政府要求广告商对使用人工智能（AI）技术制作的广告进行\"显著标识\"。相关法律将在修订后于2026年年初正式实施）",
+        "url": "http://korea.people.com.cn/n1/2025/1212/c407864-40623034.html",
+        "credibility": "High"
+      },
+      {
+        "content": "S Korea to require advertisers to label AI-generated ads - Qatar Tribune（韩国政府将寻求修订电信法和其他相关法律，以便AI标注要求以及加强监测和惩罚措施能够在2026年初生效。平台运营公司也将负责确保广告商遵守标注规定）",
+        "url": "https://www.qatar-tribune.com/article/209119/business/s-korea-to-require-advertisers-to-label-ai-generated-ads",
+        "credibility": "High"
+      },
+      {
+        "content": "南韓打擊AI深偽廣告擬修法強制標注AI內容 - Yahoo奇摩新聞（南韓政府表示，將推動修訂電信法及相關法規，讓強制標注AI內容及更嚴格的監管措施能在2026年初正式上路）",
+        "url": "https://tw.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%89%93%E6%93%8Aai%E6%B7%B1%E5%81%BD%E5%BB%A3%E5%91%8A-%E6%93%AC%E4%BF%AE%E6%B3%95%E5%BC%B7%E5%88%B6%E6%A8%99%E6%B3%A8ai%E5%85%A7%E5%AE%B9-103547854.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "claim": "欧盟领导人将一直维持俄罗斯资产的冻结状态。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the European Council President António Costa, EU leaders have committed to maintaining the freeze on Russian assets 'until Russia ends its war against Ukraine and compensates for the damage caused', as stated in his December 12, 2025 social media post cited by multiple outlets. The EU Council’s official December 12, 2025 decision — reported by新华社 (Xinhua) — confirms an 'indefinite freeze' with 'no specified duration', replacing the previous biannual renewal requirement. Furthermore, the Council’s statement explicitly notes that the freeze is now 'temporary prohibition on transferring [Russia’s central bank] assets back to Russia', and that this measure is tied to Russia’s conduct regarding the conflict and reparations. Belgium, Bulgaria, Malta, and Italy jointly affirmed support for 'long-term freezing' in their December 12 declaration, reinforcing the permanence conditionality. All sources consistently frame the freeze as open-ended and contingent solely on Russia’s cessation of hostilities and compensation — not on a fixed calendar timeline.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "European Council President António Costa wrote on social media: 'EU leaders have delivered on their commitment to freeze Russian assets — and will keep them frozen until Russia ends its war against Ukraine and compensates for the damage caused.' Reported by Xinhua on December 13, 2025.",
+        "url": "http://www.news.cn/world/2025-12/13/c_1129278456.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "EU Council statement of December 12, 2025: 'The Council decided to temporarily prohibit the transfer of assets of the Central Bank of the Russian Federation held in the EU back to Russia. This decision has no time limit.' — Xinhua report, December 13, 2025.",
+        "url": "https://en.wikipedia.org/wiki/EU_sanctions_against_Russia#December_2025_indefinite_freeze",
+        "credibility": "High"
+      },
+      {
+        "content": "Joint statement by Belgium, Bulgaria, Malta, and Italy dated December 12, 2025: 'We voted in favour of long-term freezing of Russian assets... the question of using frozen assets to support Ukraine will be decided at the upcoming European Council summit.' — cited by CCTV News, December 13, 2025.",
+        "url": "https://news.cctv.com/2025/12/13/ARTI1234567890abcdefg.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim的表述过于绝对化且缺乏准确的条件限定。根据多个权威来源的报道，欧盟领导人并非\"一直\"无条件维持冻结状态，而是设定了明确的解冻条件。2025年12月12日，欧盟理事会决定无限期冻结俄罗斯在欧盟的约2100亿欧元资产，但这一决定附带了具体的解冻条件。欧洲理事会主席科斯塔明确表示：欧盟领导人承诺维持对俄罗斯资产的冻结状态，\"直到俄罗斯结束与乌克兰的冲突并赔偿所造成的损失\"。路透社和RTE报道的英文表述为：冻结将持续\"until there is no longer an immediate threat to the economic interests of the Union\"（直到不再对欧盟经济利益构成直接威胁）。因此，欧盟的决定是有条件的\"无限期冻结\"，而非claim所表述的无条件\"一直\"冻结。该claim省略了解冻的前提条件，导致含义失真，属于误导性表述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "欧盟决定无限期冻结俄罗斯资产 - 新华网（2025年12月12日，欧盟理事会决定无限期冻结俄罗斯在欧盟的资产。欧洲理事会主席科斯塔表示，欧盟领导人承诺维持俄罗斯资产的冻结状态，直到俄罗斯结束与乌克兰的冲突并赔偿所造成的损失。该决定涉及的俄罗斯中央银行资产价值约2100亿欧元）",
+        "url": "http://www.news.cn/world/20251213/e082ec331f8b487898f105c0dca7e209/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "无限期冻结！俄方怒批：骗子！- 澎湃新闻（欧盟理事会12月12日发表声明称，在俄乌冲突结束且欧盟面临的经济恶化风险得到改善之前，欧盟决定无限期冻结俄罗斯在欧盟的资产。欧洲理事会主席科斯塔表示，欧盟领导人承诺维持对俄罗斯资产的冻结状态，直到俄罗斯结束与乌克兰的冲突并赔偿所造成的损失）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32173110",
+        "credibility": "High"
+      },
+      {
+        "content": "EU agrees to indefinitely freeze Russian assets - RTE（欧盟同意无限期冻结在欧洲的俄罗斯中央银行资产。新冻结措施将持续\"直到不再对欧盟经济利益构成直接威胁\"，取代目前需要每六个月全体一致通过才能续期的制度）",
+        "url": "https://www.rte.ie/news/europe/2025/1212/1548621-eu-russia/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 89,
+    "claim": "2021年1月6日美国国会骚乱中有五人死亡。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the U.S. House Select Committee to Investigate the January 6th Attack on the United States Capitol, five people died as a direct result of the January 6, 2021, attack: one Capitol Police officer (Brian D. Sicknick), one protester shot by police (Ashli Babbitt), and three others who died from medical emergencies during the riot (including two from cardiac arrest and one from an accidental overdose of drugs administered during treatment). This death toll is consistently reported by multiple high-credibility sources including the Congressional Research Service and major news outlets. The Associated Press confirmed the five deaths in its real-time coverage and subsequent official tally. The official U.S. Capitol Police report also lists five fatalities linked to the events of January 6, 2021.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The January 6th Attack on the U.S. Capitol: A Preliminary Assessment — Congressional Research Service (CRS) Report R46739, updated March 2022, states: 'Five people died as a result of the attack: one Capitol Police officer, one protester shot by police, and three others who suffered fatal medical emergencies.'",
+        "url": "https://crsreports.congress.gov/product/pdf/R/R46739",
+        "credibility": "High"
+      },
+      {
+        "content": "AP News article 'Jan. 6 Capitol riot: 5 dead, more than 140 officers injured' (published Jan. 7, 2021, updated regularly), confirms: 'Five people died — including a Capitol Police officer and a woman shot by police — amid the chaos.'",
+        "url": "https://apnews.com/article/january-6-capitol-riot-deaths-injuries-8a9b7f3c9d4e4f8a9b7f3c9d4e4f8a9b7f3c9d4e",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Capitol Police official statement (January 2022): 'The events of January 6, 2021, resulted in the deaths of five individuals — Officer Brian D. Sicknick, Ashli Babbitt, and three others whose deaths were determined by the D.C. Medical Examiner to be directly related to the incident.'",
+        "url": "https://www.uscp.gov/news/press-releases/us-capitol-police-release-final-report-january-6-2021-attack",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim存在统计数据错误。虽然早期媒体报道称有5人死亡，但后续更准确的调查显示，在2021年1月6日美国国会骚乱当天，只有1人直接因骚乱暴力死亡——即被国会警察开枪射杀的女性示威者艾什莉·巴比特（Ashli Babbitt）。其他最初报道的死亡案例包括：3名示威者死于医疗紧急情况（心脏病发作等自然原因），以及1名国会警察布莱恩·西克尼克于1月7日死亡（最初认为是因骚乱受伤，但后来医学检查确认死于自然原因——中风）。因此，\"5人死亡\"的说法混淆了直接因暴力冲突死亡与因其他原因死亡的区别，夸大了骚乱的直接致死人数。准确的说法是：1月6日当天只有1人直接因骚乱暴力死亡。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "国会山骚乱 - 维基百科（一系列的冲突在36小时内导致5人死亡，包括174名警察在内的多人受伤。1人在国会大厦被执法人员开枪打死，另外3人死于医疗紧急情况。国会警察布莱恩·西克尼克在1月7日晚伤重死亡）",
+        "url": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E4%BC%9A%E5%B1%B1%E9%AA%9A%E4%B9%B1",
+        "credibility": "High"
+      },
+      {
+        "content": "特朗普支持者冲击国会酿成四人死亡和\"对民主的侵害\" - BBC中文（1月6日当天，1名女性抗议者被枪杀，另有3人死于医疗紧急情况）",
+        "url": "https://www.bbc.com/zhongwen/simp/world-55565454",
+        "credibility": "High"
+      },
+      {
+        "content": "美国国会冲击事件一受伤警察死亡 死亡人数升至5人 - 中新网（事件造成4人死亡，其中1名死者是在事件中遭国会警察开枪射击的女性，另有1名女性和2名男性在紧急救治过程中死亡。一名国会警察于1月7日晚因伤重不治而死亡，成为第五人）",
+        "url": "https://www.chinanews.com.cn/gj/2021/01-08/9382040.shtml",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "claim": "约695,000名英国人在去年移民离开英国。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to The Times, as cited in multiple reputable reports including a November 30, 2025 analysis, 'a total of 693,000 people left the UK in the year to June 2025' — a figure explicitly described as 'the highest proportion of population outflow since 1923'. This aligns closely with the claim’s 'about 695,000'. The UK Office for National Statistics (ONS) confirmed this net migration context and the 693,000 outbound long-term migrants figure in its official mid-2025 release. While the number refers to *all long-term emigrants* (not exclusively British citizens), media and official summaries consistently frame it as 'people leaving the UK', and ONS data does not disaggregate nationality for exit figures in that release; however, given the scale and context — and absence of evidence suggesting most were non-British residents — the claim is reasonably supported as a widely accepted approximation in authoritative reporting.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The Times reported: '693,000 people left the UK in the year to June 2025' — 'highest proportion of population outflow since 1923'. Cited in analysis dated 2025-11-30.",
+        "url": "https://www.thetimes.co.uk/article/uk-emigration-hits-record-high-since-1923-693000-leave-in-year-to-june-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "UK Office for National Statistics (ONS) data release: 'International migration estimates, year ending June 2025' — confirms 693,000 long-term emigrants (12+ months departure). Published 2025-08-22.",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/annualmidyearinternationalmigrationestimates/yearendingjune2025",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该说法混淆了总移民人数和英国公民移民人数。根据英国国家统计局（ONS）的数据，在截至2025年6月的一年中，约693,000人离开英国，但其中只有252,000人是英国公民，而非695,000名英国人。事实核查网站Full Fact明确指出这一说法是错误的，695,000这个数字接近离开英国的总人数估计值，但大多数不是英国公民。正确的数据显示，截至2024年12月的一年中，约257,000名英国公民离开英国。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Around 250,000 Brits emigrated last year, not 695,000 - Full Fact（695,000是截至2025年6月离开英国的总人数估计值，其中只有252,000人是英国公民，而非全部是英国人）",
+        "url": "https://fullfact.org/immigration/how-many-brits-left-uk/",
+        "credibility": "High"
+      },
+      {
+        "content": "Do new migration figures show an 'exodus' of British citizens? - Full Fact（ONS修订数据显示，截至2024年12月的一年中，257,000名英国公民离开英国，143,000人返回，净移民为-114,000）",
+        "url": "https://fullfact.org/immigration/british-national-migration-revisions/",
+        "credibility": "High"
+      },
+      {
+        "content": "Migration figures show far more leaving than returning - The National（ONS修订统计数据显示，2024年约有257,000名英国公民离开英国，而非695,000）",
+        "url": "https://www.thenationalnews.com/news/uk/2025/11/18/brits-on-the-move-migration-figures-show-far-more-leaving-than-arriving/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 93,
+    "claim": "特朗普声称就业数字在选举后被修正。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to The Guardian (2025-08-02), Trump claimed on Truth Social that Erika McEntarfer 'faked employment figures in the run-up to last year's election' and later 'downgraded nearly 1 million jobs' after his victory, calling it a 'fraudulent correction'. CNN (2025-08-02) reported Trump explicitly stated she 'artificially inflated job numbers before the election' and then 'cut them by nearly one million' post-election, labeling it a 'scam'. The Associated Press and CNBC corroborated that the Bureau of Labor Statistics did revise May and June 2025 data downward by a combined 258,000 jobs — a revision announced on August 2, 2025, weeks after the November 2024 general election — which Trump repeatedly cited as evidence of post-election manipulation. Trump’s August 4, 2025 Truth Social post reiterated: 'She raised the numbers to historic highs before the election, then cut them by nearly 1 million after I won — calling it an “error correction.”'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The Guardian, 'Trump orders firing of labor statistics chief hours after jobs data stalls', published 2025-08-02: 'He claimed that Erika McEntarfer... had faked employment figures in the run-up to last year's election... and then downgraded nearly 1 million jobs after he won, calling it an “error correction.”'",
+        "url": "https://www.theguardian.com/us-news/2025/aug/02/trump-fire-labor-statistics-chief-jobs-data",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, 'Trump fires labor stats chief amid claims of election-era data manipulation', published 2025-08-02: 'Trump accused McEntarfer of artificially inflating job numbers before the election and slashing them by nearly one million afterward — dubbing it a “scam.”'",
+        "url": "https://www.cnn.com/2025/08/02/politics/trump-fire-mcentarfer-labor-stats",
+        "credibility": "High"
+      },
+      {
+        "content": "CNBC, 'BLS revises May and June job gains downward by 258,000 total, sparking Trump backlash', published 2025-08-02: 'The BLS announced revisions on Friday, August 2, cutting May’s gain by 125,000 and June’s by 133,000 — the largest two-month downward revision since 2021.'",
+        "url": "https://www.cnbc.com/2025/08/02/bls-revises-may-june-jobs-down-by-258000-trump-reacts.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "特朗普声称就业数字在2024年选举后被修正是错误的。事实上，美国劳工统计局(BLS)对就业数据的重大修正发生在2024年8月21日，比2024年11月5日的大选早了两个多月。这次修正显示美国经济比最初报告少增加了81.8万个工作岗位，修正时间恰逢民主党全国代表大会期间，对当时的副总统哈里斯竞选造成负面影响。特朗普当天就在社交媒体上抨击了这一修正。PolitiFact、CNBC和ABC News等多家事实核查机构均确认特朗普关于修正时间的说法是错误的，并指出这是BLS的标准年度数据修正流程。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Donald Trump twists timeline of Bureau of Labor Statistics revision - PolitiFact（特朗普称选举后修正就业数据的说法不准确，BLS的81.8万工作岗位下调修正发生在2024年8月21日，比选举早几个月，评级为Pants on Fire）",
+        "url": "https://www.politifact.com/factchecks/2025/aug/05/donald-trump/bls-firing-jobs-revision-election/",
+        "credibility": "High"
+      },
+      {
+        "content": "Trump's defense of firing BLS chief relies on twisted timeline - CNBC（特朗普关于2024年就业报告修正时间的描述是错误的，BLS的81.8万工作岗位修正发布于2024年8月，而非选举后）",
+        "url": "https://www.cnbc.com/2025/08/06/trump-bls-jobs-revisions-election.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Fact check: Trump's claims jobless numbers were 'rigged' - ABC News（特朗普声称就业数字在选举后被修正是错误的，实际修正发生在选举前的2024年8月）",
+        "url": "https://abcnews.go.com/Politics/fact-check-trumps-claims-jobless-numbers-rigged/story?id=124353890",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "claim": "国会议员办公室预算在2022年支出法案中增加。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The provided knowledge base contains no information about congressional office budgets (i.e., Member Representational Allowances or 'MRA' for U.S. House/Senate offices) or their funding levels in the 2022 U.S. appropriations or spending bills. It includes references to major 2022 legislation like the Inflation Reduction Act and a $3.5 trillion budget framework from 2021, but none specify changes to individual lawmakers’ office budgets. The Congressional Budget Office (CBO) analyses cited pertain to macro-level fiscal impacts—e.g., deficits, tax cuts, healthcare cuts—not line-item allocations for member office operations. No credible source in the corpus mentions MRA increases, decreases, or adjustments in FY2022 legislation.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "根据美国国会2022财年综合拨款法案(Consolidated Appropriations Act, 2022)的相关记录，众议院议员代表津贴(Members' Representational Allowance, MRA)在2022财年实际上被冻结或削减,而非增加。多个国会预算报告显示,2022财年的立法部门拨款中,议员办公室运营预算保持平稳或略有下降,并未出现增长。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Consolidated Appropriations Act, 2022 - Legislative Branch Appropriations（2022年综合拨款法案-立法部门拨款部分,显示议员办公室预算维持或削减）",
+        "url": "https://www.congress.gov/bill/117th-congress/house-bill/2471",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Justification for FY2022（国会2022财年预算说明文件,记录了各办公室预算分配情况）",
+        "url": "https://www.house.gov/legislative-activity/appropriations/fy-2022-budget-justification",
+        "credibility": "High"
+      },
+      {
+        "content": "CRS Report: Legislative Branch Appropriations for FY2022（国会研究服务处报告:2022财年立法部门拨款分析）",
+        "url": "https://crsreports.congress.gov/product/pdf/R/R46924",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "claim": "美国最近的就业报告修正创\"历史纪录\"。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to The Wall Street Journal and The Washington Post, the U.S. Bureau of Labor Statistics (BLS) revised down nonfarm payroll employment by 911,000 jobs for the 12-month period ending March 2025 — described as 'the largest revision on record' since data tracking began in 2000. CNN reported it is 'the largest annual revision to US jobs data on record', citing BLS’s preliminary benchmark revision released on September 9, 2025. The Guardian similarly stated it is 'the largest revision on record', noting the 911,000 downward adjustment exceeds last year’s 818,000 revision by 50%. The BLS itself confirmed this was the highest absolute revision in its historical benchmarking process, with the revision representing 0.6% of total nonfarm employment — far above the prior decade’s average of 0.2%.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The Washington Post and The Wall Street Journal both reported the 911,000 downward revision as 'the largest on record' since 2000, citing BLS data released September 9, 2025.",
+        "url": "https://www.washingtonpost.com/business/2025/09/09/us-jobs-data-revision-record/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN: 'If this were to hold... it would be the largest annual revision to US jobs data on record.' Published September 9, 2025.",
+        "url": "https://www.cnn.com/2025/09/09/business/us-jobs-revision-record/index.html",
+        "credibility": "High"
+      },
+      {
+        "content": "The Guardian: 'This is the largest revision on record' — referring to the 911,000 downward adjustment for the year ending March 2025.",
+        "url": "https://www.theguardian.com/business/2025/sep/09/us-jobs-report-revision-largest-ever",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据美国劳工统计局(BLS)的历史数据,虽然近期确实出现过就业数据修正,但并未创下\"历史纪录\"。历史上曾有更大规模的就业数据修正,例如2009年金融危机期间的修正幅度远超近期修正。2024年8月BLS将2023年4月至2024年3月的非农就业人数下调了81.8万,虽然这是一次较大的修正,但并非历史最大。使用\"历史纪录\"这一表述夸大了修正的实际规模。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Bureau of Labor Statistics - Employment Situation Summary and Revisions（美国劳工统计局就业数据修正说明,2024年修正了81.8万个就业岗位）",
+        "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Reserve Economic Data - Historical Employment Revisions（联储经济数据库显示历史就业修正记录,2009年修正幅度更大）",
+        "url": "https://fred.stlouisfed.org/series/PAYEMS",
+        "credibility": "High"
+      },
+      {
+        "content": "Bloomberg - Job Revisions Analysis: Putting Recent Changes in Historical Context（彭博社分析文章,将近期修正与历史数据对比）",
+        "url": "https://www.bloomberg.com/news/articles/2024-08-21/us-job-growth-revised-down-by-818-000-in-year-to-march",
+        "credibility": "Medium"
+      }
+    ]
+  }
+]

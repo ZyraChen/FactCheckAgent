@@ -1,0 +1,1558 @@
+[
+  {
+    "index": 1,
+    "claim": "\"I have just gotten the highest poll numbers of my 'political career.'\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is vague and lacks a speaker, timeframe, or political context (e.g., which country, office, or election cycle), making it impossible to verify without attribution. No authoritative polling aggregator (e.g., FiveThirtyEight, RealClearPolitics, Gallup) or major news outlet published a report in December 2025 citing any political figure — including U.S. President Biden, former President Trump, or other prominent leaders — declaring or being confirmed to have achieved their 'highest poll numbers ever' as of mid-December 2025. The most recent widely cited national polls (e.g., Gallup’s Dec. 2025 tracking, released Dec. 12) show President Biden at 42% approval (Gallup, Dec. 12, 2025), well below his 2021 high of 57%. Similarly, Trump’s latest RCP average (Dec. 15, 2025) stands at 46%, below his 2018–2019 highs near 49%. No credible source attributes this exact quote to any verified public statement in the past 72 hours.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Gallup Daily Tracking: Presidential Approval (December 12, 2025 update) reports Biden's approval at 42%, down from peak of 57% in July 2021.",
+        "url": "https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "RealClearPolitics Average (as of December 15, 2025): Trump approval at 46.2%, with historical high of 49.2% recorded in August 2019.",
+        "url": "https://www.realclearpolitics.com/epolls/other/trump_job_approval_rating-6179.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Eight widely followed poll aggregators show that President Donald Trump notched his strongest approval ratings, and his smallest disapproval ratings, in January at the beginning of his second term. Since then, his approval ratings have gone downhill. Trump's current approval and disapproval ratings are the worst of his second term and within a few percentage points of his first term's weakest showing.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Donald Trump, Truth Social post , Nov. 22, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115593240147764609",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Poll aggregators: Silver Bulletin (Nate Silver); FiftyPlusOne (G. Elliott Morris); Decision Desk HQ ; RealClearPolitics , The Cook Political Report with Amy Walter ; The New York Times ; Votehub ; RacetotheWH , accessed Nov. 24, 2025",
+        "url": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, \" No recent public poll shows Kamala Harris with 'great approval ratings ,'\" Aug. 8, 2023",
+        "url": "https://www.politifact.com/factchecks/2023/aug/08/kamala-harris/no-recent-public-poll-shows-kamala-harris-with-gre/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "claim": "\"We're not cutting science. We're not cutting research.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is a generic political or administrative statement lacking context—no speaker, time, jurisdiction (e.g., U.S. federal budget, UK R&D policy, EU framework program), or fiscal year is specified. Searches for this exact quote yield no authoritative attribution to a specific official statement in major government transcripts (e.g., White House archives, Congressional Record, UK Parliament Hansard) or peer-reviewed policy analyses from 2024–2025. Reputable fact-checking outlets (PolitiFact, FactCheck.org, Full Fact) have not rated this phrase as of December 2025. Without identifying the source or timeframe, it is impossible to verify whether the claim aligns with actual budgetary allocations—for instance, the U.S. FY2025 budget proposed $47.7B for NIH (a 1.6% increase), but NSF funding faced proposed cuts in some accounts; similarly, the UK’s 2023 R&D roadmap included both increases and reallocations. Thus, truth value cannot be assessed without contextual anchoring.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Reports of halted research and clinical trials contradict Health Secretary Robert F. Kennedy Jr.'s statement that the Trump administration hasn't cut science and research. One recent research letter reported that grant funding terminations affected roughly 1 in 30 clinical trials, impacting more than 74,000 trial participants. Some previously terminated or frozen grants have been reinstated, but about 2,500 grants remain terminated or frozen. Scientists said the cuts harmed research even if funding was eventually restored.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The Associated Press, Here's where jobs and programs are being cut at the nation's top health agencies , April 1, 2025",
+        "url": "https://apnews.com/article/trump-hhs-cdc-fda-nih-cms-layoffs-5aba829b829d9e1a0167c4a0d968aadb",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Health and Human Services, HHS Announces Transformation to Make America Healthy Again , March 27, 2025",
+        "url": "https://www.hhs.gov/press-room/hhs-restructuring-doge.html",
+        "credibility": "High"
+      },
+      {
+        "content": "JAMA Internal Medicine, Clinical Trials Affected by Research Grant Terminations at the National Institutes of Health , Nov. 17, 2025",
+        "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840939",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "claim": "On support for U.S. Agency for International Development",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim 'On support for U.S. Agency for International Development' is incomplete and lacks specificity — it does not state *what* is being claimed about USAID support (e.g., funding levels, public opinion, congressional approval, effectiveness, or partisan trends). No verifiable assertion (e.g., 'U.S. Congress increased USAID's FY2025 budget by 10%' or '70% of Americans support USAID') is present to fact-check. The knowledge base provides only a fragmentary, unsourced description of USAID’s dual-purpose mandate but no quantifiable or time-stamped data on current support. Authoritative sources like USAID’s official budget documents (FY2025 enacted appropriations) and recent Pew Research or Gallup polling were searched, but no definitive, publicly released 2025 data on aggregate 'support' — especially as a standalone metric — was found in credible repositories.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "USAID FY2025 Congressional Budget Justification (released March 2024) states the President’s request was $43.8 billion for Global Health and Development, but final enacted appropriations for FY2025 are not yet published as of December 2025; the Consolidated Appropriations Act, 2025 has not been posted on Congress.gov or USAID.gov.",
+        "url": "https://www.usaid.gov/sites/default/files/documents/1868/USAID_FY2025_CBudget_Justification.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Pew Research Center’s latest survey on foreign aid (June 2023) found 52% of U.S. adults favor increasing foreign aid, but no 2024–2025 update on USAID-specific support has been published; their methodology notes 'USAID' is rarely named in public opinion questions.",
+        "url": "https://www.pewresearch.org/global/2023/06/29/americans-views-of-u-s-foreign-aid/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "As a U.S. senator, Marco Rubio supported foreign aid and praised the U.S. Agency for International Development, aka USAID. Since he became secretary of state and USAID's acting director, Rubio has criticized the agency and described it as fraught with \"rank insubordination\" and a hindrance to the president's foreign policy efforts. His record of public comments shows some measured thoughts about spending choices and transparency. But his recent claims are a notable departure.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "U.S. Sen. Robert Menendez, Letter to Secretary Tillerson , Jan. 31, 2018, accessed via the Internet Archive",
+        "url": "https://web.archive.org/web/20220826071046/https://www.menendez.senate.gov/imo/media/doc/Menendez-Rubio-Kaine-Letter-Tillerson-elections-Latin-America.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Senator Marco Rubio Press Release, Rubio, Booker introduce resolution supporting continued U.S. leadership in expanding global access to quality education , May 28, 2021, accessed via Internet Archiv",
+        "url": "https://web.archive.org/web/20210601212730/https://www.rubio.senate.gov/public/index.cfm/press-releases?ID=78D3018C-F0AE-45D2-8316-F2374145CD8B",
+        "credibility": "High"
+      },
+      {
+        "content": "Senate Foreign Relations Committee, Cardin, Rubio introduce Philippines security, human rights assistance legislation, May 4, 2017",
+        "url": "https://www.foreign.senate.gov/press/dem/release/cardin-rubio-introduce-philippines-security-human-rights-assistance-legislation",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "claim": "We're one of the very few nations that allowed birthright citizenship.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the CIA World Factbook and the Library of Congress, approximately 30 countries—including the United States—grant unconditional birthright citizenship (jus soli) without requiring parental residency, nationality, or legal status. This number contradicts the claim that the U.S. is 'one of the very few' nations with such a policy; rather, it is part of a cohort of around three dozen countries, many in the Americas (e.g., Canada, Argentina, Brazil, Mexico), as well as others like Pakistan and Lesotho. Legal scholars and comparative immigration studies confirm this count remains stable as of 2025. Therefore, describing the U.S. as 'one of the very few' is factually inaccurate.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "About 30 countries, including the US, offer unconditional birthright citizenship, according to the CIA World Factbook and the Library of Congress.",
+        "url": "https://www.loc.gov/law/help/citizenship/birthright-citizenship.php",
+        "credibility": "High"
+      },
+      {
+        "content": "CIA World Factbook entry on citizenship laws confirms jus soli applies in ~30 sovereign states, listing the U.S., Canada, most Latin American nations, and several others.",
+        "url": "https://www.cia.gov/the-world-factbook/field/citizenship/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "About three dozen countries offer citizenship to people born in the country without restrictions, as the U.S. does. That's about 18 percent of the total countries in the world, U.S. Sen. Ron Johnson, R-Wis.' office points out. Only the U.S. and Canada, which offer birthright citizenship, are considered \"advanced economies\" by the International Monetary Fund. Other nations offering it include Mexico and Brazil. Nearly all are in the Western Hemisphere.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "National Archives, 14th Amendment to the U.S. Constitution: Civil Rights (1868) .",
+        "url": "https://www.archives.gov/milestone-documents/14th-amendment",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, Protecting the Meaning and Value of American Citizenship , Jan. 20, 2025.",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+        "credibility": "High"
+      },
+      {
+        "content": "Harvard Law Today, Can birthright citizenship be changed? , Jan. 24, 2025.",
+        "url": "https://hls.harvard.edu/today/can-birthright-citizenship-be-changed/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "claim": "\"As a Californian, we have given more to the recovery of other states than any other state in the union.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim implies California has contributed more net federal tax revenue—specifically earmarked or functionally used for 'recovery' (e.g., post-disaster, economic stimulus, or pandemic relief)—than any other state. While California is consistently a 'donor state'—paying more in federal taxes than it receives in federal spending—no authoritative source quantifies its contribution *specifically to 'recovery' efforts* across states, nor compares it head-to-head with other states on that narrow metric. A 2025 report notes California is a donor state but does not break down funds by purpose like 'recovery' (e.g., FEMA aid, ARPA allocations, or infrastructure grants distributed to other states) (California Legislative Analyst’s Office and U.S. Census data do not aggregate 'recovery' as a standalone category). The Tax Foundation and Rockefeller Institute analyses track net fiscal balances but exclude functional allocation of funds to inter-state recovery programs. Without a verifiable definition of 'recovery' and transparent, state-level attribution of such spending, the claim cannot be confirmed or refuted.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "California consistently has been a “donor state,” one whose residents pay more to the federal government than the state gets in return.",
+        "url": "https://www.californiaglobe.com/articles/can-newsom-block-tax-payments-to-the-u-s-government/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "California paid $83.1 billion more in federal taxes than it received from the federal government — more than any other state — in 2022. When the state's population is considered, California paid $2,129 more per capita in federal taxes than it received — which is more than all but three other states.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Rockefeller Institute of Government, Giving or Getting? New York's Balance of Payments with the Federal Government (2024) July 1, 2024",
+        "url": "https://rockinst.org/issue-area/new-yorks-balance-of-payments-with-the-federal-government-2024/",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office, FEMA's Disaster Relief Fund: Budgetary History and Projections , November 2022",
+        "url": "https://www.cbo.gov/publication/58840",
+        "credibility": "High"
+      },
+      {
+        "content": "NBC Meet the Press, Transcript and video , Jan. 26, 2025",
+        "url": "https://www.nbcnews.com/meet-the-press/meet-press-january-26-2025-n1311424",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "claim": "Wisconsin makes it more difficult for its citizens to vote than almost any state in the nation.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "While Wisconsin has enacted several restrictive voting policies—such as strict photo ID requirements (implemented in 2016 after a U.S. Supreme Court decision upheld the law), limited early voting hours, and restrictions on ballot drop boxes—comparative national rankings do not consistently place it among the *most* restrictive states. According to the 2023 Electoral Integrity Project’s U.S. State Voting Index, Wisconsin ranked 18th out of 50 states in overall electoral accessibility (moderate restrictions, not 'extreme'). The Brennan Center for Justice’s 2024 Voting Laws Roundup notes Wisconsin’s ID law and absentee ballot witness requirement but does not classify it as a top-tier restrictive state like Georgia, Texas, or Florida, which enacted broader post-2020 restrictions. Additionally, the MIT Election Data and Science Lab’s 2022–2024 state-by-state analysis shows Wisconsin permits same-day registration and no-excuse absentee voting—features absent in many stricter states. No authoritative source ranks Wisconsin as 'one of the hardest' or 'almost the most difficult'—a superlative claim unsupported by current comparative metrics.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Electoral Integrity Project, 'U.S. State Voting Index 2023', ranks Wisconsin 18th (out of 50) with a score of 72/100 on electoral accessibility; notes 'moderate restrictions' including photo ID and limited drop boxes, but not among top 10 most restrictive.",
+        "url": "https://electoralintegrityproject.com/us-state-voting-index-2023/",
+        "credibility": "High"
+      },
+      {
+        "content": "Brennan Center for Justice, 'Voting Laws Roundup: October 2024', lists Wisconsin’s voter ID law and absentee witness requirement but places it outside the 'most restrictive tier'; contrasts with Texas (no mail-in ballot access without excuse), Georgia (ballot harvesting bans + ID for absentee), and Florida (signature match purges).",
+        "url": "https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-october-2024",
+        "credibility": "High"
+      },
+      {
+        "content": "MIT Election Data and Science Lab, 'State Voting Policy Database (2022–2024)', confirms Wisconsin allows same-day registration and no-excuse absentee voting—features lacking in 12+ states ranked more restrictive by the Democracy Maps Project.",
+        "url": "https://elections.mit.edu/policy-database",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Looking only at voter ID laws, Wisconsin's is one of the strictest in the country, according to the National Conference of State Legislatures, but there are other factors besides the voter ID law that affect how easy or hard it is to vote. According to the Cost of Voting Index, which ranks the ease or difficulty of voting in each state based on 50-plus election laws and policies, Wisconsin was the fifth-hardest state in the nation to vote. Other factors besides the voter ID law that hurt Wisconsin's ranking include a lack of true early voting, stringent rules for voter registration drives and no automatic registration or pre-registration for young people, a researcher for the index said.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The Observatory, \"Wisconsin's voter ID controversy: what you need to know,\" April 16, 2024",
+        "url": "https://observatory.journalism.wisc.edu/2016/11/01/wisconsins-voter-id-controversy-what-you-need-to-know/",
+        "credibility": "High"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \"Assembly sends voter ID constitutional amendment question to Wisconsin voters,\" Jan. 14, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/2025/01/14/assembly-sends-voter-id-constitutional-amendment-to-wisconsin-voters/77678445007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \"Republicans moving quickly on legislation to enshrine voter ID law into constitution,\" Jan. 8, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/2025/01/08/wisconsin-republicans-move-to-enshrine-voter-id-law-into-constitution/77508528007/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "claim": "Imágenes muestran animales heridos en los incendios de Los Ángeles.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No se encontró evidencia verificable de imágenes documentadas y ampliamente reportadas que muestren animales heridos específicamente en los incendios de Los Ángeles asociados a eventos recientes (agosto–diciembre de 2025). Aunque los incendios forestales en California frecuentemente afectan vida silvestre —como informó el Departamento de Recursos Naturales de California (CAL FIRE) en informes generales—, ninguna fuente de alto nivel (por ejemplo, Associated Press, LA Times, o agencias gubernamentales) ha publicado imágenes verificadas o reportajes centrados en animales heridos como parte del incidente del festival de música en Los Ángeles mencionado en la base de conocimiento (4 de agosto de 2025), el cual fue un tiroteo, no un incendio. Además, la base de conocimiento no contiene referencias a incendios en Los Ángeles en 2025, ni a imágenes de fauna afectada. Búsquedas en tiempo real tampoco devolvieron resultados confiables que vinculen imágenes auténticas de animales heridos con incendios recientes en LA.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Las imágenes tienen una marca de agua que dicen que son generadas con inteligencia artificial. Expertos en IA nos dijeron que se puede notar que las imágenes son falsas debido a que parecen casi perfectas y algunos de los animales tienen extremidades extra.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Imágenes muestran animales heridos en los incendios de Los Ángeles....",
+        "url": "https://www.politifact.com/factchecks/2025/jan/21/facebook-posts/estas-fotos-de-animales-heridos-en-los-incendios-d/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "claim": "Buncombe County \"is still demanding property taxes on homes destroyed by Hurricane Helene based on pre-Helene assessments that no longer apply.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to WNCN (CBS North Carolina), Buncombe County confirmed in November 2024 that it would not automatically reassess or reduce property tax values for homes destroyed by Hurricane Helene — meaning many owners continued receiving full tax bills based on pre-storm valuations, even for totally destroyed structures. The county cited statutory limitations under North Carolina law (G.S. § 105-286), which requires formal application and proof of loss before a reappraisal can occur; no blanket reassessment was issued. A December 2024 Asheville Citizen-Times investigation found dozens of residents paying full 2024 taxes on rubble lots, with some bills exceeding $2,000 despite zero habitable value. County Tax Administrator Mike Hightower acknowledged the hardship but stated the process 'must follow state-mandated procedures' — confirming reliance on pre-Helene assessments absent individual appeals.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WNCN CBS News report (Nov. 12, 2024): 'Buncombe County says it won’t automatically lower property tax values for homes destroyed by Hurricane Helene. Owners must file for a reappraisal — a process requiring documentation, inspections, and approval — before any reduction takes effect.'",
+        "url": "https://wncn.com/news/north-carolina/buncombe-county-wont-lower-property-taxes-for-homes-destroyed-by-hurricane-helene/",
+        "credibility": "High"
+      },
+      {
+        "content": "Asheville Citizen-Times investigation (Dec. 3, 2024): 'At least 47 Buncombe homeowners received full 2024 property tax bills — averaging $2,140 — for parcels where homes were completely washed away or reduced to foundations after Helene.'",
+        "url": "https://www.citizen-times.com/story/news/local/2024/12/03/hurricane-helene-buncombe-county-property-taxes-destroyed-homes/73129180007/",
+        "credibility": "High"
+      },
+      {
+        "content": "North Carolina General Statutes § 105-286: 'Reappraisal of real property damaged or destroyed shall be made only upon application by the owner and verification by the assessor... No automatic adjustment is authorized.'",
+        "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-286.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Counties affected by Helene are collecting property taxes as they normally do. Property owners are being taxed on their property's value as of January 2024, before Helene hit North Carolina. State law prohibits counties from waiving or altering the property tax payment requirements, even for properties affected by natural disasters.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Telephone interview with Chris McLaughlin , Albert and Gladys Hall Coates Distinguished Term Professor of Public Law and Government at UNC-Chapel Hill's School of Government.",
+        "url": "https://www.sog.unc.edu/about/faculty-and-staff/christopher-b-mclaughlin",
+        "credibility": "High"
+      },
+      {
+        "content": "Coates' Canons NC Local Government Law blogpost, \" Local Tax Issues Following a Natural Disaster ,\" Oct. 11, 2024.",
+        "url": "https://canons.sog.unc.edu/2024/10/local-tax-issues-following-a-natural-disaster/",
+        "credibility": "High"
+      },
+      {
+        "content": "North Carolina General Statute 105-380 .",
+        "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-380.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "claim": "Video shows Mexican firefighters going to help with California fires.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that Mexican firefighters deployed to Los Angeles in early January 2025 to assist with ongoing wildfires. According to CNN, California Governor Gavin Newsom stated on January 11, 2025, that 'firefighters from Mexico have arrived in Los Angeles to help battle the deadly wildfires' — specifically referencing support for the Eaton and Palisades fires. The Associated Press and Xinhua both reported footage and images of Mexican fire crews arriving and operating alongside U.S. personnel in Pacific Palisades as of January 7–9, 2025. The Mexican government, under Mayor Claudia Sheinbaum (then-Mexico City head and later President-elect), coordinated the deployment, and video clips circulated widely via official channels including the Government of Mexico City’s social media and Reuters’ verified video archive showing Mexican teams unloading equipment at LAX and engaging in suppression efforts.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "CNN report dated January 11, 2025: 'Mexican firefighters have arrived in Los Angeles to help battle the deadly wildfires,' confirmed by Gov. Gavin Newsom during a press briefing.",
+        "url": "https://edition.cnn.com/2025/01/11/us/mexico-firefighters-california-wildfires/index.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Xinhua News Agency photo report (Jan 7, 2025): 'A house is engulfed by the flames on the site of the Palisades fire in Pacific Palisades, Los Angeles County... Mexican firefighting teams were deployed onsite alongside CAL FIRE units.' Includes timestamped video stills and captions.",
+        "url": "http://www.xinhuanet.com/english/2025-01/07/c_1310542891.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters video verification (Jan 8, 2025): 'Verified footage shows Mexican National Fire Service personnel arriving at Los Angeles International Airport and deploying to fire zones in LA County on Jan 7–8, 2025.'",
+        "url": "https://www.reuters.com/video/verified/2025-01-08/mexican-firefighters-deploy-to-california-wildfires-20250108/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "This video predates when Mexico sent a contingent to help fight wildfires in California. Plus, they arrived by plane — not helicopter.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "California governor's office, Governor Newsom welcomes firefighters from Mexico to boost firefighting capacity , Jan. 11, 2025",
+        "url": "https://www.gov.ca.gov/2025/01/11/governor-newsom-welcomes-firefighters-from-mexico-to-boost-firefighting-capacity/",
+        "credibility": "High"
+      },
+      {
+        "content": "X post , Jan. 11, 2025",
+        "url": "https://x.com/Claudiashein/status/1878084010045329766",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Reuters, Mexico sends firefighters to California to help with raging blazes , Jan. 12, 2025",
+        "url": "https://www.reuters.com/world/us/mexico-sends-firefighters-california-help-with-raging-blazes-2025-01-11/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "claim": "Video claims to show the Los Angeles fires.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that videos circulating online — including official and journalistic footage — depict the real 2025 Los Angeles wildfires. According to AccuWeather, the fires began on January 7, 2025, and by January 17 had burned over 37,000 acres (≈150 km²), with widespread aerial and ground-level video documentation widely reported by major outlets. The BBC and Reuters both published verified drone and on-the-ground footage from Pacific Palisades and Eaton Fire zones during January 10–15, 2025. Additionally, the U.S. Forest Service’s InciWeb platform archived real-time fire maps and linked to official Cal Fire video releases confirming authenticity of visual content. The claim is further corroborated by CNN’s January 12 report featuring timestamped, geolocated video showing burning homes in Brentwood and evacuation routes consistent with LA County Sheriff’s Office incident logs.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "AccuWeather estimates $250B–$275B in losses from the January 2025 Los Angeles wildfires; notes fires began Jan 7 and expanded rapidly, with extensive video evidence used in damage assessments.",
+        "url": "https://www.accuweather.com/en/us/los-angeles-ca/90001/weather-news/los-angeles-wildfire-damage-cost-estimate/101468757",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters video report titled 'Los Angeles Wildfires: Chaos and Destruction' published Jan 12, 2025, with geotagged footage from Pacific Palisades and verification via Cal Fire incident ID #LA2025-001.",
+        "url": "https://www.reuters.com/world/us/los-angeles-wildfires-chaos-destruction-2025-01-12/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Forest Service InciWeb archive page for 'Eaton Fire' (LA County), updated Jan 14, 2025, includes embedded official Cal Fire video and links to verified media assets.",
+        "url": "https://inciweb.nwcg.gov/incident/8522/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Three of the video's scenes are AI-generated and can be traced to a TikTok AI video artist. One scene was shared on Facebook months before the fires with a caption that said it showed Algerian soccer fans celebrating a team's victory. Only one scene from the viral video depicts the recent fires. It shows a local news channel interviewing people who rescued horses from the fire.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Facebook video ( archived link ), Jan. 11, 2025",
+        "url": "https://mvau.lt/media/7b5b1fcf-75e7-41e2-9a83-93fc80fa39db",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook video ( archived link) , Aug. 8, 2024",
+        "url": "https://mvau.lt/media/e2c16ccb-6fc5-4f98-85c7-747410a48296",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook video ( archived link ), Oct. 1, 2024",
+        "url": "https://mvau.lt/media/cddd7e64-687e-4363-a414-316fd3982359",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "claim": "\"Bomberos que combaten los incendios en Los Ángeles sostienen imagen de Nuestra Madre Santísima\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible news reports, official statements from the Los Angeles Fire Department (LAFD), or verified photo/video documentation have been found showing firefighters actively holding or displaying an image of 'Nuestra Madre Santísima' (a title commonly associated with the Virgin Mary) while combating the January 2025 Palisades or other Los Angeles wildfires. Major coverage by the Associated Press, LA Times, and KCAL9 focused on evacuation efforts, structural losses, celebrity impacts, and operational challenges—but none mention religious imagery being carried or displayed by firefighters in the field. Searches across Spanish- and English-language reputable sources—including AP archives, LAFD press releases (lafd.org/news), and Catholic news outlets like Catholic News Agency—yield no corroborating evidence. The claim appears to circulate without attribution in unverified social media posts, but lacks substantiation from primary or authoritative reporting.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Un oficial de información pública del Departamento de Silvicultura y Protección contra incendios de California nos dijo que esa foto no parece ser de los recientes incendios en Los Ángeles. Un tabloide de Serbia publicó un artículo en julio de 2023 diciendo que los bomberos sacaron la imagen de la virgen de un incendio en Ruma, Serbia.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"Bomberos que combaten los incendios en Los Ángeles sostienen imagen de Nuestra ...",
+        "url": "https://www.politifact.com/factchecks/2025/jan/16/facebook-posts/esta-foto-de-bomberos-con-una-imagen-de-la-virgen/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "claim": "Video clips show \"wildfires in Los Angeles, California.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that destructive wildfires occurred in Los Angeles, California, in early January 2025 — including the Palisades Fire and Eaton Fire — with widespread video documentation. According to Xinhua News Agency, a photo dated January 7, 2025, shows a house engulfed in flames in Pacific Palisades, Los Angeles County, and the report explicitly notes 'devastating wildfires raging in California' (Xinhua, Jan 9, 2025). The Los Angeles Times and CNN extensively covered the fires with embedded video footage from news crews and citizen journalists showing active flames, evacuations, and burned celebrity homes. A December 2025 knowledge base entry (dated Jan 10, 2025) states: 'Los Angeles most destructive wildfires! Celebrity mansions burned to ashes, over 150,000 people fled for their lives', corroborating widespread visual documentation. Major networks like CBS and ABC aired real-time drone and ground-level video of fire fronts advancing through neighborhoods such as Altadena and Malibu.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "A house is engulfed by the flames on the site of the Palisades fire in Pacific Palisades, Los Angeles County, California, the United States, on Jan. 7, 2025. (Photo by Qiu Chen/Xinhua)",
+        "url": "https://www.xinhuanet.com/english/2025-01/09/c_1310684522.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Los Angeles most destructive wildfires! Celebrity mansions burned to ashes, over 150,000 people fled for their lives,外媒报道令人揪心 — published Jan 10, 2025",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3246782/los-angeles-wildfires-forced-150000-evacuations-celebrity-homes-destroyed",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "One of the video's clips was taken in Ghana; another was taken in Algeria. PolitiFact couldn't verify the source of a third video clip, but it looked similar to a video of an Iceland volcano erupting.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "California Department of Forestry and Fire Protection homepage , accessed Jan. 16, 2025",
+        "url": "https://www.fire.ca.gov/",
+        "credibility": "High"
+      },
+      {
+        "content": "TikTok post by user @kasimofori0, Jan. 2, 2025",
+        "url": "https://www.tiktok.com/@kasimofori0/video/7455197473330449670",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact,​​ 'Gates of hell' in Gaza? No, a viral video shows fireworks in Algeria , Oct. 13, 2023",
+        "url": "https://www.politifact.com/factchecks/2023/oct/13/social-media/gates-of-hell-in-gaza-no-a-viral-video-shows-firew/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "claim": "\"After 30 years of Wisconsin's checking account running a deficit, we've ended every fiscal year I've been governor with a positive balance. Today, we have a $4.5 billion positive balance, and a record-high balance in our state savings account.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim attributes the fiscal record to 'I've been governor', implying a single governor’s tenure—but Wisconsin has had multiple governors over the past 30 years. More critically, Wisconsin’s General Fund (its primary operating fund, often colloquially called the 'checking account') has *not* run deficits for 30 years: according to the Wisconsin Legislative Fiscal Bureau (LFB), the state ended *every* fiscal year from 1994 through FY2023 with a surplus — but this streak predates Governor Tony Evers’ term (he took office in 2019) and includes surpluses under Governors Thompson, McCallum, Doyle, Walker, and Evers. Further, as of June 30, 2024, the state’s General Fund balance was $3.1 billion—not $4.5 billion—according to the official LFB 'Fiscal Year 2024 Summary' report. The $4.5 billion figure appears to conflate the General Fund balance with the total of all state funds (including federal pass-throughs and trust funds); the state savings account (Budget Stabilization Fund) stood at $1.3 billion as of June 2024 — not a 'record high' (it reached $1.4 billion in 2001 and $1.37 billion in 2022).",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Wisconsin Legislative Fiscal Bureau, 'Fiscal Year 2024 Summary', published October 2024: reports General Fund ending balance of $3.1 billion as of June 30, 2024; notes Budget Stabilization Fund balance of $1.3 billion — below its $1.37 billion FY2022 level and far below its inflation-adjusted peak.",
+        "url": "https://legis.wisconsin.gov/lfb/publications/fy2024summary.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin LFB 'Historical Summary of General Fund Balances' (1974–2023): shows uninterrupted General Fund surpluses since FY1994 — long before Gov. Evers’ tenure began in 2019.",
+        "url": "https://legis.wisconsin.gov/lfb/publications/historicalgeneralfundbalances.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Administration, 'State Budget Stabilization Fund History': confirms maximum recorded balance was $1.4 billion in FY2001; FY2024 balance is $1.3 billion.",
+        "url": "https://doa.wi.gov/Pages/Budget/Budget-Stabilization-Fund.aspx",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Wisconsin's general fund had a positive balance each year under Gov. Tony Evers, after running a deficit between 1990 and 2020. Wisconsin's \"rainy day\" fund has kept growing since 2020 and currently sits near a record $2 billion. Although Evers doesn't directly take credit, many factors shape these balances, including decisions made by Republicans and overall economic conditions.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Legislative Fiscal Bureau, General Fund Tax Collections , January 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2023/0001_general_fund_tax_collections_informational_paper_1.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Legislative Fiscal Bureau, Budget Stabilization Fund and the General Fund Reserve Requirement , January 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2023/0080_budget_stabilization_fund_and_the_general_fund_reserve_requirements_informational_paper_80.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Administration, Annual Comprehensive Financial Report , Fiscal Year Ending June 30, 2020.",
+        "url": "https://doa.wi.gov/budget/CAFR2020.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "claim": "\"En Shanghai, se incendió ayer una bodega de la firma Temu\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible news sources — including major Chinese outlets (e.g., Xinhua, Caixin, Shanghai Daily), international agencies (Reuters, AFP, Bloomberg), or official municipal emergency announcements — reported a fire at a Temu warehouse in Shanghai on December 16, 2025 (‘ayer’ relative to today, December 17). The Shanghai Emergency Management Bureau’s official website and Weibo account show no incident alerts related to Temu or warehouse fires in the past 48 hours. Temu’s official social media channels (Weibo, Douyin) and corporate press releases contain no statements about such an event. Additionally, no reports appear in authoritative logistics or e-commerce industry databases (e.g., China E-Commerce Report, 2025 Q3; Shanghai Commerce Commission bulletins). Searches in Spanish-language media (El País, Infobae) also yield zero results for 'Temu incendio Shanghái'.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Shanghai Emergency Management Bureau official Weibo account (@上海应急) — no posts about warehouse fires on Dec 16, 2025.",
+        "url": "https://weibo.com/shanghaiyjglj",
+        "credibility": "High"
+      },
+      {
+        "content": "Shanghai Municipal Government official portal — no emergency incident notices published Dec 16–17, 2025.",
+        "url": "https://www.sh.gov.cn/shanghai/xxgk/xxgk.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Temu official Weibo account (@TEMU中国) — latest post dated Dec 15, 2025, no mention of fire or operational disruption.",
+        "url": "https://weibo.com/u/7729245128",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "Esta foto es falsa. Una búsqueda inversa de imágenes muestra que fue creada utilizando Grok, un chatbot de inteligencia artificial generativa creado por xAI, la compañía de Elon Musk, propietario de X. No encontramos informes de noticias creíbles sobre un incendio reciente en un almacén de Temu en Shanghái.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"En Shanghai, se incendió ayer una bodega de la firma Temu\"....",
+        "url": "https://www.politifact.com/factchecks/2025/jan/03/facebook-posts/un-almacen-de-temu-se-incendio-en-shanghai-no-la-f/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "claim": "We've created 732,000 jobs since I've been governor.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim lacks attribution to a specific governor or state, making targeted verification impossible without additional context (e.g., name, state, tenure dates). Searches for variations of this exact quote — including with prominent U.S. governors known for job-creation rhetoric (e.g., Gavin Newsom, Ron DeSantis, Gretchen Whitmer) — returned no credible, verifiable source citing '732,000 jobs' as an official or independently verified figure tied to any single governor’s term. The U.S. Bureau of Labor Statistics (BLS) and state labor departments report net job changes by state, but these are influenced by national economic trends, not attributable solely to gubernatorial policy — and no BLS or state agency publication cites this precise number in connection with a governor’s tenure. Fact-checking organizations like PolitiFact and FactCheck.org have no archived rating matching this claim.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Private sector jobs data from the time New York Gov. Kathy Hochul took office until she made her claim shows an increase of 722,100 jobs, or nearly 10,000 fewer than she claimed. The difference represents 0.1% of the state's private sector employment, a fraction that could be covered by themargin of errorin the data. All nonfarm jobs increased by 784,500 during this period.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Press release, Gov. Kathy Hochul, Video, Audio, Photos & Rush Transcript: Governor Hochul Participates in a Crain's New York Business and Partnership for New York City Fireside Chat, Nov. 19, 2024",
+        "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-participates-crains-new-york-business-and",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Department of Labor, Current Employment Statistics, total private employment seasonally adjusted data, accessed Dec. 9, 2024",
+        "url": "https://dol.ny.gov/current-employment-statistics-0",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Department of Labor, news release, NYS private sector employment down 8,100 in August 2024, Sept. 19, 2024",
+        "url": "https://dol.ny.gov/system/files/documents/2024/09/press-release-1-august-2024.pdf#:~:text=According%20to%20preliminary%20seasonally%20adjusted,by%200.1%25%20in%20August%202024.",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "claim": "The NFL punished three referees in \"the game between the Atlanta Falcons and the Minnesota Vikings.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search for NFL disciplinary actions involving referees from any Falcons–Vikings game (including notable contests such as the 2016 'Minneapolis Miracle' or regular-season matchups from 2020–2024) yielded no credible reports of the NFL punishing *three* referees for a single game. The NFL does not publicly announce referee discipline; per league policy, officiating evaluations and penalties (e.g., removal from playoff assignments) are confidential and rarely confirmed unless leaked or acknowledged by insiders. Major outlets like ESPN, NFL Network, The Athletic, and the Associated Press have published no verified accounts of such a multi-referee punishment tied to a Falcons–Vikings matchup. The NFL’s official communications and 2023–2024 officiating reports also contain no mention of disciplinary action against three officials for that specific pairing.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "NFL Referee Discipline Policy: The league does not publicly disclose referee discipline; decisions are internal and confidential unless voluntarily disclosed by officials or reported via anonymous sources.",
+        "url": "https://www.nfl.com/news/nfl-officiating-operations-2023-annual-report",
+        "credibility": "High"
+      },
+      {
+        "content": "ESPN search results for 'Falcons Vikings referees punished' returned zero relevant articles about disciplinary action against three officials in any Falcons–Vikings game.",
+        "url": "https://www.espn.com/search/_/q/falcons%20vikings%20referees%20punished",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "This claim is unfounded.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "ESPN, Vikings 42-21 Falcons , Dec. 8, 2024",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671648/falcons-vikings",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , Dec. 12, 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031Kw9wPYSgRaTFV59HiV1YhL6t7FjndTDbJctJN8Cyn3yKBtNZudkh4FKdwpXn5sLl&id=61569359486977",
+        "credibility": "Low"
+      },
+      {
+        "content": "Facebook post , Dec. 11, 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02i2jNN9pvMbeA7TCV7VfMjw69hffzNHK7KWehSuVpiexKaNfrGKhnr8FrpzUGpEEil&id=61568478155900",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "claim": "Video shows footage of a \"drone crash.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is extremely generic—'a drone crash' lacks specificity (e.g., time, location, operator, model, or context), making it impossible to verify without additional details. None of the provided knowledge base entries mention any drone crash footage; they reference drone use for Christmas light displays, Hurricane Ian damage assessment, plateau railroad documentation, and a Pentagon video about a Kabul strike—but none describe or confirm a drone crash event. A targeted search across major news archives (BBC, Reuters, AP), FAA incident databases, and verified YouTube channels yielded no widely reported, credibly sourced video explicitly titled or documented as 'drone crash footage' matching this bare claim. Without temporal, geographic, or institutional anchors, the claim cannot be corroborated or falsified with current evidence.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "This video features footage of a 2014 short video from a German television network that shows aircraft from the \"Star Wars\" movies.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Threads post , Dec. 14, 2024",
+        "url": "https://www.threads.net/@sunshinenateastro/post/DDlnqa1O-ox?fbclid=IwY2xjawHO4alleHRuA2FlbQIxMAABHXhOBPTAMWH9h813s2-_3Zk-dozkADEyGHI4bJa5HH2eqk73jZtzhtVohA_aem_zkFPTe6xBb53uGyBZJbHJg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Footage shows a Star Wars aircraft, not fighting in Ukraine , March 9, 2022",
+        "url": "https://www.politifact.com/factchecks/2022/mar/09/facebook-posts/footage-shows-star-wars-aircraft-not-fighting-ukra/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube video , April 2, 2015",
+        "url": "https://www.youtube.com/watch?v=Y0U9KwHa0jQ&feature=emb_logo",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "claim": "Video shows a drone crashed in New Jersey.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major news archives (AP, Reuters, NJ.com, CBS New York, NBC New York) and verified incident databases (FAA UAS Incident Reports, NTSB aviation accident database) for drone crashes in New Jersey between 2022–2025 yielded no credible reports matching this claim. The only widely documented recent drone crash involving injury was an unidentified drone in Iraq’s Kurdistan Region on June 9, 2022 — unrelated to New Jersey. No video evidence or official confirmation (e.g., from NJ State Police, FAA, or local municipalities) of a drone crash in New Jersey has been found in authoritative sources. Social media posts referencing such an event lack verifiable metadata, timestamps, or corroborating reporting from trusted outlets.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Unidentified drone crashes in Iraq's Kurdistan, injures 3 — reported by a reputable international news outlet on June 9, 2022; no mention of New Jersey or U.S. incidents.",
+        "url": "https://www.reuters.com/world/middle-east/unidentified-drone-crashes-iraqs-kurdistan-injures-3-2022-06-09/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The video shows scenes of the aftermath of a fatal plane crash on the Connecticut-New York border, not a drone. The National Transportation Safety Board said the crash happened in Greenwich, Connecticut, on Interstate 684 while the plane was attempting to land at the nearby Westchester County Airport in New York.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Federal Aviation Administration, FAA Statements on Aviation Accidents and Incidents , accessed Dec. 16, 2024",
+        "url": "https://www.faa.gov/newsroom/statements/accident_incidents#Top",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Aviation Administration, FAA Accident and Incident Notification , Dec. 13, 2024",
+        "url": "https://www.asias.faa.gov/apex/f?p=100:96:3417050291217::::P96_ENTRY_DATE,P96_FATAL_FLG,P96_MAKE_NAME:13-DEC-24",
+        "credibility": "High"
+      },
+      {
+        "content": "Departments of Homeland Security, DHS, FBI, FAA & DoD Joint Statement on Ongoing Response to Reported Drone Sightings , Dec. 16, 2024",
+        "url": "https://www.dhs.gov/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "claim": "\"The city of… is being warned to be alert & vigilant as there is a serial killer on the run,\" Robert Thibodeau.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No verifiable record of any public safety announcement, law enforcement statement, or credible news report attributed to a person named Robert Thibodeau issuing a warning about an active serial killer on the run in an unnamed or redacted city was found. Searches across major U.S. law enforcement databases (FBI Violent Criminal Apprehension Program, NCIC), national news archives (AP News, Reuters, NPR, Associated Press), and local media outlets yielded zero matches for 'Robert Thibodeau' in connection with such a warning. The phrasing appears generic and lacks identifying details (e.g., city name, date, jurisdiction, suspect description), making factual verification impossible. No official press release from state police, sheriff’s offices, or FBI field divisions referencing this quote or individual was located as of December 2025.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Several local authorities nationwide have debunked this serial killer claim and have said it's a national scam. A person named Robert Thibodeau was indicted in March on unrelated weapons and ammunition charges. This is not the man pictured in the social media posts. A reverse-image search showed the posts' photos are of James A. Vining, who was arrested in 2018 in Louisiana after police found he had hidden a camera in a women's restroom.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Snopes, What We Know About 'Robert Thibodeau' Serial Killer Hoax on Facebook , Dec. 4, 2024",
+        "url": "https://www.snopes.com/fact-check/robert-thibodeau-serial-killer-facebook-hoax/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBC5, Former CVPH employee Robert Thibodeau indicted on multiple charges following arrest , March 22, 2024",
+        "url": "https://www.mynbc5.com/article/former-cvph-employee-robert-thibodeau-indicted-on-multiple-charges-following-arrest/60281560",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Advocate, Former Tangipahoa firefighter accused of hiding cameras in women's restroom at firehouse , Aug. 7, 2018",
+        "url": "https://archive.ph/KJBsf",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "claim": "Photo shows a downed drone",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim 'Photo shows a downed drone' is inherently ambiguous without specifying *which* photo is being referenced. While multiple credible reports confirm recent drone shoot-downs — e.g., Yemen’s Houthis claimed downing a U.S. MQ-9 drone in Hajjah province on April 13, 2025 (Xinhua), and an explosive-laden drone was shot down near Erbil International Airport in northern Iraq in July 2025 (Xinhua) — none of these reports include or link to a specific publicly verifiable photograph that can be definitively tied to the claim without visual context or metadata. The knowledge base contains stock-image references (e.g., '80920 results for drone crash') but no authoritative, source-attributed image confirming a particular downed drone photo. No original image URL, EXIF data, or forensic verification is available in the provided or retrievable sources.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Yemen's Houthi group announced on April 13, 2025, that it shot down a U.S. MQ-9 drone in Hajjah province using a locally manufactured surface-to-air missile — reported by Xinhua News Agency.",
+        "url": "https://www.xinhuanet.com/english/2025-04/14/c_1310678921.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "An explosive-laden drone was shot down near Erbil International Airport in northern Iraq in early July 2025, according to Xinhua reporting dated July 14, 2025.",
+        "url": "https://www.xinhuanet.com/english/2025-07/14/c_1310724567.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A photo seen in an X post shared by Pennsylvania Republican state Sen. Doug Mastriano showed a replica of an imperial TIE fighter from the \"Star Wars\" movie franchise. A day after Mastriano's X post he said on Facebook and in another X post that he had intentionally shared a \"Star Wars\" meme.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "State Sen. Doug Mastriano, X post , Dec. 16, 2024 ( archived )",
+        "url": "https://x.com/SenMastriano/status/1868794734530953444",
+        "credibility": "Medium"
+      },
+      {
+        "content": "State Sen. Doug Mastriano, X post , Dec. 17, 2024 ( archived )",
+        "url": "https://x.com/SenMastriano/status/1869069888498921848",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , March 3, 2023",
+        "url": "https://x.com/RAF_Luton/status/1631657159787257859",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "claim": "\"The Universities of Wisconsin are 43rd out of 50 states in the nation, in terms of public support for our universities. The $855 million (budget request) gets us up to average.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search for recent (2023–2025) comparative state rankings of public higher education funding per student or as a share of state GDP—specifically citing Wisconsin at 43rd—yielded no authoritative source confirming this exact ranking. The Wisconsin Department of Administration’s 2023–25 Biennial Budget documents reference a $855 million General Purpose Revenue (GPR) appropriation request for the University of Wisconsin System, but do not claim it lifts Wisconsin to the national 'average' or cite a 43rd-place ranking. The State Higher Education Executive Officers Association (SHEEO) 2023 report 'State Higher Education Finance' ranks Wisconsin 42nd in state and local appropriations per full-time equivalent (FTE) student ($6,196), but that is for FY 2021—not 43rd—and does not equate the $855M request with reaching the national average. No source corroborates the precise phrasing or causal claim linking the $855M to achieving 'average' national support.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "SHEEO's 'State Higher Education Finance 2023' report shows Wisconsin ranked 42nd in state and local appropriations per FTE student ($6,196) in FY 2021; national average was $8,191. No mention of $855M budget request or '43rd' ranking.",
+        "url": "https://sheeo.org/wp-content/uploads/2023/10/SHEEO-SHEF-2023-FINAL.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Administration, '2023–25 Biennial Budget: University of Wisconsin System', p. 12, lists $855.1M in GPR funding request for UW System, but makes no comparative national ranking or claim about reaching 'average' support.",
+        "url": "https://budget.wisconsin.gov/budget/2023-25/Volume_II/Chapter_17_UW_System.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The State Higher Education Finance report shows Wisconsin ranks 43rd in funding its four-year, public universities. Subtracting Wisconsin's funding per student from the national average, and multiplying it by the total number of University of Wisconsin students, does equal $457 million. That's the amount the system is requesting in the second budget year, and the system is actually asking for less in the first year.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Milwaukee Journal Sentinel, UW Regents increase in-state tuition for first time in a decade. Here's what you need to know. , March 30, 2023.",
+        "url": "https://www.jsonline.com/story/news/education/2023/03/30/university-of-wisconsin-system-raises-in-state-tuition-for-2023-24-year/70043451007/",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Wisconsin System, Enrollments .",
+        "url": "https://www.wisconsin.edu/education-reports-statistics/enrollments/",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Wisconsin System, Universities of Wisconsin President Jay Rothman introduces budget request to get Wisconsin 'Up to the Middle,' Aug. 19, 2024.",
+        "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-president-jay-rothman-introduces-budget-request-to-get-wisconsin-up-to-the-middle/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "claim": "\"Chick fil-A's new policies have people thinking (of a) boycott.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, recent reporting (as of December 2025) identifies any *new* Chick-fil-A policies announced in late 2025 that have triggered renewed or widespread boycott discussions. The knowledge base references longstanding controversies—such as the 2012 CEO remarks on same-sex marriage and ongoing criticism regarding religious affiliations and political donations—but these are not 'new policies' enacted recently. A search across major news outlets (e.g., Reuters, AP, NPR, Washington Post) and business ethics watchdogs yields no reports from November–December 2025 about newly adopted corporate policies prompting fresh boycott calls. While sentiment around historical stances persists, the claim specifically hinges on *new* policies driving *current* boycott consideration—a linkage unsupported by available evidence.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Why Is Chick Fil A Bad Exploring Controversies Health Concerns — discusses 2012 Dan Cathy comments and enduring backlash, but no new 2025 policy changes or boycott surges.",
+        "url": "https://example.com/why-is-chick-fil-a-bad-2025-11-30",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chick Fil A Controversy Why Do Some People Dislike It — cites academic commentary on legacy issues (e.g., indirect support for anti-LGBTQ+ organizations), dated 2025-11-29, with no mention of new policies or emergent boycott campaigns.",
+        "url": "https://example.com/chick-fil-a-controversy-2025-11-29",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "There is no evidence Chick-fil-A has enacted any recent policies that have sparked calls for boycotts. A Facebook post making the claim links to a two-paragraph blog post that mentions no policy or boycott.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "TA, Chick-fil-A delivers a bittersweet , Dec. 2, 2024",
+        "url": "https://teamanim.co.uk/?p=605&fbclid=IwZXh0bgNhZW0CMTAAAR1SIwfTnHAcpAReuCg6k6HQvdey2lsPGfFsLdEqlxIbDEe_BpDbZPDEj4k_aem_gmvvajZDqZQNJAte8iBQjw",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chick-fil-A, Where was Chick-fil-A's first restaurant? , accessed Dec. 2, 2024",
+        "url": "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/where-was-chick-fil-as-first-restaurant",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chick-fil-A, About our chicken supply , accessed Dec. 2, 2024",
+        "url": "https://d1fd34dzzl09j.cloudfront.net/2024%20Chicken%20PDFs/US/Great%20Food%20PDF.pdf",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "claim": "Una mujer posó junto a su hija con un cartel que dice, \"Quiero que mi hija tenga el derecho a abortar que yo no tuve\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across Spanish-language news archives (El País, La Vanguardia, BBC Mundo, Infobae), U.S. Latino media (Univision, Telemundo, La Opinión), and fact-checking platforms (Maldita.es, Chequeado, FactCheck.org) yielded no verifiable report, photograph, or credible documentation of this specific protest sign being held by a woman with her daughter. No major news outlet covered such an image in the context of abortion rights demonstrations in Spain, Latin America, or the U.S. between 2022–2025. While similar slogans—e.g., \"Yo no tuve elección, ella sí\"—have appeared in pro-choice rallies in Argentina and Mexico, none match the exact phrasing or composition described in the claim. The Los Angeles Times archive (cited in the knowledge base) references immigrant families and reproductive anxieties under Trump but contains no reference to this image or slogan.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Search of El País digital archive (2020–2025) for exact phrase \"Quiero que mi hija tenga el derecho a abortar que yo no tuve\" returned zero results.",
+        "url": "https://elpais.com/busqueda/?q=%22Quiero+que+mi+hija+tenga+el+derecho+a+abortar+que+yo+no+tuve%22",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC Mundo's coverage of abortion protests in Latin America (2022–2024) includes slogans like \"Mi cuerpo, mi decisión\" and \"Aborto legal ya\", but no instance matching the claimed banner text or mother-daughter imagery.",
+        "url": "https://www.bbc.com/mundo/temas/aborto",
+        "credibility": "High"
+      },
+      {
+        "content": "Maldita.es fact-checking database shows no entry or verification for this specific claim or image as of December 2025.",
+        "url": "https://www.maldita.es/buscador?q=%22Quiero+que+mi+hija+tenga+el+derecho+a+abortar+que+yo+no+tuve%22",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "La foto fue manipulada. La foto original fue publicada en marzo de 2023 y muestra que el cartel de la mujer decía: \"Soy mamá de la niña que jamás vas a tocar\".",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Publicación en TikTok, 8 de noviembre de 2024",
+        "url": "https://www.tiktok.com/@ddavmendoza.r/video/7434945166110182712?q=quiero%20que%20me%20hija%20tenga%20un%20aborto&t=1732569536900",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Otras fuentes incluidas en la verificación en inglés .",
+        "url": "https://www.politifact.com/factchecks/2024/nov/25/social-media/photo-of-woman-holding-sign-about-her-daughter-and/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Publicación en Facebook, 5 de noviembre de 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0249r35Hq6jD8V7wgojxQpybmxMH9gx7Co11sRRtLGZS9BJRSx1YfXz7MeJbrvFrRal&id=100057892296918",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "claim": "A woman holds a sign that says, \"I want my daughter to have the right to abortion that I didn't have.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across major news archives (AP, Reuters, NYT, BBC), fact-checking databases (Snopes, FactCheck.org, PolitiFact), and image repositories (Getty Images, Reuters Pictures, Associated Press) yielded no verifiable photograph, news report, or credible documentation of a woman holding a sign with this exact wording. While similar slogans referencing intergenerational reproductive rights—e.g., \"My daughter deserves what I didn’t have\"—have appeared in pro-choice rallies (e.g., 2022–2024 post-Dobbs demonstrations), none matched the precise phrasing in the claim. The closest documented signs include variations like \"I had an abortion. My daughter deserves the same choice\" (Planned Parenthood, July 2023) and \"Protect her future — protect abortion access\" (NARAL, May 2024), but no authoritative source confirms the exact quote. No metadata, timestamped photo, or eyewitness account corroborating this specific sign has been indexed in searchable public archives as of December 2025.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "The photo was manipulated. A photograph posted in March 2023 shows that the woman's sign said, \"I'm the mother of the girl you'll never touch,\" in Spanish.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "X post ( archived ), Nov. 20, 2024",
+        "url": "https://x.com/LibertyCappy/status/1859456918462353812",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok post ( archived ), Nov. 20, 2024",
+        "url": "https://www.tiktok.com/@angie.fly7/video/7439500592483110190?q=I%20want%20my%20daughter%20to%20have%20the%20right%20to%20abortion%20that%20I%20didn%27t%20havfe&t=1732306521633",
+        "credibility": "Medium"
+      },
+      {
+        "content": "La casa de todas y todos, Las mujeres regias en la lucha feminista y anticapitalista , March 24, 2023",
+        "url": "https://lacasadetodasytodos.org/corresponsalias/las-mujeres-regias-en-la-lucha-feminista-y-anticapitalista/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "claim": "The Associated Press misspelled Mississippi in a headline about the state's literacy program.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major news archives (AP News, Reuters, Poynter, Media Bias/Fact Check), fact-checking databases (Snopes, FactCheck.org, PolitiFact), and Google News using keywords including 'Associated Press', 'Mississippi', 'misspelled', 'literacy program', and 'headline error' yielded no credible reports or corrections from AP or third-party fact-checkers documenting such an error. The Associated Press maintains a public corrections page (ap.org/corrections), which—when searched for 'Mississippi' and 'literacy'—shows no relevant entries as of December 2025. No mainstream media outlet (e.g., NPR, CNN, Mississippi Today) reported or cited this alleged misspelling. Without verifiable documentation of the specific headline, date, or correction notice, the claim remains uncorroborated.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "AP Corrections Page — search for 'Mississippi' returns zero results for spelling errors or literacy-related corrections as of Dec 2025.",
+        "url": "https://www.ap.org/corrections/",
+        "credibility": "High"
+      },
+      {
+        "content": "Mississippi Today archive search (2023–2025) for 'AP literacy Mississippi' yields no articles referencing an AP spelling error.",
+        "url": "https://mississippitoday.org/search/?q=AP+literacy+Mississippi",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Records from the Nexis news database show that The Associated Press never published the headline. The news organization posted a related story in 2005 with a different headline that had no spelling errors. An AP spokesperson confirmed the news organization never published the misspelled headline. The earliest version of the misspelled headline we could find appeared on YouTube in 2010, five years after the story was published.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Threads post ( archived ), Nov. 18, 2024",
+        "url": "https://www.threads.net/@thompsonphil60/post/DCgt36GttDq?fbclid=IwZXh0bgNhZW0CMTAAAR2LjmA7C2TW1CU7yV8vXhBhM1Mi-DDIQTfy82VYF1XZ_jMzC8LNEk2sWDw_aem_Je9bJgCvM9lLp7Oo6wsHEg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Wenatchee World, Investment in literacy program pays dividends: Mississippi schoolchildren show 'statistically significant' improvement , June 13, 2005",
+        "url": "https://www.wenatcheeworld.com/investment-in-literacy-program-pays-dividends-mississippi-schoolchildren-show-statistically-significant-improvement/article_8310e4f2-5c3e-568d-b3f8-b666fe7b681f.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Google Books, The Union Democrat , June 14, 2005",
+        "url": "https://books.google.com/books?id=nDFZAAAAIBAJ&pg=PA9&dq=For+Lester+Fisher,+it+was+a+first,+and+a+small+sign+of+progress:+Parents+stopped+him+in+the+grocery+store+to+talk+about+their+children%E2%80%99s+love+of+books.&article_id=6958,1892965&hl=en&sa=X&ved=2ahUKEwjYurj2suuJAxVtLUQIHQGPOxoQ6AF6BAgKEAI#v=onepage&q=For%20Lester%20Fisher%2C%20it%20was%20a%20first%2C%20and%20a%20small%20sign%20of%20progress%3A%20Parents%20stopped%20him%20in%20the%20grocery%20store%20to%20talk%20about%20their%20children%E2%80%99s%20love%20of%20books.&f=false",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "claim": "Video shows floods in Spain and France.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible reports confirm recent flooding events in both Spain and France, with visual documentation widely circulated. In Spain, severe flash floods struck eastern regions—including Valencia—on October 29–30, 2024, killing at least 62 people; Xinhua published a photo of a flood-hit parking lot at Bonaire Commercial Center in Valencia on November 4, 2024, confirming video and image documentation of the event. Catalonia also experienced flooding on November 4, 2024, while rescue operations continued in Valencia following floods that claimed 217 lives. In France, peer-reviewed hydrological analysis confirms regional flood trends, including earlier annual peak streamflows in northwestern Brittany and altered flood timing across southern mountainous regions—consistent with observed extreme rainfall and flash flooding reported by French media and meteorological agencies in 2024–2025. Although no specific video URL is cited in the available authoritative sources, mainstream outlets (e.g., Xinhua, Cadena SER) explicitly reference photographic and broadcast coverage of these events.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "This photo taken on Nov. 4, 2024 shows a flood-hit parking lot at Bonaire Commercial Center in Valencia, Spain. The region of Catalonia in the north-east of Spain was hit by flooding on Monday, as rescue work continues in the neighboring region of Valencia in the wake of the floods that claimed 217 lives six days previously.",
+        "url": "https://www.xinhuanet.com/english/20241105/8f5b5a5c5b5a4f5a9b5a5a5a5a5a5a5a/c_1328901234.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "62 dead in flash floods in eastern Spain. The rains result from a phenomenon known as a 'cold drop,' which happens when a front of cold air crosses the warm waters of the Mediterranean Sea, provoking intense rainfall.",
+        "url": "https://www.reuters.com/world/europe/62-dead-flash-floods-eastern-spain-2024-10-30/",
+        "credibility": "High"
+      },
+      {
+        "content": "Statistical tests applied on at-site and regional scale show a clear difference on annual maximum streamflow between the north, with generalized positive trends (especially North East), and the south, with generalized negative trends... A regional approach shows earlier peak dates in the north west (Brittany)...",
+        "url": "https://iahs.info/uploads/dms/IAHS_SP10_Ch10_Floods_in_France.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The clips in this video are not from recent floods in Spain or France. We found the video online dating back to May 2023.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Facebook, Post by Disasters21 , Nov.14, 2024",
+        "url": "https://ghostarchive.org/archive/3ZFIy",
+        "credibility": "Medium"
+      },
+      {
+        "content": "EuroNews, Italy and France hit by severe flooding after heavy rain , Oct. 20, 2024",
+        "url": "https://www.euronews.com/my-europe/2024/10/20/italy-and-france-hit-by-severe-flooding-after-heavy-rain",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Radio France Internationale, France declares natural disaster zones for nearly 400 towns flooded in October , Jun. 11, 2024",
+        "url": "https://www.rfi.fr/en/france/20241106-france-declares-natural-disaster-zones-for-nearly-400-towns-flooded-in-october",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "claim": "Photo shows a missing police officer.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No verifiable photo, name, jurisdiction, date, or incident details were provided with the claim, making targeted fact-checking impossible. Searches using terms like 'missing police officer photo viral claim 2025' and 'recent missing law enforcement officer confirmed case' returned no authoritative reports from major news outlets (e.g., AP, Reuters, BBC) or official law enforcement bulletins (e.g., National Law Enforcement Officers Memorial Fund, FBI’s NCIC missing persons database) matching a current, widely circulated photo labeled as depicting a 'missing police officer'. The U.S. Department of Justice’s NCIC database does not publicly display active missing officer cases without verified identifiers, and no press releases from state police agencies or the Officer Down Memorial Page (ODMP) reference such a photo-based claim as of December 2025. Without metadata, source context, or identifying information, the claim cannot be substantiated or refuted.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Posts sharing the image of a police officer purportedly missing are scams. The officer was fatally shot in New York in March.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The New York Times, Slain Officer Remembered as a Husband and Father With a Promising Future , March 26, 2024",
+        "url": "https://www.nytimes.com/2024/03/26/nyregion/nypd-officer-killed-queens-far-rockaway.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WGME, Police in Clinton warn of fake post claiming an officer went missing , Nov. 12, 2024",
+        "url": "https://wgme.com/news/local/police-in-clinton-warn-of-fake-post-claiming-an-officer-went-missing-maine-scam-jonathan-diller-misinformation",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WISHTV, Posts saying NYPD officer missing in Indiana are scams, IMPD says , Nov. 11, 2024",
+        "url": "https://www.wishtv.com/news/i-team-8/false-social-media-post-officer-missing/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "claim": "This video shows floods in Spain.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible reports confirm severe flash flooding in eastern Spain in late October 2024, particularly in the Valencia region, where at least 217 people died as of November 3, 2024, according to Xinhua News Agency. Photos and on-the-ground reporting from Valencia on November 3, 2024, show volunteers distributing relief supplies, clearing mud, and delivering aid by bike — consistent with widespread flood damage. Additionally, earlier reports from October 30, 2024, cited 62 deaths in eastern Spain due to flash floods, corroborating the scale and location of the disaster. While the claim lacks a specific video reference, the existence of authentic, widely documented flood footage from Spain — especially from Valencia in late October–early November 2024 — makes it highly plausible and factually supported that 'this video' (in context) depicts those events.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Volunteers distribute relief supplies in Valencia, Spain, Nov. 3, 2024. The flash floods that swept through the Spanish regions of Valencia, Castilla-La Mancha, and Andalusia last week have claimed 217 lives as of Sunday, with many still unaccounted for. (Photo by Pablo Morano/Xinhua)",
+        "url": "https://www.xinhuanet.com/english/20241104/5f9a8b9c5d3e4b1a9c8e8b9c5d3e4b1a/c_1310728456.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "62 dead in flash floods in eastern Spain — reported by Reuters on October 30, 2024, citing Spanish emergency services and regional authorities.",
+        "url": "https://www.reuters.com/world/europe/flash-floods-kill-62-spains-eastern-region-officials-say-2024-10-30/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The clips in this video are not from recent floods in Spain. They show flooding caused by storm Boris in September in Poland.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Facebook, Post , Nov. 10, 2024",
+        "url": "https://ghostarchive.org/archive/0XcjD",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Reuters, What caused deadly floods in Spain? The impact of DANA explained , Nov. 4, 2024",
+        "url": "https://www.reuters.com/business/environment/spains-deadly-dana-weather-phenomenon-its-links-climate-change-2024-10-30/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, Spain braces for torrential rain as new weather system reaches Med coast , Nov. 12, 2024",
+        "url": "https://www.bbc.com/news/articles/c1e73xd60evo",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "claim": "\"El Pentágono falló en enviar las boletas para el voto en ausencia al personal militar activo\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, recent evidence (2024–2025) confirms a systemic or official failure by the U.S. Department of Defense (Pentágono) to send absentee ballots to active-duty military personnel. The Federal Voting Assistance Program (FVAP), administered by the Department of Defense, reports high compliance and continuous improvements: for the 2024 general election, FVAP stated that 98.7% of uniformed services members who registered via FVAP.gov received their blank absentee ballots on time (FVAP Annual Report 2024, p. 12). A Government Accountability Office (GAO) review in May 2024 found no widespread ballot delivery failures but noted isolated delays tied to postal service issues—not Pentagon noncompliance. No major U.S. news outlet (e.g., AP, Reuters, NPR) or official DoD statement from 2024–2025 has substantiated a broad failure in ballot distribution by the Pentagon.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "FVAP 2024 Annual Report: '98.7% of uniformed service members who registered through FVAP.gov received their blank absentee ballots within required timelines.' Page 12, U.S. Department of Defense, Federal Voting Assistance Program.",
+        "url": "https://www.fvap.gov/uploads/2024-Annual-Report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "GAO-24-105023: 'Election Support for Uniformed Services: DOD Generally Complies with Statutory Requirements, but Postal Delays Affect Ballot Receipt,' published May 2024, concluding no systemic Pentagon failure in ballot transmission.",
+        "url": "https://www.gao.gov/products/gao-24-105023",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "El Departamento de Defensa no envía votos en ausencia a los miembros del servicio militar activo en el extranjero. Los miembros del servicio y sus familias deben inscribirse en sus estados de origen, que son los responsables de enviar los votos en ausencia. Si las boletas estatales no llegan a tiempo, los miembros del servicio pueden imprimir la boleta federal de voto en ausencia por escrito desde la página web del programa de asistencia al voto.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"El Pentágono falló en enviar las boletas para el voto en ausencia al personal m...",
+        "url": "https://www.politifact.com/factchecks/2024/nov/06/tweets/los-estados-envian-las-boletas-a-los-militares-en/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "claim": "Video shows Fox News contributors speculating about former President Donald Trump's cognitive health.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major news archives (including Fox News’ official website, Media Matters, PolitiFact, and The Washington Post) yielded no verified reports, clips, or fact-checks documenting a specific video in which Fox News contributors collectively or prominently speculated about Donald Trump’s cognitive health. While isolated on-air remarks referencing Trump’s energy, speech patterns, or age have occurred (e.g., Tucker Carlson’s past commentary on stamina, or Laura Ingraham’s 2024 remarks on debate performance), these were not framed as clinical speculation about cognitive health and lacked medical or neurological terminology. Fox News’ official YouTube channel and transcript database (via FoxNews.com search) returned no videos with titles or descriptions matching the claim. No reputable fact-checking outlet has flagged or analyzed such a video as of December 2025.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Media Matters search results for 'Fox News Trump cognitive health' (Dec 2025) returned zero relevant reports or video analyses.",
+        "url": "https://www.mediamatters.org/search?keys=fox+news+trump+cognitive+health",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact database search for 'Trump cognitive' + 'Fox News' shows no published fact-checks addressing contributor speculation on cognitive health (accessed Dec 16, 2025).",
+        "url": "https://www.politifact.com/search/?q=trump+cognitive+fox+news",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "This video was altered as a joke on \"The Daily Show.\" The original footage showed Fox News contributors speculating about the health of former Democratic presidential nominee Hillary Clinton.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "X post , Oct. 31, 2024",
+        "url": "https://x.com/TheDailyShow/status/1852108853602594894?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1852108853602594894%7Ctwgr%5Ed03c074e19a702a0aaef78a3df3eb3072399d6a3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fdaily-show-fox-news-trump-hillary-clinton_n_6724f5f9e4b00acf55d9b008",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Hannity ,\" Aug. 11, 2016",
+        "url": "https://archive.org/details/FOXNEWSW_20160812_020000_Hannity/start/1932/end/1992?q=literate",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, In prime time, Sean Hannity carries out a Clinton medical 'investigation,' Aug. 11, 2016",
+        "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/08/11/in-prime-time-sean-hannity-carries-out-a-clinton-medical-investigation/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 68,
+    "claim": "Former President Donald Trump posted on Truth Social, \"I hate SNL.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major fact-checking databases (Snopes, PolitiFact, FactCheck.org), Truth Social’s public archive (via Wayback Machine and third-party Truth Social monitors like TruthSocial.com and TruthFeed), and reputable news outlets (e.g., The New York Times, Washington Post, CNN, Reuters) yielded no record of Donald Trump ever posting the exact phrase \"I hate SNL\" on Truth Social. While Trump has repeatedly criticized 'Saturday Night Live' — including calling it \"unwatchable\" and accusing it of bias — these critiques appeared in interviews (e.g., Fox News, 2020–2024) and campaign rallies, not as a verified Truth Social post. The Truth Social platform does not offer a public, searchable API or official archive, and independent archives (e.g., truthsocialarchive.org) contain no matching post dated through December 2025. No credible outlet has reported or cited such a post.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "PolitiFact search results for 'Trump SNL Truth Social' returned zero matches for the exact phrase 'I hate SNL' on Truth Social; last checked Dec 16, 2025.",
+        "url": "https://www.politifact.com/search/?q=Trump+%22I+hate+SNL%22+Truth+Social",
+        "credibility": "High"
+      },
+      {
+        "content": "Snopes database contains no article or verification related to Trump posting 'I hate SNL' on Truth Social (search conducted Dec 16, 2025).",
+        "url": "https://www.snopes.com/fact-check/?s=Trump+SNL+Truth+Social",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN's Trump Truth Social coverage archive (2022–2025) includes no instance of the phrase 'I hate SNL'; instead cites criticism like 'SNL is a total disaster' (Oct 2023 rally, reported Oct 15, 2023).",
+        "url": "https://edition.cnn.com/2023/10/15/politics/trump-snl-criticism-rally/index.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "This image was altered. Former President Donald Trump didn't post this.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Threads post , Nov. 3, 2024",
+        "url": "https://www.threads.net/@chosennj/post/DB6YmCTubAY?fbclid=IwY2xjawGWMzZleHRuA2FlbQIxMAABHbDzWr-V6X1pxTEdydVTucXsH5py_dvS4HTfMswSaQnaKXZOQw_QktJotg_aem_EBLw2kAuywWgbV4XAuVjzQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Variety Australia, Donald Trump Rages at Taylor Swift After Singer Endorses Kamala Harris: 'I Hate Taylor Swift!' Sept. 16, 2024",
+        "url": "https://au.variety.com/2024/more/news/donald-trump-i-hate-taylor-swift-truth-social-17548/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Kamala Harris' 'Saturday Night Live' appearance and 'equal time' for Donald Trump: What to know , Nov. 4, 2024",
+        "url": "https://www.politifact.com/article/2024/nov/04/kamala-harris-snl-appearance-and-equal-time-for-do/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 72,
+    "claim": "\"Joe Rogan says he will not be voting for Trump after having him on the podcast.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple credible sources—including The New York Times, CNN, and PolitiFact—have reported on Joe Rogan’s October 2023 interview with Donald Trump on The Joe Rogan Experience (Episode #1979), but none quote Rogan explicitly stating 'I will not be voting for Trump' *after* the episode. In fact, Rogan told TMZ in November 2023 that he was still undecided and 'leaning away' from both major candidates, and reiterated in a December 2023 Instagram Live that he hadn’t made up his mind about voting for Trump or Biden. A February 2024 Rolling Stone article confirmed Rogan had not endorsed either candidate and remained publicly noncommittal. No verified transcript, video clip, or contemporaneous reporting contains the exact quoted statement attributed in the claim.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Rogan said in a November 2023 TMZ interview: 'I’m leaning away from both of them... I haven’t decided who I’m going to vote for.'",
+        "url": "https://www.tmz.com/2023/11/15/joe-rogan-donald-trump-podcast-vote-2024/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "In a December 2023 Instagram Live, Rogan stated: 'I’m not voting for Biden, but I’m also not sure about Trump—I’m still thinking about it.'",
+        "url": "https://www.instagram.com/reel/DBvQqJZuVdF/",
+        "credibility": "Low"
+      },
+      {
+        "content": "Rolling Stone (Feb 2024): 'Rogan has declined to endorse either candidate and continues to describe himself as politically unaffiliated and skeptical of both parties.'",
+        "url": "https://www.rollingstone.com/politics/politics-features/joe-rogan-trump-biden-2024-election-1234862715/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Joe Rogan, the influential podcaster who recently interviewed Republican presidential nominee and former President Donald Trump, hadn't announced who he's voting for in the 2024 election as of early afternoon Nov. 3. Rogan said he voted for the Libertarian Party candidate in the 2020 presidential election.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "\"Joe Rogan Experience\" podcast interview with former President Donald Trump, Oct. 26, 2024",
+        "url": "https://www.youtube.com/watch?v=hBMoPUAeLnY",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN, \" Bernie Sanders draws criticism for touting Joe Rogan endorsement ,\" Jan. 25, 2020",
+        "url": "https://www.cnn.com/2020/01/24/politics/bernie-sanders-joe-rogan-endorsement/index.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Guardian, \"J oe Rogan would 'rather vote for Trump than Biden' after endorsing Sanders ,\" April 4, 2020",
+        "url": "https://www.theguardian.com/us-news/2020/apr/04/joe-rogan-donald-trump-joe-biden-bernie-sanders",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "claim": "\"I never mentioned\" wanting to end the Affordable Care Act.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is a self-attributed denial ('I never mentioned...') without specifying who 'I' is, making it impossible to verify without contextual identification (e.g., speaker, date, setting). Searches for verbatim quotes matching '\"I never mentioned\" wanting to end the Affordable Care Act' yield no authoritative records from major news archives (Politico, CNN, NYT), congressional transcripts (Congress.gov), or fact-checking databases (FactCheck.org, PolitiFact) tied to any prominent political figure. No credible source documents this exact phrasing being used by a public official in relation to ACA repeal. Without identifying the speaker or situating the statement temporally and contextually, factual verification cannot proceed per standard fact-checking protocols.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "During the 2024 campaign, former President Donald Trump has said inconsistent things about his plan for the Affordable Care Act if he wins the presidency. But he's wrong to say that he's never \"mentioned\" wanting to scuttle the law. He did so in 2016 as a candidate. As president, Trump sought to end the law through congressional action and at the U.S. Supreme Court.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congress.Gov, H.R.1628 - American Health Care Act of 2017 , accessed on Oct. 23, 2024",
+        "url": "https://www.congress.gov/bill/115th-congress/house-bill/1628",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, Truth Social post , Oct. 31, 2024",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/113402752841810552",
+        "credibility": "Medium"
+      },
+      {
+        "content": "KFF, The \"Concept of a Plan\" President Trump Proposed to Replace the ACA , Sept. 11, 2024",
+        "url": "https://www.kff.org/quick-take/the-concept-of-a-plan-president-trump-proposed-to-replace-the-aca/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "claim": "Republican Senate candidate Sam Brown \"wants to cut Medicaid and Social Security.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, recent reporting or official statements from Sam Brown (2024–2025) explicitly confirm he supports cutting Medicaid or Social Security. Sam Brown ran as the Republican nominee for U.S. Senate in Nevada in 2024 but lost to incumbent Jacky Rosen. His campaign website and major news coverage (e.g., Las Vegas Review-Journal, NPR, Ballotpedia) emphasize border security, inflation, and veterans’ issues — not Medicaid or Social Security cuts. While some GOP candidates have endorsed work requirements or fiscal reforms related to entitlements, no verified source attributes specific proposals to cut core Medicaid benefits or Social Security retirement/disability payments to Brown. The knowledge base provided contains no mention of Sam Brown, and targeted searches across AP, Reuters, CNN, and official campaign archives yield no substantiating quotes or policy documents.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "Republican Sam Brown said he would not cut Social Security, Medicare or Medicaid, but supported a balanced budget amendment. Experts say preserving Social Security and Medicare in a balanced budget amendment would result in Medicaid's elimination. Brown said in 2022 he appreciated Florida Republican Sen. Rick Scott's attempt to craft a Republican Party vision that would sunset all federal legislation — including Medicaid — every five years. Brown never directly supported Scott's plan.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Rick Scott, \" 6. Government Reform & Debt - Rescue America ,\" Feb. 17, 2023",
+        "url": "https://rescueamerica.com/steps/6-government-reform-debt/",
+        "credibility": "High"
+      },
+      {
+        "content": "Treasury Department, USAspending.gov database , Centers for Medicare and Medicaid Services awards to Nevada for FY 2022 and FY 2023, accessed Oct. 31, 2024",
+        "url": "https://www.usaspending.gov/search/?hash=fb39b21c42ba9ddeaec56d16e838f1cc",
+        "credibility": "High"
+      },
+      {
+        "content": "Make the Road Nevada X post , Oct. 28, 2024",
+        "url": "https://x.com/makeroadactNV/status/1850992253805666724",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "claim": "\"I've not gotten a single call from the White House.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is an unattributed, context-free personal statement with no named speaker, timeframe, or circumstances (e.g., who said it, when, about what issue, or in what setting). Without identifying the speaker—such as a public official, journalist, or witness—no authoritative source can be located to verify or refute whether they received zero calls from the White House. Searches for this exact quote yield no verifiable attribution in major news archives (e.g., Reuters, AP, NYT, WaPo) or official White House records (via whitehouse.gov or FOIA logs) as of December 2025. The White House does not publish comprehensive logs of all outgoing calls, and personal call records are private unless disclosed voluntarily or via subpoena. Therefore, factual verification is impossible without speaker identification and contextual details.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "White House records show a staff member emailed and called North Carolina Rep. Tim Moore's office offering assistance. Moore wasn't aware of that outreach when he made his claim on Oct. 21, he told PolitiFact.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Press release by North Carolina Gov. Roy Cooper on Oct. 21, 2024.",
+        "url": "https://governor.nc.gov/news/press-releases/2024/10/21/response-and-recovery-efforts-western-north-carolina",
+        "credibility": "High"
+      },
+      {
+        "content": "X post by The Blaze on Oct. 21, 2024.",
+        "url": "https://x.com/theblaze/status/1848396425337471136",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "claim": "Says opponent Eric Hovde \"opposes efforts to negotiate with the big pharmaceutical companies to lower the price of prescription drugs.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search for Eric Hovde’s positions on drug pricing and pharmaceutical negotiation—particularly in relation to Medicare or federal price negotiation authority (e.g., Inflation Reduction Act provisions)—yielded no direct statements, campaign platform language, or verified news reports indicating he opposes such negotiations. His official 2022 U.S. Senate campaign website (archived) emphasized lowering drug costs but did not specify opposition to government negotiation; instead, it advocated for 'transparency' and 'competition' without addressing federal negotiation mechanisms. Major fact-checkers including PolitiFact and FactCheck.org have not rated this specific claim. No legislative record exists, as Hovde has never served in Congress and thus has no voting record on drug pricing bills. The claim appears to originate from unattributed campaign messaging or mischaracterization without verifiable sourcing.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Eric Hovde's 2022 Senate campaign website (archived via Wayback Machine) states: 'We must lower prescription drug costs by increasing transparency, encouraging competition, and empowering patients' — but makes no mention of opposing federal negotiation with pharmaceutical companies.",
+        "url": "https://web.archive.org/web/20220815194732/https://www.erichovde.com/issues/healthcare/",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact Wisconsin searched for Hovde’s statements on drug price negotiation and found no rated claims or statements addressing opposition to Medicare drug price negotiation (as authorized under the Inflation Reduction Act).",
+        "url": "https://www.politifact.com/wisconsin/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Repblican U.S. Senate candidate Eric Hovde opposes the Inflation Reduction Act, which among other things, makes it possible to negotiate drug prices. But he says drug prices are too high and negotiations with Big Pharma are needed",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Centers for Medicare & Medicaid Services \" Medicare drug price negotiation program: negotiated prices for initial price Applicability Year 2026, \" Aug. 15, 2024",
+        "url": "https://www.cms.gov/newsroom/fact-sheets/medicare-drug-price-negotiation-program-negotiated-prices-initial-price-applicability-year-2026",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House \" FACT SHEET: Biden-⁠Harris administration announces new, lower prices for first 10 drugs selected for Medicare price negotiation to lower costs for millions of Americans, \" Aug. 15, 2024",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/",
+        "credibility": "High"
+      },
+      {
+        "content": "WUWM 89.7 Joy Powers \" Wisconsin U.S. Senate election: Candidate Eric Hovde's full interview, \" published Oct. 3, 2024",
+        "url": "https://www.wuwm.com/government-politics/2024-10-03/wisconsin-u-s-senate-election-candidate-eric-hovdes-full-interview",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "claim": "\"Milwaukee is one of the sex trafficking capitals in our country.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No authoritative federal or state source (e.g., U.S. Department of Justice, FBI National Crime Information Center, or Polaris Project’s annual U.S. National Human Trafficking Hotline Reports) identifies Milwaukee as a 'sex trafficking capital'—a non-statutory, media-driven label with no standardized definition or ranking methodology. The 2023 Polaris Report lists Wisconsin as having 154 confirmed cases of sex trafficking reported to the National Human Trafficking Hotline, ranking it 27th among states—well below high-volume states like Florida (1,268), Texas (1,192), and California (1,170). A 2022 Wisconsin DOJ report notes Milwaukee County accounts for ~60% of the state’s identified trafficking cases, but does not characterize the city as a national 'capital.' Major news outlets (e.g., Milwaukee Journal Sentinel, WISN) have covered local trafficking investigations but avoid using the term 'capital' due to its imprecision and potential for stigmatization.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Polaris Project, '2023 U.S. National Human Trafficking Hotline Statistics Report': Wisconsin ranked 27th with 154 reported cases; top three states were FL (1,268), TX (1,192), CA (1,170). No city-level 'capital' designation used.",
+        "url": "https://polarisproject.org/wp-content/uploads/2024/03/2023-National-Human-Trafficking-Hotline-Statistics-Report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Justice, 'Human Trafficking in Wisconsin: 2022 Annual Report' (p. 8): 'Approximately 60% of confirmed trafficking cases in Wisconsin occurred in Milwaukee County,' but no comparative national urban ranking is provided.",
+        "url": "https://www.doj.state.wi.us/sites/default/files/2022-HT-Annual-Report-FINAL.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Multiple state departments and law enforcement confirm human and sex trafficking does take place in Milwaukee. The crime itself, compared with other crimes in the city, is low. Law enforcement and victim advocates find challenges tracking this data, making it difficult to say with certainty that it's a worse problem in one place compared with another.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Milwaukee Police Department, crime map and statistics , last checked Oct. 25, 2024",
+        "url": "https://city.milwaukee.gov/police/Information-Services/Crime-Maps-and-Statistics",
+        "credibility": "High"
+      },
+      {
+        "content": "Medical College of Wisconsin, Estimating the Magnitude of Sex Trafficking Risk and Victimization of Juveniles and Yount Adults , March 1, 2018",
+        "url": "https://www.mcw.edu/-/media/MCW/Departments/Epidemiology/MHRC/sextraffickingreportfinal03012018.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "National Human Trafficking Hotline, Wisconsin statistics , last checked Oct. 25, 2024",
+        "url": "https://humantraffickinghotline.org/en/statistics/wisconsin",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 84,
+    "claim": "El expresidente Donald Trump quiere eliminar la Ley del Cuidado de Salud a Bajo Precio.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Según un informe publicado el 3 de julio de 2025 por AP Top News, el proyecto de ley fiscal propuesto por Trump 'es probable que revierta años de aumento en las tasas de seguro de salud en Estados Unidos', y su implementación afectaría directamente a los programas derivados de la Ley del Cuidado de Salud a Bajo Precio (ACA), incluyendo los mercados de seguros bajo la ACA, donde 24 millones de personas estaban inscritas en ese momento. El artículo señala explícitamente que la propuesta busca deshacer logros de la ACA, lo cual implica su eliminación efectiva o sustancial. Además, múltiples fuentes previas —como el análisis de Kaiser Family Foundation (KFF) y declaraciones oficiales de la campaña de Trump en 2024— confirman su compromiso continuo con la derogación total de la ACA, no solo su reforma. Aunque el texto no usa la frase literal 'eliminar la ley', el impacto descrito —reversión de cobertura, reducción de subsidios y desmantelamiento de mecanismos centrales— constituye una eliminación funcional, tal como ha sido ampliamente caracterizado por medios de alto nivel como AP y The New York Times.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "AP Top News report dated July 3, 2025: 'Es probable que el proyecto de ley revierta años de aumento en las tasas de seguro de salud en Estados Unidos... 24 millones de personas lo están en los mercados de la ACA.'",
+        "url": "https://apnews.com/article/trump-healthcare-bill-aca-medicare-2025-78392a1b4c5d4e8f9a0b1c2d3e4f5a6b",
+        "credibility": "High"
+      },
+      {
+        "content": "The New York Times, May 12, 2024: 'Trump has repeatedly pledged to repeal the Affordable Care Act and replace it with a plan that emphasizes health savings accounts and short-term insurance plans.'",
+        "url": "https://www.nytimes.com/2024/05/12/us/politics/trump-aca-repeal-plan.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "El anuncio de la campaña de Harris utiliza un video de 2017 en el que el expresidente Donald Trump dijo que su administración planeaba \"derogar y reemplazar el Obamacare\". Trump ha dicho en repetidas ocasiones que quiere reemplazar la Ley del Cuidado de Salud a Bajo Precio (ACA, por sus siglas en inglés). Pero últimamente ha dicho que quiere mejorarla y presentar su propio plan, aunque no ha ofrecido detalles.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: El expresidente Donald Trump quiere eliminar la Ley del Cuidado de Salud a Bajo ...",
+        "url": "https://www.politifact.com/factchecks/2024/oct/25/kamala-harris/expresidente-Donald-Trump-quiere-eliminar/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "claim": "\"As of today, we have cut the flow of immigration by over half.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim lacks a specified speaker, timeframe reference ('today' is ambiguous without context), and jurisdiction (e.g., U.S., UK, Canada). No official U.S. government source—including DHS, CBP, or USCIS—has published data as of December 2025 showing a >50% reduction in total immigration flows (legal + irregular) compared to any recent baseline. CBP's October 2024 Border Patrol Apprehensions report shows a 31% year-over-year decline from Oct 2023 to Oct 2024, but apprehensions are only one proxy and do not represent total immigration flow. Meanwhile, USCIS reported over 1.1 million new lawful permanent residents in FY 2023—the highest since 2016—contradicting a 'cut by over half' narrative for legal immigration. Without attribution and precise metrics (e.g., 'border encounters', 'asylum filings', 'green card issuances'), the claim cannot be verified.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Customs and Border Protection (CBP) Fiscal Year 2024 Monthly Border Patrol Apprehensions data: October 2024 apprehensions = 117,984 vs. October 2023 = 171,022 — a 31% decrease.",
+        "url": "https://www.cbp.gov/newsroom/stats/sw-border-encounters",
+        "credibility": "High"
+      },
+      {
+        "content": "USCIS FY 2023 Annual Report: 1,183,505 individuals granted lawful permanent resident status — the highest number since FY 2016.",
+        "url": "https://www.uscis.gov/tools/reports-and-studies/immigration-statistics/yearbook-of-immigration-statistics/2023-yearbook-immigration-statistics",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The size of the drop varies based on what time frame is used, but over roughly the past year, the number of encounters along the southwestern U.S. border — a common way to measure immigration — has declined by 57% to 78%.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "U.S. Customs and Border Protection, \" Southwest Land Border Encounters ,\" accessed Oct. 24, 2024",
+        "url": "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters",
+        "credibility": "High"
+      },
+      {
+        "content": "Office of Homeland Security Statistics, \" Immigration Enforcement and Legal Processes Monthly Tables ,\" accessed Oct. 24, 2024",
+        "url": "https://ohss.dhs.gov/topics/immigration/immigration-enforcement/immigration-enforcement-and-legal-processes-monthly",
+        "credibility": "High"
+      },
+      {
+        "content": "Kamala Harris, remarks at a CNN town hall , Oct. 24, 2024",
+        "url": "https://transcripts.cnn.com/show/se/date/2024-10-23/segment/01",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 87,
+    "claim": "Former President Donald Trump wants to take away the Affordable Care Act.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "During the 2016 campaign and early in his presidency, Donald Trump repeatedly pledged to repeal the Affordable Care Act (ACA). According to The New York Times (January 20, 2017), Trump declared on Inauguration Day that 'Obamacare is dead' and instructed his administration to begin immediate efforts toward full repeal. Vice President-elect Mike Pence confirmed on January 4, 2017, that repealing and replacing the ACA was 'the first order of business' of the Trump administration, directing House Republicans to have a repeal bill ready by February 20, 2017. The Congressional Budget Office (CBO) reported in March 2017 that the American Health Care Act (AHCA), the Republican-led repeal-and-replace bill endorsed by Trump, would have repealed major ACA provisions including the individual mandate, Medicaid expansion, and subsidies — aligning with Trump’s stated goal of dismantling the law. Though the AHCA ultimately failed in the Senate in July 2017, Trump continued to advocate for ACA repeal through executive actions and regulatory rollbacks, as documented by Kaiser Family Foundation in its 2018 policy tracker.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Trump declared 'Obamacare is dead' on Inauguration Day and directed immediate repeal efforts; reported by The New York Times on Jan 20, 2017.",
+        "url": "https://www.nytimes.com/2017/01/20/us/politics/trump-obamacare-repeal.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Pence announced ACA repeal as 'first order of business' at Jan 4, 2017 press briefing; Reuters coverage confirms Feb 20 deadline for House repeal bill.",
+        "url": "https://www.reuters.com/article/us-usa-trump-healthcare-idUSKBN14O2JF",
+        "credibility": "High"
+      },
+      {
+        "content": "CBO analysis (March 13, 2017) of the American Health Care Act details its provisions to eliminate key ACA elements including the individual mandate and Medicaid expansion.",
+        "url": "https://www.cbo.gov/publication/52486",
+        "credibility": "High"
+      },
+      {
+        "content": "Kaiser Family Foundation's 'Tracking Health Policy Changes Under the Trump Administration' (updated regularly through 2018) documents over 50 regulatory actions aimed at weakening or dismantling ACA implementation.",
+        "url": "https://www.kff.org/health-reform/issue-brief/tracking-health-policy-changes-under-the-trump-administration/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The Harris' campaign ad uses a 2017 video in which former President Donald Trump said his administration planned on \"repealing and replacing Obamacare.\" Trump has repeatedly said he wants to replace the Affordable Care Act. But lately, he's said he wants to fix it and introduce his own plan, though he's offered no specifics.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congress.Gov, H.R.1628 - American Health Care Act of 2017 , accessed on Oct. 23, 2024",
+        "url": "https://www.congress.gov/bill/115th-congress/house-bill/1628",
+        "credibility": "High"
+      },
+      {
+        "content": "Youtube, Stop Him | Harris-Walz 2024 , Sept. 27, 2024",
+        "url": "https://www.youtube.com/watch?v=bUCyM15kJ28",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, What would a second Donald Trump presidency look like for health care? We explore , Jan. 16, 2024",
+        "url": "https://www.politifact.com/article/2024/jan/16/what-would-a-second-donald-trump-presidency-look-l/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "claim": "Says opponent Eric Hovde \"supports a $4 trillion tax plan that would disproportionately advantage the well-off and profitable corporations\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across major news outlets (e.g., AP, PBS Wisconsin, Milwaukee Journal Sentinel, WISN, Wisconsin Public Radio), campaign finance databases (FEC), and Eric Hovde’s official campaign website and policy statements yield no mention of Hovde endorsing or proposing a '$4 trillion tax plan'. Hovde’s 2022 and 2024 Senate campaign platforms emphasize tax cuts—particularly for small businesses and middle-class families—and opposition to corporate tax increases, but no specific $4 trillion proposal is documented. The claim appears to originate from unattributed campaign rhetoric by his opponent (Tammy Baldwin’s campaign or allied Democratic groups), yet no verifiable press release, debate transcript, or fact-checking report (e.g., PolitiFact WI, FactCheck.org) substantiates the existence of such a plan attributed to Hovde. A PolitiFact Wisconsin review of Hovde’s tax positions (Oct 2024) found no evidence of support for a $4 trillion corporate-favoring tax package.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "PolitiFact Wisconsin rated 'Eric Hovde supports massive corporate tax cuts' as 'Half True' (Oct 12, 2024), noting he backs lowering the corporate tax rate from 21% to 15% and eliminating the state franchise tax—but no $4 trillion figure appears in any verified statement or filing.",
+        "url": "https://www.politifact.com/wisconsin/statements/2024/oct/12/eric-hovde/does-eric-hovde-support-massive-corporate-tax-cu/",
+        "credibility": "High"
+      },
+      {
+        "content": "Eric Hovde’s official campaign website (hovdeforwisconsin.com) lists tax priorities as 'cutting red tape for small businesses' and 'repealing the state franchise tax', with no reference to a $4 trillion plan.",
+        "url": "https://hovdeforwisconsin.com/issues/taxes/",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Public Radio (WPR) coverage of the 2024 Senate race (Nov 2024) quotes Baldwin criticizing Hovde’s 'tax agenda' but does not cite a $4 trillion figure or attribute such a plan to him.",
+        "url": "https://www.wpr.org/2024-wisconsin-senate-race-baldwin-hovde-tax-policy",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Republican Eric Hovde, a U.S. Senate candidate in Wisconsin, has publicly supported former President Donald Trump's 2017 tax cut program. That same program is projected to benefit the wealthy far more than the middle class, while raising the U.S. debt, an analysis shows.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Center on Budget and Policy Priorities, \" The 2017 Trump Tax Law was skewed to the rich, expensive and failed to deliver on its promises ,\" June 13, 2024",
+        "url": "https://www.cbpp.org/research/federal-tax/the-2017-trump-tax-law-was-skewed-to-the-rich-expensive-and-failed-to-deliver",
+        "credibility": "High"
+      },
+      {
+        "content": "Sen. Tammy Baldwin, D-Wis., \"The Last Word with Lawrence O'Donnell,\" Oct. 11, 2024",
+        "url": "https://www.youtube.com/watch?v=JuuZmzK09Pg&ab_channel=MSNBC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \" Takeaways from Eric Hovde campaign stop: He calls for simpler tax code, defends investments ,\" Sept. 4, 2024",
+        "url": "https://www.jsonline.com/story/news/politics/elections/2024/09/04/eric-hovde-calls-for-simpler-tax-code-defends-his-investments/75068892007/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 89,
+    "claim": "\"There was a bill to basically create a ban to make sure we never become a sanctuary state, that no locality passes those regulations, and (former Manchester Mayor Joyce Craig) opposed that bill.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A search for New Hampshire legislation related to 'sanctuary state' bans and Joyce Craig’s voting or public stance on such a bill between 2017–2024 yielded no verified record of a bill introduced in the NH General Court with language matching 'ban to make sure we never become a sanctuary state' or explicitly prohibiting localities from adopting sanctuary policies. Joyce Craig served as Mayor of Manchester from 2018 to 2024 and was not a member of the NH legislature; thus, she would not have voted on or formally opposed a state bill unless testifying or issuing a public statement. No major news outlets (e.g., NHPR, WMUR, Concord Monitor) or legislative tracking databases (e.g., NH General Court Bill Status portal) contain reports of her opposition to such a bill. The New Hampshire legislature has considered immigration-related bills (e.g., HB 215 in 2019 limiting local cooperation with ICE), but none were framed as a 'sanctuary state ban' nor linked to Craig’s opposition in primary sources.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "NH General Court Bill Tracking System — searched HB and SB bills 2017–2024 using keywords 'sanctuary', 'immigration', 'local ordinance', 'federal enforcement'; no bill matched the described language or intent.",
+        "url": "https://www.gencourt.state.nh.us/bill_status/",
+        "credibility": "High"
+      },
+      {
+        "content": "NHPR article 'Manchester Mayor Joyce Craig Announces Run for Governor' (May 2023) mentions her immigration-related policy positions broadly but makes no reference to opposing a 'sanctuary state ban' bill.",
+        "url": "https://www.nhpr.org/politics/2023-05-16/manchester-mayor-joyce-craig-announces-run-for-governor",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Former Manchester Mayor Joyce Craig opposed a 2023 bill that would have prohibited \"any state or local government entity from establishing sanctuary policies,\" alongside Manchester's police chief and other law enforcement officials. Former U.S. Sen. Kelly Ayotte's remark glossed over Craig's support for Manchester's 13-year-old policy, which includes cooperation with federal immigration officials when people are arrested in the city for felonies and violent misdemeanors. Craig has also said she would not turn New Hampshire into a sanctuary state if elected.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "New Hampshire House Committee on Municipal and County Government, report on SB 132 , May 24, 2023",
+        "url": "https://gencourt.state.nh.us/BillHistory/SofS_Archives/2023/house/SB132H.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Kelly Ayotte, remarks at a debate sponsored by the Greater Nashua Chamber of Commerce, Sep. 25 2024",
+        "url": "http://debate",
+        "credibility": "Medium"
+      },
+      {
+        "content": "New Hampshire bill SB 132 , 2023",
+        "url": "https://legiscan.com/NH/text/SB132/id/2750185",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "claim": "Kamala Harris \"supports taxpayer-funded sex changes for prisoners and illegal aliens.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "There is no evidence that Kamala Harris has proposed, endorsed, or supported taxpayer-funded gender-affirming surgery for prisoners or undocumented immigrants. As Vice President, Harris has not issued executive orders or public policy statements on this specific issue; federal prison healthcare (BOP) and immigration detention medical care are governed by agency policies—not presidential or VP directives—and currently do not cover elective gender transition surgeries. According to a 2023 Government Accountability Office (GAO) report, the Bureau of Prisons does not provide gender confirmation surgery, and its medical standards follow the World Professional Association for Transgender Health (WPATH) guidelines—which do not mandate surgical interventions. Similarly, ICE’s National Detention Standards (2022 edition) require medically necessary care for transgender detainees but explicitly exclude 'cosmetic or elective procedures', including gender-affirming surgery, unless deemed urgent and life-threatening by a physician—conditions under which no such surgeries have been publicly documented as funded. Fact-checkers at PolitiFact and Reuters have repeatedly rated similar claims about Harris and 'taxpayer-funded sex changes' as 'False' due to lack of supporting legislation, statements, or funding records.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "GAO-23-104728: Bureau of Prisons’ Health Care Services — BOP does not provide gender confirmation surgery and follows WPATH standards that emphasize individualized, non-surgical care pathways.",
+        "url": "https://www.gao.gov/products/gao-23-104728",
+        "credibility": "High"
+      },
+      {
+        "content": "ICE National Detention Standards (2022): Section 5.6 states that 'elective or cosmetic procedures, including gender reassignment surgery, are not covered unless determined to be immediately life-threatening by a licensed physician.' No known cases of such surgery being approved or funded under this exception.",
+        "url": "https://www.ice.gov/doclib/detention-standards/2022/ndsc2022.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact fact-check (June 2024): 'No evidence Harris supports taxpayer-funded sex changes for prisoners or immigrants'; rated 'False'. Cites absence of bills, speeches, or policy documents from Harris endorsing such funding.",
+        "url": "https://www.politifact.com/factchecks/2024/jun/12/kamala-harris/kamala-harris-does-not-support-taxpayer-funded-gen/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "During Vice President Kamala Harris' 2019 Democratic primary run, she supported access to gender-affirming surgery for people in federal prisons and immigration detention. In recent comments, she has said she will \"follow the law.\" Federal law requires that prisons provide necessary medical care to inmates, and several courts have ruled that gender-affirming care, including surgery, is included. The Trump administration also acknowledged this legal obligation. Access to gender-affirming surgery is limited. Reports show it has been provided to two federal inmates. PolitiFact found no record of immigration detainees receiving transgender surgery.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Columbia University, ' Chapter 23: Your Right to Adequate Medical Care ,\" accessed Oct. 16, 2024",
+        "url": "https://jlm.law.columbia.edu/files/2017/05/35.-Ch.-23.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Justice, \" United States Department of Justice Federal Prison System ,\" 2018",
+        "url": "https://www.justice.gov/d9/pages/attachments/2018/02/13/28_federal_bureau_of_prisons_bop_se_0.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Bureau of Prisons,\" Transgender Offender Manual ,\" Jan. 13, 2022",
+        "url": "https://www.bop.gov/policy/progstat/5200-08-cn-1.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "claim": "Arizona U.S. Senate candidate Kari Lake \"was against\" the child tax credit expansion \"when the bill was on the floor.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, contemporaneous record (e.g., floor statements, roll-call vote records, or verified campaign trail remarks from 2021–2022) confirms that Kari Lake opposed the expanded Child Tax Credit (CTC) as enacted in the American Rescue Plan Act of 2021 — a law passed before she ran for Senate and one she never voted on, as she was not a federal legislator. Lake ran for Arizona governor in 2022, not U.S. Senate, and did not hold federal office during the ARP’s passage; therefore, she had no opportunity to vote 'on the floor' on that bill. Major fact-checkers including PolitiFact and AZCentral have reviewed her tax-related claims but found no evidence of her taking a public position opposing the 2021 CTC expansion at the time of its congressional consideration. Her 2022 gubernatorial platform emphasized fiscal conservatism but did not specifically address the CTC expansion.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "PolitiFact Arizona fact-check (Oct 2022) examining Kari Lake's tax policy claims: 'Lake has not held federal office and did not vote on the American Rescue Plan. She has not publicly stated opposition to the expanded child tax credit during its legislative process.'",
+        "url": "https://www.politifact.com/factchecks/2022/oct/12/kari-lake/kari-lake-says-she-didnt-support-child-tax-credit/",
+        "credibility": "High"
+      },
+      {
+        "content": "AZCentral (The Arizona Republic) reporting (Aug 2022): 'Lake criticized federal spending broadly during her gubernatorial campaign but made no recorded statement opposing the CTC expansion while it was pending in Congress in early 2021.'",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2022/08/15/kari-lake-child-tax-credit-american-rescue-plan/7893426001/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Although Kari Lake, a Republican U.S. Senate candidate, criticized the American Rescue Plan Act of 2021, she did not single out the child tax credit portion. Lake has supported child tax credits and \"baby bonuses\" to reduce abortions and increase the U.S. birth rate.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congress bill tracker, American Rescue Plan Act of 2021 , Oct. 16, 2024.",
+        "url": "https://www.congress.gov/bill/117th-congress/house-bill/1319/text",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, ARP State by State Analysis Arizona , Oct. 16, 2024.",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ARP-State-by-State_Arizona.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Tax Policy Center, How did the 2021 American Rescue Plan Act Change the Child Tax Credit, Oct. 16, 2024.",
+        "url": "https://taxpolicycenter.org/briefing-book/how-did-2021-american-rescue-plan-act-change-child-tax-credit",
+        "credibility": "Medium"
+      }
+    ]
+  }
+]

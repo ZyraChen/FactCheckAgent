@@ -1,0 +1,2009 @@
+{
+  "metadata": {
+    "model": "qwen-plus-latest",
+    "search_enabled": true,
+    "test_time": "2025-12-18 12:56:41",
+    "total_items": 38
+  },
+  "accuracy_metrics": {
+    "total_tests": 38,
+    "successful_tests": 37,
+    "failed_tests": 1,
+    "overall_accuracy": 0.4864864864864865,
+    "correct_predictions": 18,
+    "incorrect_predictions": 19,
+    "accuracy_by_verdict": {
+      "Refuted": {
+        "accuracy": 0.5,
+        "correct": 13,
+        "total": 26
+      },
+      "Supported": {
+        "accuracy": 0.45454545454545453,
+        "correct": 5,
+        "total": 11
+      }
+    },
+    "confusion_matrix": {
+      "Refuted": {
+        "Refuted": 13,
+        "Supported": 8,
+        "Not Enough Evidence": 5
+      },
+      "Supported": {
+        "Refuted": 4,
+        "Supported": 5,
+        "Not Enough Evidence": 2
+      }
+    }
+  },
+  "detailed_results": [
+    {
+      "index": 0,
+      "claim": "Hans Vestberg是Verizon的首席执行官。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Hans Vestberg曾担任Verizon的董事长兼首席执行官，但他已于2025年10月卸任CEO职务。Verizon在2025年11月6日宣布，由前PayPal首席执行官Dan Schulman接任Verizon的首席执行官，而Hans Vestberg则转任特别顾问并继续留任董事会成员。因此，截至2025年12月，Verizon的现任首席执行官是Dan Schulman，而非Hans Vestberg。该claim在时态上存在错误，未能反映Verizon领导层的最新变化。",
+        "evidence_sources": [
+          {
+            "content": "Verizon Announces CEO Transition - Verizon宣布CEO交接，董事会任命前PayPal首席执行官Dan Schulman为新任首席执行官，Hans Vestberg将担任特别顾问直至2026年10月，并继续留任董事会",
+            "url": "https://www.verizon.com/about/news/verizon-announces-ceo-transition",
+            "credibility": "High"
+          },
+          {
+            "content": "Verizon CEO Hans Vestberg Replaced By Former PayPal Leader - 报道指出Verizon首席执行官Hans Vestberg被前PayPal领导者Dan Schulman取代，Vestberg将作为特别顾问协助过渡",
+            "url": "https://www.crn.com/news/networking/2025/verizon-ceo-hans-vestberg-replaced-by-former-paypal-leader-dan-schulman",
+            "credibility": "High"
+          },
+          {
+            "content": "Hans Vestberg LinkedIn - 其个人履历显示在Verizon担任董事长兼首席执行官的时间为2018年8月到2025年10月，此后职务为特别顾问、前董事长兼首席执行官",
+            "url": "https://www.linkedin.com/in/hansvestberg",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to multiple authoritative sources dated October 2025, Hans Vestberg stepped down as Verizon’s CEO and Chairman, and was succeeded by Dan Schulman effective immediately. Verizon’s official announcement on October 6, 2025 — reported by财联社, 钛媒体App, and Lightreading — explicitly states that Schulman replaced Vestberg, who had served as CEO since 2018. A FiberOptic Online report from October 10, 2025 confirms Schulman assumed the role 'as of now' and that Vestberg vacated both CEO and Chairman positions. As of the current date (December 18, 2025), no credible source indicates Vestberg has resumed or retained the CEO title.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "财联社10月6日电,威瑞森(Verizon)任命Dan Schulman为首席执行官,取代Hans Vestberg。",
+            "url": "https://www.cls.cn/detail/1794325",
+            "credibility": "High"
+          },
+          {
+            "content": "钛媒体App 10月6日消息,威瑞森(Verizon)任命Dan Schulman为首席执行官,取代Hans Vestberg。",
+            "url": "https://www.tmtpost.com/7229915.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Verizon日前已任命PayPal前高管、现任首席董事Dan Schulman为新任首席执行官,即刻生效,接替原董事长兼首席执行官Hans Vestberg。",
+            "url": "https://www.fiberhome.com/news/20251010/123456.shtml",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 1,
+      "claim": "Angela Rayner是英国副首相。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Angela Rayner曾担任英国副首相，但她已于2025年9月5日辞职。根据英国首相伦理顾问Laurie Magnus的调查发现，Rayner在购买房产时未缴纳正确数额的税款，违反了部长守则。因此她宣布辞去副首相、住房大臣以及工党副领袖的职务。她的任期为2024年7月5日至2025年9月5日。随后，Lucy Powell在2025年10月25日当选为新的工党副领袖。截至2025年12月，Angela Rayner已不再担任英国副首相职务。",
+        "evidence_sources": [
+          {
+            "content": "Angela Rayner - Wikipedia: 2025年9月5日，Rayner宣布辞去副首相、住房大臣和工党副领袖职务，原因是首相伦理顾问Laurie Magnus发现她在房产税务问题上违反了部长守则",
+            "url": "https://en.wikipedia.org/wiki/Angela_Rayner",
+            "credibility": "High"
+          },
+          {
+            "content": "The Rt Hon Angela Rayner MP - GOV.UK: Angela Rayner在2024年7月5日至2025年9月5日期间担任住房、社区和地方政府大臣以及副首相",
+            "url": "https://www.gov.uk/government/people/angela-rayner",
+            "credibility": "High"
+          },
+          {
+            "content": "UK Deputy PM Angela Rayner resigns - CNN: 英国副首相Angela Rayner因未正确缴纳房产税而辞职，她在致Starmer的信中宣布辞去副首相、住房大臣和工党副领袖职务。她的辞职促使Starmer进行了重大内阁改组",
+            "url": "https://www.cnn.com/2025/09/05/uk/angela-rayner-resigns-labour-uk-deputy-prime-minister",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to multiple credible sources, Angela Rayner resigned as Deputy Prime Minister of the United Kingdom on 5 September 2025, following findings by the independent adviser on ministers’ interests, Laurie Magnus, that she breached the Ministerial Code over unpaid stamp duty on a property purchase. The Times reported on 6 September 2025 that she faces an additional £12,000 penalty on top of £54,000 already owed in unpaid stamp duty. The Daily Mirror and Observer confirmed her resignation was announced via social media on 5 September 2025, and that Prime Minister Keir Starmer subsequently carried out a major cabinet reshuffle, appointing Shabana Mahmood as the new Home Secretary and David Lammy as Justice Secretary (with the title of Deputy Prime Minister designated as a ceremonial role). As of the current date — 18 December 2025 — no source indicates she has been reinstated.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Angela Rayner has resigned as Deputy Prime Minister and Housing Secretary — Daily Mirror, 5 September 2025.",
+            "url": "https://www.mirror.co.uk/news/politics/angela-rayner-resigns-deputy-prime-29734243",
+            "credibility": "High"
+          },
+          {
+            "content": "The former deputy prime minister is almost certain to face an extra bill from HMRC on top of the £54,000 she owes in unpaid stamp duty — The Times, 6 September 2025.",
+            "url": "https://www.thetimes.co.uk/article/angela-rayner-stamp-duty-fine-2025-9xvzqjz9r",
+            "credibility": "High"
+          },
+          {
+            "content": "Rayner’s resignation followed a report by independent ethics adviser Laurie Magnus, who found she violated the Ministerial Code — BBC News, 5 September 2025.",
+            "url": "https://www.bbc.com/news/uk-politics-69823451",
+            "credibility": "High"
+          },
+          {
+            "content": "UK cabinet reshuffle: Shabana Mahmood appointed Home Secretary; David Lammy made Justice Secretary and given ceremonial Deputy PM title — The Guardian, 6 September 2025.",
+            "url": "https://www.theguardian.com/politics/2025/sep/06/keir-starmer-cabinet-reshuffle-rayner-resignation",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 2,
+      "claim": "David Lammy是英国外交大臣。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。David Lammy曾担任英国外交大臣，但他已于2025年9月5日卸任该职务。在Angela Rayner因税务问题辞职后，首相Keir Starmer进行了内阁改组，David Lammy被任命为副首相、司法大臣兼大法官，而外交大臣职位由时任内政大臣Yvette Cooper接任。Lammy的外交大臣任期为2024年7月5日至2025年9月5日。因此，截至2025年12月，David Lammy已不再担任英国外交大臣，现任外交大臣是Yvette Cooper。",
+        "evidence_sources": [
+          {
+            "content": "David Lammy - Wikipedia: David Lammy自2025年9月起担任英国副首相、司法大臣兼大法官。他此前在2024年7月至2025年9月期间担任外交大臣",
+            "url": "https://en.wikipedia.org/wiki/David_Lammy",
+            "credibility": "High"
+          },
+          {
+            "content": "The Rt Hon David Lammy MP - GOV.UK: David Lammy于2025年9月5日被任命为大法官、司法大臣和副首相。他此前在2024年7月5日至2025年9月5日期间担任外交、联邦和发展事务大臣",
+            "url": "https://www.gov.uk/government/people/david-lammy",
+            "credibility": "High"
+          },
+          {
+            "content": "welcome to the new Foreign Secretary - Results UK: Yvette Cooper于9月5日被任命为外交大臣，接替David Lammy。这是她首次担任外交部长职务",
+            "url": "https://results.org.uk/news/welcome-to-the-new-foreign-secretary/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to the UK government's official website and multiple authoritative sources, David Lammy has served as Secretary of State for Foreign, Commonwealth and Development Affairs since July 2024, following the Labour Party’s general election victory. The UK Foreign, Commonwealth & Development Office (FCDO) lists him as the current Foreign Secretary on its leadership page. Additionally, China’s Ministry of Foreign Affairs confirmed his title in an official announcement on October 17, 2024, stating he would visit China as 'Secretary of State for Foreign, Commonwealth and Development Affairs of the UK'. A Financial Times report from December 8, 2025, also refers to him as 'British Deputy Prime Minister David Lammy' while noting his concurrent foreign policy responsibilities — consistent with the UK’s dual-hatted role where the Foreign Secretary is often also Deputy PM. His appointment was widely reported by BBC, Reuters, and The Guardian at the time of the July 2024 cabinet formation.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "UK Foreign, Commonwealth & Development Office (FCDO) official leadership page lists David Lammy as 'Secretary of State for Foreign, Commonwealth and Development Affairs' as of 2024–2025.",
+            "url": "https://www.gov.uk/government/people/david-lammy",
+            "credibility": "High"
+          },
+          {
+            "content": "China’s Ministry of Foreign Affairs spokesperson Mao Ning announced on October 17, 2024: 'David Lammy, Secretary of State for Foreign, Commonwealth and Development Affairs of the UK, will pay an official visit to China from October 18 to 19.'",
+            "url": "https://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/202410/t20241017_11558602.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Financial Times, December 8, 2025: 'British Deputy Prime Minister David Lammy said leaving the EU “clearly severely damaged our economy”...', confirming his dual role including foreign affairs leadership.",
+            "url": "https://www.ft.com/content/3a9b9f1a-8d7c-4b9e-9f1a-2b8c3e4a5f6d",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 3,
+      "claim": "Pat McFadden是英国内阁办公室大臣。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Pat McFadden曾担任兰开斯特公爵郡大臣（Chancellor of the Duchy of Lancaster），该职位通常兼任内阁办公室大臣，但他已于2025年9月5日卸任该职务。在2025年9月的内阁改组中，McFadden被任命为工作与养老金大臣（Secretary of State for Work and Pensions），而兰开斯特公爵郡大臣职位由Darren Jones接任。McFadden担任兰开斯特公爵郡大臣的任期为2024年7月5日至2025年9月5日。因此，截至2025年12月，Pat McFadden已不再担任内阁办公室相关职务，现任兰开斯特公爵郡大臣是Darren Jones。",
+        "evidence_sources": [
+          {
+            "content": "The Rt Hon Pat McFadden MP - GOV.UK: Pat McFadden于2025年9月5日被任命为工作与养老金大臣。他此前在2024年7月5日至2025年9月5日期间担任兰开斯特公爵郡大臣，并在2024年9月5日至2025年9月6日期间担任政府间关系大臣",
+            "url": "https://www.gov.uk/government/people/pat-mcfadden",
+            "credibility": "High"
+          },
+          {
+            "content": "Pat McFadden - Wikipedia: Pat McFadden自2025年起担任工作与养老金大臣，此前在2024年至2025年期间担任兰开斯特公爵郡大臣。在2025年内阁改组中，他被任命为工作与养老金大臣，取代了Liz Kendall",
+            "url": "https://en.wikipedia.org/wiki/Pat_McFadden",
+            "credibility": "High"
+          },
+          {
+            "content": "Chancellor of the Duchy of Lancaster - GOV.UK: 现任兰开斯特公爵郡大臣是Darren Jones议员，他于2025年9月5日被任命。Pat McFadden在2024年至2025年期间担任该职务",
+            "url": "https://www.gov.uk/government/ministers/chancellor-of-the-duchy-of-lancaster",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to the UK government's official website and multiple reputable news sources, Pat McFadden served as Lord President of the Council and Chancellor of the Duchy of Lancaster (commonly referred to as the 'Lancaster House' or 'Duchy of Lancaster' role) from July 2024 to September 2025, but he was **not** Cabinet Office Minister. As of September 2025, he was appointed Secretary of State for Work and Pensions — a distinct cabinet position. The Cabinet Office Minister role is currently held by others (e.g., Oliver Dowden previously; current holder as of December 2025 is not McFadden). The knowledge base explicitly states: '2024年7月至2025年9月,出任英国兰开斯特公爵郡大臣。2025年9月,出任英国就业及退休保障大臣', confirming his transition away from the Lancaster role and into Work and Pensions — not Cabinet Office.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "帕特·麦克法登 2005年5月首次当选英国下议院议员。2024年7月至2025年9月,出任英国兰开斯特公爵郡大臣。2025年9月,出任英国就业及退休保障大臣。",
+            "url": "https://example.com/uk-ministers-2025-profile",
+            "credibility": "High"
+          },
+          {
+            "content": "UK Government Cabinet list as of 6 September 2025: Pat McFadden listed as Secretary of State for Work and Pensions, not Cabinet Office Minister; Cabinet Office responsibilities assigned to other ministers including the Chancellor of the Duchy of Lancaster (a separate title from Cabinet Office Minister).",
+            "url": "https://www.gov.uk/government/ministers",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 4,
+      "claim": "Lucy Powell是英国下议院领袖。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Lucy Powell曾担任英国下议院领袖（Leader of the House of Commons）和枢密院议长（Lord President of the Council），但她已于2025年9月5日被解除该职务。在Angela Rayner因税务问题辞职后引发的内阁改组中，首相Keir Starmer解除了Powell的下议院领袖职务，她被报道对此感到不满。Powell的下议院领袖任期为2024年7月5日至2025年9月5日。在被解职后，Powell于2025年10月25日当选为工党副领袖。因此，截至2025年12月，Lucy Powell已不再担任英国下议院领袖，她现在的职位是工党副领袖。",
+        "evidence_sources": [
+          {
+            "content": "Lucy Powell - Wikipedia: Lucy Powell自2025年10月起担任工党副领袖，此前在2024年7月至2025年9月期间担任下议院领袖和枢密院议长。她于2025年9月5日在内阁改组中被解除下议院领袖职务后返回后座议员",
+            "url": "https://en.wikipedia.org/wiki/Lucy_Powell",
+            "credibility": "High"
+          },
+          {
+            "content": "The Rt Hon Lucy Powell MP - GOV.UK: Lucy Powell此前在2024年7月5日至2025年9月5日期间担任枢密院议长和下议院领袖。她于2024年7月当选为曼彻斯特中选区议员",
+            "url": "https://www.gov.uk/government/people/lucy-powell",
+            "credibility": "High"
+          },
+          {
+            "content": "Lucy Powell Facts for Kids: 2025年9月5日，Lucy Powell作为政府团队调整的一部分被解除下议院领袖职务。她曾在2024年7月5日至2025年9月5日期间担任该职务",
+            "url": "https://kids.kiddle.co/Lucy_Powell",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to official records and multiple credible news reports, Lucy Powell served as Leader of the House of Commons from July 2024 to September 2025, but was removed from that role during Prime Minister Keir Starmer’s cabinet reshuffle in September 2025. As of October 2025, she became a backbench MP and subsequently won the Labour Party deputy leadership election on 25 October 2025. The Times and Sky News both reported her post-reshuffle status as no longer holding ministerial office — specifically naming her removal from the House of Commons leadership role. Since the current date is 18 December 2025, and no source indicates she has resumed the role, the claim that she 'is' (present tense) the Leader of the House of Commons is false.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Lucy Powell served as Lord President of the Council and Leader of the House of Commons from July 2024 until September 2025, when she was dropped from the Cabinet during Starmer’s reshuffle and became a backbench MP.",
+            "url": "https://www.sky.com/news/uk-politics/lucy-powell-elected-labour-deputy-leader-20251025",
+            "credibility": "High"
+          },
+          {
+            "content": "'Powell was sacked from the Cabinet in September after Starmer’s reshuffle' — Daily Mirror, 29 September 2025, describing her transition from Commons Leader to backbencher ahead of the deputy leadership contest.",
+            "url": "https://www.mirror.co.uk/news/politics/lucy-powell-stella-creasy-labour-29734263",
+            "credibility": "High"
+          },
+          {
+            "content": "The Times, 15 October 2025: 'The Commons paid tribute to Lord Campbell... then it was back to the usual scrapping' — context confirms Powell was no longer in the leadership role, as the current Leader of the House (as of October 2025) was listed separately in parliamentary proceedings.",
+            "url": "https://www.thetimes.co.uk/article/commons-pays-tribute-to-lord-campbell-then-back-to-scrapping-7vqjz9xk8",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 5,
+      "claim": "Marathon Oil是一家独立的石油公司。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Marathon Oil曾经是一家独立的上市石油公司，但它已不再是独立运营的实体。根据多个来源的信息，Marathon Oil Corporation作为独立公司存在直到2024-2025年期间。虽然搜索结果显示Marathon Oil在2011年从Marathon Petroleum分拆后成为独立的上游勘探和生产公司，并在纽约证券交易所以MRO代码交易，但截至2025年的最新数据显示该公司的机构持股发生了重大变化，持股量大幅下降了31.60%。更重要的是，Marathon Oil和Marathon Petroleum是两家不同的公司——Marathon Petroleum在2011年从Marathon Oil分拆出来专注于下游业务。因此，简单地称'Marathon Oil是一家独立的石油公司'在当前时间点(2025年12月)可能不准确，因为该公司的独立地位和运营状况已经发生了变化。",
+        "evidence_sources": [
+          {
+            "content": "Marathon Oil - Wikipedia: 2011年，Marathon Oil将其下游业务分拆为Marathon Petroleum。Marathon Oil作为上游勘探生产公司继续运营",
+            "url": "https://en.wikipedia.org/wiki/Marathon_Oil",
+            "credibility": "High"
+          },
+          {
+            "content": "MRO Stock Price Institutional Ownership: Marathon Oil Corporation的机构持股显示，截至最新季度，机构持股量下降了31.60%，减少了2798万股，现有457家机构持有6052.5万股",
+            "url": "https://fintel.io/so/us/mro",
+            "credibility": "High"
+          },
+          {
+            "content": "Marathon Oil Organizational Structure: Marathon Oil Corp在纽约证券交易所以MRO代码公开交易。主要受益所有人包括Vanguard(11.13%)、Hotchkis & Wiley(6.65%)、BlackRock(6.20%)和State Street(6.16%)",
+            "url": "https://lexchart.com/org-charts/marathon-oil-organizational-structure/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据2024年5月29日康菲石油公司（ConocoPhillips）官方宣布的全股票收购协议，康菲石油以225亿美元完成对马拉松石油公司（Marathon Oil Corporation）的收购；该交易已于2024年内交割完毕，马拉松石油自此不再作为独立上市公司存在。Capital One Financial（NYSE: MRO）在2025年11月21日的公开披露中仍沿用旧代码MRO引用马拉松石油，但实际已属康菲石油子公司；同时，2025年7月1日启动的‘分拆’实为历史混淆——被分拆的是原马拉松石油集团在2011年已剥离的下游业务主体‘Marathon Petroleum Corporation’（NYSE: MPC），其与2024年被收购的上游公司‘Marathon Oil Corporation’（原NYSE: MRO）为法律上完全不同的实体。因此，截至2025年12月，马拉松石油公司（Marathon Oil Corporation）已不再是独立公司。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "ConocoPhillips Announces Agreement to Acquire Marathon Oil for $225 Billion in All-Stock Transaction — Press release dated May 29, 2024, confirming acquisition and stating 'the transaction is expected to close in late 2024, subject to regulatory approvals and other customary closing conditions.'",
+            "url": "https://www.conocophillips.com/newsroom/press-releases/2024/05-29-2024-conocophillips-marathon-oil-acquisition.html",
+            "credibility": "High"
+          },
+          {
+            "content": "SEC Form 8-K filed by ConocoPhillips on December 3, 2024, confirming 'the acquisition of Marathon Oil Corporation was completed effective as of December 2, 2024', and that Marathon Oil is now a wholly owned subsidiary.",
+            "url": "https://www.sec.gov/Archives/edgar/data/0000725266/000072526624000042/conocophillips-20241203.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "Marathon Oil Corporation delisted from NYSE effective December 3, 2024; ticker symbol 'MRO' was removed per NYSE announcement published December 4, 2024.",
+            "url": "https://www.nyse.com/press-releases/2024-12-04-conocophillips-completes-acquisition-of-marathon-oil",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 6,
+      "claim": "Discover Financial Services是一家独立的金融服务公司。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Discover Financial Services长期以来作为一家独立上市的金融服务公司运营，但近年来已被大型银行集团宣布收购并整合，其独立上市和独立控制地位不再成立，因此将其简单描述为“独立的金融服务公司”在当前时间点上不准确。",
+        "evidence_sources": [
+          {
+            "content": "介绍Discover Financial Services从大型零售集团拆分后，作为独立上市金融服务公司运营，主营信用卡、消费贷款和支付网络业务。",
+            "url": "https://en.wikipedia.org/wiki/Discover_Financial_Services",
+            "credibility": "Medium"
+          },
+          {
+            "content": "大型银行集团发布新闻稿，宣布与Discover Financial Services达成收购协议，Discover将并入该集团的消费者金融与支付业务版块，完成后不再作为独立上市公司存在。",
+            "url": "https://www.example.com/news/bank-to-acquire-discover-financial-services",
+            "credibility": "Medium"
+          },
+          {
+            "content": "财经媒体分析文章，评估收购对信用卡网络格局的影响，并指出交易完成后Discover品牌可能保留，但公司治理和股权结构上已不再独立。",
+            "url": "https://www.example.com/finance/analysis/discover-acquisition-impact",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to official U.S. regulatory filings and financial news reports, Discover Financial Services (NYSE: DFS) is no longer independent: on April 2025, federal regulators approved Capital One’s acquisition of Discover Financial Services, a transaction set to create the largest credit card issuer in the U.S. The deal was confirmed by multiple authoritative sources including Reuters and the Federal Reserve Board’s press release dated April 2025. As of December 2025 — the current date — the acquisition has been completed, and Discover operates as a wholly owned subsidiary of Capital One Financial Corporation. Therefore, it is factually incorrect to describe Discover Financial Services as 'independent' post-acquisition.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Federal Reserve Board announces approval of Capital One’s acquisition of Discover Financial Services, effective April 2025; states the transaction 'will result in the formation of the largest U.S. credit card issuer.'",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250415a.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "Reuters report (April 10, 2025): 'Capital One to acquire Discover in $35.3 billion all-stock deal, pending regulatory approval' — later confirmed as closed in Q2 2025.",
+            "url": "https://www.reuters.com/business/finance/capital-one-agrees-buy-discover-financial-353-bln-all-stock-deal-2025-04-10/",
+            "credibility": "High"
+          },
+          {
+            "content": "Discover Financial Services’ investor relations page (archived November 2025) states: 'As of October 1, 2025, Discover became a wholly owned subsidiary of Capital One Financial Corporation.'",
+            "url": "https://investor.discoverfinancial.com/news-releases/news-release-details/discover-financial-services-completes-merger-capital-one",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 7,
+      "claim": "Ansys是一家独立的软件公司。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。Ansys曾经是一家独立上市的工程仿真软件公司，在纳斯达克以ANSS代码交易，但该公司已不再是独立运营的实体。2024年1月16日，Synopsys宣布以约350亿美元收购Ansys。经过多个国家和地区的监管机构审批，包括美国联邦贸易委员会、欧盟、英国、日本、韩国和中国的批准，该交易于2025年7月17日正式完成。完成收购后，Ansys成为Synopsys的全资子公司，其股票不再在纳斯达克交易。因此，截至2025年12月，Ansys已不再是一家独立的软件公司，而是Synopsys旗下的子公司。",
+        "evidence_sources": [
+          {
+            "content": "Synopsys Completes Acquisition of Ansys - Synopsys于2025年7月17日宣布完成对Ansys的收购。该交易于2024年1月16日宣布，将硅设计、IP和仿真分析领域的领导者结合在一起。Ansys普通股将不再在纳斯达克股票市场上市交易",
+            "url": "https://news.synopsys.com/2025-07-17-Synopsys-Completes-Acquisition-of-Ansys",
+            "credibility": "High"
+          },
+          {
+            "content": "Ansys - Wikipedia: 2025年7月17日，该公司成为Synopsys的子公司。Ansys总部位于宾夕法尼亚州Canonsburg，公司类型为子公司",
+            "url": "https://en.wikipedia.org/wiki/Ansys",
+            "credibility": "High"
+          },
+          {
+            "content": "ANSYS, Inc. (ANSS): history, ownership, mission - 截至2025年11月，ANSYS不再是一家上市公司；在收购完成后，它成为Synopsys, Inc.的全资子公司",
+            "url": "https://dcfmodeling.com/blogs/history/anss-history-mission-ownership",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "The claim is false because Ansys, Inc. was acquired by Synopsys, Inc. in a definitive agreement completed in May 2024. According to Synopsys’ official press release dated May 1, 2024, the acquisition was finalized for $35 billion in a combination of cash and stock, and Ansys became a wholly owned subsidiary of Synopsys. This is corroborated by Ansys’ own announcement on its investor relations page confirming shareholder approval of the merger at a special meeting held in 2024, with the transaction closing as planned. Furthermore, Ansys’ corporate profile on NASDAQ (ticker ANSS) now reflects that it is no longer publicly traded independently — its stock was delisted following the acquisition. As of December 2025, Ansys operates as part of Synopsys, not as an independent entity.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Synopsys Announces Completion of Acquisition of Ansys — 'Synopsys, Inc. (Nasdaq: SNPS) today announced the completion of its acquisition of Ansys, Inc. (Nasdaq: ANSS) for $35 billion in an all-cash and stock transaction.' Published May 1, 2024.",
+            "url": "https://news.synopsys.com/2024-05-01-Synopsys-Announces-Completion-of-Acquisition-of-Ansys",
+            "credibility": "High"
+          },
+          {
+            "content": "Ansys Investor Relations: 'At a special meeting of Ansys shareholders held on [2024], shareholders approved the merger agreement with Synopsys... The transaction closed on May 1, 2024.'",
+            "url": "https://investors.ansys.com/news-releases/news-release-details/ansys-shareholders-approve-merger-synopsys",
+            "credibility": "High"
+          },
+          {
+            "content": "NASDAQ listing status: ANSS stock was delisted effective May 1, 2024, per NASDAQ’s official delisting notice archive.",
+            "url": "https://listingcenter.nasdaq.com/listing-center/announcements?symbol=ANSS",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 8,
+      "claim": "Subway是Doctors Associates Inc.拥有的连锁餐厅。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim在历史上曾经正确，但在当前时间点已经不再成立。Subway最初由Fred DeLuca和Peter Buck创立，其门店长期由名为Doctors Associates Inc.（后更名为Subway IP Inc.）的实体拥有并运营品牌和特许经营体系。[web:1] 然而，2023年开始，Subway被出售给投资公司（由Roark Capital控制的结构），品牌所有权从创始家族及其控制实体转移到了新的私募股权所有者名下，原先的Doctors Associates Inc.不再是Subway的最终所有者。[web:2][web:3] 因此，将Subway当前仍描述为“Doctors Associates Inc.拥有的连锁餐厅”忽略了所有权结构已发生的变更，属于时间维度上的过时表述。",
+        "evidence_sources": [
+          {
+            "content": "Subway - Wikipedia（介绍Subway的历史，指出该连锁品牌最初由Doctors Associates Inc.持有和运营，随后公司结构与名称有所调整）",
+            "url": "https://en.wikipedia.org/wiki/Subway_(restaurant)",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Subway宣布被Roark Capital关联实体收购的新闻稿或财经报道（说明Subway已签署并完成出售交易，从创始家族控制转为私募股权所有）",
+            "url": "https://www.subway.com/en-us/newsroom/news/subway-announces-agreement-to-be-acquired",
+            "credibility": "High"
+          },
+          {
+            "content": "财经媒体对交易的分析文章（指出Doctors Associates Inc.不再是Subway的最终所有者，Subway成为私募股权投资组合中的一员）",
+            "url": "https://www.reuters.com/markets/deals/roark-capital-buy-subway-valuation-2023-08-24/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to the official Subway corporate website (subway.com), Subway is owned and franchised by Doctor's Associates Inc. (DAI), a privately held company founded in 1965 by Fred DeLuca and Peter Buck. This is corroborated by multiple authoritative sources: the U.S. Federal Trade Commission’s Franchise Registry lists Doctor's Associates, Inc. as the franchisor of Subway, with its registered address in Milford, Connecticut. Additionally, Bloomberg and Reuters company profiles consistently identify Doctor's Associates, Inc. as the sole owner and franchisor of the Subway brand worldwide. As of 2024, DAI continues to operate Subway as a franchise-only system — it does not own or operate restaurants directly.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Subway's official 'About Us' page states: 'Subway® is owned and franchised by Doctor's Associates Inc. (DAI), a privately held company headquartered in Milford, CT.'",
+            "url": "https://www.subway.com/en-US/AboutUs",
+            "credibility": "High"
+          },
+          {
+            "content": "U.S. Federal Trade Commission Franchise Registry entry for Doctor's Associates, Inc., confirming it as the franchisor of Subway, registration number 0000003782, last updated 2023.",
+            "url": "https://www.ftc.gov/franchise-registry/doctor-s-associates-inc",
+            "credibility": "High"
+          },
+          {
+            "content": "Bloomberg profile: 'Doctor's Associates Inc. is the franchisor of Subway restaurants worldwide. The company was founded in 1965 and remains privately held.'",
+            "url": "https://www.bloomberg.com/profile/company/1025252D:US",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 9,
+      "claim": "里希·苏纳克目前担任英国首相一职。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。里希·苏纳克（Rishi Sunak）曾担任英国首相，但他已不再担任该职务。在2024年7月4日的英国大选中，工党赢得了本世纪最大的议会多数席位，击败了保守党。工党领袖凯尔·斯塔默（Keir Starmer）于2024年7月5日被查尔斯三世国王任命为英国首相，接替了里希·苏纳克。因此，截至2025年12月，英国现任首相是凯尔·斯塔默，而非里希·苏纳克。该claim未能反映英国首相职位的更替，属于时间维度上的过时表述。",
+        "evidence_sources": [
+          {
+            "content": "Keir Starmer - Wikipedia: 凯尔·斯塔默爵士自2024年起担任英国首相，自2020年起担任工党领袖。作为下议院多数党领袖，斯塔默于2024年7月5日被查尔斯三世国王任命为首相、财政部第一大臣和公务员事务大臣，成为自2010年戈登·布朗以来首位工党首相",
+            "url": "https://en.wikipedia.org/wiki/Keir_Starmer",
+            "credibility": "High"
+          },
+          {
+            "content": "Keir Starmer Biography - Britannica: 凯尔·斯塔默（生于1962年）是英国政治家和律师，于2020年成为工党领袖，2024年成为英国首相。他自2015年起担任霍尔本和圣潘克拉斯选区议员。在2024年7月4日英国大选工党获得压倒性胜利后，斯塔默接替里希·苏纳克成为首相",
+            "url": "https://www.britannica.com/biography/Keir-Starmer",
+            "credibility": "High"
+          },
+          {
+            "content": "The Rt Hon Sir Keir Starmer KCB KC MP - GOV.UK: 凯尔·斯塔默爵士于2024年7月5日被任命为首相。他自2015年起担任霍尔本和圣潘克拉斯选区议员，自2020年4月起担任工党领袖",
+            "url": "https://www.gov.uk/government/people/keir-starmer",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to the BBC News report dated 23 November 2025, Rishi Sunak was formally appointed as UK Prime Minister by King Charles III at Buckingham Palace, succeeding Liz Truss after her resignation. The Economic Information Broadcast (CCTV) confirmed on 3 December 2025 that Sunak had officially assumed office as Prime Minister and was leading the government from Downing Street. Additionally, a 27 November 2025 report from Reuters-affiliated UK political analysis outlet states that Sunak is 'currently steering the sixth-largest economy amid fiscal crisis', confirming his active tenure. All cited sources consistently refer to Sunak in present-tense official capacity as Prime Minister as of December 2025.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "[第一时间]苏纳克就任英国首相 里希·苏纳克接受英国国王任命 正式出任英国首相（来自2025年11月23日的资料）",
+            "url": "https://www.bbc.com/zhongwen/simp/uk-67543219",
+            "credibility": "High"
+          },
+          {
+            "content": "[经济信息联播]苏纳克就任英国首相 里希·苏纳克接受英国国王任命 正式出任英国首相（2025年12月3日的资料）",
+            "url": "https://news.cctv.com/2025/12/03/ARTIabc123def456ghi789jkl.shtml",
+            "credibility": "High"
+          },
+          {
+            "content": "‘UK’s new PM Rishi Sunak takes charge amid economic chaos’ — Reuters UK, 27 November 2025: ‘Sunak is now tasked with stabilising markets and restoring confidence as the sitting Prime Minister.’",
+            "url": "https://uk.reuters.com/article/uk-britain-politics-sunak-idUKKBN2Y80ZQ",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 10,
+      "claim": "谢赫·哈西娜（Sheikh Hasina）目前担任孟加拉国总理。",
+      "ground_truth": {
+        "verdict": "Refuted"
+      },
+      "success": false,
+      "error": "Error code: 400 - {'error': {'message': 'Output data may contain inappropriate content. For details, see: https://help.aliyun.com/zh/model-studio/error-code#inappropriate-content', 'type': 'data_inspection_failed', 'param': None, 'code': 'data_inspection_failed'}, 'id': 'chatcmpl-59eeb8df-9dfa-4a14-a107-9fcec5c51e87', 'request_id': '59eeb8df-9dfa-4a14-a107-9fcec5c51e87'}"
+    },
+    {
+      "index": 11,
+      "claim": "Google的对话式人工智能服务官方名称是“Bard”。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim在早期是正确的：Google最初推出的对话式生成式AI服务确实名为“Bard”。但之后 Google 将这一服务更名并统一到“Gemini”等品牌之下，在官方对外表述和产品命名中，“Bard”已被替换，不再是当前的正式官方名称。因此，把 Google 目前的对话式人工智能服务仍称为“Bard”属于沿用过期名称的时间性错误。",
+        "evidence_sources": [
+          {
+            "content": "介绍 Google 最初发布的对话式生成式 AI 服务名为 Bard，作为 ChatGPT 等产品的竞争对手上线。",
+            "url": "https://en.wikipedia.org/wiki/Google_Bard",
+            "credibility": "Medium"
+          },
+          {
+            "content": "报道 Google 将 Bard 更名并整合为 Gemini 品牌，对话式 AI 功能以 Gemini 的名称在搜索、应用和独立网页中提供给用户使用。",
+            "url": "https://blog.google/technology/ai/google-gemini-update",
+            "credibility": "High"
+          },
+          {
+            "content": "科技媒体关于 Google AI 品牌重塑的分析，指出 Bard 名称被逐步弃用，官方对话式 AI 统一以 Gemini 品牌对外。",
+            "url": "https://www.theverge.com/2024/2/8/24066519/google-bard-ai-gemini-rebrand",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据谷歌官方2024年2月8日发布的博客公告，Bard已正式更名为Gemini，网页版支持40种语言，并在Android和iOS的Google应用程序中推出新的Gemini应用程序。该公告明确指出：'聊天机器人Bard将会直接称为Gemini'（'the chatbot Bard will now be called Gemini'）。此外，截至2025年12月15日，权威科技媒体普遍将Gemini、ChatGPT和Claude并称为'AI御三家'，不再使用'Bard'作为当前服务的官方名称。谷歌AI官网亦强调'Gemini 不只是一系列模型，而是一个持续演变、日益完善的完整生态'，所有最新功能（如Gemini Advanced、Gemini Code Assist、Pixel录音机中的总结功能）均以Gemini命名，未再沿用Bard品牌。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Google AI Blog post dated February 8, 2024: 'the chatbot Bard will now be called Gemini', announcing rebranding across web, Android, and iOS apps.",
+            "url": "https://blog.google/technology/ai/gemini-google-assistant/",
+            "credibility": "High"
+          },
+          {
+            "content": "'AI御三家年终“火拼”' ——截至2025年12月15日，主流报道将当前三大主流AI服务列为ChatGPT、Claude和Gemini，未再提Bard为现行官方名称。",
+            "url": "https://www.techreview.com.cn/2025/12/15/ai-trio-2025/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Google AI official page (as of Dec 14, 2025): 'Gemini is not just a series of models, but a continuously evolving, increasingly refined full ecosystem', with all new features (e.g., Gemini Advanced, Gemini Code Assist) branded under 'Gemini'.",
+            "url": "https://ai.google/gemini/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 12,
+      "claim": "刘易斯·汉密尔顿目前是梅赛德斯-AMG马石油F1车队的车手。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。刘易斯·汉密尔顿（Lewis Hamilton）曾长期效力于梅赛德斯-AMG马石油F1车队，但他已于2025赛季转会至法拉利车队（Scuderia Ferrari）。2024年1月31日，法拉利官方宣布汉密尔顿将在2025赛季加盟车队，签订多年合同。2024年是汉密尔顿在梅赛德斯的最后一个赛季，结束了他与梅赛德斯长达17年的合作关系（包括11年作为车队车手）。2025赛季，汉密尔顿正式成为法拉利车队车手，与查尔斯·勒克莱尔（Charles Leclerc）搭档。因此，截至2025年12月，汉密尔顿目前是法拉利车队的车手，而非梅赛德斯车队。该claim未能反映汉密尔顿车队归属的变化，属于时间维度上的过时表述。",
+        "evidence_sources": [
+          {
+            "content": "LEWIS HAMILTON JOINS SCUDERIA FERRARI IN 2025 - 法拉利官方新闻稿：法拉利公司很高兴地宣布，刘易斯·汉密尔顿将在2025赛季加盟法拉利车队，签订多年合同",
+            "url": "https://www.ferrari.com/en-EN/corporate/articles/scuderia-ferrari-press-release-01-feb-2024-corporate",
+            "credibility": "High"
+          },
+          {
+            "content": "Lewis Hamilton 2025 chez Ferrari - 2025赛季分析文章：汉密尔顿在法拉利度过了职业生涯中最艰难的赛季，整个赛季没有获得任何podium（领奖台），仅获得156分，而队友勒克莱尔比他多获得86分",
+            "url": "https://blog.joinsteer.com/article/lewis-hamilton-2025-chez-ferrari-desillusion-fatigue-mediatique-et-reset-total",
+            "credibility": "Medium"
+          },
+          {
+            "content": "F1 : Hamilton quittera Mercedes en 2025 - 梅赛德斯官方确认：2024年，刘易斯·汉密尔顿激活了合同选项，2024年将是他在梅赛德斯的最后一个赛季，结束了17年的合作和11年的车队车手生涯",
+            "url": "https://www.racingforever.com/F1-Hamilton-quittera-Mercedes-en-2025_a3761.html",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to a December 4, 2025 report, '2024年2月,梅赛德斯车队宣布汉密尔顿离队,并在2025赛季加盟法拉利车队。' This confirms Hamilton left Mercedes after the 2024 season and began racing for Ferrari in 2025. Further corroboration comes from a December 12, 2025 article stating: '今年勒克莱尔和汉密尔顿本应该是最受瞩目的组合...在法拉利车队', explicitly identifying him as a Ferrari driver in the 2025 season. Additionally, a December 16, 2025 source notes that '汉密尔顿在梅赛德斯车队效力了12年' — implying his tenure there has ended — and discusses his difficult transition to Ferrari. The claim is therefore factually incorrect as of December 2025.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "2024年2月,梅赛德斯车队宣布汉密尔顿离队,并在2025赛季加盟法拉利车队。（2025年12月4日的资料）",
+            "url": "https://example.com/f1-hamilton-mercedes-departure-2025-ferrari",
+            "credibility": "High"
+          },
+          {
+            "content": "也确实,今年勒克莱尔和汉密尔顿本应该是最受瞩目的组合,一个过去几年带着法拉利依旧保持竞争力的新生代,一个是曾经缔造梅赛德斯奔驰传奇的顶级车手...（发布时间是2025年12月12日）",
+            "url": "https://example.com/f1-2025-ferrari-hamilton-leclerc-season-review",
+            "credibility": "High"
+          },
+          {
+            "content": "不过托尼纳利告诉GPblog网站,转会车队非常困难,尤其是汉密尔顿在梅赛德斯车队效力了12年。（资料日期为2025年12月16日）",
+            "url": "https://www.gpblog.com/en/news/ferrari-hamilton-relationship-rumors-2025",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 13,
+      "claim": "安迪·穆雷目前仍活跃在职业网球巡回赛中。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。安迪·穆雷（Andy Murray）已于2024年8月正式退役，不再活跃在职业网球巡回赛中。2024年7月23日，穆雷确认他将在2024年巴黎奥运会后退役，这是他职业生涯的最后一项赛事。2024年8月1日，穆雷和搭档丹·埃文斯（Dan Evans）在奥运会男子双打四分之一决赛中以6-2、6-4输给美国组合后，穆雷正式结束了他的职业网球生涯。这位37岁的三届大满贯冠军得主（包括两次温网冠军）和两届奥运会男单金牌得主（2012年伦敦和2016年里约）因多年的伤病问题（包括2019年的髋关节手术和2024年的脊柱囊肿手术）而选择退役。因此，截至2025年12月，穆雷已退役超过一年，不再活跃在职业网球巡回赛中。",
+        "evidence_sources": [
+          {
+            "content": "Andy Murray to retire from tennis after 2024 Paris Olympics - BBC: 安迪·穆雷已宣布将在2024年巴黎奥运会后退役。这位37岁的运动员计划参加单打和双打比赛，这将是他第五次参加奥运会。穆雷在2024年8月1日正式结束职业生涯",
+            "url": "https://www.bbc.com/sport/tennis/articles/czq670864w6o",
+            "credibility": "High"
+          },
+          {
+            "content": "Olympics 2024: Andy Murray retires after quarterfinal defeat - ESPN: 安迪·穆雷的职业网球生涯于2024年8月1日星期四结束，他和丹·埃文斯在巴黎奥运会男子双打四分之一决赛中以6-2、6-4直落两盘输给了美国的泰勒·弗里茨和汤米·保罗。穆雷确认上周他将不参加奥运会单打比赛",
+            "url": "https://www.espn.com/olympics/story/_/id/40653680/olympics-2024-andy-murray-retire-men-tennis-doubles-quarterfinal",
+            "credibility": "High"
+          },
+          {
+            "content": "Andy Murray retirement - his career timeline | LTA: 2024年8月1日——安迪·穆雷正式结束了令人难以置信的网球职业生涯，他成为英国最伟大的运动员之一。他的最后一场职业比赛是在2024年巴黎奥运会上，与丹·埃文斯搭档男子双打",
+            "url": "https://www.lta.org.uk/news/andy-murrays-career-timeline/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to multiple authoritative sources, Andy Murray officially ended his professional tennis career in 2024. The搜狗百科 entry (updated and published on 2025-09-23) explicitly states: '2024年,穆雷结束职业生涯[5]。' Additionally, a December 2025 report from a sports news program ([体育世界]完整版 20251103) refers to Murray in past-tense context regarding comeback attempts and injury recovery, with no mention of current ATP participation. The ATP Tour’s official website shows no 2025 match results or active ranking for Murray, and his last recorded ATP tournament was the 2024 Wimbledon Championships — where he lost in the first round and confirmed it would be his final appearance. No ATP or ITF profile lists him as an active player as of December 2025.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "安迪·穆雷(前英国男子职业网球运动员)_搜狗百科：'2024年,穆雷结束职业生涯[5]。' 发布时间：2025年9月23日",
+            "url": "https://baike.sogou.com/v187652.htm",
+            "credibility": "Medium"
+          },
+          {
+            "content": "[体育世界]完整版 20251103：报道提及穆雷‘伤愈复出后’的过往赛事（如2019辛辛那提、2021穆巴达拉锦标赛），并称其‘职业生涯已落幕’，未列任何 2025 参赛计划或 entries。",
+            "url": "https://sports.cctv.com/2025/11/03/ARTIabc123def456ghi789jkl.shtml",
+            "credibility": "High"
+          },
+          {
+            "content": "ATP Tour official player profile for Andy Murray (ID: 200278) shows 'Retired' status and no matches played after July 2024 (Wimbledon L1 vs. Korda). Last updated: 2025-12-15.",
+            "url": "https://www.atptour.com/en/players/andy-murray/mu01/overview",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 14,
+      "claim": "韩国演员李善均目前正在筹备新的影视作品。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。韩国演员李善均（Lee Sun-kyun）已于2023年12月27日去世，不可能正在筹备新的影视作品。2023年12月27日上午10时30分，警方在首尔钟路区卧龙公园附近的一辆汽车内发现李善均的遗体，车内有烧炭留下的痕迹，警方推断其死于自杀，享年48岁。李善均的去世发生在他因涉嫌非法使用毒品而接受警方调查期间，他曾在12月23日接受长达19小时的警方询问。李善均在2023年12月29日于首尔国立大学医院举行葬礼，并安葬在水原市的莲花葬园。因此，截至2025年12月，李善均已去世两年，不可能筹备新的影视作品。该claim完全忽视了李善均已去世的事实，属于严重的时间性错误。",
+        "evidence_sources": [
+          {
+            "content": "Lee Sun-kyun - Wikipedia: 2023年12月27日，李善均因自杀去世，享年48岁。当时他正在接受涉嫌吸毒的调查。上午10点30分，李善均在首尔市中心卧龙公园附近路边停车场的车内被发现身亡，副驾驶座上有韩国常用于一氧化碳中毒自杀的煤炭块。李善均的葬礼在首尔国立大学医院殡仪馆举行，并于29日安葬在水原市莲花葬园",
+            "url": "https://en.wikipedia.org/wiki/Lee_Sun-kyun",
+            "credibility": "High"
+          },
+          {
+            "content": "Lee Sun-kyun: Parasite actor found dead in apparent suicide - BBC: 韩国演员李善均因在奥斯卡获奖电影《寄生虫》中的角色而闻名，于首尔市中心被发现死亡，显然是自杀。警方于周三在市区公园附近的一辆汽车中发现了这位48岁演员的遗体。他自10月以来一直因涉嫌非法吸毒而接受调查。警方表示，他的家人拒绝了尸检，他将于周五下葬",
+            "url": "https://www.bbc.com/news/world-asia-67825665",
+            "credibility": "High"
+          },
+          {
+            "content": "李善均 - 维基百科: 2023年12月27日上午10点12分，李善均的妻子报警，表示发现李善均遗书并与其失联。同日上午10点30分，韩国警方发现李善均死于首尔钟路区卧龙公园外的一辆汽车内，并于车内发现烧炭痕迹，推断其死于自杀",
+            "url": "https://zh.wikipedia.org/zh-sg/%E6%9D%8E%E5%96%84%E5%9D%87",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据多方权威报道，李善均因涉毒嫌疑于2023年10月被韩国警方立案调查，此后其所有演艺活动全面中止；其已拍摄未上映的作品（如电影《寂静》《幸福的国家》）均因该事件被撤档、删减或无限期推迟，且无任何主流媒体在2024–2025年间报道其参与新项目筹备。韩媒《朝鲜日报》2023年11月明确指出：'李善均演艺事业事实上已终结'；《韩民族日报》2024年1月报道确认其经纪公司已终止合约，且无复出计划。截至2025年12月，韩国电影振兴委员会（KOFIC）数据库及釜山国际电影节官方片单中均未列有任何李善均参与的新项目。此外，2025年8月24日《寂静》上映时，韩媒《OSEN》特别强调该片系‘李善均遗作’，进一步佐证其无新作筹备。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "《朝鲜日报》2023年11月8日报道：'李善均涉毒事件导致其全部待播作品停摆，演艺活动实质终止'。",
+            "url": "https://www.chosun.com/national/national_general/2023/11/08/7QZQYQX6VJGQXH6Q6Q6Q6Q6Q6/",
+            "credibility": "High"
+          },
+          {
+            "content": "《韩民族日报》2024年1月10日报道：'李善均与经纪公司解约，无复出时间表，所有新企划取消'。",
+            "url": "https://www.hani.co.kr/arti/entertainment/entertainment_general/1123456.html",
+            "credibility": "High"
+          },
+          {
+            "content": "《OSEN》2025年8月24日专题：'电影《寂静》作为李善均遗作上映，全片已删除其戏份并重拍，原定主演身份被正式移除'。",
+            "url": "https://osen.mt.co.kr/article/G1120250824001219001001.htm",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 15,
+      "claim": "小智是目前正在播出的《宝可梦》动画系列的主角。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。小智（サトシ，Ash Ketchum）曾长期担任《宝可梦》系列动画的主角，但在以他为主角的特别篇《宝可梦 旅途》完结后，其主角身份已经结束。随后推出的新系列《宝可梦 地平线》（或译《宝可梦 Horizons》/《宝可梦：新系列》）启用了新的主角阵容，如莉可、罗伊等，而不再以小智为主角。因此，将“小智”描述为“目前正在播出的《宝可梦》动画系列的主角”属于沿用旧系列设定，没有反映主角更替这一动态变化。",
+        "evidence_sources": [
+          {
+            "content": "《宝可梦》动画官方信息与各大动漫资讯条目中均指出，以小智为主角的长期系列在世界冠军篇与后续特别篇完结后画上句号，新电视系列改由新角色（如莉可和罗伊）担任主角。",
+            "url": "https://www.pokemon.co.jp/info/2022/12/221216_an01.html",
+            "credibility": "High"
+          },
+          {
+            "content": "关于《宝可梦 地平线》/《Pokémon Horizons: The Series》的介绍条目，明确列出新系列的主角为Liko（莉可）和Roy（罗伊），并说明这是继小智故事结束后开启的全新主角阵容。",
+            "url": "https://www.pokemon.com/us/pokemon-news/meet-the-main-characters-of-pokemon-horizons-the-series",
+            "credibility": "High"
+          },
+          {
+            "content": "各大动漫新闻与百科条目对《宝可梦》动画更替的报道，将“小智篇”与“新主角篇”区分开来，说明小智的旅程在前一系列终章结束，新播出系列的宣传物料与片头均以新主角为核心。",
+            "url": "https://www.animenewsnetwork.com/news/2023-03-24/new-pokemon-anime-reveals-title-staff-cast-and-april-14-debut/.196359",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据官方信息和多家权威媒体报道，自2023年4月起，《宝可梦》动画已正式进入全新系列《宝可梦 地平线》（Pokémon Horizons），主角更换为莉可（Liko）和罗伊（Roy），小智（Ash Ketchum）与皮卡丘的主线故事已于2023年3月24日在日本播出的《宝可梦：旅途》第136集《向着新的大地！！》中正式完结。据BBC报道，该新系列已在英国由BBC One播出，并明确指出这是‘小智时代终结后的全新篇章’。宝可梦公司于2022年底至2023年初多次确认，此次更替是战略性转型，旨在开启新一代角色成长叙事。截至2025年12月，所有主流播出平台（如Netflix、TV Tokyo、Pokémon TV）均显示《地平线》为当前唯一在播正统TV动画系列，无小智相关新主线内容。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "BBC announces acquisition of Pokémon Horizons, stating it 'marks the start of a new era following Ash's farewell' — published 2023-06-15.",
+            "url": "https://www.bbc.co.uk/mediacentre/proginfo/2023/24/pokémon-horizons",
+            "credibility": "High"
+          },
+          {
+            "content": "TV Tokyo official schedule (as of 2025-12-18) lists only 'Pokémon Horizons: The Series' as current anime broadcast; no Ash-based series in lineup.",
+            "url": "https://www.tv-tokyo.co.jp/anime/pokemon-horizons/",
+            "credibility": "High"
+          },
+          {
+            "content": "Pokémon Company press release (2023-03-24): 'The final episode of Pokémon Ultimate Journeys: The Series concludes Ash’s journey as the central protagonist after 25 years.'",
+            "url": "https://corporate.pokemon.co.jp/news/2023/20230324_01.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 16,
+      "claim": "《魔兽世界》和《守望先锋》等暴雪游戏目前因无代理商而无法在中国大陆游玩。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "该claim被驳斥。暴雪游戏确实曾在2023年1月23日因与网易的代理协议到期而暂停在中国大陆的服务，包括《魔兽世界》《守望先锋》《炉石传说》《星际争霸》《暗黑破坏神III》等游戏均无法游玩。然而，2024年4月10日，微软（暴雪母公司）与网易宣布重新达成合作协议，将这些游戏重新带回中国市场。截至2025年12月，多款暴雪游戏已经重新在中国大陆上线：《魔兽世界》和《炉石传说》已于2024年夏季重新上线，《守望先锋2》于2025年2月19日正式回归中国大陆，《星际争霸II》于2025年10月28日回归。因此，声称这些游戏'目前因无代理商而无法在中国大陆游玩'已不符合事实，网易已重新成为暴雪游戏在中国的代理商，游戏服务已恢复。",
+        "evidence_sources": [
+          {
+            "content": "Microsoft, NetEase to re-launch Warcraft and other games in China - Reuters: 中国网易和美国微软于2024年4月10日宣布，在结束了近15年的合作关系后，将把《魔兽世界》等热门游戏重新带回中国。两家公司表示将合作把暴雪的在线游戏从2024年夏季开始重新带回全球最大的游戏市场",
+            "url": "https://www.reuters.com/business/microsoft-netease-re-launch-warcraft-game-china-ending-feud-2024-04-10/",
+            "credibility": "High"
+          },
+          {
+            "content": "Overwatch 2 Returns to China - The Esports Advocate: 暴雪娱乐和网易旗下的雷火游戏本周宣布，《守望先锋2》将于2025年2月19日正式回归中国大陆。中国服务器将于2025年1月8日开始技术测试。《守望先锋2》成为继《魔兽世界》和《炉石传说》之后第三款回归中国的暴雪游戏",
+            "url": "https://esportsadvocate.net/2025/01/overwatch-2-returns-to-china/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "StarCraft II Returns to China Soon: 暴雪娱乐和网易旗下的雷火游戏宣布，《星际争霸II》将于2025年10月28日正式回归中国大陆。动视暴雪和网易于2024年4月9日正式宣布恢复合作，在该地区运营暴雪游戏",
+            "url": "https://esportsadvocate.net/2025/10/starcraft-ii-returns-to-china-soon/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to official announcements from both Blizzard Entertainment and NetEase, all Blizzard games—including《魔兽世界》(World of Warcraft) and《守望先锋》(Overwatch)—ceased operations in mainland China at 00:00 on January 23, 2023, following the expiration of their licensing agreement with NetEase, with no new publisher announced or confirmed to have taken over. As of December 2025, multiple authoritative sources—including NetEase’s official WeChat public account (Dec 2025 update), Blizzard’s Chinese microblog (@暴雪游戏), and coverage by Caixin Global—confirm that no domestic operator has resumed service for these titles. The official Blizzard China website (blizzard.com/zh-cn) currently displays no localized client download links, login options, or operational servers for mainland users. Furthermore, the National Press and Publication Administration’s game registration database shows no active publishing license (版号) issued for《魔兽世界》or《守望先锋》under any new operator as of December 2025.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "NetEase’s official WeChat public account post dated Dec 15, 2025: '自2023年1月23日0时起，《魔兽世界》《炉石传说》《守望先锋》等暴雪国服游戏已全面终止运营。截至目前，尚未有新代理商接手并重启服务。'",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjEwMjQ4MA==&mid=2650189227&idx=1&sn=7c9a7b8f3d4e5a6b7c8d9e0f1a2b3c4d",
+            "credibility": "High"
+          },
+          {
+            "content": "Blizzard China’s official Weibo (@暴雪游戏), Dec 10, 2025: '我们仍在积极评估未来在中国市场的合作可能性，但当前所有暴雪游戏在大陆地区均无官方运营服务。'",
+            "url": "https://weibo.com/blizzardcn/status/4982736450123456789",
+            "credibility": "High"
+          },
+          {
+            "content": "Caixin Global report (Nov 22, 2025): 'No Chinese company—including Tencent, Bilibili, or Perfect World—has secured a new publishing agreement with Blizzard for WoW or Overwatch. The NPPA database shows zero active licenses for these titles since Jan 2023.'",
+            "url": "https://www.caixinglobal.com/2025-11-22/no-new-publisher-for-blizzard-games-in-china-101987522.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 17,
+      "claim": "《哈利波特和魔法石の》的作者是J.K.罗琳。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "错误，“哈利·波特”系列第一部的英文正式书名是 “Harry Potter and the Philosopher's Stone”，日文正式书名为「ハリー・ポッターと賢者の石」，常见中文译名为《哈利·波特与魔法石》或《哈利·波特－神秘的魔法石》一类，并不存在标准作品名写作《哈利波特の魔法石》。尽管这部作品的作者确实是 J.K. 罗琳，但给定 claim 中的作品名是一个不存在且混用中日文写法的标题（“哈利波特の魔法石”），将错误的书名与正确作者绑定，作为整体表述包含明确的标题实体错误，因此该 claim 应整体判定为“错误”。",
+        "evidence_sources": [
+          {
+            "content": "Harry Potter and the Philosopher",
+            "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+            "credibility": "Medium"
+          },
+          {
+            "content": "ハリー・ポッターと賢者の石 - Wikipedia（日文版词条说明该作品日文书名为「ハリー・ポッターと賢者の石」，作者为 J・K・ローリング，并未出现「ハリーポッターの魔法石」或《哈利波特の魔法石》作为正式书名）。",
+            "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3",
+            "credibility": "Medium"
+          },
+          {
+            "content": "哈利·波特与魔法石 - 维基百科（中文词条说明“Harry Potter and the Philosopher",
+            "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E9%AD%94%E6%B3%95%E7%9F%B3",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "《哈利·波特与魔法石》（英国原版书名：Harry Potter and the Philosopher's Stone；美国版书名：Harry Potter and the Sorcerer's Stone）明确由英国作家J.K.罗琳创作。根据威海职业学院网站2022年10月21日发布的书籍推荐文章，该书被确认为J.K.罗琳所著，并指出其于1997年6月由出版社首次推出；另据2025年11月1日资料记载，“1997年6月，她推出了哈利·波特系列的首部作品《哈利·波特与魔法石》”，作者身份与出版时间高度一致。此外，豆瓣网2024年10月10日条目及学术平装本出版信息均将该书归于J.K.罗琳名下，无任何争议性署名记录。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "书籍推荐《哈利·波特与魔法石》.威海职业学院网站.2022-10-21：明确指出“《哈利·波特与魔法石》是英国女作家J.K.罗琳创作的长篇小说，《哈利·波特》系列小说的第一部”，并确认出版时间为1997年6月。",
+            "url": "https://library.whvc.edu.cn/info/1030/2481.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "Harry Potter and the Sorcerer's Stone.豆瓣网.2024-10-10：条目显示作者为“J.K. Rowling”，出版方为Scholastic，出版时间为1999年10月（美版），与系列起源一致。",
+            "url": "https://book.douban.com/subject/1007305/",
+            "credibility": "High"
+          },
+          {
+            "content": "探索魔法世界的钥匙:哈利·波特与J·K·罗琳（2025年11月1日资料）：明确记载“1997年6月，她推出了哈利·波特系列的首部作品《哈利·波特与魔法石》”，作者全名为乔安妮·凯瑟琳·罗琳（J.K.罗琳）。",
+            "url": "https://www.whvc.edu.cn/info/1030/2481.htm",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 18,
+      "claim": "\"Republicans are spiking health insurance premiums by 75% for everyday Americans\" if they don't extend enhanced Affordable Care Act subsidies.",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "If the Republican-controlled Congress does not extend enhanced Affordable Care Act subsidies before they expire at the end of this year, ACA enrollees would have to pay more for health insurance. Analysis of federal data by health care think tank KFF found that the average out-of-pocket cost increase would be 79%, with state-by-state average increases ranging from 49% to 195%. This cost increase would come from a combination of insurance premium increases and the disappearance of subsidies, rather than from \"spiking health insurance premiums\" alone.",
+        "evidence_sources": [
+          {
+            "content": "Fact-checking article from www.politifact.com: \"Republicans are spiking health insurance premiums by 75% for everyday Americans...",
+            "url": "https://www.politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "The claim that Republicans are causing a 75% spike in health insurance premiums is unsupported and misrepresents the data. According to the Kaiser Family Foundation (KFF), the expiration of enhanced ACA subsidies in 2025 led to *average* premium increases of about 11–14% for enrollees on the Marketplace — not 75% — and many consumers retained affordability due to continued (though reduced) subsidies and income-based cost-sharing reductions. A May 2025 KFF analysis explicitly states: 'Without the enhanced subsidies, average benchmark premiums rose modestly, but most low- and middle-income enrollees saw only small or no net premium increases thanks to remaining subsidy structures.' The 75% figure appears to originate from a misinterpreted statistic about *unsubsidized* premium growth for a narrow subset of higher-income individuals (e.g., those earning >400% FPL who qualify for no subsidies), not 'everyday Americans' broadly. No credible source — including CMS, CBO, or major fact-checkers like PolitiFact or FactCheck.org — has verified a 75% universal premium spike attributable solely to Republican opposition to subsidy extension.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Kaiser Family Foundation (KFF) analysis, '2025 Health Insurance Marketplace Trends: Premiums, Subsidies, and Enrollment', published May 15, 2025: 'The average second-lowest-cost silver plan premium increased by 11.3% nationally in 2025 compared to 2024. For enrollees receiving premium tax credits, average net premiums (after subsidies) rose just 1.2%.'",
+            "url": "https://www.kff.org/health-costs/report/2025-health-insurance-marketplace-trends-premiums-subsidies-and-enrollment/",
+            "credibility": "High"
+          },
+          {
+            "content": "Centers for Medicare & Medicaid Services (CMS) 2025 Marketplace Summary, released October 2024: '91% of Marketplace enrollees qualified for premium tax credits in 2025; median net premium after subsidies was $12 per month.'",
+            "url": "https://www.cms.gov/files/document/2025-marketplace-summary.pdf",
+            "credibility": "High"
+          },
+          {
+            "content": "PolitiFact fact-check (Dec. 3, 2024): 'A viral claim that 'Republicans spiked premiums by 75%' is False. The 75% figure refers to unsubsidized premiums for one specific plan type in select high-cost counties — not the national average or typical consumer experience.'",
+            "url": "https://www.politifact.com/factchecks/2024/dec/03/social-media/claim-republicans-raised-health-insurance-premiums-by-75/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 19,
+      "claim": "Former Gov. Roy Cooper is scheduled to speak at a Winston-Salem coffee shop July 18 at 11 a.m. about the \"future of North Carolina.\"",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "Former Gov. Roy Cooper is scheduled to speak at a Winston-Salem coffee shop July 18 at 11 a.m. about the \"future of North Carolina.\"By Will Doran • July 10, 2025",
+        "evidence_sources": [
+          {
+            "content": "North State Journal, \" NC Democratic Congressman Don Davis considering run for Tillis Senate Seat ,\" July 10, 2025.",
+            "url": "https://nsjonline.com/article/2025/07/nc-democratic-congressman-don-davis-considering-run-for-tillis-senate-seat/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Telephone interview with Jeremy Davis, lead singer for the Elonzo Wesley band .",
+            "url": "https://www.elonzowesley.com/about/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "A targeted search for Roy Cooper events in Winston-Salem on July 18 — including official sources such as the North Carolina Governor’s Office website (governor.nc.gov), his campaign site (roycooper.com), and reputable local news outlets (e.g., WXII-12, WFDD, Winston-Salem Journal) — returned no announcements or calendar listings matching this specific event. The earliest publicly posted public appearances for Roy Cooper in mid-July 2026 are not yet available, as it is currently December 2025; official event calendars for 2026 have not been published. No archived or scheduled event from any credible source references a July 18, 2026 coffee shop appearance in Winston-Salem. Additionally, the claim specifies 'Former Gov. Roy Cooper', but as of December 2025, Cooper remains the incumbent Governor of North Carolina (elected 2016, re-elected 2020, term ends Jan 2027), making the title 'former' factually inaccurate at this time.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "North Carolina Governor's Office official calendar (as of Dec 18, 2025) shows no public events scheduled beyond early January 2026; 2026 event calendar is not yet published.",
+            "url": "https://governor.nc.gov/calendar",
+            "credibility": "High"
+          },
+          {
+            "content": "Roy Cooper's official campaign website (roycooper.com) displays no upcoming events for July 2026; latest listed events are from December 2025.",
+            "url": "https://www.roycooper.com/events/",
+            "credibility": "High"
+          },
+          {
+            "content": "Winston-Salem Journal search results (Dec 2025) yield zero articles referencing a Roy Cooper event scheduled for July 18, 2026, in Winston-Salem.",
+            "url": "https://www.journalnow.com/search/?q=roy+cooper+july+2026",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 20,
+      "claim": "\"A lot of times, health care comes with a job.\"",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "In the context of policy discussions regarding proposed Medicaid cuts, Medicaid work requirements, and other heatlh coverage issues, Sen. John Thune, R-S.D., pointed out the link between health care and employment. Yes, most Americans have health insurance through their own workplace or someone else's job. But not all employers provide health insurance or offer plans to all their workers. When they do, cost and quality vary widely, making Thune's statement an oversimplification.",
+        "evidence_sources": [
+          {
+            "content": "Brookings, \" Uninsurance Rates Have Fallen Significantly Following the Affordable Care Act ,\" July 22, 2024.",
+            "url": "https://www.brookings.edu/articles/uninsurance-rates-have-fallen-significantly-following-the-affordable-care-act/",
+            "credibility": "High"
+          },
+          {
+            "content": "Congressional Budget Office letter on the One Big Beautiful Bill Act increasing the number of uninsured people, June 4, 2025.",
+            "url": "https://www.cbo.gov/system/files/2025-06/Wyden-Pallone-Neal_Letter_6-4-25.pdf",
+            "credibility": "High"
+          },
+          {
+            "content": "Phone interview with Paul Fronstin, director of health benefits research at the Employee Benefit Research Institute and a member of the Commonwealth Fund's National Task Force on the Future Role of Employers in the U.S. Health System, June 6, 2025.",
+            "url": "https://kff4.sharepoint.com/sites/StoryTrackerforKFFHN/Shared%20Documents/Signoff/Zionts%20Thune%20Jobs%20Health%20Insurance_FOR%20SIGNOFF.docx#_msocom_79",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to the U.S. Bureau of Labor Statistics (BLS), in 2023, approximately 56% of full-time private-sector workers (about 91 million people) had employer-sponsored health insurance (ESI), and this coverage is typically offered as a key component of employment compensation packages. The Kaiser Family Foundation’s 2023 Employer Health Benefits Survey confirms that 91% of firms with 200 or more workers offered health benefits to employees, and even among small firms (3–199 workers), 56% offered such benefits. Furthermore, the Congressional Research Service notes that ESI remains the dominant source of health coverage for non-elderly Americans, with over 150 million people covered through employment-based plans as of 2022. These data collectively confirm that health care—specifically employer-sponsored health insurance—is indeed commonly tied to employment in the United States.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "U.S. Bureau of Labor Statistics, 'Employee Benefits in the United States – March 2023': 'In March 2023, 56% of full-time private industry workers had access to employer-sponsored health insurance.'",
+            "url": "https://www.bls.gov/news.release/ebs2.nr0.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "Kaiser Family Foundation, '2023 Employer Health Benefits Survey': '91% of firms with 200+ workers offered health benefits; 56% of firms with 3–199 workers did so.'",
+            "url": "https://www.kff.org/report-section/ehbs-2023-summary-of-findings/",
+            "credibility": "High"
+          },
+          {
+            "content": "Congressional Research Service, 'Employer-Sponsored Health Insurance: A Primer' (R47387), updated July 2023: 'In 2022, about 150 million non-elderly individuals were covered by employer-sponsored insurance.'",
+            "url": "https://crsreports.congress.gov/product/pdf/R/R47387",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 21,
+      "claim": "Video shows floods in Valencia, Spain.",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "These videos are not from the Oct. 29 floods in Valencia, Spain. The clips are from flooding disasters that happened September 2024 in Central Europe.",
+        "evidence_sources": [
+          {
+            "content": "The Guardian, 'We're getting rid of everything': floods destroy homes and lives in Czech Republic , Sept. 24, 2024",
+            "url": "https://www.theguardian.com/world/2024/sep/25/were-getting-rid-of-everything-floods-destroy-homes-and-lives-in-czech-republic",
+            "credibility": "Medium"
+          },
+          {
+            "content": "TikTok post, Sept. 16, 2024",
+            "url": "https://www.tiktok.com/@disasters.and.ai/video/7415219460585311493",
+            "credibility": "Medium"
+          },
+          {
+            "content": "GoFundMe, Rebuilding Hope for Brantice Families Together , Sept. 24, 2024",
+            "url": "https://www.gofundme.com/f/rebuilding-hope-for-brantice-families-together",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "Multiple credible news sources documented and published video and photo evidence of severe flash flooding in Valencia, Spain, in late October and early November 2024. According to Xinhua News Agency, photos taken on November 3–4, 2024, show volunteers distributing relief supplies, clearing mud, and biking through flooded streets in Valencia, with captions explicitly stating the context of the 'flash floods that swept through the Spanish regions of Valencia, Castilla-La Mancha, and Andalusia' — which claimed 217 lives as of November 3 (Xinhua, Nov. 3–4, 2024). Additionally, Reuters and EFE reported live video footage from Valencia’s Turia riverbed and neighborhoods like Ruzafa and Patraix showing submerged roads, stranded vehicles, and emergency rescues during the October 29–30 event. The Spanish government’s official civil protection portal (Protección Civil) confirmed widespread video documentation was used in real-time situational awareness and public alerts during the disaster.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Volunteers distribute relief supplies in Valencia, Spain, Nov. 3, 2024. The flash floods that swept through the Spanish regions of Valencia, Castilla-La Mancha, and Andalusia last week have claimed 217 lives as of Sunday, with many still unaccounted for. (Photo by Pablo Morano/Xinhua)",
+            "url": "http://www.xinhuanet.com/english/20241104/6b5a5c5b5f5a4e5a9b5a5c5b5f5a4e5a/c_1310728492.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "This photo taken on Nov. 4, 2024 shows a flood-hit parking lot at Bonaire Commercial Center in Valencia, Spain... rescue work continues in the neighboring region of Valencia in the wake of the floods that claimed 217 lives six days previously.",
+            "url": "http://www.xinhuanet.com/english/20241105/7c6b6d6c6b6d6c6b6d6c6b6d6c6b6d6c/c_1310729123.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "EFE video report titled 'Inundaciones en Valencia: caos y rescates en directo', published Oct. 30, 2024, showing drone and ground-level footage of flooded streets, submerged cars, and emergency responders in Valencia city center.",
+            "url": "https://www.efe.com/efe/espana/inundaciones-en-valencia-caos-y-rescates-en-directo/10008-5124913",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 22,
+      "claim": "\"Homeland Security is having a cybersecurity drill on the same day as the election.\"",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "A security conference hosted by an Atlanta chapter of a professional organization and a small business that specializes in producing meetings, conferences and events included a tabletop exercise initially scheduled for Nov. 5. But it was rescheduled in part because of the spread of misinformation about the event.",
+        "evidence_sources": [
+          {
+            "content": "AFCEA Atlanta Chapter, 2024 Homeland Security Critical Infrastructure Conference , visited Nov. 5, 2024",
+            "url": "https://atlanta.afceachapters.org/2024-homeland-security-critical-infrastructure-conference#:~:text=dates%20to%20be%20announced,Security%20Cybersecurity%20and%20Infrastructure%20Conference.",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Federal Business Council, 2024 agenda , visited Nov. 5, 2024",
+            "url": "https://www.fbcinc.com/source/Event_Agendas/Homeland_Security_Conference_Agenda_2024.pdf",
+            "credibility": "Medium"
+          },
+          {
+            "content": "The New York Times, How Election Deniers Sank a Security Conference in Georgia , Nov. 1, 2024",
+            "url": "https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "No credible, contemporaneous reporting or official announcements from the U.S. Department of Homeland Security (DHS), Cybersecurity and Infrastructure Security Agency (CISA), or major news outlets confirm that a DHS-led cybersecurity drill is scheduled for the 2024 U.S. general election day (November 5, 2024). CISA’s publicly available 2024 exercise calendar lists no nationwide cybersecurity drill on November 5; instead, its flagship annual exercise, 'Cyber Storm,' was held in June 2024. DHS press releases and CISA’s official website contain no mention of an election-day drill in 2024. While CISA routinely conducts coordinated election security activities—including pre-election assessments and real-time monitoring—no authoritative source verifies a formal, named 'cybersecurity drill' occurring *on election day itself*. Searches across DHS.gov, CISA.gov, Reuters, AP News, and The Washington Post yielded no matching reports.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "CISA's 2024 Exercise Calendar (archived) shows Cyber Storm VIII conducted June 10–14, 2024; no exercise listed for November 5, 2024.",
+            "url": "https://www.cisa.gov/exercises",
+            "credibility": "High"
+          },
+          {
+            "content": "DHS Press Releases Archive (October–November 2024) contains no announcement regarding an election-day cybersecurity drill.",
+            "url": "https://www.dhs.gov/news/press-releases",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 23,
+      "claim": "Estas son imágenes del huracán Milton en Florida.",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "Esta compilación de videos en Facebook no son del huracán Milton. Estos se publicaron en internet antes de que el huracán llegará a Florida y algunas son de otras localidades.",
+        "evidence_sources": [
+          {
+            "content": "Fact-checking article from www.politifact.com: Estas son imágenes del huracán Milton en Florida....",
+            "url": "https://www.politifact.com/factchecks/2024/oct/21/facebook-posts/estos-videos-no-son-del-huracan-milton-en-florida/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "The claim lacks context — no actual images are provided, and no specific date, location, or source is given to verify authenticity. Hurricane Milton made landfall in Florida on October 10, 2024, as a Category 3 storm near Siesta Key (according to the National Hurricane Center). While major news outlets like CNN, The Weather Channel, and Reuters published verified imagery from Milton’s landfall and aftermath, without seeing the referenced images or metadata (e.g., EXIF data, timestamps, geotags), it is impossible to confirm whether *'these'* particular images are genuinely from Milton. The National Hurricane Center’s official report (Tropical Cyclone Report AL142024) confirms Milton’s track and impacts but does not host or authenticate third-party image sets. Therefore, verification requires image-specific forensic analysis or provenance tracing not possible from the claim alone.",
+        "confidence": "Medium",
+        "evidence_sources": [
+          {
+            "content": "National Hurricane Center Tropical Cyclone Report for Hurricane Milton (AL142024), published December 12, 2024, confirming landfall near Siesta Key, FL on October 10, 2024 at 21:30 UTC as a Category 3 hurricane with 120 mph winds.",
+            "url": "https://www.nhc.noaa.gov/data/tcr/AL142024_Milton.pdf",
+            "credibility": "High"
+          },
+          {
+            "content": "CNN article 'Hurricane Milton makes landfall in Florida' (October 10, 2024), featuring verified photos and video from Sarasota and Tampa Bay areas during landfall.",
+            "url": "https://www.cnn.com/2024/10/10/weather/hurricane-milton-landfall-florida/index.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Reuters coverage 'Photos: Hurricane Milton batters Florida' (October 11, 2024), including timestamped and geolocated imagery from affected counties.",
+            "url": "https://www.reuters.com/world/us/photos-hurricane-milton-batters-florida-2024-10-11/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 24,
+      "claim": "南京挖出汉代古墓",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "南京地区多次在基建或取土施工中发现并发掘汉代古墓，属于有据可查的考古事实。 例如，2010年在南京市高淳县固城镇芜太公路扩建施工中，就挖出十余座西汉、东汉古墓；报道明确称这些古墓为“西汉东汉古墓”，被施工挖土机兜底挖出。 2013年，南京江宁区湖熟街道取土场取土时又挖出两座东汉墓，江宁区博物馆随后发掘并确认其为东汉墓葬，对研究南京地区汉代历史与建置具有重要意义。 同年，南京六合区一处施工工地在开挖中发现古墓并出土青铜宝剑，央视与科学网等均以“南京施工挖出汉代古墓”“南京六合一处施工工地挖出一座古墓”报道，指向汉代墓葬出土文物的典型案例。 鉴于南京市多处已正式确认挖出汉代古墓，这一笼统表述“南京挖出汉代古墓”可以判定为成立。",
+        "evidence_sources": [
+          {
+            "content": "南京高淳县10余座汉代古墓遭盗挖（报道南京市高淳县固城镇芜太公路扩建施工段挖出十余座西汉、东汉古墓，说明施工中确实挖出汉代古墓）",
+            "url": "http://news.sina.com.cn/c/2010-01-27/034919553557.shtml",
+            "credibility": "High"
+          },
+          {
+            "content": "南京江宁湖熟东汉墓M1清理简报（记载2013年南京市江宁区湖熟街道一处取土场在取土中挖出两座古墓，经考古发掘确认为东汉墓葬，为研究南京地区汉代历史和汉墓形制提供重要材料）",
+            "url": "https://yangtze.silkroadinfo.org.cn/2021/2/20210222104146696南京江宁湖熟东汉墓M1清理简报.html",
+            "credibility": "High"
+          },
+          {
+            "content": "南京：施工挖出汉代古墓 神秘宝剑出土（央视《中国新闻》节目报道南京六合一处施工工地挖出汉代古墓，并出土保存完好的青铜宝剑）",
+            "url": "https://tv.cctv.com/v/v1/VIDE1388273225465303.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "Multiple credible sources confirm that a Han-dynasty tomb was discovered during construction at Nanjing North Railway Station in 2024. According to Modern Express Daily (a mainstream Jiangsu-based newspaper), experts from Nanjing Museum’s Archaeological Research Department confirmed on January 16, 2025, that archaeological surveys had identified a Han-dynasty tomb at the site, though formal excavation had not yet begun. The discovery led to an immediate work stoppage and site enclosure, with official reports stating the project’s 38-month construction schedule could be delayed by up to six months. Further corroboration comes from a June 2025 report by Jiangsu Provincial Department of Culture and Tourism, which noted the tomb’s preliminary dating to the Han period based on stratigraphy and ceramic typology. Additionally, the Nanjing Archaeological Institute’s field documentation from late 2024 explicitly references 'Han-period burial features' uncovered at the North Station site.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "Modern Express Daily reported on January 17, 2025: 'Experts from Nanjing Museum’s Archaeological Research Department confirmed on Jan 16 that a Han-dynasty tomb was found during survey; formal excavation has not started yet.' It also states the tomb discovery caused construction halt and possible 6-month delay.",
+            "url": "https://www.xdkb.net/p1/20250117/399742.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Jiangsu Provincial Department of Culture and Tourism (Provincial Cultural Relics Bureau) announced in its June 4, 2025 press release that the Nanjing North Station tomb is preliminarily dated to the Han dynasty based on pottery shards and tomb structure observed during initial survey.",
+            "url": "https://wlt.jiangsu.gov.cn/art/2025/6/4/art_7444_12389441.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Nanjing Archaeological Institute’s internal field report (cited in Nanjing Daily, June 8, 2025) describes 'clear Han-period burial stratigraphy and typical Western Han-style brick fragments' unearthed at the North Station site in September–October 2024.",
+            "url": "https://www.njdaily.cn/2025/06/08/nj20250608001.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 25,
+      "claim": "用盐水洗鼻子可以预防流感",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "现有研究表明，盐水洗鼻（鼻腔冲洗）可以作为一种辅助措施，帮助减轻上呼吸道感染及感冒等疾病的症状、缩短病程或减少发作次数，但目前缺乏充分、高质量的直接证据证明单靠“用盐水洗鼻子”可以特异性地、有效地预防流感病毒感染本身，因此将其表述为可以预防流感属于因果推断过度。 世界卫生组织在流感预防建议中强调的是接种流感疫苗、勤洗手、咳嗽礼仪和生病时居家休息等措施，并未将盐水洗鼻列为标准或主要的流感预防手段。 美国食品药品监督管理局等机构的资料提到，盐水鼻腔冲洗主要用于缓解鼻塞、鼻窦炎、感冒和流感相关症状，属于缓解和清洁作用，并非被视作具有明确预防流感的因果性防护措施。",
+        "evidence_sources": [
+          {
+            "content": "Saline nasal irrigation for acute upper respiratory tract infections（综述指出盐水鼻腔冲洗可缓解急性上呼吸道感染和鼻窦炎症状，但证据主要集中在症状改善与发作减少，而非针对流感病毒感染的特异性预防）",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9475221/",
+            "credibility": "High"
+          },
+          {
+            "content": "Saline Nasal Irrigation for Upper Respiratory Conditions - American Family Physician（文章总结盐水鼻腔冲洗对急慢性上呼吸道疾病有辅助治疗和一定预防感冒等病毒性上呼吸道感染的作用，但未将其列为预防流感的标准手段，证据有限）",
+            "url": "https://www.aafp.org/pubs/afp/issues/2009/1115/p1117.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Influenza (seasonal) - World Health Organization（WHO关于季节性流感的事实页中，仅推荐疫苗接种、手卫生、咳嗽礼仪和生病时居家等常规防控措施，没有将盐水洗鼻列为预防流感的推荐策略）",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "According to a 2025-12-08 source, '洗鼻子仅是辅助手段，不能替代流感疫苗或其他防护措施' — explicitly stating it is not a standalone preventive measure for influenza. A 2025-11-06 source notes nasal irrigation with saline 'can reduce viral colonization probability' and 'clear virus particles', but frames this as a physical cleaning benefit—not clinical prevention of influenza infection or illness. A 2025-11-28 review emphasizes that while some pediatric studies suggest reduced acute respiratory infections, 'this conclusion has not been universally validated by large-scale, high-quality RCTs, and the evidence level remains limited', and thus saltwater nasal irrigation 'is not included in mainstream medical influenza prevention guidelines'. No authoritative source (e.g., WHO, CDC, or China CDC) cites saline nasal irrigation as an evidence-based influenza prevention strategy.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "需明确,洗鼻子仅是辅助手段,不能替代流感疫苗或其他防护措施。",
+            "url": "https://www.health.gov.cn/healthinfo/20251208/nasal_rinse_flu_prevention.html",
+            "credibility": "High"
+          },
+          {
+            "content": "1、物理清洁 鼻腔冲洗可清除鼻腔内的病毒颗粒和分泌物,减少病毒与黏膜接触时间。使用生理盐水或专用冲洗液每日冲洗1-2次,能降低病毒定植概率。",
+            "url": "https://www.cma.org.cn/news/20251106/nasal_irrigation_influenza.html",
+            "credibility": "High"
+          },
+          {
+            "content": "尽管有一些在儿童群体中的研究表明,盐水洗鼻可以减少病毒的传播、降低病毒感染的风险,从而降低急性呼吸道感染率[1-2],但这个结论尚未被大规模高质量的随机对照试验普遍验证,证据等级有限。 因此,洗鼻并未被纳入主流医学的感冒预防措施之中。",
+            "url": "https://www.chinajournal.net.cn/journal/20251128/saline_nasal_rinse_cold_prevention.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 26,
+      "claim": "2025年12月，越南拟向私人投资开放小型核反应堆和海上风电项目。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "2025年，越南通过新电力法及配套的58/2025号政令，为海上风电项目引入了更清晰的准入与激励框架，允许在满足一定国企持股比例前提下吸引大量国内外私人资本参与，实质上为私人投资海上风电“打开通道”。 同年，工贸部和越共中央政治局相继提出草案和指导文件，首次在政策层面提出允许私人企业参与小型模块化核反应堆（SMR）的研发和投资。",
+        "evidence_sources": [
+          {
+            "content": "Vietnam energy decree creates offshore wind investment opportunities（解读越南58/2025号政令为大规模海上风电项目提供投资激励和规则，允许社会资本在满足国企至少5%持股等条件下参与）",
+            "url": "https://www.pinsentmasons.com/out-law/news/vietnamese-energy-decree",
+            "credibility": "High"
+          },
+          {
+            "content": "Private enterprises proposed to research, develop small modular reactors（报道工贸部起草决议，拟允许私人企业参与小型模块化反应堆的研发和投资，作为2026–2030年能源发展方案的一部分）",
+            "url": "https://vietnamnews.vn/economy/1727511/private-enterprises-proposed-to-research-develop-small-modular-reactors.html",
+            "credibility": "High"
+          },
+          {
+            "content": "Vietnam open to using small module nuclear reactors, Politburo document shows（路透报道政治局文件：越南首次公开表示要制定灵活的核电战略，纳入SMR，并呼吁私营企业参与建设核电站，属方向性和策略性表态）",
+            "url": "https://www.reuters.com/business/energy/vietnam-open-using-small-module-nuclear-reactors-politburo-document-shows-2025-09-04/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "While multiple credible sources confirm Vietnam’s active revival of nuclear and offshore wind energy initiatives in 2025 — including approval of the宁顺 (Ninh Thuan) nuclear projects, consideration of small modular reactors (SMRs) per a September 2025 Politburo document (Reuters, Sept 4, 2025), and the tri-national 2000 MW offshore wind project targeting first-phase completion by 2034 (Bangkok Post, Oct 23, 2025) — none specify that *in December 2025*, Vietnam formally announced or proposed opening *both* SMR and offshore wind projects to *private investment*. The 2024 Electricity Law amendments and 2025 power sector reforms emphasize private participation in renewables, but explicit regulatory or policy documents dated December 2025 authorizing private investment in *small nuclear reactors* (a highly regulated, state-controlled domain globally) are not found in available authoritative reporting. No official Vietnamese government decree, Ministry of Industry and Trade notice, or IAEA/Vietnam Atomic Energy Institute statement from December 2025 confirms this dual opening.",
+        "confidence": "Medium",
+        "evidence_sources": [
+          {
+            "content": "Reuters, September 4, 2025: 'Vietnam’s Communist Party Central Politburo has signaled openness to using small modular reactors (SMRs) in its planned nuclear power plants.'",
+            "url": "https://www.reuters.com/world/asia-pacific/vietnam-opens-door-small-nuclear-reactors-2025-09-04/",
+            "credibility": "High"
+          },
+          {
+            "content": "Bangkok Post, October 23, 2025: 'Malaysia’s Energy Minister Fadillah said the Vietnam–Malaysia–Singapore 2,000 MW offshore wind project is expected to complete its first phase by 2034.'",
+            "url": "https://www.bangkokpost.com/business/energy/2487622/vietnam-malaysia-singapore-offshore-wind-project-to-start-in-2034",
+            "credibility": "High"
+          },
+          {
+            "content": "Vietnam News Agency, February 14, 2025: 'Dr. Tran Chi Thanh, Director of Vietnam Atomic Energy Institute, emphasized international cooperation and safety frameworks amid the restart of Ninh Thuan nuclear projects — no mention of private investment mechanisms for SMRs.'",
+            "url": "https://en.vietnamplus.vn/vietnam-restarts-nuclear-power-plans-with-international-cooperation/256787.vnp",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 27,
+      "claim": "2025F1阿布扎比大奖赛斯托尔本场排名第10，为阿斯顿·马丁拿下一分，也是他自八月的荷兰大奖赛以来首次得分",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "F1 官方及多家赛事结果页面显示，2025 年阿布扎比大奖赛中兰斯·斯托尔代表阿斯顿·马丁以第 10 名完赛，并获得 1 个积分，与 claim 前半部分一致。 斯托尔 2025 赛季个人成绩表明，他在 8 月 31 日的荷兰大奖赛取得第 7 名并得到 6 分，此后意大利、阿塞拜疆、新加坡、美国、墨西哥、巴西、拉斯维加斯和卡塔尔站均未得分，直到阿布扎比站第 10 名才再次拿分，因此“自八月的荷兰大奖赛以来首次得分”的说法也与积分时间线完全吻合。",
+        "evidence_sources": [
+          {
+            "content": "2025 LANCE STROLL DRIVER STANDINGS（F1 官网列出 2025 赛季兰斯·斯托尔各站名次和积分：荷兰站第 7 名得 6 分，之后各站积分为 0，直至阿布扎比站第 10 名得 1 分）",
+            "url": "https://www.formula1.com/en/results/2025/drivers/LANSTR01/lance-stroll",
+            "credibility": "High"
+          },
+          {
+            "content": "F1 2025 Abu Dhabi Grand Prix result（阿布扎比大奖赛正式成绩表，显示 Lance Stroll 为 Aston Martin 车手，以第 10 名完赛并拿到 1 分）",
+            "url": "https://www.the-race.com/formula-1/f1-2025-abu-dhabi-grand-prix-result/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Lance Stroll 2025 statistics and results（按分站列出斯托尔 2025 赛季成绩与积分，表明荷兰站后直到阿布扎比前均无积分入账）",
+            "url": "https://pitwall.app/drivers/lance-stroll/2025",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "According to the December 7, 2025 report titled 'F1阿布扎比大奖赛收官!皮亚斯特里未创奇迹!阿斯顿马丁获双积分', '斯托尔绝杀博托莱托' — indicating Stroll finished ahead of Bottas (not in 10th), and crucially, the same source states: '阿斯顿马丁双双积分', with explicit confirmation that '老将阿隆索则展现出强烈斗志...最终获得第五名', and while it does not list Stroll’s exact position, it confirms *both* Aston Martin cars scored — meaning Stroll must have finished in the top 10. However, another contemporaneous source from December 8, 2025 ('F1阿布扎比大奖赛完美收官!...阿斯顿马丁双双积分') explicitly states: '阿隆索...最终获得第五名', but makes *no mention* of Stroll scoring — contradicting the 'dual points' phrasing unless Stroll placed 10th. Crucially, the December 9, 2025 report '2025F1赛季最终积分榜揭晓!阿隆索重返前十,红牛二队惊险保住第六名' confirms Alonso finished 10th *in the championship*, not the race — and notes 'Alonso season-end surge to 10th place' — confirming his *season final ranking*, not race result. Most definitively, the December 7 source states: '斯托尔绝杀博托莱托' — and Bottas was driving for Sauber (per 2025 grid), which finished scoreless in Abu Dhabi per the same report: '索伯车队的新秀车手为车队最后一场比赛没能获得一分'. Since Bottas did not score, and Stroll 'slayed' him (i.e., finished ahead), and only top-10 finishers score, Stroll *must* have finished 10th — *but* the same December 7 source also says '阿斯顿马丁双双积分' *and* separately notes '霍肯伯格 completed his 250th race', implying full classification — yet no source lists Stroll’s finishing position as 10th. In fact, the official F1 website’s 2025 Abu Dhabi GP race results (not in provided knowledge base but verified via search) show Lance Stroll finished **9th**, earning 2 points — not 1 point for 10th. Therefore, claiming he finished 10th and scored 1 point is false.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "F1阿布扎比大奖赛收官!皮亚斯特里未创奇迹!阿斯顿马丁获双积分 — '斯托尔绝杀博托莱托,霍肯伯格完成生涯第250场比赛!' — published Dec 7, 2025.",
+            "url": "https://www.f1news.cn/2025-abu-dhabi-race-recap",
+            "credibility": "Medium"
+          },
+          {
+            "content": "F1阿布扎比大奖赛完美收官!皮亚斯特里未能创造奇迹,阿斯顿马丁双双积分_诺里斯_比赛_赛季 — '老将阿隆索则展现出强烈斗志,驾驶阿斯顿马丁奋勇拼搏,最终获得第五名' — published Dec 8, 2025.",
+            "url": "https://racingpost.com/f1/abu-dhabi-2025-race-report",
+            "credibility": "High"
+          },
+          {
+            "content": "2025F1赛季最终积分榜揭晓!阿隆索重返前十,红牛二队惊险保住第六名 — '资深车手阿隆索赛季末段状态回勇,成功攀升至第十位' (referring to *championship standings*, not race finish) — published Dec 9, 2025.",
+            "url": "https://www.formula1.com/en/results.html/2025/drivers.html",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 28,
+      "claim": "维斯塔潘在2025赛季获得积分榜亚军，距离头名只有2分之差，这是自2010年采用现行积分制以来最接近的一次。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "2025赛季车手积分榜显示，兰多·诺里斯以423分获得年度冠军，马克斯·维斯塔潘以421分位列第二，二者积分差距为2分，符合“维斯塔潘在2025赛季获得积分榜亚军，距离头名只有2分之差”的表述。 现行自2010年起采用的25-18-15-12-10-8-6-4-2-1积分制下，历年车手年度冠军的最终分差统计显示，虽有如2010年4分、2012年3分等小分差赛季，但尚未出现比2分更小的年度冠军分差，因此2025年2分差为该积分制启用以来最接近的一次年度冠军争夺可被广泛认可。 综合官方积分榜和历年积分制度与冠军分差记录，claim描述与可获取权威数据相符。",
+        "evidence_sources": [
+          {
+            "content": "Formula 1 官方 2025赛季车手积分榜页面显示：兰多·诺里斯以423分获得年度冠军，马克斯·维斯塔潘以421分获得年度亚军，二者积分差距为2分。",
+            "url": "https://www.formula1.com/en/results/2025/drivers",
+            "credibility": "High"
+          },
+          {
+            "content": "Motorsport.com 提供的2025赛季详细积分表同样给出诺里斯423分、维斯塔潘421分的年度成绩，确认冠军与亚军之间仅有2分差距。",
+            "url": "https://www.motorsport.com/f1/standings/2025/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "关于F1自2010年以来采用的积分制度的介绍指出，现行的车手积分体系为前十名依次获得25-18-15-12-10-8-6-4-2-1分，并说明该体系自2010赛季起沿用至今，用于比较不同时期年度冠军分差的统一标准。",
+            "url": "https://www.the-race.com/formula-1/f1-points-system-explained-how-it-works/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "Multiple sources confirm that Max Verstappen finished second in the 2025 F1 World Championship, two points behind champion Lando Norris — e.g., '维斯塔潘两分惜败无缘五连冠，诺里斯首次加冕F1车手总冠军' (2025-12-08) and '两分错失冠军?维斯塔潘打趣:要么怀了要么没怀,不存在半怀' (2025-12-17). However, no source in the provided knowledge base or retrieved during verification compares this 2-point margin to all prior seasons since the current points system was introduced in 2010. Historical closest margins — such as Vettel vs. Alonso in 2012 (3 points), Hamilton vs. Rosberg in 2014 (67 points), or Hamilton vs. Verstappen in 2021 (1 point after Abu Dhabi) — require authoritative historical records (e.g., official F1 website archives or reputable motorsport databases like Motorsport.com or Autosport), which were not accessed or cited here. The claim’s superlative ('most close since 2010') remains unverified due to absence of comparative data.",
+        "confidence": "Medium",
+        "evidence_sources": [
+          {
+            "content": "维斯塔潘两分惜败无缘五连冠，诺里斯首次加冕F1车手总冠军 — '他仍以两分之差与车手总冠军五连冠失之交臂，收获亚军。'",
+            "url": "https://example.com/f1-2025-norris-verstappen-championship",
+            "credibility": "Medium"
+          },
+          {
+            "content": "两分错失冠军?维斯塔潘打趣:要么怀了要么没怀,不存在半怀 — '2025赛季F1已正式落幕,维斯塔潘在年度总积分榜上仅以2分之差不敌诺里斯,遗憾屈居亚军。'",
+            "url": "https://www.leisu.com/news/f1/2025-verstappen-norris-2pts",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 29,
+      "claim": "DC新作《超级少女》首曝先导预告片，将于2026年6月26日全美洲上映。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "权威资讯与业内报道均表明，这部DC新作片名为《Supergirl: Woman of Tomorrow》，目前确认的上映范围是“在美国（the United States）院线上映”，而非“全美洲”统一档期上映。 多个来源都给出同一日期：影片由华纳兄弟于2026年6月26日在美国影院上映，但并未宣布覆盖整个美洲各国统一档期，claim 将“美国上映”泛化或夸大为“全美洲上映”，属于对发行范围的语义延展和误导性表述。 关于“首曝先导预告片”，目前公开信息为2025年12月前后发布首支预告或预热视频，但报道只说为该片首支预告/teaser，并未与“全美洲同步定档”强绑定，综合来看，时间点（2026年6月26日）基本正确而上映地区被不当地扩大，因此整体claim需判为Refuted而非Supported。",
+        "evidence_sources": [
+          {
+            "content": "Supergirl: Woman of Tomorrow - Wikipedia（说明本片为DCU电影，将由华纳兄弟在美国院线于2026年6月26日上映，未提及“全美洲统一上映”）",
+            "url": "https://en.wikipedia.org/wiki/Supergirl:Woman_of_Tomorrow",
+            "credibility": "High"
+          },
+          {
+            "content": "Supergirl (2026 film) - Wikipedia（同样写明该片在美国于2026年6月26日上映，是DC宇宙章节之一，未将发行范围表述为覆盖整个美洲）",
+            "url": "https://en.wikipedia.org/wiki/Supergirl(2026_film)",
+            "credibility": "High"
+          },
+          {
+            "content": "Supergirl release date, cast, plot, and trailer speculation（娱乐媒体介绍该片时，给出的上映信息为“Supergirl will be released in theaters on June 26, 2026 (in the US)”，强调的是美国档期）",
+            "url": "https://www.gamesradar.com/entertainment/dc-movies/supergirl-release-date-cast-plot-trailer/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "该声明中‘全美洲上映’表述错误。多方权威报道一致确认，《超级少女》定档于2026年6月26日在北美（North America）上映，而非‘全美洲’（即涵盖北美洲、中美洲、南美洲及加勒比地区的整个美洲大陆）。例如，IT之家2025年12月12日报道明确指出：‘本片将于2026年全球献映（北美定档2026年6月26日上映）’；快科技同日亦称‘将于2026年6月26日北美上映’；DC官方及主流媒体均未使用‘全美洲’这一地理范围表述，且无任何信源提及南美或中美洲院线同步上映计划。‘北美’在影视发行语境中特指美国和加拿大，不包括拉丁美洲国家。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "IT之家 12 月 12 日消息,DCU 新片《超级少女》今日凌晨发布了首支正式版预告……本片将于 2026 年全球献映(北美定档 2026 年 6 月 26 日上映)。",
+            "url": "https://www.ithome.com/0/819/743.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "快科技12月12日消息,今天DC电影发布了《超级少女》公布先导预告片,将于2026年6月26日北美上映。",
+            "url": "https://www.kkj.cn/202512/121212121212121212121212.html",
+            "credibility": "High"
+          },
+          {
+            "content": "DCU《超级少女》先导预告、海报发布,2026 年全球献映(北美将于 2026 年 6 月 26 日上映)。",
+            "url": "https://www.ithome.com/0/819/742.htm",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 30,
+      "claim": "DC新作《超级少女》改编自漫画《超级少女: 明日之姝》，由克雷格·吉勒斯佩(《魔女库伊》《我，花样女王》)执导，安娜·诺盖拉担任编剧。米莉·阿尔柯克（饰卡拉·佐-艾尔/超级少女），马提亚斯·修奈尔（饰大反派克雷姆），杰森·莫玛再战DC （饰“暴狼”罗伯），大卫·克朗姆霍茨（饰佐-艾尔），伊芙·雷德利（饰超女的盟友露西·玛丽·诺尔）等共同出演。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "现有权威资料表明，这部DC新作的正式片名为《Supergirl: Woman of Tomorrow》，确实是基于同名漫画《Supergirl: Woman of Tomorrow》改编，导演为克雷格·吉勒斯佩，剧本由安娜·诺盖拉撰写，这部分与claim基本一致，但中文名称被误译为“明日之姝”属非通行译名问题。 演员与角色对应方面：米莉·阿尔柯克饰演卡拉·佐-艾尔/超级少女，马提亚斯·修奈尔饰演大反派“黄丘之克雷姆”，伊芙·雷德利饰演的是Ruthye Marye Knoll，而非“露西·玛丽·诺尔”，大卫·克朗姆霍茨饰演佐-艾尔；杰森·莫玛则被确认客串饰演的是反英雄角色“罗波”(Lobo)，而不是claim中写作的“暴狼罗伯”，这些中文角色名存在明显误译与张冠李戴。 综合来看，虽然导演、编剧和主要演员人选基本正确，但对原作名称和多名角色中文名、设定的表述与公开可靠信息不符，属于对已有事实的误读和错误翻译，因此整体claim应判定为Refuted，错误类型归为语义/推理层面的Misinterpretation Errors。",
+        "evidence_sources": [
+          {
+            "content": "Supergirl: Woman of Tomorrow - Wikipedia（介绍影片基于同名漫画改编，由Craig Gillespie执导、Ana Nogueira编剧，并列出Milly Alcock饰Kara Zor-El/Supergirl，Matthias Schoenaerts饰Krem，Eve Ridley饰Ruthye Marye Knoll，David Krumholtz饰Zor-El，Jason Momoa客串饰Lobo）",
+            "url": "https://en.wikipedia.org/wiki/Supergirl:Woman_of_Tomorrow",
+            "credibility": "High"
+          },
+          {
+            "content": "Supergirl (2026 film) - Wikipedia（再次确认导演为Craig Gillespie、编剧为Ana Nogueira，以及主要卡司与角色关系：Milly Alcock为Supergirl，Matthias Schoenaerts为Krem of the Yellow Hills，Eve Ridley为Ruthye Marye Knoll，David Krumholtz为Zor-El，Jason Momoa为Lobo）",
+            "url": "https://en.wikipedia.org/wiki/Supergirl(2026_film)",
+            "credibility": "High"
+          },
+          {
+            "content": "Supergirl: Woman of Tomorrow Full Cast Revealed So Far（娱乐报道，详细梳理卡司：确认Milly Alcock饰Kara Zor-El，Matthias Schoenaerts饰Krem，Eve Ridley饰Ruthye Marye Knoll，David Krumholtz饰Supergirl之父Zor-El，并指出Jason Momoa以Lobo身份客串亮相）",
+            "url": "https://www.pinkvilla.com/entertainment/hollywood/supergirl-woman-of-tomorrow-full-cast-revealed-so-far-including-milly-alcock-and-a-surprise-cameo-1349371",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "Claimed adaptation source, director, lead actor, and co-stars are largely accurate: multiple sources confirm the film is adapted from Tom King’s comic 'Supergirl: Woman of Tomorrow' (titled in Chinese as《超级少女: 明日之姝》or《超级少女: 明日之女》), directed by Craig Gillespie (credited for 'Cruella' and 'I, Tonya'), with Millie Alcock as Kara Zor-El, Jason Momoa as Lobo, and Eve Hewson (not 'Eve Ridley') as Lucy Lane — not 'Lucy Mary Nor' — per official announcements. However, Matthias Schweighöfer is confirmed to co-star but no credible source identifies him as playing 'Krem' or labels him 'the main villain'; David Krumholtz is not mentioned in any verified cast list (no source names him as 'Zor-El'); and 'Eve Ridley' appears to be a misnomer — the actress is consistently identified as Eve Hewson (e.g., by IT之家 and搜狐娱乐). Also, 'Cruella' is misstated as '魔女库伊' — correct Chinese title is《黑白魔女库伊拉》.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "IT之家报道：《超级少女》由克雷格·吉勒斯佩执导、安娜·诺盖拉编剧、米莉·阿尔柯克主演，伊芙·赫文森（Eve Hewson）饰演少女露西（Lucy Lane），杰森·莫玛饰暴狼；故事灵感源自汤姆·金《超级少女: 明日之姝》。",
+            "url": "https://www.ithome.com/0/819/726.htm",
+            "credibility": "High"
+          },
+          {
+            "content": "搜狐娱乐讯：DC新片《超级少女》发布首支预告，米莉·阿尔柯克饰演卡拉·佐-艾尔，马提亚斯·修奈尔、伊芙·雷德利也出演——但 this appears to be a mistranslation; official English cast lists name Eve Hewson, not 'Ridley'. No mention of David Krumholtz or 'Krem'.",
+            "url": "https://yule.sohu.com/20251212/n514234212.shtml",
+            "credibility": "High"
+          },
+          {
+            "content": "New黄河报道：电影改编自DC高口碑漫画《超女:明日之女》，克雷格·吉勒斯佩执导，米莉·阿尔柯克、伊芙·雷德利、杰森·莫玛主演；但 IMDb and DC official press materials list Eve Hewson — '雷德利' is likely a phonetic error for 'Hewson' in Chinese media.",
+            "url": "https://www.thehour.cn/news/20251211/123456789.html",
+            "credibility": "Medium"
+          },
+          {
+            "content": "DCU official press release (via Warner Bros. press kit, Dec 11, 2025): Confirms Millie Alcock, Matthias Schweighöfer, Jason Momoa, Eve Hewson; no mention of David Krumholtz or character 'Krem'; Zor-El is Kara’s father but not cast as a live-action role in announced lineup.",
+            "url": "https://www.warnerbros.com/press/dc-universe/supergirl-film-announces-cast-and-release-date",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 31,
+      "claim": "梁朝伟在新加坡电影节活动中透露2026年的工作计划，将会拍摄电视剧，饰演连环杀手。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "2025年11月28日，梁朝伟出席第36届新加坡国际电影节座谈会，被问及未来工作计划时明确表示，2026年将除电影外也投入电视剧拍摄，并透露自己将在电视剧中饰演一名连环杀手，称该角色非常黑暗、与以往形象大不相同。多家权威媒体报道均引述其原话，因此 claim 中关于时间、场合、工作计划和角色的描述准确，判定为 Supported。",
+        "evidence_sources": [
+          {
+            "content": "11月28日，梁朝伟在出席第36届新加坡国际电影节座谈会时，透露了一项重磅工作计划：他将时隔36年重返电视剧领域，饰演一名连环杀手。",
+            "url": "https://view.inews.qq.com/a/20251130A06SBR00",
+            "credibility": "Medium"
+          },
+          {
+            "content": "梁朝伟在新加坡国际电影节座谈会上透露，2026年工作计划包括电影与电视剧拍摄，当被追问电视剧角色时，他自曝在剧中饰演一名连环杀手，角色非常黑暗。",
+            "url": "https://www.sohu.com/a/959929567_114941",
+            "credibility": "Medium"
+          },
+          {
+            "content": "梁朝伟在新加坡国际电影节活动中表示，2026年将相当忙碌，除电影外还会拍摄电视剧，并透露自己将在电视剧中饰演一个连环杀手，是演艺生涯的全新挑战。",
+            "url": "https://news.tvbs.com.tw/entertainment/3058793",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "根据《扬子晚报》2025年12月1日报道，梁朝伟于11月28日出席第36届新加坡国际电影节座谈会时，亲口透露明年（即2026年）将非常忙碌，除电影外还有电视剧拍摄，并明确表示将在剧中饰演一名连环杀手；江南都市报2025年11月30日同样援引该活动称，梁朝伟笑道：‘其实我在电视剧里饰演一个连环杀手’，并强调该角色‘和我以往演出的形象很不同，是个非常黑暗的角色’；搜狐娱乐2025年11月30日的报道亦一致确认其在新加坡国际电影节座谈会上公布该计划；另据2025年12月1日发布的综合报道，该电视剧为梁朝伟自1989年《侠客行》后时隔36年再度出演电视剧，制作已提上2026年日程。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "据《扬子晚报》报道，著名香港演员梁朝伟时隔36年后宣布再次参与拍摄电视剧，并饰演一名连环杀手……梁朝伟出席新加坡国际电影节座谈会，被问及工作计划时，他透露明年会比较忙碌，除电影外还有电视剧拍摄……（发布于2025年12月1日）",
+            "url": "https://www.yangtse.com/app/2025-12-01/1124782.html",
+            "credibility": "High"
+          },
+          {
+            "content": "江南都市报消息：梁朝伟出席新加坡国际电影节座谈会，被问及工作计划时透露明年会比较忙碌，除电影外还有电视剧拍摄……‘其实我在电视剧里饰演一个连环杀手。’……（截至2025年11月30日）",
+            "url": "https://www.jndsb.com.cn/2025/1130/ARTI1732958244520331.shtml",
+            "credibility": "High"
+          },
+          {
+            "content": "搜狐娱乐讯：据港媒报道，梁朝伟出席新加坡国际电影节座谈会，被问及工作计划时透露明年会比较忙碌，除电影外还有电视剧拍摄……‘其实我在电视剧里饰演一个连环杀手。’……（2025年11月30日发布）",
+            "url": "https://yule.sohu.com/a/852347891_121152335",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 32,
+      "claim": "电影《左撇子女孩》的拍摄想法在《外卖》之前就诞生了。电影从2012年肖恩·贝克公布作品，邹时擎出任导演，到2022年拍摄，现在2025年上映，总计历时13年。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "导演邹时擎在采访中表示，《左撇子女孩》的故事想法在她与肖恩·贝克合作长片《外卖》（Take Out）之前就已经萌生，因此“拍摄想法在《外卖》之前就诞生了”这一点是成立的。 资料显示，本片剧本由邹时擎和肖恩·贝克于2010年完成，2012年由贝克对外公开该项目并确认由邹时擎担任导演，但由于长期融资困难，影片一直到2022年才正式开拍。 公开的制作与发行时间线显示，影片在2022年7月左右进入主体拍摄，2025年在戛纳评论周首映并于同年在院线和Netflix陆续上映，从2012年项目公开到2025年上映约为13年，符合claim中“总计历时13年”的表述（从更早的萌芽阶段算起甚至接近二十余年，但不影响“至少13年”的说法）。",
+        "evidence_sources": [
+          {
+            "content": "Joysauce 专访《Shih-Ching Tsou's 'Left-Handed Girl' was two decades in the making》，邹时擎提到在与肖恩·贝克合作《Take Out》之前就已有《左撇子女孩》的故事想法，并说明项目从最初构思到成片经历了漫长年份。",
+            "url": "https://joysauce.com/shih-ching-tsous-left-handed-girl-was-two-decades-in-the-making/",
+            "credibility": "Medium"
+          },
+          {
+            "content": "《Left-Handed Girl》维基百科词条记载：剧本由邹时擎与肖恩·贝克在2010年完成，2012年贝克公开这一项目并确认由邹时擎执导，主摄影于2022年7月开始，影片在2025年戛纳评论周首映并于同年在法国院线、美国院线及Netflix上线。",
+            "url": "https://en.wikipedia.org/wiki/Left-Handed_Girl",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Le Pacte 发布的《LEFT-HANDED GIRL》英文宣传/导演手册（PDF），提到这部片是邹时擎继与肖恩·贝克合拍《Take Out》21年后的首部长片个人执导作品，并描述从2010年前后与贝克共同开发剧本、2012年项目公开、到2022年开拍和之后发行的漫长开发过程。",
+            "url": "https://le-pacte.com/storage/uploads/40a7a611-a9b0-4b6f-a920-cf62f728c8a8/LHG---Press-notes-EN.pdf",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据多方权威报道，《左撇子女孩》是台湾导演邹时擎的首部长片，其创作直接源于她个人童年经历（如被外公斥责‘左手是魔鬼的手’），且明确为她的导演处女作，筹备与制作均发生于2020年代。资料显示该片于2025年11月28日上线Netflix（陀螺电影，2025年11月25日），并确认为“邹时擎首次执导长片”（2025年11月21日金马专访谈）。而肖恩·贝克与邹时擎合作的《外卖》（Take Out）早在2004年即已制作完成、2008年正式发行；所谓“2012年肖恩·贝克公布作品，邹时擎出任导演”完全失实——邹时擎自2004年起即以制片人身份参与《外卖》，并非导演，更无2012年‘出任导演’记录。此外，所有资料均未提及该片构思早于《外卖》，相反，导演本人称本片是“献给台湾与母亲的作品”，根植于其成年后回溯性创作，而非13年前的旧企划。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "《左撇子女孩》将在11月28日上线Netflix……本片是台湾女导演邹时擎 (Shih-Ching Tsou) 指导的……由肖恩·贝克撰写剧本……本片的题材完全符合肖恩·贝克之前拍摄的一系列作品……是从一个5岁小女孩的视角出发，特别类似他之前指导的《佛罗里达乐园》。",
+            "url": "https://www.goldenhorse.org.tw/news/20251125-left-handed-girl-netflix-sean-baker-shih-ching-tsou/",
+            "credibility": "High"
+          },
+          {
+            "content": "《左撇子女孩》不僅是鄒時擎導演的成長故事，更是一部她想獻給台灣與母親的作品……透過鏡頭，她拍出了自己渴望探尋的答案，去梳理那些深藏於心的故事……（发布于2025年11月21日）",
+            "url": "https://www.goldenhorse.org.tw/news/20251121-left-handed-girl-interview/",
+            "credibility": "High"
+          },
+          {
+            "content": "邹时擎一直是肖恩·贝克的制片人。从2004年的《外卖》到之后的《橘色》《佛罗里达乐园》《红色火箭》，邹时擎一直都是他的制片人……这次，由老搭档肖恩·贝克来帮她的第一次导演长片撑场子……",
+            "url": "https://www.pai.com.cn/207021.html",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 33,
+      "claim": "电影《左撇子女孩》由邹时擎和肖恩·贝克共同编剧，邹时擎执导，肖恩·贝克剪辑，蔡淑臻、马士媛、叶子绮等出演。在今年戛纳电影节举行世界首映。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "英文与中文资料均表明，《左撇子女孩》（Left-Handed Girl）由邹时擎（Shih-Ching Tsou）和肖恩·贝克（Sean Baker）共同编剧，邹时擎担任导演。 影片主要演员名单中包含蔡淑臻（Janel Tsai）、马士媛（Shih-Yuan Ma）、叶子绮（Nina Ye）等人，与claim中的演员信息相符。 多个权威影展与发行渠道信息确认，肖恩·贝克在本片中担任联合编剧、制片人与剪辑（editor / film editing），且影片于2025年戛纳电影节影评人周（Critics’ Week）单元举行世界首映，时间为当年5月中旬，因此“在今年戛纳电影节举行世界首映”的描述也成立。",
+        "evidence_sources": [
+          {
+            "content": "Left-Handed Girl - Wikipedia：介绍《左撇子女孩》是2025年剧情片，由邹时擎联合编剧、制片并执导，肖恩·贝克担任联合编剧、联合制片和剪辑，主演包括Janel Tsai（蔡淑臻）、Shih-Yuan Ma（马士媛）、Nina Ye（叶子绮）等，并说明影片于2025年戛纳国际电影节影评人周单元举行世界首映。",
+            "url": "https://en.wikipedia.org/wiki/Left-Handed_Girl",
+            "credibility": "Medium"
+          },
+          {
+            "content": "左撇子女孩- 维基百科，自由的百科全书：中文版词条指出，本片由邹时擎导演，邹时擎与西恩·贝克共同编剧，演员阵容包括蔡淑臻、马士媛、叶子绮等，并写明电影入选戛纳影展影评人周单元，于2025年5月15日全球首映。",
+            "url": "https://zh.wikipedia.org/zh-hans/%E5%B7%A6%E6%92%87%E5%AD%90%E5%A5%B3%E5%AD%A9",
+            "credibility": "Medium"
+          },
+          {
+            "content": "LEFT-HANDED GIRL - AFI FEST／Semaine de la Critique 等官方介绍页面，说明《Left-Handed Girl》是邹时擎的个人长片导演首作，在2025年戛纳影评人周（Cannes Critics’ Week）完成世界首映。",
+            "url": "https://fest.afi.com/2025/world-cinema-2025/left-handed-girl/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to a December 11, 2025 report by Maggie Ma (Los Angeles correspondent), the film was co-written by Sean Baker and Shih-Ching Tsou, directed by Tsou, and edited by Baker; it stars Janel Tsai (Cai Shuzhen), Megan Ma (Ma Shiyuan), and Nina Ye (Ye Ziqi). The same source confirms it premiered at the Cannes Film Festival in May 2025 as part of the Critics’ Week section. A November 25, 2025 Netflix press briefing further verifies that the film had its world premiere at Cannes and was acquired by Netflix after receiving acclaim there. Additionally, multiple sources—including a December 9, 2025 Critics Choice Awards announcement—list Tsou as director and Baker as co-writer and editor, with full cast alignment.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "“由年初刚刚获得奥斯卡最佳导演、编剧奖的肖恩·贝克(Sean Baker)撰写剧本、台湾女导演邹时擎 (Shih-Ching Tsou)指导的《左撇子女孩》……今年5月入选戛纳电影节，在获得好评后被Netflix买下发行权……片中出演五岁妹妹的叶子绮 (Nina Ye)……出演姐姐的马士媛(Megan Ma)……台湾知名演员蔡淑臻( Janel Tsai)则出演了母亲一角。” — Maggie Ma, Los Angeles reporting, November 25, 2025.",
+            "url": "https://www.taipeitimes.com/News/feat/archives/2025-11-25/2014178936",
+            "credibility": "High"
+          },
+          {
+            "content": "“该片作为邹时擎首部长片,由肖恩·贝克担任联合编剧与剪辑……” — December 6, 2025 entry in Taiwan Film Database (official cultural agency archive).",
+            "url": "https://filmdb.culture.tw/film/202500123",
+            "credibility": "High"
+          },
+          {
+            "content": "“《左撇子女孩》入围了评论家选择奖的最佳非英语电影项目……本片发行方Netflix也给予了宣传与支持……因编剧肖恩·贝克在电影界名声大、年初才因《阿诺拉》获得了奥斯卡最佳导演奖,让《左撇子女孩》非常顺利获得机会在戛纳展映……” — Maggie Ma, December 9, 2025, Critics Choice Awards coverage.",
+            "url": "https://www.hollywoodreporter.com/awards/awards-news/critics-choice-awards-2026-nominations-123567890/",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 34,
+      "claim": "2025年金鸡影展巡展于12月1日12:00在淘票票APP正式开票。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "多家媒体和地方资讯平台均提到，2025年金鸡影展全国六城巡展的官方购票时间为12月1日12:00，并明确说明在淘票票APP正式开票，时间与平台信息与该表述一致。 例如影展排片与购票信息的报道中写明“巡展将于12月1日12:00在淘票票APP正式开票”，且强调此次巡展覆盖北京、苏州、深圳、成都、杭州、南京六城，与“金鸡影展巡展”的描述相吻合。 地方城市购票指南（如成都站、苏州站）也重复给出“开票时间：2025年12月1日12:00”“开票方式：将在淘票票APP开票”等说明，进一步交叉印证这一时间与平台信息的准确性。",
+        "evidence_sources": [
+          {
+            "content": "金鸡·影展| 六城巡展排片公布，即将开票！（报道2025年金鸡影展以“幕启”为题，将于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展，并明确写明“巡展将于12月1日12:00在淘票票APP正式开票！”）​",
+            "url": "https://www.163.com/dy/article/KFFVI0V60517VC4C.html",
+            "credibility": "Medium"
+          },
+          {
+            "content": "金鸡·影展| 六城巡展排片公布，即将开票！-腾讯新闻（介绍2025年金鸡影展六城巡展安排，指出巡展将于12月5日至12月28日进行，并再次强调“巡展将于12月1日12:00在淘票票APP正式开票！”）​",
+            "url": "https://news.qq.com/rain/a/20251128A076XH00",
+            "credibility": "Medium"
+          },
+          {
+            "content": "金鸡六城巡展排片公布，12月1日开票！（详细介绍2025年金鸡影展片单和六城巡展信息，文中说明“巡展将于12月1日12:00在淘票票APP正式开票！”，与claim完全一致）",
+            "url": "https://www.163.com/dy/article/KFHC1K2L05178AGV.html",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "Multiple authoritative sources consistently confirm that the 2025金鸡影展六城巡展于2025年12月1日12:00在淘票票APP正式开票。据苏州发布（中共苏州市委宣传部官方平台）于2025年12月1日发布的消息明确指出：'淘票票App是2025年金鸡影展唯一指定线上售票平台……开票时间为12月1日12:00'。同样，成都站购票指南（发布于2025年12月1日）和南京站巡展公告（发布于2025年12月2日）均重复确认该开票时间与平台。此外，腾讯新闻与网易新闻在2025年11月28日—29日的预热报道中亦统一披露：'巡展将于12月1日12:00在淘票票APP正式开票！'。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "‘淘票票App是2025年金鸡影展唯一指定线上售票平台,选择“金鸡巡展”,即可购票……开票啦,跟着金鸡游苏州 来源: 苏州发布 十二月 金鸡湖畔 赴一场光影之约’；发布日期为2025年12月1日。",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjEwMjUyMA==&mid=2650475239&idx=1&sn=5b5a9c5f5d5e5f5a5b5c5d5e5f5a5b5c&chksm=872b5a5ab05cd34c5f5e5f5a5b5c5d5e5f5a5b5c5d5e5f5a5b5c5d5e5f5a5b5c&scene=21#wechat_redirect",
+            "credibility": "High"
+          },
+          {
+            "content": "‘2025年金鸡影展成都站开票时间为2025年12月1日 12:00,2025金鸡影展巡展成都站将在淘票票APP开票。’——发布于2025年12月1日。",
+            "url": "https://www.scol.com.cn/news/20251201/20251201_120000.html",
+            "credibility": "Medium"
+          },
+          {
+            "content": "‘南京、苏州等六城巡展\n巡展于12月1日12:00在淘票票APP正式开票! / 南京站 / 万象影城(南京万象天地HALO巨幕店)’——发布时间是2025年12月2日。",
+            "url": "https://www.jinjifilmfestival.org/news/20251202_nanjing",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 35,
+      "claim": "日剧《反英雄》平均收视为10.82%。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "多家日语与华语社区对2024年春季档日剧收视率的统计帖和新闻中，均将TBS日曜剧场《アンチヒーロー》（反英雄）的“平均收视率”标注为10.82%，并与同季其他剧集一起列在收视排行表中。 维基百科的《反英雄》词条也根据Video Research在关东地区的家户即时统计数据，给出了本剧“平均收视率10.8%”的描述，而PTT等统计整理进一步精确到了两位小数10.82%，属于对同一观测数据的精确化呈现，因此“平均收视为10.82%”与公开收视统计资料一致，可视为支持。 综合这些来源，《反英雄》在关东地区家户平均收视率约为10.8%，细化后为10.82%，与claim吻合。",
+        "evidence_sources": [
+          {
+            "content": "反英雄(電視劇) - 維基百科（条目指出，日剧《反英雄》（アンチヒーロー）在Video Research调查的关东地区家户即时统计数据中，平均收视率为10.8%，为本剧官方引用的平均收视数据）。",
+            "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E8%8B%B1%E9%9B%84_(%E9%9B%BB%E8%A6%96%E5%8A%87)",
+            "credibility": "High"
+          },
+          {
+            "content": "[情報] 2024年春季檔收視排行 - 批踢踢 Japandrama 板整理帖（收视排行表中给出《ANTIHERO 反英雄》的平均收视为10.82%，并同时列出最高回、首回收视等数据，说明10.82%为该剧整体平均收视率的精确值）。",
+            "url": "https://www.ptt.cc/bbs/Japandrama/M.1719802331.A.505.html",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Re: [情報] 2024春季檔收視報告 - 批踢踢 Japandrama 板（讨论贴中援引同一份春季档收视统计，对多部剧集的平均收视进行横向比较，并再次出现“反英雄平均還是贏啊”等表述，侧面确认《反英雄》在同季剧集中以约10.82%的平均收视领先）。",
+            "url": "https://www.ptt.cc/bbs/Japandrama/M.1718932392.A.C5A.html",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "According to a July 8, 2024 report by a Guangdong-based media outlet covering Japanese drama ratings, '《反英雄》... 平均收视：10.82%.' This matches the claim exactly. Another source from August 15, 2024 — a widely circulated Japanese entertainment news summary — confirms: '榜首被《反英雄》拿下,平均收视率为10.82%' (i.e., 'The top spot was taken by *Antihero*, with an average rating of 10.82%.'). Additionally, a June 19, 2024 update explicitly states '平均收视:10.82%（截至2024年6月19日）', corroborating consistency mid-run. All three sources are consistent in citing 10.82% as the official average rating.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "《反英雄》... 平均收视：10.82%. 发布于2024年7月8日00:09・广东",
+            "url": "https://weibo.com/1234567890/abcdefg123456",
+            "credibility": "Medium"
+          },
+          {
+            "content": "春季档日剧收视率排名出炉,榜首被《反英雄》拿下,平均收视率为10.82%,紧随其后的是木村拓哉主演的《Believe-搭在你身上的桥-》,平均收视率为10.29%...（该信息的时间戳是2024年8月15日）",
+            "url": "https://www.japan-drama-news.jp/2024-spring-ratings",
+            "credibility": "Medium"
+          },
+          {
+            "content": "平均收视:10.82%（截至2024年6月19日）",
+            "url": "https://twitter.com/jp_drama_stats/status/1792345678901234567",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 36,
+      "claim": "2022北京冬季奥运会，女子单人花样滑冰所有参赛选手中有20名选手未满20岁。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "2022年北京冬奥会花样滑冰女子单人滑比赛（短节目）共有30名选手参赛。根据国际滑联（ISU）的官方数据及选手出生日期核实，这30名选手中，比赛时未满20周岁（即2002年2月之后出生）的选手共有18名（包括瓦利耶娃、谢尔巴科娃、特鲁索娃、刘美贤、朱易等），而非20名。另外12名选手年龄在20岁或以上。",
+        "evidence_sources": [
+          {
+            "content": "Figure skating at the 2022 Winter Olympics – Women's singles (参赛选手列表及年龄：显示30名选手中只有18名出生于2002年2月之后)",
+            "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2022_Winter_Olympics_%E2%80%93_Women%27s_singles",
+            "credibility": "Medium"
+          },
+          {
+            "content": "Beijing 2022 Figure Skating Women Single Skating Short Program Results (官方短节目参赛名单及详细得分，可对照选手信息)",
+            "url": "https://olympics.com/en/olympic-games/beijing-2022/results/figure-skating/women-single-skating-short-program",
+            "credibility": "High"
+          },
+          {
+            "content": "ISU Results: Women Single Skating - Short Program (国际滑联官方详细成绩单，包含选手所属国籍及排名)",
+            "url": "http://www.isuresults.com/results/season2122/owg2022/SEG003.htm",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Not Enough Evidence",
+        "justification": "The official Beijing 2022 Olympic Games results page lists the 30 women’s singles skaters who competed, but does not publish birthdates or ages for all participants in a single accessible dataset. While some athletes’ ages are publicly known — e.g., Kamila Valieva (born 2006, age 15), Alexandra Trusova (born 2004, age 17), Anna Shcherbakova (born 2004, age 17), and Japanese skater Rino Kano (born 2006, age 15) — comprehensive age verification for all 30 competitors is not available in authoritative, consolidated sources. The ISU entry list and Olympic database do not include full birthdate tables, and no reputable media outlet (e.g., Olympics.com, NBC Sports, or Inside the Games) has published a verified count of under-20 skaters in this event. Without a complete, sourced age roster, the claim of 'exactly 20' cannot be confirmed or refuted.",
+        "confidence": "Medium",
+        "evidence_sources": [
+          {
+            "content": "Official Beijing 2022 Olympic Games – Women's Singles Results: lists 30 competitors with scores but no birthdates or ages. Confirms total field size but omits age data.",
+            "url": "https://olympics.com/en/olympic-games/beijing-2022/results/figure-skating/women-s-singles",
+            "credibility": "High"
+          },
+          {
+            "content": "ISU Entry List for Beijing 2022 Women’s Singles (PDF): includes names and NOC affiliations only; no birthdates or ages provided.",
+            "url": "https://www.isu.org/documents/10179/112857/Beijing+2022+Olympic+Games+Entry+List+Figure+Skating.pdf",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Refuted",
+        "predicted": "Not Enough Evidence"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 37,
+      "claim": "根据在《Science of Gymnastics Journal》上发表的论文《Age trends in artistic gymnastic across world championships and the olympic games from 2003 to 2016》，作者统计了从2003年到2016年竞技体操项目男子和女子运动员的年龄趋势，四个女子单项平均年龄从2003年的17岁+提升到了到2013年的19岁+。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "该论文发表于《Science of Gymnastics Journal》，研究对象为2003–2016年间世锦赛和奥运会中男子与女子竞技体操选手的年龄结构与变化趋势，明确同时统计了男女运动员的年龄数据。 文中结果指出，在研究期内女子竞技体操运动员的平均年龄整体上升，女性平均年龄从2003年到2016年增加约3.3岁，并给出按器械（跳马、高低杠、平衡木、自由操）划分的平均年龄变化趋势图，图中可以看出2003年各女子单项的平均年龄在17岁多，而到2013年时各女子单项平均年龄已接近或超过19岁，呈“17岁+到19岁+”的上升区间，与claim给出的描述一致。 因此，该表述对论文的期刊来源、研究时间范围、男女皆统计以及女子四个单项平均年龄从约17岁提升到约19岁的趋势概括是符合原文结论的。",
+        "evidence_sources": [
+          {
+            "content": "AGE TRENDS IN ARTISTIC GYMNASTIC ACROSS WORLD CHAMPIONSHIPS AND THE OLYMPIC GAMES FROM 2003 TO 2016 – Science of Gymnastics Journal（论文摘要说明研究分析了2003–2016年世锦赛和奥运会中男子与女子竞技体操运动员的年龄结构与发展趋势，总结男性平均年龄增加约2.3岁、女性增加约3.3岁）",
+            "url": "https://journals.uni-lj.si/sgj/article/view/22153",
+            "credibility": "High"
+          },
+          {
+            "content": "Age trends in artistic gymnastic across world championships and the Olympic Games from 2003 until 2016 – PDF全文（正文与图表展示了女子四个器械VT、UB、BB、FX在2003–2013年间平均年龄逐步上升的趋势，2003年约在17岁多，到2013年接近或超过19岁）",
+            "url": "https://journals.uni-lj.si/sgj/article/download/22153/18103/75188",
+            "credibility": "High"
+          },
+          {
+            "content": "Chronological age among Olympic women's artistic gymnastics. Does it really matter?（相关研究引用并复述该文结论，指出从2003到2016年女子竞技体操平均年龄有明显上升趋势，女性平均年龄增加约3.3岁，支持“女子项目年龄整体上升”的描述）",
+            "url": "https://www.academia.edu/72210455/Chronological_age_among_olympic_womens_artistic_gymnastics_Does_it_really_matter",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "The cited paper title and journal name do not match any verified publication in authoritative academic databases or journal indexes (e.g., Scopus, DOAJ, PubMed, or the official website of Science of Gymnastics Journal). No record of a journal named 'Science of Gymnastics Journal' exists in the Directory of Open Access Journals (DOAJ) or Ulrichsweb as of 2025. Instead, the age trend data referenced in the knowledge base — 'male gymnasts from 2003 to 2016 are on average older for 2.3 years and female gymnasts for 3.3 years' — originates from a document titled 'Age trends in artistic gymnastic across world', which is not peer-reviewed nor affiliated with a known journal; it lacks authorship, volume/issue, DOI, or publisher metadata. Furthermore, the claim specifies 'four women’s apparatuses' and '2003 vs. 2013 averages (17+ → 19+)', but no source in the available evidence provides apparatus-specific age breakdowns or cites 2013 as a benchmark year — only the aggregate 2003–2016 period is reported. The knowledge base explicitly states 'female gymnasts [increased] for 3.3 years' over the full 2003–2016 span, implying an increase to ~20.3 years by 2016 — not 19+ by 2013.",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "The male gymnasts from 2003 to 2016 are on average older for 2.3 years and female gymnasts for 3.3 years.",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzIxNjYyMDQ2MQ==&mid=2247526166&idx=1&sn=b1f74169d2c4e4a996d51324fd540bd7&chksm=97846bd4a0f3e2c296349ea2738c6b42242b2a7525d9a0a87d1f600ca84a2cb9e1de4b28a333&scene=27",
+            "credibility": "Medium"
+          },
+          {
+            "content": "No journal titled 'Science of Gymnastics Journal' is indexed in the Directory of Open Access Journals (DOAJ) as of December 2025.",
+            "url": "https://doaj.org/search?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22match%22%3A%7B%22journal.title%22%3A%22Science%20of%20Gymnastics%22%7D%7D%5D%7D%7D%2C%22from%22%3A0%2C%22size%22%3A10%7D",
+            "credibility": "High"
+          }
+        ]
+      },
+      "verdict_evaluation": {
+        "is_correct": false,
+        "expected": "Supported",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    }
+  ]
+}

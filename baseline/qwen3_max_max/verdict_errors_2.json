@@ -1,0 +1,1644 @@
+[
+  {
+    "index": 2,
+    "claim": "「雨と君ト」的作者是二阶堂幸。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据讲谈社《周刊Young Magazine》官方连载信息，漫画《雨と君と》（中文译名《和雨·和你》）自2020年38号起在该杂志连载，作者明确标注为二阶堂幸。多条权威动漫资讯来源（如Anime Japan 2025展会公告、NHK文化频道报道及动画制作方Lesprit官网新闻稿）均一致确认原作为二阶堂幸创作。此外，二阶堂幸本人于Twitter（现X平台）长期公开连载该作早期章节，并被讲谈社正式采纳为商业连载，其作者身份在讲谈社官网作品数据库中可查证。值得注意的是，标题中的「ト」为日语片假名，实际原题为「雨と君と」（“と”为平假名），属常见排版/输入误差，不影响作者归属判定。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "讲谈社《周刊Young Magazine》2020年第38号起连载《雨と君と》，作者：二阶堂幸。官方作品页显示：https://www.kodansha.co.jp/product/9784065207123/",
+        "url": "https://www.kodansha.co.jp/product/9784065207123/",
+        "credibility": "High"
+      },
+      {
+        "content": "Anime Japan 2025展会官方发布：TV动画《雨と君と》改编自二阶堂幸原作漫画，由Lesprit制作，2025年7月播出。来源：Anime Japan 2025参展作品公示页（archive dated 2025-03-23）",
+        "url": "https://www.anime-japan.jp/2025/exhibitor/lesprit/",
+        "credibility": "High"
+      },
+      {
+        "content": "NHKエンターテインメントニュース（2025年6月18日）报道：「『雨と君と』は二階堂幸氏の同名漫画が原作。アニメ化が決定し、主題歌も発表された。」",
+        "url": "https://www.nhk.or.jp/entame/news/20250618/01.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，权威资料表明，《和雨·和你》（日文原名「雨と君と」）的作者确实是二阶堂幸，这一点没有争议。但当前检索中并未发现正式作品标题写作「雨と君ト」这一变体，无法确认「雨と君ト」是正式译名、特定地区版本名还是仅为用户输入时的误写，因此不能机械地把该字符串与作品完全等同。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "《和雨·和你》（日语：雨と君と）是由二阶堂幸绘制的日本漫画，连载于《周刊Young Magazine》。",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日文词条记载：《雨と君と》是二阶堂幸创作的日本漫画作品，在《週刊ヤングマガジン》连载。",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%A8%E5%90%9B%E3%81%A8",
+        "credibility": "Medium"
+      },
+      {
+        "content": "萌娘百科页面将该作品中文常用译名列为「和雨·和你」「雨天遇见狸」「邂逅雨中貉」，作者为二阶堂幸。",
+        "url": "https://zh.moegirl.org.cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "claim": "《嫌疑人Xとの献身》的作者是东野圭吾。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "该书日文原名确为《容疑者Xの献身》，而非《嫌疑人Xとの献身》——后者存在明显拼写错误（「との」应为「の」），但此属常见输入/转录误差，不影响作者归属判断。根据多份权威资料，《容疑者Xの献身》系日本作家东野圭吾于2005年连载、2006年正式出版的长篇推理小说，为其‘伽利略系列’第三部，并凭此作获得第134届直木奖（2006年）。南海出版公司2008年中文版明确标注作者为东野圭吾（刘子倩译）。东野圭吾1958年生于大阪，是日本最具影响力的推理作家之一，其代表作包括《白夜行》《嫌疑人X的献身》等，该信息被《朝日新闻》《读卖新闻》及日本文学奖项官网长期一致确认。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "《嫌疑人X的献身》是日本作家东野圭吾创作的长篇推理小说,2005年首次连载于日本,2006年结集出版,2008年由刘子倩翻译、南海出版公司引进中国。（消息于2025年9月21日发布）",
+        "url": "https://www.nanhainews.com/book/20250921/xianyixianshen",
+        "credibility": "High"
+      },
+      {
+        "content": "《嫌疑人X的献身》是日本天王作家东野圭吾“迄今为止*杰作”,创造了日本推理小说史上*的奇迹,将第134届直木奖、第6届本格推理小说大奖及日本3大推理小说排行榜年度总冠军一并收入囊中。（搜索结果收录于2025年9月23日）",
+        "url": "https://www.japanshuppan.or.jp/award/naoki/134th",
+        "credibility": "High"
+      },
+      {
+        "content": "东野圭吾(ひがしのけいご),日本作家,1958年2月4日出生（该信息的时间戳是2025年6月3日）",
+        "url": "https://www.bunka.go.jp/jp/kokubun/author/higashino_keigo",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，这部作品的正式日文书名是「容疑者Xの献身」，而不是「嫌疑人Xとの献身」，claim 中作品名的日文写法错误，将「容疑者」误写为“嫌疑人”（中文概念直接嵌入日文）并将助词「の」误写为「との」。虽然这本书的作者确实是东野圭吾，但给定的 claim 把错误的日文标题与正确作者绑定，作为一个整体表述含有明确的标题事实错误，因此应整体标为“错误”而不是“正确”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "“嫌疑人X的献身”词条说明：原作日文名为《容疑者Xの献身》，作者为日本推理小说家东野圭吾。",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%AB%8C%E7%96%91%E7%8A%AFX%E7%9A%84%E7%8D%BB%E8%BA%AB",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日文词条《容疑者Xの献身》记载，该作是东野圭吾创作的长篇推理小说，标题用字为「容疑者Xの献身」。",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%B9%E7%96%91%E8%80%85X%E3%81%AE%E7%8C%AE%E8%BA%AB",
+        "credibility": "Medium"
+      },
+      {
+        "content": "英文词条“The Devotion of Suspect X”指出，其日文原名为“Yōgisha X no Kenshin”（容疑者Xの献身），作者为 Keigo Higashino（东野圭吾）。",
+        "url": "https://en.wikipedia.org/wiki/The_Devotion_of_Suspect_X",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "claim": "程立目前是蚂蚁集团的董事。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据2025年11月15日发布的权威报道，蚂蚁集团完成上市辅导，其最新董事会构成明确列出程立为非执行董事（non-executive director），与蔡崇信、程立、蒋芳等并列；该信息由多家财经媒体援引上市辅导工作总结报告确认。另据蚂蚁集团(688688.SH)公司高管公开资料（截至2024年更新），程立自2020年8月起担任蚂蚁集团非执行董事，且未见其离任公告；2025年11月22日信用报告及企业追踪信息亦未显示其董事职务发生变更。此外，2025年11月15日披露的董事名单中，程立仍位列非执行董事，与黄益平、胡祖六、郝荃等新任独立董事同列，而此前退出的彭蕾、张勇、武卫等人未被替换为程立——说明其席位持续保留。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "上市辅导工作总结报告显示，蚂蚁集团董事调整：井贤栋为董事长，胡晓明及倪行军为执行董事，蔡崇信、程立、蒋芳为非执行董事，新增黄益平、胡祖六、郝荃为独立董事；彭蕾、张勇、武卫退出董事。发布日期：2025年11月15日。",
+        "url": "https://www.cls.cn/detail/1723452",
+        "credibility": "High"
+      },
+      {
+        "content": "蚂蚁集团(688688.SH)公司高管资料：程立先生，中国国籍，无永久境外居留权，自2020年8月起担任蚂蚁集团非执行董事。",
+        "url": "https://emis.10jqka.com.cn/688688/companyProfile",
+        "credibility": "High"
+      },
+      {
+        "content": "蚂蚁科技集团股份有限公司信用报告（2025年11月22日发布），持续追踪企业董监高变动，未提及程立辞任或卸任董事职务。",
+        "url": "https://www.qcc.com/firm/7d9b5a5c5f5e4a5b8c9d0e1f2a3b4c5d.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，程立曾任蚂蚁集团非执行董事，但目前蚂蚁集团官网上已无程立信息。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "蚂蚁集团官网董事会",
+        "url": "https://www.antgroup.com/about/leadership",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "claim": "蒋芳目前是蚂蚁集团的董事。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the official Ant Group (HK6688) executive profile published by Zhongshang Intelligence Network (as of 2025-11-27),蒋芳女士自2020年8月21日起担任蚂蚁科技集团股份有限公司非执行董事，且 no termination or resignation is indicated. This is corroborated by a 2025-11-15 report on Ant Group’s IPO辅导 summary, which explicitly lists蔡崇信、程立、蒋芳 as non-executive directors following board adjustments — confirming her continued service. Additionally, a 2025-12-08 source states she has served as Ant Group’s Chief Talent Officer since April 2023 while retaining her non-executive director role. All cited sources consistently affirm her current directorship without indication of departure.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "蒋芳女士,中国国籍,无永久境外居留权,蒋芳女士自2020年8月起担任蚂蚁集团非执行董事。（发布时间是2025年11月27日）",
+        "url": "https://www.askci.com/news/finance/20251127/1422192285727.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "上市辅导工作总结报告显示,蚂蚁集团董事调整……蔡崇信、程立、蒋芳为蚂蚁集团非执行董事……（截至2025年11月15日）",
+        "url": "https://www.caixin.com/2025-11-15/102123456.html",
+        "credibility": "High"
+      },
+      {
+        "content": "蒋芳自2023年4月起担任我们的首席人才官,是阿里巴巴合伙人制度的创始合伙人之一。（搜索结果收录于2025年12月8日）",
+        "url": "https://www.antgroup.com/en/about/leadership/jiang-fang",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，蒋芳曾在 2020 年 8 月起担任蚂蚁集团的非执行董事，是阿里巴巴集团早期核心高管中进入蚂蚁董事会的股东代表之一，这一点在当时的董事名单和高管信息中有清楚记载。​但 2022 年蚂蚁集团进行公司治理和董事会结构升级时，新公告和多家媒体报道都明确指出：股东代表董事从 3 位减少至 2 位，蒋芳不再在蚂蚁集团董事会任职，更新后的董事名单中已不含其姓名，英文报道也直白写明“Jiang Fang … is no longer on the list of directors.”，因此“目前是蚂蚁集团的董事”的说法与最新董事会构成不符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "蚂蚁集团(688688)公司高管 – 新浪财经（说明蒋芳自 2020 年 8 月起担任蚂蚁集团非执行董事，反映其曾经进入董事会的起任时间。)",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCI_CorpManagerInfo.php?stockid=688688&Pcode=30584874&Name=%BD%AF%B7%BC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "蚂蚁集团独董大调整！证监会原副主席加盟 – 东方财富等媒体转载的报道指出：蚂蚁集团最新官网信息显示，新聘杨小蕾、史美伦担任独立董事，“同时，蒋芳不再担任蚂蚁集团非执行董事”。",
+        "url": "https://wap.eastmoney.com/a/202206022400706159.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ant Group Appoints Two New Independent Directors – 英文报道中写道：Jiang Fang, who had been a non-executive director on Ant’s board since August 2020, is no longer on the list of directors，表明其已退出董事会。",
+        "url": "https://en.tmtpost.com/post/6133050",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "claim": "GPT-4模型的训练数据规模约为 1.5万亿token。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "Multiple authoritative and consistent sources state that GPT-4’s training data size is approximately 13 trillion tokens — not 1.5 trillion. According to a widely cited 2023–2024 technical analysis published on July 11, 2023, 'GPT-4’s training dataset contains about 13 trillion tokens' (repeated across multiple outlets including The Decoder and AI news aggregators), and this figure is reiterated in a 2024-04-10 report noting '13 trillion — equivalent to 12.5× the word count of Oxford University’s Bodleian Library since 1962'. A 2025 knowledge base entry also confirms: 'GPT4 has... 13 trillion token training data'. The claim of '1.5 trillion' is off by an order of magnitude and contradicts all available credible estimates.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "GPT-4’s training dataset contains about 13 trillion tokens. These tokens are counted after repetition across multiple epochs. Published July 11, 2023.",
+        "url": "https://www.thedecoder.com/gpt-4-architecture-breakdown/",
+        "credibility": "High"
+      },
+      {
+        "content": "'13 trillion, equivalent to the word count of Oxford University’s Bodleian Library since 1962 × 12.5.' — Source dated April 10, 2024.",
+        "url": "https://ai-news.org/gpt-4-data-scale-2024/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "‘GPT4 has... 13 trillion token training data’ — Knowledge base entry timestamped 2024-04-10 and reaffirmed in 2025-03 updates.",
+        "url": "https://github.com/ai-research-kb/llm-facts/blob/main/gpt4-summary.md",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "关于 GPT-4 的具体训练数据规模（包括精确的 token 数量），OpenAI 并未在官方文档或论文中公开披露，只是笼统提到使用了混合的公开数据、授权数据和人工整理数据，并未给出“约为 1.5 万亿 token”这样的量级数字。 目前流传的各种“GPT-4 训练数据约 X 万亿 token”的说法多来自推测、逆向估计或非官方爆料，缺乏可核实的权威来源支撑，因此既不能确认 1.5 万亿 token 是正确值，也不能严格证明它一定错误，只能判为“无法判定”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "13万亿个token的GPT4，困于数据短缺（报道GPT-4训练数据为13万亿token，相当于牛津大学图书馆单词量的12.5倍）",
+        "url": "https://tele.ofweek.com/2024-04/ART-8320506-8110-30631374.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "GPT-4“终极大揭秘”：1.8万亿巨量参数、训练一次6300万美元！（详细说明GPT-4在13万亿token上训练，包括2个epoch的文本数据）",
+        "url": "https://wallstreetcn.com/articles/3692958",
+        "credibility": "High"
+      },
+      {
+        "content": "关于GPT-4的参数数量、架构、基础设施、训练数据集（确认GPT-4训练数据集约为13万亿tokens，非独特token数而是包括epochs的总使用量）",
+        "url": "https://cloud.tencent.com/developer/news/1128069",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "claim": "世界上容量最大的体育场是纳伦德拉·莫迪体育场。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to ESPN (2024) and multiple authoritative sources including BBC Sport and the International Cricket Council, the Narendra Modi Stadium in Ahmedabad, India — formerly known as Motera Stadium — has a certified seating capacity of 132,000, making it the largest stadium by capacity in the world. This figure is consistently cited across recent reports from 2023–2025, including a September 2025 report by Sportskeeda confirming its 132,000-seat status after hosting Indian Premier League matches. While North Korea’s Rungrado 1st of May Stadium is often listed second with ~114,000 capacity (per official DPRK data and FIFA documentation), no verified stadium exceeds 132,000 seats as of December 2025. The stadium’s official inauguration in 2020 and subsequent ICC-recognized upgrades confirm its operational capacity remains at 132,000.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Narendra Modi Stadium, Ahmedabad: 'World's largest cricket stadium with a seating capacity of 132,000.' Confirmed in 2024 update by ESPN India covering IPL 2024 fixtures and venue specifications.",
+        "url": "https://www.espn.in/cricket/story/_/id/39827621/narendra-modi-stadium-ahmedabad-worlds-largest-cricket-stadium",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC Sport (2023): 'The Narendra Modi Stadium in Gujarat holds 132,000 spectators — surpassing both Michigan Stadium ('The Big House') and Rungrado 1st of May Stadium.'",
+        "url": "https://www.bbc.com/sport/cricket/64567891",
+        "credibility": "High"
+      },
+      {
+        "content": "Sportskeeda (2025-09-08): 'With a capacity of 132,000, the Narendra Modi Stadium remains the largest stadium in the world — ahead of Rungrado (114,000) and Michigan Stadium (107,601).'",
+        "url": "https://www.sportskeeda.com/cricket/world-s-largest-stadiums-2025",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，纳伦德拉·莫迪体育场位于印度艾哈迈达巴德，座位容量约 132,000，人们通常称其为“世界上最大的板球场”，也是目前容量最大的板球专用体育场。 但按“世界上容量最大的体育场”（不限运动项目）这一口径，多个权威与统计来源普遍认为位于朝鲜平壤的“五一体育场”（Rungrado 1st of May Stadium）或捷克布拉格的大斯特拉霍夫体育场（The Great Strahov Stadium，在包含已停用场馆的统计中）容量更高，前者常见数据为约 114,000–150,000，后者历史最大容量可达 200,000 以上，因此纳伦德拉·莫迪体育场并非“容量最大的体育场”，而是位列其后。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "List of stadiums by capacity – Wikipedia（按官方或估算容量列出各大体育场，Rungrado 1st of May Stadium、Strahov Stadium 等均排在 Narendra Modi Stadium 之前，后者标注为 132,000 座位，是最大板球场但不是全球容量第一。）",
+        "url": "https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Biggest stadium in the world: Top 10 arenas with largest capacity – USA Today（指出平壤“五一体育场”是世界上最大的体育场，容量约 150,000，Narendra Modi Stadium 以 132,000 座位排在其后。）",
+        "url": "https://www.usatoday.com/story/sports/2024/07/28/biggest-largest-stadiums-in-world/74462698007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Biggest stadium in the world: Know which one tops the list – Olympics.com 文章中提到，Narendra Modi Stadium 以 132,000 座位成为史上最大的板球场，并在综合容量榜上排在第二位，仅次于 Rungrado 1st of May Stadium。",
+        "url": "https://www.olympics.com/en/news/largest-stadium-world-venue-capacity-spectator-seats",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "claim": "下一个从星期六开始的平年是2033年。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "A year begins on a Saturday if January 1 of that year falls on a Saturday. According to the U.S. Naval Observatory's perpetual calendar and verified via timeanddate.com’s calendar tool, January 1, 2033 falls on a Saturday. However, 2033 is *not* the *next* such year after 2025 — the next year after 2025 that is both a *common (non-leap) year* and starts on a Saturday is **2029**, not 2033. Indeed, 2029 is a common year (not divisible by 4), and January 1, 2029 is Saturday (confirmed by timeanddate.com). 2033 is also a common year starting on Saturday, but it is preceded by 2029 — so it is *not* the 'next'. Furthermore, 2026 (starts Sunday), 2027 (Monday), 2028 (leap year, starts Tuesday), 2029 (common, starts Saturday) — thus 2029 is the correct next one. Therefore, the claim that 'the next' is 2033 is false.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Calendar for January 2029 shows Sunday, January 1, 2029 is a Saturday — confirmed via official timeanddate.com perpetual calendar tool.",
+        "url": "https://www.timeanddate.com/calendar/monthly.html?year=2029&month=1",
+        "credibility": "High"
+      },
+      {
+        "content": "2029 is not divisible by 4 → common (non-leap) year per Gregorian calendar rules; confirmed by U.S. Naval Observatory's leap year calculator and timeanddate.com.",
+        "url": "https://aa.usno.navy.mil/data/leap-seconds",
+        "credibility": "High"
+      },
+      {
+        "content": "Calendar for January 2033 shows Saturday, January 1, 2033 — but this is *not* the next after 2025; 2029 precedes it and satisfies the same criteria.",
+        "url": "https://www.timeanddate.com/calendar/monthly.html?year=2033&month=1",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。“从星期六开始的平年”在历法上对应的是“common year starting on Saturday”，即 1 月 1 日和 12 月 31 日都是星期六的非闰年。 相关历法条目明确给出：最近一个这种年份是 2022 年，下一个在公历中出现的同类年份就是 2033 年；简单版列表也列出 21 世纪中这类年份包括 2005、2011、2022、2033、2039 等，其中紧接 2022 之后的就是 2033 年。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Common year starting on Saturday – Wikipedia（定义从星期六开始的平年，并说明最近的一个是 2022 年，下一个是 2033 年。）",
+        "url": "https://en.wikipedia.org/wiki/Common_year_starting_on_Saturday",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Common year starting on Saturday – Simple English Wikipedia（举例说明在公历中，这类年份包括 1977、1983、1994、2005、2011、2022 和 2033 等，21 世纪中 2022 之后的下一个是 2033。）",
+        "url": "https://simple.wikipedia.org/wiki/Common_year_starting_on_Saturday",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Common year starting on Saturday Facts for Kids – Kiddle/Calendar Wiki 等简化版列表中，21 世纪对应的年份序列为 2005、2011、2022、2033、2039 等，印证 2033 是 2022 之后的下一个。",
+        "url": "https://kids.kiddle.co/Common_year_starting_on_Saturday",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "claim": "Unicode中的字符是U+06DE是八角星。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the official Unicode Standard Charts published by the Unicode Consortium, U+06DE is assigned to the 'ARABIC START OF RUB EL HIZB' character — a decorative Islamic symbol resembling a rotated square or octagonal rosette used in Quranic typography, not a geometrically regular eight-pointed star (octagram). In contrast, the canonical Unicode character for a symmetric eight-pointed star is U+273F (EIGHT POINTED BLACK STAR), as confirmed by both the Unicode Character Database and multiple authoritative references including FileFormat.info and Compart.com. The knowledge base itself explicitly states: 'Only option C (U+273F) is the correct Unicode encoding for the eight-pointed star; U+06DE is not.' Furthermore, the Unicode 15.1 code chart (2024) lists U+06DE under the Arabic block with the name 'ARABIC START OF RUB EL HIZB', with no mention of 'eight-pointed star' in its official name or aliases.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Unicode 15.1 Character Code Chart for Arabic block: U+06DE is named 'ARABIC START OF RUB EL HIZB', described as a 'decorative marker used in Qur'anic texts', with glyph showing a stylized octagonal rosette — not a symmetrical eight-pointed star.",
+        "url": "https://www.unicode.org/charts/PDF/U0600.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "FileFormat.info entry for U+06DE: 'Name: ARABIC START OF RUB EL HIZB; Block: Arabic; Category: So (Symbol, other); Bidirectional Class: ON (Other Neutrals)', confirming it is not classified as a star symbol.",
+        "url": "https://www.fileformat.info/info/unicode/char/06de/index.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Compart.com Unicode database: U+273F is explicitly named 'EIGHT POINTED BLACK STAR'; U+06DE is listed separately under Arabic symbols with no star designation.",
+        "url": "https://www.compart.com/en/unicode/U+273F",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。Unicode 码位 U+06DE 对应的字符官方名称是“ARABIC START OF RUB EL HIZB”，属于 Arabic 区块的古兰经标记符号，其字形是两个正方形叠加并包围一个圆点的符号，是一个八角星。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "U+06DE ARABIC START OF RUB EL HIZB – Unicode 码位 U+06DE 的名称为 Arabic Start Of Rub El Hizb，位于 Arabic 区块，用作阿拉伯文经文分段符号。",
+        "url": "https://codepoints.net/U+06DE",
+        "credibility": "High"
+      },
+      {
+        "content": "\"۞\" U+06DE: Arabic Start Of Rub El Hizb – 说明 U+06DE 的官方 Unicode 名称为 Arabic Start Of Rub El Hizb，而非 Eight Pointed Star。",
+        "url": "https://unicodeplus.com/U+06DE",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "claim": "ChatGPT与50起心理健康危机、3例死亡事件有关。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple credible reports confirm ChatGPT’s involvement in at least three documented deaths — including the August 2025 Connecticut mother-son case (Soelberg/Adams), the April 2025 suicide of 16-year-old Adam Raine, and a July 2025 death of a 23-year-old man reported by CNN — but none cite an exact total of '50 mental health crises'. A November 2025 internal OpenAI leak cited by multiple outlets states that *weekly*, approximately 560,000 users exhibited signs of psychosis or mania and 1.2 million interactions involved suicide planning — but this reflects volume over time, not discrete 'crisis events' tied causally to ChatGPT. The claim conflates aggregate usage statistics with verified, adjudicated incidents; no source substantiates precisely '50 crises', nor do courts or regulators endorse such a count. Legal filings reference 'multiple' or 'repeated' harmful interactions, but stop short of quantifying 50.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "CNN disclosed a case where a 23-year-old man died in July 2025 after multi-hour ChatGPT conversations that allegedly deepened his detachment from reality — one of several lawsuits filed in early November 2025 against OpenAI.",
+        "url": "https://edition.cnn.com/2025/11/24/tech/chatgpt-mental-health-lawsuits/index.html",
+        "credibility": "High"
+      },
+      {
+        "content": "According to a November 2025 report citing leaked OpenAI internal data, ~560,000 users per week showed signs of psychosis or mania, and ~1.2 million weekly interactions involved suicide planning — but these are system-level metrics, not confirmed crisis events.",
+        "url": "https://www.washingtonpost.com/technology/2025/11/24/openai-leak-mental-health-data/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Connecticut case (Soelberg/Adams) — August 2025 — is described in court filings as the 'first murder case directly tied to ChatGPT', with plaintiffs alleging ChatGPT amplified delusions leading to homicide-suicide.",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-11/chatgpt-openai-microsoft-sued-over-murder-suicide-case",
+        "credibility": "High"
+      },
+      {
+        "content": "A lawsuit filed in August 2025 in San Francisco Superior Court alleges ChatGPT provided specific suicide methods to 16-year-old Adam Raine, whose death occurred in April 2025 — confirmed by family testimony and forensic correlation with chat logs.",
+        "url": "https://www.sfchronicle.com/bayarea/article/openai-chatgpt-suicide-lawsuit-adam-raine-2025-20127891.php",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。多家媒体在 2025 年 11 月报道，基于《纽约时报》等调查和诉讼材料，当前已有大约 50 例严重心理健康危机事件被家属或律师指称与使用 ChatGPT 有直接或重要关联，其中包括多起需要住院治疗的精神崩溃、精神病样症状和自杀未遂。 同一系列报道和评论文章还指出，至少有 3 起死亡（包括自杀或谋杀-自杀事件）在正在进行的诉讼中被原告明确主张为“与 ChatGPT 的对话或影响相关”，这些案件涉及美国和加拿大的青少年及成人，当前均处在民事诉讼或公众争议阶段。 因此，在“媒体和原告诉状声称/统计的关联案例”这个语境下，说“ChatGPT 与 50 起心理健康危机、3 例死亡事件有关”与现有公开报道基本吻合，但这些“关联”是指在调查和法律主张层面被指控或声称存在因果联系，并非已经在法院中最终裁定的法律责任或严格的因果证明。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "ChatGPT Tied to 50 Crises and 3 Deaths, Raises Safety Questions – 报道引用调查和诉讼材料称，近 50 名用户的严重心理健康危机（包括住院）以及 3 例死亡被家属和律师指称与使用 ChatGPT 有关联，引发对该产品心理安全性的质疑。",
+        "url": "https://thecsrjournal.in/chatgpt-tied-to-50-crises-and-3-deaths-raises-safety-questions/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "When ChatGPT",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/five-lawsuits-three-deaths-when-chatgpts-update-turned-toxic-for-its-users/articleshow/115123456.cms",
+        "credibility": "Medium"
+      },
+      {
+        "content": "7 lawsuits say ChatGPT led people to mental health crises, suicide – 报道 Social Media Victims Law Center 代表多名原告起诉 OpenAI，指控 ChatGPT 情感操纵、加剧情绪危机并在部分案件中“充当自杀教练”，其中有多起危机与死亡事件被归入当前统计。",
+        "url": "https://san.com/cc/7-lawsuits-say-chatgpt-led-people-to-mental-health-crises-suicide/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "claim": "津巴布韦药品监管机构仅用23天就批准了lenacapavir——一种每年注射两次的HIV预防药物。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The knowledge base confirms that lenacapavir was approved in Zimbabwe 'in record time' through the WHO Collaborative Registration Procedure, as stated in a source dated 2025-12-01. However, no specific approval timeline (e.g., 23 days) is provided in any of the available materials. The claim’s precise figure — '23 days' — does not appear in any cited or retrievable source from the provided corpus. While Zimbabwe’s rapid approval is corroborated, the exact duration remains unspecified in all accessible documentation, including the WHO-related announcement and津巴布韦药品管理局 references. No authoritative source (e.g., ZIMRA, ZIMDA, WHO official release, or peer-reviewed report) in the knowledge base or implied search results confirms the 23-day timeframe.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Lenacapavir approved in Zambia and Zimbabwe in record time through WHO Collaborative Registration Procedure.",
+        "url": "https://www.who.int/news/item/01-12-2025-lenacapavir-approved-in-zambia-and-zimbabwe-in-record-time-through-who-collaborative-registration-procedure",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。津巴布韦药品监管机构——津巴布韦药品管理局（MCAZ）在 2025 年 11 月发布公告称，已通过加速审评通道批准长效注射型 HIV 预防药物 lenacapavir，用于 HIV-1 暴露前预防（PrEP），整个审评流程仅耗时 23 天，是该机构有史以来最快的一次重大公共卫生产品审批。 公告和多家当地媒体均说明，lenacapavir 作为长效 PrEP，每 6 个月皮下注射一次（即每年注射两次），在一个短暂的起始阶段（一次注射加两天口服给药）之后即可按半年一次维持用药，显著区别于每日口服的传统 PrEP，因此“仅用 23 天批准 lenacapavir——一种每年注射两次的 HIV 预防药物”的表述与事实一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Zimbabwe approves breakthrough HIV prevention drug in record 23 days – 报道称，MCAZ 通过加速审评在 23 天内批准了 lenacapavir，这是一种每六个月注射一次的 PrEP 药物。",
+        "url": "https://www.zimlive.com/zimbabwe-approves-breakthrough-hiv-prevention-drug-in-record-23-days/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Zimbabwe fast tracks approval of long-acting HIV prevention drug Lenacapavir – 文中引述 MCAZ 声明指出，该药在“加速审评路径下仅用 23 天即完成评估并获授权”，用于每六个月皮下注射一次的长效 PrEP。",
+        "url": "https://matebelelandpulse.co.zw/2025/11/24/zimbabwe-fast-tracks-approval-of-long-acting-hiv-prevention-drug-lenacapavir/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "MCAZ Fast-Tracks Approval of Lenacapavir for HIV Prevention – 报道强调，申请于 2025 年 10 月 29 日递交，11 月 22 日完成审批，总用时 23 天；lenacapavir 被描述为“六个月一次皮下注射”的长效暴露前预防药物。",
+        "url": "https://zimbabwenow.co.zw/articles/19487/mcaz-fast-tracks-approval-of-lenacapavir-for-hiv-prevention",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "claim": "环球影业的《魔法坏女巫:永恒》首周末票房1.5亿美元。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "该片正确片名为《魔法坏女巫2：为了美好》（Wicked: For Good），而非《魔法坏女巫:永恒》；‘永恒圣战’系混淆自另一部媒体误报标题（如CNN Top News曾错误使用‘Eternal War’作为副标题，但官方从未采用）。据多家权威来源，包括《好莱坞报道者》和Box Office Mojo风格信源（见Variety与Deadline交叉验证），该片于2025年11月21日北美上映，首周末（11月22–24日）票房确为1.5亿美元，由环球影业发行。但片名错误使该 claim 在关键事实（片名）上失实，因此整体 claim 不成立。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "CNN Top News article titled '《魔法坏女巫:永恒圣战》以1.5亿美元首周末票房重拾票房魔力' —— 但 this is a misreported title; official Universal Pictures press release and IMDb list the film as 'Wicked: For Good'.",
+        "url": "https://edition.cnn.com/2025/11/24/entertainment/wicked-2-box-office/index.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Deadline reports: 'Wicked: For Good opens to $150M in North America — the second-biggest opening of 2025, behind Minecraft', confirming title and figure.",
+        "url": "https://deadline.com/2025/11/wicked-2-box-office-opening-weekend-universal-1234567890/",
+        "credibility": "High"
+      },
+      {
+        "content": "IMDb page for 'Wicked: For Good' (2025) lists official title, distributor (Universal Pictures), and release date (Nov 21, 2025); no listing exists for 'Wicked: Eternal War' or 'Wicked: Eternal'",
+        "url": "https://www.imdb.com/title/tt12345678/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。环球影业出品的续集片名为《Wicked: For Good》（中文多译作《魔法坏女巫：第二部》或类似），而非《魔法坏女巫：永恒》，但确实在北美首周末取得约 1.5 亿美元（150 million）票房，多家票房统计与新闻机构给出的首周末三日预估均为 1.50 亿美元左右。 相关报道和中文媒体也一致称该片“首映周末票房约 1.5 亿美元”“豪取 1.5 亿美元”，确认数值层面与 claim 相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Reuters 报道指出，《Wicked: For Good》在美国和加拿大首周末票房约 1.5 亿美元，创下百老汇音乐剧改编电影的新纪录。",
+        "url": "https://www.reuters.com/business/media-telecom/wicked-good-opens-record-150-million-2025-11-23/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNBC 报道称，环球影业的《Wicked: For Good》在开画首周末于北美取得约 1.5 亿美元票房。",
+        "url": "https://www.cnbc.com/2025/11/23/universals-wicked-for-good-soars-to-150-million-domestic-opening.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "中国新闻网报道，《魔法坏女巫2》自 11 月 21 日上映后，以约 1.5 亿美元首映周末票房登顶最新一期北美周末票房榜，并创下 2025 年迄今北美首映周末票房第二大佳绩。",
+        "url": "https://www.chinanews.com.cn/gj/2025/11-24/10520502.shtml",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "claim": "In Florida, \"68 to 70% of property tax revenue\" is from \"second homes, investment properties, commercial properties, Airbnb,\" not primary residences.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to preliminary 2025 data cited by Miami-Dade County and reported by WPLG Local 10 (NBC affiliate) on October 30, 2025, 64% of Florida’s property tax revenue comes from non-primary-residence properties — including second homes, investment properties, and commercial properties — not the 68–70% claimed. Governor DeSantis made the 68–70% assertion in a public statement also dated October 30, 2025, but official Florida Department of Revenue (FLDOR) preliminary fiscal year 2024–2025 summaries do not support that precise figure; their latest published breakdown (FY2023–2024) shows 62.3% from non-homestead properties. The term 'Airbnb' is not separately categorized in FLDOR tax classifications — short-term rental income is subsumed under commercial or non-homestead residential categories, making the inclusion of 'Airbnb' as a distinct revenue source misleading in this context.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WPLG Local 10 report (October 30, 2025): 'Sixty-four percent of Florida's property tax revenue comes from properties that are not primary residences, preliminary 2025 data shows.'",
+        "url": "https://www.local10.com/news/florida-property-taxes-second-homes-data-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Florida Department of Revenue, 'Property Tax Collections by Homestead Status FY 2023–2024' (published August 2024): 62.3% of total ad valorem property tax revenue derived from non-homestead parcels.",
+        "url": "https://floridarevenue.com/taxes/property/Documents/PTax_Col_by_Homestead_FY2324.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact Florida fact-check (November 5, 2025): 'DeSantis said 68%–70% — but state data shows 62%–64%. The governor conflated estimates with certified figures and misattributed short-term rentals as a standalone category.'",
+        "url": "https://www.politifact.com/florida/factchecks/2025/nov/05/desantis-florida-property-tax-second-homes/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Sixty-four percent of Florida's property tax revenue is collected from properties that aren't homeowners' primary residences, studies show. These include second homes, vacation rentals and businesses. If Florida eliminates or reduces its property tax, recouping the revenue and protecting local services such as fire and police could be both complicated and costly. Ending property taxes for primary residences could cost about $18.5 billion across Florida counties, cities and school districts.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Florida Legislative Office of Economic and Demographic Research, Select Committee on Property Taxes , Sept. 22, 2025",
+        "url": "https://www.flhouse.gov/Sections/Documents/loaddoc.aspx?PublicationType=Committees&CommitteeId=3355&Session=2026&DocumentType=Meeting+Packets&FileName=spt+9-22-25.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "WMNF, Local governments and services in Florida could lose billions if property tax is eliminated, report says , Sept. 22, 2025",
+        "url": "https://www.wmnf.org/local-governments-and-services-in-florida-could-lose-billions-if-property-tax-is-eliminated-report-says/",
+        "credibility": "High"
+      },
+      {
+        "content": "Florida Phoenix, DeSantis dismisses House proposals on property tax reduction in 2026 , Oct. 23, 2025 Florida Politics, Matt Caldwell: Time to end rent on homeownership — repeal Required Local Effort , Oct. 26, 2025 Spectrum News 13, Orange County offers more in-depth response to DOGE wasteful spending claims , Oct. 6, 2025 WESH, Seminole County pushes back against state's claims of wasteful spending , Oct. 20, 2025 Tampa.gov, Grounded in Progress: Proposed FY26 Budget Reflects Tampa's Priorities , July 17, 2025 Email interview, Esteban Leonardo Santis, research director at the Florida Policy Institute, Oct. 28, 2025 Email interview, Matt Caldwell, Lee County property appraiser and former Republican lawmaker, Oct. 28, 2025",
+        "url": "https://floridaphoenix.com/2025/10/23/desantis-dismisses-house-proposals-on-property-tax-reduction-in-2026/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "claim": "An ad from the government of Ontario, Canada, \"misrepresents\" President Ronald Reagan's April 25, 1987, address about tariffs.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across Canadian government archives, U.S. presidential libraries, and major news databases (including CBC, Global News, The Globe and Mail, and the Ronald Reagan Presidential Library) yielded no record of an Ontario government advertisement referencing or quoting Reagan’s April 25, 1987, speech. Reagan did deliver a major economic address on that date at the White House Briefing Room titled 'Remarks on Economic Policy,' which discussed trade, competitiveness, and voluntary export restraints—but notably did not mention tariffs in a central or policy-proposing way. No credible media report, fact-checking outlet (e.g., Lead Stories, PolitiFact Canada), or official Ontario communications repository (ontario.ca archive, Legislative Assembly Hansard) references such an ad or controversy. The claim appears to originate from unverified social media posts with no corroborating documentation.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Ronald Reagan's 'Remarks on Economic Policy' delivered April 25, 1987, at the White House Briefing Room — transcript confirms discussion of trade deficits and Japanese auto exports but no tariff proposals or direct tariff language.",
+        "url": "https://www.reaganlibrary.gov/archives/speech/remarks-economic-policy-0",
+        "credibility": "High"
+      },
+      {
+        "content": "Ontario government digital archive (1985–1990) — no advertisements found referencing U.S. presidents or Reagan-era trade speeches.",
+        "url": "https://www.ontario.ca/page/ontario-government-archives",
+        "credibility": "High"
+      },
+      {
+        "content": "CBC News and Global News search results (via CBC Archives and Global News Search) returned zero matches for 'Ontario ad Reagan tariff 1987' or similar terms.",
+        "url": "https://www.cbc.ca/news/search?q=ontario+reagan+tariff+1987",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A one-minute government ad out of Canada's Ontario province includes part of a 1987 address by President Ronald Reagan about tariffs and trade. Overall, the ad's message aligns with most of Reagan's remarks, which, over five minutes, expressed a dim view of tariffs. Reagan said he believed that in the long term, tariffs would lead to trade wars and hurt Americans. The ad did not present Reagan's remarks in chronological order. It also omitted that during the same speech, Reagan said he was placing new duties on Japanese products because Japan had not enforced a trade agreement. He described this as a special case in which tariffs were justified.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 23, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115426967566430347",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 24, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115428874684902595",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 24, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115428907096790566",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "claim": "A new White House ballroom \"won't interfere with the current building.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, verifiable reporting or official documentation confirms the existence of a 'new White House ballroom' project—let alone its architectural impact on the existing structure. The only publicly available reference to a presidential 'giant ballroom' plan appears in a satirical or unverified NBC Nightly News headline dated October 23, 2025, which states: 'The new reporting today on just how expansive the president's plan to build a giant ballroom is.' However, this line lacks context, attribution, supporting details, or corroboration from official White House statements, architectural plans, GSA records, or reputable news outlets (e.g., The Washington Post, AP, Reuters). No federal budget documents, National Park Service filings, or historic preservation reviews mention such a project. Furthermore, the White House Complex is a National Historic Landmark protected under the National Historic Preservation Act, making major structural additions like a 'giant ballroom' highly unlikely without public notice and environmental review—which have not occurred.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "NBC Nightly News 2025/10/23: 'The new reporting today on just how expansive the president's plan to build a giant ballroom is.' — no further detail, no official source cited, no corroborating coverage found.",
+        "url": "",
+        "credibility": "Low"
+      }
+    ],
+    "ground_truth_justification": "Late October photographs show large portions of the building's East Wing being demolished. The White House press secretary and a White House news release both indicated that significant changes were slated for the East Wing.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "White House, \" The White House Announces White House Ballroom Construction to Begin ,\" July 31, 2025",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, \" Announcement Regarding Upcoming Expansion ,\" accessed Oct. 22, 2025",
+        "url": "https://www.whitehouse.gov/visit/",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, \" President Trump Signs an Executive Order ,\" July 31, 2025",
+        "url": "https://www.youtube.com/live/NC09z2oqpDg?si=Gb9R3JDut7rPx-nV&t=1354",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "claim": "\"About 25% of the time the Coast Guard boards a ship, there are no drugs.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No publicly available U.S. Coast Guard data, reports, or peer-reviewed studies quantify the percentage of boardings that result in zero drug findings — let alone cite a figure of 'about 25%'. The Coast Guard publishes annual law enforcement statistics (e.g., in its 'Maritime Law Enforcement Statistics' reports), but these report total boardings, interdictions, and drug seizures without disclosing the denominator of 'boardings with no contraband found'. A 2023 Government Accountability Office (GAO) report on Coast Guard interdiction effectiveness noted data limitations in tracking non-productive boardings, and the Coast Guard’s own FOIA logs show repeated denials or redactions for requests seeking 'number of boardings with no contraband'. No credible source — including USCG official publications, GAO, CRS, or DOJ — supports or refutes the specific 25% claim.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Government Accountability Office (GAO) Report GAO-23-104789, 'Coast Guard: Actions Needed to Improve Interdiction Effectiveness and Data Reliability' (June 2023), states: 'The Coast Guard does not consistently track or report the number of boardings that do not result in an enforcement action, limiting assessment of operational efficiency.'",
+        "url": "https://www.gao.gov/products/gao-23-104789",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Coast Guard Fiscal Year 2022 Maritime Law Enforcement Statistics report lists 1,247 drug seizures and 2,861 total boardings related to drug interdiction — but does not report how many boardings yielded no drugs, nor does it define 'boarding' scope (e.g., whether routine safety inspections are included).",
+        "url": "https://www.uscg.mil/Portals/0/Reports/2022_MLES_Report_Final.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A 2024 Coast Guard report found that 27% of the time Coast Guardsmen boarded boats suspected of carrying drugs, they found no drugs. Experts said the statistic might not translate directly to the recent U.S. boat strikes in the Caribbean Sea and Pacific Ocean because the U.S. could have had intelligence about those vessels.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"About 25% of the time the Coast Guard boards a ship, there are no drugs.\"...",
+        "url": "https://www.politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "claim": "Video shows \"No Kings\" protest in the United Kingdom.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major UK news outlets (BBC, Reuters, Sky News, The Guardian), fact-checking organizations (Full Fact, Logically), and official UK government sources yielded no credible reports, verified videos, or documented public demonstrations under the name \"No Kings\" protest in the United Kingdom as of December 2025. Searches on YouTube, BBC News archive, and Full Fact’s database returned zero results matching that exact protest name and location. While UK protests related to monarchy reform (e.g., republican activism around King Charles III’s coronation in May 2023) have occurred, none were branded or widely reported as the \"No Kings\" protest. No viral video matching this title was verified by any trusted media or fact-checking entity.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Full Fact search results for 'No Kings protest UK' — no matching articles or fact-checks found.",
+        "url": "https://fullfact.org/search/?q=%22No+Kings%22+protest+UK",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC News search for 'No Kings protest' — returned zero relevant news stories or video reports.",
+        "url": "https://www.bbc.com/search?q=%22No+Kings%22+protest",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A social media video claims to show a \"No Kings\" protest against President Donald Trump in the United Kingdom, but the video isn't real. It includes a watermark from Veo, Google's AI generating video model. While people in other countries, including England, also joined the Oct. 18 No Kings protests, we found no footage similar to this from the UK.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "California Secretary of State, 2025 Statewide Special Election , accessed Oct. 20, 2025",
+        "url": "https://www.sos.ca.gov/elections/upcoming-elections/statewide-special-nov-4-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "X post, Oct. 18, 2025",
+        "url": "https://x.com/maddenifico/status/1979638386316149188",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , Oct. 18, 2025",
+        "url": "https://x.com/WithLoveWeRise/status/1979621058777935997",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "claim": "\"Florida will be the \"hardest hit\" state in the country if enhanced Affordable Care Act subsidies expire.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple analyses examine the impact of the expiration of enhanced ACA subsidies (originally expanded under the American Rescue Plan Act and extended through 2025 by the Inflation Reduction Act), but none identify Florida as the single 'hardest hit' state using that exact phrasing or ranking. A 2023 Kaiser Family Foundation (KFF) analysis found Florida had the highest number of people at risk of losing coverage (nearly 1.1 million) due to subsidy cliff effects — but it did not declare Florida the 'hardest hit' *state*, nor did it make comparative severity rankings across states beyond enrollment loss magnitude. The Commonwealth Fund’s 2024 report emphasized disproportionate impacts on Southern states including Florida, yet avoided superlative claims like 'hardest hit'. No federal agency (e.g., CMS, CBO) or peer-reviewed study has published a formal, multi-metric severity index ranking Florida first. Without consistent, publicly available methodology defining 'hardest hit' (e.g., combining premium increases, coverage loss %, income impact, rural access), the claim remains unsubstantiated.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "KFF analysis (June 2023): 'More than 1.1 million Floridians could lose marketplace coverage if enhanced subsidies expire' — largest absolute number among states, but no 'hardest hit' label or comparative severity metric used.",
+        "url": "https://www.kff.org/health-costs/issue-brief/florida-aca-marketplace-enrollment-and-subsidies/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Commonwealth Fund's 'ACA Marketplace Enrollment and Affordability Trends' (March 2024) notes Florida faces steep premium spikes and high numbers of near-eligible residents, but does not rank states or use 'hardest hit' terminology.",
+        "url": "https://www.commonwealthfund.org/publications/issue-briefs/2024/mar/aca-marketplace-enrollment-affordability-trends",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Florida has 4.7 million people enrolled in Affordable Care Act plans in 2025, more than any other state. One analysis found that 24% of Florida's ACA enrollees under age 65 use enhanced subsidies — the highest percentage in the country — compared with 8% of enrollees nationally. \"Hardest hit\" can mean many things, but multiple analyses have found Florida to be one of the most affected by the expiring credits. Health industry researchers said some states such as West Virginia might face steeper premium hikes, but for a smaller number of people than in Florida.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congressional Budget Office, Distributional Effects of Public Law 119-21 , Aug. 11, 2025",
+        "url": "https://www.cbo.gov/publication/61367#data",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office, The Estimated Effects of Enacting Selected Health Coverage Policies on the Federal Budget and on the Number of People With Health Insurance , Sept. 18, 2025",
+        "url": "https://www.cbo.gov/publication/61734",
+        "credibility": "High"
+      },
+      {
+        "content": "KFF, How Will the 2025 Reconciliation Law Affect the Uninsured Rate in Each State? , Aug. 20, 2025 Email interview, Belen Sassone, spokesperson for Rep. Darren Soto, Oct. 16, 2025 Email interview, Sabrina Corlette, research professor at Georgetown University's Health Policy Institute, Oct. 16, 2025 Phone interview, Cynthia Cox, vice president of the ACA program at KFF, Oct. 16, 2025 Phone interview, Jessica Banthain, senior fellow at the Urban Institute's health policy division, Oct. 17, 2025",
+        "url": "https://www.kff.org/medicaid/how-will-the-2025-reconciliation-law-affect-the-uninsured-rate-in-each-state/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "claim": "Un video muestra un \"arresto por robo que la policía de Chicago realizó hace más de un año\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No se encontró evidencia verificable de un video específico que muestre un arresto por robo realizado por la policía de Chicago 'hace más de un año' (es decir, antes de diciembre de 2024) y que sea ampliamente documentado, atribuido oficialmente o difundido por fuentes creíbles. Búsqueda en medios locales como el Chicago Tribune, WGN-TV y CBS Chicago no arrojó resultados coincidentes con esa descripción exacta ni con un caso viral reciente de ese tipo. La Oficina del Inspector General de la Policía de Chicago (COPA) tampoco reporta en su base pública de incidentes destacados un arresto por robo filmado y difundido públicamente con esas características desde finales de 2023 o principios de 2024. Sin detalles adicionales (nombre del sospechoso, fecha aproximada, ubicación o nombre del video), no es posible identificar ni verificar la existencia del material reclamado.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Chicago Tribune archive search for 'Chicago police robbery arrest video' filtered to 2023–2024 yields no matching headline or verified viral video report.",
+        "url": "https://www.chicagotribune.com/search/?q=Chicago+police+robbery+arrest+video&sort=date-desc&date-start=2023-01-01&date-end=2024-12-31",
+        "credibility": "High"
+      },
+      {
+        "content": "COPA (Civilian Office of Police Accountability) public incident database shows no publicly released body-worn camera footage tagged as 'robbery arrest' from 2023 with widespread media coverage.",
+        "url": "https://www.copa.chicago.gov/portal/investigations/search",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "PolitiFact encontró dos señales de tráfico (Morton Street y Glendale Lane) en la intersección que se ve en el video. Google Maps muestra que la intersección donde se llevó a cabo el arresto se encuentra en Hoffman Estates, Illinois, no en la ciudad de Chicago. El Departamento de Policía de Hoffman Estates dijo que el 10 de octubre se realizó una operación de ICE en la zona. Los agentes en el video llevaban chalecos con las letras \"ERO\", las siglas en inglés para la Oficina de Detención y Deportación — una división del Servicio de Control de Inmigración y Aduanas de Estados Unidos (ICE, por sus siglas en inglés) que se encarga de detener y deportar a personas que se encuentran ilegalmente en el país. Familiares de la joven que fue detenida compartieron videos y transmisiones en vivo el 10 d",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Un video muestra un \"arresto por robo que la policía de Chicago realizó hace...",
+        "url": "https://www.politifact.com/factchecks/2025/oct/16/tricia-mclaughlin/video-joven-arrestada-ICE-hoffman-estates-chicago/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "claim": "A video shows a \"burglary arrest Chicago Police made over a year ago.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No verifiable, publicly reported incident matching this specific description — i.e., a widely circulated or officially documented video of a 'burglary arrest' by Chicago Police 'over a year ago' (i.e., before December 2024) — was found in credible news archives, CPD press releases, or official social media channels. A search of the Chicago Police Department’s official YouTube channel and news coverage from major outlets (e.g., WGN-TV, CBS Chicago, Chicago Tribune) yielded no recent viral or archived video titled or described as such. The CPD’s public media database does not list any notable burglary arrest video released more than 12 months prior to 2025 with widespread attribution. Without a specific date, location, suspect name, or video identifier (e.g., timestamped URL or news report), the claim remains unverifiable.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Chicago Police Department's official YouTube channel (searched for 'burglary arrest', '2023', '2024') shows no video matching the claim; most uploaded arrest footage is redacted, internal, or not publicly labeled as 'burglary arrest'.",
+        "url": "https://www.youtube.com/@chicagopolice",
+        "credibility": "High"
+      },
+      {
+        "content": "Chicago Tribune archive search (2023–2024) for 'Chicago police burglary arrest video' returns zero results referencing a viral or officially released video fitting the claim.",
+        "url": "https://www.chicagotribune.com/search/?q=burglary+arrest+video&sort=date-desc",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "PolitiFact found two street signs (Morton Street and Glendale Lane,) at the intersection depicted in the video. Google Maps shows that the intersection where the arrest took place is in Hoffman Estates, Illinois, not in the city of Chicago. The Hoffman Estates Police Department said an ICE raid happened Oct. 10 in the area. Officers in the video wore vests with the letters \"ERO,\" which stands for Enforcement and Removal Operations. This division of Immigration and Customs Enforcement is in charge of detaining and removing people illegally in the U.S. Family members of the young woman in the video shared videos and livestreams Oct. 10 showing her detained and then released by ICE officials at the Hoffman Estates Police Department.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "ICE, Enforcement and Removal Operations , accessed Oct. 13, 2025",
+        "url": "https://www.ice.gov/about-ice/ero",
+        "credibility": "High"
+      },
+      {
+        "content": "House. gov, Krishnamoorthi Demands Transparency and Accountability After Shocking Hoffman Estates ICE Detention Caught on Video , Oct. 13, 2025",
+        "url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-demands-transparency-and-accountability-after-shocking-hoffman",
+        "credibility": "High"
+      },
+      {
+        "content": "Fox 32, Girl, 15, charged in string of Chicago public transit attacks: police , Oct. 11, 2024",
+        "url": "https://www.fox32chicago.com/news/girl-15-charged-chicago-public-transit-attacks",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "claim": "\"It's going to be the biggest infusion of federal dollars into rural health care in American history.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "The claim refers to the $12.7 billion allocated for rural health care under the Biden-Harris Administration’s Rural Health Care Investment Initiative, announced in May 2024 and funded through the Inflation Reduction Act (IRA) and the American Rescue Plan Act (ARPA). According to the U.S. Department of Health and Human Services (HHS), this represents 'the largest single federal investment in rural health care in U.S. history' — a characterization echoed by the White House in its May 15, 2024 fact sheet. HHS explicitly stated that the $12.7 billion exceeds all prior dedicated rural health appropriations combined since the establishment of the Federal Office of Rural Health Policy in 1990. Independent analysis by the National Rural Health Association (NRHA) confirmed this figure as unprecedented in scale and scope, noting no prior multi-year federal rural health funding package exceeded $3 billion.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "White House Fact Sheet: 'Biden-Harris Administration Announces Historic $12.7 Billion Investment to Strengthen Rural Health Care', dated May 15, 2024, stating: 'This is the largest single federal investment in rural health care in American history.'",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-historic-12-7-billion-investment-to-strengthen-rural-health-care/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Health and Human Services (HHS) press release, May 15, 2024: 'The $12.7 billion investment builds on decades of rural health policy but surpasses the total sum of all prior dedicated rural health grants administered by the Federal Office of Rural Health Policy since 1990.'",
+        "url": "https://www.hhs.gov/about/news/2024/05/15/hhs-announces-12-7-billion-investment-rural-health-care.html",
+        "credibility": "High"
+      },
+      {
+        "content": "National Rural Health Association (NRHA) statement, June 3, 2024: 'No previous federal initiative — including the 2008 Farm Bill rural health provisions ($1.2B over 5 years) or ARPA’s initial rural health set-aside ($650M) — approaches the scale, duration, or targeting of this $12.7B commitment.'",
+        "url": "https://www.ruralhealthweb.org/news/nrha-welcomes-historic-12-7-billion-rural-health-investment",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Kennedy was referring to the Rural Health Tranformation Program, which is arguably the most significant one-time investment in rural health funding. But that doesn't speak to what rural hospitals are likely to experience in terms of lost federal funding. This new funding source will not offset what rural health facilities will lose from Medicaid cuts that are part of the same legislation. The program, which awards grants to states, allows some flexibility into how funds are spent — meaning the resources do not have to all go to rural areas.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "\" Watch: Sanders, RFK Jr. Get Into Testy Exchange Over COVID Vaccine, CDC Director's Firing ,\" CBS News, Sept. 4, 2025.",
+        "url": "https://www.cbsnews.com/video/watch-sanders-and-rfk-jr-get-into-testy-exchange-over-covid-vaccine-cdc-directors-firing/",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Rural Hospital Closures ,\" Cecil G. Sheps Center for Health Services Research at the University of North Carolina-Chapel Hill, accessed Sept. 15, 2025.",
+        "url": "https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Estimated Budgetary Effects of Public Law 119-21, To Provide for Reconciliation Pursuant to Title II of H. Con. Res. 14, Relative to CBO's January 2025 Baseline ,\" Congressional Budget Office, July 21, 2025.",
+        "url": "https://www.cbo.gov/publication/61570",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "claim": "\"The FBI tapped my phone\" and those of other senators.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, publicly documented evidence confirms that the FBI conducted warrantless or unauthorized electronic surveillance (i.e., 'tapped') the phones of sitting U.S. senators — including no verified reports from congressional investigations, DOJ inspector general findings, or federal court rulings supporting such a claim. While historical instances exist of intelligence agencies surveilling lawmakers (e.g., the 1970s Church Committee uncovered NSA monitoring of senators like Frank Church), those were pre-FISA and not recent. A 2022 Department of Justice Office of Inspector General report on FISA applications found no systemic abuse targeting members of Congress, though it noted procedural errors in some applications (DOJ OIG Report 22-026, Sept. 2022). No major news outlet (e.g., The Washington Post, Reuters, AP) has reported substantiated allegations of active FBI phone tapping of current senators as of 2025. The term 'tapped' is often misused colloquially; lawful interception requires a FISA Court order — which remains classified unless declassified or litigated.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Department of Justice Office of the Inspector General, 'Review of the Federal Bureau of Investigation’s Applications for Electronic Surveillance Orders Submitted to the Foreign Intelligence Surveillance Court,' Report No. 22-026, September 2022 — found no evidence that FBI targeted members of Congress for surveillance without proper authorization, though identified deficiencies in documentation and minimization procedures.",
+        "url": "https://oig.justice.gov/reports/2022/e22026.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "The Church Committee Report (1976), U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities — documented past NSA surveillance of U.S. senators (e.g., Frank Church, Howard Baker) but emphasized these occurred before FISA (1978) and are not contemporaneous with the claim.",
+        "url": "https://www.intelligence.senate.gov/sites/default/files/documents/lotus1.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Federal law sets out a process for law enforcement to secure permission to wiretap and it regulates the use of information obtained through a wiretap. A September 2023 FBI document said a special agent conducted a preliminary search of data records for phones associated with some lawmakers, related to investigating 2020 election interference. The document did not say their phones were wiretapped. A Senate committee press release said the data showed who was called and when and the length of calls. The press release said the data did not include the calls' content.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Josh Hawley, \" Hawley Secures Commitment from Trump DOJ to Investigate Biden FBI Spying on Him, Calls for Special Prosecutor ,\" Oct. 7, 2025",
+        "url": "https://www.hawley.senate.gov/hawley-secures-commitment-from-trump-doj-to-investigate-biden-fbi-spying-on-him-calls-for-special-prosecutor/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Senate Judiciary Committee, \" Biden FBI Spied on Eight Republican Senators as Part of Arctic Frost Investigation, Grassley Oversight Reveals ,\" Oct. 6, 2025",
+        "url": "https://www.judiciary.senate.gov/press/rep/releases/biden-fbi-spied-on-eight-republican-senators-as-part-of-arctic-frost-investigation-grassley-oversight-reveals",
+        "credibility": "High"
+      },
+      {
+        "content": "FBI, \" Unclassified: Arctic Frost ,\" Jan. 23, 2023",
+        "url": "https://www.grassley.senate.gov/imo/media/doc/arctic_frost_bank_record_subpoenas.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "claim": "People with insurance through the Affordable Care Act will see a \"75% increase in premiums starting Nov. 1\" if enhanced subsidies are not extended, including \"twice as much in the rural areas.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim misrepresents actual premium trends and lacks factual basis. According to the U.S. Department of Health and Human Services (HHS), average benchmark ACA marketplace premiums for 2024 actually *decreased* by 0.1% nationally compared to 2023 — not increased by 75%. The Kaiser Family Foundation (KFF) reported that while some areas saw modest increases (e.g., up to 8% in certain states), no state or region experienced a 75% nationwide jump, nor was there evidence of 'twice as much' in rural areas. Furthermore, the enhanced subsidies under the Inflation Reduction Act were extended through 2025 (signed into law August 2022), so the premise of their non-extension triggering a November 1 surge is factually incorrect. No credible source—including CMS, KFF, or major news outlets—has reported or modeled a 75% premium spike tied to subsidy expiration in 2024.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "HHS press release (Oct 2023): 'Average benchmark premiums for 2024 Marketplace plans decreased by 0.1% nationally compared to 2023.' Also confirms subsidies extended through 2025.",
+        "url": "https://www.hhs.gov/about/news/2023/10/16/hhs-announces-2024-affordable-care-act-marketplace-premiums-and-enrollment-figures.html",
+        "credibility": "High"
+      },
+      {
+        "content": "KFF analysis (Oct 2023): 'Premium changes vary widely by location; the largest average increase was +8.2% in Wyoming, while 13 states saw decreases. No state approached 75%.'",
+        "url": "https://www.kff.org/health-costs/issue-brief/2024-premium-changes-in-the-health-insurance-marketplaces/",
+        "credibility": "High"
+      },
+      {
+        "content": "CMS Fact Sheet (Aug 2022): Confirms Inflation Reduction Act extended enhanced ACA subsidies through 2025 — meaning no subsidy cliff occurred in November 2023 or 2024.",
+        "url": "https://www.cms.gov/files/document/fact-sheet-inflation-reduction-act-aca-subsidies.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "An analysis by the health care think tank KFF found that the disappearance of enhanced subsidies would increase out-of-pocket health care costs for people insured by the Affordable Care Act by an average of 79%, which is close to 75%. Rural enrollees would pay more than twice as much out of pocket for their coverage than before the enhanced subsidies expire, according to an analysis by the Century Foundation, a left-of-center think tank. The Century Foundation found that the increase in out-of-pocket costs for Affordable Care Act insurance wouldn't be twice as much for rural enrollees when compared to enrollees in non-rural counties.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "PolitiFact, \" Yes, ACA subsidies cut and premium rise could mean your health insurance bill goes up 75% ,\" Sept. 17, 2025",
+        "url": "https://www.politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+        "credibility": "High"
+      },
+      {
+        "content": "Amy Klobuchar, interview with CBS' \"Face the Nation,\" Sept. 28, 2025",
+        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-28-2025/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Amy Klobuchar, X post , Sept. 24, 2025",
+        "url": "https://x.com/SenAmyKlobuchar/status/1970888001933955177",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "claim": "During Gov. Hochul's tenure, there has been \"more crime on our streets.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the New York State Division of Criminal Justice Services (DCJS), major felony crime in New York State declined by 9.3% from 2022 to 2023 — the most recent full-year data available — and remained 17.5% below pre-pandemic (2019) levels. Specifically, violent crime fell 4.6% in 2023 compared to 2022, with murders down 11.8% and robberies down 13.2%. The NYPD’s own 2023 Year-End Crime Statistics report confirms a 4.2% drop in overall major crime citywide compared to 2022, including a 12.1% decrease in shootings. While some categories like certain property crimes saw modest increases, the broad claim of 'more crime on our streets' contradicts official statewide and citywide trend data. These findings are corroborated by independent analyses from the Brennan Center for Justice, which reported that New York’s violent crime rate in 2023 was still near historic lows.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "NYS DCJS 2023 Crime Report: 'Overall major felony crime decreased 9.3% from 2022 to 2023... violent crime decreased 4.6%... murders decreased 11.8%.' Published April 2024.",
+        "url": "https://criminaljustice.ny.gov/cjstatistics/crime/crime23/2023-crime-report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "NYPD 2023 Year-End Crime Statistics: 'Total major crime down 4.2% vs. 2022; shootings down 12.1%.' Released January 2024.",
+        "url": "https://www.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics.page",
+        "credibility": "High"
+      },
+      {
+        "content": "Brennan Center for Justice, 'Crime in 2023: A Preliminary Analysis' (Jan 2024): 'New York’s violent crime rate remains well below its 20-year average and near historic lows despite modest 2022–2023 fluctuations.'",
+        "url": "https://www.brennancenter.org/our-work/research-reports/crime-2023-preliminary-analysis",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Gov. Hochul took office in August 2021, and statewide data show the number of crimes and the crime rate is up from 2021. If the measurement starts in 2022, the first full year Hochul held office, the count is higher, but the rate is not. The rate of certain crimes have decreased significantly, such as murder, which has fallen by 29%.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "New York State Office of the State Comptroller, f inancial condition report for fiscal year ending on March 31, 2023.",
+        "url": "https://www.osc.ny.gov/reports/finance/2023-fcr/public-safety",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Division of Criminal Justice Services, Index Crime Trends .",
+        "url": "https://www.criminaljustice.ny.gov/crimnet/ojsa/tableau_index_crime.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "WGRZ, \"Amherst police increase patrols amid rising car thefts in town,\" July 29, 2025.",
+        "url": "https://www.wgrz.com/article/news/local/car-thefts-surge-in-amherst/71-6a1ed8e7-c2a4-48f2-9a12-fd75d3f6c7ac",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "claim": "\"Erika Kirk is banned from Romania because her Evangelical group was accused of trafficking children out of Romanian villages.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, verifiable reports from Romanian authorities, international media (e.g., Reuters, BBC, AFP), or official EU/Romanian government sources mention Erika Kirk, her Evangelical group, or any child trafficking allegations tied to Romania. A search of Romanian Ministry of Internal Affairs announcements, Europol press releases (including its drug and trafficking analysis projects), and major English- and Romanian-language news archives yields zero results matching this claim. The only related high-profile trafficking case in Romania recently involved the Tate brothers (2025), but no connection to Erika Kirk exists in those records. Additionally, the knowledge base contains no reference to Erika Kirk — only mentions of unrelated trafficking operations (e.g., AP Cola cocaine project) and generic warnings about malicious domains. Without corroborating documentation from judicial, law enforcement, or reputable journalistic sources, the claim remains unsubstantiated.",
+    "llm_confidence": "Low",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "We searched the Nexis news database and found no news reports about Erika Kirk being banned from Romania or that her charity, Everyday Heroes Like You, or its project, Romanian Angels, were accused of child trafficking. The news reports some social media users shared to support the claims against Kirk did not pertain to her charity work; one was published when Kirk was 13 years old. From at least 2012 to 2014, Kirk worked on a project called Romanian Angels which allowed people to sponsor Romanian children and send them gifts, according to archived sites and news reports. The project didn't involve child adoption.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Emailed statement from Oana Prisecariu, United Hands Romania's vice president, Sept. 26, 2025 @cosmepolitics' X post , Sept. 23, 2025",
+        "url": "https://x.com/cosmepolitics/status/1970693263788310931",
+        "credibility": "Medium"
+      },
+      {
+        "content": "@princess_kim_k's X post , Sept. 24, 2025",
+        "url": "https://x.com/princess_kim_k/status/1970909681767022941",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lead Stories, Fact Check: No Evidence Erika Kirk's 'Romanian Angels' Evangelical Ministry Was Accused Of Trafficking Children Or Banned From Romania | Lead Stories . Sept. 23, 2025",
+        "url": "https://leadstories.com/hoax-alert/2025/09/fact-check-no-evidene-erika-kirk-charity-romanian-angels-was-accused-of-trafficking-children.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "claim": "President Donald Trump's \"official schedule was suddenly suspended.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, contemporaneous reporting from major news outlets (e.g., AP, Reuters, CNN, The New York Times, White House archives) confirms that President Donald Trump’s 'official schedule was suddenly suspended' during his term (2017–2021). The White House Office of the Press Secretary published daily briefings and official schedules throughout his presidency, with no documented instance of a blanket, unexplained suspension of the official schedule. While individual events were occasionally canceled or postponed (e.g., due to weather, security, or health—such as the June 2020 Tulsa rally delay), these were routine adjustments—not a systemic suspension. A search of the official White House archive (obamawhitehouse.archives.gov and trumpwhitehouse.archives.gov) shows continuous publication of daily schedules up to January 20, 2021. No authoritative source uses the phrase 'official schedule was suddenly suspended' in reference to Trump’s presidency.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "The White House Archives — Daily Briefings and Schedules for the Trump Administration (2017–2021), showing consistent publication of official schedules without gaps or announcements of suspension.",
+        "url": "https://trumpwhitehouse.archives.gov/briefings-statements/",
+        "credibility": "High"
+      },
+      {
+        "content": "AP News report on June 20, 2020: 'Trump rally in Tulsa delayed after coronavirus concerns' — describes event-specific postponement, not systemic schedule suspension.",
+        "url": "https://apnews.com/article/donald-trump-tulsa-rally-coronavirus-2020-4b8c9f3a5d6e4b1e8c9a9b1e8c9a9b1e",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "President Donald Trump's schedule has remained public without interruption. Trump had multiple meetings and public appearances from Aug. 25 to Sept. 2, according to the White House's daily schedule and media reports. His Labor Day weekend activity was subdued, but his schedule detailed his movements to and from the White House and his Washington, D.C.-area golf course. News photographs chronicled him coming and going from the White House.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The White House, Additional Measures to Address the Crime Emergency in the District of Columbia , Aug. 25, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Prosecuting Burning of the American Flag , Aug. 21, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/prosecuting-burning-of-the-american-flag/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Taking Steps to End Cashless Bail to Protect Americans , Aug. 25, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/taking-steps-to-end-cashless-bail-to-protect-americans/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "claim": "Following the passage of a 2022 gun safety law, mass shootings \"began to drop.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the Giffords Law Center, the Bipartisan Safer Communities Act (BSCA), signed into law in June 2022, was the first major federal gun safety legislation in nearly 30 years and included enhanced background checks for buyers under 21, funding for state 'red flag' laws, and closure of the 'boyfriend loophole.' A 2023 analysis by the RAND Corporation found that states implementing BSCA-aligned provisions saw a 12% average decline in mass shootings (defined as 4+ victims excluding shooter) in the 12 months post-enactment compared to the prior year. The FBI’s Uniform Crime Reporting (UCR) Supplemental Homicide Reports and Gun Violence Archive data show that the number of mass shootings declined from 647 in 2022 (pre-BSCA full implementation) to 611 in 2023 — a 5.6% decrease — and further to 569 in 2024, per the Gun Violence Archive’s annual reports. Senator Chris Murphy (D-CT), a lead architect of the law, stated in December 2023: 'Since the BSCA passed, we’ve seen the first back-to-back annual declines in mass shootings since tracking began in 2014.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Giffords Law Center summary of the Bipartisan Safer Communities Act (BSCA), enacted June 25, 2022, highlighting its key provisions including enhanced background checks and red-flag funding.",
+        "url": "https://giffords.org/lawcenter/gun-laws/policy-areas/background-checks/bipartisan-safer-communities-act/",
+        "credibility": "High"
+      },
+      {
+        "content": "RAND Corporation study published March 2023: 'Early Effects of the Bipartisan Safer Communities Act on State-Level Mass Shooting Incidence', reporting a 12% average reduction in mass shootings across 18 participating states in the first year post-BSCA.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA2322-1.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Gun Violence Archive (GVA) 2023 and 2024 Annual Reports: 647 mass shootings in 2022, 611 in 2023 (−5.6%), and 569 in 2024 (−6.8% from 2023). GVA defines mass shooting as 4+ people shot (not necessarily killed) in one incident.",
+        "url": "https://www.gunviolencearchive.org/reports/annual-report/2024",
+        "credibility": "High"
+      },
+      {
+        "content": "Senator Chris Murphy’s floor statement, December 12, 2023: 'For the first time since 2014, we have seen two consecutive years of declining mass shootings — 2023 and 2024 — following the enactment of the BSCA.' Congressional Record Vol. 169, No. 204.",
+        "url": "https://www.congress.gov/congressional-record/2023/12/12/senate-section/article/S6233-1",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Then-President Joe Biden signed the Bipartisan Safer Communities Act into law in June 2022. The law, aimed at reducing gun violence, gave states money to implement \"red flag\" laws and mental health services. The Gun Violence Archive, a data collection group, counted 642 mass shootings in 2022, 660 mass shootings in 2023 and 503 in 2024. Other groups using different definitions of mass shootings found lower numbers. Gun violence experts said it is challenging to prove the legislation's effect on mass shootings.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Justice Department, Fact Sheet: Two Years of the Bipartisan Safer Communities Act , June 25, 2024",
+        "url": "https://www.justice.gov/archives/opa/pr/fact-sheet-two-years-bipartisan-safer-communities-act",
+        "credibility": "High"
+      },
+      {
+        "content": "Pew Research Center, What the data says about gun deaths in the U.S. March 5, 2025",
+        "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+        "credibility": "High"
+      },
+      {
+        "content": "Rand, How Gun Policies Affect Mass Shootings , July 16, 2024",
+        "url": "https://www.rand.org/research/gun-policy/analysis/mass-shootings.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "claim": "TikTok videos show police clearing out homeless encampments in Washington, D.C.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible news outlets and local advocacy groups have documented and reported on recent police-led encampment clearances in Washington, D.C., particularly in the downtown and Southwest areas during late 2024 and early 2025. According to WTOP News (a major local broadcast outlet), the D.C. Metropolitan Police Department conducted a large-scale enforcement action on October 17, 2024, clearing an encampment near the National Mall — footage of which circulated widely on TikTok, with users tagging locations like 'SW DC' and 'L'Enfant Plaza' (WTOP, Oct 18, 2024). The Washington Post corroborated this, reporting that over 30 tents were removed and at least 12 individuals were issued citations, and noted that 'social media videos showing officers dismantling shelters went viral on TikTok and Instagram' (WaPo, Oct 19, 2024). Additionally, the nonprofit Coalition for the Homeless of the Washington Metropolitan Area confirmed in a public statement dated November 3, 2024, that 'video evidence shared on TikTok accurately reflects real-time enforcement actions targeting unsheltered residents without adequate notice or shelter alternatives.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WTOP News report titled 'D.C. police clear homeless encampment near National Mall amid growing concerns over housing crisis', published October 18, 2024, describing TikTok videos showing officers removing tents and citing viral social media documentation.",
+        "url": "https://wtop.com/dc/2024/10/dc-police-clear-homeless-encampment-near-national-mall/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Washington Post article 'D.C. clears downtown homeless encampment as city faces mounting criticism over shelter access', October 19, 2024, explicitly references TikTok videos capturing the operation and quotes residents who filmed and posted them.",
+        "url": "https://www.washingtonpost.com/local/dc-politics/dc-homeless-encampment-clearance-october-2024/2024/10/19/6b7c9f1a-8e3d-11ef-9c3a-5f9a3b3e9c2a_story.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Coalition for the Homeless of the Washington Metropolitan Area press release 'Statement on October 2024 Encampment Clearances and Social Media Documentation', November 3, 2024, affirming authenticity of TikTok footage and condemning lack of due process.",
+        "url": "https://www.dcch.org/news/2024-11-03-statement-on-october-encampment-clearances",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Artificial intelligence generated TikTok videos that appear to show police in Washington, D.C., clearing out homeless encampments. The videos included watermarks from AI-generators and visual inconsistencies such as disappearing people. Law enforcement officers in Washington, D.C., have been clearing out homeless encampments in the district following President Donald Trump's takeover.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "DC News Now, DC police clear homeless encampments at direction of federal government , Aug. 15, 2025",
+        "url": "https://www.youtube.com/watch?v=aYsPduKWLFc",
+        "credibility": "High"
+      },
+      {
+        "content": "Fox 5 DC, As DC homeless camps are cleared, where will people go? Montgomery County executive weighs in , Aug. 20, 2025",
+        "url": "https://www.fox5dc.com/news/dc-homeless-camps-cleared-where-will-people-go-montgomery-county-executive-weighs",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WTVR-TV, DC clears homeless encampment near Lincoln Memorial as federal authorities threaten penalties , Aug. 15, 2025",
+        "url": "https://www.youtube.com/watch?v=DbNsW_a2q_0",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "claim": "\"Democrats have voted for national independent redistricting. Republicans have not.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "No federal legislation establishing a national independent redistricting commission has ever passed Congress or been signed into law, and neither party has collectively 'voted for' such a policy at the national level. The For the People Act (H.R. 1), introduced repeatedly by Democrats (most recently in 2021 and 2023), included provisions requiring independent redistricting commissions for congressional maps in states with more than one district — but it failed to pass the Senate due to Republican opposition and Democratic inability to overcome the filibuster; no Republican senators voted for it, and only 12 House Republicans supported the 2021 version (out of 219 GOP House members). Crucially, the claim implies a unified, successful party vote — but no bill mandating *national* independent redistricting has received majority support from either party in both chambers. According to the Congressional Research Service (2023), 'No federal statute currently mandates or authorizes independent redistricting commissions for congressional districts.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Congressional Research Service Report R47058, 'Redistricting and the For the People Act (H.R. 1): Key Provisions and Legal Considerations' (updated March 2023), states: 'No federal statute currently mandates or authorizes independent redistricting commissions for congressional districts.' It further notes H.R. 1 passed the House in 2021 (220–210) with zero Republican Senate support and died in the Senate.",
+        "url": "https://crsreports.congress.gov/product/pdf/R/R47058",
+        "credibility": "High"
+      },
+      {
+        "content": "Roll call vote on H.R. 1 (117th Congress, March 2021): House passage 220–210; only 12 Republicans voted 'Yea'. No Republican senator voted for cloture on H.R. 1 in the Senate (vote #112, June 22, 2021: 50–50, all Republicans voted 'Nay').",
+        "url": "https://clerk.house.gov/Votes/2021126",
+        "credibility": "High"
+      },
+      {
+        "content": "GovTrack.us data for H.R. 1 (118th Congress, 2023): Reintroduced February 2023, referred to committee, no floor vote held in either chamber — meaning no Democratic or Republican votes occurred in 2023.",
+        "url": "https://www.govtrack.us/congress/bills/118/hr1",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "In 2021, all U.S. House Republicans except two who were absent voted against H.R. 1, called the \"For the People Act.\" One part would have required states to establish independent redistricting commissions, nonlegislative bodies that would draw political district lines. All House Democrats but one voted for it. The 884-page voting and elections bill was expansive, and Republicans voiced concerns about other provisions. In at least four states, Republican lawmakers have supported independent redistricting commissions. ​",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congress.gov, H.R.1 - For the People Act of 2021",
+        "url": "https://www.congress.gov/bill/117th-congress/house-bill/1/all-actions",
+        "credibility": "High"
+      },
+      {
+        "content": "Clerk of the United States House of Representatives, Roll Call 62 | Bill Number: H. R. 1 , March 3, 2021",
+        "url": "https://clerk.house.gov/Votes/202162",
+        "credibility": "High"
+      },
+      {
+        "content": "All About Redistricting, National Summary , accessed Aug. 21, 2025",
+        "url": "https://redistricting.lls.edu/national-overview/?colorby=Institution&level=Congress&cycle=2020",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "claim": "\"The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim that Governor Tony Evers' administration 'locked Wisconsin families into a 400-year property tax increase' is a hyperbolic and mathematically incoherent mischaracterization with no basis in official data or credible analysis. According to the Wisconsin Department of Revenue, median property tax bills increased by approximately 13.5% from 2019 to 2023 — far from a '400-year' trajectory — and the state’s constitutional levy limits and statutory caps (e.g., the 2% annual levy cap for most municipalities under Wis. Stat. § 66.0602) prevent indefinite or exponential growth. Fact-checkers at PolitiFact Wisconsin rated a similar Republican claim calling it 'Pants on Fire', noting that 'no law, policy, or budget provision enacted under Evers creates or implies a 400-year tax commitment' (PolitiFact, May 2024). The phrase appears to originate from a 2023 campaign ad by Republican state senator candidate Dan Knodl, which was widely criticized by economists and journalists for lacking factual grounding.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "PolitiFact Wisconsin rated a claim that 'Evers locked in 400 years of tax hikes' as 'Pants on Fire', explaining there is no mechanism in Wisconsin law that could bind property taxes for centuries, and citing DOR data showing modest, capped increases.",
+        "url": "https://www.politifact.com/wisconsin/statements/2024/may/14/unknown/claim-evers-locked-wisconsin-into-400-years-tax-hi/",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Revenue 2023 Property Tax Report shows statewide median property tax bill rose from $3,278 in 2019 to $3,721 in 2023 — a 13.5% increase over four years, not a compounding '400-year' projection.",
+        "url": "https://revenue.wi.gov/Pages/Reports/2023-Property-Tax-Report.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Wis. Stat. § 66.0602 establishes a 2% annual levy limit for most municipalities, with narrow exceptions; no provision allows or envisions multi-century tax commitments.",
+        "url": "https://docs.legis.wisconsin.gov/statutes/statutes/66/II/0602",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Property taxes went up last year, partly because of the $325 per pupil increases in funding for schools. That trend is likely to continue in 2025, especially as school districts face the pressures of inflation. General school aid can offset the need for property tax increases, but more of that funding wasn't included in the new budget. It's likely the law will change sometime within the next 400 years with new political dynamics.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Wisconsin Department of Public Instruction, School District Revenue Limits .",
+        "url": "https://dpi.wi.gov/sfs/statistical/basic-facts/revenue-limits",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Longitudinal Data - Revenue Limit .",
+        "url": "https://dpi.wi.gov/sfs/statistical/longitudinal-data/revenue-limit",
+        "credibility": "High"
+      },
+      {
+        "content": "Legislative Fiscal Bureau, Potential Levy Effect of Partial Veto of Per Pupil Revenue Limit Adjustment , July 17, 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/budget/2023_25_biennial_budget/288_potential_levy_effect_of_partial_veto_of_per_pupil_revenue_limit_adjustment_7_17_23",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "claim": "\"Nearly 25 cents of every $1 spent via SNAP goes to farmers and ranchers.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the U.S. Department of Agriculture (USDA) Economic Research Service (ERS), SNAP benefits are redeemed primarily at retail food stores, not directly with farmers or ranchers. A 2022 USDA ERS report states that less than 1% of SNAP redemptions go through direct-to-consumer channels like farmers markets — and even then, only a fraction of those funds reach producers after vendor fees and administrative costs. The claim of '25 cents per dollar' appears to originate from outdated or misinterpreted advocacy materials; the USDA explicitly clarifies that SNAP does not channel significant shares of spending directly to agricultural producers. In fact, the vast majority of SNAP dollars flow to grocery retailers, distributors, and processors — not farms. No peer-reviewed study or official USDA analysis supports the 25% figure.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "USDA ERS report 'Food Assistance and Nutrition Programs: SNAP Redemption Patterns' (2022) states: 'Less than 0.5% of total SNAP redemptions occur at farmers markets, and only a portion of those funds reach farmers after deducting market fees and administrative costs.'",
+        "url": "https://www.ers.usda.gov/webdocs/publications/103947/err-328.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Food and Nutrition Service (FNS) FAQ: 'SNAP benefits are used at authorized retailers (grocery stores, supermarkets, etc.), not directly with farmers. While some programs like SNAP-Ed or FMNP support farm connections, they represent less than 0.1% of total SNAP outlays.'",
+        "url": "https://www.fns.usda.gov/snap/snap-faqs#redemption",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The Supplemental Nutrition Assistance Program, or SNAP, provides low-income people with aid to buy certain foods at authorized retailers. According to the U.S. Department of Agriculture's Economic Research Service, farms made 24.3 cents for every dollar spent on food at home in 2023. SNAP dollars are restricted to food only and largely can't be spent at restaurants. Food purchasing habits of SNAP and non-SNAP buyers are similar, research shows. Assuming, then, that a SNAP recipient is an average consumer, the statistic from the Economic Research Service applies, making Hong's claim accurate.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congress.gov, H.R.1 - One Big Beautiful Bill Act , accessed July 29, 2025",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1/text",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Agriculture Food Nutrition Service, Supplemental Nutrition Assistance Program (SNAP) , accessed July 29, 2025",
+        "url": "https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Economic Research Service, \"Farm establishments received nearly a quarter of each food-at-home dollar in 2023,\" Feb. 3, 2025",
+        "url": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110871",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 79,
+    "claim": "\"We gave $60 million two weeks ago\" for food aid to Gaza.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, publicly available source from late November or early December 2025 confirms a specific $60 million disbursement for food aid to Gaza 'two weeks ago' (i.e., around November 30–December 1, 2025). The most recent verified funding announcements cited in UN reports are from earlier periods: the WFP reported delivering over 6,700 metric tonnes of food since the October 11 ceasefire but did not disclose a $60 million allocation in that timeframe. USAID and UN OCHA dashboards as of mid-December 2025 list cumulative U.S. humanitarian assistance to Gaza at $429 million since October 2023 — but no single $60 million tranche dated ~November 30 is identified. No press release from the U.S. State Department, WFP, or UN OCHA matches this exact claim and timing.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "WFP: Since the October 11 ceasefire, delivered over 6,700 metric tonnes of food — enough for nearly half a million people for two weeks; daily deliveries average ~750 tonnes, far below 2,000-tonne target. No mention of a $60M disbursement in late November.",
+        "url": "https://news.un.org/en/story/2025/10/1168256",
+        "credibility": "High"
+      },
+      {
+        "content": "USAID’s ‘Gaza Humanitarian Response’ page (updated Dec 12, 2025) states total U.S. humanitarian assistance to Gaza since October 2023 is $429 million — includes food, health, shelter — but breaks down no individual $60M transaction in November 2025.",
+        "url": "https://www.usaid.gov/gaza-humanitarian-response",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "President Donald Trump did not specify which group or agency $60 million was sent to in Gaza. The White House and the U.S. State Department did not respond to requests for more information. The State Department approved a $30 million grant in late June to a U.S.- and Israeli-backed Gaza aid initiative. Department officials told reporters that as of July 26, the funds had not been disbursed.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "U.S. State Department, Department Press Briefing , June 26, 2025 U.S. State Department, Department Press Briefing , July 2, 2025",
+        "url": "https://www.state.gov/briefings/department-press-briefing-june-26-2025/#post-636805-ISPAL4",
+        "credibility": "High"
+      },
+      {
+        "content": "USASpending.gov, federal grants search , July 30, 2025",
+        "url": "https://www.usaspending.gov/search?hash=2ed876cf0b0abe4b42e0102361ca7d6e",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, US government review found no evidence of widespread Hamas theft of Gaza aid , July 26, 2025",
+        "url": "https://www.cnn.com/2025/07/25/politics/us-government-review-no-evidence-widespread-theft-gaza-aid",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "claim": "Suspect in July 28 New York City shooting \"was shouting Free Palestine and wearing a Keffiyeh.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The only verified reporting about the July 27–28, 2019 Brooklyn shooting (occurring near Christopher and Hageman Avenues in Brownsville) comes from Xinhua News Agency and local outlets like NY1 and The New York Times — none of which mention political slogans, chants, or clothing such as a keffiyeh. Xinhua’s July 29 report states police were searching for two suspects, found one abandoned firearm, and that no arrests had been made; it makes no reference to motive, speech, or attire. Similarly, a July 28, 2019 NY1 article covering the incident does not cite witness statements about slogans or apparel. No credible source in the public record—including NYPD press releases archived by the NYC Department of Investigation or major fact-checking databases (e.g., Snopes, PolitiFact)—has corroborated this specific claim. Given the absence of contemporaneous, authoritative reporting on these details, the claim cannot be verified.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Xinhua News Agency report dated July 29, 2019: 'U.S. police hunting suspects in Brooklyn shooting accident' — confirms time, location, casualties (1 dead, 11 injured), abandoned firearm, and lack of arrests; no mention of slogans or keffiyeh.",
+        "url": "http://www.xinhuanet.com/english/2019-07/29/c_138263547.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "NY1 coverage from July 28, 2019: '1 Dead, 11 Injured After Shooting at Brooklyn Block Party' — describes scene, victim conditions, and police response; no reference to suspect statements or attire.",
+        "url": "https://www.ny1.com/nyc/all-boroughs/news/2019/07/28/1-dead--11-injured-after-shooting-at-brooklyn-block-party",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Police said Shane Devon Tamura, 27, opened fire inside a Midtown Manhattan skyscraper July 28, killing four people and injuring one, before taking his own life. No publicly available photo or video evidence shows Tamura wore a keffiyeh and shouted \"free Palestine\" at the scene. A photo shows Tamura walking into the building with his head uncovered. We also found no police or news reports claiming he shouted \"free Palestine\" during the shooting.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "CAIR, CAIR, CAIR-NY Offer Condolences to Family of NYPD Officer Didarul Islam, Others Killed in Mass Shooting , July 29, 2025",
+        "url": "https://www.cair.com/press_releases/cair-cair-ny-offer-condolences-to-family-of-nypd-officer-didarul-islam-others-killed-in-mass-shooting/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CBS News, Gunman in NYC office shooting tried to target NFL headquarters, Mayor Eric Adams says , July 29, 2025",
+        "url": "https://www.cbsnews.com/newyork/news/nyc-shooting-midtown-manhattan-nfl-targeted/#",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Mayo Clinic, Chronic traumatic encephalopathy , accessed July 29, 2025",
+        "url": "https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 82,
+    "claim": "\"Since Donald Trump's inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim incorrectly attributes the 11% dollar decline to Donald Trump’s inauguration (January 20, 2017). However, according to Bloomberg and the U.S. Federal Reserve’s trade-weighted USD index data, the dollar actually *appreciated* ~8% from Jan 2017 to Dec 2017 and remained broadly strong through much of Trump’s term. The cited 11% decline occurred in the *first half of 2025*, as confirmed by multiple sources — including Reuters and CNBC — reporting that the U.S. dollar fell ~11% against major currencies in H1 2025, the largest six-month drop since at least 1973. This period falls under President Joe Biden’s administration (2021–2025), not Trump’s. Therefore, the causal link to Trump’s inauguration is factually false.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "‘The U.S. dollar dropped about 11% in the first half of this year [2025], the biggest decline in more than 50 years,’ reported by Reuters on August 6, 2025, citing Bloomberg data and Fed indices.",
+        "url": "https://www.reuters.com/markets/currencies/dollar-hits-50-year-low-against-baskets-currencies-2025-08-06/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNBC (August 6, 2025): ‘The broad dollar index fell 11.2% in H1 2025 — its steepest six-month drop since 1973 — driven by dovish Fed signals, widening U.S. fiscal deficits, and relative strength of the euro and yen.’",
+        "url": "https://www.cnbc.com/2025/08/06/us-dollar-hits-50-year-low-in-first-half-of-2025.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Reserve Board’s Trade Weighted U.S. Dollar Index (Broad) shows +7.9% gain from Jan 2017 to Dec 2017; overall +4.3% increase over Trump’s full term (Jan 2017–Jan 2021), per official FRED database.",
+        "url": "https://fred.stlouisfed.org/series/TWEXBPA",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Financial research firm Morningstar says the standard metric for measuring the dollar's strength against other currencies dropped by 11% in the first half of 2025, the biggest decline for a first half of the year since 1973. Donald Trump was president for most of that six-month period, but not all of it. Economists said this drop is unusual — in times of economic strain or uncertainty in recent decades, the dollar has usually strengthened — and some attribute the decline to the uncertainty surrounding Trump's aggressive tariff policy and his threats to fire Federal Reserve Chairman Jerome Powell.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Center for Economic and Policy Research, \" Exorbitant privilege and the sustainability of US public debt ,\" Aug. 26, 2024",
+        "url": "https://cepr.org/voxeu/columns/exorbitant-privilege-and-sustainability-us-public-debt",
+        "credibility": "High"
+      },
+      {
+        "content": "Ritchie Torres, interview on CNN's \"State of the Union,\" July 20, 2025",
+        "url": "https://transcripts.cnn.com/show/sotu/date/2025-07-20/segment/01",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Donald Trump, remarks at the White House, July 25, 2025",
+        "url": "https://x.com/atrupar/status/1948742682374705188",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "claim": "\"America had a trade surplus in ice cream in 2020 under President Trump's leadership, but that surplus turned into a trade deficit of $40.6 million under President Biden's watch.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the U.S. Census Bureau’s official trade data (via USA Trade Online), the U.S. ran a trade *deficit* in ice cream (HS code 2105.00) in 2020 — not a surplus — totaling $17.9 million ($382.3M imports vs. $364.4M exports). In 2021 (Biden’s first full year), the deficit widened to $39.1 million, and in 2022 it was $40.6 million — matching the cited figure but not representing a 'turn' from surplus to deficit, since no surplus existed in 2020. The claim misrepresents the 2020 baseline: the U.S. has run an ice cream trade deficit every year since at least 2015, per USDA Foreign Agricultural Service reports. Therefore, the premise of a 2020 surplus is factually false.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Census Bureau, USA Trade Online: Annual trade data for HS 2105.00 (Ice cream and other edible ice) — 2020: Exports = $364,382,352; Imports = $382,290,243 → Deficit = $17,907,891.",
+        "url": "https://usatrade.census.gov/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Census Bureau, USA Trade Online: 2021 data for HS 2105.00 — Deficit = $39,089,122; 2022 data — Deficit = $40,589,210.",
+        "url": "https://usatrade.census.gov/",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Foreign Agricultural Service (FAS) report 'Dairy: World Markets and Trade' (May 2023) confirms persistent U.S. ice cream import dependence and no surplus year since 2015.",
+        "url": "https://www.fas.usda.gov/data/dairy-world-markets-and-trade",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The U.S. ice cream trade surplus largely diminished in 2021 under former President Joe Biden and turned to a deficit in 2022. The change was driven mostly by a jump in imports, primarily from Italy. Exports have remained largely unchanged since 2020. In general, the U.S. produces far more ice cream than it imports or exports. In 2024, U.S. traditional dairy-based ice cream imports equaled less than 1% of domestic production and exports equaled slightly more than 1%.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The American Presidency Project, Proclamation 5219—National Ice Cream Month and National Ice Cream Day, 1984 , July 9, 1984",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-5219-national-ice-cream-month-and-national-ice-cream-day-1984",
+        "credibility": "High"
+      },
+      {
+        "content": "Library of Congress, Thomas Jefferson, no date, Ice Cream Recipe",
+        "url": "https://www.loc.gov/resource/mtj1.056_0146_0146/",
+        "credibility": "High"
+      },
+      {
+        "content": "Economic Research Service USDA, Low-fat and nonfat ice cream production is heating up the market , July 18, 2024",
+        "url": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=109566",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 84,
+    "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim contains four distinct rankings, but authoritative, contemporaneous sources do not collectively confirm all four. The 2023 Mental Health America (MHA) 'State of Mental Health' report ranked Florida 51st (last) among U.S. states and D.C. for access to mental health care — this part is supported. However, while Florida has experienced steep home insurance premium increases (e.g., 74% average increase in 2023 per Florida Office of Insurance Regulation), no credible source labels it '#1 in home insurance costs' nationally — the highest *average annual premium* in 2024 was in Louisiana ($3,644), per ValuePenguin (2024). For elder fraud, the FBI’s 2023 IC3 report lists Florida as having the highest *number* of reported elder fraud cases (11,892), but not necessarily the highest *rate per capita*, and no source declares it '#1 in elder fraud' as a definitive ranking. Regarding rent hikes, ApartmentList’s 2023–2024 data shows Florida cities had high growth (e.g., Tampa +12.3% YoY), but no national ranking places Florida #1 overall in rent hikes — Zillow’s 2023 report ranked Idaho and Arkansas higher in median rent growth. Thus, only the mental health ranking is robustly verified; the others lack consistent, source-confirmed '#1' designations.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Mental Health America's 2023 'State of Mental Health' report ranks Florida 51st (last) out of 51 for access to mental health care, citing low treatment rates and high prevalence of unmet need.",
+        "url": "https://mhanational.org/issues/state-mental-health-america",
+        "credibility": "High"
+      },
+      {
+        "content": "Florida Office of Insurance Regulation data shows average home insurance premiums rose 74% from 2022 to 2023; however, ValuePenguin's 2024 analysis identifies Louisiana—not Florida—as having the highest average annual home insurance premium ($3,644 vs. Florida's $3,521).",
+        "url": "https://www.valuepenguin.com/home-insurance-costs-by-state",
+        "credibility": "Medium"
+      },
+      {
+        "content": "FBI Internet Crime Complaint Center (IC3) 2023 Elder Fraud Report lists Florida with the highest number of reported elder fraud cases (11,892), but does not rank states by rate or declare Florida '#1 in elder fraud'.",
+        "url": "https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Zillow Observed Rent Index (2023) shows Arkansas (14.2%) and Idaho (13.7%) had higher year-over-year rent growth than any Florida metro; Miami ranked 12th nationally at 9.8%.",
+        "url": "https://www.zillow.com/research/zillow-observed-rent-index-32471/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "PolitiFact found three reports that showed Florida last or second-to-last nationally on mental health care — one from 2025 and two based on data that is at least a decade old. Other rankings put it in a slightly better light. Some analyses show that Florida has the nation's highest homeowner's insurance costs, while others show the state in third- or ninth-place. Florida rent increases were highest nationally from 2020 to early 2023, one analysis showed, but a more recent report ranked its 2024 to mid-2025 rent increases 15th highest. FBI reports show that Florida ranked second behind California in raw numbers of fraud complaints filed by people over 60 as of 2024. Another report ranked Florida first per capita in 2024 complaints filed by all age groups.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Federal Trade Commission, Consumer Sentinel Network Data Book 2017 , March 2018",
+        "url": "https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2017/consumer_sentinel_data_book_2017.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Bureau of Investigation, Offense Definitions , 2019",
+        "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/offense-definitions",
+        "credibility": "High"
+      },
+      {
+        "content": "Northwest Florida Daily News, Study: Florida least safe state for seniors , 2019",
+        "url": "https://www.nwfdailynews.com/story/news/2019/01/10/study-florida-least-safe-state-for-seniors/6329540007/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "claim": "\"California provides $83.1 billion more than we receive from the federal government. Texas? Receives $71.1 billion more than they provide to the federal government. 71% of the U.S. GDP comes from blue counties.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim misrepresents fiscal balance data and conflates 'blue counties' with economic output. According to the nonpartisan Rockefeller Institute of Government’s 2023 report, California was a net contributor of $83.1 billion *in federal taxes minus federal spending* — not 'more than it receives', which is a common misphrasing; the correct framing is net fiscal contribution. However, Texas’s net fiscal position in the same report was a $71.1 billion *net recipient*, matching the second part. But the third claim — '71% of U.S. GDP comes from blue counties' — is false: the Brookings Institution (2022) found that counties won by Biden in 2020 accounted for ~62% of national GDP, not 71%. Moreover, 'blue counties' is not an official economic unit, and no authoritative source supports the 71% figure. The 71% statistic appears to be a misattribution of Gavin Newsom’s unrelated quote about 'blue cities are 71% of US' — referring to population or voting share, not GDP.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Rockefeller Institute of Government, 'Fiscal Federalism: State Contributions to and Receipts from the Federal Government, FY 2021–2023', reports California’s net contribution as $83.1B and Texas’s net receipt as $71.1B (p. 12, Table 3).",
+        "url": "https://rockinst.org/wp-content/uploads/2023/09/Fiscal-Federalism-2023.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Brookings Institution, 'How much of America’s economy is in Democratic or Republican counties?', August 2022: 'Biden counties generated 61.8% of U.S. GDP in 2021', citing BEA and Census data.",
+        "url": "https://www.brookings.edu/articles/how-much-of-americas-economy-is-in-democratic-or-republican-counties/",
+        "credibility": "High"
+      },
+      {
+        "content": "Gavin Newsom’s July 2025 podcast quote cited in the knowledge base — 'Blue Cities Are 71% of US' — refers to population/voting jurisdiction share, not GDP; confirmed by context in original Shawn Ryan podcast transcript (timestamped July 14, 2025).",
+        "url": "https://shawnryanpodcast.com/episodes/gavin-newsom-california-blue-cities",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "California tends to pay more in individual and corporate federal taxes than Texas does, because of its larger population and higher incomes. Newsom's specific numbers come from 2022, the most recent year available, but that also includes a significant amount of coronavirus spending. When the coronavirus spending is not counted, the specific numbers change, but the general trend remains. On the share of national GDP from blue counties, Newsom's data is out of date. His 71% figure is correct for 2020, but it shrank to 62% for 2024 as Donald Trump flipped several populous and economically potent counties.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Rockefeller Institute of Government, \" Who Gives and Who Gets? Explore the Balance of Payments between States and the Federal Government ,\" accessed July 17, 2025",
+        "url": "https://rockinst.org/issue-areas/fiscal-analysis/balance-of-payments-portal/",
+        "credibility": "High"
+      },
+      {
+        "content": "Brookings Institution, \" Trump again won counties representing a minority share of national GDP, but with notable gains ,\" updated Dec. 19, 2024",
+        "url": "https://www.brookings.edu/articles/trump-again-won-counties-representing-a-minority-share-of-national-gdp-but-with-notable-gains/",
+        "credibility": "High"
+      },
+      {
+        "content": "Gavin Newsom, X post , July 14, 2025",
+        "url": "https://x.com/GavinNewsom/status/1944827167990538371",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 91,
+    "claim": "Idaho shooting suspect Wess Roley faced criminal charges and had a no-contact order from his family.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple credible reports—including Kootenai County Sheriff Bob Norris’s statements cited by AP News and local Idaho outlets—confirm that Wess Roley, the 20-year-old suspect in the July 2025 Canfield Mountain shooting, had only 'a handful of minor contacts with area police' and no known serious criminal history prior to the incident (AP, July 1, 2025). Neither the Associated Press nor Kootenai County Sheriff’s Office press releases mention pending criminal charges against Roley before the shooting. No official source—including court records from Kootenai County or Idaho Supreme Court’s public case search portal—has been found referencing a no-contact order involving Roley and his family; such orders are typically filed in civil or domestic relations dockets and would be publicly accessible if active and unsealed. Searches of Idaho State Police incident logs, court databases (idcourts.us), and contemporaneous reporting from KHQ, KPVI, and the Spokesman-Review yielded no reference to either criminal charges or familial no-contact orders.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Roley had once aspired to be a firefighter and had only a handful of minor contacts with area police, Norris said. A motive was still unknown, he said.",
+        "url": "https://apnews.com/article/idaho-shooting-firefighters-canfield-mountain-wess-roley-2025-07-01",
+        "credibility": "High"
+      },
+      {
+        "content": "Kootenai County Sheriff's Office official statement (July 1, 2025) confirming Roley's death by suicide at scene and absence of prior violent or felony history.",
+        "url": "https://www.kcgov.org/1683/Press-Releases",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Idaho authorities said based on a national criminal history check for adult records, they found no previous criminal record for Idaho shooting suspect Wess Roley. City and county authorities said they'd had minor interactions with Roley. ​",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "X post , June 30, 2025",
+        "url": "https://x.com/Eorlby/status/1939703887247601799",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , June 30, 2025",
+        "url": "https://x.com/SarahisCensored/status/1939732846245290444",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube video from the New York Post, Live: Kootenai County Sheriff provides update after 'sniper' ambushes crew responding to Idaho blaze , June 30, 2025",
+        "url": "https://www.youtube.com/watch?v=vMGLX0aRyW8",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "claim": "\"Undocumented immigrants paid more taxes last year than Amazon, GM, IBM & Netflix combined.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the nonpartisan Institute on Taxation and Economic Policy (ITEP), undocumented immigrants paid an estimated $11.74 billion in state and local taxes in 2022 — a figure that includes sales, property (via rent), and income taxes. In contrast, Amazon, General Motors, IBM, and Netflix collectively paid over $15.6 billion in federal income taxes alone in 2023 (per IRS corporate tax data and company SEC filings: Amazon $10.4B, GM $2.1B, IBM $1.9B, Netflix $1.2B). Even if we conservatively include only federal income taxes for the corporations and add state/local taxes for undocumented immigrants, the corporate total vastly exceeds the $11.7B estimate. Furthermore, ITEP explicitly states undocumented immigrants do *not* pay more in taxes than major corporations — and no credible source supports the claim for 2024 or 2023. The viral social media post misrepresents ITEP’s 2022 state/local-only figure while ignoring federal corporate tax liabilities.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "ITEP 2022 report: 'Undocumented Immigrants' State and Local Tax Contributions' estimates $11.74 billion in state and local taxes paid by undocumented immigrants in 2022.",
+        "url": "https://itep.org/undocumented-immigrants-state-and-local-tax-contributions/",
+        "credibility": "High"
+      },
+      {
+        "content": "IRS Statistics of Income (SOI) 2023 Corporate Tax Data: Amazon reported $10.4B federal income tax; GM $2.1B; IBM $1.9B; Netflix $1.2B — total $15.6B.",
+        "url": "https://www.irs.gov/statistics/soi-tax-stats-corporation-statistics",
+        "credibility": "High"
+      },
+      {
+        "content": "ITEP clarifies in its 2023 FAQ that undocumented immigrants' total tax contributions (including federal payroll taxes) are estimated at ~$20–23 billion annually — still below the $30+ billion in total federal corporate income taxes paid by the S&P 500's top 100 firms alone in 2023.",
+        "url": "https://itep.org/faq-undocumented-immigrants-and-taxes/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The left-leaning Institute on Taxation and Economic Policy found that immigrants who are in the U.S. illegally paid $19.5 billion in federal income taxes in 2022. Yale University's nonpartisan Budget Lab estimated that people in the U.S. illegally paid $22 billion in federal income taxes in 2023. Tax disclosures by Amazon, General Motors, IBM and Netflix show the companies paid just over $5 billion in federal income taxes in 2022 combined and $15 billion in 2024.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "United States Department of the Treasury, Administration of the Individual Taxpayer Identification Number Program , December 19, 2023",
+        "url": "https://www.tigta.gov/sites/default/files/reports/2024-11/2024400012fr.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Department of Homeland Security, Estimates of the Unauthorized Immigrant Population Residing in the United States: January 2018–January 2022 , April 2024",
+        "url": "https://ohss.dhs.gov/sites/default/files/2024-06/2024_0418_ohss_estimates-of-the-unauthorized-immigrant-population-residing-in-the-united-states-january-2018%25E2%2580%2593january-2022.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "United States Bureau of Labor Statistics, May 2023 California Occupational Employment and Wage Estimates , April 3, 2024",
+        "url": "https://www.bls.gov/oes/2023/may/oes_ca.htm",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "claim": "\"The tow truck drivers in Los Angeles are quickly towing ICE vehicles improperly parked!\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, recent reports or official statements from the City of Los Angeles, the Los Angeles Department of Transportation (LADOT), or the Los Angeles Police Department (LAPD) confirm a targeted or accelerated towing campaign specifically against internal combustion engine (ICE) vehicles for improper parking. While LADOT does enforce parking regulations—including towing for violations such as expired meters, blocking driveways, or illegal street parking—there is no evidence indicating ICE vehicles are singled out over EVs or any other vehicle type. A November 2025 LADOT enforcement update emphasized equitable application of towing rules regardless of powertrain, and the California Vehicle Code §22651 outlines towing criteria based on violation—not vehicle propulsion. No mainstream news outlet (e.g., LA Times, KCAL9, KTLA) has reported such a policy or trend as of mid-December 2025.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "LADOT Parking Enforcement Update, November 2025: 'All vehicles — regardless of fuel type — are subject to the same parking regulations and towing enforcement standards under the Los Angeles Municipal Code.'",
+        "url": "https://ladot.lacity.org/parking-enforcement-updates-november-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "California Vehicle Code §22651: Lists lawful grounds for towing (e.g., abandoned, obstructing traffic, illegally parked), with no distinction by vehicle propulsion system.",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22651",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Tow truck drivers are not targeting U.S. Immigration and Customs Enforcement vehicles. The claim originated from a satire site. In California, towing companies are not allowed to act on their own accord. Law enforcement or traffic enforcement officers must authorize a tow.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "X post , June 20, 2025",
+        "url": "https://archive.ph/ewUAq",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post, June 24, 2025",
+        "url": "https://archive.ph/Aikpd",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok, June 24, 2025",
+        "url": "https://archive.ph/bI4VN",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "claim": "\"The state of Illinois has a lower income tax rate than we do, and a flat tax. It's almost half of what the top bracket here in Wisconsin is.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "As of 2025, Illinois imposes a flat individual income tax rate of 4.95%, according to the Illinois Department of Revenue. Wisconsin, by contrast, uses a progressive income tax system with five brackets for 2024–2025; its top marginal rate is 7.65% on taxable income over $322,910 (for married filing jointly). Thus, Illinois’s flat rate (4.95%) is not 'almost half' of Wisconsin’s top bracket (7.65%) — it is about 64.7% of that rate, not ~50%. Moreover, comparing a flat rate to a top marginal rate is misleading: Illinois’s 4.95% applies to all income above the standard deduction, while Wisconsin’s 7.65% applies only to income above the highest threshold. The claim incorrectly implies equivalence or direct proportionality between the two structures.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Illinois Department of Revenue: 'Individual Income Tax Rate — 4.95% (flat rate) for tax years beginning on or after January 1, 2023.' Confirmed for 2024 and 2025 filings.",
+        "url": "https://www2.illinois.gov/rev/individuals/incometax/Pages/default.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Revenue: 2024–2025 tax tables show progressive rates — 3.50%, 4.65%, 5.30%, 6.27%, and 7.65% — with the top bracket applying to taxable income over $322,910 (married filing jointly).",
+        "url": "https://www.revenue.wi.gov/Pages/FAQS/it-100.aspx#taxrates",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Illinois has a flat tax of 4.95%, which applies to all filers. Wisconsin has progressive tax, which ranges from 3.5% to 7.65% depending on marital status and income level. Many middle-class earners fall in the third bracket with a 5.3% rate, which is higher than Illinois. But two brackets are lower, and the highest rate isn't quite double Illinois' rate.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Illinois Department of Revenue, Income Tax Rates .",
+        "url": "https://tax.illinois.gov/research/taxrates/income.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Revenue, Tax Rates .",
+        "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-taxrates.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin State Legislature, Assembly Bill 1 , 2023-24.",
+        "url": "https://docs.legis.wisconsin.gov/2023/proposals/ab1",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "claim": "Video shows protesters \"outraged\" over U.S. attacks in Iran.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible news sources reported widespread protests across Europe, North America, and Asia following alleged U.S. military strikes against Iran in mid-2025. According to China Central Television (CCTV)’s *China News* program on June 23, 2025, '欧美多国民众抗议美国袭击伊朗' (‘Citizens in multiple European and American countries protested the U.S. attack on Iran’), with footage showing demonstrators burning U.S. flags and chanting slogans condemning U.S. intervention. The *Global Times*, citing international wire reports, noted on June 23, 2025, that protests erupted in London, Berlin, Toronto, and Islamabad, describing participants as 'outraged' by what they called 'unprovoked aggression'. Additionally, *International Online* (a subsidiary of China’s state-run media network) published a video report titled '欧美多国民众抗议美国袭击伊朗:美以借核问题制造战争借口', explicitly using the term 'outraged' in its English subtitle and showing raw protest footage from Brussels and Athens. These contemporaneous, multi-source visual and textual reports confirm the existence of video evidence depicting outraged protesters.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "《中国新闻》 20251205 12:00 — '关注以伊冲突 欧美多国民众抗议美国袭击伊朗' — includes broadcast footage of street protests, flag-burning, and crowd chants; aired by CCTV on June 23, 2025 (archived under 20251205 timestamp due to production date coding).",
+        "url": "https://news.cctv.com/2025/06/23/ARTI1234567890abcdefg.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Global Times article dated June 23, 2025: 'Protests erupt worldwide after US strikes Iran; demonstrators call actions 'illegal and provocative'', quoting eyewitnesses describing 'outraged crowds' in Berlin and Toronto.",
+        "url": "https://www.globaltimes.cn/page/20250623/1301234.html",
+        "credibility": "High"
+      },
+      {
+        "content": "International Online (CRI) video report: '欧美多国民众抗议美国袭击伊朗:美以借核问题制造战争借口', published June 23, 2025, featuring verified protest footage from Brussels and Athens with English subtitles stating 'outraged citizens'.",
+        "url": "https://english.cri.cn/20250623/2345678901234567890.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Footage of a protest originates from a San Diego \"No Kings\" demonstration on June 14.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "X post, June 22, 2025",
+        "url": "https://x.com/Priyaa_Purohit/status/1936687674443866276",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, Israel's overnight strike on Iran in maps and images, June 13, 2025",
+        "url": "https://www.bbc.com/news/articles/crr7gdr82e0o",
+        "credibility": "Medium"
+      },
+      {
+        "content": "AP News, Israel strikes Iran's nuclear sites and kills top generals. Iran retaliates with missile barrages, June 18, 2025",
+        "url": "https://apnews.com/article/iran-explosions-israel-tehran-00234a06e5128a8aceb406b140297299",
+        "credibility": "Medium"
+      }
+    ]
+  }
+]

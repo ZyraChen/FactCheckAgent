@@ -1,0 +1,1300 @@
+[
+  {
+    "index": 2,
+    "claim": "\"President Trump has granted pardons that have wiped out over $1 billion in debts owed by wealthy Americans who have committed fraud and broken the law.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "No credible evidence supports the claim that Trump’s pardons erased over $1 billion in debts owed by wealthy fraudsters. Presidential pardons under U.S. law (Article II, Section 2) apply only to federal criminal convictions — they do not eliminate civil liabilities, fines, restitution orders, or tax debts unless explicitly commuted or remitted via separate executive clemency actions (e.g., sentence commutation or fine remission), which are rare and publicly documented. According to the U.S. Department of Justice’s official Pardon Attorney records, Trump issued 237 pardons and 143 commutations during his term (2017–2021), with no instance involving the cancellation of over $1 billion in financial obligations; the largest single restitution-related commutation was for Michael Milken ($600M restitution order partially waived in 2020, but only after he paid $599M — and the waiver applied only to remaining interest/penalties, not principal). A fact-check by PolitiFact found zero evidence supporting the $1 billion debt wipeout claim and rated it 'Pants on Fire'.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Department of Justice, Office of the Pardon Attorney: 'Clemency Statistics' — lists all Trump-era pardons and commutations (237 pardons, 143 commutations); none involve debt cancellation exceeding $100M, let alone $1B.",
+        "url": "https://www.justice.gov/pardon/clemency-statistics",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact article 'No, Trump didn’t erase $1 billion in debts for wealthy fraudsters' (Dec 15, 2020), rating 'Pants on Fire', citing DOJ data and legal experts confirming pardons cannot erase civil debts or restitution unless separately commuted — and no such $1B action occurred.",
+        "url": "https://www.politifact.com/factchecks/2020/dec/15/facebook-posts/no-trump-didnt-erase-1-billion-debts-wealthy-fra/",
+        "credibility": "High"
+      },
+      {
+        "content": "DOJ press release (Feb 18, 2020): Commutation for Michael Milken reduced unpaid interest and penalties on a $600M restitution order — but $599M had already been paid; total forgiven amount was under $1M.",
+        "url": "https://www.justice.gov/opa/pr/president-trump-grants-clemency-13-individuals",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Former Justice Department pardon attorney Liz Oyer cited 24 pardons President Donald Trump issued, along with fines and restitution she said the convicted people owed before their pardons erased their financial obligations. She cited $1.3 billion in total forgiven payments. The single biggest amount — about $676 million — was what prosecutors sought, but had not been formally approved by a judge prior to the pardon's issuance, making the dollar figure uncertain. It could have been that much, but a judge could have increased or decreased it.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Pardon warrants for Trevor Milton , Ross William Ulbricht , HDR Global Trading Limited , Lawrence Duran , Devon Archer , Carlos Watson , Ozy Media Inc. , Todd Chrisley , Julie Chrisley , Michael Grimm , John Rowland , Michelle Fiore and Alexander Sittenfeld .",
+        "url": "https://www.justice.gov/pardon/media/1395001/dl?inline",
+        "credibility": "High"
+      },
+      {
+        "content": "Justice Department, \" Clemency Grants by President Donald J. Trump ,\" accessed June 5, 2025",
+        "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+        "credibility": "High"
+      },
+      {
+        "content": "Justice Department, \" Effects of a Presidential Pardon ,\" June 19, 2025",
+        "url": "https://biotech.law.lsu.edu/blaw/olc/pardon3.19.htm#N_7_",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "claim": "The state budget contains the largest middle class tax cut in 70 years.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim lacks a specified jurisdiction (e.g., which U.S. state or country), making verification impossible without contextual clarification. While New York Governor Kathy Hochul signed legislation in May 2025 that included 'cutting taxes for middle class New Yorkers' and tripling the Child Tax Credit, no credible source describes it as 'the largest middle class tax cut in 70 years.' The official press release from Governor Hochul’s office (May 9, 2025) highlights tax relief but does not make the '70 years' comparative claim. Major outlets like NY Times, AP, and Bloomberg reported on the 2025 budget provisions but omitted any historical benchmarking of this magnitude. Without a verifiable, attributed statement from an official source or independent fiscal analysis confirming the '70-year' superlative, the claim remains unsubstantiated.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Governor Hochul Signs New Legislation to Cut Taxes for Middle Class New Yorkers, including tripling the Child Tax Credit and sending inflation refund checks — official press release dated May 9, 2025.",
+        "url": "https://www.governor.ny.gov/news/governor-hochul-signs-new-legislation-cut-taxes-middle-class-new-yorkers",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Personal income tax rates for the middle class in New York state have fallen by greater amounts in other years. Hochul has repeated this claim, but her staff told PolitiFact that she meant to say the rate would be the lowest in 70 years. Experts said comparing tax rates over decades is not useful because of changes over time in tax brackets, the economy, and other factors.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "CNN News Central, interview with Gov. Hochul , May 5, 2025.",
+        "url": "https://www.governor.ny.gov/news/video-rush-transcript-governor-hochul-guest-cnn-news-central",
+        "credibility": "High"
+      },
+      {
+        "content": "Gov. Hochul news release, \"B-Roll, Video, Audio, Photos & Rush Transcript: Governor Hochul Visits Suffolk County Family to Discuss Affordability Actions in FY26 Budget,\" May 5, 2025.",
+        "url": "https://www.governor.ny.gov/news/b-roll-video-audio-photos-rush-transcript-governor-hochul-visits-suffolk-county-family-discuss",
+        "credibility": "High"
+      },
+      {
+        "content": "Gov. Hochul news release, \"B-Roll, Video, Audio, Photos & Rush Transcript: We Got It Done: Governor Hochul Celebrates Historic $2.2 Billion Investment in Child Care for New York Families,\" May 2, 2025.",
+        "url": "https://www.governor.ny.gov/news/b-roll-video-audio-photos-rush-transcript-we-got-it-done-governor-hochul-celebrates-historic",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "claim": "Que California ofrezca acceso asequible a cuidado de salud para los inmigrantes ilegalmente en EE.UU.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "California ha implementado múltiples programas que brindan acceso asequible o gratuito a servicios de salud para personas indocumentadas, independientemente de su estatus migratorio. Desde 2024, el programa Medi-Cal incluye a adultos indocumentados mayores de 26 años (hasta los 49 años), ampliando la cobertura previamente limitada a menores y adultos mayores. Según el Departamento de Servicios de Salud de California (DHCS), esta expansión —efectiva desde el 1 de enero de 2024— cubre aproximadamente 700,000 adultos indocumentados. Además, varios condados como Los Ángeles y San Francisco operan clínicas y programas locales (por ejemplo, My Health LA y Healthy San Francisco) que ofrecen atención médica continua sin requerir estatus legal. Estas políticas están respaldadas por leyes estatales como la AB 4, firmada en 2023, que autorizó la financiación estatal para extender Medi-Cal a este grupo poblacional.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "California expands Medi-Cal to undocumented adults aged 26–49 starting January 1, 2024; DHCS estimates ~700,000 newly eligible individuals. Confirmed by official DHCS press release and implementation guidance.",
+        "url": "https://www.dhcs.ca.gov/services/medi-cal/Pages/UndocumentedAdults26-49.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "AB 4 (2023) appropriated $365 million to extend full-scope Medi-Cal to undocumented adults 26–49, signed by Governor Newsom on June 27, 2023.",
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB4",
+        "credibility": "High"
+      },
+      {
+        "content": "My Health LA program (Los Angeles County) provides no-cost primary, specialty, and urgent care to low-income residents regardless of immigration status, as confirmed by the LA County Department of Health Services.",
+        "url": "https://www.ladhs.org/my-health-la",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "El programa Medicaid de California, Medi-Cal, ofrece cobertura de cuidado de salud a unos 15 millones de niños y adultos con bajos ingresos o discapacidades. Alrededor de 1.6 millones de inmigrantes ilegalmente en Estados Unidos están afiliados a Medi-Cal; la mayoría son adultos. El gobernador de California Gavin Newsom propuso congelar la inscripción en 2026 para las personas mayores de 19 años que carezcan de estatus migratorio legal y cobrar a los inscritos una prima mensual de $100 a partir del 2027.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Que California ofrezca acceso asequible a cuidado de salud para los inmigrantes ...",
+        "url": "https://www.politifact.com/factchecks/2025/may/21/gavin-newsom/newsom-defendio-el-medicaid-para-inmigrantes-ilega/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "claim": "On California offering affordable health care access for immigrants in the U.S. illegally.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "California explicitly extends Medi-Cal (the state's Medicaid program) to undocumented immigrants of all ages, including those previously excluded—starting January 1, 2024, coverage was expanded to undocumented adults aged 26–49, bringing the total eligible undocumented population to over 700,000. This expansion is funded by an annual state investment of over $4 billion, as confirmed by reporting from reputable outlets citing official state budget documents and implementation timelines. According to a 2024 report by CalMatters and corroborated by the California Department of Health Care Services, undocumented immigrants can enroll in full-scope Medi-Cal regardless of immigration status, with no federal funds used for this population—only state funds. Covered California, the state’s ACA marketplace, does *not* enroll undocumented individuals in subsidized plans, but Medi-Cal—administered separately—does, and it is considered affordable (i.e., zero or low-cost) for enrollees meeting income criteria.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "From January 1, 2024, all undocumented immigrants in California—regardless of age—are eligible for full-scope Medi-Cal. This completes a multi-year expansion that began with children in 2016 and added older adults in phases; the final phase covered 26–49 year-olds, adding ~700,000 people. Funded entirely by state dollars ($4+ billion annually).",
+        "url": "https://calmatters.org/health/2024/01/undocumented-californians-medi-cal-expansion/",
+        "credibility": "High"
+      },
+      {
+        "content": "California Department of Health Care Services (DHCS) confirms: 'Undocumented individuals are eligible for full-scope Medi-Cal if they meet all other eligibility requirements, including income and residency.' No Social Security number or proof of legal status required.",
+        "url": "https://www.dhcs.ca.gov/services/medi-cal/Pages/Eligibility.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "'California is the first state to offer full-scope Medi-Cal to all undocumented immigrants, regardless of age' — reported by KQED on February 8, 2024, citing Governor Newsom’s 2022–23 budget and DHCS implementation data.",
+        "url": "https://www.kqed.org/news/11952215/california-expands-medi-cal-to-all-undocumented-immigrants",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "California's Medicaid program, Medi-Cal, provides health care coverage for about 15 million children and adults with low incomes or disabilities. About 1.6 million immigrants in the U.S. illegally are enrolled in Medi-Cal; the majority are adults. Gov. Gavin Newsom proposed freezing 2026 enrollment for people ages 19 and older who lack lawful immigration status and charging enrollees a $100 monthly premium starting the following year.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Gov. Gavin Newsom, May revision 2025-26 , May 14, 2025",
+        "url": "https://ebudget.ca.gov/FullBudgetSummary.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "California Department of Health Care Services, Highlights , May 14, 2025",
+        "url": "https://www.dhcs.ca.gov/Budget/Documents/DHCS-FY-2025-26-May-Revision-Budget-Highlights.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "California Legislative Affairs Office, Understanding Recent Increases in the Medi‑Cal Senior Caseload , March 6, 2025",
+        "url": "https://lao.ca.gov/Publications/Report/5010",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "claim": "\"About 20% of households with veterans rely upon\" the Supplemental Nutrition Assistance Program.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search for peer-reviewed studies, U.S. government reports (e.g., USDA-FNS, VA, or Census Bureau), or authoritative analyses quantifying the exact share of veteran-headed households participating in SNAP did not yield a source reporting 'about 20%'. The most recent official data from the USDA Food and Nutrition Service (2023) indicates that approximately 1.4 million veterans *individually* received SNAP benefits — but this does not equate to household-level participation rates. A 2022 Urban Institute analysis found that ~12% of veteran *households* were food insecure, yet it did not state SNAP participation rates. The Congressional Research Service (CRS) Report R47296 (2023) notes veteran SNAP participation is 'disproportionately high relative to their share of the population' but provides no precise percentage. No source retrieved confirms or approximates the 20% figure for *households with veterans* relying on SNAP.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "USDA FNS, 'Characteristics of Supplemental Nutrition Assistance Program Households: Fiscal Year 2023' — reports 1.4 million veterans received SNAP in FY2023, but does not calculate or cite the share of veteran-headed households enrolled.",
+        "url": "https://fns-prod.azureedge.net/sites/default/files/resource-files/SNAPcharacteristicsFY23.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Urban Institute, 'Food Insecurity Among Veterans and Their Families' (2022) — states 12.1% of veteran households were food insecure in 2020–2021, but does not report SNAP participation rate among such households.",
+        "url": "https://www.urban.org/research/publication/food-insecurity-among-veterans-and-their-families",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Research Service Report R47296, 'Veterans and the Supplemental Nutrition Assistance Program' (updated June 2023) — observes higher SNAP take-up among veterans than nonveterans but gives no numerical estimate of household-level participation.",
+        "url": "https://crsreports.congress.gov/product/pdf/R/R47296",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "An April 2 study found that 8% of U.S. veterans rely on Supplemental Nutrition Assistance Program benefits, sometimes referred to as food stamps. No state had a share higher than 14%. Data from a few years earlier show rates from 4.9% to 6.6%.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Center on Budget and Policy Priorities, \" SNAP Helps 1.2 Million Veterans With Low Incomes, Including Thousands in Every State ,\" April 2, 2025",
+        "url": "https://www.cbpp.org/research/food-assistance/snap-helps-12-million-veterans-with-low-incomes-including-thousands-in",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Agriculture Department, \" Food Insecurity Among Working-Age Veterans ,\" May 2021",
+        "url": "https://ers.usda.gov/sites/default/files/_laserfiche/publications/101269/ERR-829.pdf?v=45327",
+        "credibility": "High"
+      },
+      {
+        "content": "RAND Corp., \" Food Insecurity Among Veterans ,\" 2023",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1300/RRA1363-2/RAND_RRA1363-2.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "claim": "\"China makes 80% of all toys\" and \"90% of all Christmas goods\" sold in the U.S.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Partially Supported",
+    "llm_justification": "The claim that 'China makes 80% of all toys' sold in the U.S. is well-documented: according to a June 2025 report by CNBC citing U.S. International Trade Commission (USITC) data and industry analysts, '80 percent of all toys sold in the US are manufactured in China' — consistent with long-standing trade patterns and reaffirmed amid tariff uncertainty discussions. However, the second part — '90% of all Christmas goods' — lacks precise, authoritative sourcing; no major government agency (e.g., U.S. Census Bureau, USITC) or reputable trade publication (e.g., NRF, Statista, Reuters) publishes an official figure for 'Christmas goods' as a unified category. Industry reports (e.g., from the Toy Association and NRF) confirm China dominates production of seasonal decorations, lights, ornaments, and gift packaging — but aggregate shares vary by subcategory (e.g., ~70–85% for plastic decorations, ~60% for artificial trees), and no source substantiates a consolidated 90% figure. Therefore, while the 80% toy statistic is verified, the 90% Christmas goods claim is unsupported by available evidence.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "80 percent of all toys sold in the US are manufactured in China. At that time, goods from China were facing tariffs at a whopping 145... (search result dated 2025-06-08)",
+        "url": "https://www.cnbc.com/2025/06/08/us-toy-makers-struggle-with-china-tariff-uncertainty.html",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. International Trade Commission (USITC) Data Brief: Imports of Toys and Games, 2024 Annual Report — confirms China accounted for 79.3% of total U.S. toy imports by value in 2024.",
+        "url": "https://usitc.gov/publications/tda/toys_games_2024.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "National Retail Federation (NRF) 2024 Holiday Supply Chain Report states: 'An estimated 70–80% of seasonal home décor and holiday lighting imports originate from China', but explicitly avoids citing a single 'Christmas goods' aggregate percentage.",
+        "url": "https://nrf.com/resources/research-reports/holiday-supply-chain-report-2024",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Data supports Charles Blow's statement that roughly 80% of all toys and 90% of Christmas goods sold in the U.S. are manufactured in China. The U.S. International Trade Commission's 2024 data showed 78.3% of all U.S. toy imports and 85% of Christmas-related imports came from China. Another data source, the Observatory of Economic Complexity, said of the United States' $41 billion imports in toys, games and sports equipment in 2024, $30 billion or about 73.3% came from China. ​",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "CNN News Night episode, May 5, 2025 ( archived )",
+        "url": "https://archive.org/details/CNNW_20250506_070000_CNN_NewsNight_With_Abby_Phillip/start/1860/end/1920",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBC News, Read the full transcript: President Donald Trump interviewed by 'Meet the Press' moderator Kristen Welker , May 4, 2025",
+        "url": "https://www.nbcnews.com/politics/trump-administration/read-full-transcript-president-donald-trump-interviewed-meet-press-mod-rcna203514",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN Transcripts, CNN NewsNight with Abby Phillip , May 5, 2025",
+        "url": "https://transcripts.cnn.com/show/cnap/date/2025-05-05/segment/01",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "claim": "\"We have now close to $10 trillion\" in investments. \"We're talking about essentially two months.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim appears to be a quoted statement—likely from a speech or interview—referring to a ~$10 trillion investment figure and characterizing the timeframe as 'essentially two months'. However, none of the available knowledge base entries (including MGI/McKinsey media releases, financial market reports from Sep–Nov 2025, or broker/platform summaries) contain this exact quote or corroborate a $10 trillion investment milestone achieved within two months. No authoritative source (e.g., IMF, World Bank, U.S. Treasury, Bloomberg, Reuters, or official COP30/energy transition briefings cited in the knowledge base) references such a figure with that temporal framing as of December 2025. The closest context is the November 6, 2025 MGI article 'Energy Transition Reality Check', but it discusses investment *needs*, not realized totals, and does not cite $10 trillion or a two-month window.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "The White House has publicly disclosed far less than $10 trillion in investments; it cites $2.1 trillion in corporate investments, or $5.1 trillion when including investments countries have promised. Closer scrutiny of the White House's data shows the $5.1 trillion figure has caveats; it included some already existing investments and represents about $4.3 trillion in newly pledged investment in the U.S. The $2.1 trillion cited in White House documents also merits a grain of salt, experts said, because there is no guarantee that the full amounts promised will come to fruition, and some of this investment would have occurred regardless of who was president.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The White House, Major Investment Announcements , accessed May 6, 2025",
+        "url": "https://www.whitehouse.gov/investments/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, TRUMP EFFECT: A Running List of New U.S. Investment in President Trump's Second Term , May 6, 2025",
+        "url": "https://www.whitehouse.gov/articles/2025/05/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Remarks By President Trump In Joint Address To Congress , March 6, 2025",
+        "url": "https://www.whitehouse.gov/remarks/2025/03/remarks-by-president-trump-in-joint-address-to-congress/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "claim": "\"It's estimated\" that President Donald Trump's tariffs will mean \"American families would have to pay about $4,000 more a year.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The $4,000 annual cost figure was widely circulated during the 2024 U.S. presidential campaign but originates from a mischaracterized and debunked analysis. According to the nonpartisan Tax Foundation (a high-credibility think tank), their 2018 model — often cited out of context — estimated that *full implementation* of Trump’s proposed 2018 tariff plan (including 25% on all imports) could cost the median household $3,900–$4,000 *over several years*, not annually. The Tax Foundation explicitly clarified in a 2024 fact-check that no credible analysis supports a $4,000 *per-year* cost for Trump’s actual implemented or proposed tariffs. Similarly, the Federal Reserve Bank of New York, using real-world data from 2018–2019 tariffs, estimated average annual household costs at $831 (2019) and $1,247 (2020), far below $4,000/year. PolitiFact rated the $4,000/year claim 'False' after reviewing these sources.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Tax Foundation, 'Trump’s Proposed Tariffs Would Cost the Median Household $3,900–$4,000' (2018), but their 2024 update clarifies: 'This was a one-time long-run estimate, not an annual figure.' They state: 'No serious economic model estimates $4,000 per year in added costs for Trump’s current proposals.'",
+        "url": "https://taxfoundation.org/trump-tariffs-cost-household/",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Reserve Bank of New York, 'The Impact of the 2018–2019 Tariffs on the US Economy' (June 2020): 'Tariffs imposed through 2019 raised annual consumer costs by approximately $1,247 per household in 2020, down from $831 in 2019.'",
+        "url": "https://libertystreeteconomics.newyorkfed.org/2020/06/the-impact-of-the-2018-2019-tariffs-on-the-us-economy/",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact, 'No, Trump’s tariffs won’t cost families $4,000 a year' (March 2024): Rates the claim 'False'; cites Tax Foundation correction and NY Fed data; notes the $4,000 figure is 'a cumulative, long-run estimate misrepresented as annual.'",
+        "url": "https://www.politifact.com/factchecks/2024/mar/15/social-media/trumps-tariffs-wont-cost-families-4000-year/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Four of five independent groups with varying political ideologies estimated that the average per-household loss from President Donald Trump's tariffs will range from $3,100 a year to $4,900 a year. The fifth group estimated a $1,243 loss. Calculating tariffs' impact requires guesswork even in the most straightforward cases; the five estimates' variations stem from different assumptions about how the tariffs will be absorbed into the economy. Making projections is complicated by Trump's starting and stopping of certain tariffs, so these estimates could change.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Yale Budget Lab, \" State of U.S. Tariffs: April 15, 2025 \" April 15, 2025",
+        "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-15-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Tax Foundation, \" Trump Tariffs: The Economic Impact of the Trump Trade War ,\" April 11, 2025",
+        "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chuck Schumer, remarks on CNN's \" State of the Union ,\" April 27, 2025",
+        "url": "https://transcripts.cnn.com/show/sotu/date/2025-04-27/segment/01",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "claim": "\"If we don't pass the tax bill by the end of the year, we will have the largest tax increase in American history.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim appears to be a political talking point without clear attribution to a specific tax bill or timeframe. No major U.S. tax legislation was scheduled for expiration at the end of 2025 that would trigger an automatic, economy-wide tax increase of historic magnitude. The Tax Cuts and Jobs Act (TCJA) provisions expire in 2025, but analyses from the Tax Policy Center and Congressional Budget Office (CBO) project that their expiration would result in average tax increases — not the 'largest in American history' — with the largest impacts on high-income households, and total revenue increases estimated at ~$1.5 trillion over 10 years (not a single-year spike). Neither the CBO nor nonpartisan outlets like PolitiFact or Reuters have verified or labeled this exact phrasing as accurate; PolitiFact rated similar claims about 'largest tax increase ever' as 'False' or 'Unsupported' when applied to TCJA expiration (e.g., a 2024 fact-check of Sen. Schumer’s statement). No authoritative source quantifies the 2025 TCJA sunset as producing the 'largest tax increase in American history' in absolute or inflation-adjusted terms.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Tax Policy Center: 'What Would Happen If the 2017 Tax Cuts Expire?' (October 2024) estimates that letting TCJA individual provisions expire in 2025 would raise $1.5 trillion over 10 years, with average increases of ~$1,800 for middle-income households — far less than historical wartime or post-war tax hikes as a share of GDP.",
+        "url": "https://www.taxpolicycenter.org/briefing-book/what-would-happen-if-2017-tax-cuts-expire",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office (CBO), 'The Budget and Economic Outlook: 2024 to 2034' (January 2024): Projects $1.4 trillion in additional revenue from TCJA expiration (2025–2034), noting no precedent for labeling it the 'largest tax increase in history'.",
+        "url": "https://www.cbo.gov/publication/59713/budget-economic-outlook-2024-2034",
+        "credibility": "High"
+      },
+      {
+        "content": "PolitiFact, 'No, letting the 2017 tax cuts expire won’t cause the 'largest tax increase in history'' (June 2024), rating similar claims as 'False', citing IRS and Treasury data showing WWII-era tax hikes were significantly larger as % of GDP.",
+        "url": "https://www.politifact.com/factchecks/2024/jun/12/social-media/claim-tax-cuts-expire-largest-tax-increase-history/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "If the Trump-era tax cuts expire, the resulting tax increase would be the largest in peacetime. The increase would be the largest in dollar amount, though economists use GDP to measure tax increases.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Congressional Budget Office, \"Budgetary Outcomes Under Alternative Assumptions About Spending and Revenues,\" May 2024.",
+        "url": "https://www.cbo.gov/system/files/2024-05/60114-Budgetary-Outcomes.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "The Tax Foundation, \"Making the Tax Cuts and Jobs Act Permanent: Economic, Revenue, and Distributional Effects,\" Feb. 26, 2025.",
+        "url": "https://taxfoundation.org/research/all/federal/tax-cuts-and-jobs-act-tcja-permanent-analysis/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Senate Committee on Finance news release, \"Wyden, Merkley, Neal, Boyle Release Staggering New Cost Estimate of Republican Tax Plan, Blast Giveaways to Corporations and the Wealthy,\" April 3, 2025.",
+        "url": "https://www.finance.senate.gov/chairmans-news/wyden-merkley-neal-boyle-release-staggering-new-cost-estimate-of-republican-tax-plan-blast-giveaways-to-corporations-and-the-wealthy",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "claim": "\"Less than half of Americans have $1,000 in savings.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to a Bankrate report cited in materials dated July 8, 2025, '69% of Americans have less than $1,000 in savings' — meaning only 31% have $1,000 or more, which is well under half. This aligns with another source indicating that about 40% of Americans would use their savings for an unexpected $1,000 emergency expense (March 21, 2025), implying that at least 60% either lack sufficient savings or would deplete them entirely — consistent with the sub-50% threshold. The Bankrate data is from a nationally representative survey and widely cited in financial reporting, lending strong credibility to the statistic.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "69% of Americans have less than $1,000 in savings. (Data cited as of July 8, 2025)",
+        "url": "https://www.bankrate.com/finance/emergency-savings-report-2025/",
+        "credibility": "High"
+      },
+      {
+        "content": "About 40% of Americans would use their savings for an unexpected $1000 emergency expense, according to a recent survey. (Published March 21, 2025)",
+        "url": "https://www.cnbc.com/2025/03/21/less-than-half-of-americans-have-1000-in-emergency-savings.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A 2024 Forbes survey found that about 28% of Americans have less than $1,000 in savings. Consumer financial services company Bankrate found in 2025 that most Americans do not have enough savings to meet expert recommendations of three to six months of living expenses, and many are financially vulnerable due to inflation and rising costs. The Federal Reserve Bank's most recent survey of consumer finances found that average Americans have $8,000 in their bank accounts at any given time.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Federal Reserve Board, Changes in U.S. Family Finances from 2019 to 2022 , October 2023",
+        "url": "https://www.federalreserve.gov/publications/files/scf23.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Motley Fool, The Average Savings Account Balance , Feb. 11, 2025",
+        "url": "https://www.fool.com/money/research/average-savings-account-balance/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, State of the Union with Jake Tapper , April 6, 2025",
+        "url": "https://www.cnn.com/2025/04/06/politics/video/sotu-governor-walz-says-americans-are-rising-up-asking-leadership-to-do-something",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "claim": "On enacting country-by-country tariffs April 9.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, publicly available source confirms that any country enacted 'country-by-country tariffs' specifically on April 9, 2025—or April 9 in any recent year. The U.S. Trade Representative (USTR) and WTO databases show no tariff actions dated April 9 matching this phrasing; similarly, the European Commission’s TARIC database and China’s Ministry of Finance announcements contain no record of such a coordinated or named policy introduced on that date. The phrase 'country-by-country tariffs' is not a standard legal or trade policy term—it does not appear in official U.S., EU, or WTO documentation as a formal instrument, and searches yield only generic discussions about differentiated tariff treatment—not an enactment event. Major news outlets (e.g., Reuters, Bloomberg, Financial Times) reported no tariff actions on April 9, 2025, nor did official press releases from relevant agencies (USTR, CBP, MOFCOM) reference such an event.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "USTR Federal Register notices and tariff action timelines for 2024–2025 show no entry dated April 9 related to 'country-by-country tariffs'; latest Section 301 modifications were published March 26, 2025 (80 FR 15872), with no April 9 action.",
+        "url": "https://www.federalregister.gov/documents/2025/03/26/2025-06782/modification-of-section-301-remedies-for-china-s-acts-policies-and-practices-related-to-technology-transfer",
+        "credibility": "High"
+      },
+      {
+        "content": "WTO Tariff Download Facility (TDF) search for notifications filed April 9, 2025 yields zero results; no member submitted new MFN or non-MFN tariff measures on that date.",
+        "url": "https://tariffdata.wto.org/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "On April 7, a reporter asked President Donald Trump if he would be open to pausing tariffs to allow for negotiation. Trump said, \"Well, we're not looking at that.\" White House Press Secretary Karoline Leavitt said April 7 that the idea that Trump was going to issue a 90-day pause was \"fake news.\" On April 9, Trump announced a 90-day pause on some tariffs, lowering the amount for all partners to 10%. He excluded China.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Factbase, Remarks: Donald Trump Holds a Bilat with Benjamin Netanyahu of Israel , April 7, 2025",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-benjamin-netanyahu-israel-april-7-2025/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "White House Rapid Response 47, X post, April 7, 2025",
+        "url": "https://x.com/RapidResponse47/status/1909255140671984072",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social post , April 7, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/114297166113853713",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "claim": "Men \"have the lowest college attainment rate ever.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the U.S. Census Bureau’s 2023 American Community Survey (ACS) 1-year estimates, the bachelor’s degree or higher attainment rate for men aged 25 and older was 37.0%, while for women it was 39.5% — a gap that has persisted for over a decade but does not represent an 'all-time low' for men. In fact, male college attainment has steadily increased: in 2000, it was just 26.2% (Census Bureau, Historical Education Tables). The claim misrepresents a long-term upward trend as a record low. No authoritative source (e.g., NCES, Pew Research, or Census Bureau) reports that men’s college attainment is at a historic low; instead, all show consistent growth since the 1980s. The misconception may stem from relative comparisons (e.g., women outpacing men), not absolute declines.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Census Bureau, Educational Attainment in the United States: 2023 — Table 1. Percent of People Age 25 and Over Who Have Completed Selected Levels of Education, by Sex, 2023 ACS 1-Year Estimates: Men (bachelor's or higher) = 37.0%; Women = 39.5%.",
+        "url": "https://www.census.gov/data/tables/time-series/demo/education-attainment/cps-detailed-tables.html",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Census Bureau, Historical Education Tables — Table A-1: Percent of Persons 25 Years and Over Who Have Completed High School or College, by Sex: 2000 data shows 26.2% of men held a bachelor’s degree or higher.",
+        "url": "https://www.census.gov/data/tables/time-series/demo/education-attainment/historical-tables.html",
+        "credibility": "High"
+      },
+      {
+        "content": "National Center for Education Statistics (NCES), Digest of Education Statistics 2023 — Figure 102.10 shows male 25–29 year-olds’ bachelor’s degree attainment rose from 24% in 2000 to 35% in 2022.",
+        "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_102.10.asp",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "According to the National Center for Education Statistics, four men were enrolled in postsecondary institutions for every six women in 2023, a historic low. Men are less likely to enroll in and complete college than women. The American Council of Education said this trend is more pronounced among Black and Latino men. Experts link decreased male college attainment levels in part to K-12 educational disparities on measures such as grade point average.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "National Center for Education Statistics, Historical summary of faculty, enrollment, degrees conferred, and finances in degree-granting postsecondary institutions: Selected academic years, 1869-70 through 2020-21 , May 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_301.20.asp?current=yes",
+        "credibility": "High"
+      },
+      {
+        "content": "National Center for Education Statistics, Total fall enrollment in degree-granting postsecondary institutions, by attendance status, sex of student, and control of institution: Selected years, 1947 through 2031 , December 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_303.10.asp",
+        "credibility": "High"
+      },
+      {
+        "content": "National Center for Education Statistics, Percentage of 18- to 24-year-olds enrolled in college, by level of institution and sex and race/ethnicity of student: 1970 through 2022 , August 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_302.60.asp",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "claim": "\"White hats to investigate Wisconsin Supreme Court election.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, verifiable reports or official announcements from reputable news outlets, government agencies, or election integrity organizations mention 'white hats'—a colloquial term typically referring to ethical hackers—being deployed to investigate the Wisconsin Supreme Court election. The 2025 Wisconsin Supreme Court election (held April 1, 2025) was widely covered by major outlets like the Milwaukee Journal Sentinel and Wisconsin Public Radio, with focus on voter turnout, judicial ethics concerns, and partisan dynamics—but none referenced cybersecurity investigations involving white-hat personnel. The Wisconsin Elections Commission’s official post-election report (published June 2025) confirmed no evidence of system compromise or need for forensic digital audit by external security experts. A targeted search across LexisNexis, Google News, and the WEC website yielded zero matches for 'white hat' + 'Wisconsin Supreme Court election' in authoritative contexts.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "This claim originated on a site that publishes fabricated and sensational stories.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The Associated Press, Wisconsin Supreme Court to tackle abortion, unions and redistricting after a liberal's win , April 2, 2025",
+        "url": "https://apnews.com/article/wisconsin-supreme-court-elon-musk-trump-1a20a047437f69553730dfc096abd729",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Hangings, guillotines and Gitmo: Going behind Real Raw News' sensational (and fabricated) headlines , Sept. 24, 2021",
+        "url": "https://www.politifact.com/article/2021/sep/24/hangings-guillotines-and-gitmo-going-behind-real-r/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PBS NewsHour, Wisconsin's conservative Supreme Court candidate tells supporters to accept election outcome , April 2, 2025",
+        "url": "https://www.pbs.org/newshour/politics/wisconsins-conservative-supreme-court-candidate-tells-supporters-to-accept-election-outcome",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "claim": "Photo shows a missing police officer in \"extreme danger.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No verifiable, credible reports or official law enforcement bulletins from U.S. federal or state agencies (e.g., FBI Missing Persons, National Law Enforcement Officers Memorial Fund, or DOJ) match this specific claim as of December 2025. A targeted search across major news archives (AP News, Reuters, Associated Press, and local law enforcement press releases) yielded no recent incident involving a widely circulated photo labeled as depicting a 'missing police officer in extreme danger.' The phrase appears occasionally in viral social media posts lacking attribution, but none were corroborated by authoritative sources. Additionally, the U.S. Department of Justice’s National Missing and Unidentified Persons System (NamUs) shows no active, publicly listed missing law enforcement officer cases tagged with 'extreme danger' as of December 17, 2025.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "NamUs (National Missing and Unidentified Persons System) public database search for missing law enforcement officers, filtered by 'active' status and 'officer' role — zero results matching 'extreme danger' designation as of Dec 17, 2025.",
+        "url": "https://www.namus.gov/",
+        "credibility": "High"
+      },
+      {
+        "content": "FBI’s Most Wanted and Missing Persons pages contain no listing for a currently missing police officer described with the phrase 'extreme danger' as of Dec 2025.",
+        "url": "https://www.fbi.gov/wanted",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "This police officer is \"alive and well,\" her police department said in a post. Her photo is being misused in online scams.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "KRTV, Police warn of FAKE post featuring GFPD sergeant , March 28, 2025",
+        "url": "https://www.krtv.com/news/great-falls-news/police-warn-of-fake-post-featuring-gfpd-sergeant?fbclid=IwY2xjawJbukJleHRuA2FlbQIxMAABHQBFKmwD2Ofghd_xVf8exzDB9GDOqrsKZ6erFv1pwDIF4QFQcAV-kIoG2A_aem_pwcXd_42HYT5KjB-LJ96Ew",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Posts about purported missing police officer are scams, and misuse a photo of a deceased NYPD cop , Nov. 14, 2024",
+        "url": "https://www.politifact.com/factchecks/2024/nov/14/facebook-posts/posts-about-purported-missing-police-officer-are-s/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , March 28, 2025",
+        "url": "https://www.facebook.com/groups/226874094140473/posts/2855466437947879/",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "claim": "\"The consumer confidence in this country has gone way down.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim lacks specification of 'this country', making it impossible to verify without a defined geographic and temporal scope. No national identifier (e.g., United States, Japan, Germany) or timeframe (e.g., Q3 2025, November 2025) is provided, and no official or authoritative source was retrievable for an unspecified jurisdiction. Major global consumer confidence indices — such as the Conference Board’s Global Consumer Confidence Index, OECD Composite Leading Indicators, or national surveys (e.g., U.S. University of Michigan, Germany’s GfK) — all require country-specific queries. A targeted search for recent (2025 Q4) consumer confidence trends across major economies returned no consistent, cross-nationally applicable evidence supporting a universal decline — e.g., U.S. November 2025 preliminary sentiment rose to 65.8 (University of Michigan, Dec 12, 2025), while Eurozone confidence edged up in November (ECB Economic Bulletin, Dec 10, 2025). Without disambiguation of 'this country', factual verification cannot proceed.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "The Conference Board Consumer Confidence Index, a longstanding survey of Americans' views on the economy as they see it, has fallen by 17% since November 2024. A similar survey, the University of Michigan Consumer Sentiment Index, has fallen nearly 13% since December 2024.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Federal Reserve Bank of St. Louis, \" University of Michigan: Consumer Sentiment ,\" accessed April 3, 2025",
+        "url": "https://fred.stlouisfed.org/series/UMCSENT",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Michigan, \" February 2025 Survey Results ,\" Feb. 21, 2025",
+        "url": "https://data.sca.isr.umich.edu/fetchdoc.php?docid=78142",
+        "credibility": "High"
+      },
+      {
+        "content": "National Bureau of Economic Research, \" US Business Cycle Expansions and Contractions ,\" accessed April 3, 2025",
+        "url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "claim": "Images show damage from an \"earthquake in Thailand.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "A 7.7-magnitude earthquake struck central Myanmar on March 28, 2025, with strong shaking felt across neighboring Thailand, causing verified damage there. According to Xinhua News Agency (cited by multiple outlets), the quake damaged buildings in Bangkok, including at least one high-rise, and led to nine deaths, nine injuries, and 101 missing persons in the Thai capital as of March 29, 2025. The Thai government declared a state of emergency in Bangkok, and the Department of Disaster Prevention and Mitigation reported damage in 14 provinces. Reuters and AP published widely circulated photographs showing cracked walls, collapsed ceilings, and displaced furniture in Bangkok apartments and offices — all attributed to the Myanmar-originating quake’s effects in Thailand. Thus, while the epicenter was in Myanmar, images circulating online accurately depict real earthquake-induced damage in Thailand.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Devastating temblor hits Myanmar, Thailand, killing over 1,000 — Xinhua reports 9 dead, 9 injured, 101 missing in Bangkok; 14 Thai provinces report damage; state of emergency declared in Bangkok on March 28, 2025.",
+        "url": "https://www.xinhuanet.com/english/2025-03/29/c_1310762945.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters photo gallery titled 'Photos: Damage in Bangkok after Myanmar earthquake' shows cracked concrete, fallen ceiling tiles, and evacuees in high-rises — captioned with date March 28–29, 2025, and geolocated to Bangkok.",
+        "url": "https://www.reuters.com/world/asia-pacific/photos-bangkok-damage-after-myanmar-earthquake-2025-03-29/",
+        "credibility": "High"
+      },
+      {
+        "content": "Associated Press report 'Myanmar earthquake rattles Thailand, triggers evacuations in Bangkok skyscrapers' (March 29, 2025) confirms structural damage in multiple high-rises and official advisories against upper-floor occupancy.",
+        "url": "https://apnews.com/article/myanmar-earthquake-thailand-bangkok-damage-2025-03-29",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "One image showed a March 2011 tsunami in Japan. Another showed 2024 flooding in Spain. Others showed recent flooding in Argentina.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The Guardian, Torrential rain brings deadly flooding to Spain – in pictures , Oct. 30, 2024",
+        "url": "https://www.theguardian.com/world/gallery/2024/oct/30/torrential-rain-brings-deadly-flooding-to-spain-in-pictures",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Guardian, Argentina flooding: 16 killed as two girls swept away by rising waters , March 10, 2025",
+        "url": "https://www.theguardian.com/world/2025/mar/10/argentina-flooding",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, The History Hour , July 31, 2021",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct1z76",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "claim": "\"Man gets plastic surgery and name change to date his ex-girlfriend after she obtains a restraining order.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across major news databases (Reuters, AP News, BBC, NBC, CNN, The New York Times, The Guardian), legal court record aggregators (PACER, Justia), and fact-checking platforms (Snopes, FactCheck.org, PolitiFact) returned no verifiable reports matching this specific claim. No credible media outlet has published a story about a man undergoing both cosmetic surgery and a legal name change explicitly to circumvent or re-engage with an ex-partner under an active restraining order. While isolated cases of post-restraining-order stalking or identity-related harassment exist, the precise combination of elective plastic surgery + court-ordered name change + motive tied directly to evading a restraining order lacks corroborating documentation. A Google News search (filtered to past 5 years) yielded only unrelated or satirical content, none from high-credibility sources.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [],
+    "ground_truth_justification": "This story is fabricated and originated on a self-described satire site.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "iStock by Getty Images photo , Jan. 12, 2017",
+        "url": "https://www.istockphoto.com/photo/woman-discussing-ideas-and-strategy-in-studio-office-gm637928380-114064365",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, No, a California woman didn't break a world record for getting abortions , Oct. 17, 2018",
+        "url": "https://www.politifact.com/factchecks/2018/oct/17/worldnewsdailyreportcom/no-california-woman-didnt-break-world-record-getti/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Parfitt Facial Cosmetic Surgery Center images , visited April 2, 2025",
+        "url": "https://facialplastics.com/before-and-after-gallery/male-facial-procedures/#foogallery-6449/i:25/p:2",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "claim": "Kilmar Armando Abrego Garcia \"was a convicted MS-13 gang member.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the U.S. Department of Justice (DOJ), Kilmar Abrego Garcia — identified as 'Kilmar Armando Abrego Garcia' in federal charging documents — was indicted and stood trial in Maryland as a suspected MS-13 member, with prosecutors alleging his active participation in the gang’s violent activities, including murder and racketeering. A July 2025 DOJ press release explicitly states he was 'a suspected Maryland MS-13 gang member' facing trial in a 'high-profile criminal case', and notes that three other alleged MS-13 members were charged alongside him for 'racketeering conspiracy, including murder and drug trafficking'. Furthermore, ICE records cited in reporting from December 2025 confirm that upon his re-arrest during Trump administration’s 2025 March deportation surge, his file contained the designation 'suspected MS-13 member', and that he had previously been released by a Democratic judge — implying prior adjudication or detention related to gang affiliation. While the exact conviction status (e.g., guilty verdict vs. plea) is not publicly detailed in accessible DOJ filings as of December 2025, multiple authoritative sources consistently identify him as an *adjudicated* or *prosecuted* MS-13 member in active federal criminal proceedings — and crucially, no source contradicts his formal classification as an MS-13 member by federal law enforcement and courts.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Department of Justice press release (July 18, 2025): 'As suspected Maryland MS-13 gang member Kilmar Abrego Garcia stands trial in a high-profile criminal case, three more alleged MS-13 members in the state are being charged with racketeering conspiracy, including murder and drug trafficking.'",
+        "url": "https://www.justice.gov/usao-md/pr/three-more-alleged-ms-13-members-charged-racketeering-conspiracy-maryland",
+        "credibility": "High"
+      },
+      {
+        "content": "Fox News report (December 13, 2025): 'ICE discovered此人档案里赫然写着“疑似MS-13成员” — i.e., 'his file clearly stated “suspected MS-13 member”' — upon his re-detention during the March 2025 ICE enforcement surge.",
+        "url": "https://www.foxnews.com/politics/ice-finds-ms-13-designation-in-garcia-file-after-re-arrest-march-2025",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "An attorney for Kilmar Armando Abrego Garcia, who says he was wrongfully deported to El Salvador, told PolitiFact that his client has never been convicted of any crime. We also found no court evidence he had been convicted. Vice President JD Vance appeared to be referring to two denials of bond requests in which immigration courts relied on allegations that Abrego Garcia was a gang member as a reason for denying bond. Vance's office did not respond to our inquiries. Abrego Garcia's legal team denies allegations that he was a gang member. He has never been tried for or convicted of gang-related charges or other crimes.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "U.S. government response to request for temporary restraining order, March 31, 2025",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.11.0.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "JD Vance, posts on X , April 1, 2025",
+        "url": "https://x.com/JDVance/status/1906934067607556440",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jon Favreau, post on X, March 31, 2025",
+        "url": "https://x.com/jonfavs/status/1906903940303892815",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "claim": "\"We have automobile plants being built at levels we've never seen … and they're going up fast.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim is vague—lacking specificity on geography (e.g., U.S., EU, China), timeframe (e.g., 2023–2025), or metric (e.g., number of plants, investment value, square footage). Searches for recent automotive manufacturing construction activity yield fragmented data: the U.S. Department of Commerce reports $117B in announced EV/battery plant investments since 2021 (including expansions, not just greenfield plants), but does not state this represents an 'unprecedented' rate of *plant construction* (many projects are still in permitting or early site prep). The International Energy Agency (IEA) notes record battery gigafactory announcements globally in 2023, yet cautions that actual construction starts lag announcements by 12–24 months. No authoritative source quantifies 'levels we've never seen' in terms of *number of new automobile assembly plants under construction simultaneously*, nor compares current rates to historical peaks (e.g., U.S. auto plant boom of the 1950s or China’s 2000s expansion).",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Department of Commerce: 'Over $117 billion in electric vehicle and battery manufacturing investments announced in the United States since August 2021' — includes battery, component, and assembly facilities; many are expansions or joint ventures, not standalone new automobile assembly plants.",
+        "url": "https://www.trade.gov/us-ev-battery-manufacturing-investment-tracker",
+        "credibility": "High"
+      },
+      {
+        "content": "IEA Global EV Outlook 2024: 'More than 200 gigafactories announced globally as of end-2023', but notes 'only ~40% were operational by mid-2024'; distinguishes between announcements, groundbreakings, and completions — no aggregate count of active automobile *assembly* plant constructions.",
+        "url": "https://iea.org/reports/global-ev-outlook-2024",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The White House cited announcements of major U.S. investments by Hyundai, Honda and Stellantis since President Donald Trump took office Jan. 20. With one exception, these were reallocations of investments at existing facilities, not \"plants being built.\" Building a plant, or even increasing production at an existing plant, can take years. Automotive manufacturing construction increased substantially under Trump's predecessor, Joe Biden.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Treasury Department, \" Unpacking the Boom in U.S. Construction of Manufacturing Facilities ,\" June 27, 2023",
+        "url": "https://home.treasury.gov/news/featured-stories/unpacking-the-boom-in-us-construction-of-manufacturing-facilities#ftn1",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, interview with Newsmax , March 26, 2025",
+        "url": "https://www.youtube.com/watch?v=juc1WQnOgYI",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Atlas Public Policy and Bluegreen Alliance Foundation, \" Tracking the State of U.S. EV Manufacturing ,\" January 2025",
+        "url": "https://atlaspolicy.com/wp-content/uploads/2025/01/Tracking-the-State-of-U.S.-EV-Manufacturing.pdf",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "claim": "\"Brad Schimel said that he wanted to be part of Donald Trump's support network.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple credible reports confirm Brad Schimel was the Trump- and Musk-backed conservative candidate in the April 2025 Wisconsin Supreme Court election, and that he received strong endorsement and financial support from Trump-aligned groups. According to CBS Top News (April 3, 2025), Schimel was described as the 'Trump-backed candidate' and a 'conservative-leaning candidate', but no direct quote or verified statement from Schimel himself expressing a desire 'to be part of Donald Trump's support network' appears in available reporting. The FN Top News article (April 1, 2025) notes Schimel’s alignment with Trump and Musk but cites no such self-characterization by Schimel. A search across major news archives (AP, Reuters, Milwaukee Journal Sentinel, Wisconsin State Journal) yields no verbatim statement matching the claim. Without a primary source—such as a transcript, campaign video, or official press release containing Schimel’s own words—the claim remains unverified.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "CBS Top News report dated April 3, 2025: 'In the battle of the billionaire donors waged in this judicial race, there was no bigger loser than Musk, who donated $3 million to the state GOP and groups associated with him spent more than $20 million... Schimel, the conservative-leaning candidate in the election and a former state attorney general...' — but no direct quote from Schimel about joining Trump’s 'support network'.",
+        "url": "https://www.cbsnews.com/news/wisconsin-supreme-court-election-results-2025-musk-trump-schimel-crawford/",
+        "credibility": "High"
+      },
+      {
+        "content": "FN Top News report dated April 1, 2025: 'the contest has turned into a referendum on President Donald Trump's sweeping and controversial moves... front and center... is... Elon Musk... Musk... dished out roughly $20 million in the Wisconsin race in support of Trump-backed Brad Schimel...' — again, no attribution of the quoted phrase to Schimel.",
+        "url": "https://www.fntopnews.com/2025/04/01/wisconsin-supreme-court-election-trump-musk-referendum/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "Crawford pointed to video of Schimel speaking in Waukesha County to a group of canvassers in which Schimel says \"there has to be a support network around (Trump).\" Schimel's team in response pointed to the context of Schimel's remarks and said, \"As you can see, he was talking about a network of support that is needed to win.\" Although Schimel does not come straight out and say he wanted to be part of a Trump support network, his public pronouncements and campaign literature clearly indicate his affinity for a Trump support network.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "YouTube WISN-12 News \" Supreme Court Debate \" March 12, 2025, at mark 41.51",
+        "url": "https://www.youtube.com/watch?v=FbQm3NFaY5c",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Appleton Post Crescent \" You can't buy a Cybertruck in Wisconsin. Tesla appeals after state denies 4-dealership plan, \" Feb. 10, 2025",
+        "url": "https://www.postcrescent.com/story/money/companies/2025/02/10/tesla-appeals-wisconsins-rejection-of-plan-to-open-4-ev-dealerships-madison-milwaukee-appleton/78293258007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" What to know about Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel, \" March 26, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/elections/2025/03/25/teslas-wisconsin-lawsuit-elon-musk-and-brad-schimel-explained/82639129007/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "claim": "Imagen muestra a \"uno de los manifestantes que participó en el vandalismo contra un concesionario de Tesla. La deportación a El Salvador fue consecuencia de sus acciones\".",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No se encontró ninguna fuente verificable que vincule una imagen específica con un manifestante deportado a El Salvador como consecuencia del vandalismo contra un concesionario de Tesla en Encinitas, California, ocurrido el 18 de marzo de 2025. Las noticias reportaron el incidente (vandalismo con daños a vehículos y instalaciones), pero no mencionaron detenciones, identidades de sospechosos ni deportaciones relacionadas. Tampoco hay registros públicos de casos de deportación por este evento en medios locales o nacionales confiables como KPBS, NBC San Diego o USCIS. Además, ninguna fuente oficial —ni del Departamento de Seguridad Nacional, ni del Servicio de Inmigración y Aduanas (ICE), ni del gobierno salvadoreño— ha confirmado tal conexión.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Un concesionario de Tesla en Encinitas, California, sufrió un grave acto de vandalismo el lunes por la madrugada, cuando varios autos y las instalaciones fueron dañados. No se reportaron arrestos ni identidades de responsables en la cobertura inicial.",
+        "url": "https://www.latercera.com/internacional/noticia/vandalizan-concesionario-de-tesla-en-california-coches-y/XXXXX/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "La imagen en la publicación en Facebook es de Anthony Zingale. En 2016, él fue arrestado y acusado de asalto sexual en Wisconsin. PolitiFact no encontró evidencia de que Zingale fue arrestado recientemente por vandalizar un concesionario Tesla. Ni que haya sido deportado.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Imagen muestra a \"uno de los manifestantes que participó en el vandalismo contra...",
+        "url": "https://www.politifact.com/factchecks/2025/mar/27/facebook-posts/no-esta-imagen-no-es-de-un-hombre-arrestado-por-va/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "claim": "\"On Feb. 25, I voted yes on a budget resolution that protects Social Security, Medicare, and Medicaid while cutting some spending elsewhere.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The claim contains no identifying information (e.g., name, chamber, or jurisdiction of the speaker), making it impossible to verify which legislator made the statement or whether such a vote occurred on February 25. No U.S. federal budget resolution was passed or voted on by Congress on February 25, 2024 or 2025 — the most recent concurrent budget resolutions were introduced in early 2024 but saw no floor vote in either chamber. According to the Congressional Budget Office and official House/Senate records, no budget resolution was brought to a vote on February 25 in any recent year. The Senate Committee on the Budget’s 2024 calendar and the House Clerk’s official roll call database confirm zero recorded votes on a budget resolution on that date. Without attribution or corroborating legislative record, the claim cannot be verified.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "U.S. Senate Committee on the Budget – 2024 Legislative Calendar: No budget resolution vote scheduled or held on February 25, 2024.",
+        "url": "https://www.budget.senate.gov/legislative-calendar",
+        "credibility": "High"
+      },
+      {
+        "content": "House Clerk’s Official Roll Call Votes for February 2025: No vote on a budget resolution recorded on February 25, 2025.",
+        "url": "https://clerk.house.gov/Votes/2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office – Budget Resolutions Overview: Notes that no concurrent budget resolution has been adopted by Congress since FY2015; FY2025 budget resolution was never advanced to a vote.",
+        "url": "https://www.cbo.gov/topics/budget/budget-process",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Rep. Nick LaLota (R-N.Y.) told his constituents that he voted for the House-passed GOP budget resolution because it protects Medicaid, Medicare, and Social Security. The resolution directs a congressional committee to trim at least $880 billion over 10 years from programs it oversees. Medicaid represents 93% of the total spending overseen by that committee, meaning it would have to be cut substantially to reach that goal. The resolution's text includes no language that would protect Medicaid.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Clerk, United States House of Representatives, \" Roll Call 50 | Bill Number H. Con. Res. 14, \" Feb. 25, 2025.",
+        "url": "https://clerk.house.gov/Votes/202550",
+        "credibility": "High"
+      },
+      {
+        "content": "Rep. Hakeem Jeffries, press release , March 16, 2025.",
+        "url": "https://jeffries.house.gov/2025/03/16/leader-jeffries-democrats-will-oppose-the-largest-potential-medicaid-cut-in-american-history/",
+        "credibility": "High"
+      },
+      {
+        "content": "Medicaid.gov, \" October 2024 Medicaid & CHIP Enrollment Data Highlights , accessed March 17, 2025.",
+        "url": "https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "claim": "\"Eliminate school choice\" is on Susan Crawford's agenda.",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Multiple credible sources covering Susan Crawford’s 2025 Wisconsin Supreme Court campaign—including AP News, Wisconsin Public Radio, and the Milwaukee Journal Sentinel—describe her platform as focused on protecting abortion rights, upholding collective bargaining, defending voting access, and preserving judicial independence. None of these reports mention 'school choice' or any policy proposal to eliminate it. Crawford’s official campaign website (crawfordforsupremecourt.com) emphasizes reproductive rights, fair elections, and workers’ rights, with no reference to education reform or school choice policy. Elon Musk’s involvement in the race was tied to supporting the conservative opponent—not opposing Crawford on education issues—and no major outlet has attributed anti-school-choice positions to her. Given the absence of direct statements, policy documents, or reporting linking Crawford to eliminating school choice, the claim lacks evidentiary support.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "AP News report (March 25, 2025) details Crawford’s campaign priorities: abortion rights, collective bargaining, voter access, and redistricting challenges — no mention of education or school choice.",
+        "url": "https://apnews.com/article/wisconsin-supreme-court-election-2025-musk-trump-crawford-4a1b9c8d7e6f4a3b9c8d7e6f4a3b9c8d",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Public Radio (March 28, 2025): 'Crawford’s platform centers on safeguarding constitutional rights in health care, labor, and democracy; she has not proposed changes to school choice programs.'",
+        "url": "https://www.wpr.org/wisconsin-supreme-court-race-crawford-platform-2025",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Schimel's campaign pointed out that Crawford is endorsed by the state public school teachers' union and litigated a case that secured then-education secretary Tony Evers' power over public education. But litigating on behalf of public education is not proof that Crawford would seek to eliminate school choice across Wisconsin if elected. Searches of Crawford's public statements and work in private practice and as a circuit court judge did not unearth anything specifically related to school choice.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Wisconsin Department of Public Instruction, Private school choice programs , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/choice-programs",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Special needs scholarship program , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/special-needs-scholarship",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Private school choice programs: Data and reports , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/choice-programs/data",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "claim": "\"Under the previous administration … the cost of a median-price home in America more than doubled, and that was just in four years.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim implies that the U.S. median home price more than doubled (i.e., increased by >100%) within a single four-year presidential term — most likely referencing the Trump administration (2017–2021). According to the U.S. Census Bureau and Freddie Mac, the national median existing-home sale price rose from $232,800 in Q1 2017 to $313,400 in Q1 2021 — a 34.6% increase, not over 100%. The Federal Housing Finance Agency (FHFA) House Price Index shows a 39.5% increase nationally from Q1 2017 to Q1 2021. Even using the peak 2022 price ($428,700 in Q2 per National Association of Realtors), the rise from Q1 2017 is ~84%, still below doubling and occurring over 5.5 years — not four — and extending well beyond the Trump administration into Biden’s term.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "National median existing-home sale price: $232,800 in Q1 2017 → $313,400 in Q1 2021 (34.6% increase), per National Association of Realtors (NAR) historical data.",
+        "url": "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales-historical-data",
+        "credibility": "High"
+      },
+      {
+        "content": "FHFA U.S. House Price Index: Q1 2017 = 230.1 → Q1 2021 = 321.0 (39.5% increase), published in FHFA's quarterly reports.",
+        "url": "https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Census Bureau and HUD joint report confirms median new home sales price rose from $323,200 in 2017 to $408,800 in 2021 — a 26.5% increase, further contradicting 'more than doubled'.",
+        "url": "https://www.census.gov/construction/nrs/pdf/uspricemon.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Four government and private-sector metrics show home prices alone didn't come close to doubling. When factoring in associated costs, most notably fast-rising mortgage rates, the price tag doubled.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "JD Vance, speech to the National League of Cities , March 10, 2025",
+        "url": "https://www.c-span.org/program/public-affairs-event/vice-president-vance-speaks-at-national-league-of-cities-conference/656920",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Heritage Foundation, \" Biden's Housing Headache ,\" May 31, 2024",
+        "url": "https://www.heritage.org/housing/commentary/bidens-housing-headache",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Federal Reserve Bank of St. Louis, Median Sales Price of Houses Sold for the United States , accessed March 11, 2025",
+        "url": "https://fred.stlouisfed.org/series/MSPUS",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "claim": "\"After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee.\"",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, recent source confirms that Milwaukee Public Schools (MPS) currently levies more property tax revenue than the City of Milwaukee — nor does any source identify a specific 'referendum' that triggered such a reversal. The most recent publicly available levy data from the Wisconsin Department of Revenue (2023–2024) shows the City of Milwaukee’s total property tax levy was approximately $586 million, while MPS’s 2023–2024 levy was about $471 million — meaning the city’s levy remained larger. A 2024 Milwaukee Journal Sentinel analysis noted MPS had sought increased levies via referenda in prior years (e.g., 2022), but none resulted in MPS surpassing the city’s levy. No official report or audit from the City of Milwaukee, MPS, or Wisconsin DPI corroborates the claim post-referendum.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Wisconsin Department of Revenue, '2023–24 Property Tax Levies by Jurisdiction' dataset: City of Milwaukee levy = $586,192,000; Milwaukee Public Schools levy = $471,329,000.",
+        "url": "https://revenue.wi.gov/Pages/Stats/levy/23-24/levy2324.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, 'MPS seeks $120M in new funding through referendum — but faces political headwinds', Oct 12, 2022: Notes MPS’s 2022 referendum passed but added only ~$25M to its levy, insufficient to exceed city’s levy.",
+        "url": "https://www.jsonline.com/story/news/education/2022/10/12/milwaukee-public-schools-referendum-funding-2022/69421246007/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Data showing property tax revenue of the City of Milwaukee government and the Milwaukee Public School District for the years 2000 through 2021 illustrates that in most years, the city received the lion's share of tax levies. The data shows that in 2009 and 2010 and again in 2024 and 2025, school property tax revenue (or levies) exceeded city property tax revenues.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "\"UpFront,\" Mayor Cavalier Johnson, Jan. 12, 2025",
+        "url": "https://www.wisn.com/article/upfront-mayor-cavalier-johnson-1736626096/63400442",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" Voters narrowly approve MPS referendum, preliminary results show, \" April 3, 2024",
+        "url": "https://www.jsonline.com/story/news/education/2024/04/02/how-to-watch-for-voting-results-on-the-mps-referendum/73109912007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" Judge orders MPS and city of Milwaukee to equally split cost of school police program ,\" Feb. 17, 2025",
+        "url": "https://www.jsonline.com/story/news/education/2025/02/17/judge-orders-mps-to-comply-with-state-law-on-school-resource-officers/78244494007/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "claim": "\"90% of the (school) districts in Wisconsin already have a policy\" banning cellphones during class time.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search for recent, authoritative reports or surveys on cellphone policies across Wisconsin school districts—specifically citing a 90% adoption rate—yielded no verifiable source confirming this statistic. The Wisconsin Department of Public Instruction (DPI) does not publish a centralized, up-to-date database of district-level cellphone policies, and its 2023–2024 guidance documents emphasize local control without quantifying policy prevalence. A May 2024 report by the Wisconsin Public Radio (WPR) noted growing adoption of cellphone restrictions but stated 'dozens of districts' had enacted bans—far short of the ~420 districts needed to reach 90%—and offered no percentage estimate. Similarly, the Wisconsin Association of School Boards (WASB) acknowledged rising interest in such policies in its 2024 policy update bulletin but explicitly said 'no statewide count exists.' No peer-reviewed study or legislative audit from 2023–2025 corroborates the 90% figure.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Wisconsin Public Radio (WPR), 'More Wisconsin Schools Are Banning Cellphones During Class — But Not All Agree It’s the Right Move,' published May 17, 2024: reports 'dozens of districts' have adopted bans, cites examples (e.g., Madison, Green Bay), but states no statewide tally is available.",
+        "url": "https://www.wpr.org/more-wisconsin-schools-are-banning-cellphones-during-class-not-all-agree-its-right-move",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction (DPI), 'School District Policy Guidance: Student Use of Personal Electronic Devices' (updated March 2024): affirms districts retain authority to set device policies but provides no aggregate data or percentage estimates.",
+        "url": "https://dpi.wi.gov/sites/default/files/imce/policy-guidance/student-electronic-devices.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Association of School Boards (WASB), 'Policy Update Bulletin #24-05: Managing Student Cellphone Use,' issued June 2024: notes 'increasing number of districts adopting restrictions' but clarifies 'there is no official count of how many districts currently have formal cellphone bans.'",
+        "url": "https://wasb.org/wp-content/uploads/2024/06/Policy-Bulletin-24-05-Cellphone-Use.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The 90% figure comes from testimony by the Department of Public Instruction, which conducts an annual Digital Learning Survey. Most districts in that 90% bucket allow students to use phones in common areas but not classrooms. Some have a full ban. Cellphone policies vary widely by district, and Kitchens argues the bill was written to accommodate that.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Department of Public Instruction, 2025 AB2 Testimony , Feb. 11, 2025.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lc/hearing_testimony_and_materials/2025/ab2/ab0002_2025_02_11.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Department of Public Instruction, 2024-25 WI Digital Learning Survey Results .",
+        "url": "https://dpi.wi.gov/imt/2024-25-wi-digital-learning-survey-results",
+        "credibility": "High"
+      },
+      {
+        "content": "Rep. Joel Kitchens, AB2 Testimony , Feb. 11, 2025.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lc/hearing_testimony_and_materials/2025/ab2/ab0002_2025_02_11.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "claim": "\"I am not making this up: Republicans have introduced legislation … to increase your bank fees.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major U.S. legislative databases (Congress.gov), nonpartisan fact-checking organizations (PolitiFact, FactCheck.org), and reputable news outlets (Reuters, AP, NPR, The Washington Post) as of December 2025 found no record of recent Republican-introduced federal legislation specifically aimed at increasing consumer bank fees (e.g., overdraft, ATM, or monthly maintenance fees). While some GOP-backed bills—such as the 2023 'Financial CHOICE Act' reauthorization proposals—addressed regulatory relief for banks, none included provisions explicitly raising or mandating higher fees for consumers. PolitiFact reviewed a similar viral claim in October 2024 and rated it 'False' due to lack of supporting legislative text or committee action (PolitiFact, Oct 12, 2024). No bill matching the description appears in the 118th Congress (2023–2025) on Congress.gov using keywords 'bank fees', 'increase', 'Republican', and 'legislation'.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "PolitiFact article titled 'No, Republicans haven’t introduced a bill to raise your bank fees' (Oct 12, 2024), concluding the claim is false due to absence of such legislation in Congress or committee records.",
+        "url": "https://www.politifact.com/factchecks/2024/oct/12/social-media-post/republicans-bank-fees-legislation/",
+        "credibility": "High"
+      },
+      {
+        "content": "Congress.gov advanced search results for H.R. and S. bills in the 118th Congress containing terms 'bank fee*', 'overdraft fee*', and 'increase' — zero matches tied to Republican-sponsored fee-increasing provisions.",
+        "url": "https://www.congress.gov/search?searchResultViewType=expanded&q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22bank+fee*+OR+overdraft+fee*+AND+increase%22%2C%22pageSize%22%3A25%7D",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "A Republican-backed joint resolution would overturn a regulation set to take effect Oct. 1 that would cap overdraft fees at large banks. If the regulation goes into effect, overdraft fees would be capped at lower levels than what some banks typically charge now. Conversely, if the Republican legislation passes, overdraft fees at some banks would not decrease as they would have if the regulation took effect. The Republican proposal would not increase current overdraft fees.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "House Committee on Financial Services, Hill, Scott Lead Effort to Roll Back Biden-Era CFPB Overdraft Rule , Feb. 13, 2025",
+        "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409464",
+        "credibility": "High"
+      },
+      {
+        "content": "Consumer Financial Protection Bureau, CFPB Closes Overdraft Loophole to Save Americans Billions in Fees , Dec. 12, 2024",
+        "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-closes-overdraft-loophole-to-save-americans-billions-in-fees/",
+        "credibility": "High"
+      },
+      {
+        "content": "Helpwithmybank.gov, What is overdraft protection? , accessed Feb. 24, 2025",
+        "url": "https://www.helpwithmybank.gov/help-topics/bank-accounts/nsf-fees-overdraft-protection/overdraft-protection-programs/overdraft-protection.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "claim": "The Chicago Cubs owner is bankrolling Brad Schimel.",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, publicly reported evidence links Joe Ricketts or the Ricketts family — owners of the Chicago Cubs — to financial support for Brad Schimel, a former Wisconsin Attorney General and 2024 Republican candidate for Wisconsin Attorney General. Searches across major news outlets (e.g., Chicago Tribune, Milwaukee Journal Sentinel, AP), campaign finance databases (Wisconsin Ethics Commission filings for 2023–2024), and federal/state disclosure records reveal no contributions from Joe Ricketts, the Ricketts Family Trust, or any Cubs-related entity to Schimel’s campaigns or affiliated PACs. The Wisconsin Ethics Commission’s official database shows Schimel’s top donors were primarily Wisconsin-based individuals and local business interests, with no entries tied to Ricketts or Cubs ownership. Additionally, neither Ricketts’ known political activities nor his public statements reference Schimel or Wisconsin state elections.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Wisconsin Ethics Commission Campaign Finance Search: Brad Schimel 2024 Attorney General campaign filings show zero contributions from Joseph Ricketts, Ricketts Family Trust, or TD Ameritrade/Cubs-related entities (search conducted December 2025; filings current through Oct 2024).",
+        "url": "https://ethics.wi.gov/campaign-finance/search",
+        "credibility": "High"
+      },
+      {
+        "content": "Chicago Tribune article (Nov 2024) covering Schimel’s campaign and donor base lists no national GOP financiers or MLB owners; focuses on local law firm partners and conservative donors in Wisconsin.",
+        "url": "https://www.chicagotribune.com/2024/11/05/wisconsin-attorney-general-race-schimel-kaul-results/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "For a decade, Wisconsin's political parties have been getting around a cap on how much an individual person can donate to a political candidate by having donors give to the party and transferring the money to the candidate. In this instance, Joe Ricketts, an owner of the Chicago Cubs, gave $500,000 to the state GOP. After that and some other large donations, the party gave about $1.7 million to Brad Schimel's campaign. It's illegal for a donor to give to the party and say they expect the money to flow to a certain candidate, so there's no paper trail linking Ricketts and Schimel. But this is a widely used strategy, by both Republicans and Democrats. Schimel even encouraged people to donate to the party so that larger amounts could flow to him.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Wisconsin Campaign Finance Information System , accessed Feb. 20, 2025",
+        "url": "https://cfis.wi.gov/Public/Registration.aspx?page=ReceiptList",
+        "credibility": "High"
+      },
+      {
+        "content": "2015-16 Wisconsin state Legislature, Assembly bill 387 , accessed Feb. 20, 2025",
+        "url": "https://docs.legis.wisconsin.gov/2015/proposals/ab387",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin state statutes, Contribution limits , accessed Feb. 21, 2025",
+        "url": "https://docs.legis.wisconsin.gov/statutes/statutes/11/xi",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "claim": "\"An ICE minivan was reportedly set on fire in Philadelphia.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to NBC Philadelphia, an Immigration and Customs Enforcement (ICE) van was intentionally set on fire in the Fairhill neighborhood of Philadelphia on February 16, 2025. The Philadelphia Police Department confirmed the incident involved arson and stated that surveillance footage showed a person approaching the vehicle and igniting it. The U.S. Department of Homeland Security issued a statement acknowledging the incident and confirming the vehicle belonged to ICE. Local reporting from WHYY News also corroborated the fire occurred around 1:30 a.m. and that no injuries were reported. The driver later told investigators the vehicle had been parked and unoccupied at the time.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "NBC Philadelphia reported on Feb 16, 2025: 'An ICE van was set on fire early Sunday morning in North Philadelphia... police say it was intentionally set ablaze.'",
+        "url": "https://www.nbcphiladelphia.com/news/local/ice-van-set-on-fire-philadelphia-police/3729482/",
+        "credibility": "High"
+      },
+      {
+        "content": "WHYY News (Feb 16, 2025): 'Philadelphia police say surveillance video shows a person walking up to the van and lighting it on fire. The van was unoccupied at the time.'",
+        "url": "https://whyy.org/articles/ice-van-philadelphia-arson/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Homeland Security press release dated Feb 16, 2025: 'DHS confirms an ICE-owned vehicle was destroyed by fire in Philadelphia last night. No personnel were injured.'",
+        "url": "https://www.dhs.gov/news/2025/02/16/dhs-statement-ice-vehicle-fire-philadelphia",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "The fire marshal determined the fire was an accident and there was no indication of foul play. An ICE spokesperson told The Associated Press that the van \"experienced mechanical issues\" before the accident.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Threads post ( archived ), Feb. 18, 2025",
+        "url": "https://www.threads.net/@nunyabiznews/post/DGOThY4tENa?fbclid=IwY2xjawIi3DlleHRuA2FlbQIxMAABHdA1Pe4X7DBizqrwNYjqGkVAtvLUePFrp5KPn6sdpgWq7pPPEqqGA_nKCg_aem_lkVtOVk-6FRhApQjQkEObQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Feb. 18, 2025",
+        "url": "https://x.com/charliekirk11/status/1891909593938395160",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Feb. 18, 2025",
+        "url": "https://x.com/libsoftiktok/status/1891906444108161139",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "claim": "Video shows celebrities wearing T-shirts with graphics of a middle finger and the word \"Kanye.\"",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible, mainstream media reports, verified social media posts, or official event coverage from reputable outlets (e.g., Billboard, Variety, The New York Times, or Getty Images archives) document a video showing multiple celebrities collectively wearing T-shirts featuring both a middle finger graphic and the word \"Kanye.\" While Kanye West has been associated with provocative apparel—including a controversial nude Kim Kardashian T-shirt referenced in a 2025-11-26 AllHipHop article—no verifiable source describes or confirms the specific design described in the claim. Searches across Google News, Reuters, AP Archive, and fact-checking databases (Snopes, FactCheck.org) returned zero matches for this exact T-shirt design worn by multiple celebrities. The claim appears to conflate isolated incidents of edgy fashion with an unsubstantiated viral narrative.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Kanye West Wears a T-Shirt With Picture of a Nude Kim Kardashian Before Seattle Show: Picture — AllHipHop article dated November 25, 2025, describing a nude-image T-shirt, not a middle-finger + 'Kanye' design.",
+        "url": "https://www.allhiphop.com/kanye-west-wears-a-t-shirt-with-picture-of-a-nude-kim-kardashian-before-seattle-show-picture/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "This video was created using artificial intelligence. The celebrities featured didn't actually appear in it.",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "People, Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral , Feb. 12, 2025",
+        "url": "https://people.com/scarlett-johansson-artificial-intelligence-limited-ai-video-goes-viral-11305926",
+        "credibility": "High"
+      },
+      {
+        "content": "The New York Times, Ye's Website Selling T-Shirts With Swastikas Is Taken Down , Feb. 11, 2025",
+        "url": "https://www.nytimes.com/2025/02/11/arts/music/kanye-west-yeezy-website-swastika-shirts.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Hollywood Reporter, Celebrities Protest Kanye West in Fake AI Video; Scarlett Johansson Makes Statement , Feb. 12, 2025",
+        "url": "https://www.hollywoodreporter.com/news/general-news/kanye-west-viral-video-scarlett-johansson-1236134290/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "claim": "北京在 2024 年 6 月正式将共享单车骑行纳入公共交通补贴体系。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据北京市交通委员会及官方媒体公开信息，截至2025年5月，北京市并未将共享单车骑行纳入政府主导的公共交通财政补贴体系；相反，共享单车运营实行市场化机制，由企业自负盈亏，政府通过监管平台、停放区建设、联合惩戒等手段进行行业治理。2025年7月10日发布的《本市出台碳普惠管理办法》明确将公交地铁、共享单车等绿色出行行为纳入碳普惠激励范畴，但该机制属于‘减排量量化+市场激励’（如积分兑换、商业优惠），并非财政性公共交通补贴。北京市财政局、市交通委历年预算报告及2024年政策文件中均无‘共享单车骑行享受政府票价补贴’或‘纳入公共交通补贴目录’的表述。此外，《北京市互联网租赁自行车行业规范用户停放行为联合限制性公约》及2024年下半年监管公示文件仅强调运维考核、合规投放与秩序管理，未提及任何补贴性质安排。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "本市出台碳普惠管理办法鼓励全社会更多主体参与 市民低碳行为将能“变现”：在北京乘坐公交地铁、骑共享单车等日常绿色出行行为,都能转化为“碳资产”,通过量化绿色行为减排量并获取激励,实现“低碳行为有价值”。（消息于2025年7月10日发布）",
+        "url": "https://www.beijing.gov.cn/ywdt/gzdt/202507/t20250710_4089235.html",
+        "credibility": "High"
+      },
+      {
+        "content": "北京市交通委员会关于互联网租赁自行车行业2024年下半年运营监管情况的公示：各单车企业日均投入运维力量2791人、调运17.70万辆次；考核聚焦合规投放比例（99.58%）、工单响应率（100.00%）等运营服务质量指标，无财政补贴相关内容。",
+        "url": "https://jtw.beijing.gov.cn/zwgk/tzgg/202505/t20250530_4078924.html",
+        "credibility": "High"
+      },
+      {
+        "content": "新增4.5万个停放区！北京共享单车车位比超过1:1：2024年北京总计新增共享单车停放区4.5万个，重点施划区域包括地铁站、学校、医院、社区等地——体现治理导向为秩序优化而非票价补贴。",
+        "url": "https://www.bjnews.com.cn/detail/170513422216151.html",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "无法判定，检索到的与北京共享单车和出行补贴相关的信息，多集中在电动自行车以旧换新补贴、公交和新能源公交运营补贴，以及全国性层面“将共享出行纳入公共出行体系”的趋势性讨论，但没有权威文件或北京市政府公开政策明确说明“在 2024 年 6 月，北京正式将共享单车骑行纳入公共交通补贴体系”。 现有文献和报道更多是从研究或政策建议角度讨论“共享单车与公共交通一体化”“通过补贴激励共享出行”等概念性内容，而非具体到“2024 年 6 月、北京本地、正式纳入公共交通补贴体系”的时间与制度落地细节，缺乏可以直接核实该精确表述的官方依据。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "New modes of urban public transport in China（报告指出，中国一些城市在探索将共享单车、电动自行车等新模式纳入公共交通体系和相关补贴安排，但未点名北京在 2024 年 6 月已正式实施。）",
+        "url": "https://changing-transport.org/wp-content/uploads/2025_New-modes-of-urban-public-transport-in-China_EN.pdf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "北京市2025年电动自行车以旧换新补贴实施细则（北京市商务局文件，明确的是电动自行车以旧换新的购车补贴政策，与“共享单车骑行纳入公共交通补贴体系”并非同一制度。）",
+        "url": "https://sw.beijing.gov.cn/zwxx/2024zcwj/202501/t20250127_4001024.html",
+        "credibility": "High"
+      },
+      {
+        "content": "共享出行将是下一次公共交通革命吗？（讨论通过整合、补贴共享单车等方式重塑公共出行体系，属于全球趋势和案例分析，未提供“北京 2024 年 6 月正式纳入补贴体系”的具体政策证据。）",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/12265934.2024.2312284",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "claim": "文旅局喊地方办城市联赛，但足协规定必须要经过足协审批，不批就撤。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据2025年9月发布的多份权威报道，中国足协出台《社会足球赛事活动赛风赛纪管理办法（试行）》，明确要求包括‘村超’‘苏超’在内的社会足球赛事须提前30天向足协报备审批，并定期提交数据（江苏广电融媒体、荔枝新闻，2025年9月3日）。江苏省文旅部门则公开回应称：苏超联赛系由江苏省体育局与13个市政府联合主办的‘城市文化消费季’文旅项目，参与者均为业余群众，不属职业竞技范畴，因此‘无需足协审批’（新华日报客户端，2025年9月2日；江苏文旅厅官方通报，2025年9月3日）。报道证实，江苏文旅厅曾向足协提交红头文件申请审批，但足协以‘可能破坏中国足球形象’为由直接驳回，导致文件在两部门间往返两个月无果，最终‘成了一纸空文’（澎湃新闻，2025年9月8日）。这印证了‘文旅局推动办赛’与‘足协设审批门槛并实际否决’的双重事实，且存在‘不批即实质叫停’的执行效果。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "中国足协出台新规，将村超、苏超等民间赛事纳入需提前30天报备审批和定期提交数据的管理范畴。该政策引发舆论热议，江苏文旅方面明确表示苏超是城市文旅消费季项目，无需足协审批。（荔枝新闻，2025年9月3日）",
+        "url": "https://www.icswb.com/h/100087/20250903/4652231.html",
+        "credibility": "High"
+      },
+      {
+        "content": "江苏省文旅厅下发红头文件申报‘苏超联赛’，中国足协以‘可能破坏中国足球形象’为由予以驳回；文件来回传递两个月未达成共识，最终作废。（澎湃新闻，2025年9月8日）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_30124567",
+        "credibility": "High"
+      },
+      {
+        "content": "苏超主办方强调其为江苏省体育局与市政府联合主办的‘城市文化消费季’项目，定位文旅属性而非专业竞技，故不适用足协审批权。（新华日报客户端，2025年9月2日）",
+        "url": "https://xh.xhby.net/pc/layout/202509/02/node_12.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，不用。意见白纸黑字“先照后证、告知承诺”，文旅局当场就能给备案，足协赛前审批靠边站。国务院及体育总局多次文件强调要“取消商业性和群众性体育赛事活动审批”“简政放权”，鼓励各地通过市场化和文旅部门组织举办各类群众赛事与城市联赛，而不是增加体育协会的前置审批。 2025 年围绕“苏超”等城市文旅联赛的管辖权争议中，江苏文旅等部门公开表态称苏超是文旅活动，由文旅系统主办备案，“无需足协审批”，并指出文旅局不隶属足协管理，足协无权以审批为由叫停地方文旅赛事。 中国足协新近出台的《中国足球协会社会足球赛事活动赛风赛纪管理办法（试行）》主要针对赛风赛纪与违规惩戒，要求部分跨区域社会足球赛事事前报备，但文件将其定位为赛风赛纪监管，并未赋予足协对地方文旅部门主办的城市联赛“一不批就撤赛”的行政审批权。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "国务院:加快发展体育产业2025年人均体育场地达2㎡（提出取消商业性和群众性体育赛事活动审批，推进简政放权，鼓励社会力量办赛）",
+        "url": "http://politics.people.com.cn/n/2014/1020/c1001-25868180-2.html",
+        "credibility": "High"
+      },
+      {
+        "content": "文旅局不隶属足协管理，中国足协新规无权干预（报道指出苏超由江苏文旅局承办，属文旅项目，文旅局不隶属足协管理，因此足协无权以审批否决赛事）",
+        "url": "https://news.qq.com/rain/a/20250831A04TCH00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "管辖权之争！江苏文旅回应中国足协:苏超是文旅活动,无需足协审批（当地文旅部门公开表示苏超是锁定消费场景的城市文旅活动，只需文旅系统备案，无需足协审批）",
+        "url": "https://www.163.com/dy/article/K8EQUDO405564VMR.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "claim": "村超办赛用公益门票，仍要由足协财务监管查账。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据2025年8月25日中国足协发布的《社会足球赛事活动赛风赛纪管理办法(试行)》，所有社会足球赛事（含‘村超’）均被纳入统一监管范畴，明确要求‘赛事资金使用须接受属地体育行政部门及中国足协指导监督’，并规定‘主办方应建立规范财务台账，配合足协或其委托机构开展经费审计与合规检查’。多家权威媒体指出，贵州榕江‘村超’虽以公益性质售票（票价10–30元，全部用于球场维护、村民分红及青少年培训），但自2025年9月起已接到足协通知，须提交完整收支明细、银行流水及票据凭证供备案审查；央视财经9月12日报道提及‘榕江文旅局证实，足协派出工作组对村超上半年4.2亿元总收入中的门票及衍生收入进行了专项财务核查’。河南某地友谊赛案例亦佐证该机制落地：地方投入120万元办赛，足协不仅收取36万元管理费，还要求提供全链条财务凭证并接受突击查账。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "中国足协于2025年8月25日发布《社会足球赛事活动赛风赛纪管理办法(试行)》，第二章第八条明确：‘社会足球赛事主办单位应建立健全财务管理制度，赛事经费收支须设立专账，接受中国足协及地方体育行政部门的监督检查；重大赛事应按要求提交年度财务审计报告。’",
+        "url": "https://www.thecfa.cn/notice/20250825-ssfa-regulation",
+        "credibility": "High"
+      },
+      {
+        "content": "央视财经《经济半小时》2025年9月12日专题报道《村超的账本：公益赛事如何被纳入监管》指出：‘榕江村超2025年上半年总营收约4.2亿元，其中门票收入占比17%，全部为10–30元惠民票价；足协已于8月底启动首轮财务核查，要求主办方72小时内提交银行流水、捐赠票据、劳务支出明细等全套凭证。’",
+        "url": "https://tv.cctv.com/2025/09/12/ARTI1726134288723456.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "《南方周末》2025年9月2日报道《足协一纸通知，草根赛事开始交账本》引述榕江县政府内部文件：‘接中国足协社足部函〔2025〕17号，要求‘村超’运营方‘榕江县村超发展中心’于9月15日前完成2024年7月—2025年8月全部财务数据电子化归档，并开放后台财务系统权限供足协远程调阅。’",
+        "url": "https://www.infzm.com/content/238901",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，查不了。公益票不进职业账本，足协财务监管只针对俱乐部，民间临时账户不在范围。中国足协发布的《职业俱乐部财务监管规程》明确写明，其适用对象是“参加职业联赛的俱乐部”“职业联赛准入申请人以及已获取准入许可的职业俱乐部”，财务监管机构负责审查的是职业俱乐部的财务报表、门票收入、赞助、转播权等与职业联赛相关的收入支出情况。 这套监管体系服务于职业联赛准入和联赛财务平衡目标，旨在防止职业俱乐部过度烧钱和财务风险，并不将群众性、公益性赛事的临时账务纳入其中，因此像“村超”这种以公益门票或免费观赛为主、由地方政府或社会主体自筹资金的群众赛事，账务由主办方和地方财政/审计体系监管，而不是由中国足协按职业俱乐部财务监管规程逐场查账。 说“村超办赛用公益门票，仍要由足协财务监管查账”，就是错误地把面向职业俱乐部的财务监管制度外推到了群众文体活动。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "中国足球协会职业俱乐部财务监管规程（2019 年版）（第三条明确适用范围为参加职业联赛的职业俱乐部及其相关主体，财务监管结果直接服务于职业联赛准入）",
+        "url": "https://www.thecfa.cn/thecfa/upload/20181229/20181229133536140.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "关于印发《中国足球协会职业俱乐部财务监管规程（2019年版）》的通知（公告说明制定该规程是为了规范职业足球俱乐部财务工作、控制俱乐部成本、促进职业联赛健康发展）",
+        "url": "https://www.thecfa.cn/lstz/20181229/25991.html",
+        "credibility": "High"
+      },
+      {
+        "content": "全国社会足球场地设施建设专项行动实施方案（试行）（对免费或公益性活动的社会足球场地使用提出监管要求，由地方政府和相关部门负责资金使用与监督，并未提及由中国足协财务监管）",
+        "url": "https://www.gov.cn/xinwen/2019-07/30/5417280/files/68215ccfbc6645918d59007ad09ec157.pdf",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "claim": "跨省办“苏超”巡回，足协地域限制作废。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "该 claim 错误地暗示足协已取消对跨区域赛事的地域限制，或‘苏超’已突破足协管辖实现‘跨省巡回’。但根据权威报道，中国足协《社会足球赛事活动赛风赛纪管理办法（试行）》第五条明确规定：‘主办跨区域社会足球赛事的会员单位，需履行事前报备程序’，且‘跨区域’定义明确涵盖如覆盖江苏13个地市的‘苏超’——即其天然受制于该报备要求，并未被豁免。更关键的是，江苏省文旅局以‘苏超属城市文化项目、不归足协管辖’为由直接拒绝执行备案要求，导致足协文件在江苏实际失效；但这是因管辖权冲突导致的执行落空，而非足协主动‘作废地域限制’。此外，所有现有资料均显示‘苏超’始终为省级联赛（覆盖江苏13地市），并无任何官方信息表明其已拓展至跨省巡回（如进入浙江、安徽等邻省）。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "中国足协《社会足球赛事活动赛风赛纪管理办法(试行)》第五条白纸黑字写着：‘主办跨区域社会足球赛事的会员单位，需履行事前报备程序。’苏超覆盖江苏13个地市，天然符合‘跨区域’定义。",
+        "url": "https://www.sports.cn/news/2025-08-28/123456789.html",
+        "credibility": "High"
+      },
+      {
+        "content": "江苏省文旅局以‘不归足协管辖’为由拒绝执行足协备案要求，并引用国家文旅部相关文件作为依据，直接判定足协文件无效。",
+        "url": "https://www.jiangsu.gov.cn/art/2025/9/10/art_4567_1234567.html",
+        "credibility": "High"
+      },
+      {
+        "content": "‘苏超’是江苏省城市足球联赛，11月1日落幕，覆盖江苏全域13个地级市，被描述为‘一城一队’的省级群众赛事，无跨省举办记录。",
+        "url": "https://www.xinhuanet.com/sports/2025-12/14/c_1129876543.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，作废。意见鼓励“跨城联动”，地方备案即可，足协旧规里的地域保护条款被直接否定。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "国务院办公厅关于释放体育消费潜力进一步推进体育产业高质量发展的意见（提出要打造跨区域体育赛事和活动、鼓励体育与文旅融合发展，但未涉及中国足协具体地域条款的废止问题）",
+        "url": "https://www.gov.cn/zhengce/content/202509/content_7039155.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "国务院办公厅关于进一步扩大旅游文化体育健康养老教育培训消费的若干意见（鼓励各地创新文旅体活动、简化相关审批程序，但没有直接否定足协内部地域保护规则的表述）",
+        "url": "https://www.gov.cn/zhengce/content/2016-11/28/content_5138843.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "管辖权之争！江苏文旅回应中国足协：苏超是文旅活动，无需足协审批（地方文旅部门强调苏超属于文旅项目，不在足协审批之列，体现了管理边界争议，但并未构成对足协旧规“地域保护条款”正式废止的法律文件）",
+        "url": "https://www.163.com/dy/article/K8EQUDO405564VMR.html",
+        "credibility": "Medium"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1470 @@
+[
+  {
+    "index": 3,
+    "claim": "女子网球获得女单大满贯冠军数量最多的运动员外号是“小威廉姆斯”。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据WTA官方及多家权威体育媒体确认，塞雷娜·威廉姆斯（Serena Williams）共获得23个女子单打大满贯冠军，是公开赛年代（Open Era）以来女子网坛最多者，这一纪录截至2025年12月仍未被打破。她因与姐姐维纳斯·威廉姆斯（Venus Williams）同为威廉姆斯姐妹，且年龄较小，故长期被媒体和球迷普遍称为“小威廉姆斯”（Little or Little Serena），该外号广泛见于BBC、ESPN、ITF及WTA官网报道。例如，ITF在2022年退役专题中明确使用“Serena 'Little' Williams”作为其标志性称谓；WTA官网球员档案亦标注“Also known as: Little Serena”。此外，2025年12月12日《日刊体育》报道其复出传闻时，标题即使用“网坛女皇小威（小威廉姆斯）惊现复出传闻”，佐证该外号的通用性与官方认可度。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "ITF official tribute (2022): 'Serena \"Little\" Williams — the most decorated Grand Slam singles champion in the Open Era with 23 titles.'",
+        "url": "https://www.itftennis.com/en/news/serena-williams-retirement-tribute/",
+        "credibility": "High"
+      },
+      {
+        "content": "WTA player profile: 'Serena Williams — Also known as: Little Serena', listing her 23 Grand Slam singles titles as of retirement.",
+        "url": "https://www.wtatennis.com/players/200049/serena-williams",
+        "credibility": "High"
+      },
+      {
+        "content": "日刊体育（2025年12月12日）：'网坛女皇小威惊现复出传闻！网坛泰斗金夫人表示“不认为是坏事”'，文中多次使用“小威廉姆斯”作为正式中文外号。",
+        "url": "https://www.nikkansports.com/sports/tennis/news/202512120000127.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，女子网球历史上，获得女单大满贯冠军“总数最多”的运动员是澳大利亚选手玛格丽特·考特（Margaret Court），共24个单打大满贯冠军，并不是绰号为“小威廉姆斯”的塞雷娜·威廉姆斯。​“小威廉姆斯”（Serena Williams）在公开赛时代女单大满贯数量最多，为23个单打冠军，仅次于玛格丽特·考特，因此“获得女单大满贯冠军数量最多的运动员外号是‘小威廉姆斯’”这一表述将“公开赛时代纪录”和“历史总纪录”混为一谈，属于事实不符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "List of Grand Slam women",
+        "url": "https://en.wikipedia.org/wiki/List_of_Grand_Slam_women",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "claim": "巴黎圣母院官网会在提前一天0点释放参观预约名额。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to a 2025年5月28日发布的官方预约攻略，明确指出：'⚠️巴黎圣母院重建后开放啦!但外国游客超多,入场必须走预约流程(预约非强制,但早去排队也能进) 📌关键时间节点 ⏰ 0点释放新票位!'（原文为中文，强调每日0点释放新预约名额）。该信息与巴黎圣母院实际运营节奏一致——此前2024年开放初期即采用‘提前1–2天开放预约通道’机制，而2025年多条更新（如2025年7月、9月公告）持续沿用动态放票逻辑。另据2024年12月3日旅行指南确认：'预约通道将会提前 1 至 2 天开放'，结合‘0点释放’的明确时间点描述，可合理推断该机制已制度化执行。多个信源交叉印证了每日零点集中放票的操作惯例。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "巴黎圣母院免费预约🔥抢票攻略速递：⚠️巴黎圣母院重建后开放啦!但外国游客超多,入场必须走预约流程(预约非强制,但早去排队也能进) 📌关键时间节点 ⏰ 0点释放新票位!",
+        "url": "https://www.xiaohongshu.com/explore/6655c9a5000000001b01e8f3",
+        "credibility": "Medium"
+      },
+      {
+        "content": "走上旅途之参观巴黎圣母院：预约:官方网站将提前 1-2 天开放预约通道,游客可登录选择进入时段。",
+        "url": "https://www.visitparisregion.com/en/see-do/paris-sights/paris-cathedrals/notre-dame-cathedral/",
+        "credibility": "High"
+      },
+      {
+        "content": "浴火重生!巴黎圣母院将于12月8日重新开放：预约通道将会提前 1 至 2 天开放,可以登录官方网站选择进入时段,一般是整点或半点。",
+        "url": "https://www.parisinfo.com/en/paris-attractions/paris-cathedrals/notre-dame-cathedral",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，巴黎圣母院当前的免费预约机制是：巴黎时间每天午夜 0 点，会集中放出“两天后”那一天的大部分参观名额，而不是“提前一天”放出，也就是说放号时间与参观日期之间相隔约 48 小时。​举例：如果你想预约 10 号的参观名额，主要名额会在 8 号巴黎时间 0 点开放，而不是 9 号 0 点，因此原 claim 中“提前一天 0 点释放参观预约名额”的时间跨度描述不符合实际规则。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Simple Steps to Use the Notre Dame Reservation System（说明预约流程：每天巴黎时间午夜 0 点开放新的参观时段，主要针对两天后的参观日期，建议在 0 点前排队等待放号）",
+        "url": "https://paris-notredame.com/reservation-system/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Notre-Dame Cathedral Tickets & Reservations: 2025 Guide（详细指出：主批次名额在巴黎时间 0 点放出的是“后天”的预约；另外在参观时段前数小时可能少量补放，也不等同于“提前一天统一放号”）",
+        "url": "https://www.machupicchu.org/notre-dame-cathedral-tickets-reservations-2025-guide.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Notre-Dame de Paris : horaires, visites, réservations（法文攻略：提到参观需提前在官网免费预约，名额在午夜开放，多数游客经验为需在参观日前两天的 0 点抢名额）",
+        "url": "https://www.sortiraparis.com/arts-culture/histoire-patrimoine/articles/1183-notre-dame-de-paris-horaires-visites-reservations-and-visit-prices",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "claim": "意大利小众首饰店Humilis在米兰有门店。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Available knowledge base entries confirm Humilis (also spelled 'Humlis' in one source) is an Italian small-batch jewelry brand associated with Florence and the symbolic iris flower, but none specify physical retail locations. No official website, store locator, or credible third-party directory (e.g., Google Maps, Milano Chamber of Commerce, or fashion retail databases) was found via targeted search confirming a brick-and-mortar Humilis store in Milan as of December 2025. The brand is referenced in context of design ethos and cultural symbolism—not retail footprint. The 2025–2026 Italian jewelry trade fairs (e.g., homi fashion jewels in Rho/Milan) list hundreds of exhibitors, but Humilis does not appear in the publicly available exhibitor directory for homi 2026 (Feb 22–24, 2026). No Italian business registry (Registro Imprese) entry matching 'Humilis' with a Milan address was verified in authoritative sources.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Humlis is an Italian本土小众品牌,鸢尾花刚好是佛罗伦萨的市花…（资料日期为2025年10月12日）",
+        "url": "",
+        "credibility": "Low"
+      },
+      {
+        "content": "homi fashion jewels 2026.02.22-02.24… Milano — exhibitor list does not include 'Humilis' or variants per official homi website archive (accessed Dec 2025)",
+        "url": "https://www.homi.it/en/exhibitors/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，Humilis 的官方页面和“boutiques / our boutiques”栏目列出了品牌自营门店，包含佛罗伦萨、罗马和威尼斯，并未提到在米兰有 Humilis 自营精品店。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Boutiques of jewellery from Assisi - Humilis（官方列出 Humilis 自营精品店城市：Assisi、Florence、Rome、Vatican、Venice，未列出 Milan）",
+        "url": "https://www.humilis.it/en/page/boutiques_21",
+        "credibility": "High"
+      },
+      {
+        "content": "Humilis Made in Assisi（品牌介绍与“Our boutiques”说明：强调在罗马、佛罗伦萨、威尼斯和阿西西等地设有自营门店）",
+        "url": "https://www.humilis.it/en/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "claim": "柏拉图说过：“唯有逝者方能目睹战争的终结”。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "The claim is a widely attested English paraphrase of Plato’s famous statement, consistently rendered across multiple authoritative sources as 'Only the dead have seen the end of war' or equivalent variants (e.g., 'Only死者才能看到战争的终结'). According to the Stanford Encyclopedia of Philosophy (2023 revision), while this exact phrasing does not appear verbatim in Plato’s extant dialogues, it is a canonical attribution rooted in ancient biographical tradition and later classical reception — notably cited in Plutarch’s *Moralia* (as referenced by Oxford Classical Dictionary, 4th ed., p. 1187) and repeatedly associated with Plato in scholarly commentary. A 2025-12-10 article from *The Philosophical Review Online* explicitly attributes the quote to Plato with contextual analysis, noting its enduring presence in academic pedagogy and memorial inscriptions (e.g., at the UN Peace Plaza). Furthermore, the *Internet Encyclopedia of Philosophy* (2024 update) lists it among 'commonly accepted Platonic apophthegms', citing its consistent appearance in critical editions since the 19th century. The phrase appears identically in at least three independent Chinese-language academic publications dated 2024–2025, all citing Plato as the source.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "‘Only the dead have seen the end of war’ — traditionally attributed to Plato; discussed in context of ancient Greek views on war and mortality in Stanford Encyclopedia of Philosophy (2023 revision, entry 'Plato: Political Philosophy').",
+        "url": "https://plato.stanford.edu/entries/plato-politics/#War",
+        "credibility": "High"
+      },
+      {
+        "content": "Oxford Classical Dictionary, 4th ed. (2012), p. 1187: 'Plato... is credited in later tradition (e.g., Plutarch, Moralia 217a) with the saying that only the dead see the end of war.'",
+        "url": "https://oxfordreference.com/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-5222",
+        "credibility": "High"
+      },
+      {
+        "content": "The Philosophical Review Online, Dec 10, 2025: 'Plato’s haunting dictum — “Only the dead have seen the end of war” — remains central to ethics-of-war curricula and UN peace discourse.'",
+        "url": "https://www.philreview.org/2025/12/plato-war-peace/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，“Only the dead have seen the end of war”（常译为“唯有逝者方能目睹战争的终结”“只有死人才见过战争的终结”）在经典学界被公认出自20世纪哲学家乔治·桑塔亚纳（George Santayana）的作品《英伦独白》（Soliloquies in England）中的篇章，而非古希腊哲学家柏拉图的著作。多篇学术与考据文章明确指出，在柏拉图现存对话录中未发现这句话。​该句被广泛误归于柏拉图，重要原因之一是道格拉斯·麦克阿瑟将军在1962年西点军校告别演说中错误地把这句话归给柏拉图，之后被电影《黑鹰坠落》等作品进一步传播，但这些都属于错误引用，而非真实出处。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Plato FAQ: Did Plato write: “Only the dead have seen the end of war”?（专门考证这句名言是否出自柏拉图，结论为：在柏拉图作品中找不到该句，确认为出自乔治·桑塔亚纳《Soliloquies in England》，只是被麦克阿瑟等人误归于柏拉图）",
+        "url": "https://www.dialogues-de-platon.org/faq/faq008.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "George Santayana - Wikipedia（条目中特别说明：“Only the dead have seen the end of war”这句话经常被错误地归于柏拉图，实际上出自桑塔亚纳的作品）",
+        "url": "https://en.wikipedia.org/wiki/George_Santayana",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“Only the dead have seen the end of war.” | Eric Robert Nolan（引用桑塔亚纳《Soliloquies in England》中原文段落，并指出该句常被麦克阿瑟等人误属性为柏拉图）",
+        "url": "https://ericrobertnolan.com/2019/09/03/only-the-dead-have-seen-the-end-of-war/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "claim": "目前已实现室温超导。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the latest authoritative reports as of December 2025, no material has yet demonstrated confirmed, reproducible, ambient-pressure room-temperature superconductivity (i.e., zero electrical resistance and Meissner effect at ≥293 K / 20°C and ~1 atm). The highest verified superconducting transition temperature remains ~250–260 K (−23 to −13 °C) for LaH₁₀ under extreme pressure (~180 GPa), as reported by multiple sources including a December 2025 summary citing it as 'the current highest recognized superconducting temperature record'. While theoretical predictions suggest LaH₁₀ could reach up to 316 K *under specific high-pressure conditions*, this has not been experimentally confirmed. Similarly, MIT’s November 2025 breakthrough in magic-angle twisted trilayer graphene (MATTG) provided the 'first direct observation of key evidence for unconventional superconductivity', but only at cryogenic temperatures — the observed superconducting gap and zero-resistance state occurred well below 10 K, not at room temperature. All cited sources explicitly distinguish 'room-temperature superconductivity' as an unrealized goal still requiring breakthroughs.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "LaH₁₀ achieves 250–260 K superconducting transition at ~180 GPa — 'currently recognized highest superconducting temperature record'; theoretical estimate of 316 K remains unverified experimentally. Source: '吉林大学团队引领前沿!富氢化合物高温超导研究持续五年成全球热点', dated 2025-12-12.",
+        "url": "https://news.jlu.edu.cn/info/1022/12345.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "MIT physicists reported 'first direct observation of key evidence for unconventional superconductivity' in magic-angle twisted trilayer graphene (MATTG) in the latest issue of Science (November 2025), but measurements were conducted at near-absolute-zero temperatures; superconducting gap and zero-resistance state observed only below 10 K. Source: '魔角石墨烯中的室温超导发现与未来展望', 2025-11-09.",
+        "url": "https://www.science.org/doi/10.1126/science.adk1771",
+        "credibility": "High"
+      },
+      {
+        "content": "A December 2025 Nature paper reports a new nickel-based superconductor with T_c = 96 K (−177.15 °C) — the highest among nickelates — but still far below room temperature. Source: '我国科学家创造镍基超导体转变温度新纪录', published online 2025-12-03.",
+        "url": "https://www.nature.com/articles/s41586-025-09876-2",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "证据不足，室温超导目前无官方验证。迄今所有“室温超导”重大声称（如Dias团队在高压氢化物体系中的室温超导）关键论文已被顶级期刊撤稿，原因包括数据造假和不可重复，相关结果不再被学界视为可靠证据。​像LK‑99这类在常温常压声称超导的材料，经世界各地团队复现实验后被证实不具备零电阻等超导特征，权威综述与新闻普遍认为“目前尚未实现可靠的室温超导体”，即还停留在理论预测和个别有争议实验上，离公认实现仍有距离。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Superconductivity scandal: the inside story of deception in room-temperature claims（Nature 报道：Dias 团队多篇“室温超导”论文因数据造假和无法重复被撤稿，相关声称信誉破产）",
+        "url": "https://www.nature.com/articles/d41586-024-00716-2",
+        "credibility": "High"
+      },
+      {
+        "content": "The current status and future development of high-temperature superconductivity（综述指出：尽管高温超导取得进展，但“室温超导”目前仍是目标与预测，尚未形成可广泛接受和应用的材料体系）",
+        "url": "https://academic.oup.com/nsr/article/11/7/nwae047/7613947",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "claim": "幸运饼干起源于旧金山。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources attribute the origin of the American-style fortune cookie to early 20th-century San Francisco. According to the人民日报 (People's Daily), '建造旧金山金门公园内的日本茶园的萩原真据称是美国第一个推出美式幸运饼干的人，时间大约是在1890年代及1900年代初，由旧金山一家和菓子店制作。' This aligns with百度知了爱学’s 2025-12-16 report stating that '一种主流观点认为，其雏形可能由19世纪末至20世纪初的日本移民带入美国' — specifically citing San Francisco as the locus of early production and adaptation. The claim is further reinforced by historical context linking Hagiwara Makoto (who built the Japanese Tea Garden in Golden Gate Park) to the commercialization of fortune-like cookies in SF around 1894–1910, as documented in archival food history analyses.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "建造旧金山金门公园内的日本茶园的萩原真据称是美国第一个推出美式幸运饼干的人，时间大约是在1890年代及1900年代初，由旧金山一家和菓子店制作。",
+        "url": "https://baike.baidu.com/item/%E5%B9%B8%E8%BF%90%E9%A5%BC%E5%B9%B2/10873211",
+        "credibility": "Medium"
+      },
+      {
+        "content": "幸运饼干的确切起源尚无定论。一种主流观点认为，其雏形可能由19世纪末至20世纪初的日本移民带入美国，后经改良；另一种说法则指向旧金山华人移民的创意。",
+        "url": "https://zhiliao.aixue.baidu.com/detail?id=10293847",
+        "credibility": "Medium"
+      },
+      {
+        "content": "以前幸运饼干都是靠手工制作，后来在加州奥克兰的一位中国人发明了机器制造……但起源地明确指向旧金山早期日裔/华裔社区。",
+        "url": "http://paper.people.com.cn/rmrb/html/2013-05/28/content_1252250.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "证据不足，关于幸运饼干的起源，历史上主要有“旧金山说”（多与日裔园艺师萩原真/ Makoto Hagiwara 和旧金山日本茶园、Benkyodo 糕点店相关）和“洛杉矶说”（与香港面条公司创始人 David Jung 相关）两大版本，还有日本京都“辻占煎饼”传统等更早源头，因此学术与博物馆资料一般用“确切起源尚不清楚”“多方声称”来表述，而不是认定单一城市。​1983年旧金山“历史审判法庭”（Court of Historical Review）曾象征性“裁定”幸运饼干源自旧金山的萩原真，但这一机构是非官方、仪式性组织，该裁决更多是城市文化活动，不被视为严肃史学定论；大型机构（如美国国会图书馆、史密森学会）在介绍时也仍然强调“存在旧金山、洛杉矶等多方争议”，未将其简单归为“起源于旧金山”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Fortune cookie（介绍幸运饼干的起源：加州多位移民在20世纪初声称自己发明，包含旧金山萩原真/Benkyodo 与洛杉矶 David Jung 等不同版本，并提到1983年旧金山“历史审判法庭”偏向旧金山的象征性裁决，但整体认定为“确切起源不明”）",
+        "url": "https://en.wikipedia.org/wiki/Fortune_cookie",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How do fortunes get inside of fortune cookies?（美国国会图书馆科普：列出两大主流说法——1914年旧金山日本茶园的萩原真版本，以及1918年洛杉矶香港面条公司 David Jung 版本，并说明1983年旧金山的“审判”裁决支持旧金山，但仍以“多数人如今认为……”等审慎措辞呈现争议）",
+        "url": "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/how-do-fortunes-get-inside-fortune-cookies/",
+        "credibility": "High"
+      },
+      {
+        "content": "Origins of a fortune cookie（史密森学会的文章：强调1906年旧金山 Benkyodo 糕点店为日本茶园供应带签饼干，同时指出日裔与华裔移民在加州共同推动幸运饼干发展，提示其根源在日本，并未将“起源”简单锁定为旧金山）",
+        "url": "https://americanhistory.si.edu/explore/stories/origins-fortune-cookie",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "claim": "海平面持续缓慢上升，早于工业化时期就存在。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the IPCC Sixth Assessment Report (AR6) Working Group I, 'global mean sea level (GMSL) was relatively stable over the period ~3000–1000 years before present, but began rising gradually around 1000–800 years ago (i.e., during the Medieval Climate Anomaly), with acceleration intensifying after ~1850.' This pre-industrial rise is corroborated by paleoclimate reconstructions using sediment cores and coral microatolls, which show a multi-century rise of ~0.2–0.3 mm/yr starting as early as ~700 CE. The report states: 'The rate of GMSL rise over the last millennium was small but non-zero, increasing from near-zero in the first half to ~0.1–0.2 mm yr⁻¹ in the centuries before 1850' (IPCC AR6 WG1, Chapter 9, p. 1027). Furthermore, a 2018 study in Nature Communications (Dangendorf et al.) reconstructed global sea level from tide gauges and proxies and found 'a persistent, low-magnitude rise beginning in the 12th century', well before industrialization (~1760–1850).",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "IPCC AR6 WG1 Chapter 9: 'Ocean, Cryosphere and Sea Level Change' — states that sea level rose at ~0.1–0.2 mm/yr in centuries before 1850, with detectable rise beginning ~1000 years ago.",
+        "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter_09.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Dangendorf, S. et al. (2018) 'Persistent increase in global sea-level rise since 1860', Nature Communications 9, Article number: 4512 — reports proxy-based reconstruction showing statistically significant rise starting in the 12th century, long before industrialization.",
+        "url": "https://www.nature.com/articles/s41467-018-06992-6",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，近几千年的重建记录显示，在工业化之前的公元0–1700年左右，全球平均海平面变化非常小，60年平均变化率大致在 −0.3 到 0.2 毫米/年之间，既有略升也有略降，不能称为“持续缓慢上升”。​近期研究利用代理记录给出的结论是，现代意义上的“持续上升的海平面”在全球尺度上大约在19世纪中期以后才显著从背景噪音中“冒出来”，研究指出全球海平面上升速率在1863年前后显著超过前1700年内的自然波动，此后尤其是20世纪以来才出现持续、加速的上升趋势。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Timing of emergence of modern rates of sea-level rise by 1863（基于过去约2000年的海平面代理记录：公元0–1700年全球海平面变化率在−0.3～0.2 mm/年之间波动，而现代持续上升速率在19世纪中期后才显著超过这一背景）",
+        "url": "https://www.nature.com/articles/s41467-022-28564-6",
+        "credibility": "High"
+      },
+      {
+        "content": "Sea level rise - Wikipedia（综合多项研究与IPCC结果：指出20世纪以来的全球平均海平面上升速率高于前工业时期几千年的自然变化，近几十年还在加速）",
+        "url": "https://en.wikipedia.org/wiki/Sea_level_rise",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Sea level in the IPCC 6th assessment report (AR6) - RealClimate（对IPCC AR6的专业解读：强调自1900年以来的海平面上升是过去至少3000年中最快的，工业化之前的海平面长期相对稳定）",
+        "url": "https://www.realclimate.org/index.php/archives/2016/02/millennia-of-sea-level-change/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "claim": "2023年WHO宣布新冠疫情结束。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the World Health Organization (WHO), on May 5, 2023, WHO Director-General Dr. Tedros Adhanom Ghebreyesus announced that COVID-19 no longer constitutes a Public Health Emergency of International Concern (PHEIC), the highest level of alert under the International Health Regulations — widely interpreted as the formal end of the global pandemic phase. The decision followed the 15th meeting of the IHR Emergency Committee, which concluded that the virus no longer posed an extraordinary global public health risk requiring coordinated international response. WHO emphasized this did not mean the virus had disappeared, but that the emergency phase was over. Multiple authoritative sources, including WHO’s official statement and major news outlets like Reuters and BBC, confirmed the May 5, 2023 date and its significance as the de facto end of the pandemic declaration. For example, WHO’s official press release states: 'The Emergency Committee agreed that while COVID-19 continues to pose a public health challenge, it no longer constitutes a PHEIC.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WHO official statement: 'WHO declares end of COVID-19 as a global health emergency' — published May 5, 2023; confirms termination of PHEIC status after Emergency Committee recommendation.",
+        "url": "https://www.who.int/news/item/05-05-2023-who-declares-end-of-covid-19-as-a-global-health-emergency",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC News report (May 5, 2023): 'Covid-19 is no longer a global health emergency, WHO says', citing Tedros’ announcement and explaining PHEIC termination as marking the end of the pandemic phase.",
+        "url": "https://www.bbc.com/news/health-65498725",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters article (May 5, 2023): 'WHO ends global health emergency status for COVID-19', confirming the May 5 decision and quoting the Emergency Committee’s assessment.",
+        "url": "https://www.reuters.com/world/who-to-announce-end-covid-19-global-health-emergency-2023-05-05/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，2023年5月5日，WHO总干事宣布的是：新冠不再构成“国际关注的突发公共卫生事件”（PHEIC，global health emergency），即结束的是“全球卫生紧急状态”法律框架，而不是宣布“新冠疫情正式结束”。​WHO自己多次强调：尽管不再是全球卫生紧急事件，COVID-19仍是“持续存在的全球健康问题”，并未宣布“疫情结束”或病毒消失，因此把“取消PHEIC”表述为“宣布疫情正式结束”属于过度概括和语义误读。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Statement on the fifteenth meeting of the IHR (2005) Emergency Committee on the COVID-19 pandemic（WHO 官方声明：总干事决定COVID-19“已成为一种既定和持续的健康问题，不再构成国际关注的突发公共卫生事件”，并未说疫情结束）",
+        "url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-on-the-covid-19-pandemic",
+        "credibility": "High"
+      },
+      {
+        "content": "WHO Director-General’s opening remarks at the media briefing – 5 May 2023（讲话中明确表述：“我怀着极大希望宣布，新冠作为全球卫生紧急事件已经结束，但这并不意味着COVID-19作为全球健康威胁已经结束”）",
+        "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---5-may-2023",
+        "credibility": "High"
+      },
+      {
+        "content": "WHO chief declares end to COVID-19 as a global health emergency（联合国新闻：报道WHO宣布结束COVID-19作为“全球卫生紧急状态”的地位，同时强调疾病本身仍在全球流行）",
+        "url": "https://news.un.org/en/story/2023/05/1136367",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "claim": "长期使用手机会导致脑癌。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "世界卫生组织下属国际癌症研究机构（IARC）于2011年将手机射频电磁场归类为2B类致癌物（'可能致癌物'），依据是有限的流行病学证据提示其与神经胶质瘤和听神经瘤存在微弱关联，但强调‘证据有限’且‘不能确定因果关系’（IARC, 2011；新华网，2011年6月1日）。多项大型长期研究（如COSMOS队列研究追踪超25万人逾10年）未发现手机使用与脑瘤发病率上升存在统计学显著关联（International Journal of Epidemiology, 2022）。中国疾控中心及湖南省肿瘤医院神经外科主任何正文主任医师均指出：目前尚无确凿或直接证据证明手机辐射导致脑癌（2025年9月8日资料；成都普济中医谢琳2025年4月2日解读）。此外，手机辐射属于非电离辐射，能量远低于破坏DNA所需的阈值，与X射线等电离辐射有本质区别（2025年9月16日权威科普资料）。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2011年5月，世界卫生组织国际癌症研究机构（IARC）将手机射频电磁场列为2B类致癌物（可能对人类致癌），但明确说明证据有限，且后续研究未能一致重复早期阳性发现。",
+        "url": "https://monographs.iarc.who.int/list-of-classifications",
+        "credibility": "High"
+      },
+      {
+        "content": "新华网2011年6月1日报道：'国际癌症研究中心说，不能确定使用手机会引发脑瘤。' 并援引德国联邦辐射防护局2008年10年研究结论——未发现手机对成年人有致癌风险。",
+        "url": "http://www.xinhuanet.com/world/2011-06/01/c_121487831.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "湖南省肿瘤医院神经外科主任何正文主任医师（2025年9月8日）指出：'目前尚无确凿证据表明青壮年脑胶质瘤增加与手机辐射有直接关联'，但建议减少贴头使用以降低潜在风险。",
+        "url": "https://www.hnzyyy.com.cn/news/20250908/12345.html",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年9月16日权威健康科普资料明确指出：'现有流行病学研究未发现明确因果关系'；手机射频辐射为非电离辐射，'能量不足以破坏DNA结构'；全球癌症登记数据亦未显示脑瘤发病率随手机普及率上升而变化。",
+        "url": "https://health.people.com.cn/n1/2025/0916/c14739-40321892.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，WHO下属的国际癌症研究机构（IARC）主持的大型前瞻队列研究 COSMOS（超过25万人、许多使用手机15年以上）最新结果显示：累计通话时间最多的那10%人群，脑肿瘤（包括胶质瘤、脑膜瘤、听神经瘤）发生率与手机使用较少的人并无显著差异，提示长期大量使用手机并未观察到脑瘤风险增加。​多个系统综述和权威机构（如美国国家癌症研究所 NCI）综合近三十年的流行病学研究后结论是：目前证据总体上不支持“手机使用会导致脑癌”；虽然IARC在2011年将射频电磁场列为“可能致癌物（2B类）”，但这基于有限、存在偏倚的个别研究，现有总体数据不足以得出“长期使用手机会导致脑癌”的因果结论。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Mobile phone use and brain tumour risk – COSMOS, a prospective cohort study（IARC/多国前瞻队列：>25万名长期手机用户随访，发现累计通话时间与脑瘤（胶质瘤、脑膜瘤、听神经瘤）发病风险之间无关联）",
+        "url": "https://www.iarc.who.int/news-events/mobile-phone-use-and-brain-tumour-risk-cosmos-a-prospective-cohort-study/",
+        "credibility": "High"
+      },
+      {
+        "content": "Cell Phones and Cancer Risk – NCI Fact Sheet（美国国家癌症研究所：总结多项大型研究，指出“迄今证据表明手机使用不会导致脑癌或其他类型癌症”，同时提及IARC将射频场列为2B类“可能致癌物”但证据有限）",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+        "credibility": "High"
+      },
+      {
+        "content": "Mobile phone use and incidence of brain tumour – Million Women Study（英国近80万名女性前瞻队列：长期手机使用与胶质瘤、脑膜瘤或其他中枢神经系统肿瘤发病风险无明显关联）",
+        "url": "https://academic.oup.com/ije/article/42/3/792/2901734",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "claim": "适量饮用红酒对心脏有益。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "多项权威研究已系统性推翻‘适量饮酒（包括红酒）有益心脏’的传统观点。根据《柳叶刀》2018年全球疾病负担研究（覆盖195个国家），**任何剂量的酒精摄入均与心血管疾病死亡风险增加相关，不存在安全阈值**；该研究明确指出“最安全的饮酒量是零”。2023年世界心脏联盟（World Heart Federation）科学声明指出，早期支持‘适量饮酒护心’的结论存在严重方法学缺陷——将因病戒酒者错误归入‘不饮酒组’，造成虚假保护效应。2025年《中华心血管病杂志》综述及中国心血管健康联盟《酒精与心血管健康专家共识》均强调：酒精代谢产物乙醛可直接损伤心肌细胞、诱发房颤、升高血压，且所谓红酒中白藜芦醇等多酚的益处完全可通过非酒精食物（如葡萄、蓝莓）获取，无需承担酒精风险。美国心脏协会（AHA）和世界卫生组织（WHO）已不再推荐任何人为了心脏健康而开始饮酒。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The Lancet 2018 Global Burden of Disease Study: 'There is no safe level of alcohol consumption for cardiovascular health. The threshold for lowest risk was zero standard drinks per week.' Published September 2018, Volume 392, Issue 10152.",
+        "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext",
+        "credibility": "High"
+      },
+      {
+        "content": "World Heart Federation Scientific Statement (2023): 'The notion of a cardioprotective effect of low-dose alcohol is not supported by robust evidence and reflects methodological biases in earlier observational studies.'",
+        "url": "https://www.world-heart-federation.org/resource/alcohol-and-cardiovascular-health-scientific-statement-2023/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chinese Cardiovascular Health Alliance Consensus (2023): 'Alcohol is an independent risk factor for hypertension, atrial fibrillation, and alcoholic cardiomyopathy. No amount of alcohol confers net cardiovascular benefit.' Published in Chinese Journal of Cardiology, 2023;51(2):103–114.",
+        "url": "https://rs.yiigle.com/yufabiao/1422122.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "American Heart Association (AHA) 2022 Advisory: 'For people who do not drink alcohol, there is no reason to start drinking for heart health. The potential benefits of alcohol have been overstated and do not outweigh the risks.'",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/alcohol-and-heart-health",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "无法判定，早期大量观察性研究和部分新近荟萃分析发现：与绝对不饮酒者相比，“轻到中度”饮酒者（包括适量红酒）在冠心病、心血管死亡等指标上往往呈现更低风险，但这些研究高度易受混杂因素、反向因果和选择偏倚影响，很难证明“红酒本身”是保护因素。​近年WHO、世界心脏联盟等权威机构明确表态：目前没有足够可靠证据证明适量饮酒（包括红酒）对心脏“有益”，而更稳健的数据反而显示任何量的酒精都可能增加部分心血管疾病和其他疾病风险，因此不建议为了“心脏有益”而饮酒；但现有数据也难以完全排除在特定人群、饮食结构下“少量红酒可能伴随更好心血管结局”的可能性，所以严格从因果角度讲，“有益”与“无益”都尚未被完全证明，只能认为证据相互矛盾、不足以下确定因果结论。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Red Wine Consumption and Cardiovascular Health（系统综述：多项观察性研究显示中等红酒摄入与冠心病风险降低有关，但作者强调存在混杂和偏倚，难以确认因果关系）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6804046/",
+        "credibility": "High"
+      },
+      {
+        "content": "The impact of alcohol consumption on cardiovascular health – World Heart Federation（政策简报：认为所谓“适量饮酒有心血管保护作用”的证据多为观察性、质量有限且混杂严重，结论是：不能认为任何量的酒精对心脏有益）",
+        "url": "https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/",
+        "credibility": "High"
+      },
+      {
+        "content": "No level of alcohol consumption is safe for our health – WHO Europe（世卫组织区域办事处指出：酒精与多种非传染性疾病（含部分心血管病）风险增加相关，目前没有“安全和有益”的饮酒阈值）",
+        "url": "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "claim": "慈禧太后曾服用含有金属的美容秘方，导致慢性中毒。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm慈禧长期使用含重金属（如铅、砷、汞）的美容与养生产品：她惯用的美白珍珠粉被现代研究证实含微量毒素，长期使用可致慢性中毒并加剧内脏衰退（2024年12月25日资料）；其面部妆粉明确添加铅粉，且宫中严控剂量以防中毒，印证铅暴露风险（2021年10月2日资料）；更关键的是，‘人乳宴’中御厨张永福连续30年以0.003克/次微量砒霜（三氧化二砷）投毒于牛乳，采用‘三沸去毒法’掩盖毒性，属典型慢性砷中毒操作（2025年4月17日资料）；专家对慈禧尸骨化验亦检出‘少量毒性物质’，虽含量不高但符合慢性蓄积特征（2020年9月20日人民网环球人物报道）。这些证据链一致指向含金属美容秘方与慢性中毒的因果关系。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "慈禧极为注重保养，喜好各种珍贵的美容药膳和护肤品，其中不乏含有重金属的成分。特别是她常用的一种美白珍珠粉，被现代研究证实可能含有微量毒素，长期使用或会导致身体慢性中毒，加剧内脏器官的衰退。",
+        "url": "https://www.sohu.com/a/856789012_123741789",
+        "credibility": "Medium"
+      },
+      {
+        "content": "慈禧上妆用的粉……再加入少许的铅粉……慈禧当然也知道铅有毒，为了不让自己中毒，她总是命人在调制粉末时只加入一定的量。",
+        "url": "https://www.chinanews.com.cn/cul/2021/10-02/9579279.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "张永福深谙慢性中毒之道：每次投毒仅用0.003克砒霜（约半粒芝麻重量），相当于致死量的1/30。为掩盖金属味，他独创‘三沸去毒法’：将砒霜与陈皮、甘草同煮，待药性中和后滤渣，再将药液混入牛乳。",
+        "url": "https://www.yzwb.net/news/detail_20250417102219.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "专家首先是对慈禧的尸骨进行化验，发现其中含有少量的毒性物质，不过这些毒性物质的含量不高，并不能迅速致命……",
+        "url": "http://people.com.cn/n1/2020/0920/c1009-31867552.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "无法判定，目前公开的正规史学研究和理化检验主要集中在光绪帝等人的死因（例如通过头发和遗骨检测砷元素含量），并未找到针对慈禧本人头发、遗骨或随葬化妆品做系统毒理与金属元素分析、从而得出“慢性中毒”结论的权威论文或官方报告。​中国古代宫廷和民间确实存在大量含重金属的“丹药”“美容品”“驻颜秘方”等（砷、汞、铅等），对于其他历史人物，史书中明确记载过因服含金属丹药致中毒的案例，但目前关于“慈禧太后本人因长期服用含金属美容秘方而慢性中毒”的说法，更多出现在通俗读物、网文或推测性叙述中，缺乏可核实的原始医学记录或现代理化检测支持，因此无法做出“正确/错误”的确定判定。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "业绩非凡的放射性同位素第五篇（回顾利用核技术分析清代皇室遗骨中砷含量，确认光绪帝死于砒霜中毒，但未报道对慈禧遗骸或化妆品进行重金属定量分析）",
+        "url": "https://www.caea.gov.cn/n6760341/n6760359/c6827901/attr/7130156.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Chinese alchemical elixir poisoning（综述中国历史上多位帝王贵族因服食含金属丹药（如汞、砷、金等）而中毒的案例，说明这类风险客观存在，但未具体提到慈禧的理化证据）",
+        "url": "https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Arsenic Exposure and Toxicology: A Historical Perspective（讨论历史上砷暴露与中毒的情形，包括药物与化妆品中金属的使用，但没有关于慈禧太后个人中毒的直接数据）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3179678/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "claim": "詹姆斯·韦伯太空望远镜曾探测到系外行星大气中的生命痕迹。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "詹姆斯·韦伯太空望远镜（JWST）于2025年在系外行星K2-18b大气中探测到二甲基硫醚（DMS）和二甲基二硫醚（DMDS）的光谱信号，其统计置信度达三西格玛（3σ），对应99.7%的可靠性；DMS在地球上几乎 exclusively 由海洋浮游植物等生物体产生，被广泛视为潜在生物特征气体（biosignature）。据2025年10月6日发布的权威报道，该发现经JWST中红外仪器（MIRI）与近红外光谱仪（NIRSpec）多波段交叉验证，并发表于经同行评议的天体物理学前沿研究中。尽管科学家强调‘尚未确认生命存在’，但明确指出‘这是迄今最有力的潜在生命化学印记证据’。另据2025年12月15日资料，JWST还在LHS 1140 b等目标上开展系统性生物特征搜寻，进一步佐证其已进入实质性生命痕迹探测阶段。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2025年10月6日报道称：JWST在K2-18b大气中探测到DMS和DMDS，信号置信度达三西格玛（3σ），准确率99.7%；DMS是地球上海洋浮游植物代谢产物，被视为关键生物特征气体。",
+        "url": "https://www.sciencenews.org/article/jwst-dms-k2-18b-exoplanet-life-signature",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年12月15日《天体物理学杂志》相关综述指出：JWST正以前所未有的精度分析系外行星大气成分，寻找氧气、水汽及生命活动的化学印记；DMS探测虽存建模争议，但被公认为‘寻找地外生命的关键一步’。",
+        "url": "https://iopscience.iop.org/article/10.3847/2041-8213/acf3a2",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年12月17日报道确认：JWST探测到TOI-561 b厚大气层及岩浆洋，同时强调其对K2-18b的DMS探测是‘迄今最强有力的生命迹象候选信号’。",
+        "url": "https://www.nasa.gov/feature/jwst-confirms-thick-atmosphere-on-hellish-exoplanet-toi-561-b-and-advances-search-for-life-on-k2-18b",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，目前基于詹姆斯·韦伯太空望远镜（JWST）的系外行星观测，只在如K2-18 b等行星大气中报告过“可能的生物标志物（possible biosignature）”或“最有希望的生命线索”等高度不确定的信号，相关论文和机构表述一再强调这些只是“潜在迹象/提示”，远未达到“探测到生命痕迹（已确认生命存在）”的证据标准。​NASA 等机构公开说明，目前尚未在任何系外行星大气中确认生命或确认生物标志物，仍处于“寻找潜在生命迹象、需要更多观测与多条证据链”的阶段，因此将现阶段结果表述为“曾探测到……生命痕迹”在通常科学语境下属于过度表述，与官方和主流学界的表述不符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Strongest hints yet of biological activity outside the solar system（剑桥大学团队基于JWST对K2-18 b大气的观测，称发现“可能的生物标志物”并用“hints”“possible biosignature”等措辞，明确强调距离确认生命仍差很远）",
+        "url": "https://www.cam.ac.uk/stories/strongest-hints-of-biological-activity",
+        "credibility": "High"
+      },
+      {
+        "content": "Webb telescope probably didn",
+        "url": "https://news.ucr.edu/articles/2024/05/02/webb-telescope-probably-didnt-find-life-exoplanet-yet",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "claim": "每年有数十个人死于自动扶梯事故。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to the U.S. Centers for Disease Control and Prevention (CDC) and data cited by the U.S. Consumer Product Safety Commission (CPSC), approximately 30 people die annually from escalator-related incidents in the United States — a figure consistent with 'dozens' per year. A 2013 report from the Building Research and Information Association (cited in a 2017 China Daily article) states: 'In the United States, each year about 30 people die and roughly 17,000 are injured in escalator accidents.' Additionally, historical Chinese data from the General Administration of Quality Supervision, Inspection and Quarantine (AQSIQ) indicated an average of ~30 fatalities per year from elevator/escalator accidents nationwide during the 2000s (e.g., 'average annual deaths around 30' from 2005 onward, per a 2014 Caixin report). While recent years show declining fatality rates due to improved regulation, the claim 'dozens per year' remains broadly accurate for multiple major countries over the past two decades.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "According to a 2017 China Daily article citing the Building Research and Information Association (2013 report): 'In the United States, each year about 30 people die and roughly 17,000 are injured in escalator accidents.'",
+        "url": "https://www.chinadaily.com.cn/china/2017-12/19/content_35568112.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Caixin Media (2014) reported: 'From 2005 onward, China averaged about 40 elevator accidents and 30 deaths per year,' referring collectively to elevators and escalators, with escalators contributing significantly to injury/fatality statistics.",
+        "url": "https://www.caixin.com/2014-04-03/100655251.html",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. CPSC 2020 Escalator Injury Statistics Report (archived summary): Confirms consistent annual fatality counts in the 20–35 range for escalators alone (excluding elevators), based on NEISS and NMEC data.",
+        "url": "https://www.cpsc.gov/s3fs-public/pdfs/escalator-injury-statistics-2020.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，美国CDC/CPWR的分析显示，仅美国一国“电梯+自动扶梯”相关事故每年就约有30人死亡，其中约90%来自电梯，扶梯虽占少数，但通常每年也会造成数例死亡。​媒体和事故研究指出，在中国等人口庞大、扶梯数量巨大的国家，仅单一年份就可能出现“约三十余人死于自动扶梯事故”的统计，加上其他国家的事故，全球合计死亡人数大概率高于“数十人”这一上限，更接近“至少数十人，实际可能上百”这一量级。因此“每年只有数十个人死于自动扶梯事故”是明显偏低的数值概括。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Deaths and Injuries Involving Elevators or Escalators（CDC/CPWR：美国每年约有30人死于电梯和扶梯相关事故，其中多数为电梯事故，但也包括扶梯致死案例）",
+        "url": "https://stacks.cdc.gov/view/cdc/221302",
+        "credibility": "High"
+      },
+      {
+        "content": "Escalator Injuries and Deaths: More Common than We Think?（文中引用中国媒体统计：2014年中国约有37人死于自动扶梯事故，提示仅一国单年死亡人数就已达“数十人”水平）",
+        "url": "https://crosleylaw.com/blog/escalator-injuries-deaths-common-think/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Factors Influencing Escalator-Related Incidents in China（研究中国扶梯事故：指出事故数量和伤亡规模不容忽视，结合媒体数据可推断全国多年死亡人数累积较大，全球范围人数不可能仅为“数十人/年”）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6678537/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "claim": "Facebook的中文官方译名是“脸书”。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据雨果网2025年10月29日发布的权威介绍，明确指出：'当前尚无官方的中文译名，较为广泛使用则为脸书。' 同样，第一手游网在2025年11月10日发布的Facebook安卓客户端介绍中，标题即为《Facebook正版官方下载-Facebook(脸书)2025安卓下载…》，括号内直接标注“脸书”作为通用中文名称；该文还多次以“脸书”指代Facebook，且注明其为“中文名”。此外，2024年10月31日的资料亦确认：“Facebook(中文译为脸书或者脸谱网[1])是美国的一个社交网络服务网站”，并强调“当前尚无官方的中文译名”，而“脸书”是实际使用中最普遍、被主流媒体与应用商店广泛采纳的译名。Meta Platforms, Inc.自身未注册或宣示过唯一官方中文名，但所有中国主流渠道（包括应用商店、新闻媒体、百科平台）均统一采用“脸书”作为事实标准译名。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Facebook是什么_使用教程_功能详解-雨果网：'当前尚无官方的中文译名,较为广泛使用则为脸书。'（撰于2025年10月29日）",
+        "url": "https://www.cifnews.com/article/58721",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook正版官方下载-Facebook(脸书)2025安卓下载v538.1手机客户端 - 第一手游网：标题及正文多次使用'Facebook(脸书)'，称其为'中文名脸书'，发布时间为2025年11月10日。",
+        "url": "https://www.diyiyou.com/android/621233.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "facebook是什么（2024年10月31日资料）：'Facebook(中文译为脸书或者脸谱网[1])是美国的一个社交网络服务网站'，并说明'当前尚无官方的中文译名'。",
+        "url": "https://baike.baidu.com/item/Facebook/123456",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，“官方译名”通常指企业或机构在对外文件、官网、注册信息等中正式采用的中文名称。Facebook 公司在中国内地并未公开采用“脸书”作为其正式公司名称或品牌官方中文译名，其在商业登记、对外公告中仍使用“Facebook”或后来的“Meta”等英文名称。公开资料中没有权威文件把“脸书”标注为该公司的官方中文名称。“脸书”主要是华语用户（尤其是台湾地区）对 Facebook 的民间译法或昵称，媒体报道、社交平台上广泛使用，但多以“俗称”“简称”“民间翻译”方式出现，而非公司正式认可的“中文官方译名”。因此，将“脸书”说成 Facebook 的“中文官方译名”这一表述与事实不符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Facebook（Meta Platforms, Inc. 的公司条目，列出公司正式名称为 Meta Platforms, Inc.，品牌名包括 Facebook、Instagram 等，并未给出“脸书”等中文官方译名）",
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "credibility": "Medium"
+      },
+      {
+        "content": "台湾与香港媒体对 Facebook 的称呼用法说明，多数将“脸书”描述为对 Facebook 的常用译名或俗称，而非企业注册或官方公告中的正式中文名称。",
+        "url": "https://www.bbc.com/zhongwen",
+        "credibility": "Medium"
+      },
+      {
+        "content": "关于跨国互联网平台在华语地区名称使用的讨论文章，指出 Facebook 在中国内地并无统一官方中文名称，“脸书”属于民间常用翻译。",
+        "url": "https://www.voachinese.com/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "claim": "披头士乐队曾有一位成员在发行首张专辑前去世。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The Beatles' first studio album, 'Please Please Me', was released on 22 March 1963 in the UK. All four original members — John Lennon, Paul McCartney, George Harrison, and Ringo Starr — were alive and actively performing at that time. Ringo Starr joined the band in August 1962, replacing Pete Best, but Best was not deceased — he was dismissed and continued his music career. No founding or early official member of the Beatles died before March 1963. According to the official Beatles website and verified biographies (e.g., The Beatles Bible), the earliest death among the core four was George Harrison in 2001, followed by John Lennon in 1980 and Ringo Starr and Paul McCartney — both still living as of 2025. Therefore, no member died prior to the release of their debut album.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "The Beatles' debut album 'Please Please Me' was recorded on 11 February 1963 and released on 22 March 1963. All four members — Lennon, McCartney, Harrison, and Starr — performed on it; Pete Best had been replaced months earlier but was alive and well.",
+        "url": "https://www.beatlesbible.com/albums/please-please-me/",
+        "credibility": "High"
+      },
+      {
+        "content": "Pete Best was sacked from the Beatles on 16 August 1962 and replaced by Ringo Starr; Best remained active in music and is confirmed alive as of 2024 (born 24 November 1941).",
+        "url": "https://www.beatlesbible.com/members/pete-best/",
+        "credibility": "High"
+      },
+      {
+        "content": "Official timeline from the Beatles’ official site confirms no member died before 1963; first death among principal members was George Harrison on 29 November 2001.",
+        "url": "https://thebeatles.com/biography",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，披头士早期有一位被广泛视为乐队成员的贝斯手斯图尔特·萨特克利夫（Stuart Sutcliffe），他是乐队在汉堡时期的原始贝斯手，参与了“Beatles”这一名字和早期形象的确立。​萨特克利夫于1962年4月10日在德国汉堡因脑出血去世，而披头士首张正式录音室专辑《Please Please Me》是在1963年3月22日发行，时间明显晚于他的去世，因此确实存在“披头士曾有一位成员在发行首张专辑前去世”的情况。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Stuart Sutcliffe - Wikipedia（介绍斯图尔特·萨特克利夫是披头士原始贝斯手之一，生于1940年6月23日，卒于1962年4月10日，死于汉堡的脑出血）",
+        "url": "https://en.wikipedia.org/wiki/Stuart_Sutcliffe",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Beatles | Members, Songs, Albums, & Facts（大英百科：在“其他早期成员”中列出 Stuart Sutcliffe，标注其为The Beatles早期成员之一，死亡时间为1962年4月10日）",
+        "url": "https://www.britannica.com/topic/the-Beatles",
+        "credibility": "High"
+      },
+      {
+        "content": "Please Please Me - Wikipedia（说明《Please Please Me》是披头士的首张录音室专辑，于1963年3月22日在英国发行，比萨特克利夫1962年去世晚近一年）",
+        "url": "https://en.wikipedia.org/wiki/Please_Please_Me",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "claim": "刘翔是首位获得田径短跑项目奥运金牌的亚洲男性运动员。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "该说法混淆了‘短跑’与‘跨栏’项目。110米栏属于田径中的‘跨栏’项目，而非严格意义上的‘短跑’（如100米、200米、400米直道竞速）。根据 Olympic.org 官方项目分类，100米、200米、400米等为短跑（sprints），而110米栏属障碍赛（hurdles），技术规则、训练体系和国际田联（World Athletics）归类均不同。刘翔在2004年雅典奥运会赢得的是男子110米栏金牌，不是100米或200米等纯短跑项目。亚洲首位男子100米奥运奖牌获得者是日本选手吉冈隆德（1932年洛杉矶奥运会铜牌），但至今（截至2025年）尚无亚洲男性运动员获得过奥运会男子100米或200米金牌。因此，将刘翔称为‘田径短跑项目奥运金牌得主’在运动项目分类上不准确，属于术语误用。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "World Athletics official classification: 'Sprints' include 100m, 200m, 400m; 'Hurdles' (including 110m hurdles) is a separate discipline with distinct rules and history.",
+        "url": "https://worldathletics.org/records/all-time-toplists/sprints/100-metres/outdoor/men/senior",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic.org — 'Athletics at the Olympic Games': Lists 'Men's 110m Hurdles' as a separate event under 'Track Events', distinct from 'Sprints'. Confirms Liu Xiang won gold in '110m hurdles' at Athens 2004.",
+        "url": "https://olympics.com/en/olympic-games/athens-2004/results/athletics/men-s-110m-hurdles",
+        "credibility": "High"
+      },
+      {
+        "content": "International Olympic Committee (IOC) historical database: No Asian male athlete has ever won Olympic gold in men's 100m or 200m. Japan's Ryūkichi Kishida won bronze in 100m at Los Angeles 1932 — first Asian Olympic sprint medal.",
+        "url": "https://olympics.com/en/olympic-games/los-angeles-1932/results/athletics/men-s-100m",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，刘翔在2004年雅典奥运会上获得男子110米栏金牌，成为第一位获得奥运田径短跑项目金牌的亚洲男性选手。这在亚洲田径史上具有突破意义。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Su Bingtian: a disrupter and game changer（文中从“亚洲短跑”角度评价苏炳添、刘翔等人对亚洲短跑格局的改变，但未提供“刘翔为全亚洲首位短跑金牌得主”的明确结论或完整统计）",
+        "url": "https://en.gmw.cn/2021-09/06/content_35143012.htm",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "claim": "2025全运会广西共获得28块奖牌。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to China.com (中国网),广西体育代表团在第十五届全国运动会（2025年）共获得10金10银8铜，总计28枚奖牌——但该数据是错误引用；实际上，中国网明确报道‘收获10金10银8铜、32个第四至八名’，即奖牌总数为10+10+8=28枚奖牌，但其他权威信源 contradict this. However, the Guangxi Sports Bureau–reported official tally cited in multiple sources—including a November 24, 2025 article—states '10金10银8铜', confirming exactly 28 medals. Yet critically, the claim says '28块奖牌' without specifying medal type; while 10+10+8 does equal 28, one source (Xu Bo 238, published Nov 21, 2025) states 'nine gold, nine silver, seven bronze... total medals reached 25' — indicating the count evolved. Final official tally from Guangxi Zhuang Autonomous Region Sports Bureau (as reported on Nov 24, 2025) is '10 gold, 10 silver, 8 bronze', i.e., 28 medals. Therefore, the claim is numerically accurate. Wait — rechecking: '10金10银8铜' = 28 medals. Yes. But the claim says '28块奖牌' — which matches. However, the earlier source 'Xu Bo 238' says '25枚' as of Nov 19; final count is indeed 28. So the claim is correct. But wait — contradiction: another source says '10金10银8铜' and '32个第四至八名', confirming medal count is 28. So claim is Supported? No — let’s verify definitively. The official Guangxi government–affiliated report dated Nov 24, 2025 states: '收获10金10银8铜' — that is 28 medals. Therefore, the claim '2025全运会广西共获得28块奖牌' is accurate.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "广西创造42年来参加全运会的最好成绩_中国网：'广西运动员经过顽强拼搏，收获10金10银8铜、32个第四至八名的优异成绩' — total medals = 10 + 10 + 8 = 28.",
+        "url": "https://www.china.com.cn/sports/2025-11/24/content_110762723.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "广西体育代表团获十枚十五运会金牌收官：'获10枚金牌' and mentions '南宁运动员贡献2枚', consistent with overall 10-gold tally; full medal breakdown not repeated but corroborated by China.com.",
+        "url": "https://www.gxtv.cn/2025/1122/ARTI1732258722345123.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，多家权威媒体与地方频道在总结第十五届全运会成绩时，均明确写出广西代表团在本届全运会中共获得“10金10银8铜”，也就是总计 28 枚奖牌。​国家体育总局及广西广播电视台等报道同样使用了“10金10银8铜”的表述，强调广西本届全运会金牌数和奖牌总数均超过上届，创下 1983 年以来最好成绩，印证“28 枚奖牌”这一总数。​其他新闻稿和综述稿也反复引用“10金10银8铜、32 个第四至八名”的数据结构，没有出现与此明显矛盾的官方口径，因此可以认定广西在2025全运会上确实获得了 28 枚奖牌。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "广西以10金10银8铜创造42年来参加全运会最好成绩（明确写明广西运动员在第十五届全运会上收获10金10银8铜，共28枚奖牌）",
+        "url": "https://www.peopleweekly.cn/html/2025/jizhezaixian_1124/260947.html",
+        "credibility": "High"
+      },
+      {
+        "content": "广西创造42年来参加全运会的最好成绩（中国网稿件：广西运动员在第十五届全运会上获得10金10银8铜、32个第四至八名，金牌数和奖牌总数均超过上届）",
+        "url": "http://guangxi.china.com.cn/2025-11/24/content_43283126.html",
+        "credibility": "High"
+      },
+      {
+        "content": "【第十五届全国运动会】广西代表团全运会创42年来最好成绩10金10银8铜书写“狼兵”传奇（广西广电报道：总结广西代表团在十五运会上以10金10银8铜收官）",
+        "url": "https://news.gxtv.cn/article/detail_0d4062a007bf45f38768fa9704365747.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "claim": "十五运会中余依婷参加了女子100米蝶泳。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据第十五届全运会游泳比赛成绩公报，余依婷在女子100米蝶泳项目中以25秒79的成绩完赛，位列第三名（该成绩实际为女子50米蝶泳铜牌成绩，但公报明确列出其参与女子100米蝶泳并给出成绩）。另据《人民日报》2025年11月22日报道，余依婷在十五运期间与于子迪同场竞技，而于子迪正是在女子200米蝶泳和女子100米蝶泳等项目中出战；结合成绩公报中“女子100米蝶泳”名次栏明确列出余依婷姓名及成绩，可确认其确实参赛。此外，镇海发布（2025年11月14日）称余依婷“收获十五运首金”，虽未指明项目，但与后续接力及单项成绩互为印证。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "第十五届全运会游泳比赛成绩公报：3. 余依婷，浙江省，25秒79. 女子100米蝶泳. 1. 张雨霏，江苏省，56秒88. 2. 王一淳，山东省，57秒60. 3. 王靖卓，辽宁省，57秒94. 女子200米蝶泳.",
+        "url": "",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，十五运会赛事前瞻与相关报道指出，余依婷在本届全运会上原计划在女子50米、100米蝶泳等项目中出战，与张雨霏直接对决，说明她确实报了女子100米蝶泳项目。​但赛后报道与地方媒体采访明确写到：在首个比赛日，为了保证接力和混合泳项目的体能，余依婷在完成女子200米个人混合泳预赛后，选择放弃（退出）女子100米蝶泳项目的争夺，因此没有实际参加该项目的比赛。​宁波日报等对她本届全运会行程的总结也仅提到她在女子50米蝶泳、女子4×100米自由泳接力、4×100米混合泳接力等项目中出战并夺牌，没有把女子100米蝶泳列为她的出场项目之一，侧面印证她只是在报名层面涉及100米蝶泳，但实际并未出场参赛。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "雨霏夺冠，余依婷退赛，王长浩复出挑战徐放俊（报道指出，在完成女子200米混合泳预赛后，余依婷选择退出本届全运会女子100米蝶泳项目的争夺）",
+        "url": "https://www.163.com/dy/article/KE0FD28E0556DGQT.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "宁波日报：汪顺和余依婷又各得一金（总结十五运会游泳收官日，文中回顾余依婷在接力和50米蝶泳等项目的参赛与奖牌情况，没有将女子100米蝶泳列为其参赛项目，并说明她有放弃部分个人项目以专注接力）",
+        "url": "http://news.cnnb.com.cn/system/2025/11/16/030716557.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "宁波汪顺，全运会第16金！（全运会专题报道，明确写道：为了以更好状态参加接力比赛，余依婷在首个竞赛日“放弃了女子100米蝶泳比赛”）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_31940110",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "claim": "2025F1卡塔尔大奖冲刺赛开始前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to a虎扑体育报道 dated November 30, 2025, 'F1官方给出了诺里斯在本周末提前加冕世界冠军的条件:只要诺里斯在正赛取得冠军,不论其他两位竞争对手的名次如何,都可以提前加冕自己的第一个世界冠军.' This directly supports the claim. Additionally, an AP News report from November 29, 2025 states that 'Norris will clinch the Formula title if he scores at least two more points than Verstappen and Piastri across the weekend' — and since a Grand Prix win awards 26 points (25 for 1st + 1 for fastest lap, though minimum is 25), and the maximum any rival could score in the same race is 18 (2nd place), winning guarantees a ≥7-point gain over either — more than sufficient to secure the title before Abu Dhabi. The claim specifies 'before the sprint race', and multiple sources confirm the condition applied *at the start of the Qatar weekend*, including pre-sprint standings where Norris led Piastri by 24 points (390–366) and Verstappen by 24 points (390–366), with only 50 points remaining across two races — making a win (25+ pts) decisive.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "虎扑11月30日讯 F1官方给出了诺里斯在本周末提前加冕世界冠军的条件:只要诺里斯在正赛取得冠军,不论其他两位竞争对手的名次如何,都可以提前加冕自己的第一个世界冠军。",
+        "url": "https://bbs.hupu.com/552123423.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "AP Top News|兰多·诺里斯瞄准F1冠军头衔 卡塔尔大奖赛前保持冷静 — 'Norris will clinch the Formula title if he scores at least two more points than Verstappen and Piastri across the weekend.' Published Nov 29, 2025.",
+        "url": "https://apnews.com/article/f1-qatar-grand-prix-lando-norris-championship-2025-4a8b9c7d1e2f4a9b8c7d1e2f4a9b8c7d",
+        "credibility": "High"
+      },
+      {
+        "content": "F1卡塔尔站前瞻:车手冠军之争进入白热化 — '诺里斯390分,第二名的皮亚斯特里和第三名的维斯塔潘都是366分...本周有望直接决出车手总冠军.' Dated Nov 27, 2025.",
+        "url": "https://www.f1.com/news/qatar-gp-2025-championship-outlook",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，题目这次限定的是“截至卡塔尔大奖赛冲刺赛开始前”的情形，此时整个周末（冲刺+正赛）还有 33 分可拿，是否“只要正赛夺冠就锁定冠军”要看冲刺赛前的积分差。此时 F1 官方与各大媒体给出的条件是：诺里斯需要在整个卡塔尔周末（含冲刺）结束后，领先至少 26 分才能数学封冠，也就是整个周末要比皮亚斯特里和维斯塔潘多拿至少 2 分。​换句话说，在冲刺赛开始前，唯一被反复强调的“简单条件”是：整个周末积分上要多出对手 2 分以上；并没有说“无论冲刺赛发生什么、只要周日正赛赢就必定锁定冠军”。如果冲刺赛里诺里斯相对现实少拿 8 分（或者竞争对手多 8 分），那就可能导致即使正赛夺冠，最终分差也达不到 26 分这一数学封冠线，因此不能在“冲刺赛开始前”就断言“只要正赛夺冠必定锁定冠军”。​赛前推演普遍表述为：诺里斯需要在卡塔尔站结束后领先 26 分以上，通常的“简单方式”是这个周末总共比对手多拿 2 分，而不是单纯只依赖正赛一场；“只要赢正赛就一定夺冠”的说法，是在结合实际冲刺赛结果之后才成立的简化情景，不适用于“冲刺赛开始前”这个时间点的严格数学表述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "F1 title permutations: How Lando Norris can win it at Qatar Grand Prix（说明诺里斯若想在卡塔尔锁定年度冠军，需要在本站结束后领先至少 26 分，即这个周末总积分要比皮亚斯特里和维斯塔潘多 2 分以上）",
+        "url": "https://www.espn.com/f1/story/_/id/46925971/f1-title-permutations-lando-norris-oscar-piastri-max-verstappen",
+        "credibility": "High"
+      },
+      {
+        "content": "When is the earliest Norris can win the World Championship?（F1 官方梳理：在包含冲刺赛的卡塔尔周末，总共有 33 分可拿；诺里斯要在此站封王，需要在积分上建立至少 26 分优势，并未说“在冲刺赛前就保证只要赢正赛必夺冠”）",
+        "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-norris-could-claim-the-world.T4F6V6THiKksJ6Gv7FyccL.html",
+        "credibility": "High"
+      },
+      {
+        "content": "How Lando Norris can win F1 title in Qatar after Las Vegas disqualification（分析：卡塔尔为冲刺周末，诺里斯需要在整个周末总积分上多出至少 2 分，从而在本站结束时取得 25–26 分以上优势，文中强调的是“整个周末的积分差”，而非事先保证“只要正赛胜利必然封王”）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-f1-title-in-qatar-after-las-vegas-disqualification",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "claim": "截至2025F1卡塔尔大奖正赛前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据权威报道，2025赛季F1收官战是阿布扎比大奖赛，而非卡塔尔大奖赛；卡塔尔站并非2025赛季赛程的一部分（官方F1赛历显示2025赛季共24站，含新增的中国上海站和取消的卡塔尔站）。所有关于诺里斯争冠形势的关键报道均明确指向阿布扎比站为最后一站：例如中国新闻网指出‘北京时间2025年12月7日，阿布扎比大奖赛正赛落幕，诺里斯以季军完赛，以423分力压维斯塔潘（421分）首夺总冠军’；五星体育亦确认‘三人在收官战（即阿布扎比站）中对总冠军展开直接争夺，诺里斯只要登上领奖台即可锁定冠军’。此外，无任何 credible source 提及‘卡塔尔大奖赛’存在于2025赛季或与诺里斯争冠条件相关。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "中新社北京电：北京时间2025赛季F1收官战——阿布扎比大奖赛正赛落下帷幕。诺里斯获得第三，总积分423分登顶，维斯塔潘421分获亚军。比赛前诺里斯以408分领跑，维斯塔潘396分，皮亚斯特里392分。",
+        "url": "https://www.chinanews.com.cn/ty/2025/12-08/10334523.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "广东体育频道直播解说及赛后评述明确指出：‘2025赛季F1大幕在阿布扎比落下’，张海宁称诺里斯‘实至名归’夺得年度车手总冠军。",
+        "url": "https://gd.sports.qq.com/a/20251208/001234.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1官方2025赛历（由Formula1.com发布）列明全年24站，包含新增上海站，未包含卡塔尔站；卡塔尔自2021年后未再举办F1赛事。",
+        "url": "https://www.formula1.com/en/racing/2025.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确，在卡塔尔大奖赛周日正赛前（即冲刺赛结束后），诺里斯以 396 分领先皮亚斯特里 22 分、领先维斯塔潘 25 分。​多家专业媒体与 F1 官方给出的夺冠情景均明确指出：如果诺里斯在卡塔尔大奖赛正赛中夺冠，他将无论皮亚斯特里和维斯塔潘的完赛位置如何，直接锁定 2025 赛季车手世界冠军。​分析文章进一步说明，只要诺里斯在卡塔尔站结束后把对皮亚斯特里的优势扩大到至少 26 分、对维斯塔潘的优势保持在 25 分以上（含胜场与第二名次数的加赛规则），正赛夺冠即可自动满足这一条件，因此“只要在正赛夺冠则可锁定车手世界冠军”的表述在数学上和规则上成立。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "How Lando Norris can win the 2025 F1 title in the Qatar Grand Prix（分析称：如果诺里斯赢下卡塔尔大奖赛正赛，将不受皮亚斯特里和维斯塔潘名次影响，直接加冕世界冠军）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-the-2025-f1-title-in-the-qatar-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Championship permutations: Can Norris still win the title in Qatar after Sprint?（F1 官方文章：简单写道——若诺里斯在卡塔尔周日正赛夺冠，他就已经做得足够，可以锁定年度车手冠军）",
+        "url": "https://www.formula1.com/en/latest/article/championship-permutations-can-norris-still-win-the-title-in-qatar-after-sprint.6Yl07za0DPgfybgFrUXQZD.html",
+        "credibility": "High"
+      },
+      {
+        "content": "What does Norris need to win the championship in Qatar?（BBC 总结：诺里斯需要在卡塔尔站后把领先优势扩大到 26 分；如果他赢得卡塔尔大奖赛正赛，就能直接拿到 2025 赛季冠军）",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgrm2mek1ro",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "claim": "下一届全运会的举办地是粤港澳大湾区。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据新华社2025年11月21日发布的报道，第十五届全国运动会（简称“十五运会”）已于2025年11月9日在粤港澳三地隆重开幕，是全运会历史上首次由广东、香港、澳门三地联合承办的赛事。官方明确指出，十五运会共设34个大项、419个小项，启用粤港澳三地的105个场馆场地，覆盖广州、深圳、佛山等大湾区核心城市。此外，广东省政府及抖音“广东DOU是好风光”项目在2025年11月聚焦大湾区城市开展粤菜与老字号营销，进一步印证十五运会即为当前正在举办的“下一届”全运会（因第十四届于2021年在陕西举办）。所有权威信源一致确认本届即第十五届全运会的举办地为粤港澳大湾区。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "第十五届全国运动会组委会21日举行新闻发布会，多位发言人表示，粤港澳大湾区成功举办第十五届全运会，彰显“一国两制”……这是首次由广东、香港、澳门三地联合承办的全运会。",
+        "url": "https://www.news.cn/sports/20251121/8f7b7a6c5d5a4e3b9b9e3e3e3e3e3e3e/c_1129876543.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "第十五届全国运动会（以下简称“十五运会”）于11月9日在粤港澳三地隆重开幕。十五运会是党的二十大后举办的首届全运会，是粤港澳三地首次联合承办的大型体育赛事，也是全运会第一次走进香港、澳门。",
+        "url": "https://www.guangzhou.gov.cn/gzgov/szyw/20251211/content_123456789.html",
+        "credibility": "High"
+      },
+      {
+        "content": "就在今天!第十五届全国运动会开幕!……是全运会历史上首次由粤港澳三地联合承办的赛事，共设34个大项、419个小项，比赛启用粤港澳三地的105个场馆场地。",
+        "url": "https://www.xinhuanet.com/sports/20251109/1234567890abcdef1234567890abcdef.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，“粤港澳大湾区”（广东‑香港‑澳门）是第 15 届全运会（2025 年）的联合举办地区，即本届全运会已经在大湾区举行。​官方报道和赛后新闻明确指出：全运会会旗已在闭幕式上由粤港澳大湾区代表移交给湖南省，确认第 16 届全运会（下一届，全运会为四年一届）由湖南承办。​因此，“下一届全运会的举办地是粤港澳大湾区”的说法与官方确定的信息不符，实际为“湖南省”，故该 claim 错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2025 National Games of China（说明第 15 届全运会于 2025 年在广东、香港和澳门联合举办，即粤港澳大湾区已经是本届而非下一届的举办地）",
+        "url": "https://en.wikipedia.org/wiki/2025_National_Games_of_China",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Model for cooperation - China Daily HK（报道闭幕式上，全运会会旗由粤港澳代表交接给湖南省代表，并明确写出“湖南省将于 2029 年承办第 16 届全运会”）",
+        "url": "https://www.chinadailyhk.com/article/624505",
+        "credibility": "High"
+      },
+      {
+        "content": "Beyond sports: 15th National Games leaves legacy of regional unity（文末指出：下一届全运会计划于 2029 年在湖南省举行，延续这一赛事传统）",
+        "url": "https://info.newsgd.com/node_28ab3f3552/3e848a652e.shtml",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "claim": "第十六届全运会的举办地是湖南长沙。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Partially Supported",
+    "llm_justification": "根据官方信息，第十六届全国运动会（全运会）将于2029年在湖南省举办，主赛区为长沙、株洲、湘潭三市，而非仅限于长沙。例如，长沙晚报掌上长沙2025年12月11日报道明确指出：“2029年第十六届全运会将在湖南举办，长沙是本次赛事的主赛区”，同时强调“以长沙、株洲、湘潭为主赛区”；湖南省政府及国家体育总局在交接仪式和筹备通报中均使用“湖南省承办”“湖南时间”等表述，如2025年11月21日十五运会闭幕式上，湖南省省长毛伟明作为“承办地代表”接过会旗（央视报道）。因此，“举办地是湖南长沙”这一表述窄化了实际主办范围，忽略了株洲、湘潭的共同主赛区地位，但长沙确为首要主赛区和核心承办城市。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "长沙晚报掌上长沙12月11日讯（全媒体记者 刘攀）：2029年第十六届全运会将在湖南举办，长沙是本次赛事的主赛区。第十六届全运会将以长沙、株洲、湘潭为主赛区。",
+        "url": "https://www.icswb.com/h/100043/20251211/786715.html",
+        "credibility": "High"
+      },
+      {
+        "content": "央视新闻2025年11月21日报道：十五运会闭幕式在深圳举行，湖南正式接过全运会会旗，'阔别大湾区，2029下一届全运会来到湖南'，并称'湖南已经进入全运时间'。",
+        "url": "https://news.cctv.com/2025/11/21/ARTI1ZxXqQYzKJjVwFfTtRkL251121.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "湖南省人民政府官网2025年12月5日发布：沈晓明省长主持召开第十六届全运会筹备工作座谈会，强调‘举全省之力办好第十六届全运会’，明确承办主体为湖南省。",
+        "url": "http://www.hunan.gov.cn/hnszf/szfxxgk/szfxxgkml/jdhy/202512/t20251205_29782321.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，国务院办公厅已经正式批复：2029 年第十六届全国运动会的承办单位为“湖南省”，而不是单一城市。​批复和多篇后续报道都明确指出：第十六届全运会的“主赛区”为长株潭（长沙、株洲、湘潭三市），也就是说长沙是主办城市之一，但官方口径的举办地是“湖南省（以长株潭为主赛区）”，并非单独表述为“湖南长沙”。​因此，把“下一届全运会的举办地”简化为“湖南长沙”在严格意义上不准确，缺失了“省级承办单位”和“长株潭三市共同作为主赛区”的关键信息，判定为错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The 16th National Games will take Chang-Zhu-Tan as the main venue.（报道：国务院办公厅同意湖南省承办 2029 年第十六届全运会，并明确“以长株潭三个城市作为主赛区”）",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29760852.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Changsha, Zhuzhou, Xiangtan as main competition venues for 16th National Games（英文稿：确认 2029 年第十六届全运会由湖南省承办，长株潭三市为主要比赛城市）",
+        "url": "https://eng.huaihua.gov.cn/enghuaihua/c133469/202506/169f6a04f01b46cf8beecf968b82c05e.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Hunan to Host China",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29728847.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "claim": "2025F1卡塔尔大奖赛冲刺赛刘易斯·汉密尔顿从第18位起步。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that Lewis Hamilton qualified 18th and was eliminated in Q1 for the 2025 F1 Qatar Grand Prix sprint race. According to a report dated November 29, 2025, '法拉利车手汉密尔顿竟然SQ1被淘汰,名列第十八!' — explicitly stating his Q1 elimination and P18 grid position for the sprint qualifying. Another source from November 30, 2025 states: '和冲刺赛的排位赛一样,法拉利车手汉密尔顿依然是Q1被淘汰,依然是第十八名!', reaffirming the same result for the sprint session. Additionally, the official race summary notes '发车顺序 两辆迈凯伦头排起步,汉密尔顿第17位发车' — but this refers to the *main race*, not the sprint; crucially, the sprint race uses its *own* separate qualifying (sprint qualifying), where Hamilton finished P18 and therefore started 18th in the sprint. This distinction is consistently upheld across reports.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "11月29日凌晨,2025赛季F1卡塔尔大奖赛冲刺赛的排位赛激情上演...法拉利车手勒克莱尔第九,他的队友汉密尔顿竟然SQ1被淘汰,名列第十八!",
+        "url": "https://www.sports.sina.com.cn/f1/2025-11-29/doc-inezzzfn8546945.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "11月30日凌晨,2025赛季F1卡塔尔大奖赛正赛的排位赛激情上演...和冲刺赛的排位赛一样,法拉利车手汉密尔顿依然是Q1被淘汰,依然是第十八名!",
+        "url": "https://racingpost.com/news/f1-qatar-2025-sprint-qualifying-results-hamilton-p18",
+        "credibility": "High"
+      },
+      {
+        "content": "2025卡塔尔大奖赛·排位赛P18…止步Q1…苦闷之情难以言表…#刘易斯汉密尔顿#f1 #lewishamilton #f1卡塔尔大奖赛",
+        "url": "https://www.douyin.com/video/7445678901234567890",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，冲刺排位赛中，汉密尔顿仅跑出第 18 名的成绩，按原始成绩应从第 18 位发车。但赛后法拉利对赛车后翼和悬挂等进行调整，违反了 parc fermé 规定，因此汉密尔顿放弃发车格，被官方确定为“从维修区起步”（pit lane start）。​F1 官方与多家媒体的赛后报道都明确写道：汉密尔顿在 2025 卡塔尔大奖赛冲刺赛是从维修区发车，而不是从发车区第 18 位起步，因此 claim 中“从第18位起步”的表述不符合实际发车方式。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Lewis Hamilton among four F1 drivers set for Qatar pit lane start（说明包括汉密尔顿在内的四位车手因更改设定，放弃发车格，冲刺赛从维修区起步）",
+        "url": "https://racingnews365.com/lewis-hamilton-among-four-f1-drivers-set-for-qatar-pit-lane-start",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Qatar GP F1 sprint grid with four pitlane starts（列出卡塔尔冲刺赛发车名单，标明 Lewis Hamilton 为 pit lane 起步，而非第 18 位栅格）",
+        "url": "https://www.the-race.com/formula-1/qatar-gp-f1-sprint-grid-with-four-pitlane-starts/",
+        "credibility": "High"
+      },
+      {
+        "content": "Lewis Hamilton misery compounded after Qatar pit-lane start announced（报道：汉密尔顿在冲刺排位仅列第 18，但已被确认在冲刺正赛从维修区起步）",
+        "url": "https://www.gpfans.com/en/f1-news/1069170/lewis-hamilton-misery-compounded-after-qatar-pitlane-start-announced/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "claim": "2025F1卡塔尔大奖赛冲刺赛兰斯·斯托尔从第16位起步。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "As of December 2025, the 2025 Formula 1 season — including the Qatar Grand Prix — has not yet taken place. The 2025 F1 calendar was officially confirmed by the FIA in late 2024, and Qatar is scheduled to host a race on October 25–27, 2025, but no official practice, qualifying, or sprint results have been published because the event is still in the future. No credible motorsport source (e.g., Formula1.com, Motorsport.com, Autosport) reports any session results for the 2025 Qatar GP as of now. Furthermore, Lance Stroll’s 2025 grid position cannot be verified since driver lineups and qualifying outcomes are not yet determined. According to the official Formula 1 website, the '2025 calendar' page lists Qatar as 'TBC' for session timings and results: 'No data available for upcoming races.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Official 2025 F1 Calendar page on formula1.com states Qatar GP is scheduled for October 25–27, 2025, with all session results marked as 'Not yet available'. No qualifying or sprint grid positions published.",
+        "url": "https://www.formula1.com/en/racing/2025/Qatar.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Motorsport.com's 2025 F1 season preview (published Nov 2024) confirms no race results exist for any 2025 event, including Qatar, as the season hasn't commenced.",
+        "url": "https://www.motorsport.com/f1/news/2025-f1-calendar-preview/6398495/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，多家赛事报道与起步排位列表显示，2025 年 F1 卡塔尔大奖赛冲刺赛（Sprint）中，兰斯·斯托尔（Lance Stroll，阿斯顿·马丁车队）的正式发车位置为第 16 位，这是在冲刺排位赛中以第 16 名成绩结束 SQ1 后确定的起步格位。然而同一批起步名单同时指出，斯托尔并非从正常发车格发车，而是因更改赛车设置等原因与部分车手一起从维修通道起步（pit lane start），即实际并不是从赛道上的“第 16 位起步”，因此 claim 将“官方排位 P16”混同为“从第 16 位起步”，忽略了其实际从维修通道发车的事实，构成起步位置描述错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The starting grid for the 2025 F1 Qatar GP sprint race（起步列表中给出冲刺赛的发车顺位，兰斯·斯托尔在表格中列为第 16 位车手，但说明他所在组别车手随后被调整为维修通道起步。）",
+        "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2025-f1-qatar-gp-sprint-race/10780596/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025 Qatar Grand Prix sprint race grid（RaceFans 的冲刺赛排位结果中，斯托尔在冲刺排位赛中排在第 16 名，并标注其时间为 1:21.807，但报道同时指出多名车手在正赛或冲刺中从维修通道起步。）",
+        "url": "https://www.racefans.net/2025/11/28/2025-qatar-grand-prix-sprint-race-grid/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What is the grid order for the Sprint at the Qatar Grand Prix?（PlanetF1 的冲刺格表显示，第 16 位对应的车手是 Lance Stroll，后文补充说明部分车手因调整赛车从维修通道发车，并非从赛道上对应的格位直接起步。）",
+        "url": "https://www.planetf1.com/news/f1-starting-grid-2025-qatar-grand-prix-sprint",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "claim": "世界一级方程式大赛2025赛季拉斯维加斯大奖赛正赛在周日举行。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据新华社2025年11月23日发布的报道，'2025赛季世界一级方程式赛车锦标赛(F1)拉斯维加斯大奖赛正赛在美国内华达州拉斯维加斯举行'，并配发了11月22日的现场照片；央视网消息亦明确指出'北京时间11月23日，2025年F1拉斯维加斯大奖赛正赛拉开帷幕'。结合2025年11月23日为星期日（经公历核验），且F1正赛传统上固定于当地时间周日举行，多条权威信源一致指向正赛于2025年11月23日（星期日）举行。新华社与央视网均为中国官方主流媒体，信息可信度高。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "新华社照片,拉斯维加斯(美国),2025年 ,冠军红牛车队荷兰车手维斯塔潘在颁奖仪式上举起奖杯。当日,2025赛季世界一级方程式赛车锦标赛(F1)拉斯维加斯大奖赛正赛在美国内华达州拉斯维加斯举行。新华社发(钱俊摄)（2025年11月23日的资料）",
+        "url": "https://www.news.cn/sports/2025-11/23/c_1129178234.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "央视网消息：北京时间11月23日，2025年F1拉斯维加斯大奖赛正赛拉开帷幕，最终维斯塔潘获得冠军。",
+        "url": "https://sports.cctv.com/2025/11/23/ARTI1234567890abcdefg.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，2025 赛季拉斯维加斯大奖赛官方赛程显示，正赛在当地时间 2025 年 11 月 22 日（星期六）20:00 于拉斯维加斯街道赛道起跑，而不是星期日。​多个转播与赛程页面也强调：本场为“周六夜赛”，例如给出“比赛开始时间为周六 22 日 20:00（PT），对应周日 04:00 GMT / 英国时间周日凌晨 4 点”，这只是因为时区换算在欧洲观众看来是“周日清晨”，但比赛举办地当地日期仍然是周六。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2025 Las Vegas Grand Prix - Wikipedia（说明 2025 年拉斯维加斯大奖赛于 2025 年 11 月 22 日 20:00 当地时间举行，并未标为周日赛事）",
+        "url": "https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 Las Vegas GP 2025 | Date, Schedule & Start Time（列出赛程：正赛开始时间为“Sunday 23 November 04:00 GMT”，并说明当地为 11 月 22 日晚间夜赛）",
+        "url": "https://racingnews365.com/formula-1-circuits/gp-las-vegas",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Why is the F1 Las Vegas Grand Prix not taking place on a Sunday?（专门解释：为配合欧洲观众收视，F1 将拉斯维加斯周末整体提前一天安排，比赛在当地时间周六晚 8 点进行，而非传统的周日）",
+        "url": "https://www.gpfans.com/us/f1-news/1068285/why-f1-las-vegas-grand-prix-on-sunday-time-difference/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "claim": "电影《瞬息全宇宙》中，Evelyn最终接受了自己女儿的男友。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据多份权威影评与剧情解析，Evelyn在影片结尾明确接纳了女儿Joy的 girlfriend Becky。例如，《瞬息全宇宙》的深度解析文章指出：'Evelyn第一次向父亲正式介绍贝基'，并强调这一举动标志着母女关系与家庭和解的关键转折（迷影网，2025年8月5日）。另一份来自豆瓣高赞长评明确写道：'Evelyn真诚地接受了贝基，并以她特有的方式表达了对她的关爱'（2025年9月25日资料）。此外，奥斯卡相关报道及主创访谈亦确认，Evelyn在最终税务局场景中由Becky担任司机，并自然参与四口之家（含Becky）的集体行动，体现其完全接纳（《Variety》，2023年3月；资料存档于知识库2023年3月13日）。该情节在影片高潮和解段落中具有叙事闭环功能，被主流媒体一致视为主题落点。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Evelyn第一次向父亲正式介绍贝基 —— 迷影网影评，强调此举为家庭和解关键节点。",
+        "url": "https://www.miyingshi.com/article/20250805/123456.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Evelyn真诚地接受了贝基，并以她特有的方式表达了对她的关爱。在税务局中，她亲吻了韦蒙德，而洗衣店得以保全，税务问题也得到了圆满解决。",
+        "url": "https://movie.douban.com/review/12345678/",
+        "credibility": "High"
+      },
+      {
+        "content": "杨紫琼凭借《瞬息全宇宙》成为首位获得奥斯卡最佳女主角的亚裔演员；影片结尾呈现一家四口（含Becky）共同前往税务局的温馨场景。",
+        "url": "https://variety.com/2023/film/awards/oscars-2023-winners-list-1235522345/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，影片中乔伊（Joy）是女同性恋，她在片中一直试图让母亲Evelyn接受自己的女友Becky，而不是“男友”。 结局时，Evelyn在与乔伊和解后，终于当面向外公介绍Becky是乔伊的“girlfriend/女朋友”，影评与报道都将这一幕视为她接受女儿及其女友身份的关键时刻，因此原claim将Becky称为“男友”属于性别与关系事实错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Everything (Queer) Everywhere All At Once（详细分析Evelyn如何从把Becky介绍成“好朋友”到结局时改口介绍为Joy的girlfriend，完成对女儿及其女友的接纳）",
+        "url": "https://scalawagmagazine.org/2023/03/everything-everywhere-all-at-once-queer/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Everything Everywhere All at Once - Wikipedia（剧情中明确写到Joy带女友Becky回家见父亲，Evelyn一开始否认这段女同关系，结尾时接受并向外公说明Becky是Joy的girlfriend）",
+        "url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "claim": "美剧《道格拉斯被取消了》中凯伦·吉兰饰演的是一个主持人。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据豆瓣和多家中文媒体对英剧《道格拉斯被取消了》（Douglas Is Cancelled）的剧情介绍，凯伦·吉兰饰演的角色名为玛德琳（Madeline），是电视台新闻节目《六点直播》（Live at 6）的女主播，与男主道格拉斯·贝洛斯（休·博纳维尔饰）共同主持该节目。该剧官方简介明确指出：“这位年轻、聪慧且颜值担当的女主播与道格拉斯形成的双簧效应”（来源：2025年6月12日剧情资料）。另据《豆瓣9.4高分英剧刷屏》一文描述，“他的搭档，有着200万社交媒体粉丝的玛德琳”，进一步印证其公众人物身份即为电视主持人。此外，IMDb及BBC相关报道均将角色职业标注为“TV presenter”或“news co-host”。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "广受尊敬的电视台新闻主播道格拉斯·贝洛斯(休·博纳维尔 饰)主持的《六点直播》(Live at 6)与他的搭档玛德琳(凯伦·吉兰 饰)共同撑起收视江山。这位年轻、聪慧且颜值担当的女主播与道格拉斯形成的双簧效应。",
+        "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/4321872/",
+        "credibility": "High"
+      },
+      {
+        "content": "他的搭档,有着200万社交媒体粉丝的玛德琳,突然在网络上力挺道格拉斯……凯伦·吉兰(Karen Gillan)饰演的玛德琳,给观众留下了深刻印象,从初入职场的新人小白,一步步成长为掌控全局的狠角色……",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjQxMzUyNw==&mid=2247512345&idx=1&sn=3b8a1f9c8d7e6f5a4b3c2d1e0f9a8b7c",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《道格拉斯被取消了》分集剧情第1集：《六点直播》主持人道格拉斯·贝洛斯与搭档马德琳·克罗结束节目后……",
+        "url": "https://www.mtime.com/movie/2247512/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，《Douglas Is Cancelled》（《道格拉斯被取消了》）是英国 ITV 出品的英剧，不是美剧，因此将其称为“美剧”在地域与制作国家属性上是错误的。 虽然凯伦·吉兰在剧中确实饰演一位电视新闻节目的联合主持人，但该 claim 把剧集性质说成“美剧”，整体表述包含事实错误，不能判定为完全正确。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Douglas Is Cancelled - Wikipedia（说明本剧为 2024 年英国 ITV 播出的四集电视迷你剧，类型为英国职场/媒体题材剧集，而非美国剧）",
+        "url": "https://en.wikipedia.org/wiki/Douglas_Is_Cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "Everything you need to know about Douglas is Cancelled（RTS 文章将其明确定义为 ITV 的英国剧集，讲述英国电视新闻节目主持人的“取消”风波）",
+        "url": "https://rts.org.uk/article/everything-you-need-know-about-douglas-cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "一句玩笑最终身败名裂，高分英剧审视“取消文化”（中文媒体明确称《道格拉斯被取消了》为“英剧”，强调其为英国出品的剧集）",
+        "url": "https://www.163.com/dy/article/JSSNBAAH0519DDQ2.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "claim": "美剧《唐顿庄园》是由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导的。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple authoritative sources consistently credit Brian Percival and James Strong as co-directors of 'Downton Abbey'. According to the British Academy of Film and Television Arts (BAFTA), Brian Percival directed episodes across Seasons 1–2 and received a BAFTA TV Award nomination for Best Director in 2011, while James Strong directed key episodes in Seasons 2–3 and was nominated for a BAFTA TV Award in 2013. The official ITV press materials archived by the BBC Media Centre (2010–2012) list both directors for the early seasons. Additionally, IMDb’s verified production credits confirm Percival and Strong as primary directors for the first three seasons, with Percival directing the pilot and Strong helming pivotal episodes including the Season 2 finale and Season 3 premiere. The 2025 retrospective published by Radio Times explicitly states: 'Percival and Strong jointly shaped the show’s visual tone in its formative years.'",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "BAFTA TV Awards 2011 Nominees: Brian Percival nominated for 'Downton Abbey' — Best Director; BAFTA TV Awards 2013 Nominees: James Strong nominated for 'Downton Abbey' — Best Director.",
+        "url": "https://www.bafta.org/awards/tv-awards/nominees-winners/2011",
+        "credibility": "High"
+      },
+      {
+        "content": "ITV Press Release Archive (2010–2012): 'Downton Abbey Series 1 & 2 Production Credits' lists Brian Percival and James Strong as lead directors.",
+        "url": "https://press.itv.com/pressreleases/downton-abbey-series-1-launch-2010",
+        "credibility": "High"
+      },
+      {
+        "content": "IMDb: 'Downton Abbey' (2010–2015) — Full cast & crew page confirms Brian Percival directed 10 episodes (S1–S2), James Strong directed 9 episodes (S2–S3), including S2E8 and S3E1.",
+        "url": "https://www.imdb.com/title/tt1606375/fullcredits/",
+        "credibility": "High"
+      },
+      {
+        "content": "Radio Times, 'How Downton Abbey Was Made: A Retrospective' (published 1 November 2025): 'Percival and Strong jointly shaped the show’s visual tone in its formative years.'",
+        "url": "https://www.radiotimes.com/tv/drama/downton-abbey-making-retrospective-2025/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，《唐顿庄园》（Downton Abbey）是英国 ITV 播出的英剧，而非“美剧”，在国别属性上将其称作“美剧”属于明显的地理/地区错误。关于导演，剧集由多位导演共同执导，Brian Percival 和 James Strong 都确实担任过部分集数的导演之一，但并非“只有他们两人联合执导整部剧”，而是 14 位导演共同参与，因此把导演简单说成“由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导”也是对导演阵容的过度简化和不准确表述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Downton Abbey - Wikipedia（说明《Downton Abbey》是一部由 Julian Fellowes 创作、Carnival Films 与 Masterpiece 共同制作的英国历史年代剧，在 ITV 首播，强调其为 British historical drama television series 而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Downton_Abbey",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Downton Abbey (TV Series 2010–2015) – Full cast & crew（IMDB 的完整制作名单中，列出本剧共有多位导演参与：Brian Percival、David Evans、Philip John、Andy Goddard、James Strong 等，Brian Percival 与 James Strong 只是其中一部分集数的导演，并非唯一“联合执导”者。）",
+        "url": "https://www.imdb.com/title/tt1606375/fullcredits/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "唐顿庄园 – 维基百科（中文词条指出，《唐顿庄园》是英国独立电视台 ITV 播出的英国电视剧，并在“导演”一节中列出 Brian Percival、Ben Bolt、Brian Kelly、Andy Goddard、James Strong 等多位导演，而非仅有 Percyval 与 Strong 二人。）",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%94%90%E9%A1%BF%E5%BA%84%E5%9B%AD",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 82,
+    "claim": "美剧《黑镜》中饰演艾比的是杰西卡·布朗·芬德利。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to IMDb, Jessica Brown Findlay portrayed the character Abi Khan in Episode 2 ('Fifteen Million Merits') of Season 1 of the British anthology series Black Mirror, which originally aired on Channel 4 in December 2011. This casting is corroborated by the official Black Mirror Wikipedia page (English), which lists her under the cast for Season 1, Episode 2 with the role name 'Abi'. Additionally, a 2025-11-29 entry in a verified entertainment database explicitly states: 'Black Mirror Season 1 (2011) [Actor (as Abi Khan, Ep. 2)] — Jessica Brown Findlay'. The character's full name is consistently rendered as 'Abi Khan' across authoritative sources, and '艾比' is the standard Chinese transliteration used in official Mandarin subtitles and media coverage (e.g., Tencent Video, iQIYI listings).",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Jessica Brown Findlay — IMDb page listing her role as 'Abi Khan' in Black Mirror S1E2 (2011)",
+        "url": "https://www.imdb.com/name/nm3278655/",
+        "credibility": "High"
+      },
+      {
+        "content": "Black Mirror (TV Series 2011– ) - Episode list — Wikipedia, confirming Abi Khan played by Jessica Brown Findlay in 'Fifteen Million Merits'",
+        "url": "https://en.wikipedia.org/wiki/Black_Mirror_(TV_series)#Season_1_(2011)",
+        "credibility": "High"
+      },
+      {
+        "content": "'黑镜 第一季(2011)[ 演员 (饰 Abi Khan(Ep. 2)) ]' — verified entertainment database entry dated 2025-11-29",
+        "url": "https://movie.douban.com/celebrity/1383465/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，《黑镜》（Black Mirror）是一部由查理·布鲁克创作、最初在英国 Channel 4 播出的英国科幻选集剧，而不是美剧，将其称为“美剧”在国别属性上存在地理错误。在剧集本身层面，“艾比”（Abi Khan）这一角色确实出自第一季第二集《一千五百万积分》（Fifteen Million Merits），由杰西卡·布朗·芬德利（Jessica Brown Findlay）饰演，这部分是正确的；但由于 claim 将整部作品错误归类为“美剧”，作为一个整体表述仍应判为错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Black Mirror - Wikipedia（说明《Black Mirror》是一部 British anthology television series，由 Charlie Brooker 创作，最初在英国 Channel 4 播出，之后被 Netflix 接手制作和发行，因此其本质上是英剧而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Black_Mirror",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Fifteen Million Merits - Wikipedia（该集剧情介绍中写明，Bing 在洗手间听到 Abi Khan (Jessica Brown Findlay) 唱歌，并说服她参加选秀节目 Hot Shot，由此可见 Abi 一角由 Jessica Brown Findlay 饰演。）",
+        "url": "https://en.wikipedia.org/wiki/Fifteen_Million_Merits",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jessica Brown Findlay as Abi – Black Mirror (IMDB 人物页的角色条目，直接标注她在《Black Mirror》剧集的 “Fifteen Million Merits” 一集中饰演 Abi 一角。)",
+        "url": "https://www.imdb.com/title/tt2089049/characters/nm3726887/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 86,
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯因底板厚度为8.9mm被取消成绩。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to multiple official and reputable motorsport sources, Lando Norris’s car was disqualified from the 2025 F1 Las Vegas Grand Prix because the thickness of the right-front skid block (wooden plank) measured 8.88 mm and the right-rear measured 8.93 mm — both below the mandatory minimum of 9.0 mm stipulated in Article 3.5.9 of the FIA Formula 1 Technical Regulations. The FIA’s official post-race statement and detailed stewards’ decision documents confirm these exact measurements and cite them as the sole technical basis for the disqualification (DSQ). The claim’s rounding of '8.88 mm' and '8.93 mm' to '8.9 mm' is a reasonable approximation consistent with journalistic reporting and does not materially misrepresent the factual finding. This outcome was widely reported by high-credibility outlets including Motorsport.com and official FIA communications.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "FIA stewards’ decision document states: '4th car’s right-front skid block measured 8.88 mm and right-rear 8.93 mm — both below the 9 mm minimum per Art. 3.5.9.' Confirmed during re-measurement witnessed by McLaren representatives and using Mitutoyo micrometer (±0.001 mm accuracy).",
+        "url": "https://www.fia.com/documents/f1-stewards-decisions/2025-las-vegas-grand-prix",
+        "credibility": "High"
+      },
+      {
+        "content": "Motorsport.com report (Nov 23, 2025): 'Norris’s plank measured 8.88 mm at the front and 8.93 mm at the rear — under the 9 mm minimum — triggering automatic DSQ per precedent and regulation.'",
+        "url": "https://www.motorsport.com/f1/news/mclaren-double-dsq-las-vegas-norris-piastri/6724174/",
+        "credibility": "High"
+      },
+      {
+        "content": "ESPN F1 (Nov 24, 2025): 'The violation was narrow — just 0.12 mm short at the front — but unequivocally breaches the technical rule, leaving stewards no discretion but to impose DSQ.'",
+        "url": "https://www.espn.com/f1/story/_/id/42218923/f1-las-vegas-mclaren-dsq-norris-piastri-bottom-plank",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，FIA 技术通告与多家媒体均指出，兰多·诺里斯在2025年F1拉斯维加斯大奖赛中被取消成绩的原因，是其赛车底部滑块/木板（skid block / plank）磨损导致厚度低于规定位于 9mm 的最小限值。 具体测量数据显示，诺里斯赛车后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm，即在8.9mm左右，确实低于 9mm，因此“因为底板厚度约为 8.9mm 被取消成绩”的核心事实是成立的，但原始技术报告给出的是两个具体数值（8.88mm 与 8.93mm），而非单一精确值“8.9mm”。 由于 claim 将精确技术数据概括为“底板厚度为 8.9mm”这一单值描述，在严格意义上并不完全准确，故整体判定为“错误”（或至少不精确）。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Why were Lando Norris and Oscar Piastri disqualified from the Las Vegas GP?（援引仲裁书：诺里斯后部滑块测量为 RHS Front 8.88mm、RHS Rear 8.93mm，低于规定位于 9mm 的最小厚度，因而被取消成绩）",
+        "url": "https://www.independent.co.uk/f1/lando-norris-oscar-piastri-disqualified-why-f1-las-vegas-gp-b2870700.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Lando Norris & Oscar Piastri disqualified, Max Verstappen wins - BBC live coverage（技术说明：Car 4 后部滑块测得厚度为 8.88mm 和 8.93mm，低于 9mm 的法规限值，因此构成违规）",
+        "url": "https://www.bbc.co.uk/sport/formula1/live/c5yk91ypz5lt",
+        "credibility": "High"
+      },
+      {
+        "content": "What did McLaren do wrong to get Oscar Piastri and Lando Norris disqualified?（解释木板原始厚度 10mm，允许磨损 1mm；诺里斯的木板最严重处磨损 1.12mm，导致厚度约 8.88mm，低于 9mm 最小要求）",
+        "url": "https://www.abc.net.au/news/2025-11-24/what-did-mclaren-do-wrong-at-the-las-vegas-f1-grand-prix/106043812",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 93,
+    "claim": "2024年“法扎”的中国巡演中莫扎特的a卡为yanis。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that Yanis Richard, a 23-year-old French actor, portrayed Mozart as the A-cast (principal cast) in the 2024 China tour of the French musical 'Mozart, l'opéra rock' ('法扎'). According to an official preview article published by Shanghai Daily on June 29, 2024, '“小莫扎特”亚尼斯·理查德（Yanis Richard）,作为23岁的舞台新秀也在此次的巡演中饰演莫扎特一角', and explicitly notes this was the A-cast role in the context of the 2024 mainland China revival. Similarly, a July 1, 2024 report from Qingdao Daily (via Qingdao Daily Media Group) states: '时隔五年,热情“重燃”,法语原版音乐剧《摇滚莫扎特》华丽回归...“小莫扎特”亚尼斯·理查德(Yanis Richard),作为23岁的舞台新秀也在此次的巡演中饰演莫扎特一角', with no mention of B-cast substitution for him in major cities. Furthermore, fan-verified performance records from the official 2024 tour schedule (e.g., Qingdao performances on May 30, 2024) list Yanis Richard as the billed Mozart in primary promotional materials — consistent with industry-standard A-cast designation.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“小莫扎特”亚尼斯·理查德（Yanis Richard），作为23岁的舞台新秀也在此次的巡演中饰演莫扎特一角。巧合的是，《摇滚莫扎特》是亚尼斯童年观看的第一... — 上海日报，2024年6月29日",
+        "url": "https://www.shanghaidaily.com/arts/performing-arts/mozart-rock-opera-returns-to-china-with-young-star-yanis-richard-20240629/",
+        "credibility": "High"
+      },
+      {
+        "content": "时隔五年,热情“重燃”,法语原版音乐剧《摇滚莫扎特》华丽回归...“小莫扎特”亚尼斯·理查德(Yanis Richard),作为23岁的舞台新秀也在此次的巡演中饰演莫扎特一角。 — 青岛日报全媒体，2024年7月1日",
+        "url": "https://www.qddaily.com/articles/20240701/ARTI17197984000001.html",
+        "credibility": "High"
+      },
+      {
+        "content": "5月30日晚间,昵称“法扎”的法语原版音乐剧《摇滚莫扎特》在青岛大剧院上演...观众接受采访时表示,他们最关注的是自己买到的是A卡还是B卡。 — 青岛新闻网，2024年7月22日",
+        "url": "https://www.qdxww.com/news/2024/0722/228749.html",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，2024 年法语音乐剧《摇滚莫扎特》（“法扎”）中国巡演的公开卡司信息显示，莫扎特一角的原版主演是 Mikelangelo Loconte（粉丝常称“老航班”），他是本轮巡演中被官方与媒体视为主主演卡（即通常意义上的 A 卡）。 而 23 岁的法国演员 Yanis Richard 在报道与官方介绍中被描述为“替补/轮换莫扎特”（alternate Mozart），即通常粉丝口中的 B 卡或备用主演，而非 A 卡，因此说“莫扎特的 a 卡为 yanis”与实际卡司定位不符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Mozart rocks China（报道 2024 中国巡演阵容：原版莫扎特主演 Mikelangelo Loconte 领衔回归，中国观众也将看到年轻的替补莫扎特 Yanis Richard）",
+        "url": "https://www.chinadaily.com.cn/a/202405/22/WS664d3110a31082fc043c8633.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Mozart rocks China - China Daily HK（英文报道同样区分“original Mozart star Mikelangelo Loconte”和“alternate Mozart Yanis Richard”，表明 Yanis 为替补/轮换，而非主主演卡）",
+        "url": "https://www.chinadailyhk.com/hk/article/584043",
+        "credibility": "High"
+      },
+      {
+        "content": "我想向全世界安利，我的白月光音乐剧《法扎》（粉丝向卡司梳理：把 Mikelangelo 列为莫扎特 A 卡，将 Yanis 标为莫扎特 B 卡/替补卡，配对为典型 BA 卡组合）",
+        "url": "https://news.fanxingxijucun.cn/detail/12347.html",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "claim": "2022 年伦敦西区《悲惨世界》中，冉阿让角色的b卡为Jon Robyns。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The provided knowledge base states that '截至2025年, Jon Robyns是西区音乐剧《悲惨世界》的现役正卡演员,扮演冉阿让一角' (as of 2025, Jon Robyns is the current principal cast member playing Jean Valjean in the West End production of Les Misérables), but it gives no information about his casting status in 2022. No source in the knowledge base specifies Jon Robyns’ role (e.g., principal/a-card, alternate, or b-card) in the 2022 London production. Furthermore, no credible external source (e.g., official Cameron Mackintosh Ltd. casting announcements, West End theatre archives, or reputable theatre publications like The Stage or London Theatre Direct) confirming his 2022 B-track status was retrieved during verification. Absent verifiable documentation of the 2022 casting hierarchy, the claim cannot be confirmed or refuted.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "截至2025年,Jon Robyns是西区音乐剧《悲惨世界》的现役正卡演员,扮演冉阿让一角。（发布时间是2025年9月9日）",
+        "url": "https://example.com/placeholder-knowledge-base-entry-1",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "错误，多家西区与剧场资讯来源明确指出，疫情后在伦敦 Sondheim Theatre 上演的《悲惨世界》中，Jon Robyns 担任的是冉阿让（Jean Valjean）的主演/主卡，报道用语为“led by Jon Robyns as Jean Valjean”“Jon Robyns as Jean Valjean”等，表明其是该角色的核心主角阵容，而非仅在少量场次登台的 B 卡或替补。各类新卡司公告与宣传中一再将 Jon Robyns 列为现有 principal cast（主要卡司）中的 Jean Valjean，而没有任何可靠来源将他标注为“B 卡”，因此把“冉阿让角色的 b 卡为 Jon Robyns”当作事实是对其卡位级别的颠倒，属于将主卡错误说成 B 卡的卡位信息错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Les Misérables | 2022 West End trailer（预告片文案说明当前西区阵容由 Jon Robyns 领衔饰演 Jean Valjean，Bradley Jaden 饰 Javert 等，表述为“cast is currently led by Jon Robyns as Jean Valjean”，体现其主卡地位。）",
+        "url": "https://www.youtube.com/watch?v=NA5jRZ1baMM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "New West End cast for “Les Misérables” announced（卡司新闻指出，新阵容中“Continuing in the show will be Jon Robyns as Jean Valjean …”，将其作为持续留任的主要主演列出，而非替补或 B 卡。）",
+        "url": "https://www.whatsonstage.com/news/new-west-end-cast-for-les-miserables-announced_57191/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "West End’s Les Misérables Welcomes New Cast Members（Playbill 报道新卡司加入时写道“These actors join Jon Robyns as Jean Valjean …”，说明 Jon Robyns 已是既有主卡阵容中的 Jean Valjean，而非 B 卡。）",
+        "url": "https://playbill.com/article/west-ends-les-miserables-welcomes-new-cast-members-september-27",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "claim": "2021 年韩国版《摇滚学校》首尔轮演中，Dewey 的b卡为 Park Jisoo。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "经多轮检索，包括韩文关键词 '로큰롤 스쿨 2021 서울 공연 드위 브이카드 박지수'、'Dewey alternate cast Park Jisoo Rock of Ages Korea 2021' 及相关音乐剧数据库（如Korea Musical Database、PlayDB）、主流韩媒（如《朝鲜日报》《中央日报》《OSEN》）对2021年《Rock School》（韩版《School of Rock》）首尔演出的报道，均未查到名为Park Jisoo（박지수）的演员担任Dewey角色B卡（即替补/ understudy）的公开记录。该剧2021年首尔演出（2021.07.09–09.12，Blue Square Interpark Hall）主演Cast名单中，Dewey A卡为金俊秀、金钟国等知名演员，B卡/understudy信息未在任何官方海报、节目册PDF或新闻通稿中披露具体姓名；PlayDB及Musical Korea官网仅列出A卡演员，无B卡名录。此外，韩国演艺数据库（KMDb）及NAVER人物百科中亦无‘박지수’以音乐剧演员身份参演该剧的履历条目。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "PlayDB（韩国权威音乐剧数据库）页面显示：2021年《School of Rock》首尔公演主演为金俊秀、金钟国、李承焕等，但未列出任何understudy或B卡演员姓名；节目单PDF附件亦缺失B卡信息。",
+        "url": "https://www.playdb.co.kr/showdb/show_detail.asp?systemid=36458",
+        "credibility": "High"
+      },
+      {
+        "content": "Musical Korea官网2021年演出回顾专题中，仅提及Dewey由多位顶级歌手轮替出演（'다수의 탑 가수가 번갈아가며 드위 역을 소화'），但未具名B卡人选。",
+        "url": "https://www.musicalkorea.com/news/view.php?no=12487",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "错误，公开资料清楚表明，Jake Sharp 在 2021–2022 年《School of Rock》UK & Ireland Tour 中担任 Dewey Finn 的主角/领衔主演，对应的是主卡而非替补或 B 卡。权威条目在“Principal roles and original cast”表格中，将 2021 年 UK and Ireland tour 一栏的 Dewey Finn 直接标为 Jake Sharp，且巡演新闻与剧院公告多次使用“lead the cast as Dewey Finn”“lead role of Dewey Finn”等措辞，没有任何来源将他标记为 B 卡，因此把“Dewey 的 b 卡为 Jake Sharp”写入 claim 属于把主卡错误记成 B 卡的卡位信息错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "School of Rock (musical) - Wikipedia（在“Principal roles and original cast”表中，2021 年 UK and Ireland tour 一栏的 Dewey Finn 一行直接写为 Jake Sharp，显示其为该巡演版本的主卡 Dewey Finn。）",
+        "url": "https://en.wikipedia.org/wiki/School_of_Rock_(musical)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "School of Rock Announces Full Cast - Ipswich Regent Theatre（剧院公告指出，Jake Sharp will lead the cast as Dewey Finn，并说明他此前在西区也饰演过该角色，明确其为本轮巡演的领衔主演，而非替补或 B 卡。）",
+        "url": "https://ipswichtheatres.co.uk/news/school-of-rock-announces-full-cast/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Class of 2021 prepare for School of Rock – The Musical tour（报道中写明，the actor who previously played Dewey Finn in the West End will return to take charge of the Class of 2021，指的就是 Jake Sharp，以主角身份带领 2021 巡演阵容。）",
+        "url": "https://musicaltheatrereview.com/class-of-2021-prepare-for-school-of-rock-the-musical-tour/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 97,
+    "claim": "2020年韩文版音乐剧《摇滚芭比》中，Hedwig 的 a 卡为曹政奭。",
+    "expected_verdict": "Not Enough Evidence",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据韩国媒体《OSEN》2020年1月报道，2020年《摇滚芭比》韩文版复排公演（2020.1.17–3.15，首尔LG艺术中心）的主演卡司中，曹政奭并未出演——该轮演出由金俊秀、丁文晟、李钟硕（特邀）、柳演锡等担任Hedwig，而曹政奭当时正忙于电视剧《机智的医生生活》拍摄及后期制作，未参与该年度演出。另据韩国音乐剧数据库Musical Korea官方档期记录，曹政奭在2020年无《摇滚芭比》演出履历；他最近一次出演该剧是2016年（第4次），下一次则为2021年12月重启版（第5次）。因此‘2020年a卡为曹政奭’的说法与公开演出记录不符。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "OSEN 2020年1月10日报道：《'헤드윅' 김준수·정문성·유연석·이종석 등 캐스팅 확정…1월17일 개막》明确列出2020年1月首尔公演主演阵容为金俊秀、丁文晟、柳演锡、李钟硕，未提及曹政奭。",
+        "url": "https://osen.mt.co.kr/news/view.html?article_id=2020011010190881000",
+        "credibility": "High"
+      },
+      {
+        "content": "Musical Korea数据库显示：曹政奭出演《헤드윅》年份为2006, 2008, 2011, 2016, 2021, 2024；2020年无演出记录。",
+        "url": "https://www.musicalkorea.com/performances/detail/12345?title=%ED%97%A4%EB%93%9C%EC%9B%95",
+        "credibility": "High"
+      },
+      {
+        "content": "《机智的医生生活》S1于2020年6月12日开播，前期拍摄集中在2019年下半年至2020年3月，曹政奭本人在2020年2月tvN《Newsroom》采访中确认‘全年行程以电视剧为主，暂无音乐剧计划’。",
+        "url": "https://news.vlive.tv/detail/videoid/00054A5F",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "无法判定，曹政奭（Jo Jung-suk）确实是韩国版《Hedwig and the Angry Inch》（摇滚芭比）的代表性主演之一，多次在韩国制作中饰演 Hedwig，一些报道和资料也提到他在多季演出中担任主角。但公开可查的信息（包括韩国新闻、音乐剧数据库和汇总条目）并未给出“2020 年这一季的韩文版《Hedwig》”的完整卡司表，也没有使用“A 卡/主卡”这种中文粉圈常用的分卡术语来精确标注曹政奭在 2020 年制作中的卡位，因此无法在证据层面严格确认“2020 年韩文版中 Hedwig 的主卡就是曹政奭”，也无法排除多位主演轮流、无固定 A/B 卡的演出安排，只能判定为“无法判定”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "조정석 - 위키백과（介绍曹政奭是韩国演员，早期在《헤드윅》(Hedwig) 等多部音乐剧中出演并获得认可，但未按年份区分各季的卡位结构，也未提到 2020 年版的 A/B 卡用语。）",
+        "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%95%EC%84%9D",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅(2019) - 더뮤지컬（韩国音乐剧杂志页面，介绍韩国版《헤드윅》相关制作与演员，包含讨论 2020 年左右版本的专文《우리가 사랑한 뮤지컬 <헤드윅>》，但页面中未提供 2020 年整季的完整卡司名单与“주연/주카(A 卡)”的正式标注。）",
+        "url": "https://www.themusical.co.kr/Musical/Detail?num=2741",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅/한국 공연 - 나무위키（汇总 2005 年以来《Hedwig》在韩国的多轮演出和大量主演姓名，明确提到包括 조정석 在内的多位演员多次饰演 Hedwig，但未按 2020 年季别给出“主卡/副卡”的结构化信息。）",
+        "url": "https://namu.wiki/w/%ED%97%A4%EB%93%9C%EC%9C%85/%ED%95%9C%EA%B5%AD%20%EA%B3%B5%EC%97%B0",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "claim": "有 38 个国家或地区在全国范围内承认同性婚姻。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the Human Rights Campaign (HRC) — a leading U.S.-based LGBTQ+ advocacy organization — as of December 2024, 34 sovereign states and one territory (Taiwan) legally recognize same-sex marriage nationwide, totaling 35 jurisdictions. The HRC’s updated list (published November 2024) explicitly counts: Netherlands (2001), Belgium (2003), Spain (2005), Canada (2005), South Africa (2006), Norway (2009), Sweden (2009), Portugal (2010), Iceland (2010), Argentina (2010), Denmark (2012), Brazil (2013), France (2013), Uruguay (2013), New Zealand (2013), UK (England/Wales 2014; Scotland 2014; Northern Ireland 2020), Luxembourg (2015), Ireland (2015), Colombia (2016), Finland (2017), Germany (2017), Malta (2017), Australia (2017), Austria (2019), Taiwan (2019), Ecuador (2019), Costa Rica (2020), Switzerland (2022), Slovenia (2022), Greece (2024), Estonia (2024), Andorra (2024), Chile (2024), and Mexico (fully nationwide via Supreme Court ruling in 2022, implemented by all 32 states by late 2023). This totals 34 countries + Taiwan = 35. A December 2024 ILGA World report confirms the same count (35), noting no additional national-level legalizations occurred in 2025 before December. Neither source lists 38.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "ILGA World's 'State-Sponsored Homophobia Report 2024' (p. 42–44) lists 35 jurisdictions with full nationwide same-sex marriage recognition as of 1 December 2024, including Taiwan as a jurisdiction but excluding partially recognized or civil union-only systems.",
+        "url": "https://ilga.org/downloads/ILGA_World_State_Sponsored_Homophobia_Report_2024.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Human Rights Campaign's 'Global Map of Same-Sex Marriage Laws' (updated 15 November 2024) states: 'As of November 2024, same-sex marriage is legal in 34 countries and Taiwan.' It names each jurisdiction and confirms nationwide implementation status.",
+        "url": "https://www.hrc.org/resources/global-map-of-same-sex-marriage-laws",
+        "credibility": "High"
+      },
+      {
+        "content": "The Associated Press (AP) reported on 12 December 2024 that 'Chile became the 34th country to legalize same-sex marriage nationwide', citing Chile’s law taking effect on 10 March 2024 and full implementation by year-end — confirming the count remained at 34 sovereign states plus Taiwan.",
+        "url": "https://apnews.com/article/chile-same-sex-marriage-law-effective-2024-03-10",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "正确。多家权威统计（如维基百科同性婚姻条目、皮尤研究中心和 Our World in Data）在 2025 年的最新汇总中均给出：目前有 38 个国家在全国范围内将同性婚姻完全合法化，涵盖荷兰、加拿大、西班牙、南非、美国、德国、台湾地区（作为地区计入）、泰国、列支敦士登等。 这些统计在方法上明确区分了“全国立法全面婚姻平权”和“仅部分地区或仅承认境外登记婚姻”，把前者合计为 38 个国家或地区，与 claim 中的表述一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Same-sex marriage - Wikipedia（给出截至 2025 年在全国范围内承认同性婚姻的国家/地区列表，总数为 38）",
+        "url": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+        "credibility": "High"
+      },
+      {
+        "content": "Same-Sex Marriage Around the World - Pew Research Center（按国家列出已在全国范围实现同性婚姻合法化的司法辖区，总数与 38 的统计一致）",
+        "url": "https://www.pewresearch.org/religion/fact-sheet/same-sex-marriage-around-the-world/",
+        "credibility": "High"
+      },
+      {
+        "content": "1.5 billion people now live in countries where same-sex marriage is legal — but that’s only one in five worldwide（Our World in Data 文中指出：截至 2025 年，有 38 个国家/地区在全国范围内实现婚姻平权）",
+        "url": "https://ourworldindata.org/data-insights/15-billion-people-now-live-in-countries-where-same-sex-marriage-is-legal-but-thats-only-one-in-five-worldwide",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "claim": "科琳·胡佛出版了26本书",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to a 2023-01-14 report from Culture Weekly (文化周报), '科琳已经出版了24部作品,大部分都是成人浪漫小说,平均一年有2-3部新作面世。' This count was current as of early 2023. No credible source in the knowledge base or widely reported updates (including through 2025) states she has reached 26 titles; the most recent verified title cited is *以我们结束* (published August 2025), and *莉莉的选择* (2018), but no source confirms a total of 26. The 2023 report remains the most authoritative and specific numerical claim available, and no later source contradicts or upgrades that number to 26.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "如今科琳已经出版了24部作品,大部分都是成人浪漫小说,平均一年有2-3部新作面世。（搜索结果收录于2023年1月14日）",
+        "url": "https://www.cultureweekly.com/article/colleen-hoover-2022-sales-record",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "正确。多家近期整理科琳·胡佛作品的权威或主流媒体（如 People、Forbes 等）都明确写出：截至 2025 年，她“已经出版了 26 本书（books/titles）”，其中 23 本为她独立创作，其余为与 Tarryn Fisher 合作的《Never Never》三部曲等。 一些统计网站在 2022 年前后仍给出“24 本书”一类的较旧数字，而更新的 2024–2025 年书单和阅读顺序文章普遍使用“26 本”这一最新数量，说明“出版了 26 本书”与当前主流统计一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Colleen Hoover",
+        "url": "https://people.com/colleen-hoover-s-26-books-in-chronological-order-7554091",
+        "credibility": "High"
+      },
+      {
+        "content": "Colleen Hoover Books, Ranked And In Order - Forbes（文中指出：科琳·胡佛共写了 26 本书，其中 23 本为她独立完成，3 本为与 Tarryn Fisher 合著的《Never Never》系列）",
+        "url": "https://www.forbes.com/sites/entertainment/article/colleen-hoover-books/",
+        "credibility": "High"
+      },
+      {
+        "content": "26 Colleen Hoover Books in Order: 2025 Full List（整理出截至 2025 年的 26 部作品，包含长篇与中篇小说，并按出版顺序列举）",
+        "url": "https://fictionary.co/journal/colleen-hoover-books-in-order/",
+        "credibility": "Medium"
+      }
+    ]
+  }
+]
