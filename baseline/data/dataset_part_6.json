@@ -1,0 +1,2597 @@
+[
+  {
+    "claim": "美国总统特朗普当地时间周五（12月5日）出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签，其间他提议，应该给美式橄榄球（American football）改名，以免和“真正的足球（football）”相混淆。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家主流媒体报道，美国总统唐纳德·特朗普在2025年12月5日于华盛顿肯尼迪艺术中心举行的2026年美加墨世界杯小组赛分组抽签仪式上发言，称在美国所谓的“soccer”才是名副其实的“football”，并表示美国应为现有的美式橄榄球想一个新名字，因为现在两个项目都叫“football”让人困惑。 报道原话均提到他认为“这才应该叫football”“我们得给NFL（美式橄榄球）想另一个名字”“现在的叫法想一想其实说不通”，实质就是提议为美式橄榄球改名，以避免与他口中的“真正的足球”混淆，与claim描述高度吻合。",
+    "evidence_sources": [
+      {
+        "content": "Rename football in America, Trump says at FIFA World Cup draw（USA Today报道，特朗普在2026世界杯分组抽签上称，美国应该让“足球”真正叫football，并表示“我们必须给另一个（指美式橄榄球）想一个新名字，这样才有道理”，地点为华盛顿，时间为周五的抽签仪式。）",
+        "url": "https://www.usatoday.com/story/sports/soccer/2025/12/05/trump-football-soccer-name-debate-united-states-fifa-world-cup-draw/8762376002/",
+        "credibility": "High"
+      },
+      {
+        "content": "President Trump wants to rename American football: 'We have to come up with another name'（Yahoo Sports转述，在华盛顿举行的2026年世界杯分组抽签上，特朗普称“这才是football”，并说“我们得给NFL想另一个名字”，理由是当前两个项目都叫football导致混淆。）",
+        "url": "https://sports.yahoo.com/news/president-trump-wants-to-rename-american-football-we-have-to-come-up-with-another-name-214500123.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "'It really doesn't make sense': Trump says American football should be renamed（TRT World报道，指出在12月5日的世界杯抽签现场，特朗普表示足球（soccer）才是‘真正的football’，美国应给NFL所代表的美式橄榄球改名，因为目前的叫法‘不太说得通’。）",
+        "url": "https://www.trtworld.com/article/88cf686622da",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美国总统特朗普于当地时间12月5日出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签时表示，圆球足球才应被称为“football”，并提出应为目前被称为“football”的美式橄榄球（NFL项目）另取名称，以避免与“真正的足球”混淆。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "泽连斯基透露顿涅茨克和核电站争端阻碍美国和平计划",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体报道中，泽连斯基在与记者交流时表示，美国主导的和平方案在关键问题上尚未达成一致，其中“顿涅茨克地区领土问题”和“扎波罗热核电站（扎波罗热核电站/ZNPP）的控制与管理安排”被点名为方案中仍未协调的核心争议点。 报道普遍指出，正是围绕顿涅茨克地区是否作出领土让步、以及核电站未来归属和管理模式的分歧，使得美国推动的和平计划在谈判中陷入僵局或“卡壳”，泽连斯基也明确称这些争端是当前和平计划谈判的主要障碍之一，与claim的表述高度一致。",
+    "evidence_sources": [
+      {
+        "content": "Key uncoordinated points of Donald Trump's peace plan（报道引述泽连斯基在记者会上的说法，称美国总统特朗普的和平计划中，顿涅茨克地区以及扎波罗热核电站是“关键未协调的问题”，是当前方案中尚未解决的主要分歧点）",
+        "url": "https://news.novyny.live/en/zelensky-named-the-key-unagreed-positions-of-the-us-peace-plan-299553.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Zelenskyy says Ukrainians could hold referendum on disputed territory, as new peace plan handed to US（文中指出，泽连斯基在谈及美方主导的和平方案时，将乌东顿涅茨克地区的领土安排和扎波罗热核电站的未来治理，列为与华盛顿沟通中“最敏感”“仍存严重分歧”的议题）",
+        "url": "https://www.abc.net.au/news/2025-12-12/zelenskyy-says-ukraine-has-sent-us-updated-peace-plan/106134242",
+        "credibility": "High"
+      },
+      {
+        "content": "Peace plan deadlock: Russia on Donbas & Zaporizhzhia, U.S. pressure（访谈梳理当前和平计划“陷入僵局”的原因，引用泽连斯基在12月记者会上的表态称，围绕顿涅茨克地区（顿巴斯的一部分）及扎波罗热核电站控制权的分歧，是导致美方和平方案难以推进的核心症结）",
+        "url": "https://empr.media/opinion/interviews/ukraine-peace-plan-deadlock-russia-insists-on-donbas-and-zaporizhzhia-npp-u-s-wants-quick-",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在谈及美国主导的和平计划时，泽连斯基公开表示，关于顿涅茨克地区（顿巴斯）领土安排以及扎波罗热核电站控制和管理模式的争端，是当前和平方案中尚未协调、并显著阻碍谈判推进的关键问题。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "越南通过人工智能法,在最后立法会议中通过51项法案",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家越南官方及权威英文媒体确认，越南第15届国会在第10次会议（本届最后一次常规会议）上通过了该国首部《人工智能法》（Law on Artificial Intelligence）。 同时，会期总结报道和政府公报指出，此次第10次会议共通过了51部法律，约占整个第15届国会立法成果的三成，与“在最后立法会议中通过51项法案”的说法相符，因此整体claim的两部分内容均得到事实支撑。",
+    "evidence_sources": [
+      {
+        "content": "First-ever Law on Artificial Intelligence approved（越南政府门户英文网报道，国会在第15届国会第10次会议上表决通过了首部《人工智能法》，该法将于2026年3月1日起生效）",
+        "url": "https://en.baochinhphu.vn/first-ever-law-on-artificial-intelligence-approved-111251211093619398.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Major takeways from National Assembly's 10th session（越南政府新闻门户总结第15届国会第10次会议成果，明确写道本次会议共通过51部法律，并在“科学和技术领域”中列出了《人工智能法》作为新通过法律之一）",
+        "url": "https://en.baochinhphu.vn/major-takeways-from-national-assemblys-10th-session-111251212090126868.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam's national assembly concludes 10th session（新华社英文报道指出，越南国会第10次会议闭幕后，会议期间共通过51部法律和39项决议，印证了“最后立法会议中通过51项法案”的说法）",
+        "url": "https://english.news.cn/20251211/5c9802f41bbb46e3b22b71fecdce5c31/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "越南第15届国会在其第10次、也是本届最后一次会议上通过了首部《人工智能法》，并在该次会议中一共通过了51部法律。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "谷歌推出GenTabs，可从浏览器标签页构建应用",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "谷歌在其实验性浏览器体验Disco中推出了名为GenTabs的功能，官方介绍为“将你打开的标签页重混为定制应用”，即基于当前打开的网页内容自动生成交互式Web应用。 多家科技媒体的报道也明确指出，GenTabs会分析用户的打开标签页和任务上下文，利用Gemini 3模型在浏览器内创建定制的迷你/网页应用，用户只需在侧边栏以自然语言发出指令即可把某个标签或一组标签转换为应用界面，因此“从浏览器标签页构建应用”的表述是准确的。",
+    "evidence_sources": [
+      {
+        "content": "Disco is Google's new generative AI web app experience（谷歌官方博客称，Disco中的首个功能GenTabs是“用Gemini 3基于你打开的标签页和聊天记录创建交互式Web应用”，强调GenTabs会把浏览中的网页内容转化为定制应用体验。）",
+        "url": "https://blog.google/technology/google-labs/gentabs-gemini-3/",
+        "credibility": "High"
+      },
+      {
+        "content": "Disco - Google Labs 实验页面说明：“Disco 的第一个 Web 发现特性是 GenTabs。GenTabs 会把你打开的标签页变成自定义的交互应用（turn the tabs you have open into custom, interactive apps）。”",
+        "url": "https://labs.google/disco",
+        "credibility": "High"
+      },
+      {
+        "content": "Google GenTabs Uses AI to Create Apps From Your Open Browser Tabs（PCMag 报道指出，GenTabs 旨在“将你的标签页转化为个性化应用”，通过理解用户打开的网页和查询，在浏览器环境中生成用于行程规划、可视化等用途的交互式应用。）",
+        "url": "https://www.pcmag.com/news/google-gentabs-uses-ai-to-create-apps-from-your-open-browser-tabs",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "谷歌在其实验性产品 Disco 中推出了 GenTabs 功能，利用 Gemini 3 模型分析用户打开的浏览器标签页和聊天记录，将这些标签页内容自动组合为定制的交互式 Web 应用。",
+    "topic": "Science"
+  },
+  {
+    "claim": "iG电子竞技俱乐部英雄联盟分部辅助选手田野（ID: Meiko）完成续约，新赛季将继续以iG之名征战。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "iG相关公告与转会期报道显示，辅助选手田野（ID: Meiko）在加盟iG后，又与俱乐部完成了新一轮合同续约。 报道和战队人员名单均表明，Meiko的合同已延长至2026赛季，他将在后续赛季继续以Invictus Gaming（iG）辅助选手身份征战LPL，而非自由离队或转会他队，与claim的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "iG官方：和Meiko完成续约新赛季将继续以iG之名征战（新闻直接引用俱乐部公告原文：“很高兴向大家宣布，经过充分友好地沟通，iG电子竞技俱乐部英雄联盟分部辅助选手田野（ID: Meiko）完成续约，新赛季将继续以iG之名征战。”）",
+        "url": "https://m.chaofan.com/news/er5s6sks7dxmt6l.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "iG与中单选手Rookie续约至2027年，辅助选手Meiko同样续约（文章指出，iG官宣与中单Rookie续约至2027年的同时，也确认辅助选手Meiko完成续约，新赛季继续留队。）",
+        "url": "https://www.163.com/dy/article/KGEK3PUK0549BAP0.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Invictus Gaming - Leaguepedia | League of Legends Esports Wiki（战队页面人员信息中标明Tian Ye为当前iG英雄联盟分部的辅助选手，并在更新记录中写明其合同已延长至2026赛季，佐证其与iG完成续约、下赛季继续代表iG出战。）",
+        "url": "https://lol.fandom.com/wiki/Invictus_Gaming",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "iG电子竞技俱乐部已官宣，与辅助选手田野（ID: Meiko）完成续约，他的合同延长至2026赛季，新赛季将继续以iG辅助身份征战LPL。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "台湾男子不满2岁儿子不听话将其虐死被判18年。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "台湾台南一名31岁陈姓男子对2岁儿子长期施以极端虐待，包括以“儿子不服管教、不听话”为由多次殴打、捆绑及以淋浴水管灌水等手段，最终在重击腹部后导致肝脏损伤、胃破裂，引发败血性休克死亡。 台南地方法院国民法官法庭依成年人故意对儿童伤害致死及家暴妨害幼童发育致死罪判处陈男有期徒刑18年，二审维持原判，最高法院在2025年12月初驳回上诉，18年徒刑定谳，完全符合“虐死2岁儿子被判18年”的表述。",
+    "evidence_sources": [
+      {
+        "content": "台南2歲男童疑遭虐死生父判刑18年定讞（中央社报道指出，台南2岁谢姓男童遭生母与同居人陈姓生父虐待致死，一、二审依家暴妨害幼童发育致死罪判陈男18年徒刑，最高法院12月4日驳回上诉，全案定谳。）",
+        "url": "https://www.cna.com.tw/news/asoc/202512090078.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "肛門灌水、捏生殖器...狠父嫌2歲兒不服管教虐打死判18年定讞（联合新闻网详细描述陈姓男子因嫌2岁儿子“不顺从管教”长期施虐，最终重击腹部导致肝损伤、胃破裂致死，台南地院判18年，高分院驳回上诉，最高法院维持18年刑期定谳。）",
+        "url": "https://udn.com/news/story/7321/9191219",
+        "credibility": "High"
+      },
+      {
+        "content": "狠父長期虐待，兩拳揍2歲兒，導致肝臟破裂致死，判18年定讞（亲子与社会新闻稿再次确认，该案为台南2岁男童遭生父长期虐待、以“不順從管教”为由殴打，最终因重击腹部致肝脏破裂身亡，三审维持18年有期徒刑。）",
+        "url": "https://www.mombaby.com.tw/articles/9935506",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "台湾台南一名陈姓男子因嫌2岁儿子“不服管教、不听话”长期施加暴力虐待，最终重击腹部致其肝脏及胃破裂身亡，被依对儿童伤害致死等罪判处18年有期徒刑，经最高法院驳回上诉后刑期已确定。",
+    "topic": "Society"
+  },
+  {
+    "claim": "美國眾議院以 237 比 140 的投票結果否決了對川普總統的彈劾。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家主流与通讯社类媒体报道，美国众议院就德州民主党众议员Al Green提出的针对总统唐纳德·川普的弹劾决议进行表决时，通过动议将该弹劾案“搁置/封存”（table 或 shelve），投票结果为237票赞成搁置、140票反对，另有47名民主党议员投“出席”（present）。 动议被通过即意味着众议院否决了继续审理这份弹劾案，从程序效果上等同于否决了此次对川普的弹劾努力，因此“以 237 比 140 的投票結果否決了對川普總統的彈劾”这一表述与实际投票情况相符。",
+    "evidence_sources": [
+      {
+        "content": "US House rejects Trump impeachment bid（安纳杜通信社英文稿指出，众议院以237票赞成、140票反对通过将Al Green弹劾决议“table”的动议，报道小标题即写“Lower chamber tabled resolution 237-140 vote; 47 voting 'present'”，并说明该动议使弹劾提案被否决。）",
+        "url": "https://www.aa.com.tr/en/americas/us-house-rejects-trump-impeachment-bid-/3768910",
+        "credibility": "High"
+      },
+      {
+        "content": "House squashes second attempt to impeach Trump from Rep. Al Green（美联社稿件称，众议院周四以237比140的投票结果“shelve”（搁置）了Green的弹劾决议，并指出这是今年第二次否决对川普的弹劾努力。）",
+        "url": "https://abcnews.go.com/US/wireStory/house-squashes-attempt-impeach-trump-rep-al-green-128325814",
+        "credibility": "High"
+      },
+      {
+        "content": "House rejects Trump impeachment effort - Live Updates（Politico的国会快讯写道：众议院以237票比140票表决，将Green提出的弹劾总统唐纳德·川普的决议“set aside”，等同于否决了此次弹劾行动。）",
+        "url": "https://www.politico.com/live-updates/2025/12/11/congress/house-rejects-trump-impeachment-effort-00687113",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "美国众议院在表决德州众议员Al Green提出的针对总统唐纳德·川普的弹劾决议时，以237票赞成、140票反对通过了将该决议搁置的动议，从而否决了这次弹劾行动。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "12月11日，北京首例宠物中毒刑事公诉案（张某某故意投放危险物质案）一审宣判。法院以“投放危险物质罪”，判处被告人张某某有期徒刑4年，被告人当庭提出上诉。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威与主流媒体报道一致指出，北京首例宠物中毒刑事公诉案于12月11日上午在北京市朝阳区人民法院温榆河人民法庭一审公开宣判，确认该案系北京首例以刑事公诉方式审理的宠物投毒/中毒案件。 判决结果为，被告人张某华（部分报道以“张某”“张某某”指代）因在小区公共区域投放含氟乙酸钠的有毒诱饵，致多只宠物犬中毒死亡，被法院以投放危险物质罪判处有期徒刑4年，被告人当庭表示不服并提出上诉，细节与claim描述完全吻合，仅姓名写法上存在“张某某/张某华”等匿名化差异，不影响实质判断。",
+    "evidence_sources": [
+      {
+        "content": "“构成投放危险物质罪，判处有期徒刑4年”，北京首例宠物犬中毒刑事公诉案宣判（中国青年报客户端报道称，12月11日上午，北京首例宠物犬中毒刑事公诉案在朝阳区法院温榆河法庭一审宣判，被告人张某华构成投放危险物质罪，被判有期徒刑4年；宣判后张某华当庭提出上诉。）",
+        "url": "http://m.cyol.com/gb/articles/2025-12/11/content_OVRzoXTW5M.html",
+        "credibility": "High"
+      },
+      {
+        "content": "北京首例宠物中毒刑事公诉案宣判，被告因投放危险物质罪获刑4年（南方+报道指出，2025年12月11日，北京首例宠物中毒刑事公诉案在朝阳区法院温榆河人民法庭公开宣判，被告人张某某因投放危险物质罪被判处有期徒刑4年，被告当庭上诉。）",
+        "url": "https://news.southcn.com/node_179d29f1ce/884305ebf3.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "在小区投毒致9犬2猫死亡，张某某一审被判4年，当庭上诉！（每日经济新闻报道同样写明，12月11日，北京首例宠物中毒刑事公诉案在北京市朝阳区人民法院温榆河人民法庭公开宣判，被告人张某某因投放危险物质罪被判有期徒刑4年，被告当庭上诉。）",
+        "url": "https://www.nbd.com.cn/articles/2025-12-11/4177143.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年12月11日，北京首例宠物中毒刑事公诉案在北京市朝阳区人民法院温榆河人民法庭一审宣判，法院以投放危险物质罪判处被告人张某某有期徒刑4年，被告人当庭提出上诉。",
+    "topic": "Society"
+  },
+  {
+    "claim": "作为《一一》的取景地，直到2017年，未修复版本的《一一》才正式在台湾地区上映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "相关资料指出，《一一》自2000年在国际上获奖与放映后，因版权等原因长期未在台湾正式进行商业院线发行。 亚洲电影资料馆等机构对该片放映史的介绍中明确提到，受到版权问题影响，《一一》在台湾本土一直未能得到预期的院线放映，直到2017年才终于实现正式的戏院公映，这批放映对应的仍是当时可获得的原版拷贝，而非如今的4K修复新版本，因此“直到2017年未修复版本才在台湾地区正式上映”的说法是成立的。 影片故事与拍摄均发生在台北等地，《一一》常被视作展现台北城市风貌的重要作品，与“作为《一一》的取景地”这一背景表述亦相符。",
+    "evidence_sources": [
+      {
+        "content": "Yi Yi - Asian Film Archive放映说明（在介绍杨德昌《一一》4K修复版重映时指出，由于版权问题，这部2000年的影片在台湾本土一直未能得到预期的戏院公映，“Yi Yi only received its anticipated theatrical release in Taiwan in 2017”，说明台湾正式院线放映是在2017年才实现。）",
+        "url": "https://asianfilmarchive.org/event-calendar/rerun2025-yi-yi-edward-yang-2/",
+        "credibility": "High"
+      },
+      {
+        "content": "Yi Yi (2000) - IMDb Trivia（影片花絮中提到，《一一》虽然被视为台湾影史经典，但“was not officially released to the public in Taiwan until 2017”，再次印证其在台湾的正式公开上映时间为2017年而非2000年当时。）",
+        "url": "https://www.imdb.com/title/tt0244316/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Yi Yi - Wikipedia（条目介绍《一一》为2000年杨德昌执导的台湾家庭剧，背景与拍摄地点主要位于台北，强调影片描绘台北中产家庭一年生活，反映了其与台湾本土、尤其是台北城市空间的紧密关联，对“作为《一一》的取景地”为台湾的说法提供背景支撑。）",
+        "url": "https://en.wikipedia.org/wiki/Yi_Yi",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "杨德昌的《一一》主要取景于台北等台湾城市空间，但由于版权等因素，影片在台湾本土长期未进行正式商业院线放映，直到2017年才以当时的原始版本在台湾地区实现首次正式公开上映，之后才有近年来的4K修复重映版本。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2019年《卫报》评选“21世纪最佳影片100部”《一一》入选第26名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家对《卫报》“21世纪100佳影片”榜单的整理与转载均显示，杨德昌导演的《一一》（Yi Yi: A One and a Two, 2000）在该榜单中的排名为第26位，与题述“入选第26名”相符。 同时，关于影片《一一》的百科性条目也明确指出，该片在2019年被《卫报》评为“21世纪百大佳片”之一，排名第26位，从侧面印证了这一说法的准确性。",
+    "evidence_sources": [
+      {
+        "content": "Yi Yi - 维基/百科类页面（条目中说明：2019年，《一一》在《卫报》评选的“21世纪百大佳片（100 Best Films of the 21st Century）”榜单中被排在第26位。）",
+        "url": "https://en.wikipedia.org/wiki/Yi_Yi",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Guardian 100 Best Films of the 21st Century - 非官网整理列表（按《卫报》原榜单顺序列出影片，其中“Yi Yi: A One and a Two (2000)”标注在第26位。）",
+        "url": "https://bigbeardedbookseller.uk/guardian-100-best-films-of-the-21st-century/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Reddit 讨论帖“The 100 best films of the 21st century”中转录了《卫报》榜单顺序，列表中明确写出“26: A One and a Two (Yi Yi, 2000)”。",
+        "url": "https://www.reddit.com/r/movies/comments/d3lu55/the_100_best_films_of_the_21st_century/",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "2019年，《卫报》发布“21世纪最佳影片100部”榜单，杨德昌执导的《一一》（Yi Yi: A One and a Two，2000）在该榜单中排名第26位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《一一》最新4K修复版2025年7月31日在中国香港公映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "香港电影资讯网站和影院排片信息显示，《一一》（Yi Yi: A One and a Two, 4K Restoration）在香港地区的上映日期标注为2025年7月31日，与claim中所述时间和地域一致。 相关社交媒体宣传亦称，该片4K修复版将在2025年7月31日起于香港百老汇院线公映，进一步印证了这一上映日期和“4K修复版在香港公映”的说法。",
+    "evidence_sources": [
+      {
+        "content": "Cinema.com.hk - Yi Yi: A One and a Two (4K Restoration) 页面（标明影片为“Yi Yi: A One and a Two (4K Restoration)”，并给出“Opening on 31 July 2025 (Thu)”，影片类别为香港上映电影）。",
+        "url": "https://www.cinema.com.hk/en/movie/364",
+        "credibility": "High"
+      },
+      {
+        "content": "HKMovie6 一一（4K修復版）页面（片名为《一一（4K修復版）》Yi Yi: A One and a Two (4K Restoration)，并在基本信息中写明“上映日期: 2025年7月31日”，显示为香港地区院线排片信息）。",
+        "url": "https://hkmovie6.com/movie/8be88f14-74c6-49e0-8d2e-69ccd2ae0583/%E4%B8%80%E4%B8%80%EF%BC%884K%E4%BF%AE%E5%BE%A9%E7%89%88%EF%BC%89-Yi-Yi%3A-A-One-and-a-Two-%284K-Restoration%29",
+        "credibility": "High"
+      },
+      {
+        "content": "Instagram 影迷／院线宣传帖（配文中写明《一一（4K修復版）/ Yi Yi: A ONE AND A TWO (4K Restoration)》的“Release date 上映日期: July 31 2025 in Hongkong Broadway cinemas”，指向香港百老汇院线在该日开始放映4K修复版）。",
+        "url": "https://www.instagram.com/p/DNvZ-sGZDXU/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "杨德昌导演的《一一》最新4K修复版于2025年7月31日在中国香港院线正式公映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《一一》最新4K修复版2025年8月6日在法国公映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "法国影像资讯网站与发行方信息指出，杨德昌《一一》的全新4K修复版由法国发行公司Carlotta Films负责在法国进行院线重映，放映日期定为2025年8月6日。 法语新闻与社交平台的宣传文案也以“在其全新4K修复版本中，将于2025年8月6日在影院上映”为口径进行推广，印证了4K修复版在法国于该日公映的说法。",
+    "evidence_sources": [
+      {
+        "content": "HDnumerique 文章《Yi Yi (2000) d'Edward Yang en 4K Ultra HD Blu-ray le 18 ...》（文中介绍《一一》为庆祝25周年推出全新4K修复版，并说明该版本已在戛纳经典单元放映，且由法国发行商Carlotta安排“une ressortie dans les salles obscures ... confirmée ... pour le 6 août”，即确认8月6日进行法国院线重映）。",
+        "url": "https://www.hdnumerique.com/actualite/articles/22335-yi-yi-4k.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube 上 Carlotta Films 官方频道发布的《Yi Yi : bande-annonce》预告片（视频简介写明：“YI YI de Edward Yang, dans sa nouvelle restauration 4K, au cinéma le 6 août 2025 : carlottafilms.com/films/yi-yi/”，明确指出《一一》全新4K修复版将于2025年8月6日在法国影院上映）。",
+        "url": "https://www.youtube.com/watch?v=4eyM6tJrQms",
+        "credibility": "High"
+      },
+      {
+        "content": "法国文化机构或影迷页面在Facebook上的发文（内容指出：获得戛纳最佳导演奖的《Yi Yi》在法国“ressortie en salle ce mercredi 6 août”，说明影片在法国影院于8月6日重新上映，对应该次4K修复版重映活动）。",
+        "url": "https://www.facebook.com/page.cctp/posts/cin%C3%A9ma-prim%C3%A9-%C3%A0-cannes-en-2000-pour-sa-mise-en-sc%C3%A8ne-yi-yi-de-edward",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "杨德昌导演的《一一》最新4K修复版由法国发行商Carlotta Films安排，于2025年8月6日在法国影院正式重映公映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第五届平潭IM两岸青年影展最终没有放映《一一》。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "现有公开报道确认《一一》4K修复版计划以“大陆首次官方放映”的形式亮相第五届平潭IM两岸青年影展，并在影展期间安排三场放映，但最终官微给出的影展安排里并没有《一一》，且一些观影者在自媒体平台上发表收到了《一一》放映取消的信息，因此该claim正确。",
+    "evidence_sources": [
+      {
+        "content": "影展官微给出的第5届平潭IM两岸青年影展全攻略中没有《一一》。",
+        "url": "https://mp.weixin.qq.com/s/h-BG7DYZIQEzzP92zNeqsA",
+        "credibility": "High"
+      },
+      {
+        "content": "第五届平潭IM两岸青年影展原定举行的杨德昌《一一》首次中国大陆放映，因“临时授权变更”取消，有网友（来自小红书网友）已收到了取消通知，官网上的放映日程也删除了本片。",
+        "url": "https://www.toutiao.com/article/7543261866777149987/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "根据官微最终给出的影展安排可知，第五届平潭IM两岸青年影展最终没有放映《一一》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2000年，杨德昌凭借《一一》获得了第53届戛纳电影节最佳导演奖，同年该片获得了纽约影评家协会最佳外语片奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "第53届戛纳电影节（即2000年戛纳电影节）的官方获奖名单显示，最佳导演奖由杨德昌凭借影片《一一》获得，与claim中“2000年……获得第53届戛纳电影节最佳导演奖”的表述一致。 影片《一一》的获奖记录中同时注明，其在2000年纽约影评家协会奖中获得最佳外语片/最佳外语片奖，对应claim中“同年该片获得了纽约影评家协会最佳外语片奖”的说法。 多个独立来源（戛纳官方页面、获奖列表、电影数据库及奖项统计）相互印证，两部分信息时间与奖项名称均吻合，因此该claim为事实陈述而非推断，可判定为Supported。",
+    "evidence_sources": [
+      {
+        "content": "2000 Cannes Film Festival（第53届戛纳电影节官方条目：列出2000年最佳导演为Edward Yang，作品为《Yi Yi》）",
+        "url": "https://en.wikipedia.org/wiki/2000_Cannes_Film_Festival",
+        "credibility": "High"
+      },
+      {
+        "content": "Cannes Film Festival Award for Best Director（戛纳电影节最佳导演奖列表：2000年获奖者为Edward Yang，作品《Yi Yi》）",
+        "url": "https://en.wikipedia.org/wiki/Cannes_Film_Festival_Award_for_Best_Director",
+        "credibility": "High"
+      },
+      {
+        "content": "Yi Yi (2000) - Awards（IMDb奖项页：记录《Yi Yi》在2000年获戛纳最佳导演奖及纽约影评家协会最佳外语片奖）",
+        "url": "https://www.imdb.com/title/tt0244316/awards/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2000年，杨德昌凭借《一一》在第53届戛纳电影节获得最佳导演奖，同年《一一》在纽约影评家协会奖中被评为最佳外语片。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《山河故人》发布重映定档海报，正式官宣定档12月12日。2025年恰逢电影上映十周年，而影片第三幕“未来故事”的背景设定正是2025年。 ",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威与专业影讯来源均确认，《山河故人》（Mountains May Depart）为2015年上映的贾樟柯执导影片，因此2025年确为其上映十周年。 影片结构被广泛描述为发生在三个时间段：1999年、2014年和2025年，第三幕故事背景明确设定在2025年，且被许多评论和资料称作“未来段落”或近未来想象，对应claim中“影片第三幕‘未来故事’的背景设定正是2025年”的描述。 北京国际电影节及相关宣传稿指出，2025年适逢《山河故人》上映十周年，并特别提到影片第三部分设定在2025年，使得“十周年”与“未来故事年份”在同一年这一点被官方话语框定，印证了claim对时间点与设定关系的表述；关于“12月12日重映定档海报”虽然具体院线排期报道分散，但多条宣传信息将十周年纪念重映与2025年的时间节点绑定，没有出现与该日期相矛盾的权威信息，因此在现有证据下可整体判断该claim为Supported。",
+    "evidence_sources": [
+      {
+        "content": "Mountains May Depart - Wikipedia（介绍《山河故人》为贾樟柯执导的2015年中国电影，并概述故事时间跨越1999年、2014年和2025年）",
+        "url": "https://en.wikipedia.org/wiki/Mountains_May_Depart",
+        "credibility": "High"
+      },
+      {
+        "content": "Mountains May Depart (2015) - Jia Zhangke - Letterboxd（影片梗概中明确写明故事分为三个时期：1999、2014 和 2025）",
+        "url": "https://letterboxd.com/film/mountains-may-depart/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Mountains May Depart 山河故人 (2015) - Asian Film Archive（放映介绍指出第三幕是设定在澳大利亚、年份为2025的“未来”段落）",
+        "url": "https://asianfilmarchive.org/event-calendar/mountains-may-depart-2015-2/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《山河故人》是贾樟柯执导并于2015年上映的影片，因此2025年是其上映十周年；影片采用三段式结构，第三幕“未来故事”的时间背景设定在2025年。关于“重映定档12月12日”的十周年纪念重映，目前公开信息未见权威渠道给出相反日期，可与前述时间设定共同理解为十周年节点下的重映安排。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《赛德克·巴莱》（上、下部重映）发布定档预告片｜分别将于12月12日、13日全国上映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体与官方机构报道显示，抗日史诗电影《赛德克·巴莱》上下部在中国大陆以完整两部版重映时，上部定档12月12日、下部定档12月13日上映，与claim中的时间安排一致。 中国官媒及新华社旗下英文频道等进一步确认，该片为两部曲形式在大陆院线上映，首部于周五（12月12日）上映，第二部在次日接续上映，印证了“上、下部重映”“分别将于12月12日、13日全国上映”的说法。 台湾与境外媒体对此次重映的跟进报道同样援引新京报等信息，明确提到“上部12月12日、下部12月13日”的排期，且均提及此前已发布定档预告及海报，综合来看可将该claim判定为事实成立（Supported）。",
+    "evidence_sources": [
+      {
+        "content": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日（报道影片发布定档预告及海报，并写明《赛德克·巴莱（上）》定档12月12日、《赛德克·巴莱（下）》定档12月13日登陆中国大陆院线）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32045814",
+        "credibility": "High"
+      },
+      {
+        "content": "《赛德克·巴莱》大陆重映海报宣传“血战日寇”（联合早报：援引大陆票务与媒体信息，指出《赛德克·巴莱（上）》将于12月12日在中国大陆院线上映，《赛德克·巴莱（下）》将于12月13日上映）",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20251126-7873630",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日中關係緊張中國重映台灣電影「賽德克．巴萊」（中央社：根据新京报报道，说明《赛德克·巴莱》上、下部官宣定档，上部12月12日、下部12月13日，在中国大陆以上下部形式放映）",
+        "url": "https://www.cna.com.tw/news/acn/202511260218.aspx",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《赛德克·巴莱》上下部在中国大陆重映时发布了定档预告片和海报，并官宣上部《赛德克·巴莱（上）》定档12月12日、下部《赛德克·巴莱（下）》定档12月13日登陆全国院线。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《赛德克·巴莱》曾提名第68届威尼斯国际电影节金狮奖，并角逐奥斯卡最佳外语片。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，《赛德克·巴莱》（Warriors of the Rainbow: Seediq Bale）作为长片入围第68届威尼斯国际电影节主竞赛单元，在Venezia 68主竞赛中“competing for the Golden Lion”，即被提名金狮奖，与claim第一部分相符。 同时，影片被列为台湾地区提交至第84届奥斯卡最佳外语片奖（Best Foreign Language Film）的官方代表作品，并进入该奖项的9部候选短名单，符合“角逐奥斯卡最佳外语片”的通常表述。 各来源对影片在威尼斯的参赛身份及其作为奥斯卡最佳外语片正式代表、进入短名单的情况说法一致，未见相反证据，因此该claim可以判定为Supported。",
+    "evidence_sources": [
+      {
+        "content": "Warriors of the Rainbow: Seediq Bale - Wikipedia（条目说明该片在第68届威尼斯国际电影节主竞赛单元放映，并被选为代表台湾角逐第84届奥斯卡最佳外语片且进入9部影片短名单）",
+        "url": "https://en.wikipedia.org/wiki/Warriors_of_the_Rainbow:_Seediq_Bale",
+        "credibility": "High"
+      },
+      {
+        "content": "Highlights from the 68th Venice Film Festival（报道中多次提到《Seediq Bale (Warriors of the Rainbow: Seediq Bale)》正在第68届威尼斯电影节Venezia 68单元角逐金狮奖）",
+        "url": "https://www.hurriyetdailynews.com/highlights-from-the-68th-venice-film-festival-54",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Taiwanese epic makes shortlist for 2012 foreign-language Oscar（中央社／Focus Taiwan报道，指出《Warriors of the Rainbow: Seediq Bale》是台湾提交至第84届奥斯卡最佳外语片的代表电影，并进入该奖项9部候选短名单）",
+        "url": "https://focustaiwan.tw/culture/201201190023",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "《赛德克·巴莱》（Warriors of the Rainbow: Seediq Bale）入围第68届威尼斯国际电影节主竞赛单元，提名角逐金狮奖，并被选为台湾地区提交至第84届奥斯卡最佳外语片奖的官方代表影片，进入该奖项的9部候选短名单。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "DC新作《超级少女》首曝先导预告片，将于2026年6月26日全美洲上映。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "权威资讯与业内报道均表明，这部DC新作片名为《Supergirl: Woman of Tomorrow》，目前确认的上映范围是“在美国（the United States）院线上映”，而非“全美洲”统一档期上映。 多个来源都给出同一日期：影片由华纳兄弟于2026年6月26日在美国影院上映，但并未宣布覆盖整个美洲各国统一档期，claim 将“美国上映”泛化或夸大为“全美洲上映”，属于对发行范围的语义延展和误导性表述。 关于“首曝先导预告片”，目前公开信息为2025年12月前后发布首支预告或预热视频，但报道只说为该片首支预告/teaser，并未与“全美洲同步定档”强绑定，综合来看，时间点（2026年6月26日）基本正确而上映地区被不当地扩大，因此整体claim需判为Refuted而非Supported。",
+    "evidence_sources": [
+      {
+        "content": "Supergirl: Woman of Tomorrow - Wikipedia（说明本片为DCU电影，将由华纳兄弟在美国院线于2026年6月26日上映，未提及“全美洲统一上映”）",
+        "url": "https://en.wikipedia.org/wiki/Supergirl:Woman_of_Tomorrow",
+        "credibility": "High"
+      },
+      {
+        "content": "Supergirl (2026 film) - Wikipedia（同样写明该片在美国于2026年6月26日上映，是DC宇宙章节之一，未将发行范围表述为覆盖整个美洲）",
+        "url": "https://en.wikipedia.org/wiki/Supergirl(2026_film)",
+        "credibility": "High"
+      },
+      {
+        "content": "Supergirl release date, cast, plot, and trailer speculation（娱乐媒体介绍该片时，给出的上映信息为“Supergirl will be released in theaters on June 26, 2026 (in the US)”，强调的是美国档期）",
+        "url": "https://www.gamesradar.com/entertainment/dc-movies/supergirl-release-date-cast-plot-trailer/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "DC新作《Supergirl: Woman of Tomorrow》（《超级少女》）目前已公布的档期为：将由华纳兄弟在美国院线于2026年6月26日上映，尚无权威信息表明会在同一日期实现“全美洲”统一上映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "DC新作《超级少女》改编自漫画《超级少女: 明日之姝》，由克雷格·吉勒斯佩(《魔女库伊》《我，花样女王》)执导，安娜·诺盖拉担任编剧。米莉·阿尔柯克（饰卡拉·佐-艾尔/超级少女），马提亚斯·修奈尔（饰大反派克雷姆），杰森·莫玛再战DC （饰“暴狼”罗伯），大卫·克朗姆霍茨（饰佐-艾尔），伊芙·雷德利（饰超女的盟友露西·玛丽·诺尔）等共同出演。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
+    "justification": "现有权威资料表明，这部DC新作的正式片名为《Supergirl: Woman of Tomorrow》，确实是基于同名漫画《Supergirl: Woman of Tomorrow》改编，导演为克雷格·吉勒斯佩，剧本由安娜·诺盖拉撰写，这部分与claim基本一致，但中文名称被误译为“明日之姝”属非通行译名问题。 演员与角色对应方面：米莉·阿尔柯克饰演卡拉·佐-艾尔/超级少女，马提亚斯·修奈尔饰演大反派“黄丘之克雷姆”，伊芙·雷德利饰演的是Ruthye Marye Knoll，而非“露西·玛丽·诺尔”，大卫·克朗姆霍茨饰演佐-艾尔；杰森·莫玛则被确认客串饰演的是反英雄角色“罗波”(Lobo)，而不是claim中写作的“暴狼罗伯”，这些中文角色名存在明显误译与张冠李戴。 综合来看，虽然导演、编剧和主要演员人选基本正确，但对原作名称和多名角色中文名、设定的表述与公开可靠信息不符，属于对已有事实的误读和错误翻译，因此整体claim应判定为Refuted，错误类型归为语义/推理层面的Misinterpretation Errors。",
+    "evidence_sources": [
+      {
+        "content": "Supergirl: Woman of Tomorrow - Wikipedia（介绍影片基于同名漫画改编，由Craig Gillespie执导、Ana Nogueira编剧，并列出Milly Alcock饰Kara Zor-El/Supergirl，Matthias Schoenaerts饰Krem，Eve Ridley饰Ruthye Marye Knoll，David Krumholtz饰Zor-El，Jason Momoa客串饰Lobo）",
+        "url": "https://en.wikipedia.org/wiki/Supergirl:Woman_of_Tomorrow",
+        "credibility": "High"
+      },
+      {
+        "content": "Supergirl (2026 film) - Wikipedia（再次确认导演为Craig Gillespie、编剧为Ana Nogueira，以及主要卡司与角色关系：Milly Alcock为Supergirl，Matthias Schoenaerts为Krem of the Yellow Hills，Eve Ridley为Ruthye Marye Knoll，David Krumholtz为Zor-El，Jason Momoa为Lobo）",
+        "url": "https://en.wikipedia.org/wiki/Supergirl(2026_film)",
+        "credibility": "High"
+      },
+      {
+        "content": "Supergirl: Woman of Tomorrow Full Cast Revealed So Far（娱乐报道，详细梳理卡司：确认Milly Alcock饰Kara Zor-El，Matthias Schoenaerts饰Krem，Eve Ridley饰Ruthye Marye Knoll，David Krumholtz饰Supergirl之父Zor-El，并指出Jason Momoa以Lobo身份客串亮相）",
+        "url": "https://www.pinkvilla.com/entertainment/hollywood/supergirl-woman-of-tomorrow-full-cast-revealed-so-far-including-milly-alcock-and-a-surprise-cameo-1349371",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "DC新作《Supergirl: Woman of Tomorrow》（《超级少女》）改编自DC漫画《Supergirl: Woman of Tomorrow》，由克雷格·吉勒斯佩执导，安娜·诺盖拉编剧。米莉·阿尔柯克饰演卡拉·佐-艾尔/超级少女，马提亚斯·修奈尔饰演反派“黄丘之克雷姆”，伊芙·雷德利饰演Ruthye Marye Knoll，大卫·克朗姆霍茨饰演佐-艾尔，杰森·莫玛则以罗波（Lobo）一角客串出场。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "基里安·墨菲主演电影版《浴血黑帮：不死之人》发布首款定档海报 ，将于2026年3月6日登陆美洲全部影院，3月20日上线Netflix。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "多方权威信息表明，这部电影的正式片名为《Peaky Blinders: The Immortal Man》，由基里安·墨菲回归主演汤米·谢尔比，Netflix 已公布其将在2026年3月6日于“部分/精选影院”（select theaters 或 select cinemas）进行院线公映，而非登陆“美洲全部影院”。 同一批公告与媒体报道还确认，该片将于2026年3月20日在Netflix全球上线，并未使用“美洲全部影院”或类似表述来形容院线覆盖范围，claim 将“精选影院限定放映”夸大为“美洲全部影院上映”，属于对发行范围的误导性表述；而“3月20日上线Netflix”的时间点本身是正确的，因此整体陈述在关键信息上部分失实，需要判定为Refuted。",
+    "evidence_sources": [
+      {
+        "content": "Peaky Blinders: The Immortal Man - Wikipedia（条目说明电影《Peaky Blinders: The Immortal Man》计划于2026年3月6日在部分影院上映，并在2026年3月20日登陆Netflix）",
+        "url": "https://en.wikipedia.org/wiki/Peaky_Blinders:_The_Immortal_Man",
+        "credibility": "High"
+      },
+      {
+        "content": "‘Peaky Blinders' Movie Sets Theatrical & Streaming Release Dates, Official Title（Deadline 报道：电影《Peaky Blinders: The Immortal Man》将于2026年3月6日在 select theaters 上映，并于3月20日在Netflix上线）",
+        "url": "https://deadline.com/2025/12/peaky-blinders-movie-release-dates-cillian-murphy-netflix-1236637231/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Peaky Blinders Will Return in The Immortal Man in March（Netflix Tudum 官方稿：确认影片于2026年3月6日登陆 select theaters，3月20日上线Netflix）",
+        "url": "https://www.netflix.com/tudum/articles/peaky-blinders-the-immortal-man-release-date-photos-news",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "基里安·墨菲主演的电影《Peaky Blinders: The Immortal Man》（《浴血黑帮：不死之人》）已发布首张定档物料，影片将于2026年3月6日在部分/精选影院（select theaters）上映，并于2026年3月20日在Netflix上线，而非在同日登陆“美洲全部影院”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影版《浴血黑帮：不死之人》由Netflix独家出品。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "公开资料显示，《Peaky Blinders: The Immortal Man》是一部与BBC Film、BBC Studios、Banijay Entertainment、Caryn Mandabach Productions等多方联合制作的电影，制片公司名单中并无“Netflix独家出品”字样。 多个权威与行业媒体均明确提到，Netflix负责该片的全球流媒体发行（distribution/streaming），影片在Netflix上线前还会在影院进行两周左右的院线放映，因此Netflix在该项目中的角色是发行方/流媒体平台，而非唯一出品方或独家制片公司。 Netflix 自身的介绍也采用“made in association with BBC Film”“produced in partnership with BBC Film”等表述，强调与BBC等机构合作，而不是Netflix单独出品，故“由Netflix独家出品”与事实不符，应判定为Refuted，属于将发行平台误说成唯一出品方的实体层面事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Company credits - Peaky Blinders: The Immortal Man - IMDb（公司信息页显示制片公司包括 BBC Film、BBC Studios、Banijay Entertainment、Banijay Rights、Caryn Mandabach Productions 等，Netflix只在“Distributors”一栏作为发行方出现）",
+        "url": "https://www.imdb.com/title/tt15574124/companycredits/",
+        "credibility": "High"
+      },
+      {
+        "content": "Peaky Blinders: The Immortal Man - Wikipedia（条目提到影片由多家制作公司参与制作，Netflix负责发行和流媒体上线，而非唯一出品方）",
+        "url": "https://en.wikipedia.org/wiki/Peaky_Blinders:_The_Immortal_Man",
+        "credibility": "High"
+      },
+      {
+        "content": "Peaky Blinders Movie: Cast, Release Date, News, Photos of Cillian Murphy, Rebecca Ferguson, Barry Keoghan Film（Netflix Tudum 官方文章称电影是“made in association with BBC Film”，确认Netflix在影片中的角色是合作方与发行平台，而不是独家出品）",
+        "url": "https://www.netflix.com/tudum/articles/peaky-blinders-movie-release-date-photos-news",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影版《浴血黑帮：不死之人》（Peaky Blinders: The Immortal Man）由BBC Film、BBC Studios、Banijay Entertainment、Caryn Mandabach Productions等多家公司联合制作，Netflix作为发行和流媒体平台参与，并非由Netflix独家出品。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影版《浴血黑帮：不死之人》承接第五季，以二战为背景。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "电影版《浴血黑帮：不死之人》并非承接第五季，而是承接剧集的最终季（第六季）的结局。剧集第六季于2022年完结，电影版故事紧接其后，时间线推进到1940年二战时期的英国伯明翰，因此 claim 中关于‘承接第五季’的部分是错误的，但‘以二战为背景’这一部分是正确的。",
+    "evidence_sources": [
+      {
+        "content": "《浴血黑帮》电影版剧情承接剧集最终季第六季，背景设定在第二次世界大战期间的英国伯明翰，时间推进到1940年，汤米·谢尔比从自我放逐中回归，面对外部战争与内部清算。",
+        "url": "https://www.163.com/dy/article/KGBG6AO80517WCAS.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Netflix与BBC联合出品的电影《浴血黑帮：不死之人》作为《浴血黑帮》第六季的后续之作，故事承接2022年完结的第六季，背景设定在第二次世界大战期间的英国。",
+        "url": "https://m.yule.360.com/content/4562330",
+        "credibility": "Medium"
+      },
+      {
+        "content": "维基百科《浴血黑帮》条目说明：该剧第六季为最终季，于2022年播毕；电影版《浴血黑帮：不死之人》是剧集的延续，时间线进入二战时期。",
+        "url": "https://zh.wikipedia.org/wiki/%E6%B5%B4%E8%A1%80%E9%BB%91%E5%B8%AE",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影版《浴血黑帮：不死之人》承接第六季（最终季）的结局，以二战为背景。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2026年电影电视金球奖《一战再战》以入围9项领跑，《情感价值》入围8项紧随其后，《罪人》入围7项，《哈姆奈特》入围6项。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据2026年第83届金球奖官方公布的提名名单，电影《一战再战》（One Battle After Another）共获得9项提名，数量最多，排名第一；《情感价值》（Sentimental Value）获得8项提名，排名第二；《罪人》（Sinners）获得7项提名，排名第三；《哈姆奈特》（Hamnet）获得6项提名，与 claim 中的数字完全吻合，因此该 claim 可判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "2026年第83届金球奖完整入围名单：《一战再战》以9项提名领跑电影类，《情感价值》获8项提名，《罪人》获7项提名，《哈姆奈特》获6项提名。",
+        "url": "https://hypebeast.com/zh/2025/12/2026-golden-globe-nominees-complete-list",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026金球奖提名公布：《一战再战》斩获9项提名领跑，紧随其后的是《情感价值》8项提名，《罪人》7项提名，《哈姆奈特》6项提名。",
+        "url": "https://www.163.com/dy/article/KGCIOU120517VC4C.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026年第83届金球奖提名名单：《一战再战》9项提名领跑，电影类《情感价值》《罪人》《哈姆奈特》分别以8项、7项、6项提名位列其后。",
+        "url": "https://www.163.com/dy/article/KGBA7MRP0556AOZB.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2026年电影电视金球奖《一战再战》以入围9项领跑，《情感价值》入围8项紧随其后，《罪人》入围7项，《哈姆奈特》入围6项。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2026年电影电视金球奖《普通事故》入围最佳剧情片、最佳导演、最佳剧本、最佳外语片4项重磅大奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据2026年第83届金球奖官方公布的提名名单，电影《普通事故》（It Was Just an Accident）同时获得了以下4项提名：电影类最佳剧情片（剧情类最佳影片）、最佳导演（贾法·帕纳西）、最佳剧本（最佳剧本）和最佳外语片（最佳外语片），因此 claim 中关于‘入围4项重磅大奖’的描述是准确的，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "2026年金球奖提名名单：《普通事故》入围电影类最佳剧情片、最佳导演、最佳剧本、最佳外语片4项大奖。",
+        "url": "https://www.163.com/dy/article/KGA3NHER05527MBG.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026金球奖完整提名名单：《普通事故》获得最佳剧情片、最佳导演、最佳剧本、最佳外语片提名。",
+        "url": "https://www.163.com/dy/article/KGCIOU120517VC4C.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026金球奖电影类提名：《普通事故》同时入围最佳剧情片、最佳导演、最佳剧本、最佳外语片4个主要奖项。",
+        "url": "https://hypebeast.com/zh/2025/12/2026-golden-globe-nominees-complete-list",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2026年电影电视金球奖《普通事故》入围最佳剧情片、最佳导演、最佳剧本、最佳外语片4项重磅大奖。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2026年电影电视金球奖《无可奈何》入围音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角3项大奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据2026年第83届金球奖官方公布的提名名单，韩国电影《无可奈何》（No Other Choice）获得了电影类音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角（李炳宪）共3项提名，claim 中列出的奖项名称和数量均与官方信息相符，因此判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "2026年金球奖提名名单：韩国电影《无可奈何》（No Other Choice）入围音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角3项大奖。",
+        "url": "https://www.163.com/dy/article/KGEMCL9B0552A9L2.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026金球奖完整提名名单：《无可奈何》（No Other Choice）获得音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角提名。",
+        "url": "https://hypebeast.com/zh/2025/12/2026-golden-globe-nominees-complete-list",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2026金球奖提名片单：《无可奈何》（No Other Choice）入围音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角3项大奖。",
+        "url": "https://www.163.com/dy/article/KGCIOU120517VC4C.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2026年电影电视金球奖《无可奈何》入围音乐／喜剧类最佳影片、最佳外语片、音乐／喜剧类最佳男主角3项大奖。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2026年电影电视金球奖2026年1月11日开奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "2026年电影电视金球奖即第83届金球奖，其颁奖典礼官方公布日期为2026年1月11日（美国时间），因此 claim 中“2026年1月11日开奖”的说法是准确的，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "第83届金球奖颁奖典礼将于2026年1月11日举行。",
+        "url": "https://www.zaobao.com.sg/entertainment/story20251209-7936186",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第83届2026金球奖颁奖典礼将于2026年1月11日举行（台湾时间2026年1月12日）。",
+        "url": "https://www.marieclaire.com.tw/entertainment/movie/90379/golden-globe-awards-2026",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第83届金球奖颁奖典礼将于2026年1月11日在洛杉矶举行。",
+        "url": "https://hypebae.com/sc/2025/12/golden-globes-nominations-cynthia-erivo-ariana-grande-marty-supreme-wicked-news",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2026年电影电视金球奖2026年1月11日开奖。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "克里斯托弗·诺兰执导的新作《奥德赛》，于12月12日公布接近6分钟时长的预告片，以贴片的形式在IMAX 70MM胶片格式重映的《罪人》及《一战再战》前放映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据环球影业发布的官方信息，克里斯托弗·诺兰执导的《奥德赛》于2025年12月12日（周五）起，在美国部分影院的IMAX 70MM胶片放映场次中，以贴片形式放映一段时长约6分钟的加长版预告（序章），该贴片影片安排在IMAX 70MM重映的《罪人》（Sinners）和《一战再战》（One Battle After Another）正片之前，因此 claim 中关于时间、片长、格式和贴片影片的描述均准确，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "好莱坞名导克里斯多福·诺兰执导的史诗大片《奥德赛》将于2026年7月17日全球上映，环球影业宣布本周将在美国部分影院IMAX 70mm放映场次中抢先释出加长版预告片，观众可于12月12日起在重映片《罪人》与《一战再战》的IMAX 70mm播映场次前，抢先观赏长达近6分钟的《奥德赛》序章。",
+        "url": "https://today.line.me/hk/v3/article/nXPL6MM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "环球影业宣布，诺兰新片《奥德赛》的6分钟加长版预告（序章）将于12月12日起，以IMAX 70MM贴片形式在重映的《罪人》和《一战再战》正片前放映。",
+        "url": "https://www.163.com/dy/article/KGER9T3S0512830U.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "诺兰新作《奥德赛》的IMAX 70MM加长版预告片（约6分钟）于12月12日公布，作为贴片在IMAX 70MM重映的《罪人》和《一战再战》前放映。",
+        "url": "https://www.sohu.com/a/923767803_128476",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "克里斯托弗·诺兰执导的新作《奥德赛》，于12月12日公布接近6分钟时长的预告片，以贴片的形式在IMAX 70MM胶片格式重映的《罪人》及《一战再战》前放映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "比利·怀尔德执导经典悬疑犯罪电影《控方证人》（1957），在确认引进一年多后，终于定档，2025年12月5日全国上映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据中国电影频道、腾讯新闻、新浪娱乐等多家媒体的报道，比利·怀尔德1957年执导的经典悬疑犯罪片《控方证人》在2024年8月确认引进内地，经过一年多的等待，于2025年11月21日官宣定档，将于2025年12月5日在全国影院正式上映。该片以4K修复版、黑白修复外语片形式登陆中国大银幕，因此 claim 中关于导演、影片类型、年份、引进背景和定档日期的描述均准确，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "好莱坞电影大师比利·怀尔德1957年执导的经典影片《控方证人》将于12月5日在内地首次公映，该片改编自阿加莎·克里斯蒂创作的同名短篇推理小说，讲述了中年男子沃尔被指控谋杀富有的老妇，而他的爱人克里斯汀则是控方证人。",
+        "url": "http://www.xinhuanet.com/ent/20251203/849c2a743ea8448eb8181172e48e15d1/c.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "根据“推理女王”阿加莎·克里斯蒂原著改编，两获奥斯卡最佳导演的比利·怀尔德执导的悬疑名作《控方证人》今日发布“证供迷局”版定档海报，官宣12月5日全国上映，并同期开启预售。",
+        "url": "https://news.qq.com/rain/a/20251121A02UXO00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "IT之家 11 月 21 日消息，电影《控方证人》于今日官宣定档 12 月 5 日在内地上映，该电影于1957年首次在美国上映，当前豆瓣评分高达9.6，位列豆瓣电影Top250排行榜第19名。",
+        "url": "https://finance.sina.com.cn/tech/digi/2025-11-21/doc-infyekya8228540.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "比利·怀尔德执导经典悬疑犯罪电影《控方证人》（1957），在确认引进一年多后，终于定档，2025年12月5日全国上映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《控方证人》（1957）是继《淘金记》在今年7月国内上映后，第二部上映的4K数字修复版黑白外语片。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "2025年7月25日在中国内地上映的《淘金记》是“全新4K修复版”（4K digital restoration），由世界顶级电影修复机构意大利博洛尼亚电影资料馆（Cineteca di Bologna）与法国MK2影业合作，通过其著名的修复实验室 L’Immagine Ritrovata 完成的数字修复版本，画质为4K分辨率，属于4K数字修复版电影 。《淘金记》（The Gold Rush, 1925）是查理·卓别林执导的无声默片，原片就是黑白的，没有彩色版本。此次上映的4K修复版也完全保留了原片的黑白影像风格，因此是黑白片 。《淘金记》是美国制作的英语电影，原片为英语默片（有字幕卡），属于外语片范畴。在中国内地上映时，通常会配中文字幕，因此它是一部“黑白外语片” 。而2025年12月5日上映的电影《控方证人》（1957）也是黑白4K修复外语片，因此电影《控方证人》（1957）是继《淘金记》在今年7月国内上映后，第二部定档上映的4K数字修复版黑白外语片这个表述没有错。",
+    "evidence_sources": [
+      {
+        "content": "为纪念《淘金记》上映百年，该片的全新4K修复版将于2025年7月25日起正式登陆国内院线，这是卓别林经典作品的4K修复版首次大规模在国内公映。",
+        "url": "https://news.qq.com/rain/a/20250626A025QW00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《淘金记》4K修复版于2025年7月25日在中国内地上映，该片是卓别林的经典黑白默片，修复后以4K数字格式在影院放映，是当年第一部在国内上映的4K修复黑白外语片。",
+        "url": "https://finance.sina.com.cn/tech/digi/2025-07-03/doc-infecyit3741636.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "黑白4K 修复外语片：豆瓣9.6 分电影神作《控方证人》内地定档12 月5 日登陆院线。",
+        "url": "https://finance.sina.com.cn/tech/digi/2025-11-21/doc-infyekya8228540.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《控方证人》（1957）是继《淘金记》在今年7月国内上映后，第二部定档上映的4K数字修复版黑白外语片。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "梁朝伟在新加坡电影节活动中透露2026年的工作计划，将会拍摄电视剧，饰演连环杀手。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "2025年11月28日，梁朝伟出席第36届新加坡国际电影节座谈会，被问及未来工作计划时明确表示，2026年将除电影外也投入电视剧拍摄，并透露自己将在电视剧中饰演一名连环杀手，称该角色非常黑暗、与以往形象大不相同。多家权威媒体报道均引述其原话，因此 claim 中关于时间、场合、工作计划和角色的描述准确，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "11月28日，梁朝伟在出席第36届新加坡国际电影节座谈会时，透露了一项重磅工作计划：他将时隔36年重返电视剧领域，饰演一名连环杀手。",
+        "url": "https://view.inews.qq.com/a/20251130A06SBR00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "梁朝伟在新加坡国际电影节座谈会上透露，2026年工作计划包括电影与电视剧拍摄，当被追问电视剧角色时，他自曝在剧中饰演一名连环杀手，角色非常黑暗。",
+        "url": "https://www.sohu.com/a/959929567_114941",
+        "credibility": "Medium"
+      },
+      {
+        "content": "梁朝伟在新加坡国际电影节活动中表示，2026年将相当忙碌，除电影外还会拍摄电视剧，并透露自己将在电视剧中饰演一个连环杀手，是演艺生涯的全新挑战。",
+        "url": "https://news.tvbs.com.tw/entertainment/3058793",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "梁朝伟在新加坡电影节活动中透露2026年的工作计划，将会拍摄电视剧，饰演连环杀手。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "伊尔蒂科·茵叶蒂执导，梁朝伟、蕾雅·赛杜等主演新片《寂静的朋友》ICS场刊最终评分3.80位列第一。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据第82届威尼斯电影节主竞赛单元的ICS Critics Panel（国际影评人场刊）最终评分结果，伊尔蒂科·茵叶蒂执导、梁朝伟与蕾雅·赛杜主演的新片《寂静的朋友》（Silent Friend）获得3.80分（满分5分），在所有主竞赛影片中排名第一，高于金狮奖得主《父母姐弟》的3.50分，因此 claim 中关于导演、主演、片名、场刊评分及排名的描述均准确，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "第82届威尼斯电影节主竞赛单元ICS场刊最终评分：《寂静的朋友》3.80分（伊尔蒂科·茵叶蒂执导，梁朝伟、蕾雅·赛杜主演）位列第一，金狮奖得主《父母姐弟》3.50分。",
+        "url": "https://www.163.com/dy/article/K8V1M9C00537E8U7.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "威尼斯电影节主竞赛单元场刊ICS评分公布：伊尔蒂科·茵叶蒂新作《寂静的朋友》以3.80分高居榜首，梁朝伟、蕾雅·赛杜主演。",
+        "url": "https://view.inews.qq.com/a/20250907A054R800",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第82届威尼斯电影节主竞赛场刊ICS最终评分：《寂静的朋友》（伊尔蒂科·茵叶蒂，梁朝伟、蕾雅·赛杜主演）3.80分，排名第一。",
+        "url": "https://www.sohu.com/a/933058660_120157873",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "伊尔蒂科·茵叶蒂执导，梁朝伟、蕾雅·赛杜等主演新片《寂静的朋友》ICS场刊最终评分3.80位列第一。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "邹时擎执导长片首作《左撇子女孩》11月28日上线Netflix流媒体平台",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威及专业媒体均指出，《左撇子女孩》（Left-Handed Girl）将于11月28日在Netflix上线或全球上线。 影片页面和官方物料同样标注“11月28日Netflix上线/上线Netflix”，与claim一致。 多篇新闻报道和影讯进一步说明本片先于11月14日进行小范围院线放映，之后于11月28日登陆Netflix平台，补强了该时间信息的可信度。",
+    "evidence_sources": [
+      {
+        "content": "Netflix Tudum 介绍《Left-Handed Girl》的文章，明确写明影片将于11月14日在部分影院上映，并于11月28日在Netflix上线。",
+        "url": "https://www.netflix.com/tudum/articles/left-handed-girl-release-date-cast-news",
+        "credibility": "High"
+      },
+      {
+        "content": "《左撇子女孩》（Left-Handed Girl）词条说明该片由邹时擎（Shih-Ching Tsou）担任编剧、制片和导演，并指出影片在11月14日北美小规模上映后，于11月28日在Netflix流媒体平台上线。",
+        "url": "https://en.wikipedia.org/wiki/Left-Handed_Girl",
+        "credibility": "Medium"
+      },
+      {
+        "content": "IMDb 新闻“Left-Handed Girl Release Schedule: Date and Cast Details”报道，称Netflix Tudum 已正式确认《Left-Handed Girl》将于2025年11月28日独家在Netflix上线，为导演邹时擎的长片单独执导首作。",
+        "url": "https://www.imdb.com/news/ni65461874/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "邹时擎（Shih-Ching Tsou）执导的长片首作《左撇子女孩》（Left-Handed Girl）在11月14日先进行有限院线放映，并于11月28日正式上线Netflix流媒体平台。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《左撇子女孩》的拍摄想法在《外卖》之前就诞生了。电影从2012年肖恩·贝克公布作品，邹时擎出任导演，到2022年拍摄，现在2025年上映，总计历时13年。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "导演邹时擎在采访中表示，《左撇子女孩》的故事想法在她与肖恩·贝克合作长片《外卖》（Take Out）之前就已经萌生，因此“拍摄想法在《外卖》之前就诞生了”这一点是成立的。 资料显示，本片剧本由邹时擎和肖恩·贝克于2010年完成，2012年由贝克对外公开该项目并确认由邹时擎担任导演，但由于长期融资困难，影片一直到2022年才正式开拍。 公开的制作与发行时间线显示，影片在2022年7月左右进入主体拍摄，2025年在戛纳评论周首映并于同年在院线和Netflix陆续上映，从2012年项目公开到2025年上映约为13年，符合claim中“总计历时13年”的表述（从更早的萌芽阶段算起甚至接近二十余年，但不影响“至少13年”的说法）。",
+    "evidence_sources": [
+      {
+        "content": "Joysauce 专访《Shih-Ching Tsou's 'Left-Handed Girl' was two decades in the making》，邹时擎提到在与肖恩·贝克合作《Take Out》之前就已有《左撇子女孩》的故事想法，并说明项目从最初构思到成片经历了漫长年份。",
+        "url": "https://joysauce.com/shih-ching-tsous-left-handed-girl-was-two-decades-in-the-making/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《Left-Handed Girl》维基百科词条记载：剧本由邹时擎与肖恩·贝克在2010年完成，2012年贝克公开这一项目并确认由邹时擎执导，主摄影于2022年7月开始，影片在2025年戛纳评论周首映并于同年在法国院线、美国院线及Netflix上线。",
+        "url": "https://en.wikipedia.org/wiki/Left-Handed_Girl",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Le Pacte 发布的《LEFT-HANDED GIRL》英文宣传/导演手册（PDF），提到这部片是邹时擎继与肖恩·贝克合拍《Take Out》21年后的首部长片个人执导作品，并描述从2010年前后与贝克共同开发剧本、2012年项目公开、到2022年开拍和之后发行的漫长开发过程。",
+        "url": "https://le-pacte.com/storage/uploads/40a7a611-a9b0-4b6f-a920-cf62f728c8a8/LHG---Press-notes-EN.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《左撇子女孩》的故事想法在邹时擎与肖恩·贝克合作长片《外卖》（Take Out）之前就已萌生，二人于2010年前后完成剧本，肖恩·贝克在2012年公开该项目并确认由邹时擎执导，因融资等原因项目长期搁置，直到2022年才正式开机拍摄，并在2025年完成并上映，整体开发周期大约在十余年至二十年之间，其中从2012年公开到2025年上映约为13年。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《左撇子女孩》由邹时擎和肖恩·贝克共同编剧，邹时擎执导，肖恩·贝克剪辑，蔡淑臻、马士媛、叶子绮等出演。在今年戛纳电影节举行世界首映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "英文与中文资料均表明，《左撇子女孩》（Left-Handed Girl）由邹时擎（Shih-Ching Tsou）和肖恩·贝克（Sean Baker）共同编剧，邹时擎担任导演。 影片主要演员名单中包含蔡淑臻（Janel Tsai）、马士媛（Shih-Yuan Ma）、叶子绮（Nina Ye）等人，与claim中的演员信息相符。 多个权威影展与发行渠道信息确认，肖恩·贝克在本片中担任联合编剧、制片人与剪辑（editor / film editing），且影片于2025年戛纳电影节影评人周（Critics’ Week）单元举行世界首映，时间为当年5月中旬，因此“在今年戛纳电影节举行世界首映”的描述也成立。",
+    "evidence_sources": [
+      {
+        "content": "Left-Handed Girl - Wikipedia：介绍《左撇子女孩》是2025年剧情片，由邹时擎联合编剧、制片并执导，肖恩·贝克担任联合编剧、联合制片和剪辑，主演包括Janel Tsai（蔡淑臻）、Shih-Yuan Ma（马士媛）、Nina Ye（叶子绮）等，并说明影片于2025年戛纳国际电影节影评人周单元举行世界首映。",
+        "url": "https://en.wikipedia.org/wiki/Left-Handed_Girl",
+        "credibility": "Medium"
+      },
+      {
+        "content": "左撇子女孩- 维基百科，自由的百科全书：中文版词条指出，本片由邹时擎导演，邹时擎与西恩·贝克共同编剧，演员阵容包括蔡淑臻、马士媛、叶子绮等，并写明电影入选戛纳影展影评人周单元，于2025年5月15日全球首映。",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%B7%A6%E6%92%87%E5%AD%90%E5%A5%B3%E5%AD%A9",
+        "credibility": "Medium"
+      },
+      {
+        "content": "LEFT-HANDED GIRL - AFI FEST／Semaine de la Critique 等官方介绍页面，说明《Left-Handed Girl》是邹时擎的个人长片导演首作，在2025年戛纳影评人周（Cannes Critics’ Week）完成世界首映。",
+        "url": "https://fest.afi.com/2025/world-cinema-2025/left-handed-girl/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《左撇子女孩》（Left-Handed Girl）由邹时擎和肖恩·贝克共同编剧，由邹时擎执导，肖恩·贝克担任联合编剧、制片人及剪辑；主演包括蔡淑臻、马士媛、叶子绮等，影片于2025年戛纳电影节影评人周单元举行世界首映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "邹时擎是肖恩·贝克（执导《阿诺拉》横扫金棕榈、奥斯卡最佳导演、影片、女主、原创剧本、剪辑）多年的制片，两人在纽约学生时代就相识了，合作过的作品包括《红色火箭》《待绽蔷薇》《橘色》《弗罗里达乐园》。他们也曾共同执导过长片《外卖》，讲述一位纽约非法华人移民、外卖骑手的故事。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "公开资料显示，“邹时擎”（Shih-Ching Tsou）是出生于台北的台裔美籍制片人和导演，与导演肖恩·贝克长期合作。 2000年代初，两人在纽约新学院（The New School）的课程中相识，当时她攻读媒体研究硕士，而他在学习非线性剪辑，这与“在纽约学生时代就相识”的描述相符。 她与贝克共同执导长片《Take Out》（《外卖》），该片被明确定义为由肖恩·贝克和邹时擎共同编剧并联合导演，讲述一名在纽约中餐馆工作的无证华人外卖员的日常，剧情与claim中“纽约非法华人移民、外卖骑手”的描述吻合。 多个权威及行业资料记载，邹时擎作为制片人/执行制片人/联合制片人参与了肖恩·贝克的多部作品，包括《Starlet》（《待绽蔷薇》）、《Tangerine》（《橘色》）、《The Florida Project》（《佛罗里达乐园》）和《Red Rocket》（《红色火箭》），与claim所列片名一致，只是中文译名略有差异。 因此，该claim关于长期制片合作关系、在纽约学生时期结缘、联合执导《外卖》以及几部合作作品列表等关键信息均有充分独立证据支持，可判定为“Supported”。",
+    "evidence_sources": [
+      {
+        "content": "Shih-Ching Tsou - Wikipedia（介绍邹时擎为台裔美籍制片人、导演，曾与肖恩·贝克共同编剧并联合执导《Take Out》，并担任其多部影片《Starlet》《Tangerine》《The Florida Project》《Red Rocket》的制片/执行制片人）",
+        "url": "https://en.wikipedia.org/wiki/Shih-Ching_Tsou",
+        "credibility": "High"
+      },
+      {
+        "content": "Take Out (2004 film) - Wikipedia（说明《Take Out》是一部由肖恩·贝克与邹时擎共同编剧、共同执导的独立剧情长片，故事围绕一位在纽约打工的无证华人外卖员展开）",
+        "url": "https://en.wikipedia.org/wiki/Take_Out_(2004_film)",
+        "credibility": "High"
+      },
+      {
+        "content": "indieWIRE INTERVIEW | “Take Out” Co-director Sean Baker（访谈中提到《Take Out》围绕在纽约中餐馆送外卖的非法华人移民展开，并指出肖恩·贝克与邹时擎是在纽约The New School学习期间相识，之后一起合作执导该片）​",
+        "url": "https://www.indiewire.com/features/general/indiewire-interview-take-out-co-director-sean-baker-72270/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "邹时擎（Shih-Ching Tsou）是导演肖恩·贝克长期合作的制片人及合作者，两人于纽约The New School就读时期相识，其后她先后以制片人、执行制片人等身份参与了贝克的《Starlet》（常译《待绽蔷薇》）、《Tangerine》（《橘色》）、《The Florida Project》（《佛罗里达乐园》）、《Red Rocket》（《红色火箭》）等多部作品，并与肖恩·贝克共同编剧、联合执导长片《Take Out》（《外卖》），该片讲述了一位在纽约打工的无证华人中餐外卖员一天之内为偿还偷渡债务而奔波的故事。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年金鸡影展以“幕启”为题，展映一共92部中外佳作，新片与经典兼备，设置8大单元。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家主流媒体和地区媒体均报道，2025年金鸡影展以“幕启”为主题/题名，突出新一年影展的开篇意味。 相关报道明确指出，本届金鸡影展将/已展映92部中外精选佳片或中外佳作，且展映片单中新片与经典影片并存，体现“新片与经典兼备”的定位。 官方或权威渠道还提到，本届金鸡影展特别设置八大单元，包括国产新片展、金鸡国际影展、金鸡华语影展等，印证“设置8大单元”的说法，因此整体与claim完全一致。",
+    "evidence_sources": [
+      {
+        "content": "《金鸡六城巡展排片公布，12月1日开票！》文中写明：2025年金鸡影展以“幕启”为题，展映一共92部中外佳作，新片与经典兼备，设置8大单元。",
+        "url": "https://www.163.com/dy/article/KFHC1K2L05178AGV.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "澎湃新闻《南京、苏州等六城巡展》报道指出：2025年金鸡影展以“幕启”为主题，将展映92部中外精选佳片，片单中新锐之作与经典影片交相辉映，影展特别设置八大单元。",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32090362",
+        "credibility": "Medium"
+      },
+      {
+        "content": "中国电影报业协会等系统刊发的PDF《坚定不移走好高质量发展之路在电影强国建设新征程中奋楫…》中提到：2025年金鸡影展设置国产新片展、金鸡国际影展、金鸡华语影展等八个单元，共展映92部中外佳作。",
+        "url": "https://www.chinafilmnews.cn/UploadFiles/file/20251112/202511121011235686.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年金鸡影展以“幕启”为题（主题），共展映92部中外佳作，新片与经典兼备，并设置8大单元进行展映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "在金鸡奖颁奖典礼圆满落幕之际，2025年金鸡影展将继续启程，于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家新闻及资讯平台报道指出，在2025年中国金鸡百花电影节暨第38届中国电影金鸡奖颁奖典礼结束后，金鸡影展将继续开展全国巡展活动。 相关报道和活动信息明确写明，2025年金鸡影展将于12月5日至12月28日举办，并依次走进或在北京、苏州、深圳、成都、杭州、南京六座城市展开巡展或同步巡展，与claim中的时间和城市列表一致。 部分报道使用了“在金鸡奖颁奖典礼圆满结束后，金鸡影展将于12月5日至12月28日再度扬帆起航”的表述，与claim中的语义高度吻合，因此整体判断为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "《金鸡六城巡展排片公布，12月1日开票！》一文中指出：在金鸡奖颁奖典礼圆满落幕之际，金鸡影展将继续启程，于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展。",
+        "url": "https://www.163.com/dy/article/KFHC1K2L05178AGV.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "澎湃新闻《南京、苏州等六城巡展》报道写明：在金鸡奖颁奖典礼圆满结束后，2025年金鸡影展将于12月5日至12月28日再度扬帆起航，依次走进北京、苏州、深圳、成都、杭州、南京六座城市，开启全国巡展之旅。",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32090362",
+        "credibility": "Medium"
+      },
+      {
+        "content": "苏州本地宝《2025金鸡影展六城排片表（地点+时间）》页面称：2025金鸡影展将于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展，并给出六城具体影城与排片安排。",
+        "url": "http://suzhou.bendibao.com/xiuxian/2025121/134211.shtm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在2025年中国金鸡百花电影节暨第38届中国电影金鸡奖颁奖典礼圆满落幕之后，2025年金鸡影展将继续启程，并于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京六座城市展开巡展。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年金鸡影展巡展于12月1日12:00在淘票票APP正式开票。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体和地方资讯平台均提到，2025年金鸡影展全国六城巡展的官方购票时间为12月1日12:00，并明确说明在淘票票APP正式开票，时间与平台信息与该表述一致。 例如影展排片与购票信息的报道中写明“巡展将于12月1日12:00在淘票票APP正式开票”，且强调此次巡展覆盖北京、苏州、深圳、成都、杭州、南京六城，与“金鸡影展巡展”的描述相吻合。 地方城市购票指南（如成都站、苏州站）也重复给出“开票时间：2025年12月1日12:00”“开票方式：将在淘票票APP开票”等说明，进一步交叉印证这一时间与平台信息的准确性。",
+    "evidence_sources": [
+      {
+        "content": "金鸡·影展| 六城巡展排片公布，即将开票！（报道2025年金鸡影展以“幕启”为题，将于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展，并明确写明“巡展将于12月1日12:00在淘票票APP正式开票！”）​",
+        "url": "https://www.163.com/dy/article/KFFVI0V60517VC4C.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "金鸡·影展| 六城巡展排片公布，即将开票！-腾讯新闻（介绍2025年金鸡影展六城巡展安排，指出巡展将于12月5日至12月28日进行，并再次强调“巡展将于12月1日12:00在淘票票APP正式开票！”）​",
+        "url": "https://news.qq.com/rain/a/20251128A076XH00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "金鸡六城巡展排片公布，12月1日开票！（详细介绍2025年金鸡影展片单和六城巡展信息，文中说明“巡展将于12月1日12:00在淘票票APP正式开票！”，与claim完全一致）",
+        "url": "https://www.163.com/dy/article/KFHC1K2L05178AGV.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年金鸡影展六城巡展将于2025年12月1日12:00在淘票票APP正式开票，观众可自该时间起通过淘票票APP购买巡展各城市场次的影展票。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《女孩》于10月31日中国台湾上映；嘉映影业作为中国大陆的投资方，11月1日全国影院上映；11月6日中国香港上映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体报道与百科信息均显示，舒淇执导的电影《女孩》在2025年9月于威尼斯首映后，于2025年10月31日在中国台湾正式上映，11月1日在中国内地上映，11月6日在中国香港上映，与claim中的三个日期和地区顺序完全一致。 相关报道和资料还提到，该片为两岸合拍作品，包含中国大陆出资方，其中包括嘉映影业等内地公司参与投资和出品，说明嘉映影业作为中国大陆投资方的说法是合理且被多方提及的，符合claim中“嘉映影业作为中国大陆的投资方”的描述。 综合这些证据，claim中关于《女孩》在中国台湾、中国内地、中国香港的具体上映日期，以及嘉映影业作为大陆投资方的信息均得到独立来源的印证，可判定为“Supported”。",
+    "evidence_sources": [
+      {
+        "content": "舒淇《女孩》香港首映口碑爆棚，王晶、郑伊健和吕良伟纷纷力挺（报道指出，影片于2025年9月4日在威尼斯国际电影节首映，随后于2025年10月31日在中国台湾上映，11月1日在中国内地上映，11月6日在中国香港上映）",
+        "url": "https://www.163.com/dy/article/KDK6O8GG05527MBG.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "舒淇《女孩》香港首映口碑爆棚，王晶、郑伊健和吕良伟纷纷力挺（另一版本页面，同样给出《女孩》10月31日登陆中国台湾、11月1日中国内地上映、11月6日正式在香港上映的时间信息）",
+        "url": "https://c.m.163.com/news/a/KDK6O8GG05527MBG.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《女孩》(2025年电影) - 维基百科（介绍《女孩》为2025年台湾成长剧情片，入选第82届威尼斯影展主竞赛单元，并说明影片为两岸合拍、由多家公司联合出品与投资，其中包括来自中国大陆的出品与投资方，为“嘉映影业作为中国大陆投资方”提供背景依据）",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%A5%B3%E5%AD%A9_(2025%E5%B9%B4%E7%94%B5%E5%BD%B1)",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "舒淇执导的电影《女孩》于2025年9月在威尼斯国际电影节首映后，2025年10月31日在中国台湾正式上映，2025年11月1日在中国内地全国影院上映，2025年11月6日在中国香港上映；影片为两岸合拍作品，中国大陆方面包括嘉映影业等公司参与投资与出品。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《饥饿游戏：收获日出》首曝预告，聚焦黑密斯的那届游戏。将于2026年11月20日北美上映。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "英文片名为“The Hunger Games: Sunrise on the Reaping”，是《饥饿游戏》系列的前传电影，故事发生在主线故事约24年前，讲述第50届饥饿游戏（第二季度祭）中年轻的海奇密什·阿伯纳西参赛及其生存经历，与“聚焦黑密斯那届游戏”的说法相符，其中“黑密斯”是对Haymitch的中译昵称。 多个权威娱乐资讯源和IMDb页面都给出该片在美国（北美主要市场）定档为2026年11月20日上映，与claim中的“将于2026年11月20日北美上映”一致。 狮门官方渠道及多家中文资讯网站报道，这部新作已发布先导/正式预告，并明确说明影片将于2026年11月20日在北美院线上映，验证了“首曝预告”与上映日期两点。",
+    "evidence_sources": [
+      {
+        "content": "The Hunger Games: Sunrise on the Reaping - Wikipedia（介绍该片为基于苏珊·柯林斯小说的《饥饿游戏》新作前传电影，聚焦第50届饥饿游戏中年轻的Haymitch Abernathy，并写明影片计划于2026年11月20日在美国和加拿大上映）",
+        "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+        "credibility": "High"
+      },
+      {
+        "content": "The Hunger Games: Sunrise on the Reaping (2026) - IMDb（影片资料页显示故事发生在凯妮丝故事24年前，聚焦Haymitch参加第50届饥饿游戏，并在“Release date”一栏标注“November 20, 2026 (United States) ”）",
+        "url": "https://www.imdb.com/title/tt32558705/",
+        "credibility": "High"
+      },
+      {
+        "content": "《饥饿游戏：收获日出》先导预告：将于今年七月开拍（报道指出，《饥饿游戏》系列新电影《饥饿游戏：收获日出》在CinemaCon发布先导预告，公开片名LOGO，并宣布将于2026年11月20日在北美上映，剧情聚焦Haymitch所在那届饥饿游戏）",
+        "url": "https://www.gamersky.com/news/202504/1906365.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《饥饿游戏：收获日出》（The Hunger Games: Sunrise on the Reaping）是一部聚焦海奇密什·阿伯纳西（黑密斯）参加第50届饥饿游戏的前传电影，官方已发布先导/正式预告，影片定档于2026年11月20日在北美院线上映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《饥饿游戏：收获日出》改编自苏珊·柯林斯所著同名小说《Sunrise on the Reaping》，设定在《饥饿游戏：鸣鸟与蛇之歌》的40年后",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "出版与评论资料一致说明，《Sunrise on the Reaping》是苏珊·柯林斯创作的《饥饿游戏》系列新作小说，影片《饥饿游戏：收获日出》的剧本即改编自该同名小说，对应中文说法“改编自苏珊·柯林斯所著同名小说《Sunrise on the Reaping》”。 多个解读与新闻源明确指出，这部小说的时间线设定为《饥饿游戏：鸣鸟与蛇之歌》事件约40年之后，同时比第一部《饥饿游戏》的时间点早24年，与中文资讯中“时间线设定在《饥饿游戏：鸣鸟与蛇之歌》的40年后”的描述一致。 中文娱乐报道也直接表述：“故事改编自原作者苏珊·柯林斯的同名小说，其时间线发生在《饥饿游戏：鸣鸟与蛇之歌》的40年之后”，进一步用中文语境确认了这一改编关系和时间设定。",
+    "evidence_sources": [
+      {
+        "content": "Sunrise on the Reaping - Wikipedia（介绍《Sunrise on the Reaping》是苏珊·柯林斯创作的《饥饿游戏》系列第二本前传小说，讲述海奇密什参与第50届饥饿游戏的故事，为电影《饥饿游戏：收获日出》的同名原著小说）",
+        "url": "https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping",
+        "credibility": "High"
+      },
+      {
+        "content": "BuzzFeed 等报道：“Sunrise on the Reaping is also set 40 years after the occurrences of The Ballad of Songbirds and Snakes”（指出《Sunrise on the Reaping》的时间线发生在《鸣鸟与蛇之歌》事件40年之后、第一部《饥饿游戏》之前）",
+        "url": "https://www.buzzfeed.com/noradominick/hunger-games-book-movie-sunrise-on-the-reaping-tweets",
+        "credibility": "Medium"
+      },
+      {
+        "content": "电影《饥饿游戏：收获日出》发布正式预告（中文报道中写明：剧本改编自苏珊·柯林斯所著同名小说，时间线设定在《饥饿游戏：鸣鸟与蛇之歌》的40年后，比第一部《饥饿游戏》的时间线早24年）",
+        "url": "https://www.163.com/dy/article/KESECDEM0537JPWI.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《饥饿游戏：收获日出》（The Hunger Games: Sunrise on the Reaping）改编自原作者苏珊·柯林斯所写的同名小说《Sunrise on the Reaping》，其故事时间线设定在前传《饥饿游戏：鸣鸟与蛇之歌》所述事件大约40年之后，同时早于第一部《饥饿游戏》的时间点。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "尹佳恩导演新片《世界的主人》入围2025年东京FILMeX电影节竞赛单元 ",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家专业媒体与影展资讯明确指出，韩国导演尹佳恩的新作《世界的主人》（Master of the World / The World of Love）入选2025年第26届东京FILMeX国际电影节，并被列入FILMeX Competition竞赛单元的正式片单中。 中文影评与资讯稿也提到，本片在平遥、华沙等影展获奖及巡展之后，确认入围2025年东京FILMeX电影节竞赛单元，将在日本进行展映，表述与该claim在时间（2025年）、影展（东京FILMeX）及单元属性（竞赛单元）上完全一致，因此可以判定该陈述为事实。",
+    "evidence_sources": [
+      {
+        "content": "《豆瓣评分9.0，几乎是年度最佳东亚电影》（文章介绍尹佳恩新片《世界的主人》在多个国际电影节获奖与放映经历，并明确写到“本片本周也确定入选2025东京FILMeX国际影展竞赛单元，将在日本进行展映”，与claim的时间、影展名称和“竞赛单元”信息一致）",
+        "url": "https://m.163.com/dy/article_cambrian/KCJH9UJT0517VC4C.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "FILMeX Competition | TOKYO FILMeX 2025（东京FILMeX官网英文节目页，列出当届FILMeX Competition竞赛单元片单，其中包含由YOON Ga-eun导演、韩国出品的《The World of Love》（即《世界的主人》），并标注为2025年作品）",
+        "url": "https://filmex.jp/en/program/",
+        "credibility": "High"
+      },
+      {
+        "content": "《华语佳片集结！26 届东京FILMeX 电影节片单》（介绍2025年第26届东京FILMeX电影节整体片单和单元设置，说明本届影展于2025年11月21日至30日举办，并梳理竞赛单元入围影片，提到包括尹佳恩的新片等多部亚洲独立电影）",
+        "url": "https://www.163.com/dy/article/KDV5U3OM0537EWKZ.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "尹佳恩导演的新片《世界的主人》已确认入围2025年第26届东京FILMeX国际电影节的FILMeX Competition竞赛单元，并将在该单元进行放映。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《寂静的朋友》以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的四个故事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "多家媒体与影评、发行方及影展资料均指出，《寂静的朋友》（Silent Friend）以德国马尔堡大学城的植物园（马尔堡大学旧植物园）中的一棵百年银杏树为核心背景，通过这棵树串联起跨越约一百年的多个时代的故事，这与claim中“德国中世纪大学城马尔堡的植物园”“100多年”部分相符。 然而官方简介和多篇影评明确写出影片结构为三段式，分别发生在1908年、1972年和2020年，与银杏树相关的是三个故事而非四个，因此claim在故事数量上夸大为“四个故事”，属于数目错误，整体表述不成立。",
+    "evidence_sources": [
+      {
+        "content": "《寂静的朋友》- 维基百科（介绍本片为伊尔蒂科·茵叶蒂执导的剧情片，以德国马尔堡大学植物园的一棵古老银杏树为中心，将一百多年间不同时间段的人物与这棵树联系起来，确认背景地点与时间跨度设置）",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%AF%82%E9%9D%9C%E7%9A%84%E6%9C%8B%E5%8F%8B",
+        "credibility": "Medium"
+      },
+      {
+        "content": "一部关于树的电影，梁朝伟《寂静的朋友》威尼斯首映好评如潮（报道指出，本片“以德国马尔堡大学城的植物园为背景，通过一株百年银杏树，串联起了1908年、1972年和2020年三个时代的主人公与树的故事”，明确为三个故事而非四个）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-09-06/doc-infpqqtc1539190.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《SILENT FRIEND》放映介绍（美国影院/影展页面说明，本片围绕德国马尔堡大学植物园中的一棵银杏树展开，描绘其在约一个世纪里见证的三位科学人物（分属三个时代）与其产生关联的故事，再次印证为三段结构）",
+        "url": "https://silver.afi.com/movies/detail/0100005341/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "《寂静的朋友》以德国大学城马尔堡的植物园为背景，围绕一棵百年银杏树，讲述横跨约一百年的三个故事，分别发生在1908年、1972年和2020年。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2023年IMDB十大最热门剧集中阿索卡获得第二名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家中文和外文媒体在报道“IMDb 公布的 2023 年度十大最热门剧集”时给出了同一份前十榜单，榜首为《最后生还者》，第二名为《阿索卡》，其后依次为《继承之战》第四季、《黑镜》第六季、《曼达洛人》第三季、《海贼王》真人版、《厄舍府的崩塌》、《足球教练》第三季、《熊家餐馆》第二季和《V世代》。 这些报道均说明该榜单来源于 IMDb 基于页面浏览量（page views）/MOVIEmeter 等人气指标统计出的 2023 年度“Top 10 most popular TV series”，并在文字中点明《阿索卡》位列第二，体现出媒体对 IMDb 榜单排序的一致转述。 虽然 IMDb 官方新闻页本身更侧重说明该榜单是按搜索热度和访问量统计，但结合多家媒体对同一榜单的复原，可以将“2023 年 IMDb 十大最热门剧集榜单中，阿索卡排在第二名”视为与 IMDb 公布的人气榜单排序相符。",
+    "evidence_sources": [
+      {
+        "content": "IMDb 2023年度TOP10热门剧集公布！HBO“人气王”赢麻了 – 省钱君/Dealmoon 加拿大站（整理 IMDb 公布的 2023 年度 TOP10 热门剧集完整排名，并在条目中标明 TOP2 为《阿索卡》(Ahsoka)，说明该榜单根据 IMDb 全球访问者浏览量统计得出）。",
+        "url": "https://www.dealmoon.ca/guide/8720",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2023IMDb年度剧集排名出炉：星战IP双上榜，还有海贼王真人版！– 网易号文章（引用 IMDb 年度最热剧集榜单，明确列出前十名次，其中《阿索卡》排在第二，仅次于《最后生还者》，并说明这是一份 IMDb 年度最热剧集 Top10 榜单）。",
+        "url": "https://www.163.com/dy/article/INFVC6QT0514BIC1.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "La série The Last of Us (HBO) est n°1 du Top Series 2023 de IMDb – NaughtyDogMag.fr（介绍 IMDb 2023 年度剧集 Top 排名，列出 Top10 名单：The Last of Us、Ahsoka、Succession、Black Mirror、The Mandalorian、One Piece、The Fall of the House of Usher、Ted Lasso、The Bear、Gen V，与中文媒体给出的 IMDb 年度最热门剧集榜单顺序一致，确认《阿索卡》位列第二）。",
+        "url": "https://www.naughtydogmag.fr/the-last-of-us-hbo-est-n1-du-top-des-series-sorties-en-2023-sur-imdb/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在 IMDb 公布的“2023 年度十大最热门剧集”榜单中，《阿索卡》(Ahsoka) 位列第二名，仅次于《最后生还者》，确实是该年度 IMDb Top10 热门剧集中的第二名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第75届黄金时段艾美奖《熊家餐馆》获得十项大奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "第75届黄金时段艾美奖统计时一般将主颁奖礼与创意艺术艾美奖合并计算同一季节的获奖总数。 公开资料显示，《熊家餐馆》（The Bear）在这一届艾美奖周期中合计获得10座艾美奖奖杯，并创下单季喜剧类剧集获奖数量纪录，因此“获得十项大奖”的表述与权威统计一致。 多家主流媒体与电视学院相关页面也将这一季艾美奖对《熊家餐馆》的获奖数量报道为10项，进一步印证了该数据的准确性。",
+    "evidence_sources": [
+      {
+        "content": "75th Primetime Emmy Awards - Wikipedia（条目指出，在第75届黄金时段艾美奖周期中，包括创意艺术艾美奖在内，《熊家餐馆》一共获得10项艾美奖，是当季获奖数量最多的节目，并创下喜剧类剧集单年获奖纪录）。",
+        "url": "https://en.wikipedia.org/wiki/75th_Primetime_Emmy_Awards",
+        "credibility": "High"
+      },
+      {
+        "content": "Emmy Awards: ‘The Bear’ Breaks Its Own Record With 11 Wins - IMDb 新闻稿中回顾称，《熊家餐馆》前一届艾美奖季（即第75届周期）曾以10项艾美奖获奖数创下喜剧类剧集单季纪录，本届则以11项打破自己纪录，从侧面确认上一届获奖数为10项。",
+        "url": "https://www.imdb.com/news/ni64827785/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "‘The Bear’ actor Ebon Moss-Bachrach wins again at 2024 Emmys - Los Angeles Times（报道指出，《熊家餐馆》在上一届艾美奖季曾赢得10座艾美奖奖杯，并被形容为“打破喜剧类剧集单季获奖纪录”的作品）。",
+        "url": "https://www.latimes.com/entertainment-arts/tv/story/2024-09-15/the-bear-emmys-2024-comedy",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "第75届黄金时段艾美奖周期内（含创意艺术艾美奖），《熊家餐馆》共获得10项艾美奖大奖，这一数量创下当季喜剧类剧集单季获奖纪录。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第75届黄金时段艾美奖《怒呛人生》和《最后生还者》获得8项大奖，仅次于熊家餐馆。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "第75届艾美奖周期通常将黄金时段艾美奖与创意艺术艾美奖合并统计某部剧在该年度艾美奖季的总获奖数，这一口径下《熊家餐馆》（The Bear）以10项艾美奖获奖数位居所有剧集首位。 公开资料显示，《怒呛人生》（Beef）在第75届艾美奖季共获得8项艾美奖，包括限定剧最佳、编剧、导演及主要演员奖项等；同时，《最后生还者》（The Last of Us）在第75届创意艺术艾美奖中赢得8项技术与客串表演奖，因此两剧在这一奖季的艾美奖总获奖数均为8项，仅次于获得10奖的《熊家餐馆》，与原claim表述一致。 多家媒体与行业报道也以“Beef 总计8座艾美奖”“The Last of Us 拿下8项创意艺术艾美奖”为标题或核心信息，进一步印证这两部剧在该届艾美奖中的获奖数量及其相对排名位置。",
+    "evidence_sources": [
+      {
+        "content": "75th Primetime Emmy Awards - Wikipedia（条目指出，在第75届艾美奖周期内合并创意艺术奖计算时，《熊家餐馆》共获得10项艾美奖，位居所有节目之首，创下喜剧类剧集单年获奖纪录）。",
+        "url": "https://en.wikipedia.org/wiki/75th_Primetime_Emmy_Awards",
+        "credibility": "High"
+      },
+      {
+        "content": "75th Primetime Creative Arts Emmy Awards - Wikipedia（写明《最后生还者》（The Last of Us）在第75届创意艺术艾美奖上共获得8项奖项，是该部分颁奖礼中获奖最多的节目，由此确认其在本届艾美奖季的艾美奖获奖数为8项）。",
+        "url": "https://en.wikipedia.org/wiki/75th_Primetime_Creative_Arts_Emmy_Awards",
+        "credibility": "High"
+      },
+      {
+        "content": "Beef (TV series) - Wikipedia（介绍《怒呛人生》（Beef）在第75届黄金时段艾美奖中共获得8项艾美奖，包括限定或选集剧集奖以及男女主角、编剧和导演等多项大奖，确认其本届艾美奖总获奖数为8）。",
+        "url": "https://en.wikipedia.org/wiki/Beef_(TV_series)",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在第75届艾美奖奖季中（合并黄金时段艾美奖与创意艺术艾美奖），《熊家餐馆》共获10项艾美奖居首，《怒呛人生》（Beef）和《最后生还者》（The Last of Us）各获得8项艾美奖，确实仅次于《熊家餐馆》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "日剧《反英雄》平均收视为10.82%。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家日语与华语社区对2024年春季档日剧收视率的统计帖和新闻中，均将TBS日曜剧场《アンチヒーロー》（反英雄）的“平均收视率”标注为10.82%，并与同季其他剧集一起列在收视排行表中。 维基百科的《反英雄》词条也根据Video Research在关东地区的家户即时统计数据，给出了本剧“平均收视率10.8%”的描述，而PTT等统计整理进一步精确到了两位小数10.82%，属于对同一观测数据的精确化呈现，因此“平均收视为10.82%”与公开收视统计资料一致，可视为支持。 综合这些来源，《反英雄》在关东地区家户平均收视率约为10.8%，细化后为10.82%，与claim吻合。",
+    "evidence_sources": [
+      {
+        "content": "反英雄(電視劇) - 維基百科（条目指出，日剧《反英雄》（アンチヒーロー）在Video Research调查的关东地区家户即时统计数据中，平均收视率为10.8%，为本剧官方引用的平均收视数据）。",
+        "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E8%8B%B1%E9%9B%84_(%E9%9B%BB%E8%A6%96%E5%8A%87)",
+        "credibility": "High"
+      },
+      {
+        "content": "[情報] 2024年春季檔收視排行 - 批踢踢 Japandrama 板整理帖（收视排行表中给出《ANTIHERO 反英雄》的平均收视为10.82%，并同时列出最高回、首回收视等数据，说明10.82%为该剧整体平均收视率的精确值）。",
+        "url": "https://www.ptt.cc/bbs/Japandrama/M.1719802331.A.505.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Re: [情報] 2024春季檔收視報告 - 批踢踢 Japandrama 板（讨论贴中援引同一份春季档收视统计，对多部剧集的平均收视进行横向比较，并再次出现“反英雄平均還是贏啊”等表述，侧面确认《反英雄》在同季剧集中以约10.82%的平均收视领先）。",
+        "url": "https://www.ptt.cc/bbs/Japandrama/M.1718932392.A.C5A.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "根据Video Research在关东地区的家户收视统计，日剧《反英雄》（アンチヒーロー）的平均收视率约为10.8%，精确值记为10.82%。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "JUMP成员伊野尾慧与女演员松本穗香双主演朝日电视台2026年1月期剧《50分钟的情人》，每周日晚10:15播出。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威与主流媒体信息显示，《50分钟的情人》（50分間の恋人）为2026年1月期ABC电视制作、在电视朝日系“日10ドラマ”档播出的新剧，由Hey! Say! JUMP成员伊野尾慧与女演员松本穗香担任双主演。 官方站点及制作公司页面均标明本剧自2026年1月18日起，每周日晚上10:15（22:15）在ABC电视·电视朝日系全国网络播出，与claim中“2026年1月期”“每周日晚10:15播出”的描述完全一致。 因此，该陈述在主演人选、播出平台、档期及播出时间等关键信息上均与权威来源一致，可判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "朝日放送电视《50分間の恋人》官网：介绍该剧为2026年1月18日开播的“日10ドラマ”，每周日晚上10点15分在ABC电视·电视朝日系全国联播，并列出节目基本信息。",
+        "url": "https://www.asahi.co.jp/50min/",
+        "credibility": "High"
+      },
+      {
+        "content": "AOI Pro.制作协力作品页：《ドラマ「50分間の恋人」》：说明本剧由伊野尾慧（Hey! Say! JUMP）与松本穗香W主演，2026年1月18日开播，每周日22:15在ABC电视·电视朝日系全国网络播出。",
+        "url": "https://www.aoi-pro.com/jp/work/20251104/64324/",
+        "credibility": "High"
+      },
+      {
+        "content": "日本维基百科词条《50分間の恋人》：记载《50分間の恋人》为自2026年1月18日起在朝日放送电视制作、电视朝日系“日10ドラマ”档播出的电视连续剧，主演为伊野尾慧与松本穗香。",
+        "url": "https://ja.wikipedia.org/wiki/50%E5%88%86%E9%96%93%E3%81%AE%E6%81%8B%E4%BA%BA",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "JUMP成员伊野尾慧与女演员松本穗香双主演朝日放送电视制作、在电视朝日系“日10ドラマ”档播出的2026年1月期剧《50分钟的情人》（50分間の恋人），自2026年1月18日起每周日晚10:15播出。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《50分钟的情人》是伊野尾慧首次在黄金时段担任主演。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威及主流媒体与百科信息均明确指出，《50分钟的情人》（50分間の恋人）是伊野尾慧首次在日本电视的“ゴールデン・プライム帯”（黄金/黄金档+晚间黄金档）连续剧中担任主演。 相关报道在介绍本剧时，会特意强调“本作でゴールデン・プライム帯のドラマ初主演”“プライム帯連続ドラマ初主演”等表述，且结合其此前主演记录可知，他虽有其他主演作品，但并非黄金时段全国网连续剧主演，因此该说法与公开资料一致。 综上，本claim关于“首次在黄金时段担任主演”的表述与权威来源吻合，可以判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "《50分間の恋人》日文维基词条：说明该剧为2026年1月起在朝日放送电视制作、电视朝日系“日10ドラマ”枠播出的连续剧，并明确指出“伊野尾は本作がゴールデン・プライム帯のドラマ初主演となる”。",
+        "url": "https://ja.wikipedia.org/wiki/50%E5%88%86%E9%96%93%E3%81%AE%E6%81%8B%E4%BA%BA",
+        "credibility": "Medium"
+      },
+      {
+        "content": "音乐/娱乐新闻网站 Natalie 报道《Hey! Say! JUMP伊野尾慧、プライム帯連続ドラマ初主演！ゲーム業界が舞台のラブコメ「50分間の恋人」》：标题与正文均强调伊野尾慧凭《50分間の恋人》实现“プライム帯連続ドラマ初主演”（黄金时段连续剧首次主演）。",
+        "url": "https://natalie.mu/music/news/646620",
+        "credibility": "Medium"
+      },
+      {
+        "content": "票务资讯站 Pia 相关文章《伊野尾慧×松本穂香W主演の新ドラマOA、昼休み50分間を…》：介绍《50分間の恋人》为新日10剧，并写明“伊野尾にとって今回がゴールデンプライム帯のドラマ初主演となる”，佐证其为伊野尾慧首部黄金/黄金晚间档主演剧。",
+        "url": "https://lp.p.pia.jp/article/news/441042/index.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《50分钟的情人》（50分間の恋人）是伊野尾慧首次在电视台黄金/黄金晚间时段（ゴールデン・プライム帯）连续剧中担任主演。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "朝日电视台2026年1月期火九档新剧《再会～沉默的真相～》于近日公开首支预告，并定档于2026年1月13日开播。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "电视朝日官方站及多家权威媒体均表明，《再会～Silent Truth～》为2026年1月期电视朝日火曜夜9点档（火九档）新剧，由竹内凉真主演、井上真央担任女主角，属于电视朝日系黄金时段连续剧。 官方新闻与节目资讯明确写出“2026年1月13日（火）スタート”“毎週火曜よる9：00～9：54、テレビ朝日系24局”“初回拡大スペシャル”等信息，确认首播日期为2026年1月13日，且近期官方新闻页、预告相关页面更新说明已发布剧集相关视频宣传，可以合理对应为“近日公开首支预告”，整体与claim在档期、频道、时间与定档日期上相符。",
+    "evidence_sources": [
+      {
+        "content": "电视朝日POST官方报道《2026年1月スタート！主演・竹内涼真×ヒロイン・井上真央》：介绍《再会～Silent Truth～》为2026年1月期新剧，每周二晚9:00在电视朝日系播出，属火曜9点黄金档。",
+        "url": "https://post.tv-asahi.co.jp/post-613033/",
+        "credibility": "High"
+      },
+      {
+        "content": "电视朝日POST后续报道《主演・竹内涼真『再会～Silent Truth～』新たに共演者2名を…》：文末写明“2026年1月13日（火）スタート！【毎週火曜】よる9：00～9：54、テレビ朝日系24局＜初回は拡大スペシャル＞”，确认首播日期为2026年1月13日。",
+        "url": "https://post.tv-asahi.co.jp/post-624842/",
+        "credibility": "High"
+      },
+      {
+        "content": "电影ナタリー《再会～Silent Truth～ | ドラマ情報・キャスト・放送日》：标注“テレビ朝日系 2026年1月13日（火）スタート 毎週火曜 21:00～21:54”，再次确认为电视朝日系火曜21:00档新剧，首播日为2026年1月13日。",
+        "url": "https://natalie.mu/eiga/drama/521",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电视朝日2026年1月期火九档新剧《再会～Silent Truth～》已于近日公开相关视频预告，并确定于2026年1月13日开播，每周二晚9点在电视朝日系播出。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《再会～沉默的真相～》由竹内凉真主演，井上真央共演，改编自横关大的江户川乱步奖获奖小说。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "电视台官方与多家媒体一致表明，电视剧《再会～Silent Truth～》由竹内凉真担任主演，井上真央担任女主角（共演），两人首度共演该作。 同时，作品被明确标注为改编自横关大的推理小说《再会》，该小说获得第56回江户川乱步奖，是作者的获奖出道作，因此“改编自横关大的江户川乱步奖获奖小说”的表述也是准确的。 综合各权威来源信息，claim在主演、共演人选以及原作与奖项归属方面均与事实一致，判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "电视朝日官网《キャスト｜再会～Silent Truth》：列出主要演员，标明竹内凉真为主演、井上真央为共演（ヒロイン），对应剧名《再会～Silent Truth～》。",
+        "url": "https://www.tv-asahi.co.jp/saikai/cast/",
+        "credibility": "High"
+      },
+      {
+        "content": "映画.com 新闻《竹内涼真×井上真央共演のヒューマンラブミステリー「再会 Silent Truth」…》：指出这是将横関大的江户川乱步奖获奖作《再会》改编为连续剧，由竹内凉真主演，井上真央担任重要角色共演。",
+        "url": "https://eiga.com/news/20251208/20/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "维基百科词条《再会 (横関大)》：说明《再会》是横关大的推理小说，是第56回江户川乱步奖获奖作，同时被多篇关于《再会～Silent Truth～》的介绍认定为该剧原作。",
+        "url": "https://ja.wikipedia.org/wiki/%E5%86%8D%E4%BC%9A_(%E6%A8%AA%E9%96%A2%E5%A4%A7)",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《再会～沉默的真相～》（再会～Silent Truth～）由竹内凉真主演、井上真央共演，改编自横关大凭借第56回江户川乱步奖获奖小说《再会》改编的同名作品。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "崔宇植、全素妮、洪民基、朴延宇是fable艺人。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "FABLE COMPANY 的官方社交账号简介中同时列出了“최우식 | 전소니 | 박연우 | 홍민기”等姓名，表明这四人同属 FABLE 旗下艺人阵容。 个人资料与百科信息也显示，崔宇植与全素妮在结束前所属公司合约后，与由原班经纪团队创立的 FABLE COMPANY（페이블 컴퍼니）签订专属合约，从侧面印证其为 FABLE 艺人。 此外，多条品牌及写真合作内容的标注中，将这些演员与 “FABLE FILM/FABLE COMPANY” 同时出现，进一步强化其所属关系，因此该 claim 可以判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "FABLE COMPANY 官方 Instagram 简介：账号简介中直接列出“최우식 | 전소니 | 박연우 | 홍민기”，并附有公司联系方式和地址，表明这四人为公司旗下主要艺人。",
+        "url": "https://www.instagram.com/fable__company/",
+        "credibility": "High"
+      },
+      {
+        "content": "崔宇植条目（나무위키）：记载其在结束与前经纪公司 Management SOOP 合约后，与由原实务团队新成立的经纪公司‘페이블 컴퍼니’签约，说明其现为 FABLE COMPANY 所属演员之一。",
+        "url": "https://namu.wiki/w/%EC%B5%9C%EC%9A%B0%EC%8B%9D",
+        "credibility": "Medium"
+      },
+      {
+        "content": "全素妮条目（나무위키/百科）：说明其在与 Management SOOP 结束合约后，与同一团队新设的经纪公司‘페이블 컴퍼니’签订专属合同，表明为 FABLE COMPANY 旗下艺人。",
+        "url": "https://namu.wiki/w/%EC%A0%84%EC%86%8C%EB%8B%88",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "崔宇植、全素妮、洪民基、朴延宇目前同为韩国经纪公司 FABLE COMPANY（페이블 컴퍼니，简称 fable）旗下艺人。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "朴敏英、魏河俊、金正贤主演的月火剧《韩剧塞壬》排播在2026年2月。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家剧集资料站与韩语百科页面均显示，《塞壬》（세이렌／Siren）为tvN出品的悬疑爱情类月火剧，计划以12集形式播出，首播日期定在2026年2月16日，完结日期为2026年3月24日，由此可知该剧的播出档期确实落在2026年2月至3月之间。 这些页面同时列出主演为朴敏英（Park Min Young）、魏河俊（Wi Ha Joon）、金正贤（Kim Jung Hyun）等，与claim中提到的三位主演一致，因此“朴敏英、魏河俊、金正贤主演的月火剧《塞壬》排播在2026年2月”这一表述与现有公开信息相符，仅是将更精确的2月16日首播概括为“排播在2026年2月”。 当前并无权威信息显示该剧更改档期或取消，因此可判定该claim得到支持。",
+    "evidence_sources": [
+      {
+        "content": "세이렌(드라마) - 나무위키：条目将《세이렌》（塞壬）描述为tvN播出的12集月火剧，预计播出时间为2026年2月16日至3月24日，确认其首播落在2026年2月。",
+        "url": "https://namu.wiki/w/%EC%84%B8%EC%9D%B4%EB%A0%8C(%EB%93%9C%EB%9D%BC%EB%A7%88)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Siren (drama) - Namu英文版：页面显示《Siren》为tvN悬疑爱情剧，主演包括Park Min Young、Wi Ha Joon、Kim Jung Hyun，播出区间为2026年2月16日至3月24日，Airs on Monday and Tuesday。",
+        "url": "https://en.namu.wiki/w/%EC%84%B8%EC%9D%B4%EB%A0%8C(%EB%93%9C%EB%9D%BC%EB%A7%88)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Siren's Kiss (2026) - MyDramaList：条目将该剧列为韩国tvN剧集，主演标注为Park Min Young、Wi Ha Joon、Kim Jung Hyun，并写明Airs: Feb 16, 2026 - Mar 24, 2026; Airs On: Monday, Tuesday，进一步佐证其为2026年2月首播的月火剧。",
+        "url": "https://mydramalist.com/788532-siren",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "朴敏英、魏河俊、金正贤主演的tvN月火剧《塞壬》（Siren）预计于2026年2月16日首播，整体播出档期位于2026年2月至3月。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "马东锡、李阵郁、BLACKPINK的Lisa担任网飞电影《Tygo》男女主，这部电影是《犯罪都市2》导演新作，也是Lisa韩国电影出道首秀。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Netflix 官方新闻稿与多家主流媒体报道均确认，马东锡（Don Lee）、李阵郁（Lee Jin‑uk）和 BLACKPINK 的 Lisa 将共同主演 Netflix 动作片《Tygo》，影片设定在《惊天营救》（Extraction）宇宙中，三人作为主要阵容领衔这部衍生电影。 报道同时指出，《Tygo》由执导《犯罪都市2》（The Roundup 2）的李相龙（Lee Sang‑yong）担任导演，被明确描述为其新作之一；多篇新闻稿与娱乐报道将该片称为 Lisa 的电影首秀或电影出道作，强调这是她首次参演长篇电影项目，因此“是Lisa韩国电影出道首秀”的说法与现有信息一致。 虽然部分报道对“男女主”未做性别化细分表述，而是以“lead the film”“to star in Tygo”等泛称，但三人被共同列为领衔主演，整体上符合 claim 对主演身份和作品属性的描述。",
+    "evidence_sources": [
+      {
+        "content": "The Extraction Universe Expands to South Korea with TYGO（Netflix Tudum 官方文章）：介绍《Tygo》为设定在《惊天营救》宇宙中的韩国动作片，由 Don Lee、Lee Jin‑uk 和 Lalisa Manobal 主演，并作为 Netflix 平台原创电影上线。",
+        "url": "https://www.netflix.com/tudum/articles/tygo-extraction-release-date-news",
+        "credibility": "High"
+      },
+      {
+        "content": "Don Lee, Lee Jin-uk, and Lalisa Manobal to Star in Netflix Action Thriller TYGO（Netflix 官方新闻稿）：指出《Tygo》由执导《범죄도시2》（《犯罪都市2》）的导演李相龙执导，马东锡、李阵郁和 Lisa 共同主演，并将该片描述为 Lisa 的电影首秀之一。",
+        "url": "https://about.netflix.com/news/tygo-cast-announcement",
+        "credibility": "High"
+      },
+      {
+        "content": "Blackpink's Lisa to make movie debut in action film Tygo（The Straits Times）：新加坡海峡时报报道，Lisa 将与马东锡、李阵郁一起主演 Netflix 动作片《Tygo》，文章特别强调这是她的 big‑screen debut（电影出道），并引用《犯罪都市2》导演执导本片的信息。",
+        "url": "https://www.straitstimes.com/life/entertainment/blackpinks-lisa-to-make-movie-debut-in-action-film-tygo",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "马东锡、李阵郁和 BLACKPINK 的 Lisa 共同主演 Netflix 动作电影《Tygo》，该片由曾执导《犯罪都市2》的李相龙担任导演，是设定在《惊天营救》宇宙中的新作，同时也是 Lisa 的韩国电影出道首秀。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《Tygo》中Lisa饰演Tygo的朋友也是和他一起做任务的成员Lia。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家韩娱与英语娱乐媒体明确指出，在Netflix动作片《Tygo》中，BLACKPINK成员Lisa饰演的角色名为Lia（亦有部分报道作Ria），是主角Tygo的多年好友，同时也是其任务小队中的关键成员，与Tygo有类似家人般的羁绊。 这些报道的剧情简介强调，Lia从童年起便与Tygo一同经历生死考验，如今在行动小队中并肩执行危险任务，她在任务中遭遇绑架后更成为Tygo复仇与营救行动的直接导火索，进一步印证了“朋友”和“一起做任务的成员”的双重设定。 因此，从角色姓名、与Tygo的关系以及在任务团队中的身份来看，该claim与目前公开的剧情和角色信息完全一致。",
+    "evidence_sources": [
+      {
+        "content": "Soompi 新闻《Ma Dong Seok, BLACKPINK's Lisa, And Lee Jin Uk Confirmed for New Spin-Off Film of Extraction Universe》指出，BLACKPINK 的 Lisa 在电影《TYGO》中饰演 Lia，是Tygo的亲密好友兼任务小队成员，两人因共同经历过危及生命的童年而建立起如家人般的羁绊，剧情中当Lia在任务中陷入严重危险时，迫使Tygo采取行动。",
+        "url": "https://www.soompi.com/article/1803288wpp/ma-dong-seok-blackpinks-lisa-and-lee-jin-uk-confirmed-for-new-spin-off-film-of-extract",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Korea Times 报道《BLACKPINK's Lisa to make film debut alongside Ma Dong-seok》写明，Lisa将在《Tygo》中饰演Lia，作为Tygo多年的好友以及其任务团队中的关键成员，角色设定为与Tygo一同经历危险童年并共同执行任务。",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20251205/blackpinks-lisa-to-make-film-debut-alongside-ma-dong-seok-says-starrin",
+        "credibility": "High"
+      },
+      {
+        "content": "VOCOfm 娱乐新闻《Lisa's first film role! Starring alongside Ma Dong-seok and Lee Jin-uk in Extraction spin-off 'TYGO'》简介中提到，影片设定在Netflix的“Extraction”宇宙，故事围绕雇佣兵Tygo展开，Lisa饰演的Lia被描述为Tygo的朋友以及其团队成员，与他一起执行任务。",
+        "url": "https://news.vocofm.com/en/entertainment-news/171960/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在Netflix动作片《Tygo》中，Lisa饰演的角色名为Lia（部分报道作Ria），是主角Tygo的亲密好友，也是与他一起执行任务的小队成员。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "🇺🇸媒体《纽约客》2025年度25佳电影榜单《一战再战》位列第二。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "腾讯新闻对《纽约客》2025年度25佳电影榜单的整理中，直接以条目形式列出了首席影评人贾斯汀·张的“年度25佳影片”，其中第1位为《接近终点》，第2位明确标注为《一战再战》（导演：保罗·托马斯·安德森），后续第3、第4位分别是《风流一代》和《狂野时代》。 这份中文报道说明，《一战再战》在该榜单中的具体名次就是第二位，并明确指出该榜单来源为美国媒体《纽约客》及其首席影评人的年度评选，与《纽约客》官网“最佳影片”文章内容背景相吻合，因此该claim关于媒体来源、榜单性质和名次的描述可以视为得到支持。",
+    "evidence_sources": [
+      {
+        "content": "《〈纽约客〉2025年度电影揭晓 贾樟柯毕赣进前五》一文完整转载了《纽约客》首席影评人贾斯汀·张评选的“年度25佳影片”名单，列表中第2位即为《一战再战》（保罗·托马斯·安德森执导）。",
+        "url": "https://news.qq.com/rain/a/20251210A04PWN00",
+        "credibility": "High"
+      },
+      {
+        "content": "The Best Films of 2025 - The New Yorker：由《纽约客》影评人撰写的年度佳片盘点文章，对2025年代表性影片进行排名与评述，是腾讯等媒体所引用的“25佳电影榜单”的原始来源之一。",
+        "url": "https://www.newyorker.com/culture/2025-in-review/the-best-films-of-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Reddit 影迷论坛贴“The Best Films of 2025 | The New Yorker”中整理了《纽约客》该年度榜单的条目和顺序，列出第1位《接近终点》，第2位《One Battle After Another》（一战再战），与中文媒体的排名信息相互印证。",
+        "url": "https://www.reddit.com/r/oscarrace/comments/1pesj6g/the_best_films_of_2025_the_new_yorker/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美国媒体《纽约客》公布的2025年度25佳电影榜单中，保罗·托马斯·安德森执导的《一战再战》（One Battle After Another）排在第2位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《纽约客》年度25佳影片《风流一代》位列第三。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "腾讯新闻对《纽约客》首席影评人贾斯汀·张评选的“2025年度25佳影片”进行了完整条目式转载，在该榜单中第1名为《接近终点》，第2名为《一战再战》，第3名明确标注为中国导演贾樟柯执导的《风流一代》；文章开头也专门指出《风流一代》位居该年度榜单第三位。 这份报道将榜单来源清晰归属为美国媒体《纽约客》及其首席影评人年度名单，并逐条呈现排名顺序，与《纽约客》原文“最佳影片”盘点的结构相吻合，因此“《纽约客》年度25佳影片《风流一代》位列第三”这一表述与现有权威与可信媒体信息一致。",
+    "evidence_sources": [
+      {
+        "content": "《〈纽约客〉2025年度电影揭晓 贾樟柯毕赣进前五》一文中，按序列出了《纽约客》年度25佳影片名单，其中第3条为《风流一代》（导演：贾樟柯），并在导语中说明该片位居榜单第3位。",
+        "url": "https://news.qq.com/rain/a/20251210A04PWN00",
+        "credibility": "High"
+      },
+      {
+        "content": "The Best Films of 2025 - The New Yorker：由贾斯汀·张撰写的年度佳片盘点，给出2025年代表影片的排序与短评，是腾讯等媒体所引用的“年度25佳影片”榜单原始来源。",
+        "url": "https://www.newyorker.com/culture/2025-in-review/the-best-films-of-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "社交平台与影迷论坛对《纽约客》“The Best Films of 2025”榜单的转引中，同样将《Caught by the Tides》（风流一代）列在榜单第三位，仅次于《接近终点》和《一战再战》。",
+        "url": "https://www.reddit.com/r/oscarrace/comments/1pesj6g/the_best_films_of_2025_the_new_yorker/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在《纽约客》公布的2025年度25佳影片榜单中，贾樟柯执导的《风流一代》（Caught by the Tides）排在第3位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "英国《视与听》杂志2025年度50佳榜单《狂野时代》位列第10。 ",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "腾讯新闻转载深焦对英国《视与听》（Sight & Sound）年度榜单的报道中，明确写道《视与听》杂志揭晓2025年度Top50影片，“PTA导演的《一战再战》排名第一，毕赣导演的《狂野时代》位列第十”，并在随后给出的完整列表中，将“10. 《狂野时代》”列为第10名条目。 英国电影协会（BFI）官网的 Sight & Sound “The 50 best films of 2025” 正式页面中，同样在官方 Top 50 中将《Wild Times》（狂野时代）排在第10位，前九名依次对应《One Battle After Another》《Sinners》《The Mastermind》《Approaching the End》等片，与中文报道的顺序相匹配。 年终榜单汇总站点对“Sight & Sound Poll: The 50 Best Films of 2025”的整理也在第10名位置标注《Wild Times》，与BFI官网和腾讯新闻的排名信息相互印证，因此可以确认《狂野时代》在该榜单中确实位列第10位。",
+    "evidence_sources": [
+      {
+        "content": "《〈视与听〉公布2025年50佳电影，《狂野时代》位列第10》一文指出，《视与听》杂志揭晓2025年度Top50影片，保罗·托马斯·安德森的《一战再战》排名第一，毕赣导演的《狂野时代》位列第十，并在完整名单中以“10. 《狂野时代》”列出。",
+        "url": "https://news.qq.com/rain/a/20251207A0626X00",
+        "credibility": "High"
+      },
+      {
+        "content": "The 50 best films of 2025 | Sight and Sound（BFI 官网）给出《Sight & Sound》2025年度50佳影片的正式列表，其中第10名为《Wild Times》，前九名包括《One Battle After Another》《Sinners》《The Mastermind》等，与中文媒体所给顺序一致。",
+        "url": "https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Sight & Sound Poll: The 50 Best Films of 2025（Year-End Lists）按顺序抄录了该年度榜单，在Top 10部分中将《Wild Times》列在第10位，进一步佐证《狂野时代》在该榜单中名列第十。",
+        "url": "https://www.yearendlists.com/2025/sight-sound-poll-the-50-best-films-of-2025",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在英国《视与听》（Sight & Sound）杂志公布的2025年度50佳电影榜单中，毕赣执导的《狂野时代》（Wild Times）排在第10位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "英国《视与听》杂志2025年度50佳榜单《一战再战》位列第一。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "英国电影协会（BFI）官网的 Sight & Sound “The 50 best films of 2025” 正式页面将《One Battle After Another》（一战再战）列为榜单第1名，条目标题处直接以“1. One Battle After Another”开头，并配有简要评论，说明该片是本年度评论人投票中得分最高的作品。 多家英文媒体与影评网站转引这一年度榜单时，均强调保罗·托马斯·安德森执导的《One Battle After Another》在《视与听》2025年“Best Films of the Year”评选中夺得头名，例如 Deadline 以“‘One Battle After Another’ Tops Sight And Sound's 2025 Best Films Of The Year List”为标题，并给出前十名列表中该片排在首位。 影迷站点和榜单汇总站 Year-End Lists 也在“Sight & Sound Poll: The 50 Best Films of 2025”中将《One Battle After Another》列为第1位，后续顺序与BFI官网一致，因此可以确认该片在2025年度50佳榜单中排名第一。",
+    "evidence_sources": [
+      {
+        "content": "The 50 best films of 2025 | Sight and Sound（BFI 官网）给出《Sight & Sound》2025年度50佳影片正式名单，列表首位为“1. One Battle After Another（Paul Thomas Anderson, USA）”，确认其为本年度榜单第一名。",
+        "url": "https://www.bfi.org.uk/sight-and-sound/polls/50-best-films-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "‘One Battle After Another' Tops Sight And Sound's 2025 Best Films Of The Year List（Deadline）：报道指出保罗·托马斯·安德森的《One Battle After Another》在《视与听》2025年度最佳影片评选中夺得榜首，并列出前十名中该片位居第1位。",
+        "url": "https://deadline.com/2025/12/one-battle-after-another-sight-and-sounds-2025-best-films-1236635884/",
+        "credibility": "High"
+      },
+      {
+        "content": "Sight & Sound Poll: The 50 Best Films of 2025（Year-End Lists）：整理了《视与听》2025年度Top 50完整排名，首条目同样为“1. One Battle After Another”，与BFI官网和主流媒体报道一致。",
+        "url": "https://www.yearendlists.com/2025/sight-sound-poll-the-50-best-films-of-2025",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在英国《视与听》（Sight & Sound）杂志公布的2025年度50佳影片榜单中，保罗·托马斯·安德森执导的《一战再战》（One Battle After Another）排在第1位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年12月12日曼谷电影马拉松72小时，胜出者即可获得20万泰铢。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "泰国院线品牌 Major Cineplex 公布的“MAJOR MOVIE MARATHON 2025”官方活动页显示，该活动为“看泰国电影72小时”的马拉松观影比赛，比赛时间为2025年12月12日至12月15日，总时长72小时（不含报到注册时间），地点为曼谷的 Major Cineplex Ratchayothin 影院 GLS 13号厅。 与活动相关的宣传短视频及说明中，明确写出本次72小时电影马拉松的冠军（胜出者）可获得20万泰铢现金奖励（“The winner will receive 200,000 baht in prize money!!!”），与中文 claim 中“胜出者即可获得20万泰铢”的说法金额与含义一致。 虽然部分资料以“Major Movie Marathon 2025”或“72-Hour Movie Marathon”表述活动名称，但其时间（2025年12月12日开赛）、地点（曼谷影院）及比赛规则（连续观影72小时，冠军得20万泰铢奖金）均与claim描述相符，因此该陈述可以视为得到支持。",
+    "evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง：Major Cineplex 官方活动介绍页指出，比赛为“看泰国电影72小时”的电影马拉松，比赛日期为2025年12月12日至15日（共72小时），地点在曼谷的Major Cineplex Ratchayothin GLS 13号厅。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "YouTube 短视频《72-Hour Movie Marathon! The winner will receive 200,000 baht in prize money!!!》为该活动的宣传内容，说明这是72小时电影马拉松，并明确写出“胜出者将获得20万泰铢奖金”。",
+        "url": "https://www.youtube.com/shorts/T9e_YaqCL6E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "相关活动转发与资讯页（如泰国本地娱乐/影院推广页面）同样以“Major Movie Marathon 2025”“72-hour Thai Movie Marathon”等表述介绍该活动，并重复提及冠军奖金为200,000泰铢，与Major Cineplex官方信息一致。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年12月12日在曼谷举行的“Major Movie Marathon 2025”72小时电影马拉松活动中，参赛者需连续观影72小时，最终胜出者可获得20万泰铢现金奖励。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年12月12日曼谷电影马拉松72小时冠军奖金为20万泰铢。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "泰国院线品牌 Major Cineplex 公布的“MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง”官方活动页面指出，该活动为在曼谷举行的72小时泰片观影马拉松，时间为2025年12月12日至12月15日，并写明冠军可获得20万泰铢现金奖励。 与活动相关的宣传短视频也以“72-Hour Movie Marathon! The winner will receive 200000 baht in prize money!!!”的文案强调本次电影马拉松的优胜者奖金为200,000泰铢，金额与活动页文字一致，仅是数字写法不同（阿拉伯数字与中文“20万泰铢”表述）。 目前未见任何权威渠道给出不同的奖金数额，多个来源的信息互相印证，因此可确认该72小时曼谷电影马拉松的冠军奖金为20万泰铢。",
+    "evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง活动页：Major Cineplex 官方页面介绍2025年12月12日至15日在曼谷举行的72小时电影马拉松，并标注冠军奖金为200,000泰铢。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "YouTube 短视频《72-Hour Movie Marathon! The winner will receive 200000 baht in prize money!!!》作为该活动宣传片，明确写出胜出者将获得200,000泰铢奖金，与官网金额一致。",
+        "url": "https://www.youtube.com/shorts/T9e_YaqCL6E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "社交媒体及本地影院推广贴对“Major Movie Marathon 2025”进行转发时，同样引用“优胜者奖金 200,000 baht”的说法，未出现与此金额相矛盾的其他数字。",
+        "url": "https://www.facebook.com/majorgroup",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "2025年12月12日在曼谷举行的“Major Movie Marathon 2025”72小时电影马拉松活动中，冠军奖金为20万泰铢。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年12月12日曼谷电影马拉松报名费为499株。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Major Cineplex 官方“MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง”活动页显示，参加这场72小时观影马拉松的报名费用为499泰铢，并注明报名即可获得一个含T恤等物品的 Survivor Bag。 Major 自家电影页及 Instagram 等社交媒体宣传也反复写明该活动“ค่าสมัคร 499 บาท”（报名费499泰铢），并强调名额限制在数百人以内，与官网价格一致。 泰文新闻稿和本地媒体对这次72小时电影马拉松的报道同样指出，参赛者报名费用为每人499泰铢，没有给出其他不同收费标准，多个来源共同印证了“499泰铢报名费”的说法，因此该claim在金额层面是成立的，中文中的“株”显然是“泰铢”的笔误。",
+    "evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง（Major Cineplex 官方活动页）写明本次72小时泰片观影马拉松“ค่าสมัคร 499 บาท พร้อมรับ Survivor Bag”，即报名费为499泰铢，并附带礼包。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "เมเจอร์ มูฟวี่ มาราธอน 2025（Major Cineplex 影片/购票页）说明活动座位限572个，“ราคาที่นั่งละ 499 บาท”，确认每个参赛名额收费499泰铢。",
+        "url": "https://www.majorcineplex.com/movie/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Thai 媒体 KAOHOON 报道《MAJOR นำทีมพันธมิตร ชวนดูหนังมาราธอน 72 ชม. ชิงเงินรวมรางวัล》指出，观众可通过Major Cineplex官网和App报名参加72小时电影马拉松，“ค่าสมัครเพียง 499 บาท พร้อมรับ Survivor Bag สุดพิเศษ”，再次说明报名费为499泰铢。",
+        "url": "https://www.kaohoon.com/pr/798942",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年12月12日在曼谷举行的“Major Movie Marathon 2025”72小时电影马拉松活动，报名费为每人499泰铢（中文表述中的“株”应为“泰铢”的误写）。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《滚石》杂志2025年top 20中《一战再战》排名第一。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "《滚石》（Rolling Stone）官网发布的“The 20 Best Movies of 2025”榜单，将保罗·托马斯·安德森执导的《One Battle After Another》（一战再战）列在列表首位，之后依次为《Hamnet》《Black Bag》《Train Dreams》《Nouvelle Vague》等影片，明确表明该片在其2025年度20佳电影榜单中排名第一。 影评与新闻网站进一步报道这份榜单时，也以“One Battle After Another Leads Rolling Stone's Best Movies List”等标题称该片“领衔/位居榜首”，指明它夺得了《滚石》2025年20佳影片排名的第一名位置。 此外，IMDb 新闻与社交媒体对“Rolling Stone's 20 Best Movies of 2025”进行转引时，同样给出按序列表，首位影片均为《One Battle After Another》，未见相反信息，因此可以确认该claim与权威来源一致。",
+    "evidence_sources": [
+      {
+        "content": "The 20 Best Movies of 2025（Rolling Stone 官网榜单页）给出《滚石》评选的2025年20佳电影，排名第1的是保罗·托马斯·安德森的《One Battle After Another》，其后为《Hamnet》《Black Bag》等。",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-movies-2025-1235440226/",
+        "credibility": "High"
+      },
+      {
+        "content": "The 20 Best Movies of 2025（Rolling Stone 澳大利亚版页面）同样展示该榜单，并在条目中将《One Battle After Another》置于榜首位置，对影片进行重点介绍。",
+        "url": "https://au.rollingstone.com/movies/movie-lists/20-best-movies-2025-list-87630/one-battle-after-another-87650/",
+        "credibility": "High"
+      },
+      {
+        "content": "“One Battle After Another” Leads Rolling Stone's Best ...（The Nollywood Reporter 报道）指出保罗·托马斯·安德森的《One Battle After Another》在《滚石》“20 Best Movies of 2025”榜单中名列第一，并简要列出Top 5构成。",
+        "url": "https://thenollywoodreporter.com/news/one-battle-after-another-leads-20-best-films-of-2025/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在《滚石》（Rolling Stone）杂志公布的2025年度20佳电影（Top 20）榜单中，保罗·托马斯·安德森执导的《一战再战》（One Battle After Another）排在第1位。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "LPGA共设有五大满贯赛事，包括雪佛龙锦标赛4月美国、美国女子公开赛 6月美国、KPMG女子PGA锦标赛6月美国、伊云锦标赛7月法国、英国女子公开赛8月英国。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "女子职业高尔夫目前公认的五大满贯为：雪佛龙锦标赛（The Chevron Championship）、美国女子公开赛（U.S. Women's Open）、KPMG女子PGA锦标赛（KPMG Women's PGA Championship）、伊云锦标赛（The Amundi Evian Championship）以及女子公开赛（The Women's Open/AIG Women's Open）。 这些赛事中，雪佛龙锦标赛和美国女子公开赛、KPMG女子PGA锦标赛都在美国举行且通常于春末至初夏（4–6月）举行，伊云锦标赛固定在法国埃维昂莱班7月举行，而女子公开赛则在英国（包括英格兰和威尔士等地轮换球场）于夏季末约7–8月进行；多份2025赛季赛程表显示，这五项赛事在上述对应的月份与国家举办，符合claim中“4月美国雪佛龙、6月美国两站、7月法国伊云、8月英国女子公开赛”的概括性时间与地点描述。 因此，从赛事数量、名称以及大致时间与举办国家来看，该claim与目前LPGA及主流媒体给出的信息一致。",
+    "evidence_sources": [
+      {
+        "content": "Women's major golf championships（维基百科）概述女子高尔夫现行五大满贯：Chevron Championship、Women's PGA Championship、U.S. Women's Open、The Evian Championship 和 The Women's Open，并说明伊云自2013年起成为第五个大满贯，地点在法国埃维昂莱班。",
+        "url": "https://en.wikipedia.org/wiki/Women%27s_major_golf_championships",
+        "credibility": "Medium"
+      },
+      {
+        "content": "LPGA Majors: The 5 Major Championships of Women's Pro Golf（Golf Compendium）列出现行五大满贯为 Chevron Championship、U.S. Women's Open、Women's PGA Championship、Women's British Open 和 Evian Championship，并说明Evian固定在法国Evian Resort Golf Club举行，其他几站在美国和英国轮换球场。",
+        "url": "https://www.golfcompendium.com/2023/01/womens-major-championships-golf.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Women's golf majors in 2025: Schedule and locations for the biggest events（Golf Channel / NBC Sports）给出2025年女子大满贯赛程，其中列明：U.S. Women's Open 5月底至6月初在美国、KPMG Women's PGA Championship 6月在美国、The Amundi Evian Championship 7月在法国Evian、AIG Women's Open 7月底至8月初在英国球场举行，与claim中的月份和国家对应。",
+        "url": "https://www.golfchannel.com/news/womens-golf-majors-in-2025-schedule-and-locations-for-the-biggest-events",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "LPGA目前共有五项女子高尔夫大满贯赛事，分别是：在美国于春季/初夏进行的雪佛龙锦标赛、美国女子公开赛和KPMG女子PGA锦标赛，以及在法国7月举行的伊云锦标赛和在英国夏季末举行的女子公开赛（AIG Women's Open）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "女子高坛的五大满贯中，伊云锦标赛是在2013年被列入大满贯，之前只有四场。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多方记录显示，原名为 Evian Masters 的该赛事自1994年起在法国埃维昂举行，但直到2013年才被LPGA正式提升为大满贯赛事，并更名为“The Evian Championship”。 LPGA及媒体回顾中均明确写道：2013年起，Evian 成为LPGA巡回赛的第五个大满贯，此前女子高尔夫自2001–2012年间一直只有四个大满贯（雪佛龙/纳贝斯克、美国女子公开赛、女子PGA锦标赛和女子英公开赛）。 高球新闻与历史梳理文章也把“2013年起五大满贯”作为时间分界，说明在Evian获封大满贯之前女子大满贯数量为四场，与claim的表述完全一致。",
+    "evidence_sources": [
+      {
+        "content": "The Evian Championship - Wikipedia 条目指出，该赛事在1994年创立为Evian Masters，2013年起更名为“The Evian Championship”并成为LPGA巡回赛的第五个大满贯。",
+        "url": "https://en.wikipedia.org/wiki/The_Evian_Championship",
+        "credibility": "Medium"
+      },
+      {
+        "content": "LPGA Majors: The 5 Major Championships of Women's Pro Golf（Golf Compendium）梳理女子大满贯历史，列出“2001–12 (4 majors): Chevron Championship, U.S. Women's Open, Women's PGA Championship, Women's British Open；2013–present (5 majors): 加入Evian Championship 为第五大满贯”。",
+        "url": "https://www.golfcompendium.com/2023/01/womens-major-championships-golf.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "List of women's golf major championship winners by year（Golf News Net）说明女子英公开赛在2001年成为大满贯，而“Evian Championship becoming a major in 2013”，并提到Evian在1994–2012年只是普通巡回赛，侧面印证2013年前只有四大满贯。",
+        "url": "https://thegolfnewsnet.com/list-of-womens-golf-major-championship-winners-by-year/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在女子职业高尔夫中，伊云锦标赛（The Evian Championship）自2013年起才被LPGA正式列为第五个大满贯赛事，在此之前女子大满贯只有四场。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "LPGA赛事中希尔顿大奖赛属于邀请赛，仅限过去两年赢得LPGA冠军的选手参赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "希尔顿大奖赛即 LPGA 的 Hilton Grand Vacations Tournament of Champions，该赛事被官方定义为赛季揭幕战中的“limited-field event”，参赛阵容由符合特定资格的少数球员组成，属于邀请制的小规模赛事。 赛事官网与合作方页面明确说明，其职业组参赛资格限定为最近两个赛季在 LPGA 巡回赛上赢得过官方赛事冠军的选手，表述为“LPGA Tour winners from the previous two seasons will compete for official prize money”，并以 2025 年为例列出32名近两年冠军球员参赛，印证“仅限过去两年赢得 LPGA 冠军的选手参赛”的规则。 同时，媒体报道在介绍赛制时也强调这是“a winners-only field from the last two LPGA seasons plus celebrities”，说明职业球员一侧确实是近两年 LPGA 冠军组成的邀请阵容，与该claim的描述相符。",
+    "evidence_sources": [
+      {
+        "content": "LPGA Tournament of Champions - Wikipedia（LPGA 冠军赛条目）指出，Hilton Grand Vacations Tournament of Champions 是一项限额赛事，参赛职业球员为“winners on the LPGA Tour events in the previous two years”，即最近两年在 LPGA 巡回赛中夺冠的选手。",
+        "url": "https://en.wikipedia.org/wiki/LPGA_Tournament_of_Champions",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Hilton Grand Vacations Tournament of Champions – Overview（LPGA 官方赛事页）将该赛描述为赛季揭幕战和 limited-field event，职业组参赛资格为“LPGA winners from the previous two seasons”，并与名人/业余配对赛区分开说明。",
+        "url": "https://www.lpga.com/tournaments/hilton-grand-vacations-tournament-of-champions/overview",
+        "credibility": "High"
+      },
+      {
+        "content": "“Lydia Ko, Nelly Korda, Haeran Ryu, Brooke Henderson, Lauren Coughlin and More Compete in 2025 Hilton Grand Vacations Tournament of Champions”一文中，主办方新闻稿写明：本次赛事的 LPGA 陣容由“winners from the previous two LPGA seasons”构成，且 2025 年共有32位近两年冠军参赛，体现出“过去两年赢得 LPGA 冠军”这一资格窗口。",
+        "url": "https://corporate.hgv.com/news/news-details/2025/Lydia-Ko-Nelly-Korda-Haeran-Ryu-Brooke-Henderson-Lauren-Coughlin-and-More-Compete-in-2025-Hilton-Grand-Vacations-Tournament-of-Champions",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "LPGA 赛事中的希尔顿大奖赛（Hilton Grand Vacations Tournament of Champions）是限额邀请赛，其职业组参赛资格仅向过去两个赛季在 LPGA 巡回赛中赢得冠军的选手开放。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "高尔夫历史最悠久的大赛是7月在英国举行的英国公开赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "现今被称为“The Open Championship”（常俗称为“英国公开赛”）的赛事创立于1860年，在苏格兰普雷斯特威克高尔夫俱乐部首次举办，被主办方R&A和各类高尔夫史料普遍认定为“高尔夫最古老的锦标赛”以及四大男子高尔夫大满贯中历史最悠久的一项。 这项赛事每年夏季在英国境内（包括苏格兰、英格兰和北爱尔兰等地的林克斯球场）轮流举办，多数年份安排在7月中下旬举行，官方和各大媒体也将其描述为“played in July each year”的男子最终一项大满贯，因此用“高尔夫历史最悠久的大赛是7月在英国举行的英国公开赛”来概括其地位与时间地点特征在事实层面是吻合的。",
+    "evidence_sources": [
+      {
+        "content": "The Open Championship - Wikipedia 条目介绍：The Open Championship（常被称为British Open）是由R&A自1860年起在英国各地林克斯球场举办的年度大赛，是最古老的高尔夫锦标赛，也是四大男子大满贯中最早创立的一项。",
+        "url": "https://en.wikipedia.org/wiki/The_Open_Championship",
+        "credibility": "Medium"
+      },
+      {
+        "content": "British Open（Encyclopaedia Britannica）称：British Open（即The Open Championship）是世界四大高尔夫赛事之一，同时是这项运动中持续举办时间最长、历史最悠久的锦标赛，一般在每年7月于英国球场举行。",
+        "url": "https://www.britannica.com/sports/British-Open",
+        "credibility": "High"
+      },
+      {
+        "content": "The British Open Championship | Golf Major Tournament Guide（Topend Sports）指出：British Open（官方名为The Open Championship）是四大高尔夫大满贯中最古老的一项，创建于19世纪60年代，“The tournament is held in July each year”且在英国的不同球场轮流举办。",
+        "url": "https://www.topendsports.com/events/golf-majors/british-open/index.htm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "高尔夫历史最悠久的大赛是由R&A主办、每年7月在英国球场轮流举行的The Open Championship（通常被称为“英国公开赛”）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "1928年， Speedo推出了首款Racerback泳衣，Racerback是一种后背部分呈现出类似T字形的结构，通常出现在肩胛骨之间，提供更大的肩部活动范围。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Speedo 品牌历史介绍中写明：Speedo 于1928年在悉尼邦迪海滩创立，其创新历史始于这一年，创始人 Alexander McRae 推出 Racerback 泳衣，这是全球首款非羊毛材质的竞赛泳衣，允许更大的动作自由度，被视为竞技泳装的重要突破。 关于“Racerback”的结构，多篇泳装介绍与专业博客指出，Racerback 这一名称源于背部肩带在肩胛骨之间汇合，形成类似 Y 形或 T 形的剪裁，使肩胛区域更开放、肩带不易滑落，并显著提升肩部活动范围和划水动作的灵活性，与claim中对后背结构和“提供更大的肩部活动范围”的描述一致。",
+    "evidence_sources": [
+      {
+        "content": "Speedo Story | About Us And Our History（Speedo 官方品牌历史页）写明：Speedo 于1928年诞生于澳大利亚邦迪海滩，同年创始人 Alexander McRae 推出了 Racerback 泳衣，这是首款非羊毛泳衣，提供更大的动作自由度，被视作品牌创新起点。",
+        "url": "https://www.speedo.com/our-story.list",
+        "credibility": "High"
+      },
+      {
+        "content": "Speedo - Pentland Brands 品牌介绍中同样指出：Speedo 于1928年推出 Racerback 泳衣，这款非羊毛泳衣让游泳者有更大的自由动作空间（greater freedom of motion），并由此开启 Speedo 的技术创新传统。",
+        "url": "https://pentlandbrands.com/brands/speedo/",
+        "credibility": "High"
+      },
+      {
+        "content": "What is a Racerback Bra?（Diana Intimates 博文）解释“racerback”一词的结构特征：肩带在肩胛骨之间汇合，形成 Y 或 T 形结构，而非直线下垂，这种设计源于同样剪裁的背心/泳装，旨在提升上肢活动范围并减少肩带滑落。",
+        "url": "https://dianaintimates.com/blogs/news/what-is-a-racerback-bra",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "1928年，Speedo 在澳大利亚推出了首款 Racerback 泳衣，这种在肩胛骨之间汇合成类似 T/Y 形肩带结构的设计，大幅开放了背部和肩部空间，为游泳者提供了更大的肩部活动范围。",
+    "topic": "Science"
+  },
+  {
+    "claim": "1956年Speedo首次引入尼龙材料，提升了弹性并减少水阻。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "竞技泳装史的资料指出，在1956年，Speedo 成为首家在竞赛泳衣中引入尼龙材料的公司，此前泳装多采用羊毛或其他较为厚重的织物；尼龙的应用使泳衣更轻、更有弹性，且明显降低了水中的阻力。 儿童版“History of competitive swimwear”与多篇技术综述提到，Speedo 在1956年使用尼龙，随后在1970年代加入氨纶（弹性纤维），这两种合成纤维令泳衣“more stretchy, durable, and better at reducing water drag”，与claim中“提升弹性并减少水阻”的效果描述一致。 虽然部分品牌年表将“首次在自家产品中使用尼龙”标在1955或1957这一时间带，但多份独立文献和服装史文章都使用“1956年 Speedo first introduced nylon into swimwear”这一表述，因此以1956年作为时间节点在事实层面是可接受且被广泛采用的。",
+    "evidence_sources": [
+      {
+        "content": "History of competitive swimwear - Wikipedia 指出：1956年，Speedo 成为第一家在泳装中引入尼龙的公司，1950年代后期的尼龙泳衣改善了泳装的弹性、耐久性，并减少了水阻力。",
+        "url": "https://en.wikipedia.org/wiki/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "History of competitive swimwear Facts for Kids（Kiddle）中提到：1956年，Speedo was the first company to use nylon in their swimsuits，随后1970年代加入弹性纤维，这些材料让泳衣“more stretchy, durable, and better at reducing water drag”。",
+        "url": "https://kids.kiddle.co/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "A History of Women's Swimwear（FIT 时装史文章）在讨论竞技泳装时写道：就竞技游泳而言，Speedo 在1956年首次将尼龙引入泳装，尼龙材料显著降低了水中阻力，随后尼龙与弹性纤维的组合进一步改善了水动力性能。",
+        "url": "https://fashionhistory.fitnyc.edu/a-history-of-womens-swimwear/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "1956年，Speedo 首次在竞赛泳衣中大规模采用尼龙面料，这种合成纤维让泳衣比传统材料更具弹性、更耐用，同时显著降低了在水中的阻力。",
+    "topic": "Science"
+  },
+  {
+    "claim": "在1972年慕尼黑奥运会上，22项世界纪录中有21项由穿着尼龙/弹性纤维泳衣的选手打破。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "游泳装备发展史资料指出，1956年起Speedo在泳衣中使用尼龙，1970年代又加入弹性纤维（elastane），这类尼龙／弹性纤维材质的紧身泳衣显著提升弹性、耐久性并降低水阻。 在关于竞技泳装的概述中，明确写出“在1972年奥运会上，有21项中的22项纪录是由穿着尼龙／弹性纤维泳衣的选手创造的”，该说法在面向大众和少儿的科普页面上也以几乎相同的统计数据出现，强调新材料泳衣在慕尼黑奥运会上对破纪录起到决定性作用。 因此，将“1972年慕尼黑奥运会上22项世界纪录中有21项由穿着尼龙／弹性纤维泳衣的选手打破”作为对这一统计的中文转述，在数字和材料描述上均与权威与次级资料吻合。",
+    "evidence_sources": [
+      {
+        "content": "History of competitive swimwear（维基百科）在介绍合成纤维泳衣时指出：Speedo在1956年率先在泳衣中引入尼龙，1970年代又加入弹性纤维，这些材料改善了泳衣的弹性、耐久性和水阻；并直接给出统计——“21 out of 22 records at the 1972 Olympics were broken using nylon/elastane suits”。",
+        "url": "https://en.wikipedia.org/wiki/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "History of competitive swimwear Facts for Kids（Kiddle）面向少儿的科普条目同样写道：1956年Speedo首次在泳衣中使用尼龙，1970年代加入弹性纤维，使泳衣更有弹性且阻力更小，“At the 1972 Olympics, swimmers wearing nylon/elastane suits broke 21 out of 22 records!”。",
+        "url": "https://kids.kiddle.co/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How to Engineer a Record-Breaking Swimsuit（USC Illumin）在回顾泳衣材料演进时指出：随着新材料泳衣的引入，“21 out of 22 records at the 1972 Olympics were broken wearing nylon/elastane suits”，并以此作为材料创新推动破纪录的经典案例。",
+        "url": "https://illumin.usc.edu/how-to-engineer-a-record-breaking-swimsuit/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在1972年慕尼黑奥运会上，共有22项游泳世界纪录被刷新，其中有21项是由身着尼龙／弹性纤维泳衣的运动员创造的，显示出这类合成纤维泳衣在当时明显的性能优势。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "东德在1973年世界游泳锦标赛上夺得14项比赛中的10项冠军并创造了多项世界纪录。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料普遍指出，1973年在南斯拉夫贝尔格莱德举行的首届世界游泳锦标赛（世界游泳锦标赛中的游泳项目）中，东德女子队在14个女子项目中夺得了10枚金牌，显示出对女子游泳项目的统治性优势。 同一批资料也提到，东德女队在该届世锦赛上凭借兴奋剂体系支撑的突飞猛进表现，多次在比赛中刷新世界纪录，有统计称她们在本届世锦赛期间共创造约8项女子世界纪录，因此“夺得14项比赛中的10项冠军并创造了多项世界纪录”的概括与公开记载相符。",
+    "evidence_sources": [
+      {
+        "content": "50 Years Since the Doping-Fueled Rise of East Germany（Swimming World Magazine）回顾东德女队的崛起时指出：在首届世界游泳锦标赛上，东德女子共获得18枚奖牌，赢得了14个女子项目中的10个冠军，并在1973–1989年间大规模刷新世界纪录。",
+        "url": "https://www.swimmingworldmagazine.com/news/an-agonizing-anniversary-50-years-since-the-doping-fueled-rise-of-east-germany/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Cold War Sporting Front | Secrets of the Dead（PBS）在“1973 World Aquatics Championships – Belgrade, Yugoslavia”一节中写道：东德国家兴奋剂计划在该届世锦赛上接受检验，“GDR women win 10 of 14 gold medals, setting 8 world records”，直接给出10金和多项世界纪录的数字。",
+        "url": "https://www.pbs.org/wnet/secrets/the-cold-war-sporting-front/53/",
+        "credibility": "High"
+      },
+      {
+        "content": "Swimming at the 1973 World Aquatics Championships（维基百科“游泳项目”条目）给出的奖牌榜显示：在游泳项目中东德获得12金6银7铜、美国11金15银6铜，并结合其他专题文章说明，东德的金牌主要集中在女子项目，相关回顾文章进一步指出其中女子14个项目有10个冠军归属东德并多次在比赛中刷新世界纪录。",
+        "url": "https://en.wikipedia.org/wiki/Swimming_at_the_1973_World_Aquatics_Championships",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在1973年贝尔格莱德举行的首届世界游泳锦标赛上，东德女子游泳队在14个女子项目中赢得了10个冠军，并在这些项目中多次刷新当时的世界纪录。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "LZR Racer由意大利公司 Mectex 与澳大利亚体育研究所（AIS）共同开发，Speedo 的签约运动员也参与了研发过程。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家资料均指出，LZR 系列（包括 LZR Pro 和 LZR Elite）是由意大利公司 Mectex 与澳大利亚体育研究所（AIS）合作开发的。 说明中还明确提到，在开发过程中有 Speedo 的签约或赞助运动员参与，帮助改进与测试泳衣设计。 因此，关于“Mectex 与 AIS 共同开发”以及“Speedo 签约运动员参与研发过程”的表述与公开资料一致，可判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "LZR Racer - Wikipedia（说明 LZR Pro 和 LZR Elite 由意大利公司 Mectex 与澳大利亚体育研究所合作开发，并在 Speedo 赞助运动员的帮助下完成设计）",
+        "url": "https://en.wikipedia.org/wiki/LZR_Racer",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Technology - Mectex（介绍 “LZR Racer” 泳衣是与 Mectex、澳大利亚体育研究所、NASA 等合作创建的项目）",
+        "url": "https://www.mectex.it/en/technology/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The LZR Racer - STEAM News（概述 Speedo 与各研究机构合作开发 LZR Racer，包括体育研究机构与精英运动员在项目中的参与）",
+        "url": "https://www.steamnews.org/articles/engineering/the-lzr-racer",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "LZR Racer 由意大利公司 Mectex 与澳大利亚体育研究所（AIS）等机构合作开发，并在 Speedo 赞助运动员参与测试和反馈的帮助下完成设计与优化。",
+    "topic": "Science"
+  },
+  {
+    "claim": "NASA 对LZR Racer提供了风洞测试设施和流体分析软件支持，Comme des Garçons 也参与了外观设计。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多篇资料表明，Speedo 在开发 LZR Racer 泳衣时使用了 NASA 的风洞测试设施，并借助流体流动分析软件（如由 ANSYS 提供的计算流体力学软件）来优化设计，从而降低阻力。 同时，有资料指出 LZR Racer 的设计团队中包含国际时装品牌 Comme des Garçons 创始人川久保玲，其为该泳衣提供了外观与图案设计方面的创意与参与。 因此，关于 NASA 提供风洞测试与流体分析软件支持，以及 Comme des Garçons 参与外观设计的表述与公开信息一致，可判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "LZR Racer - Wikipedia（指出 LZR Racer 研发中使用了 NASA 的风洞测试设施和流体流动分析软件来支持泳衣设计）",
+        "url": "https://en.wikipedia.org/wiki/LZR_Racer",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How Technology Changed the Game Called Sports - SiliconIndia（提到 LZR Racer 泳衣的开发使用了 NASA 的风洞测试设施和流体流动分析软件来支持设计）",
+        "url": "https://www.siliconindia.com/news/sports/how-technology-changed-the-game-called-sports-nid-209590-cid-45.html/4",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Speedo LZR Racer - KnittingIndustry（介绍 LZR Racer 为“太空时代”设计，并说明国际时装品牌 Comme des Garçons 创始人川久保玲参与了该泳衣的外观/图案设计）",
+        "url": "https://www.knittingindustry.com/speedo-lzr-racer/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在 LZR Racer 的开发过程中，Speedo 与 NASA 合作，使用其风洞测试设施和流体流动分析相关软件（包括由 ANSYS 等提供的计算流体力学工具）来优化泳衣设计并降低阻力，同时国际时装品牌 Comme des Garçons（由川久保玲主导）也参与了泳衣外观与图案设计。",
+    "topic": "Science"
+  },
+  {
+    "claim": "09年罗马游泳世锦赛共创下43项世界纪录，在其中40个项目，有38项改写了赛事纪录，仅有最后一天的两个项目未能刷新纪录。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，2009年罗马世界游泳锦标赛共创造了43项世界纪录。 另一条资料明确指出，本届世锦赛的40个游泳项目中，有38项赛事纪录被刷新，只有最后一天进行的两个项目未能打破赛事纪录，与claim中的具体描述一致。 因此，该表述在“世界纪录总数”和“40个项目中有38项改写赛事纪录、仅最后一天两个项目未刷新纪录”这两点上均得到公开信息的支持，可判定为 Supported。",
+    "evidence_sources": [
+      {
+        "content": "2009 World Aquatics Championships（介绍2009年罗马世界游泳锦标赛基本情况，并提到本次赛事共创造43项游泳世界纪录）",
+        "url": "https://en.wikipedia.org/wiki/2009_World_Aquatics_Championships",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Analysis Shows Suits to Blame for 2009's 43 World-Record Swims（分析2009年罗马世锦赛使用高速泳衣导致共出现43项长池世界纪录）",
+        "url": "https://breakingmuscle.com/analysis-shows-suits-to-blame-for-2009s-43-world-record-swims/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2009 World Aquatics Championships - Wikiwand（指出本届世锦赛中共创造43项世界纪录，并说明在40个项目里有38项赛事纪录被刷新，只剩最后一天的两个项目未改写赛事纪录）",
+        "url": "https://www.wikiwand.com/en/articles/2009_World_Aquatics_Championships",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2009年罗马游泳世锦赛共创造了43项世界纪录，在40个游泳项目中有38项刷新了赛事纪录，仅有最后一天进行的两个项目未能改写赛事纪录。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "张琳于09年罗马世锦赛创造的800米自由泳（长池）世界纪录(7分32秒12)至今仍未被打破，被认为是快速泳衣时代最难被超越的记录之一。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "世界泳联官方记录显示，男子800米自由泳长池项目的现世界纪录为张琳在2009年罗马世界锦标赛游出的7分32秒12，至今仍保持在册。 多个权威或专业游泳网站列出的男子800米自由泳长池世界纪录进展与当前纪录页面也都将7分32秒12标注为现行世界纪录，且没有后续更快成绩被确认，可佐证该纪录尚未被打破。 多家游泳专业媒体在讨论“超高速泳衣时代”遗留的世界纪录时，将张琳2009年的800米自由泳世界纪录描述为目前男子项目中最难被接近、最具统治力且长期无人能威胁的纪录之一，符合“快速泳衣时代最难被超越的记录之一”的说法。",
+    "evidence_sources": [
+      {
+        "content": "Swimming - World Aquatics（世界泳联官方记录页面，列出各项目现行长池世界纪录，其中男子800米自由泳世界纪录为张琳7:32.12，仍在册）",
+        "url": "https://www.worldaquatics.com/swimming/records",
+        "credibility": "High"
+      },
+      {
+        "content": "Swimming at the 2009 World Aquatics Championships – Men's 800 metre freestyle（记录2009年罗马世锦赛男子800自决赛，张琳以7:32.12刷新世界纪录，标注为WR）",
+        "url": "https://en.wikipedia.org/wiki/Swimming_at_the_2009_World_Aquatics_Championships_%E2%80%93_Men's_800_metre_freestyle",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Swimming's Greatest World Records（游泳专业媒体文章，将张琳2009年男子800自7:32.12描述为超过15年仍未被打破，且被认为是男子项目中最难被接近的世界纪录之一）",
+        "url": "https://swimswam.com/swimmings-greatest-world-records/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "张琳在2009年罗马世界游泳锦标赛男子800米自由泳（长池）中以7分32秒12创造了世界纪录，该成绩截至目前仍是该项目的现行世界纪录，并且在泳坛普遍被视为“快速泳衣时代”最难被接近和超越的男子世界纪录之一。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "汉堡赛刺伤塞莱斯的是格拉夫狂热的球迷38岁的根特·帕尔齐，由于警方判定塞莱斯所受的伤为轻伤，加上该球迷被认为是“精神异常”和“及时认罪”只判了两年缓刑，而实际在监狱里时间不过仅仅5个月。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威与主流媒体均指出，1993年在德国汉堡比赛中刺伤莫妮卡·塞莱斯的是名叫Günter（Guenter/Gunter） Parche 的德国男子，是痴迷斯特菲·格拉夫的球迷，行凶动机是希望塞莱斯受伤以便格拉夫能重回世界第一。 这些报道与资料提到，案发时Parche为38岁左右的失业工人或工厂工人，系长期沉迷格拉夫比赛的极端球迷，与claim所称“格拉夫狂热球迷、38岁”相符。 案件审理中，汉堡法院并未按谋杀未遂而是以“严重人身伤害”/“重伤害”定罪，综合精神状态鉴定意见和其认罪态度，最终判处两年缓刑的“悬缓刑”，检方曾寻求大约两年九个月或更长刑期但未获支持。 多篇报道和评述还提到，Parche在判决前后实际被羁押或服刑时间约为六个月左右，之后即以两年缓刑形式获释，与claim中“实在监狱时间不过几个月（5个月）”在量级上吻合，虽具体月数在不同报道中记为约5–6个月，但均远短于通常监禁刑期。 至于“伤势被视为较轻”和“存在精神异常”的说法，相关报道指出：塞莱斯刺伤部位虽非常危险但最终只需缝合数针、住院时间有限，被法庭认定为严重身体伤害但并非致命重伤，而法院接受精神科专家关于Parche人格或精神状态异常、危险性有限的意见，从而支持了较轻的司法处置，与claim对“精神异常”“轻伤”导致缓刑的概括一致，只是原文法律术语与日常描述略有差异，整体判断方向相符。",
+    "evidence_sources": [
+      {
+        "content": "Monica Seles - Wikipedia（介绍1993年4月汉堡比赛中，莫妮卡·塞莱斯在换边休息时被德国男子Günter Parche从看台冲下以刀刺伤，其为塞莱斯对手斯特菲·格拉夫的痴迷球迷；说明该事件背景与行凶者身份）",
+        "url": "https://en.wikipedia.org/wiki/Monica_Seles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Stabbing stole Monica Seles' career - ESPN（详述刺伤事件经过，称Gunter Parche为失业的38岁德国工厂工人、痴迷格拉夫的球迷，解释其动机是为帮助格拉夫保住世界第一；同时提到法院采纳精神状态鉴定、以严重人身伤害罪名判处两年缓刑而非长期监禁）",
+        "url": "https://www.espn.com/espnw/news-commentary/article/9226901/espnw-stabbing-stole-monica-seles-tennis-career",
+        "credibility": "High"
+      },
+      {
+        "content": "Seles' Attacker Given a Suspended Sentence - Los Angeles Times（报道汉堡法院对塞莱斯刺伤案的判决，称39岁的Guenter Parche被判处两年缓刑，曾在狱中羁押数月后获释；文中提及检方要求更长刑期以及法院参考其精神状态与认罪情况，从而做出缓刑决定）",
+        "url": "https://www.latimes.com/archives/la-xpm-1993-10-14-sp-45788-story.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "1993年汉堡女子网球赛上刺伤莫妮卡·塞莱斯的凶手是痴迷斯特菲·格拉夫的德国球迷Günter Parche，案发时约38岁；德方司法机构在认定其造成的为严重人身伤害、并采纳其精神状态异常及认罪等因素后，仅判处两年缓刑，他在判决前后实际被关押的时间只有几个月（约五六个月），远短于正常实刑。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "埃弗特1973年第一次进入大满贯决赛，1974年夺冠，20岁登顶世界第一，共获得过18个大满贯",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，克里斯·埃弗特在1973年首次打进大满贯女单决赛，当年法网决赛中她负于玛格丽特·考特，这是其职业生涯第一次大满贯决赛之旅。 1974年，她在法网和温网拿到个人首批大满贯单打冠军，正式成为大满贯冠军得主，与“1974年夺冠”的说法一致。 多个权威统计均指出，埃弗特职业生涯共获得18个大满贯女单冠军，包括7个法网、6个美网、3个温网和2个澳网，与claim中的“大满贯18个”完全吻合。 关于世界第一的时间点，WTA官方及网球媒体回顾指出，埃弗特在1974年就被年终排名视作世界第一，而正式的计算机排名于1975年推出时，她以20岁的年龄成为首位WTA官方世界第一，因此“20岁登顶世界第一”的表述在年龄和时间框架上是合理且被普遍接受的概括。",
+    "evidence_sources": [
+      {
+        "content": "Chris Evert's Grand Slam history（详细列出埃弗特各年大满贯表现，标明其在1973年首次进入大满贯决赛——法网女单决赛，并在1974年赢得法网和温网，获得其首批大满贯冠军）",
+        "url": "https://en.wikipedia.org/wiki/Chris_Evert's_Grand_Slam_history",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chris Evert - Wikipedia（概述埃弗特职业生涯共获得18个大满贯单打冠军，分别是7个法网、6个美网、3个温网和2个澳网；并说明其在1970年代中后期长期占据世界第一位置）",
+        "url": "https://en.wikipedia.org/wiki/Chris_Evert",
+        "credibility": "Medium"
+      },
+      {
+        "content": "On this day in 1975, Chris Evert became the first WTA No. 1（网球专业媒体回顾文章，指出埃弗特在1974年就被视为年终世界第一，1975年WTA首次公布官方计算机排名时，她以20岁之龄成为首位WTA世界第一，并再次提到其最终拿到18个大满贯单打冠军）",
+        "url": "https://www.tennis.com/news/articles/on-this-day-in-1975-chris-evert-became-the-first-wta-no-1",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "克里斯·埃弗特在1973年首次打进大满贯女单决赛（法网），于1974年拿到自己的首个大满贯单打冠军，并在20岁左右被公认为世界第一、在1975年成为首位WTA官方世界第一；其职业生涯共获得18个大满贯单打冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "格拉芙18岁登顶世界第一，是周数最长的世界第一。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，斯特菲·格拉芙于1987年8月17日首次登上WTA世界第一，当时她刚满18岁不久，媒体与网球史回顾普遍以“18岁的格拉芙首次登顶世界第一”表述这一节点，与claim中“18岁登顶世界第一”一致。 网球名人堂与多家网球与体育统计网站均指出，格拉芙在职业生涯中合计占据世界第一长达377周，是女子网坛乃至男女网坛之一度总周数最长的世界第一，在女子球员中保持纪录，与“周数最长的世界第一”的说法相符（尽管后来在男女合并统计上被德约科维奇以378周略微超越，但不影响她在女子和长期历史讨论中作为“周数最长”的表述）。 这些来源在格拉芙成为世界第一的年龄、首次登顶时间和累计周数上高度一致，因此可认为该claim在关键事实层面得到明确支持。",
+    "evidence_sources": [
+      {
+        "content": "Steffi Graf - Wikipedia（介绍格拉芙的生平与战绩，注明其在1987年首次登上WTA世界第一，并概述其长期统治女子网坛的事实）",
+        "url": "https://en.wikipedia.org/wiki/Steffi_Graf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The day Graf became world No 1 for the first time - Tennis Majors（回顾1987年8月17日的历史时刻，明确写到“18岁的Steffi Graf”在这一天首次登上世界第一，并开始长达186周的连续世界第一统治）",
+        "url": "https://www.tennismajors.com/wta-tour-news/august-17-1987-the-day-steffi-graf-became-world-no-1-for-the-first-time-454359.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Most weeks ranked No.1 in singles tennis (female) - Guinness World Records（记载格拉芙在WTA世界排名中累计377周位居女单世界第一，为女子球员中历史最高，并长年保持网坛总体纪录）",
+        "url": "https://www.guinnessworldrecords.com/world-records/752755-most-weeks-ranked-no-1-in-singles-tennis-female",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "斯特菲·格拉芙在1987年8月、年仅18岁时首次登上WTA女单世界第一，并在职业生涯中累计占据世界第一达377周，是女子网坛历史上在世界第一位置停留周数最长的球员。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "辛吉斯全部5个大满贯都是在20岁之前获得的。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "权威资料表明，玛蒂娜·辛吉斯一共获得5个大满贯女单冠军，分别是澳网1997、1998、1999三冠，以及1997年的温网和美网。 辛吉斯出生于1980年9月30日，因此在1999年澳网夺冠时仍未满19岁，所有这5个单打大满贯冠军都发生在她20岁之前。 多家网球名人堂及专题报道也直接指出，她在尚未满19岁时就已经赢下全部5座大满贯单打奖杯，进一步印证了这一时间范围的准确性。",
+    "evidence_sources": [
+      {
+        "content": "Martina Hingis - Wikipedia（给出辛吉斯的出生日期1980年9月30日，并列出其5个大满贯单打冠军：澳网1997、1998、1999，温网1997，美网1997，总数为5个）",
+        "url": "https://en.wikipedia.org/wiki/Martina_Hingis",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Martina Hingis - Olympedia（总结辛吉斯共获得5个大满贯单打冠军：三次澳网、一届温网和一届美网，并列出这些冠军年份均在1997–1999年间）",
+        "url": "https://www.olympedia.org/athletes/2563",
+        "credibility": "High"
+      },
+      {
+        "content": "Martina Hingis - International Tennis Hall of Fame（指出辛吉斯在19岁之前就已经赢得全部5个大满贯单打冠军：澳网三冠加上1997年的温网与美网，强调其“在未满19岁前完成五冠”的成就）",
+        "url": "https://www.tennisfame.com/hall-of-famers/inductees/martina-hingis",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "玛蒂娜·辛吉斯职业生涯共获得5个大满贯女单冠军（澳网1997、1998、1999，温网1997，美网1997），这些冠军全部是在她20岁之前夺得的。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "安德莱斯库是00后第一个大满贯冠军。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，比安卡·安德莱斯库出生于2000年6月16日，属于“00后”一代球员。 她在2019年美网女单夺冠，成为职业网坛历史上首位出生于2000年之后（2000年及以后）并拿到大满贯单打冠军的球员，媒体与官方及网协相关报道多次明确称其为“第一位出生于2000年代的大满贯冠军”。 目前公开记录中，在她之前并无其他出生于2000年及之后的球员获得任一网球大满贯单打冠军，因此“安德莱斯库是00后第一个大满贯冠军”的表述在时间与人物上均得到直接支持。",
+    "evidence_sources": [
+      {
+        "content": "Bianca Andreescu - Wikipedia（说明安德莱斯库出生于2000年6月16日，并在2019年美网获得首个大满贯单打冠军）",
+        "url": "https://en.wikipedia.org/wiki/Bianca_Andreescu",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Andreescu wins US Open to become Canada's first Grand Slam champion - Olympic.ca（报道她在2019年美网夺冠，文中明确指出这场胜利让她成为首位出生于2000年代的大满贯冠军）",
+        "url": "https://olympic.ca/2019/09/07/andreescu-is-canadas-first-grand-slam-champion-with-us-open-win/",
+        "credibility": "High"
+      },
+      {
+        "content": "Bianca Andreescu is the best in the world — it's just not official yet - CBC（加拿大媒体指出，安德莱斯库是第一位出生于2000年代、赢得网球大满贯赛事冠军的球员）",
+        "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-whats-next-1.5276352",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "比安卡·安德莱斯库出生于2000年6月16日，并在2019年美网获得女单冠军，是第一位出生于2000年代（00后）的网球大满贯单打冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "拉杜卡努是大满贯历史上唯一一个资格赛夺冠的选手。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "官方赛事记录表明，艾玛·拉杜卡努在2021年美网以资格赛球员身份参赛，经过三场资格赛和七场正赛最终夺得女单冠军。 多家权威与主流媒体均明确指出，她是网球历史上首位也是唯一一位以资格赛身份夺得大满贯单打冠军的选手，不分性别，强调“first qualifier ever to win a Grand Slam / to win a major”。 目前公开的四大满贯男女单打冠军统计中，也未有第二位以资格赛身份夺冠的记录，因此“唯一一个资格赛夺冠的选手”的表述在现有历史范围内是成立的。",
+    "evidence_sources": [
+      {
+        "content": "2021 US Open – Women's singles（赛事页面记载拉杜卡努从资格赛晋级，最终在决赛击败费尔南德斯，成为首位资格赛球员赢得大满贯冠军）",
+        "url": "https://en.wikipedia.org/wiki/2021_US_Open_%E2%80%93_Women's_singles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Emma Raducanu wins thrilling US Open title - ESPN（报道拉杜卡努赢得2021年美网女单冠军，明确写出她是史上第一位以资格赛身份赢得大满贯冠军的球员，不分男女）",
+        "url": "https://www.espn.com/tennis/story/_/id/32190565/emma-raducanu-becomes-first-qualifer-win-grand-slam-title",
+        "credibility": "High"
+      },
+      {
+        "content": "Raducanu triumphs over Fernandez in all-teen final to win 2021 US Open title - WTA（WTA官方新闻称拉杜卡努为“首位赢得大满贯单打冠军的资格赛选手”，并强调其10场比赛一盘未失）",
+        "url": "https://www.wtatennis.com/news/2252214/raducanu-triumphs-over-fernandez-in-all-teen-final-to-win-2021-us-open-title",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "艾玛·拉杜卡努在2021年美网以资格赛球员身份一路闯关并最终夺得女单冠军，是迄今为止大满贯历史上唯一一位以资格赛身份赢得单打冠军的选手。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "Nour Sherbini从2013年至今，除了14年一轮游之外，参加的世锦赛就没下过领奖台。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "公开战绩显示，Nour El Sherbini自2013年首次打入女子世界锦标赛决赛起，在她进入并完成比赛的所有女子个人世锦赛中，要么获得冠军，要么获得亚军，唯一的例外是2014年在开罗举行的世锦赛中作为4号种子首轮出局（一轮游）。 资料指出她在2013年为亚军，随后在2015、2016、2018–19、2019–20、2020–21、2022、2023和2025共获得八次世界冠军，并在2024年打入决赛获得亚军，实现了自2015年起连续10届进入世锦赛决赛，这与“2013年至今（参赛时）除了2014年一轮游之外从未跌出领奖台”的说法相吻合。 因此，该表述在常规理解下（指她参加并完成的女子个人世界锦标赛）是事实成立的。",
+    "evidence_sources": [
+      {
+        "content": "Nour El Sherbini - Wikipedia（列出其世界锦标赛决赛战绩：2013亚军，以及2015、2016、2018–19、2019–20、2020–21、2022、2023和2025共8次冠军，并提到她打进连续10届世锦赛决赛）",
+        "url": "https://en.wikipedia.org/wiki/Nour_El_Sherbini",
+        "credibility": "High"
+      },
+      {
+        "content": "2014 Women's World Open Squash Championship - Wikipedia（写明2014年女子世界锦标赛在开罗举行，Nicol David夺冠，并在种子表中标注Nour El Sherbini为4号种子且止步first round，即首轮出局）",
+        "url": "https://en.wikipedia.org/wiki/2014_Women%27s_World_Open_Squash_Championship",
+        "credibility": "High"
+      },
+      {
+        "content": "F: El Sherbini Wins Record-Equalling Eighth Worlds Title – PSA World Championships（介绍她在芝加哥赢得第八个世界冠军，并强调这是她连续第10次打入世界锦标赛决赛，侧证2015–2024间每届都在领奖台上）",
+        "url": "https://worldsquashchamps.com/el-sherbini-wins-record-equalling-eighth-worlds-title/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "从2013年至今，Nour El Sherbini在参加的女子个人世界锦标赛中，除了2014年在开罗一轮游之外，其余届次均打入决赛并最终登上领奖台（2013和2024为亚军，其余为冠军）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "Nour Sherbini从2013年至今参加的11次世锦赛拿到，7个世锦金，3个世锦银。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "权威战绩统计显示，Nour El Sherbini在女子个人世界锦标赛的决赛记录为“11次决赛，8个冠军、3个亚军”，而不是7金3银。 相关报道与赛事官网也一致指出，她在2025年芝加哥拿到个人第8个世界冠军，追平Nicol David的女子纪录，从而确认其冠军数为8次。 由此可见，该claim低估了她的世界冠军次数，属于数值性错误。",
+    "evidence_sources": [
+      {
+        "content": "Nour El Sherbini - Wikipedia（列出其“World Squash Championships – Finals: 11 (8 titles, 3 runner-up)”，明确为8个世锦赛冠军和3个亚军）",
+        "url": "https://en.wikipedia.org/wiki/Nour_El_Sherbini",
+        "credibility": "High"
+      },
+      {
+        "content": "2025 Finals: El Sherbini and Asal crowned in Chicago – PSA World Championships（记载她在芝加哥战胜Hania El Hammamy，获得第八个世界冠军头衔）",
+        "url": "https://worldsquashchamps.com/2025-finals/",
+        "credibility": "High"
+      },
+      {
+        "content": "Egypt's El Sherbini and Asal Crowned PSA World Champions – US Squash（指出El Sherbini已拿到8个世界冠军，并且是她连续第10次打进世锦赛决赛）",
+        "url": "https://ussquash.org/2025/05/egypts-el-sherbini-and-asal-crowned-psa-world-champions/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前，Nour El Sherbini共参加了11次女子个人世界锦标赛决赛，取得8个世界冠军和3个亚军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "dunlop品牌生产的壁球中红点球比双黄点球大6%，弹跳力高20%。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家球类或装备网站对Dunlop壁球规格的说明一致指出，红点Progress球相对于官方比赛用的Pro双黄点球，直径增大约6%，且拥有约20%更长的悬空时间/更高的弹跳，使球速更慢、容错更高。 这些说明明确给出“Progress（红点）球比Pro（双黄点）球大6%且弹跳提升约20%”的定量描述，与题中关于尺寸和弹跳提升比例的表述相符。 因此，该claim在尺寸和弹跳百分比两方面都与公开技术参数一致，可判定为成立。",
+    "evidence_sources": [
+      {
+        "content": "Squashpoint: How to choose the right squash ball?（介绍Dunlop Progress红点球比官方Pro双黄点比赛球大6%，并专为进阶/娱乐玩家设计）",
+        "url": "https://www.squashpoint.com/blogs/blog/how-to-choose-the-right-squash-ball/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "My-Squash: Squash Ball Buying Guide（说明Progress红点球尺寸为约42.5mm，即比标准Pro球大6%，并提供约20%更多弹跳）",
+        "url": "https://my-squash.com/en/blogs/buying-guides/squash-ball-buying-guide",
+        "credibility": "Medium"
+      },
+      {
+        "content": "East Coast Squash Academy: Which squash ball should you use?（写明红点Progress球相对于Pro双黄点球，大6%且弹跳高20%，适合初学与进阶玩家）",
+        "url": "https://www.eastcoastsquashacademy.com.au/blog/which-squash-ball-should-you-use",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Dunlop品牌的红点Progress壁球相对于官方Pro双黄点比赛球，大约大6%，且弹跳表现（悬空时间/反弹高度）约高20%。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "带着美网五连冠的傲人记录冲击六连冠的费德勒在09年美网决赛五盘大战最终铩羽而归。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "公开资料显示，罗杰·费德勒在美网从2004年至2008年实现了五连冠，在公开赛年代创下连续五次夺冠的纪录，因此2009年美网时他是“五连冠球王”，正向六连冠发起冲击。 2009年美网男单决赛中，费德勒以五盘激战不敌胡安·马丁·德尔波特罗，比分为3–6、7–6、4–6、7–6、6–2，官方也明确写明德尔波特罗击败“五届卫冕冠军”费德勒，终结其冲击第六连冠的梦想，这与claim的描述一致。 因此，该陈述在连冠背景、时间点和五盘告负的结果上均被可靠来源支持。",
+    "evidence_sources": [
+      {
+        "content": "US Open: Reliving Roger Federer's 5 consecutive titles at Flushing Meadows（回顾费德勒在美网上从2004到2008的五连冠战绩，注明他在2009年之前保持40场连胜并在五连冠后被德尔波特罗终结）",
+        "url": "https://www.sportskeeda.com/tennis/us-open-reliving-roger-federer-5-consecutive-titles-at-flushing-meadows",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2009 US Open – Men's singles - Wikipedia（写明胡安·马丁·德尔波特罗在决赛中以3–6、7–6、4–6、7–6、6–2击败“五次卫冕冠军”罗杰·费德勒，后者试图冲击六连冠未果）",
+        "url": "https://en.wikipedia.org/wiki/2009_US_Open_%E2%80%93_Men%27s_singles",
+        "credibility": "High"
+      },
+      {
+        "content": "Roger Federer records that may never be broken: Winning two different majors five years in a row（指出费德勒在温网和美网都曾连续五年夺冠，其中美网为2004–2008五连冠）",
+        "url": "https://www.tennis.com/news/articles/roger-federer-records-winning-two-different-majors-five-years-in-a-row",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "罗杰·费德勒在2004–2008年实现美网五连冠，2009年以“五连冠卫冕者”的身份冲击六连冠，却在美网男单决赛中与胡安·马丁·德尔波特罗大战五盘后告负，无缘第六连冠。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "特蕾丝·约海于格因误服违禁药物被禁赛，检测出的违禁成分来源于Trofodermin乳霜，它含有氯睾酮，从队医处得到。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "国际体育仲裁法庭和多家主流媒体均记载，挪威越野滑雪运动员特蕾丝·约海于格在一次兴奋剂检测中被查出体内含有合成同化类固醇氯睾酮（Clostebol），随后被禁赛。该违禁成分被确认来源于她在意大利高原集训期间使用的一种名为Trofodermin的唇部/皮肤乳霜，该药膏的有效成分之一即为氯睾酮或其醋酸酯形式。 多份裁决书和报道进一步指出，这支Trofodermin乳霜是由挪威国家队队医弗雷德里克·本迪克森（Fredrik Bendiksen）在当地药房购买后交给约海于格使用，队医也公开承担了未发现其含禁药的责任，因此“来源于含氯睾酮的Trofodermin乳霜，且由队医提供”的描述与事实相符。",
+    "evidence_sources": [
+      {
+        "content": "CAS decision in the case of Therese Johaug（CAS新闻通报指出，约海于格在2016年9月4–15日间使用队医在意大利为其购买的Trofodermin乳霜治疗晒伤，而该药膏包装上列明含有0.5% Clostebol acetate，后其尿检显示Clostebol代谢物并被裁定禁赛）",
+        "url": "https://www.tas-cas.org/fileadmin/user_upload/Media_Release_5015.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Therese Johaug banned from Winter Olympics for sunburn lip cream（介绍约海于格因使用队医提供的Trofodermin唇膏导致氯睾酮阳性而被禁赛，并提到药盒上有“doping”警示）",
+        "url": "https://www.sportsintegrityinitiative.com/therese-johaug-banned-from-winter-olympics-for-sunburn-lip-cream/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Therese Johaug – English（讲述约海于格的兴奋剂事件，引用队医声明其对约海于格通过Trofodermin摄入氯睾酮负全责，并说明该乳霜即为其体内氯睾酮来源）",
+        "url": "https://renidrett.no/en/hjem-english/therese-johaug-english/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "特蕾丝·约海于格因体内检测出违禁合成类固醇氯睾酮（Clostebol）而被禁赛，该成分被确认来源于她使用的Trofodermin乳霜，乳霜由国家队队医提供且其活性成分中含有氯睾酮（或其醋酸酯形式）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "1992年第25届巴塞罗那奥运会张山获得男、女同场竞技的双向飞碟金牌，是奥运会历史上唯一一位战胜男子选手夺冠的女子运动员。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "资料显示，张山在1992年巴塞罗那奥运会参加的是“混合多向飞碟/混合双向飞碟（mixed skeet）”项目，该项目当时为男女同场开放项目，她以总成绩223环夺得金牌，战胜的其余奖牌获得者均为男性选手。 国际射联与奥运官方回顾均强调，张山是第一位也是唯一一位在奥运混合性别射击项目中夺得金牌的女性运动员，随后该项目中女性被禁止与男性同场竞技，直至之后改设男女分项，因此她在奥运历史上“唯一一次在男女混合项目中战胜男子夺冠的女选手”这一表述是成立的。",
+    "evidence_sources": [
+      {
+        "content": "Zhang Shan - Wikipedia（说明张山在1992年巴塞罗那奥运会参加的是自1968年起男女同场的混合多向飞碟项目，并在该届赢得金牌，是该混合项目中首位获得奖牌的女性）",
+        "url": "https://en.wikipedia.org/wiki/Zhang_Shan",
+        "credibility": "Medium"
+      },
+      {
+        "content": "ZHANG Shan: The only female shooter to win gold in a mixed competition – Olympics.com（详细回顾张山在1992年混合多向飞碟中战胜全部男选手夺冠，并称其为奥运历史上首位也是最后一位在混合射击项目中夺金的女性）",
+        "url": "https://olympics.com/en/news/zhang-shan-the-only-female-shooter-to-win-gold-in-a-mixed-competition",
+        "credibility": "High"
+      },
+      {
+        "content": "Shooting at the 1992 Summer Olympics – Mixed skeet - Wikipedia（给出1992年奥运会混合多向飞碟成绩表，显示张山获金牌，银牌为秘鲁选手Juan Giha，铜牌为意大利和罗马尼亚男性选手，证实其在男女混合项目中战胜男选手夺冠）",
+        "url": "https://en.wikipedia.org/wiki/Shooting_at_the_1992_Summer_Olympics_%E2%80%93_Mixed_skeet",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在1992年第25届巴塞罗那奥运会上，张山在男女同场的混合多向飞碟（mixed skeet）项目中夺得金牌，成为奥运历史上首位也是唯一一位在男女混合射击项目中战胜全部男选手夺冠的女子运动员。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "58岁迈克-泰森VS27岁杰克-保罗的拳击比赛全球观众人数超过了1.08亿，创造了流媒体迄今最高体育收视率纪录。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家主流媒体援引奈飞官方数据称，2024年11月在AT&T球场举行的迈克·泰森（58岁）与杰克·保罗（27岁）比赛，在奈飞平台上实现了超过1.08亿人次的全球直播观众，奈飞将其描述为“有史以来全球直播观众最多的体育赛事”。 奈飞和体育商业媒体进一步指出，该场比赛创下奈飞历史最高体育直播收视纪录，并号称“the most-streamed global sporting event ever”，与claim中“全球观众人数超过1.08亿，创造流媒体迄今最高体育收视率纪录”的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "Netflix and Most Valuable Promotions’ Jake Paul vs Mike Tyson Mega-Event Makes History With Over 108 Million Live Global Viewers（奈飞官方新闻稿称本场比赛拥有超过1.08亿全球直播观众，并宣称为史上全球直播观看人数最多的体育赛事）",
+        "url": "https://about.netflix.com/en/news/jake-paul-vs-mike-tyson-over-108-million-live-global-viewers",
+        "credibility": "High"
+      },
+      {
+        "content": "Mike Tyson, Jake Paul fight was most-streamed sports event – CNBC（报道奈飞称本场比赛以约6500万同时在线流媒体和1.08亿全球直播观众成为史上“most-streamed global sporting event”）",
+        "url": "https://www.cnbc.com/2024/11/19/mike-tyson-jake-paul-fight-was-most-streamed-sports-event-netflix-says.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Jake Paul-Mike Tyson Fight Scores Over 108 Million Viewers Worldwide, Netflix Says – Yahoo/Sports or Variety转引（引用奈飞数据称本场比赛全球观众超过1.08亿，并创下奈飞体育直播收视纪录）",
+        "url": "https://sports.yahoo.com/jake-paul-mike-tyson-fight-184041890.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在奈飞转播的迈克·泰森（58岁）对阵杰克·保罗（27岁）的拳击比赛中，奈飞公布的数据显示全球直播观众超过1.08亿人次，并将其称为迄今为止收视最高、也是“史上观看人数最多的流媒体体育赛事”。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "凯蒂-泰勒VS阿曼达-塞拉诺的二番战，成为了美国历史上收视率最高的女子拳击对抗，平均每分钟观众达到4700万，全球观众预计达到7400万。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体和流媒体平台的统计指出，凯蒂·泰勒与阿曼达·塞拉诺的二番战作为迈克·泰森VS杰克·保罗大战的联合主赛，在奈飞上创造了职业女子体育赛事的收视纪录，被称为“美国历史上收视率最高的职业女子体育赛事”，其中包括女子拳击。 报道和奈飞/第三方测量机构的数据进一步给出，该二番战在美国的“平均每分钟观众（Average Minute Audience）”约为4700万，全球直播观众约为7400万，这两个数字被多篇报道反复引用，且被标注为职业女子体育/女子拳击的历史最高收视数据。 因此，关于“美国历史上收视率最高的女子拳击对抗”以及“美国平均每分钟观众4700万、全球约7400万”的表述与现有公开数据吻合。",
+    "evidence_sources": [
+      {
+        "content": "Katie Taylor-Amanda Serrano Rematch Nabs 6M Global … – Deadline（引述Netflix与TVision数据，称泰勒VS塞拉诺二番战在美国的平均每分钟观众为4700万，全球约7400万直播观众，并称其为美国历史上收视最高的职业女子体育赛事）",
+        "url": "https://deadline.com/2025/07/katie-taylor-amanda-serrano-rematch-viewership-netflix-1236456983/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Katie Taylor vs. Amanda Serrano 3 averages nearly 6 … – MMAFighting（回顾三番战收视时对比指出，上一场二番战在美国平均每分钟观众达到4700万，全球直播观众约7400万，是标志性的高收视女子拳击赛事）",
+        "url": "https://www.mmafighting.com/2025/7/14/24467811/katie-taylor-vs-amanda-serrano-3-averages-nearly-6-million-viewers-on-netflix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Taylor vs. Serrano fight was the most-watched women's sports event … – IMDb 转引 The Streamable（称泰勒VS塞拉诺这一战在全球平均有7400万现场观众，在美国平均每分钟观众达到4700万，是有史以来收视最高的女子体育赛事）",
+        "url": "https://www.imdb.com/news/ni64962956/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "凯蒂·泰勒VS阿曼达·塞拉诺的二番战作为奈飞转播、与泰森VS保罗同场的联合主赛，被多家统计机构和媒体认定为美国历史上收视率最高的女子拳击（同时也是职业女子体育）赛事，美国平均每分钟观众约4700万，全球直播观众预估约7400万。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2022北京冬季奥运会，女子单人花样滑冰所有参赛选手中有20名选手未满20岁。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "2022年北京冬奥会花样滑冰女子单人滑比赛（短节目）共有30名选手参赛。根据国际滑联（ISU）的官方数据及选手出生日期核实，这30名选手中，比赛时未满20周岁（即2002年2月之后出生）的选手共有18名（包括瓦利耶娃、谢尔巴科娃、特鲁索娃、刘美贤、朱易等），而非20名。另外12名选手年龄在20岁或以上。",
+    "evidence_sources": [
+      {
+        "content": "Figure skating at the 2022 Winter Olympics – Women's singles (参赛选手列表及年龄：显示30名选手中只有18名出生于2002年2月之后)",
+        "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2022_Winter_Olympics_%E2%80%93_Women%27s_singles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Beijing 2022 Figure Skating Women Single Skating Short Program Results (官方短节目参赛名单及详细得分，可对照选手信息)",
+        "url": "https://olympics.com/en/olympic-games/beijing-2022/results/figure-skating/women-single-skating-short-program",
+        "credibility": "High"
+      },
+      {
+        "content": "ISU Results: Women Single Skating - Short Program (国际滑联官方详细成绩单，包含选手所属国籍及排名)",
+        "url": "http://www.isuresults.com/results/season2122/owg2022/SEG003.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2022北京冬季奥运会，女子单人花样滑冰所有参赛选手中有18名选手未满20岁。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2018平昌冬季奥运会,女子单人花样滑冰所有参赛选手中19人未满18岁。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "根据Olympics Wiki关于2018平昌冬奥会女子单人花样滑冰比赛的记录,明确指出'Alina Zagitova was the youngest figure skater to compete, leading the 19 athletes younger than 18 years old'(Alina Zagitova是最年轻的参赛选手,在19名未满18岁的运动员中领先)。比赛共有30名选手参赛,其中19人未满18岁,包括15岁的冠军Alina Zagitova、18岁的亚军Evgenia Medvedeva等年轻选手。",
+    "evidence_sources": [
+      {
+        "content": "Figure Skating 2018/Ladies' singles | Olympics Wiki - 明确指出Alina Zagitova是最年轻的选手,领先19名未满18岁的运动员参赛",
+        "url": "https://olympics.fandom.com/wiki/Figure_Skating_2018/Ladies'_singles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Figure skating at the 2018 Winter Olympics – Ladies' singles - Wikipedia - 详细记录了2018平昌冬奥会女子单人滑比赛,共30名选手参赛,15岁的Alina Zagitova夺冠",
+        "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2018_Winter_Olympics_%E2%80%93_Ladies'_singles",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Figure Skating 2018 - 报道15岁的Zagitova和18岁的Medvedeva在女子单人滑决赛中的激烈竞争,显示参赛选手普遍年龄较小",
+        "url": "https://bleacherreport.com/articles/2760947-olympic-figure-skating-2018-full-results-and-all-medal-winners-from-pyeongchang",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2018平昌冬季奥运会女子单人花样滑冰所有参赛选手中19人未满18岁。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "1997年，FIG将女子参加国际成年组比赛的最低年龄从15岁调整到了16岁。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "体操项目的年龄要求由国际体操联合会（FIG）统一制定，用于规范运动员参加成年组（高级别）国际赛事的资格。 多篇学术研究和综述指出，女子竞技体操运动员参加世界锦标赛和其他高级别赛事的年龄下限在1981年被提高到15岁，随后在1997年再次提高到16岁，要求运动员在比赛年份年满16岁或在该日历年内满16岁才能参加成年组比赛。 这与体操历史和规则条目的总结相一致，明确表明1997年的规则修改确实是将原来的15岁最低年龄提高到16岁，因此该论断与现有权威与学术资料相符。",
+    "evidence_sources": [
+      {
+        "content": "Age requirements in gymnastics - Wikipedia（概述体操年龄规定历史，指出FIG在1981年将最低年龄从14岁提高到15岁，并在1997年再次提高到16岁，适用于参加成年组高级别赛事的运动员）",
+        "url": "https://en.wikipedia.org/wiki/Age_requirements_in_gymnastics",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Age trends in artistic gymnastic across world championships and the Olympic Games（学术论文中说明，自1997年起，体操运动员必须在比赛年份年满16岁或在当年满16岁才能以成年组身份参赛，反映FIG将最低年龄从15岁提高到16岁）",
+        "url": "https://journals.uni-lj.si/sgj/article/download/22153/18103/75188",
+        "credibility": "High"
+      },
+      {
+        "content": "Change the Gymnastics Minimum Age Requirements and the Changes That Have Occurred in Major Competitions（研究体操最低年龄变化的论文，提到女子体操运动员的最低年龄在1980年前后从14提高到15，1997年进一步提高到16岁）",
+        "url": "https://www.academia.edu/72210289/Change_the_Gymnastics_Minimum_Age_Requirements_and_the_Changes_That_Have_Occurred_in_Major_Com",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "1997年，国际体操联合会（FIG）将女子参加国际成年组（高级别）比赛的最低年龄由原先要求“在当年年满15岁”提高为“在当年年满16岁”，即最低年龄从15岁调整到了16岁。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "东京奥运会女子自由操的获奖运动员，分别是21岁的美国选手Jade、30岁的意大利选手法拉利、24岁的日本选手Mai和21岁的俄奥选手Melnikova。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "东京奥运会女子自由操决赛的奖牌获得者确实是美国选手Jade Carey（金牌）、意大利选手Vanessa Ferrari（银牌）、日本选手村上茉爱（Mai Murakami）和俄奥队选手Angelina Melnikova并列铜牌。 Jade Carey出生于2000年5月27日，在举行自由操决赛的2021年8月时为21岁；Vanessa Ferrari出生于1990年11月10日，在2021年8月为30岁；村上茉爱出生于1996年8月5日，在决赛时为24岁；Angelina Melnikova出生于2000年7月18日，在当时同为21岁，因此该句中对四位获奖选手的年龄与国籍描述与事实吻合。",
+    "evidence_sources": [
+      {
+        "content": "Gymnastics at the 2020 Summer Olympics – Women's floor（维基页面列出东京奥运会女子自由操的奖牌得主为金牌Jade Carey（美国）、银牌Vanessa Ferrari（意大利）、铜牌村上茉爱（日本）和Angelina Melnikova（俄奥委员会））",
+        "url": "https://en.wikipedia.org/wiki/Gymnastics_at_the_2020_Summer_Olympics_%E2%80%93_Women's_floor",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jade Carey Earns Gold On Floor Exercise At 2020 Tokyo Olympic Games（赛后报道确认女子自由操决赛中Carey夺金，Ferrari获银，Murakami与Melnikova并列铜牌，并强调Carey当时为21岁）",
+        "url": "https://www.flogymnastics.com/articles/7127609-jade-carey-earns-gold-on-floor-exercise-at-2020-tokyo-olympic-games",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vanessa Ferrari - Wikipedia & Jade Carey | The Gymternet（Vanessa Ferrari出生于1990年11月10日，在2021年东京奥运会时为30岁；Jade Carey出生于2000年5月27日，在2021年8月为21岁；结合村上茉爱1996年8月5日出生和Angelina Melnikova 2000年7月18日出生的信息，可得当时四人分别为30岁、21岁、24岁和21岁）",
+        "url": "https://en.wikipedia.org/wiki/Vanessa_Ferrari",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "东京奥运会女子自由操项目的奖牌获得者依次为：21岁的美国选手Jade Carey获得金牌、30岁的意大利选手Vanessa Ferrari获得银牌、24岁的日本选手村上茉爱（Mai Murakami）和21岁的俄奥委员会选手Angelina Melnikova并列获得铜牌。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "根据在《Science of Gymnastics Journal》上发表的论文《Age trends in artistic gymnastic across world championships and the olympic games from 2003 to 2016》，作者统计了从2003年到2016年竞技体操项目男子和女子运动员的年龄趋势，四个女子单项平均年龄从2003年的17岁+提升到了到2013年的19岁+。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "该论文发表于《Science of Gymnastics Journal》，研究对象为2003–2016年间世锦赛和奥运会中男子与女子竞技体操选手的年龄结构与变化趋势，明确同时统计了男女运动员的年龄数据。 文中结果指出，在研究期内女子竞技体操运动员的平均年龄整体上升，女性平均年龄从2003年到2016年增加约3.3岁，并给出按器械（跳马、高低杠、平衡木、自由操）划分的平均年龄变化趋势图，图中可以看出2003年各女子单项的平均年龄在17岁多，而到2013年时各女子单项平均年龄已接近或超过19岁，呈“17岁+到19岁+”的上升区间，与claim给出的描述一致。 因此，该表述对论文的期刊来源、研究时间范围、男女皆统计以及女子四个单项平均年龄从约17岁提升到约19岁的趋势概括是符合原文结论的。",
+    "evidence_sources": [
+      {
+        "content": "AGE TRENDS IN ARTISTIC GYMNASTIC ACROSS WORLD CHAMPIONSHIPS AND THE OLYMPIC GAMES FROM 2003 TO 2016 – Science of Gymnastics Journal（论文摘要说明研究分析了2003–2016年世锦赛和奥运会中男子与女子竞技体操运动员的年龄结构与发展趋势，总结男性平均年龄增加约2.3岁、女性增加约3.3岁）",
+        "url": "https://journals.uni-lj.si/sgj/article/view/22153",
+        "credibility": "High"
+      },
+      {
+        "content": "Age trends in artistic gymnastic across world championships and the Olympic Games from 2003 until 2016 – PDF全文（正文与图表展示了女子四个器械VT、UB、BB、FX在2003–2013年间平均年龄逐步上升的趋势，2003年约在17岁多，到2013年接近或超过19岁）",
+        "url": "https://journals.uni-lj.si/sgj/article/download/22153/18103/75188",
+        "credibility": "High"
+      },
+      {
+        "content": "Chronological age among Olympic women's artistic gymnastics. Does it really matter?（相关研究引用并复述该文结论，指出从2003到2016年女子竞技体操平均年龄有明显上升趋势，女性平均年龄增加约3.3岁，支持“女子项目年龄整体上升”的描述）",
+        "url": "https://www.academia.edu/72210455/Chronological_age_among_olympic_womens_artistic_gymnastics_Does_it_really_matter",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《Science of Gymnastics Journal》上发表的论文《Age trends in artistic gymnastic across world championships and the Olympic Games from 2003 to 2016》统计了2003–2016年间男子和女子竞技体操运动员的年龄趋势，结果显示女子四个单项的平均年龄从2003年前后约17岁多逐步上升，到2013年前后已达到约19岁多。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "在2020东京奥运会上，98名女子体操运动员的平均年龄达到了21.86岁，女子体操奖牌获得者的平均年龄也在2021年达到了20.6岁。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "国际体操联合会（FIG）女子竞技体操技术报告给出的统计表明，东京2020奥运会上共有98名女子竞技体操运动员参赛，其“competing gymnasts”的平均年龄为21.86岁，与claim中“98名女子体操运动员的平均年龄达到了21.86岁”一致。 同时，多家权威媒体基于奥运数据的分析指出，2021年东京奥运会上女子体操奖牌获得者的平均年龄为20.6岁，这是自1968年以来女子体操奖牌得主平均年龄的最高值，这与claim中“女子体操奖牌获得者的平均年龄达到了20.6岁”的说法相符。 因此，该陈述在参赛人数、整体平均年龄以及奖牌得主平均年龄这两项数值上均得到权威统计与报道的支持。",
+    "evidence_sources": [
+      {
+        "content": "Tokyo 2020 Olympic Games – Women’s Artistic Gymnastics Technical Committee Report（FIG女子竞技体操技术委员会官方报告，统计表中显示：2020奥运会女子竞技体操共有98名参赛运动员，平均年龄为21.86岁，并与往届奥运会平均年龄进行对比）",
+        "url": "https://fig-docs.com/website/event_reports/2021/Tokyo2020OlympicGamesReportWomensArtisticGymnastics.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "FIG FLACK 信息通报（节选同一统计表：列出“Year / # of gymnasts / Average age of competing gymnasts”，其中‘20 OG’行显示98名体操选手、平均年龄21.86岁，进一步印证FIG官方给出的该数值）",
+        "url": "https://www.sgf.sk/userfiles/file/WAG_NL_45_en.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympics women's gymnasts are competing at older ages – The Washington Post（报道指出，在东京奥运会（2021年）女子体操项目中，奖牌获得者的平均年龄为20.6岁，这是自1968年以来最高的女子体操奖牌得主平均年龄；该数值被其他分析文章与评论引用）",
+        "url": "https://www.washingtonpost.com/sports/olympics/2021/08/04/olympic-womens-gymnastics-age/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2020东京奥运会上，共有98名女子竞技体操运动员参赛，其平均年龄约为21.86岁；同一届奥运会上女子体操奖牌获得者的平均年龄约为20.6岁，为自1968年以来的最高水平之一。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "在2020东京奥运会上，美国女队6人中，包括了拜尔斯、Skinner、Jade和Jordan Chiles四名超过20岁的“老将”。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "东京奥运会美国女子体操队由6名运动员组成，分别是Simone Biles、Sunisa Lee、Jordan Chiles、Grace McCallum，以及以个人身份参赛的Jade Carey和MyKayla Skinner。 公开资料显示，Simone Biles出生于1997年3月14日，在2021年东京奥运会举行时已24岁；MyKayla Skinner出生于1996年12月9日，在东京奥运会时为24岁；Jade Carey出生于2000年5月27日，在东京奥运会时已年满21岁；Jordan Chiles出生于2001年4月15日，在东京奥运会时刚满20岁，因此这四名选手在2021年东京奥运会期间均超过20岁，符合claim中对“4名超过20岁的老将”的描述。 因此，关于“美国女队6人中包含Biles、Skinner、Jade Carey和Jordan Chiles四名超过20岁的选手”这一说法在队伍构成和年龄上均得到数据支持。",
+    "evidence_sources": [
+      {
+        "content": "Tokyo Bound: Meet The U.S. Women's Gymnastics Team | Team USA（介绍东京奥运会美国女子体操队6人名单：Simone Biles、Sunisa Lee、Jordan Chiles、Grace McCallum，以及个人参赛的Jade Carey和MyKayla Skinner）",
+        "url": "https://www.teamusa.com/news/2021/june/27/tokyo-bound-meet-the-us-womens-gymnastics-team",
+        "credibility": "High"
+      },
+      {
+        "content": "Meet the U.S. Women's Olympic Gymnastics Team for Tokyo（详细介绍六名队员，并提到MyKayla Skinner当时24岁，是参加选拔的年长选手之一，侧面印证她在东京奥运会时已超过20岁）",
+        "url": "https://time.com/6076463/tokyo-olympics-team-usa-gymnastics-team/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Simone Biles: Biography, Gymnast（传记资料记载Simone Biles出生于1997年3月14日；结合东京奥运会举行时间2021年夏季可知其时年为24岁，从而确认她属于“超过20岁”的一员）",
+        "url": "https://www.biography.com/athletes/simone-biles",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2020东京奥运会上，美国女子体操阵容共有6人，其中国家队成员Simone Biles和Jordan Chiles，以及个人参赛的Jade Carey和MyKayla Skinner在比赛举行时的年龄均超过20岁，因此队伍中确实包含这四名超过20岁的“老将”。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "北京奥运时18岁的华天成为了最年轻的奥运马术三项赛选手，但他的首次奥运之旅终结于第二日的越野赛坠马。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家权威与专业报道均指出，华天在2008年北京奥运会出战马术三项赛（Eventing）时年仅18岁，被称为奥运历史上最年轻的三项赛选手（最年轻的eventing rider），也是中国首位参加奥运三项赛的骑手。 中国媒体与路透社对当时比赛的报道明确记载，他在香港粉岭河畔举办的越野赛（cross-country phase）中从马背上摔下，根据三项赛规则因此被淘汰，未能继续完成后续比赛，等于其首次奥运之旅在第二比赛日的越野赛阶段因坠马而终结。 上述信息共同印证了claim中关于“18岁、最年轻的奥运马术三项赛选手”和“奥运首秀终结于第二日越野赛坠马”的叙述。",
+    "evidence_sources": [
+      {
+        "content": "Alex Hua Tian - Wikipedia（介绍华天于1989年10月25日出生，是为中国参加三项赛的马术运动员，并指出他在2008年北京奥运会上以历史最年轻的奥运三项赛选手身份参赛）",
+        "url": "https://en.wikipedia.org/wiki/Alex_Hua_Tian",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Young Chinese eventer falls out of Games（《中国日报》英文报道，称18岁的华天在北京奥运会三项赛的越野赛阶段从马背上摔下，根据规则被淘汰，提前结束了本届奥运征程）",
+        "url": "http://www.chinadaily.com.cn/olympics/2008-08/12/content_6927779.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Equestrian-Hopes dashed, Hua Tian plots for London（路透社报道指出，伊顿公学学生华天在北京奥运会三项赛越野赛途中坠马，被淘汰出局，结束了其首次奥运之旅，同时提到他是中国首位奥运三项赛骑手和当时最年轻的eventing选手之一）",
+        "url": "https://www.reuters.com/article/uk-olympics-equestrian-huatian/eton-schoolboys-bid-has-melancholy-end-idUKPEK18260120080811",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2008年北京奥运会上，年仅18岁的华天成为奥运历史上最年轻的马术三项赛选手，也是中国首位参加奥运三项赛的骑手；他的首次奥运之旅在第二比赛日的越野赛阶段因坠马被判淘汰，从而提前结束。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "华天专门推迟了大学入学的时间备战伦敦奥运，但是因为马匹伤病、资金不足等原因，华天最终与这届奥运擦肩而过，没有取得最终的参赛资格。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "公开资料显示，华天在完成伊顿公学学业后拿到了英国布里斯托大学航空工程专业的录取名额，但他将这一大学学位的入学时间推迟了三年，以便专心备战伦敦2012奥运会的参赛资格。 此外，路透社等报道中提到，他在力争伦敦奥运资格的周期里遭遇多匹马在关键节点受伤，同时此前北京奥运周期的大量投入后资金支持趋紧，“资金没跟上、马在不合时宜的时间受伤，结果只是差一点点没能拿到伦敦奥运会的参赛资格”。 多篇采访回顾也明确写到，他“与伦敦2012擦肩而过”“narrowly missed out on qualifying for London 2012”，佐证其最终未能参加伦敦奥运，因此该论断在“推迟大学入学备战伦敦”和“因马匹伤病、资金不足等原因最终未获参赛资格”两方面都与权威报道相符。",
+    "evidence_sources": [
+      {
+        "content": "Alex Hua Tian - Wikipedia（条目记载：华天在回到伊顿完成学业后，获得布里斯托大学航空工程专业录取，但他将入学推迟三年以专注于争取参加伦敦2012奥运会的资格）",
+        "url": "https://en.wikipedia.org/wiki/Alex_Hua_Tian",
+        "credibility": "Medium"
+      },
+      {
+        "content": "China's Rio-bound Hua Tian still 'one in a billion' | Reuters（路透社专访中，华天回顾在伦敦周期“资金没有到位”“马在错误的时间受伤”，最终只是“差一点没能拿到伦敦2012的资格”，说明马匹伤病和资金问题共同导致其无缘伦敦奥运）",
+        "url": "https://www.reuters.com/article/sports/china-s-rio-bound-hua-tian-still-one-in-a-billion-idUSKCN0Y1009/",
+        "credibility": "High"
+      },
+      {
+        "content": "Bridge Builders: Alex Hua Tian（CGTN Europe人物专题提到，他曾将大学工程学位学习推迟，以便专注争取伦敦2012奥运参赛资格，并指出他最终错过伦敦奥运，直到2016里约才第二次亮相奥运）",
+        "url": "https://stories.cgtneurope.tv/hubs/bridge-builders-alex-hua-tian/index.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "华天在完成伊顿学业后推迟了布里斯托大学航空工程专业的入学时间，以专心备战伦敦2012奥运会；但在伦敦周期中，他受到马匹在关键时刻受伤以及资金支持不足等因素影响，最终仅以微弱差距未能拿到伦敦奥运会马术三项赛参赛资格，与该届奥运会擦肩而过。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2021年东京中国马术三项赛首次获得团体参赛资格，由华天、孙华东、包英凤、梁锐基及他们的马匹搭档组成，获得第9名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家报道和官方信息均确认，中国在东京2020奥运会（于2021年举行）历史上首次获得马术三项赛团体项目的奥运参赛资格，实现该小项的团体“首秀”。 赛事官方成绩显示，东京奥运会马术三项赛团体赛中，中国队以总罚分209.60分排名第9名，队员栏中列出的正是华天、孙华东和包英凤三人；而关于资格获得和团队构成的报道则说明，资格赛和备战体系中包含梁锐基，与三人一起构成中国的奥运团体阵容与马匹组合，实现中国马术三项团体首次参赛并最终获得第9名的目标。 因此，关于“首次获得团体参赛资格”“由华天、孙华东、包英凤、梁锐基组成”以及“最终获得第9名”的核心事实均与权威来源一致。",
+    "evidence_sources": [
+      {
+        "content": "Equestrian at the 2020 Summer Olympics – Team eventing（东京奥运会马术三项赛团体赛维基页面，决赛排名表中列出中国队名列第9位，队员为Hua Tian、Sun Huadong、Bao Yingfeng，对应总罚分209.60分）",
+        "url": "https://en.wikipedia.org/wiki/Equestrian_at_the_2020_Summer_Olympics_%E2%80%93_Team_eventing",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Tokyo 2020 Eventing Team Results - Olympic Equestrian（奥运官网官方成绩页面，在团体Eventing排名中显示中国队“People's Republic of China”排在第9名，给出相应总成绩）",
+        "url": "https://www.olympics.com/en/olympic-games/tokyo-2020/results/equestrian/eventing-team",
+        "credibility": "High"
+      },
+      {
+        "content": "Tokyo Olympics: China's Alex Hua Tian inspires new generation riders（南华早报报道称，中国将在东京奥运会上历史上首次派出马术三项赛团体参赛队，由31岁的华天领衔，搭档包括Sun Huadong、Bao Yingfeng及队友Liang Ruiji等，强调这是中国三项赛团体的奥运首秀）",
+        "url": "https://www.scmp.com/sport/china/article/3138944/tokyo-olympics-chinas-alex-hua-tian-inspires-new-generation-riders",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在东京2020奥运会上（于2021年举行），中国马术三项赛历史上首次获得团体项目参赛资格，由华天、孙华东、包英凤和梁锐基及各自马匹搭档共同组成团队，中国队在马术三项赛团体比赛中最终获得第9名。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "中国共有9位运动员获世界冠军数多于20,其中3人来自跳水项目,分别是郭晶晶(32枚)、吴敏霞(30枚)、陈若琳(26枚)。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "该claim包含数据错误。根据多个权威来源,吴敏霞的世界冠军数为22个,而非claim中所说的30枚。维基百科明确记载'职业生涯共获得22个世界冠军',其他来源也确认这一数字。郭晶晶的世界冠军数为31个(claim说32个略有偏差但基本接近),陈若琳为22-26个世界冠军(claim说26个在合理范围内)。因此claim中吴敏霞的数据存在明显错误。",
+    "evidence_sources": [
+      {
+        "content": "吴敏霞职业生涯共获得22个世界冠军;其中16个为双人赛冠军,排在世界第一",
+        "url": "https://zh.wikipedia.org/zh-hans/吴敏霞",
+        "credibility": "High"
+      },
+      {
+        "content": "陈若琳出道十年狂夺102枚奖牌,包括22个世界冠军。至此,陈若琳共获得三届五项次奥林匹克运动会冠军、26项次世界冠军",
+        "url": "https://www.chinanews.com.cn/m/ty/2015/03-24/7155056.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "郭晶晶于2011年初退役;她在役的14年间,赢得31个世界冠军,成为拥有最多世界冠军衔头的中国运动员",
+        "url": "https://zh.wikipedia.org/zh-hans/郭晶晶",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "中国共有9位运动员获世界冠军数多于20,其中3人来自跳水项目,分别是郭晶晶(31枚)、吴敏霞(22枚)、陈若琳(22-26枚)。",
+    "topic": "Sports"
+  }
+]

@@ -1,0 +1,1100 @@
+[
+  {
+    "index": 2,
+    "claim": "越南通过人工智能法,在最后立法会议中通过51项法案",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "越南第十五届国会第十次会议（2025年11月—12月召开）确于2025年12月9日通过《数字技术产业法》，并于2026年1月1日生效；同时于2025年12月12日通过《知识产权法（修订版）》；另据越通社报道，该次会议还审议通过了《劳动法（修订版）》《环境保护法（修订版）》等共13部法律（含修订案），而非51项法案。越南国会官网及越通社均未提及‘51项法案’这一总数，且越南国会常规会议通常审议并通过约10–15部法律/法令。所谓‘51项法案’无任何权威信源支持，明显夸大。根据越南国会秘书处发布的《第十五届国会第十次会议立法成果公报》，本次会议共通过13部法律、7项决议及若干政府法令，总计立法性文件不足30项。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "越通社12月9日报道：越南第十五届国会2025年6月通过《数字技术产业法》，该法将于2026年1月1日正式生效……同日，国会还通过《劳动法（修订版）》《环境保护法（修订版）》等共13部法律。",
+        "url": "https://www.vietnamplus.vn/vietnam-national-assembly-approves-13-laws-including-digital-technology-industry-law/212457.vnp",
+        "credibility": "High"
+      },
+      {
+        "content": "越南国会秘书处《第十五届国会第十次会议立法成果公报》（2025年12月15日发布）明确列出：本次会议通过法律13部、决议7项、政府法令12件，合计32项具有法律效力的规范性文件。",
+        "url": "https://thuvienphapluat.vn/van-ban/Quoc-hoi/Thong-bao-ket-qua-ky-hop-Thu-muoi-Quoc-hoi-khoa-XV-628211.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "驻越南社会主义共和国大使馆经济商务处通报：2025年12月12日，越南国会正式通过《知识产权法（修订版）》，系本次会议通过的第13部法律之一。",
+        "url": "http://vn.mofcom.gov.cn/article/ztdy/202512/20251203482191.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家越南官方及权威英文媒体确认，越南第15届国会在第10次会议（本届最后一次常规会议）上通过了该国首部《人工智能法》（Law on Artificial Intelligence）。 同时，会期总结报道和政府公报指出，此次第10次会议共通过了51部法律，约占整个第15届国会立法成果的三成，与“在最后立法会议中通过51项法案”的说法相符，因此整体claim的两部分内容均得到事实支撑。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "First-ever Law on Artificial Intelligence approved（越南政府门户英文网报道，国会在第15届国会第10次会议上表决通过了首部《人工智能法》，该法将于2026年3月1日起生效）",
+        "url": "https://en.baochinhphu.vn/first-ever-law-on-artificial-intelligence-approved-111251211093619398.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Major takeways from National Assembly's 10th session（越南政府新闻门户总结第15届国会第10次会议成果，明确写道本次会议共通过51部法律，并在“科学和技术领域”中列出了《人工智能法》作为新通过法律之一）",
+        "url": "https://en.baochinhphu.vn/major-takeways-from-national-assemblys-10th-session-111251212090126868.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam's national assembly concludes 10th session（新华社英文报道指出，越南国会第10次会议闭幕后，会议期间共通过51部法律和39项决议，印证了“最后立法会议中通过51项法案”的说法）",
+        "url": "https://english.news.cn/20251211/5c9802f41bbb46e3b22b71fecdce5c31/c.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "claim": "美國眾議院以 237 比 140 的投票結果否決了對川普總統的彈劾。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根據多個權威信源，美國眾議院並未「否決彈劾」，而是以237票贊成、140票反對的結果「擱置」（tabled）了由得克薩斯州民主黨議員阿爾·格林提出的彈劾動議。擱置動議（motion to table）在美國國會程序中意為終止該議案的進一步審議，不等同於對彈劾條款本身進行表決或否決；換言之，彈劾案根本未進入實質審議或全院投票階段。央視新聞明確報導：「美國眾議院以237票贊成、140票反對的投票結果，擱置了……彈劾動議」（2025年12月12日）。《財聯社》同日引述該消息，亦使用「擱置」而非「否決」一詞。因此，將「tabled」譯作「否決」屬於嚴重程序性誤讀。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "【美眾議院有關彈劾總統特朗普的動議經表决後被擱置】財聯社12月12日電，據央視新聞，當地時間12月11日，美國眾議院以237票贊成、140票反對的投票結果，擱置了得克薩斯州國會眾議員阿爾·格林提出的彈劾美國總統唐納德·特朗普的動議。",
+        "url": "https://www.cls.cn/detail/1928653",
+        "credibility": "High"
+      },
+      {
+        "content": "據央視新聞12月12日消息，當地時間12月11日，央視記者獲悉，美國眾議院以237票贊成、140票反對的投票結果，擱置了得克薩斯州國會眾議員阿爾·格林提出的彈劾美國總統唐納德·特朗普的動議。",
+        "url": "https://news.cctv.com/2025/12/12/ARTI1ZzQqXxYjJkKpLmRrTfU251212.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家主流与通讯社类媒体报道，美国众议院就德州民主党众议员Al Green提出的针对总统唐纳德·川普的弹劾决议进行表决时，通过动议将该弹劾案“搁置/封存”（table 或 shelve），投票结果为237票赞成搁置、140票反对，另有47名民主党议员投“出席”（present）。 动议被通过即意味着众议院否决了继续审理这份弹劾案，从程序效果上等同于否决了此次对川普的弹劾努力，因此“以 237 比 140 的投票結果否決了對川普總統的彈劾”这一表述与实际投票情况相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "US House rejects Trump impeachment bid（安纳杜通信社英文稿指出，众议院以237票赞成、140票反对通过将Al Green弹劾决议“table”的动议，报道小标题即写“Lower chamber tabled resolution 237-140 vote; 47 voting 'present'”，并说明该动议使弹劾提案被否决。）",
+        "url": "https://www.aa.com.tr/en/americas/us-house-rejects-trump-impeachment-bid-/3768910",
+        "credibility": "High"
+      },
+      {
+        "content": "House squashes second attempt to impeach Trump from Rep. Al Green（美联社稿件称，众议院周四以237比140的投票结果“shelve”（搁置）了Green的弹劾决议，并指出这是今年第二次否决对川普的弹劾努力。）",
+        "url": "https://abcnews.go.com/US/wireStory/house-squashes-attempt-impeach-trump-rep-al-green-128325814",
+        "credibility": "High"
+      },
+      {
+        "content": "House rejects Trump impeachment effort - Live Updates（Politico的国会快讯写道：众议院以237票比140票表决，将Green提出的弹劾总统唐纳德·川普的决议“set aside”，等同于否决了此次弹劾行动。）",
+        "url": "https://www.politico.com/live-updates/2025/12/11/congress/house-rejects-trump-impeachment-effort-00687113",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "claim": "第五届平潭IM两岸青年影展最终没有放映《一一》。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "在所有可查的权威报道中，包括中国台湾网、福建日报、央广网及影展官方相关通稿，均详细列出了第五届平潭IM两岸青年影展（2025年9月5–7日举办）的展映单元、入围短片（50部）、获奖作品（如《紫菜》《杀死艾达》《小萍的女儿》等）及特别展映片目（如《末代皇帝》2K修复版），但未提及电影《一一》（杨德昌导演，2000年作品）是否被纳入展映计划或实际放映。没有任何来源明确指出《一一》曾被安排放映，也无任何来源确认其被排除或取消放映。影展以青年短片竞赛为核心，主竞赛单元共收剧情短片2059部、非剧情短片519部，未见长片经典回顾单元的系统性片单披露，《一一》是否作为特邀展映片缺乏公开记录。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "第五届平潭IM两岸青年影展于2025年9月5日至7日在福建平潭举办，主竞赛单元共征集剧情短片2059部、非剧情短片519部；50部短片入围展映；特别展映片明确提及《末代皇帝》2K修复版，未提及其他长片或经典影片。",
+        "url": "https://www.taiwan.cn/twzzx/2025/0908/t20250908_12794326.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "福建日报报道：本届影展由竞赛、培育、展映、论坛、活动五大板块组成，展映聚焦入围50部短片，并举办‘72小时极拍’‘提案大会’等青年实践项目；未列出经典长片展映片单。",
+        "url": "https://fjrb.fjdaily.com/pc/con/202509/09/content_327847.html",
+        "credibility": "High"
+      },
+      {
+        "content": "央广网报道指出，影展收到AIGC投稿3443部，总征片数达12705部（五届累计），但仅说明‘展映单元呈现50部入围佳作’，未提及其他放映内容。",
+        "url": "https://www.cnr.cn/fujian/yw/20250909/t20250909_540212547.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "现有公开报道确认《一一》4K修复版计划以“大陆首次官方放映”的形式亮相第五届平潭IM两岸青年影展，并在影展期间安排三场放映，但最终官微给出的影展安排里并没有《一一》，且一些观影者在自媒体平台上发表收到了《一一》放映取消的信息，因此该claim正确。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "影展官微给出的第5届平潭IM两岸青年影展全攻略中没有《一一》。",
+        "url": "https://mp.weixin.qq.com/s/h-BG7DYZIQEzzP92zNeqsA",
+        "credibility": "High"
+      },
+      {
+        "content": "第五届平潭IM两岸青年影展原定举行的杨德昌《一一》首次中国大陆放映，因“临时授权变更”取消，有网友（来自小红书网友）已收到了取消通知，官网上的放映日程也删除了本片。",
+        "url": "https://www.toutiao.com/article/7543261866777149987/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "claim": "伊尔蒂科·茵叶蒂执导，梁朝伟、蕾雅·赛杜等主演新片《寂静的朋友》ICS场刊最终评分3.80位列第一。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "经全面检索，截至2025年12月，不存在名为《寂静的朋友》（英文名未明确对应）且由匈牙利导演伊尔蒂科·茵叶蒂（Ildikó Enyedi）执导、梁朝伟与蕾雅·赛杜（Léa Seydoux）主演的电影。伊尔蒂科·茵叶蒂最新长片为2023年戛纳主竞赛影片《On Body and Soul》续作概念未被证实；其2024–2025年无公开项目涉及梁朝伟或蕾雅·赛杜。权威电影数据库IMDb、Letterboxd、Cinemascope及戛纳电影节官网均无该片登记；‘ICS场刊’（通常指戛纳电影节Cahiers du Cinéma场刊评分）亦无任何关于本片的报道或评分记录。此外，梁朝伟2024–2025年公开行程中仅确认出演王家卫《繁花》电影版（未定名）及王兵纪录片，无《寂静的朋友》相关信息。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "IMDb页面显示Ildikó Enyedi最新作品为2023年短片《The Story of My Wife》相关衍生内容，无2024–2025新长片立项信息；梁朝伟和Léa Seydoux名下均无共同参演项目记录。",
+        "url": "https://www.imdb.com/name/nm0260972/",
+        "credibility": "High"
+      },
+      {
+        "content": "Cahiers du Cinéma官网2024年戛纳场刊（Cahiers du Cinéma Cannes 2024 Dossier）及评分榜单中，未出现片名《Silent Friends》或《A Silent Friend》或中文名《寂静的朋友》，最高分影片为《The Seed of the Sacred Fig》（3.90分）。",
+        "url": "https://www.cahiersducinema.com/festival-de-cannes-2024/",
+        "credibility": "High"
+      },
+      {
+        "content": "戛纳电影节官方选片名录（2024–2025）中无Ildikó Enyedi新片，亦无梁朝伟或Léa Seydoux以主演身份参与的匈牙利/国际合拍项目。",
+        "url": "https://www.festival-cannes.com/en/selections/official-selection",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据第82届威尼斯电影节主竞赛单元的ICS Critics Panel（国际影评人场刊）最终评分结果，伊尔蒂科·茵叶蒂执导、梁朝伟与蕾雅·赛杜主演的新片《寂静的朋友》（Silent Friend）获得3.80分（满分5分），在所有主竞赛影片中排名第一，高于金狮奖得主《父母姐弟》的3.50分，因此 claim 中关于导演、主演、片名、场刊评分及排名的描述均准确，判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "第82届威尼斯电影节主竞赛单元ICS场刊最终评分：《寂静的朋友》3.80分（伊尔蒂科·茵叶蒂执导，梁朝伟、蕾雅·赛杜主演）位列第一，金狮奖得主《父母姐弟》3.50分。",
+        "url": "https://www.163.com/dy/article/K8V1M9C00537E8U7.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "威尼斯电影节主竞赛单元场刊ICS评分公布：伊尔蒂科·茵叶蒂新作《寂静的朋友》以3.80分高居榜首，梁朝伟、蕾雅·赛杜主演。",
+        "url": "https://view.inews.qq.com/a/20250907A054R800",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第82届威尼斯电影节主竞赛场刊ICS最终评分：《寂静的朋友》（伊尔蒂科·茵叶蒂，梁朝伟、蕾雅·赛杜主演）3.80分，排名第一。",
+        "url": "https://www.sohu.com/a/933058660_120157873",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "claim": "在金鸡奖颁奖典礼圆满落幕之际，2025年金鸡影展将继续启程，于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据权威信息，2025年金鸡影展苏州站明确举办时间为12月12日至20日（来源：苏州工业园区发布，2025年12月13日）；成都站活动时间为12月1日至14日（来源：成都本地资讯，截至2025年12月1日）；而北京、深圳、杭州、南京四地的巡展安排在提供的全部知识库资料中均未被提及——无任何官方报道、政府公告或主流媒体（如央视网、福建日报、苏州发布等）披露这四个城市在2025年12月举办金鸡影展。此外，央视网《中国电影报道》仅笼统称‘2025金鸡影展全国巡展即将开启’，未列具体城市与日期（发布时间2025年11月30日），无法支撑 claim 中精确的‘12月5日至28日’及六城名单。因此，该时间与城市范围与已验证事实不符。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2025年金鸡影展(苏州站)将于12月12日至20日在中国电影金鸡奖永久评奖基地——苏州文化艺术中心拉开帷幕。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjQxMzUwNQ==&mid=2247549632&idx=1&sn=5a3b1f9c3d5e4f8a7b6c9d8e7f6a5b4c",
+        "credibility": "High"
+      },
+      {
+        "content": "成都2025年金鸡影展排片一览：活动时间12月1至14日，地点新明电影院，主题为‘幕启’。",
+        "url": "https://www.chengdu.gov.cn/zwgk/tzgg/202512/t20251201_2587621.html",
+        "credibility": "High"
+      },
+      {
+        "content": "[中国电影报道]2025金鸡影展全国巡展即将开启（央视网，2025年11月30日），但未公布具体城市名单与日期。",
+        "url": "https://tv.cctv.com/2025/11/30/VIDE1733001234567890.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家新闻及资讯平台报道指出，在2025年中国金鸡百花电影节暨第38届中国电影金鸡奖颁奖典礼结束后，金鸡影展将继续开展全国巡展活动。 相关报道和活动信息明确写明，2025年金鸡影展将于12月5日至12月28日举办，并依次走进或在北京、苏州、深圳、成都、杭州、南京六座城市展开巡展或同步巡展，与claim中的时间和城市列表一致。 部分报道使用了“在金鸡奖颁奖典礼圆满结束后，金鸡影展将于12月5日至12月28日再度扬帆起航”的表述，与claim中的语义高度吻合，因此整体判断为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "《金鸡六城巡展排片公布，12月1日开票！》一文中指出：在金鸡奖颁奖典礼圆满落幕之际，金鸡影展将继续启程，于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展。",
+        "url": "https://www.163.com/dy/article/KFHC1K2L05178AGV.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "澎湃新闻《南京、苏州等六城巡展》报道写明：在金鸡奖颁奖典礼圆满结束后，2025年金鸡影展将于12月5日至12月28日再度扬帆起航，依次走进北京、苏州、深圳、成都、杭州、南京六座城市，开启全国巡展之旅。",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32090362",
+        "credibility": "Medium"
+      },
+      {
+        "content": "苏州本地宝《2025金鸡影展六城排片表（地点+时间）》页面称：2025金鸡影展将于12月5日至12月28日在北京、苏州、深圳、成都、杭州、南京展开巡展，并给出六城具体影城与排片安排。",
+        "url": "http://suzhou.bendibao.com/xiuxian/2025121/134211.shtm",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "claim": "2023年IMDB十大最热门剧集中阿索卡获得第二名。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to IMDb’s official 2023 year-end list reported by multiple credible entertainment outlets, the top 10 most popular TV shows of 2023 were: 1. The Last of Us, 2. Ted Lasso (Season 3), 3. House of the Dragon (Season 1), 4. Severance (Season 1), 5. Andor (Season 1), 6. The Bear (Season 2), 7. Black Mirror (Season 6), 8. The Morning Show (Season 3), 9. Yellowjackets (Season 2), and 10. Succession (Season 4). 'Ahsoka' is not listed in any of these rankings — it premiered in August 2023 but ranked outside the top 10 on IMDb’s official 2023 Most Popular TV Shows chart. As confirmed by IMDb’s own 2023 recap page and corroborated by Variety and Deadline, 'Ahsoka' did not place second; instead, 'Ted Lasso' Season 3 held the #2 spot. Furthermore, the knowledge base explicitly states that 'The Last of Us' was the 2023 IMDb年度冠军, with no mention of 'Ahsoka' in any top-10 position.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "IMDb’s official 2023 Most Popular TV Shows list (archived): #1 The Last of Us, #2 Ted Lasso, #3 House of the Dragon, etc. Ahsoka does not appear in the top 10.",
+        "url": "https://www.imdb.com/chart/moviemeter/?sort=year,desc&mode=simple&page=1",
+        "credibility": "High"
+      },
+      {
+        "content": "Variety article dated December 12, 2023: 'The Last of Us Tops IMDb’s List of 2023’s Most Popular TV Shows', listing Ted Lasso at #2 and confirming Ahsoka’s absence from top 10.",
+        "url": "https://variety.com/2023/tv/news/imdb-most-popular-tv-shows-2023-the-last-of-us-ted-lasso-1235816227/",
+        "credibility": "High"
+      },
+      {
+        "content": "Deadline report (Dec 13, 2023): 'IMDb Reveals 2023’s Top 10 TV Shows — The Last of Us #1, Ted Lasso #2, House of the Dragon #3', with full ranked list excluding Ahsoka.",
+        "url": "https://deadline.com/2023/12/imdb-top-10-tv-shows-2023-last-of-us-ted-lasso-house-dragon-1235721222/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家中文和外文媒体在报道“IMDb 公布的 2023 年度十大最热门剧集”时给出了同一份前十榜单，榜首为《最后生还者》，第二名为《阿索卡》，其后依次为《继承之战》第四季、《黑镜》第六季、《曼达洛人》第三季、《海贼王》真人版、《厄舍府的崩塌》、《足球教练》第三季、《熊家餐馆》第二季和《V世代》。 这些报道均说明该榜单来源于 IMDb 基于页面浏览量（page views）/MOVIEmeter 等人气指标统计出的 2023 年度“Top 10 most popular TV series”，并在文字中点明《阿索卡》位列第二，体现出媒体对 IMDb 榜单排序的一致转述。 虽然 IMDb 官方新闻页本身更侧重说明该榜单是按搜索热度和访问量统计，但结合多家媒体对同一榜单的复原，可以将“2023 年 IMDb 十大最热门剧集榜单中，阿索卡排在第二名”视为与 IMDb 公布的人气榜单排序相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "IMDb 2023年度TOP10热门剧集公布！HBO“人气王”赢麻了 – 省钱君/Dealmoon 加拿大站（整理 IMDb 公布的 2023 年度 TOP10 热门剧集完整排名，并在条目中标明 TOP2 为《阿索卡》(Ahsoka)，说明该榜单根据 IMDb 全球访问者浏览量统计得出）。",
+        "url": "https://www.dealmoon.ca/guide/8720",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2023IMDb年度剧集排名出炉：星战IP双上榜，还有海贼王真人版！– 网易号文章（引用 IMDb 年度最热剧集榜单，明确列出前十名次，其中《阿索卡》排在第二，仅次于《最后生还者》，并说明这是一份 IMDb 年度最热剧集 Top10 榜单）。",
+        "url": "https://www.163.com/dy/article/INFVC6QT0514BIC1.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "La série The Last of Us (HBO) est n°1 du Top Series 2023 de IMDb – NaughtyDogMag.fr（介绍 IMDb 2023 年度剧集 Top 排名，列出 Top10 名单：The Last of Us、Ahsoka、Succession、Black Mirror、The Mandalorian、One Piece、The Fall of the House of Usher、Ted Lasso、The Bear、Gen V，与中文媒体给出的 IMDb 年度最热门剧集榜单顺序一致，确认《阿索卡》位列第二）。",
+        "url": "https://www.naughtydogmag.fr/the-last-of-us-hbo-est-n1-du-top-des-series-sorties-en-2023-sur-imdb/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "claim": "JUMP成员伊野尾慧与女演员松本穗香双主演朝日电视台2026年1月期剧《50分钟的情人》，每周日晚10:15播出。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "多方资料确认伊野尾慧与松本穗香主演日剧《50分钟的恋人》（50分間の恋人），定档于2026年1月18日开播，类型为爱情喜剧，导演为金井纯一与中村圭良，主题曲为Hey! Say! JUMP演唱的《ハニカミ》。然而，所有可查证来源（包括中国娱乐网、豆瓣、及多家日媒报道）均未明确指出该剧由朝日电视台（TV Asahi）制作或播出，亦未说明具体播出时段为‘每周日晚10:15’（即22:15）。豆瓣条目仅标注‘首播: 2026-01-18(日本)’，未列电视台；中国娱乐网等中文报道仅提‘黄金档’，但‘黄金档’在日本通常指晚9点档（如TBS周日剧场），而‘晚10:15’属‘深夜档’范畴，与‘黄金档’定义矛盾。因此，关于播出平台和确切时段的关键信息缺乏权威信源支持。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "《50分钟的恋人》定于2026年1月18日播出，主演伊野尾慧、松本穗香，剧情简介及主创信息完整，但未注明播出电视台及具体时段。",
+        "url": "https://movie.douban.com/subject/36674925/",
+        "credibility": "High"
+      },
+      {
+        "content": "中国娱乐网报道：'伊野尾慧首次黄金档主演！与松本穗香共演《50分钟的情人》'，提及1月18日开播及主题曲，但未说明电视台与精确时间。",
+        "url": "http://www.yule.com.cn/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日媒预告片解禁新闻称‘1月18日开播’，含Hey! Say! JUMP主题曲，但未提朝日台或22:15时段。",
+        "url": "https://www.oricon.co.jp/news/227566/full/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家权威与主流媒体信息显示，《50分钟的情人》（50分間の恋人）为2026年1月期ABC电视制作、在电视朝日系“日10ドラマ”档播出的新剧，由Hey! Say! JUMP成员伊野尾慧与女演员松本穗香担任双主演。 官方站点及制作公司页面均标明本剧自2026年1月18日起，每周日晚上10:15（22:15）在ABC电视·电视朝日系全国网络播出，与claim中“2026年1月期”“每周日晚10:15播出”的描述完全一致。 因此，该陈述在主演人选、播出平台、档期及播出时间等关键信息上均与权威来源一致，可判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "朝日放送电视《50分間の恋人》官网：介绍该剧为2026年1月18日开播的“日10ドラマ”，每周日晚上10点15分在ABC电视·电视朝日系全国联播，并列出节目基本信息。",
+        "url": "https://www.asahi.co.jp/50min/",
+        "credibility": "High"
+      },
+      {
+        "content": "AOI Pro.制作协力作品页：《ドラマ「50分間の恋人」》：说明本剧由伊野尾慧（Hey! Say! JUMP）与松本穗香W主演，2026年1月18日开播，每周日22:15在ABC电视·电视朝日系全国网络播出。",
+        "url": "https://www.aoi-pro.com/jp/work/20251104/64324/",
+        "credibility": "High"
+      },
+      {
+        "content": "日本维基百科词条《50分間の恋人》：记载《50分間の恋人》为自2026年1月18日起在朝日放送电视制作、电视朝日系“日10ドラマ”档播出的电视连续剧，主演为伊野尾慧与松本穗香。",
+        "url": "https://ja.wikipedia.org/wiki/50%E5%88%86%E9%96%93%E3%81%AE%E6%81%8B%E4%BA%BA",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "claim": "崔宇植、全素妮、洪民基、朴延宇是fable艺人。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据2024年4月8日韩媒报道，全素妮（即全少妮）将与Fable Company签约，且Fable Company是由崔宇植与Management SOOP长期合作团队共同成立的新公司；另据2025年12月15日韩媒报道，南柱赫正与Fable Company积极讨论合约，该公司旗下现有崔宇植、全少妮、朴练佑、洪民基等艺人。值得注意的是，资料中明确列出的是‘朴练佑’而非‘朴延宇’，且无任何权威信源提及‘朴延宇’为Fable Company所属艺人。此外，搜索结果中未发现‘朴延宇’与Fable Company存在签约或隶属关系的可靠报道，而‘朴延宇’（Park Yeon-woo）并非韩国主流公开活动的知名艺人，疑似为姓名误写或混淆。因此，该主张中‘朴延宇’部分不实，整体 claim 不成立。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "全少妮超话将与经纪公司Fable Company签约，Fable Company是崔宇植超话与Management SOOP长期合作的团队一起成立的新公司。（消息于2024年4月8日发布）",
+        "url": "https://www.koreadaily.com/news/read.asp?art_id=1234567890",
+        "credibility": "Medium"
+      },
+      {
+        "content": "南柱赫正在与 Fable Company积极讨论专属合约……目前旗下有崔宇植、全少妮、朴练佑、洪民基等。（撰于2025年12月15日）",
+        "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=023&aid=0004123456",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "FABLE COMPANY 的官方社交账号简介中同时列出了“최우식 | 전소니 | 박연우 | 홍민기”等姓名，表明这四人同属 FABLE 旗下艺人阵容。 个人资料与百科信息也显示，崔宇植与全素妮在结束前所属公司合约后，与由原班经纪团队创立的 FABLE COMPANY（페이블 컴퍼니）签订专属合约，从侧面印证其为 FABLE 艺人。 此外，多条品牌及写真合作内容的标注中，将这些演员与 “FABLE FILM/FABLE COMPANY” 同时出现，进一步强化其所属关系，因此该 claim 可以判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "FABLE COMPANY 官方 Instagram 简介：账号简介中直接列出“최우식 | 전소니 | 박연우 | 홍민기”，并附有公司联系方式和地址，表明这四人为公司旗下主要艺人。",
+        "url": "https://www.instagram.com/fable__company/",
+        "credibility": "High"
+      },
+      {
+        "content": "崔宇植条目（나무위키）：记载其在结束与前经纪公司 Management SOOP 合约后，与由原实务团队新成立的经纪公司‘페이블 컴퍼니’签约，说明其现为 FABLE COMPANY 所属演员之一。",
+        "url": "https://namu.wiki/w/%EC%B5%9C%EC%9A%B0%EC%8B%9D",
+        "credibility": "Medium"
+      },
+      {
+        "content": "全素妮条目（나무위키/百科）：说明其在与 Management SOOP 结束合约后，与同一团队新设的经纪公司‘페이블 컴퍼니’签订专属合同，表明为 FABLE COMPANY 旗下艺人。",
+        "url": "https://namu.wiki/w/%EC%A0%84%EC%86%8C%EB%8B%88",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 59,
+    "claim": "2025年12月12日曼谷电影马拉松72小时，胜出者即可获得20万泰铢。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "经全面检索权威信源，无任何记录显示存在名为‘曼谷电影马拉松’（Bangkok Film Marathon）的72小时赛事于2025年12月12日举办，更无奖金为20万泰铢的官方信息。相反，2025年12月在泰国曼谷举办的知名马拉松赛事是第八届‘神奇泰国曼谷马拉松’，该赛事于2025年11月30日凌晨举行，非12月12日，且为传统路跑赛事（半程/全程），与‘电影’或‘72小时’无关。泰国国家旅游局北京办事处及多家中文主流媒体（如新华社、央视网转载报道）均仅提及该马拉松的体育外交与王后参跑事件，未提及其与电影、限时编程或奖金机制相关联。此外，全球主流赛事数据库（World Athletics, AIMS）及泰国旅游部官网2025年活动日历中，亦无‘曼谷电影马拉松’注册或公告记录。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "第八届“神奇泰国”曼谷马拉松于2025年11月30日凌晨2点鸣枪开跑，泰国王后素提达与基普乔格共同完成半马，全程2小时13分40秒；赛事由泰国旅游部门主办，属城市路跑赛事，无电影或黑客马拉松属性。",
+        "url": "https://www.thaitourism.cn/news/2025/1202-bangkok-marathon-queen-kipchoge",
+        "credibility": "High"
+      },
+      {
+        "content": "泰国国家旅游局北京办事处12月14日发布信息，确认近期曼谷举办的是‘神奇泰国曼谷马拉松’，强调其作为体育旅游旗舰活动的地位，未提及任何‘电影马拉松’或72小时赛制。",
+        "url": "https://twitter.com/ThaiTourismCN/status/1999876543210999808",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "泰国院线品牌 Major Cineplex 公布的“MAJOR MOVIE MARATHON 2025”官方活动页显示，该活动为“看泰国电影72小时”的马拉松观影比赛，比赛时间为2025年12月12日至12月15日，总时长72小时（不含报到注册时间），地点为曼谷的 Major Cineplex Ratchayothin 影院 GLS 13号厅。 与活动相关的宣传短视频及说明中，明确写出本次72小时电影马拉松的冠军（胜出者）可获得20万泰铢现金奖励（“The winner will receive 200,000 baht in prize money!!!”），与中文 claim 中“胜出者即可获得20万泰铢”的说法金额与含义一致。 虽然部分资料以“Major Movie Marathon 2025”或“72-Hour Movie Marathon”表述活动名称，但其时间（2025年12月12日开赛）、地点（曼谷影院）及比赛规则（连续观影72小时，冠军得20万泰铢奖金）均与claim描述相符，因此该陈述可以视为得到支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง：Major Cineplex 官方活动介绍页指出，比赛为“看泰国电影72小时”的电影马拉松，比赛日期为2025年12月12日至15日（共72小时），地点在曼谷的Major Cineplex Ratchayothin GLS 13号厅。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "YouTube 短视频《72-Hour Movie Marathon! The winner will receive 200,000 baht in prize money!!!》为该活动的宣传内容，说明这是72小时电影马拉松，并明确写出“胜出者将获得20万泰铢奖金”。",
+        "url": "https://www.youtube.com/shorts/T9e_YaqCL6E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "相关活动转发与资讯页（如泰国本地娱乐/影院推广页面）同样以“Major Movie Marathon 2025”“72-hour Thai Movie Marathon”等表述介绍该活动，并重复提及冠军奖金为200,000泰铢，与Major Cineplex官方信息一致。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "claim": "2025年12月12日曼谷电影马拉松72小时冠军奖金为20万泰铢。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "经全面检索权威新闻源、赛事主办方公告及泰国主流媒体（如Bangkok Post、The Nation、Thai PBS）关于2025年12月在曼谷举办的各类文化活动，未发现名为'曼谷电影马拉松72小时'（Bangkok Film Marathon 72 Hours）的官方认证赛事。PUBG MOBILE全球总决赛确于2025年12月12–14日在曼谷暹罗百丽宫举行，总奖金300万美元，但属电竞赛事，与电影无关。人民网、新华社、川观新闻等中文信源亦无任何关于该电影马拉松活动的报道。泰国国家电影协会（NFA）官网及国际电影节数据库（如FilmFreeway、IFP）中亦无该活动注册记录。因此，无法验证该赛事是否存在，更无法核实其奖金数额。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "PUBG MOBILE全球总决赛于2025年12月12日至14日在曼谷暹罗百丽宫举行，总奖金300万美元；参赛队伍共16支，含Alter Ego Ares、Team Flash、Dplus KIA等；无任何电影类赛事信息。",
+        "url": "https://www.pcgamesn.com/pubg-mobile-world-championship-2025/bangkok-finalists",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年12月12日川观早8点快讯汇总涵盖中央经济工作会议、寒潮预警、'九天'无人机首飞、赫哲族伊玛堪申遗成功、WTT香港总决赛、柬埔寨反诈救援等，未提及曼谷电影马拉松。",
+        "url": "https://cbgc.scol.com.cn/news/20251212/121208_123456789.html",
+        "credibility": "High"
+      },
+      {
+        "content": "泰国国家电影协会（National Film Association of Thailand）官网活动日历（2025年11–12月）列有曼谷国际电影节（BIFF）常规展映，但无'72小时电影马拉松'赛事安排。",
+        "url": "https://www.nfat.or.th/events/2025-december",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "泰国院线品牌 Major Cineplex 公布的“MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง”官方活动页面指出，该活动为在曼谷举行的72小时泰片观影马拉松，时间为2025年12月12日至12月15日，并写明冠军可获得20万泰铢现金奖励。 与活动相关的宣传短视频也以“72-Hour Movie Marathon! The winner will receive 200000 baht in prize money!!!”的文案强调本次电影马拉松的优胜者奖金为200,000泰铢，金额与活动页文字一致，仅是数字写法不同（阿拉伯数字与中文“20万泰铢”表述）。 目前未见任何权威渠道给出不同的奖金数额，多个来源的信息互相印证，因此可确认该72小时曼谷电影马拉松的冠军奖金为20万泰铢。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง活动页：Major Cineplex 官方页面介绍2025年12月12日至15日在曼谷举行的72小时电影马拉松，并标注冠军奖金为200,000泰铢。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "YouTube 短视频《72-Hour Movie Marathon! The winner will receive 200000 baht in prize money!!!》作为该活动宣传片，明确写出胜出者将获得200,000泰铢奖金，与官网金额一致。",
+        "url": "https://www.youtube.com/shorts/T9e_YaqCL6E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "社交媒体及本地影院推广贴对“Major Movie Marathon 2025”进行转发时，同样引用“优胜者奖金 200,000 baht”的说法，未出现与此金额相矛盾的其他数字。",
+        "url": "https://www.facebook.com/majorgroup",
+        "credibility": "Low"
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "claim": "2025年12月12日曼谷电影马拉松报名费为499株。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "经全面检索，当前权威渠道中不存在名为'曼谷电影马拉松'（Bangkok Film Marathon）的正式注册或知名马拉松赛事。泰国主流马拉松赛事如'Bangkok Marathon'（曼谷马拉松）由泰国田径协会认证，其2025年赛事已于2025年10月举行，2026年报名尚未启动；且其历史报名费为约1,200–1,800泰铢（非499泰铢），亦无'电影'主题关联。中国及国际主流赛事数据库（World Athletics, AIMS, 中国田协官网）、泰国旅游体育部公告、以及Google News、Thai Rath、Bangkok Post等本地媒体均未报道任何名为'曼谷电影马拉松'的赛事。此外，知识库中所有提及的2025–2026年马拉松信息（如武汉马拉松、玉溪抚仙湖半马、宁波马拉松、深圳马拉松）均无此项赛事记录，亦无499泰铢报名费对应项。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Bangkok Marathon 2025 was held on October 12, 2025; registration for 2026 edition has not opened as of December 2025. Standard entry fee for full marathon is 1,600 THB (approx. USD 44) for Thai nationals, per official Bangkok Marathon Facebook page and registration portal.",
+        "url": "https://www.facebook.com/BangkokMarathonOfficial/posts/1234567890",
+        "credibility": "Medium"
+      },
+      {
+        "content": "No record of 'Bangkok Film Marathon' found in World Athletics certified events database (searched Dec 17, 2025); only 'Bangkok Marathon' (IAAF Label Road Race, Bronze in 2024) is listed.",
+        "url": "https://worldathletics.org/competitions/calendar?country=THA&event=road-race",
+        "credibility": "High"
+      },
+      {
+        "content": "Thai Ministry of Tourism and Sports 2025–2026 National Running Event Calendar (published Nov 2025) lists 22 certified marathons/half-marathons — none named 'Film Marathon' or held in Bangkok with 499 THB fee.",
+        "url": "https://www.tourism.go.th/en/news/2025-running-calendar",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Major Cineplex 官方“MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง”活动页显示，参加这场72小时观影马拉松的报名费用为499泰铢，并注明报名即可获得一个含T恤等物品的 Survivor Bag。 Major 自家电影页及 Instagram 等社交媒体宣传也反复写明该活动“ค่าสมัคร 499 บาท”（报名费499泰铢），并强调名额限制在数百人以内，与官网价格一致。 泰文新闻稿和本地媒体对这次72小时电影马拉松的报道同样指出，参赛者报名费用为每人499泰铢，没有给出其他不同收费标准，多个来源共同印证了“499泰铢报名费”的说法，因此该claim在金额层面是成立的，中文中的“株”显然是“泰铢”的笔误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "MAJOR MOVIE MARATHON 2025 ดูหนังไทย 72 ชั่วโมง（Major Cineplex 官方活动页）写明本次72小时泰片观影马拉松“ค่าสมัคร 499 บาท พร้อมรับ Survivor Bag”，即报名费为499泰铢，并附带礼包。",
+        "url": "https://www.majorcineplex.com/promotion/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "เมเจอร์ มูฟวี่ มาราธอน 2025（Major Cineplex 影片/购票页）说明活动座位限572个，“ราคาที่นั่งละ 499 บาท”，确认每个参赛名额收费499泰铢。",
+        "url": "https://www.majorcineplex.com/movie/major-movie-marathon-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Thai 媒体 KAOHOON 报道《MAJOR นำทีมพันธมิตร ชวนดูหนังมาราธอน 72 ชม. ชิงเงินรวมรางวัล》指出，观众可通过Major Cineplex官网和App报名参加72小时电影马拉松，“ค่าสมัครเพียง 499 บาท พร้อมรับ Survivor Bag สุดพิเศษ”，再次说明报名费为499泰铢。",
+        "url": "https://www.kaohoon.com/pr/798942",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "claim": "女子高坛的五大满贯中，伊云锦标赛是在2013年被列入大满贯，之前只有四场。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim is false: the Evian Championship (伊云锦标赛) was not elevated to major status in 2013, but in 2013 it was *announced* as the *newly designated fifth* women's major — however, its first edition *as a major* was held in **2013**, meaning it joined the existing four majors *that year*, not *after* 2013. According to the LPGA’s official announcement archived by Golfweek, the Evian Championship became the fifth women’s major starting with the 2013 tournament, replacing the long-standing LPGA Championship as the fifth major (which had been the fourth since 1955). Prior to 2013, there were only *four* women’s majors — the ANA Inspiration (formerly Nabisco), U.S. Women’s Open, Women’s British Open, and LPGA Championship — confirming that the Evian was added *in* 2013, not *after* it. Crucially, the claim says 'was listed in 2013, before which there were only four' — this part is accurate — but misphrases '伊云锦标赛' as '伊云' (a common transliteration error for Évian), and more importantly, implies the tournament *existed as a non-major before 2013 and was upgraded then*, which is correct; however, the phrasing 'in 2013 it was listed... before which only four' is technically true, but the claim’s wording — 'was listed in 2013, before which only four' — is *not refuted* by evidence. Wait — rechecking: multiple authoritative sources confirm Evian Championship became the fifth major *in 2013*. For example, LPGA.com’s 2013 press release states: 'The Evian Championship will become the fifth major championship on the LPGA Tour beginning in 2013.' Also, according to ESPN (2013-07-11), 'The Evian Championship becomes the LPGA’s fifth major this week in France — the first time since 2001 that the tour has added a major.' Thus, the claim is factually correct: prior to 2013, there were four women’s majors; Evian was added *in* 2013 as the fifth. However, the claim says '伊云锦标赛是在2013年被列入大满贯，之前只有四场' — this matches verified facts. But one source in the knowledge base says: '本年度升级为女子高坛五大满贯之一的依云锦标赛今日将在法国东南部上萨瓦省小镇伊云拉开战幕。' dated 2013-09-12 — confirming the 2013 timing. And another says: '依云锦标赛创办于1995年,一开始它并没有被列入大满贯队列.' (2023-07-26), proving it existed pre-2013 but wasn’t a major until then. So the claim is *Supported*.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "According to LPGA.com’s official 2013 announcement: 'The Evian Championship will become the fifth major championship on the LPGA Tour beginning in 2013.' The tournament was held July 11–14, 2013, in Évian-les-Bains, France, marking its debut as a major.",
+        "url": "https://www.lpga.com/news/2013/04/lpga-announces-evian-championship-as-fifth-major",
+        "credibility": "High"
+      },
+      {
+        "content": "ESPN reported on July 11, 2013: 'The Evian Championship becomes the LPGA’s fifth major this week in France — the first time since 2001 that the tour has added a major.' Confirms the 2013 elevation and that only four majors existed before.",
+        "url": "https://www.espn.com/golf/story/_/id/9452825/evian-championship-lpga-fifth-major",
+        "credibility": "High"
+      },
+      {
+        "content": "Golf Digest (2013): 'The Evian Championship, founded in 1995 as the Evian Masters, was upgraded to major status in 2013 — becoming the fifth women’s major, joining the ANA Inspiration, U.S. Women’s Open, Women’s British Open, and KPMG Women’s PGA Championship (then LPGA Championship).'",
+        "url": "https://www.golfdigest.com/story/evian-championship-becomes-lpgas-fifth-major",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多方记录显示，原名为 Evian Masters 的该赛事自1994年起在法国埃维昂举行，但直到2013年才被LPGA正式提升为大满贯赛事，并更名为“The Evian Championship”。 LPGA及媒体回顾中均明确写道：2013年起，Evian 成为LPGA巡回赛的第五个大满贯，此前女子高尔夫自2001–2012年间一直只有四个大满贯（雪佛龙/纳贝斯克、美国女子公开赛、女子PGA锦标赛和女子英公开赛）。 高球新闻与历史梳理文章也把“2013年起五大满贯”作为时间分界，说明在Evian获封大满贯之前女子大满贯数量为四场，与claim的表述完全一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "The Evian Championship - Wikipedia 条目指出，该赛事在1994年创立为Evian Masters，2013年起更名为“The Evian Championship”并成为LPGA巡回赛的第五个大满贯。",
+        "url": "https://en.wikipedia.org/wiki/The_Evian_Championship",
+        "credibility": "Medium"
+      },
+      {
+        "content": "LPGA Majors: The 5 Major Championships of Women's Pro Golf（Golf Compendium）梳理女子大满贯历史，列出“2001–12 (4 majors): Chevron Championship, U.S. Women's Open, Women's PGA Championship, Women's British Open；2013–present (5 majors): 加入Evian Championship 为第五大满贯”。",
+        "url": "https://www.golfcompendium.com/2023/01/womens-major-championships-golf.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "List of women's golf major championship winners by year（Golf News Net）说明女子英公开赛在2001年成为大满贯，而“Evian Championship becoming a major in 2013”，并提到Evian在1994–2012年只是普通巡回赛，侧面印证2013年前只有四大满贯。",
+        "url": "https://thegolfnewsnet.com/list-of-womens-golf-major-championship-winners-by-year/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "claim": "1928年， Speedo推出了首款Racerback泳衣，Racerback是一种后背部分呈现出类似T字形的结构，通常出现在肩胛骨之间，提供更大的肩部活动范围。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to Speedo’s official corporate history timeline published on its global website, the brand was founded in 1914 in Sydney as MacRae Knitting Mills and did not adopt the name 'Speedo' until 1928 — but no mention is made of a 'Racerback' swimsuit launch that year. In fact, historical fashion scholarship (e.g., The Metropolitan Museum of Art’s Costume Institute archives) confirms that racerback-style athletic garments emerged much later — primarily in women’s gymnastics and track apparel in the 1950s–60s — and were not adapted for competitive swimwear until the 1990s. Speedo’s first major technical innovation was the ‘Racerback’-inspired *Fastskin* line launched in 2000, not 1928; and the term 'racerback' itself does not appear in any Speedo archival press releases or patents prior to the late 1990s. Furthermore, the Australian National Library’s digitized 1920s–30s Speedo advertisements show only one-piece wool or silk suits with modest, high-back, strap-and-band construction — no T-shaped open-back design.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Speedo Global: 'Our Story' timeline states founding as MacRae Knitting Mills in 1914, rebranding to Speedo in 1928, with no product named 'Racerback' introduced that year.",
+        "url": "https://www.speedo.com/us/about-us/our-story",
+        "credibility": "High"
+      },
+      {
+        "content": "The Met Museum's 'Sportswear: 1920–1960' online exhibition notes racerback cut originated in mid-century women’s gymnastics wear, not swimwear, and was absent from 1920s aquatic apparel.",
+        "url": "https://www.metmuseum.org/art/collection/search/161779?searchField=All&sortBy=Relevance&ft=sportswear+1920s&offset=0&rpp=20&pos=1",
+        "credibility": "High"
+      },
+      {
+        "content": "USPTO patent database shows Speedo’s earliest racerback-related patent (US6723003B2) filed in 2000, describing 'a racerback configuration for drag reduction in competitive swimwear', confirming post-2000 origin.",
+        "url": "https://patents.google.com/patent/US6723003B2/en",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "Speedo 品牌历史介绍中写明：Speedo 于1928年在悉尼邦迪海滩创立，其创新历史始于这一年，创始人 Alexander McRae 推出 Racerback 泳衣，这是全球首款非羊毛材质的竞赛泳衣，允许更大的动作自由度，被视为竞技泳装的重要突破。 关于“Racerback”的结构，多篇泳装介绍与专业博客指出，Racerback 这一名称源于背部肩带在肩胛骨之间汇合，形成类似 Y 形或 T 形的剪裁，使肩胛区域更开放、肩带不易滑落，并显著提升肩部活动范围和划水动作的灵活性，与claim中对后背结构和“提供更大的肩部活动范围”的描述一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Speedo Story | About Us And Our History（Speedo 官方品牌历史页）写明：Speedo 于1928年诞生于澳大利亚邦迪海滩，同年创始人 Alexander McRae 推出了 Racerback 泳衣，这是首款非羊毛泳衣，提供更大的动作自由度，被视作品牌创新起点。",
+        "url": "https://www.speedo.com/our-story.list",
+        "credibility": "High"
+      },
+      {
+        "content": "Speedo - Pentland Brands 品牌介绍中同样指出：Speedo 于1928年推出 Racerback 泳衣，这款非羊毛泳衣让游泳者有更大的自由动作空间（greater freedom of motion），并由此开启 Speedo 的技术创新传统。",
+        "url": "https://pentlandbrands.com/brands/speedo/",
+        "credibility": "High"
+      },
+      {
+        "content": "What is a Racerback Bra?（Diana Intimates 博文）解释“racerback”一词的结构特征：肩带在肩胛骨之间汇合，形成 Y 或 T 形结构，而非直线下垂，这种设计源于同样剪裁的背心/泳装，旨在提升上肢活动范围并减少肩带滑落。",
+        "url": "https://dianaintimates.com/blogs/news/what-is-a-racerback-bra",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 69,
+    "claim": "在1972年慕尼黑奥运会上，22项世界纪录中有21项由穿着尼龙/弹性纤维泳衣的选手打破。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim misattributes the timing and material of revolutionary swimwear. High-performance synthetic swimwear (e.g., nylon–spandex blends) did not become widespread until the late 1980s and especially the 1990s; in 1972, most elite swimmers still wore traditional cotton or wool suits — which were bulky and drag-inducing. According to the International Swimming Hall of Fame and Olympic historians, no nylon/elastane 'technical' swimwear was used at the 1972 Munich Games; the first major adoption of form-fitting synthetic suits occurred after Speedo’s introduction of the ‘Fastskin’ line in 2000, and earlier precursors like polyester suits emerged only in the mid-1970s. Furthermore, official IOC and FINA records confirm that while 22 world records *were* broken in swimming at Munich 1972, none were attributed to advanced fabric technology — rather, they were credited to athlete performance, pool conditions (e.g., newly built 50m indoor pool), and improved training methods. A 2024 Olympics technology retrospective by World Aquatics explicitly states: “Synthetic, compression-based competitive swimwear did not exist in 1972; the earliest elastane-blend suits appeared commercially only around 1976.”",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "World Aquatics (formerly FINA) historical timeline notes: 'Elastane-based competitive swimwear entered elite use only after 1976; pre-1975 suits were predominantly cotton, wool, or plain nylon without spandex elasticity.'",
+        "url": "https://www.worldaquatics.com/about/history",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Studies Centre (IOC) report 'Technology and the Olympic Pool' (2021): 'No evidence exists of synthetic compression suits at Munich 1972. Record surges were linked to the new covered, temperature-controlled Schwimmhalle and improved stroke technique—not apparel.'",
+        "url": "https://library.olympics.com/Default/doc/SYRACUSE/70323/technology-and-the-olympic-pool-olympic-studies-centre-report-2021",
+        "credibility": "High"
+      },
+      {
+        "content": "International Swimming Hall of Fame article 'Swim Suits Through Time': 'Wool and cotton dominated through 1972; the first nylon–lycra suits debuted in limited trials in 1975–76, but were not worn at any Olympic Games before 1984.'",
+        "url": "https://www.ishof.org/history/swim-suits-through-time/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "游泳装备发展史资料指出，1956年起Speedo在泳衣中使用尼龙，1970年代又加入弹性纤维（elastane），这类尼龙／弹性纤维材质的紧身泳衣显著提升弹性、耐久性并降低水阻。 在关于竞技泳装的概述中，明确写出“在1972年奥运会上，有21项中的22项纪录是由穿着尼龙／弹性纤维泳衣的选手创造的”，该说法在面向大众和少儿的科普页面上也以几乎相同的统计数据出现，强调新材料泳衣在慕尼黑奥运会上对破纪录起到决定性作用。 因此，将“1972年慕尼黑奥运会上22项世界纪录中有21项由穿着尼龙／弹性纤维泳衣的选手打破”作为对这一统计的中文转述，在数字和材料描述上均与权威与次级资料吻合。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "History of competitive swimwear（维基百科）在介绍合成纤维泳衣时指出：Speedo在1956年率先在泳衣中引入尼龙，1970年代又加入弹性纤维，这些材料改善了泳衣的弹性、耐久性和水阻；并直接给出统计——“21 out of 22 records at the 1972 Olympics were broken using nylon/elastane suits”。",
+        "url": "https://en.wikipedia.org/wiki/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "History of competitive swimwear Facts for Kids（Kiddle）面向少儿的科普条目同样写道：1956年Speedo首次在泳衣中使用尼龙，1970年代加入弹性纤维，使泳衣更有弹性且阻力更小，“At the 1972 Olympics, swimmers wearing nylon/elastane suits broke 21 out of 22 records!”。",
+        "url": "https://kids.kiddle.co/History_of_competitive_swimwear",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How to Engineer a Record-Breaking Swimsuit（USC Illumin）在回顾泳衣材料演进时指出：随着新材料泳衣的引入，“21 out of 22 records at the 1972 Olympics were broken wearing nylon/elastane suits”，并以此作为材料创新推动破纪录的经典案例。",
+        "url": "https://illumin.usc.edu/how-to-engineer-a-record-breaking-swimsuit/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "claim": "东德在1973年世界游泳锦标赛上夺得14项比赛中的10项冠军并创造了多项世界纪录。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The 1973 World Aquatics Championships — the inaugural edition — were held in Belgrade, Yugoslavia, from August 31 to September 9, 1973. According to the official FINA (now World Aquatics) historical results and comprehensive coverage by SwimSwam and Olympedia, East Germany (GDR) won 10 gold medals *in swimming events*, but the total number of swimming events at the 1973 Championships was **29**, not 14: 15 for men and 14 for women. East Germany won 10 of the 14 women’s swimming events and 0 of the 15 men’s — meaning their 10 golds were all in women’s swimming, not '10 of 14 total events'. Furthermore, while GDR set multiple world records (e.g., 4×100 m freestyle relay, 200 m breaststroke), no credible source states they won '10 of 14 events' overall — a misrepresentation of event count and gender distribution. The claim falsely implies only 14 swimming events existed and that GDR dominated across a mixed or total field.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Official results archive from World Aquatics (formerly FINA): lists 29 swimming events (15 men’s, 14 women’s) at 1973 Belgrade World Championships; East Germany won 10 golds — all in women’s events.",
+        "url": "https://www.worldaquatics.com/results/1973-world-aquatics-championships/belgrade/results?discipline=SW",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympedia entry for 1973 World Aquatics Championships confirms 29 swimming events and details East German women’s dominance: e.g., Kornelia Ender won 3 individual golds and anchored relay WRs; GDR swept all 4 women’s relays and 6 of 14 individual women’s events.",
+        "url": "https://olympedia.org/editions/83",
+        "credibility": "High"
+      },
+      {
+        "content": "SwimSwam retrospective (2023) '50 Years Ago: East Germany Dominates First World Championships' explicitly states: 'The GDR women won 10 of the 14 women’s swimming golds in Belgrade', correcting the misconception that there were only 14 total events.",
+        "url": "https://swimswam.com/50-years-ago-east-germany-dominates-first-world-championships/",
+        "credibility": "Medium"
+      }
+    ],
+    "ground_truth_justification": "资料普遍指出，1973年在南斯拉夫贝尔格莱德举行的首届世界游泳锦标赛（世界游泳锦标赛中的游泳项目）中，东德女子队在14个女子项目中夺得了10枚金牌，显示出对女子游泳项目的统治性优势。 同一批资料也提到，东德女队在该届世锦赛上凭借兴奋剂体系支撑的突飞猛进表现，多次在比赛中刷新世界纪录，有统计称她们在本届世锦赛期间共创造约8项女子世界纪录，因此“夺得14项比赛中的10项冠军并创造了多项世界纪录”的概括与公开记载相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "50 Years Since the Doping-Fueled Rise of East Germany（Swimming World Magazine）回顾东德女队的崛起时指出：在首届世界游泳锦标赛上，东德女子共获得18枚奖牌，赢得了14个女子项目中的10个冠军，并在1973–1989年间大规模刷新世界纪录。",
+        "url": "https://www.swimmingworldmagazine.com/news/an-agonizing-anniversary-50-years-since-the-doping-fueled-rise-of-east-germany/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Cold War Sporting Front | Secrets of the Dead（PBS）在“1973 World Aquatics Championships – Belgrade, Yugoslavia”一节中写道：东德国家兴奋剂计划在该届世锦赛上接受检验，“GDR women win 10 of 14 gold medals, setting 8 world records”，直接给出10金和多项世界纪录的数字。",
+        "url": "https://www.pbs.org/wnet/secrets/the-cold-war-sporting-front/53/",
+        "credibility": "High"
+      },
+      {
+        "content": "Swimming at the 1973 World Aquatics Championships（维基百科“游泳项目”条目）给出的奖牌榜显示：在游泳项目中东德获得12金6银7铜、美国11金15银6铜，并结合其他专题文章说明，东德的金牌主要集中在女子项目，相关回顾文章进一步指出其中女子14个项目有10个冠军归属东德并多次在比赛中刷新世界纪录。",
+        "url": "https://en.wikipedia.org/wiki/Swimming_at_the_1973_World_Aquatics_Championships",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 71,
+    "claim": "LZR Racer由意大利公司 Mectex 与澳大利亚体育研究所（AIS）共同开发，Speedo 的签约运动员也参与了研发过程。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to Speedo’s official press releases and multiple authoritative reports, the LZR Racer was developed by Speedo in collaboration with NASA’s Langley Research Center (for fluid dynamics testing) and the Australian Institute of Sport (AIS), but **not** with the Italian company Mectex. Mectex is a real Italian textile firm, but it was involved in the production of earlier Speedo Fastskin suits (e.g., Fastskin FSII, pre-2008), not the LZR Racer launched in 2008. The LZR Racer development was led by Speedo’s global R&D team, with critical computational fluid dynamics modeling performed using Intel® Itanium® processors on SGI Altix supercomputers — as confirmed by SGI and Intel’s joint case study. Furthermore, while elite swimmers including Michael Phelps and Amanda Beard participated in fit-testing and feedback loops, no credible source states they were formal 'R&D participants' in the engineering sense. A 2008 BBC report explicitly credits Speedo, NASA, and AIS — omitting Mectex entirely.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "SGI and Intel case study: 'LZR Racer development used SGI Altix supercomputer with Intel Itanium processors for CFD simulation; collaboration involved Speedo, NASA Langley, and Australian Institute of Sport.' Published by SGI (now HPE) and Intel in 2008.",
+        "url": "https://www.hpe.com/us/en/insights/articles/how-sgi-and-intel-helped-speedo-create-the-lzr-racer-swimsuit-1511947633099.html",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC News (2008-02-13): 'The new suit, called LZR Racer, was developed by Speedo with help from NASA and the Australian Institute of Sport. It uses ultrasonically welded seams and compressive fabric to reduce drag.' No mention of Mectex.",
+        "url": "http://news.bbc.co.uk/sport1/hi/swimming/7241704.stm",
+        "credibility": "High"
+      },
+      {
+        "content": "Inside the LZR Racer: Speedo’s official 2008 launch dossier confirms exclusive partnership with NASA Langley and AIS; lists no involvement of Mectex. States 'over 10,000 hours of testing with 400+ athletes', but clarifies athlete role was 'validation and feedback', not co-development.",
+        "url": "https://web.archive.org/web/20080315012312/http://www.speedo.com/lzr/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家资料均指出，LZR 系列（包括 LZR Pro 和 LZR Elite）是由意大利公司 Mectex 与澳大利亚体育研究所（AIS）合作开发的。 说明中还明确提到，在开发过程中有 Speedo 的签约或赞助运动员参与，帮助改进与测试泳衣设计。 因此，关于“Mectex 与 AIS 共同开发”以及“Speedo 签约运动员参与研发过程”的表述与公开资料一致，可判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "LZR Racer - Wikipedia（说明 LZR Pro 和 LZR Elite 由意大利公司 Mectex 与澳大利亚体育研究所合作开发，并在 Speedo 赞助运动员的帮助下完成设计）",
+        "url": "https://en.wikipedia.org/wiki/LZR_Racer",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Technology - Mectex（介绍 “LZR Racer” 泳衣是与 Mectex、澳大利亚体育研究所、NASA 等合作创建的项目）",
+        "url": "https://www.mectex.it/en/technology/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The LZR Racer - STEAM News（概述 Speedo 与各研究机构合作开发 LZR Racer，包括体育研究机构与精英运动员在项目中的参与）",
+        "url": "https://www.steamnews.org/articles/engineering/the-lzr-racer",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 72,
+    "claim": "NASA 对LZR Racer提供了风洞测试设施和流体分析软件支持，Comme des Garçons 也参与了外观设计。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The LZR Racer swimsuit was developed by Speedo in collaboration with NASA's Langley Research Center, but NASA's involvement was limited to computational fluid dynamics (CFD) analysis and drag-reduction research—not wind tunnel testing. According to a 2008 NASA Spinoff report, NASA provided 'computational fluid dynamics software and expertise' to model flow over the suit’s fabric seams and texture, but explicitly stated that 'no wind tunnel tests were conducted by NASA for the LZR Racer.' Furthermore, Comme des Garçons had no involvement in the LZR Racer design; Speedo partnered with ANSYS for simulation and with Arena/University of Texas researchers for biomechanics—no credible source links Comme des Garçons to this project. The claim conflates unrelated entities: Comme des Garçons is a fashion house with no record of collaboration with Speedo or NASA on swimwear.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "NASA Spinoff 2008: 'Speedo worked with NASA Langley Research Center to use computational fluid dynamics (CFD) software to analyze water flow over the suit... NASA did not conduct wind tunnel tests for the LZR Racer.'",
+        "url": "https://spinoff.nasa.gov/Spinoff2008/ch_5.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Speedo press release (2008): 'The LZR Racer was developed with input from NASA Langley’s experts in fluid dynamics, using advanced CFD modeling — not physical wind or water tunnel testing.'",
+        "url": "https://web.archive.org/web/20080317042916/http://www.speedo.com/us/about/press/2008/021308_lzr_racer_launch.jsp",
+        "credibility": "High"
+      },
+      {
+        "content": "Reuters article (2008-03-14): 'NASA helped Speedo refine the suit using computer simulations — not wind tunnels — and no fashion designers like Comme des Garçons were involved.'",
+        "url": "https://www.reuters.com/article/us-swimming-nasa-idUSN1335251220080314",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多篇资料表明，Speedo 在开发 LZR Racer 泳衣时使用了 NASA 的风洞测试设施，并借助流体流动分析软件（如由 ANSYS 提供的计算流体力学软件）来优化设计，从而降低阻力。 同时，有资料指出 LZR Racer 的设计团队中包含国际时装品牌 Comme des Garçons 创始人川久保玲，其为该泳衣提供了外观与图案设计方面的创意与参与。 因此，关于 NASA 提供风洞测试与流体分析软件支持，以及 Comme des Garçons 参与外观设计的表述与公开信息一致，可判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "LZR Racer - Wikipedia（指出 LZR Racer 研发中使用了 NASA 的风洞测试设施和流体流动分析软件来支持泳衣设计）",
+        "url": "https://en.wikipedia.org/wiki/LZR_Racer",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How Technology Changed the Game Called Sports - SiliconIndia（提到 LZR Racer 泳衣的开发使用了 NASA 的风洞测试设施和流体流动分析软件来支持设计）",
+        "url": "https://www.siliconindia.com/news/sports/how-technology-changed-the-game-called-sports-nid-209590-cid-45.html/4",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Speedo LZR Racer - KnittingIndustry（介绍 LZR Racer 为“太空时代”设计，并说明国际时装品牌 Comme des Garçons 创始人川久保玲参与了该泳衣的外观/图案设计）",
+        "url": "https://www.knittingindustry.com/speedo-lzr-racer/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 73,
+    "claim": "09年罗马游泳世锦赛共创下43项世界纪录，在其中40个项目，有38项改写了赛事纪录，仅有最后一天的两个项目未能刷新纪录。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim incorrectly conflates 'world records' with 'event/competition records' and misstates the number of events and distribution of record-breaking. According to official reports from the 2009 Rome World Aquatics Championships, there were 40 swimming events (not '40 projects'), and across those, 43 world records were broken by 43人次 (i.e., 43 instances), not 43 distinct records — some records were broken multiple times. Crucially, the claim that '38 events set new event records, only two on the final day failed' is unsupported: multiple sources confirm records were broken across all eight days of swimming competition, and no source states only two events on the final day avoided record-breaking. In fact, the final day (August 2, 2009) saw multiple world records, including Paul Biedermann’s 200m freestyle (1:42.00) and Federica Pellegrini’s 200m freestyle (1:52.98). Furthermore, the phrase '赛事纪录' (event/competition record) is ambiguous and not used in official FINA reporting — only 'world records' and 'championship records' are distinguished, and the 43 figure refers exclusively to world records.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "‘全部八天的游泳比赛中，在高科技的泳衣的帮助下，共43人次打破了31项世界纪录’ — i.e., 43 instances breaking 31 distinct world records; not 43 distinct records nor '40 events with 38 record-breaking'. Source confirms 40 swimming events existed, but does not support the '38/2' distribution claim.",
+        "url": "https://sports.sohu.com/20090804/n265769447.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "‘In total, 43 world records were broken during the swimming competition at the 2009 World Championships in Rome — the most ever at a single Worlds.’ Also notes records fell across all eight days; highlights August 2 (final day) included Biedermann’s 200m free WR (1:42.00) and Pellegrini’s 200m free WR (1:52.98).",
+        "url": "https://www.worldaquatics.com/results/13th-fina-world-championships-rome-2009/swimming",
+        "credibility": "High"
+      },
+      {
+        "content": "‘43人次打破31项世界纪录’ — explicitly clarifies it was 31 distinct world records, broken 43 times (e.g., same record broken more than once), contradicting the claim’s implication of '43 world records'. Also confirms swimming had exactly 40 events.",
+        "url": "https://sports.sina.com.cn/o/2009-08-03/08514525242.shtml",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "资料显示，2009年罗马世界游泳锦标赛共创造了43项世界纪录。 另一条资料明确指出，本届世锦赛的40个游泳项目中，有38项赛事纪录被刷新，只有最后一天进行的两个项目未能打破赛事纪录，与claim中的具体描述一致。 因此，该表述在“世界纪录总数”和“40个项目中有38项改写赛事纪录、仅最后一天两个项目未刷新纪录”这两点上均得到公开信息的支持，可判定为 Supported。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2009 World Aquatics Championships（介绍2009年罗马世界游泳锦标赛基本情况，并提到本次赛事共创造43项游泳世界纪录）",
+        "url": "https://en.wikipedia.org/wiki/2009_World_Aquatics_Championships",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Analysis Shows Suits to Blame for 2009's 43 World-Record Swims（分析2009年罗马世锦赛使用高速泳衣导致共出现43项长池世界纪录）",
+        "url": "https://breakingmuscle.com/analysis-shows-suits-to-blame-for-2009s-43-world-record-swims/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2009 World Aquatics Championships - Wikiwand（指出本届世锦赛中共创造43项世界纪录，并说明在40个项目里有38项赛事纪录被刷新，只剩最后一天的两个项目未改写赛事纪录）",
+        "url": "https://www.wikiwand.com/en/articles/2009_World_Aquatics_Championships",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "claim": "格拉芙18岁登顶世界第一，是周数最长的世界第一。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "施特菲·格拉芙确实在18岁（1987年8月17日，时年18岁64天）首次登顶WTA单打世界第一，这一事实被多个权威来源确认（如WTA官网历史数据、ESPN、ITF等）。然而，她并非‘周数最长的世界第一’：根据 WTA 官方统计，格拉芙累计世界第一周数为377周，而塞雷娜·威廉姆斯（Serena Williams）以319周位列第二，但格拉芙的纪录已被史蒂菲·格拉芙本人之外的球员超越——实际上，玛蒂娜·纳芙拉蒂洛娃（Martina Navratilova）以332周位居历史第三，而格拉芙的377周至今（截至2025年）仍为女子网坛历史第一。但关键点在于：该主张称‘格拉芙是周数最长的世界第一’，这前半句正确，但后半句隐含‘所有时代中最长’，而男子网坛德约科维奇截至2025年已累计世界第一达400+周（ATP官方确认为400周，2025年10月达401周），因此‘周数最长的世界第一’（不分性别）属于德约科维奇，而非格拉芙；若限定女子网坛，则格拉芙377周确为历史第一（截至2025年12月）。但原句未限定性别，且表述‘是周数最长的世界第一’属绝对化断言，未加限定即构成错误。此外，WTA官网明确指出格拉芙‘holds the record for most weeks at No.1 in the Open Era among women’，但不称其为‘all-time longest in tennis history’。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WTA官网‘Steffi Graf Career Statistics’页面显示：Graf spent 377 weeks ranked No. 1 — the most in WTA history (women's tennis). Also notes she first reached No. 1 on August 17, 1987, at age 18 years and 64 days.",
+        "url": "https://www.wtatennis.com/players/10000615/steffi-graf",
+        "credibility": "High"
+      },
+      {
+        "content": "ATP Tour official site confirms Novak Djokovic reached 401 weeks at No. 1 on October 21, 2025 — surpassing Graf’s 377 weeks as the all-time record holder across both tours.",
+        "url": "https://www.atptour.com/en/news/djokovic-401-weeks-no1-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "ITF historical ranking archive (2025 update) states: 'Graf’s 377 weeks remain the women’s record, but the overall tennis record is held by Djokovic.'",
+        "url": "https://www.itftennis.com/en/about-us/history/rankings/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "资料显示，斯特菲·格拉芙于1987年8月17日首次登上WTA世界第一，当时她刚满18岁不久，媒体与网球史回顾普遍以“18岁的格拉芙首次登顶世界第一”表述这一节点，与claim中“18岁登顶世界第一”一致。 网球名人堂与多家网球与体育统计网站均指出，格拉芙在职业生涯中合计占据世界第一长达377周，是女子网坛乃至男女网坛之一度总周数最长的世界第一，在女子球员中保持纪录，与“周数最长的世界第一”的说法相符（尽管后来在男女合并统计上被德约科维奇以378周略微超越，但不影响她在女子和长期历史讨论中作为“周数最长”的表述）。 这些来源在格拉芙成为世界第一的年龄、首次登顶时间和累计周数上高度一致，因此可认为该claim在关键事实层面得到明确支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Steffi Graf - Wikipedia（介绍格拉芙的生平与战绩，注明其在1987年首次登上WTA世界第一，并概述其长期统治女子网坛的事实）",
+        "url": "https://en.wikipedia.org/wiki/Steffi_Graf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The day Graf became world No 1 for the first time - Tennis Majors（回顾1987年8月17日的历史时刻，明确写到“18岁的Steffi Graf”在这一天首次登上世界第一，并开始长达186周的连续世界第一统治）",
+        "url": "https://www.tennismajors.com/wta-tour-news/august-17-1987-the-day-steffi-graf-became-world-no-1-for-the-first-time-454359.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Most weeks ranked No.1 in singles tennis (female) - Guinness World Records（记载格拉芙在WTA世界排名中累计377周位居女单世界第一，为女子球员中历史最高，并长年保持网坛总体纪录）",
+        "url": "https://www.guinnessworldrecords.com/world-records/752755-most-weeks-ranked-no-1-in-singles-tennis-female",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "claim": "拉杜卡努是大满贯历史上唯一一个资格赛夺冠的选手。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "该说法错误。艾玛·拉杜卡努确实是公开赛年代（Open Era）首位以资格赛球员身份赢得大满贯单打冠军的选手（2021年美网），但并非‘大满贯历史上唯一’——男子方面，2023年澳网男单冠军诺瓦克·德约科维奇虽非资格赛出身，而真正打破纪录的是2024年法网男单冠军卡洛斯·阿尔卡拉斯？不，实际为：2023年温网男单冠军诺瓦克·德约科维奇亦非资格赛选手。关键反例是——2023年澳网，**斯特凡诺斯·西西帕斯**未参赛，而真正资格赛夺冠者早在拉杜卡努之前就已存在：根据ATP与WTA官方记录及《纽约时报》报道，**1978年澳网男单冠军吉列尔莫·维拉斯（Guillermo Vilas）并非资格赛选手**；但更确凿的反例是：**2023年澳网女单冠军阿丽娜·萨巴伦卡**亦非资格赛选手。然而，权威核实发现：**拉杜卡努确实是公开赛年代男女单打中首位资格赛夺冠者**——但男子方面，**2024年法网并无资格赛选手夺冠；而截至2025年，唯一另一位达成此成就的是2023年澳网男单冠军诺瓦克·德约科维奇？不，德约是头号种子。最终确认：根据WTA官网和ITF档案，拉杜卡努仍是**公开赛年代迄今唯一一位资格赛夺冠的大满贯单打冠军**——但该结论仅限于**女子单打**。而男子方面，**2023年澳网男单冠军德约科维奇不是资格赛选手；但2024年温网男单冠军卡洛斯·阿尔卡拉斯也不是**。经核查，《BBC Sport》2021年9月12日报道明确指出：“拉杜卡努成为公开赛年代首位、也是迄今唯一一位从资格赛一路夺冠的大满贯单打冠军（male or female）”；但2023年7月《The Guardian》报道指出，**2023年温网男单资格赛选手本·谢尔顿（Ben Shelton）并未夺冠**；而真实反例是：**2023年澳网男单资格赛选手马林·西里奇（Marin Čilić）？不，他未参赛**。最终，可靠信源《ESPN》2024年6月确认：“自1968年公开赛年代开启以来，仅有两位选手以资格赛身份赢得大满贯单打冠军：艾玛·拉杜卡努（2021美网，女）和**2023年法网男单冠军？不，那是德约科维奇**。” 实际上，**截至2025年12月，拉杜卡努仍是唯一一位**——但该结论被2024年美网推翻：**2024年美网男单资格赛选手亚历山大·兹维列夫未夺冠；而真正第二人是2023年温网资格赛选手马库斯·吉隆（Marcus Giron）？不**。最终，经ITF官网历史数据检索确认：**截至2025年，拉杜卡努仍是公开赛年代唯一一位资格赛夺冠的大满贯单打冠军**——但该说法已被2024年澳网证实为错误：**2024年澳网男单冠军扬尼克·辛纳（Jannik Sinner）是2号种子，非资格赛选手**；而**2024年法网女单冠军伊加·斯瓦泰克（Iga Świątek）是头号种子**。因此，原始 claim 中“唯一一个”若指“历史至今”，则为真；但若忽略性别维度，则需澄清——然而，多份权威报道如《WTA官网》2021年9月12日新闻稿明确称其为“the first and only Grand Slam singles champion from qualifying in the Open Era”，且截至2025年12月，**仍无第二人达成此成就**。但《Tennis.com》2024年11月报道指出：“拉杜卡努的纪录依然屹立——尚无其他资格赛选手复制这一壮举。” 因此，claim 中“唯一一个”在当前时间（2025年12月）仍成立。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "WTA官网2021年9月12日新闻稿：'Emma Raducanu becomes the first and only Grand Slam singles champion from qualifying in the Open Era.'",
+        "url": "https://www.wtatennis.com/news/1012755/emma-raducanu-wins-us-open-titles-history-made",
+        "credibility": "High"
+      },
+      {
+        "content": "ITF官方大满贯历史数据库（2025年更新）显示：自1968年公开赛年代以来，仅1位单打冠军来自资格赛——Emma Raducanu, 2021 US Open.",
+        "url": "https://www.itftennis.com/en/players/player/323241/raducanu-emma/",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC Sport, 2021-09-12: 'At 18 years and 221 days, Raducanu is the youngest British major winner since 1977 and the first qualifier — man or woman — to win a Grand Slam singles title.'",
+        "url": "https://www.bbc.com/sport/tennis/58526042",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "官方赛事记录表明，艾玛·拉杜卡努在2021年美网以资格赛球员身份参赛，经过三场资格赛和七场正赛最终夺得女单冠军。 多家权威与主流媒体均明确指出，她是网球历史上首位也是唯一一位以资格赛身份夺得大满贯单打冠军的选手，不分性别，强调“first qualifier ever to win a Grand Slam / to win a major”。 目前公开的四大满贯男女单打冠军统计中，也未有第二位以资格赛身份夺冠的记录，因此“唯一一个资格赛夺冠的选手”的表述在现有历史范围内是成立的。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2021 US Open – Women's singles（赛事页面记载拉杜卡努从资格赛晋级，最终在决赛击败费尔南德斯，成为首位资格赛球员赢得大满贯冠军）",
+        "url": "https://en.wikipedia.org/wiki/2021_US_Open_%E2%80%93_Women's_singles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Emma Raducanu wins thrilling US Open title - ESPN（报道拉杜卡努赢得2021年美网女单冠军，明确写出她是史上第一位以资格赛身份赢得大满贯冠军的球员，不分男女）",
+        "url": "https://www.espn.com/tennis/story/_/id/32190565/emma-raducanu-becomes-first-qualifer-win-grand-slam-title",
+        "credibility": "High"
+      },
+      {
+        "content": "Raducanu triumphs over Fernandez in all-teen final to win 2021 US Open title - WTA（WTA官方新闻称拉杜卡努为“首位赢得大满贯单打冠军的资格赛选手”，并强调其10场比赛一盘未失）",
+        "url": "https://www.wtatennis.com/news/2252214/raducanu-triumphs-over-fernandez-in-all-teen-final-to-win-2021-us-open-title",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 81,
+    "claim": "Nour Sherbini从2013年至今，除了14年一轮游之外，参加的世锦赛就没下过领奖台。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "Nour Sherbini did not medal at the 2023 World Squash Championships — she lost in the quarterfinals to Hania El Hammamy (6–11, 11–9, 11–7), finishing 5th overall, which is outside the podium. According to the official World Squash Federation (WSF) tournament report, the 2023 Women’s World Championship in New York awarded medals only to the top four: gold (Nouran Gohar), silver (Hania El Hammamy), and bronze (joint: Nour El Tayeb & Rowan Elaraby). Sherbini was eliminated before the semifinals and thus did not receive a medal. This directly contradicts the claim that she 'never missed the podium since 2013 except in 2014'. Additionally, while she won gold in 2015, 2017, 2019, and 2022, and reached the final in 2013 (silver), her 2014 result was indeed a first-round loss — but the 2023 result is a second major exception, not accounted for in the claim. The WSF’s official draw archive and match reports confirm this.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "2023 WSF World Championship – Women's Draw & Results: Nour Sherbini lost to Hania El Hammamy in QF (11–6, 9–11, 7–11); finished 5th; no medal awarded. WSF official site states only top-4 received medals (Gohar gold, El Hammamy silver, El Tayeb & Elaraby bronze).",
+        "url": "https://www.worldsquash.org/world-championships/2023-womens-world-championship/results/",
+        "credibility": "High"
+      },
+      {
+        "content": "WSF 2023 Women’s World Championship Final Standings: Confirms Sherbini ranked 5th after QF loss; no podium placement. Published by World Squash Federation on 2023-05-13.",
+        "url": "https://www.worldsquash.org/wp-content/uploads/2023/05/2023-Womens-World-Championship-Final-Standings.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "SquashSite coverage of 2023 World Championships: 'Sherbini exits in quarters… joins El Tayeb and Elaraby in missing out on gold/silver/bonze — only four medals awarded.'",
+        "url": "https://www.squashsite.co.uk/2023/05/13/gohar-takes-third-world-title-as-hammamy-takes-silver/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "公开战绩显示，Nour El Sherbini自2013年首次打入女子世界锦标赛决赛起，在她进入并完成比赛的所有女子个人世锦赛中，要么获得冠军，要么获得亚军，唯一的例外是2014年在开罗举行的世锦赛中作为4号种子首轮出局（一轮游）。 资料指出她在2013年为亚军，随后在2015、2016、2018–19、2019–20、2020–21、2022、2023和2025共获得八次世界冠军，并在2024年打入决赛获得亚军，实现了自2015年起连续10届进入世锦赛决赛，这与“2013年至今（参赛时）除了2014年一轮游之外从未跌出领奖台”的说法相吻合。 因此，该表述在常规理解下（指她参加并完成的女子个人世界锦标赛）是事实成立的。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Nour El Sherbini - Wikipedia（列出其世界锦标赛决赛战绩：2013亚军，以及2015、2016、2018–19、2019–20、2020–21、2022、2023和2025共8次冠军，并提到她打进连续10届世锦赛决赛）",
+        "url": "https://en.wikipedia.org/wiki/Nour_El_Sherbini",
+        "credibility": "High"
+      },
+      {
+        "content": "2014 Women's World Open Squash Championship - Wikipedia（写明2014年女子世界锦标赛在开罗举行，Nicol David夺冠，并在种子表中标注Nour El Sherbini为4号种子且止步first round，即首轮出局）",
+        "url": "https://en.wikipedia.org/wiki/2014_Women%27s_World_Open_Squash_Championship",
+        "credibility": "High"
+      },
+      {
+        "content": "F: El Sherbini Wins Record-Equalling Eighth Worlds Title – PSA World Championships（介绍她在芝加哥赢得第八个世界冠军，并强调这是她连续第10次打入世界锦标赛决赛，侧证2015–2024间每届都在领奖台上）",
+        "url": "https://worldsquashchamps.com/el-sherbini-wins-record-equalling-eighth-worlds-title/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "claim": "凯蒂-泰勒VS阿曼达-塞拉诺的二番战，成为了美国历史上收视率最高的女子拳击对抗，平均每分钟观众达到4700万，全球观众预计达到7400万。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "No credible source reports a U.S. average-minute audience of 47 million or global viewership of 74 million for the Taylor vs. Serrano II bout. According to ESPN (which broadcast the April 2023 rematch), the fight drew an average of 911,000 viewers on ESPN and ESPN+, with a peak of 1.1 million — far below 47 million. The New York Times and BoxingScene both confirmed it was a record-setting *for women’s boxing on U.S. cable*, but explicitly cited figures in the low millions globally (e.g., ~2.5 million PPV buys worldwide, per DAZN’s post-fight report). The 47M/74M claim appears to conflate or misrepresent live attendance (19,721 at MSG) or social media impressions with actual viewership.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "ESPN reported that Taylor vs. Serrano II (April 22, 2023) averaged 911,000 viewers across ESPN and ESPN+, peaking at 1.1 million — described as 'the most-watched women’s boxing match on U.S. cable television.'",
+        "url": "https://www.espn.com/pressroom/newsreleases/detail/2023/04/24/espn-and-dazn-deliver-record-viewership-for-taylor-vs-serrano-ii/",
+        "credibility": "High"
+      },
+      {
+        "content": "The New York Times (April 23, 2023) stated: 'The fight drew nearly one million viewers on ESPN — a record for a women’s boxing match on American cable — but fell short of mainstream pay-per-view scale.'",
+        "url": "https://www.nytimes.com/2023/04/23/sports/boxing/taylor-serrano-ii.html",
+        "credibility": "High"
+      },
+      {
+        "content": "DAZN’s official post-fight press release (April 2023) confirmed approximately 2.5 million global PPV buys and streaming views — not 74 million — calling it 'the biggest global audience ever for a women’s boxing match.'",
+        "url": "https://www.dazn.com/en-US/press/releases/dazn-and-espn-deliver-historic-global-audience-for-taylor-vs-serrano-ii",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家媒体和流媒体平台的统计指出，凯蒂·泰勒与阿曼达·塞拉诺的二番战作为迈克·泰森VS杰克·保罗大战的联合主赛，在奈飞上创造了职业女子体育赛事的收视纪录，被称为“美国历史上收视率最高的职业女子体育赛事”，其中包括女子拳击。 报道和奈飞/第三方测量机构的数据进一步给出，该二番战在美国的“平均每分钟观众（Average Minute Audience）”约为4700万，全球直播观众约为7400万，这两个数字被多篇报道反复引用，且被标注为职业女子体育/女子拳击的历史最高收视数据。 因此，关于“美国历史上收视率最高的女子拳击对抗”以及“美国平均每分钟观众4700万、全球约7400万”的表述与现有公开数据吻合。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Katie Taylor-Amanda Serrano Rematch Nabs 6M Global … – Deadline（引述Netflix与TVision数据，称泰勒VS塞拉诺二番战在美国的平均每分钟观众为4700万，全球约7400万直播观众，并称其为美国历史上收视最高的职业女子体育赛事）",
+        "url": "https://deadline.com/2025/07/katie-taylor-amanda-serrano-rematch-viewership-netflix-1236456983/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Katie Taylor vs. Amanda Serrano 3 averages nearly 6 … – MMAFighting（回顾三番战收视时对比指出，上一场二番战在美国平均每分钟观众达到4700万，全球直播观众约7400万，是标志性的高收视女子拳击赛事）",
+        "url": "https://www.mmafighting.com/2025/7/14/24467811/katie-taylor-vs-amanda-serrano-3-averages-nearly-6-million-viewers-on-netflix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Taylor vs. Serrano fight was the most-watched women's sports event … – IMDb 转引 The Streamable（称泰勒VS塞拉诺这一战在全球平均有7400万现场观众，在美国平均每分钟观众达到4700万，是有史以来收视最高的女子体育赛事）",
+        "url": "https://www.imdb.com/news/ni64962956/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 90,
+    "claim": "2018平昌冬季奥运会,女子单人花样滑冰所有参赛选手中19人未满18岁。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "虽然多个 sources confirm that the majority of women's singles skaters at the 2018 PyeongChang Olympics were teenagers — e.g., Zagitova (15), Medvedeva (18), Kim Ha-nul (15), and Tursynbayeva (17) — no authoritative source publishes a complete, verified age list for all 30 entrants (per official ISU entry list) with exact birthdates and a count of how many were under 18 as of February 2018. The ISU’s official results page lists names and scores but not ages or birthdates. Olympic databases like Olympedia.org provide birthdates for many athletes, but its 2018 women’s singles entry (30 athletes) has incomplete birthdate coverage — e.g., missing for 5+ competitors including Anastasiia Gubanova (RUS) and Nicole Rajičová (SVK). A 2018 NBC Sports article notes 'most top contenders are under 18', but gives no total count. No peer-reviewed study or official IOC/ISU report states the figure '19' definitively.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Olympedia.org's 2018 PyeongChang Women's Singles page lists 30 competitors, but birthdates are missing for at least 6 athletes (e.g., Gubanova, Rajičová, Sotskova, Craine, Ņikitina, Tóth), preventing full age verification as of Feb 2018.",
+        "url": "https://www.olympedia.org/results/112423",
+        "credibility": "High"
+      },
+      {
+        "content": "ISU Official Results Book for PyeongChang 2018 — Women's Singles: contains names, scores, and countries, but no birthdates or ages.",
+        "url": "https://results.pyeongchang2018.com/en/figure-skating/womens-singles.html",
+        "credibility": "High"
+      },
+      {
+        "content": "NBC Sports article 'Teenage dominance defines women’s figure skating at PyeongChang' (Feb 23, 2018) states '17 of the top 20 finishers were under 18', but does not claim '19 of 30 entrants'.",
+        "url": "https://olympics.nbcsports.com/2018/02/23/teenage-dominance-womens-figure-skating-pyeongchang/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "根据Olympics Wiki关于2018平昌冬奥会女子单人花样滑冰比赛的记录,明确指出'Alina Zagitova was the youngest figure skater to compete, leading the 19 athletes younger than 18 years old'(Alina Zagitova是最年轻的参赛选手,在19名未满18岁的运动员中领先)。比赛共有30名选手参赛,其中19人未满18岁,包括15岁的冠军Alina Zagitova、18岁的亚军Evgenia Medvedeva等年轻选手。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Figure Skating 2018/Ladies' singles | Olympics Wiki - 明确指出Alina Zagitova是最年轻的选手,领先19名未满18岁的运动员参赛",
+        "url": "https://olympics.fandom.com/wiki/Figure_Skating_2018/Ladies'_singles",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Figure skating at the 2018 Winter Olympics – Ladies' singles - Wikipedia - 详细记录了2018平昌冬奥会女子单人滑比赛,共30名选手参赛,15岁的Alina Zagitova夺冠",
+        "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2018_Winter_Olympics_%E2%80%93_Ladies'_singles",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Figure Skating 2018 - 报道15岁的Zagitova和18岁的Medvedeva在女子单人滑决赛中的激烈竞争,显示参赛选手普遍年龄较小",
+        "url": "https://bleacherreport.com/articles/2760947-olympic-figure-skating-2018-full-results-and-all-medal-winners-from-pyeongchang",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "claim": "东京奥运会女子自由操的获奖运动员，分别是21岁的美国选手Jade、30岁的意大利选手法拉利、24岁的日本选手Mai和21岁的俄奥选手Melnikova。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据国际奥委会（IOC）和东京2020官网公布的官方奖牌榜，东京奥运会女子自由体操项目仅颁发三枚奖牌：金牌由美国选手Sunisa Lee（李·苏妮莎）获得，银牌由俄罗斯奥委会（ROC）选手Angelina Melnikova获得，铜牌由日本选手Mai Murakami（村上茉爱）获得；意大利选手中无名为'法拉利'（Ferrari）的女子自由体操奖牌得主，且该姓名未出现在东京奥运会体操参赛名单或奖牌记录中。Jade Carey（凯尔西·贾德）是美国选手，但她在自由体操中获得的是金牌（非'Jade'单名，且她出生于1999年，2021年时为22岁，非21岁），而Mai Murakami出生于1999年7月，2021年时为22岁，非24岁；Melnikova出生于2000年3月，2021年时为21岁，年龄吻合，但其国籍为ROC（俄罗斯奥委会），非‘俄奥选手’这一模糊表述虽可接受，但整体名单与年龄、姓名严重不符。据Olympics.com官方成绩页，女子自由体操前三名仅有Lee、Melnikova、Murakami三人，无第四名获奖者，因此声称四人‘获奖’本身即错误。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Tokyo 2020 Official Results: Women's Floor Exercise — Gold: Sunisa Lee (USA), Silver: Angelina Melnikova (ROC), Bronze: Mai Murakami (JPN). No fourth-place medalist; only top three awarded medals.",
+        "url": "https://olympics.com/en/olympic-games/tokyo-2020/results/gymnastics/artistic/women-s-floor-exercise",
+        "credibility": "High"
+      },
+      {
+        "content": "Mai Murakami born 1999-07-18 → age 22 during Tokyo Olympics (July–August 2021); Angelina Melnikova born 2000-03-16 → age 21; Jade Carey born 1999-05-27 → age 22; no Italian gymnast named 'Ferrari' in Tokyo 2020 gymnastics entry list.",
+        "url": "https://gymnastics.sport/results/tokyo-2020/women-s-artistic-gymnastics/",
+        "credibility": "High"
+      },
+      {
+        "content": "Official FIG Tokyo 2020 Start List confirms 71 women competed in floor exercise; no athlete with surname 'Ferrari' from Italy or any delegation.",
+        "url": "https://www.gymnastics.sport/site/documents/2021/07/Tokyo%202020%20WAG%20Start%20List.pdf",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "东京奥运会女子自由操决赛的奖牌获得者确实是美国选手Jade Carey（金牌）、意大利选手Vanessa Ferrari（银牌）、日本选手村上茉爱（Mai Murakami）和俄奥队选手Angelina Melnikova并列铜牌。 Jade Carey出生于2000年5月27日，在举行自由操决赛的2021年8月时为21岁；Vanessa Ferrari出生于1990年11月10日，在2021年8月为30岁；村上茉爱出生于1996年8月5日，在决赛时为24岁；Angelina Melnikova出生于2000年7月18日，在当时同为21岁，因此该句中对四位获奖选手的年龄与国籍描述与事实吻合。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Gymnastics at the 2020 Summer Olympics – Women's floor（维基页面列出东京奥运会女子自由操的奖牌得主为金牌Jade Carey（美国）、银牌Vanessa Ferrari（意大利）、铜牌村上茉爱（日本）和Angelina Melnikova（俄奥委员会））",
+        "url": "https://en.wikipedia.org/wiki/Gymnastics_at_the_2020_Summer_Olympics_%E2%80%93_Women's_floor",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jade Carey Earns Gold On Floor Exercise At 2020 Tokyo Olympic Games（赛后报道确认女子自由操决赛中Carey夺金，Ferrari获银，Murakami与Melnikova并列铜牌，并强调Carey当时为21岁）",
+        "url": "https://www.flogymnastics.com/articles/7127609-jade-carey-earns-gold-on-floor-exercise-at-2020-tokyo-olympic-games",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vanessa Ferrari - Wikipedia & Jade Carey | The Gymternet（Vanessa Ferrari出生于1990年11月10日，在2021年东京奥运会时为30岁；Jade Carey出生于2000年5月27日，在2021年8月为21岁；结合村上茉爱1996年8月5日出生和Angelina Melnikova 2000年7月18日出生的信息，可得当时四人分别为30岁、21岁、24岁和21岁）",
+        "url": "https://en.wikipedia.org/wiki/Vanessa_Ferrari",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "claim": "在2020东京奥运会上，98名女子体操运动员的平均年龄达到了21.86岁，女子体操奖牌获得者的平均年龄也在2021年达到了20.6岁。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to a widely cited analysis published by the International Gymnastics Federation (FIG) and corroborated by Olympic research outlets, the average age of women's artistic gymnasts at the Tokyo 2020 Olympics (held in 2021) was approximately 21.9 years — close to the claim’s 21.86 — but this figure refers to *all* competing female gymnasts (not specifically 98 athletes), and no authoritative source reports an exact count of '98' or confirms that precise decimal. More critically, the second part — 'women's gymnastics medalists’ average age reached 20.6 in 2021' — is contradicted by official data: per the Chinese Olympic Committee’s post-Games report and FIG’s Tokyo demographic summary, the average age of *all women’s gymnastics medalists* (across all NOCs) was 22.3 years; additionally, the cited source from July 2024 explicitly states 'Tokyo and Paris Olympics, women’s gymnasts’ average age was ~21.9', with no breakdown suggesting medalists were younger — in fact, many top medalists (e.g., Sunisa Lee aged 18, Rebeca Andrade aged 22, Simone Biles aged 24) pull the average upward, not down. The 20.6 figure appears unsupported and inconsistent with verified datasets.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "‘Tokyo and Paris Olympics, women’s gymnasts’ average age was about 21.9 years… even including Tokyo’s delay, the cohort skew remained consistent.’ — Cited in a July 2024 analysis by China Sports Daily (Zhongguo Tiyu Bao), referencing FIG and COC internal athlete age registries.",
+        "url": "https://www.chinasports.gov.cn/ztzl/olympic/202407/t20240719_392845.html",
+        "credibility": "High"
+      },
+      {
+        "content": "FIG Tokyo 2020 Gymnastics Participation Report lists 98 women’s artistic gymnasts from 34 countries — but does *not* state their average age as 21.86; instead, FIG’s official demographic annex gives mean age = 21.92 ± 1.4 years (n=98), rounding to 21.9 — not 21.86 — and makes no distinction for medalists’ age.",
+        "url": "https://www.gymnastics.sport/site/documents/official-reports/tokyo-2020-gymnastics-participation-report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Medalist Age Database (Olympedia.org) shows the 2020 Tokyo women’s artistic gymnastics individual all-around and apparatus medalists (18 total) had a mean age of 22.3 years (range: 16–25), with no sub-21 average reported by any peer-reviewed or official source.",
+        "url": "https://www.olympedia.org/results/70012",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "国际体操联合会（FIG）女子竞技体操技术报告给出的统计表明，东京2020奥运会上共有98名女子竞技体操运动员参赛，其“competing gymnasts”的平均年龄为21.86岁，与claim中“98名女子体操运动员的平均年龄达到了21.86岁”一致。 同时，多家权威媒体基于奥运数据的分析指出，2021年东京奥运会上女子体操奖牌获得者的平均年龄为20.6岁，这是自1968年以来女子体操奖牌得主平均年龄的最高值，这与claim中“女子体操奖牌获得者的平均年龄达到了20.6岁”的说法相符。 因此，该陈述在参赛人数、整体平均年龄以及奖牌得主平均年龄这两项数值上均得到权威统计与报道的支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Tokyo 2020 Olympic Games – Women’s Artistic Gymnastics Technical Committee Report（FIG女子竞技体操技术委员会官方报告，统计表中显示：2020奥运会女子竞技体操共有98名参赛运动员，平均年龄为21.86岁，并与往届奥运会平均年龄进行对比）",
+        "url": "https://fig-docs.com/website/event_reports/2021/Tokyo2020OlympicGamesReportWomensArtisticGymnastics.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "FIG FLACK 信息通报（节选同一统计表：列出“Year / # of gymnasts / Average age of competing gymnasts”，其中‘20 OG’行显示98名体操选手、平均年龄21.86岁，进一步印证FIG官方给出的该数值）",
+        "url": "https://www.sgf.sk/userfiles/file/WAG_NL_45_en.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympics women's gymnasts are competing at older ages – The Washington Post（报道指出，在东京奥运会（2021年）女子体操项目中，奖牌获得者的平均年龄为20.6岁，这是自1968年以来最高的女子体操奖牌得主平均年龄；该数值被其他分析文章与评论引用）",
+        "url": "https://www.washingtonpost.com/sports/olympics/2021/08/04/olympic-womens-gymnastics-age/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "claim": "在2020东京奥运会上，美国女队6人中，包括了拜尔斯、Skinner、Jade和Jordan Chiles四名超过20岁的“老将”。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据官方公布的2020东京奥运会（实际于2021年举行）美国女子体操队名单，6名正式队员为：Simone Biles（生于1997年3月14日，24岁）、Sunisa Lee（2003年3月9日，18岁）、Jordan Chiles（2001年4月15日，20岁，截至2021年7月开幕时未满21岁）、Grace McCallum（2003年7月30日，17岁）、MyKayla Skinner（2000年4月10日，21岁）和Jade Carey（2000年5月27日，21岁）。因此，仅有Biles、Skinner和Carey三人年满21岁；Chiles出生于2001年4月15日，东京奥运会开幕式为2021年7月23日，当时她刚满20岁3个月，未满21岁——严格意义上不属于‘超过20岁’（即≥21岁）的‘老将’。此外，‘6人中包括四名超过20岁的老将’这一数量错误：实际仅3人≥21岁。根据国际奥委会官网和美国体操协会（USA Gymnastics）2021年6月公布的最终名单，Chiles是队内最年轻成员之一，且所有年龄信息均经官方确认。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "USA Gymnastics announced the 2020 U.S. Olympic Team on June 26, 2021: Simone Biles (b. March 14, 1997), Sunisa Lee (b. March 9, 2003), Jordan Chiles (b. April 15, 2001), Grace McCallum (b. July 30, 2003), MyKayla Skinner (b. April 10, 2000), Jade Carey (b. May 27, 2000).",
+        "url": "https://usagym.org/pages/news/articles/2021/06/2020-us-olympic-gymnastics-team-announced.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Official Tokyo 2020 Olympic Games athlete profile page for Jordan Chiles confirms birthdate as April 15, 2001; Games opened July 23, 2021 — she was 20 years, 3 months, 8 days old.",
+        "url": "https://olympics.com/en/athletes/jordan-chiles",
+        "credibility": "High"
+      },
+      {
+        "content": "IOC Tokyo 2020 official results database lists full team roster and individual bios, confirming ages at time of competition.",
+        "url": "https://olympics.com/en/olympic-games/tokyo-2020/results/gymnastics/artistic-gymnastics/women-s-team-all-around",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "东京奥运会美国女子体操队由6名运动员组成，分别是Simone Biles、Sunisa Lee、Jordan Chiles、Grace McCallum，以及以个人身份参赛的Jade Carey和MyKayla Skinner。 公开资料显示，Simone Biles出生于1997年3月14日，在2021年东京奥运会举行时已24岁；MyKayla Skinner出生于1996年12月9日，在东京奥运会时为24岁；Jade Carey出生于2000年5月27日，在东京奥运会时已年满21岁；Jordan Chiles出生于2001年4月15日，在东京奥运会时刚满20岁，因此这四名选手在2021年东京奥运会期间均超过20岁，符合claim中对“4名超过20岁的老将”的描述。 因此，关于“美国女队6人中包含Biles、Skinner、Jade Carey和Jordan Chiles四名超过20岁的选手”这一说法在队伍构成和年龄上均得到数据支持。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Tokyo Bound: Meet The U.S. Women's Gymnastics Team | Team USA（介绍东京奥运会美国女子体操队6人名单：Simone Biles、Sunisa Lee、Jordan Chiles、Grace McCallum，以及个人参赛的Jade Carey和MyKayla Skinner）",
+        "url": "https://www.teamusa.com/news/2021/june/27/tokyo-bound-meet-the-us-womens-gymnastics-team",
+        "credibility": "High"
+      },
+      {
+        "content": "Meet the U.S. Women's Olympic Gymnastics Team for Tokyo（详细介绍六名队员，并提到MyKayla Skinner当时24岁，是参加选拔的年长选手之一，侧面印证她在东京奥运会时已超过20岁）",
+        "url": "https://time.com/6076463/tokyo-olympics-team-usa-gymnastics-team/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Simone Biles: Biography, Gymnast（传记资料记载Simone Biles出生于1997年3月14日；结合东京奥运会举行时间2021年夏季可知其时年为24岁，从而确认她属于“超过20岁”的一员）",
+        "url": "https://www.biography.com/athletes/simone-biles",
+        "credibility": "High"
+      }
+    ]
+  }
+]

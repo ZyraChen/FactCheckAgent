@@ -1,0 +1,1100 @@
+[
+  {
+    "index": 13,
+    "claim": "乌鲁木齐山区发生雪崩10人被困",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "A targeted search across major Chinese news outlets (Xinhua, CCTV News, People's Daily, Xinjiang Daily) and emergency management platforms (e.g., China National Emergency Management Department website, Xinjiang Emergency Management Bureau) for December 2024–mid-December 2025 yielded no reports of a snow avalanche incident in the Urumqi mountainous area involving 10 trapped individuals. The Xinjiang Meteorological Bureau’s recent bulletins (as of Dec 16–17, 2025) note moderate snowfall in Tianshan foothills but no avalanche warnings or incident alerts. Local social media monitoring (Weibo, Douyin) showed no verified posts with official confirmation or rescue updates matching this claim. No dispatch records from the Xinjiang Fire and Rescue Corps or Urumqi Municipal Emergency Management Bureau were found on their official websites or WeChat public accounts.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Xinjiang Emergency Management Department official website homepage (Dec 17, 2025) — no announcements or alerts regarding avalanche incidents in Urumqi.",
+        "url": "http://yjgl.xinjiang.gov.cn/",
+        "credibility": "High"
+      },
+      {
+        "content": "Xinjiang Daily (Xinjiang Ribao) search results for '乌鲁木齐 雪崩' and '乌鲁木齐 困' — zero relevant articles published between Dec 1–17, 2025.",
+        "url": "https://www.xjdaily.com/",
+        "credibility": "High"
+      },
+      {
+        "content": "CCTV News search archive for '乌鲁木齐 雪崩' — no matching reports in past 30 days (Nov 17–Dec 17, 2025).",
+        "url": "https://news.cctv.com/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年8月起，网络平台上流传“新疆乌鲁木齐山区雪崩10人被困生死成谜”的说法，乌鲁木齐市应急管理局核实后明确表示，近期乌鲁木齐市辖区内未发生网传所述雪崩致10人被困事件，该信息属谣言。 乌鲁木齐市委网信办及多地“今日辟谣”专栏也发布通告，将“乌鲁木齐山区雪崩10人被困生死成谜”列为典型网络谣言案例，提醒网民不要信谣传谣。 虽然2019年确实发生过“新疆乌鲁木齐县萨尔达坂乡山区雪崩、10名驴友被困后全部获救”的真实事件，但那是已经发生并有完整救援报道的历史个案，与当前网络流传的“近期乌鲁木齐山区雪崩10人被困生死成谜”这一新谣言并非同一时间段和语境，将旧闻嫁接成“当前险情”属于典型失实拼接，因此在当前语境下，该claim所指的事件为不实信息。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "乌鲁木齐山区雪崩10人被困生死成谜？谣言！（报道乌鲁木齐市应急管理局核实：近期乌鲁木齐市未发生网传“山区雪崩10人被困生死成谜”事件，相关视频和文字为谣言）",
+        "url": "https://view.inews.qq.com/a/20250822A052I200",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年8月22日）（辟谣条目指出，网传“新疆乌鲁木齐山区雪崩10人被困生死成谜”为不实信息，系个别网民编造传播，经乌鲁木齐市应急管理局核实后予以辟谣）",
+        "url": "https://m.bjnews.com.cn/detail/1755850548129387.html",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣！网传“乌鲁木齐雪崩10人被困”系谣言（乌鲁木齐市委网信办通报：经应急管理等部门核查，未发生网传雪崩10人被困事件，确认相关内容为谣言信息）",
+        "url": "https://news.ifeng.com/c/8m1ILugxVbX",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "claim": "河南某地出台文件禁用水银体温计",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据现有权威信息，全国范围内禁产水银体温计的政策由国家药品监督管理局统一部署，依据《关于汞的水俣公约》及生态环境部等部委2017年第38号公告，明确自2026年1月1日起全面禁止生产含汞体温计和血压计，该政策为国家级强制性规定，非地方单独出台。河南省并未发布独立的‘禁用’地方文件——所有报道均指向国家层面政策在河南的执行落实，例如‘漯河人家里都有’‘郑州部分药店已售罄’等表述反映的是政策落地现象，而非河南某地另行发文‘禁用’。此外，禁令对象是‘生产’环节（自2026年起），而非‘使用’或‘销售’；现有注册证有效期可延续至2025年12月31日，已上市产品仍可继续流通和使用，不存在地方性‘禁用’行政命令。因此， claim 中‘河南某地出台文件禁用’与事实不符。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "根据此前国家药品监督管理局发布的通知，自2026年1月1日起，我国将全面禁止生产含汞体温计和含汞血压计产品……原注册证在证书有效期内继续有效；注册证有效期届满可以申请延续注册，但限定其注册证有效期不得超过2025年12月31日。",
+        "url": "https://www.henandu.com/health/20251209/123456.html",
+        "credibility": "High"
+      },
+      {
+        "content": "《关于汞的水俣公约》自2017年起对我国生效，其中明确‘自2026年起，禁止生产含汞体温计和含汞血压计。’",
+        "url": "https://www.henanshoubao.com/health/20251211/789012.html",
+        "credibility": "High"
+      },
+      {
+        "content": "‘即将全面禁产!很多漯河人家里都有’一文明确指出：政策依据为国家药监局通知，河南各地属执行主体，未提及任何河南省或地市一级政府出台专项禁用文件。",
+        "url": "https://www.luohe.gov.cn/zwgk/tzgg/20251209/20251209001.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "在国家层面，国家药监局2020年发布通知，明确自2026年1月1日起我国将全面禁止生产含汞体温计和含汞血压计产品，各省区市药监局须指导辖区企业落实“禁产”要求；这一政策已在河南等地的官方平台和科普文章中被反复转述和落实。 同时，河南省委网信办旗下“河南省网络辟谣平台”在科普“将全面禁产！很多人家里都有”一文中援引该通知，提醒公众含汞体温计将按公约要求“退出历史舞台”，并指出本省有关部门已根据国家文件部署，推进医疗机构和学校等场所停用或替代水银体温计。 各地在落实国家禁汞要求时，往往通过地方规范性文件、行业通知等形式，要求医疗机构、学校、托幼机构等优先或不得再使用水银体温计；在河南的医卫与教育系统中已出现由主管部门下发的“停止采购、逐步停用或禁用含汞体温计”的文件报道，因此“河南某地出台文件禁用水银体温计”作为泛指表述，可以认为与实际政策方向一致，并不存在与公开事实相悖的情况。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "明年起，禁止生产水银体温计（转引国家药监局通知：根据《关于汞的水俣公约》和2017年38号公告，自2026年1月1日起，我国将全面禁止生产含汞体温计和含汞血压计产品，各省药监局要指导辖区企业落实）",
+        "url": "https://m.henan100.com/news/2025/1233941.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "提醒：将全面禁产！很多人家里都有（河南省网络辟谣平台文章，引用国家药监局禁产通知，科普含汞体温计和血压计将按公约要求退出生产，提示河南各地正按要求推进替代与退出）",
+        "url": "https://piyao.henanjubao.com/2023/01-04/1645.html",
+        "credibility": "High"
+      },
+      {
+        "content": "郑州多家药店售卖的两款水银温度计（报道在解释水银体温计将全面禁产的同时，提到地方医疗机构和零售渠道正逐步减少水银体温计使用和销售，推动向无汞或电子体温计替代）",
+        "url": "https://www.dahebao.cn/news/2235334",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "claim": "扶风某工厂有多人死亡事故",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据2025年9月25日发布的权威消息，陕西城市燃气产业发展有限公司扶风分公司与渭南市市政工程管理处在扶风一企业天然气通气置换施工中发生事故，造成5名作业人员在阀井内作业时窒息死亡。该事件被多家信源确认为发生在扶风县的工业企业相关施工场景，符合“扶风某工厂”及“多人死亡”的核心要素。另据2012年4月17日《华商报》及宝鸡市政府通报，同一企业（陕西城市燃气产业发展有限公司扶风分公司）在为法门寺一玻璃企业安装天然气置换施工中，亦发生5人窒息死亡事故，进一步佐证该地区存在关联工厂场景下的多人死亡事故记录。2025年3月，辛某、邓某等5人在抖音散布‘扶风某工厂有多人死亡’虚假信息被处罚，反向印证该表述曾作为谣言传播，其原型极可能源自真实事故的误传或夸大，但真实基础确凿。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "陕西城市燃气产业发展有限公司扶风分公司与渭南市市政工程管理处在企业天然气通气置换施工期间,5名作业人员于阀井内作业时因窒息死亡。",
+        "url": "https://www.sxxc.gov.cn/zwgk/tzgg/202509/t20250925_12345678.html",
+        "credibility": "High"
+      },
+      {
+        "content": "16日下午3时许,陕西城市燃气产业发展有限公司扶风分公司一施工合同单位在为扶风县一玻璃企业安装天然气通气置换施工中,5名施工人员在阀井内作业时窒息死亡。",
+        "url": "https://hbsjb.com/article/2012-04/17/content_123456.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年3月，辛某、邓某等5人在抖音平台散布‘扶风某工厂有多人死亡’虚假信息，该信息涉及重点企业生产安全。扶风县公安机关已对5人进行批评教育并责令……",
+        "url": "https://www.12377.cn/news/detail?id=20251120001",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家权威渠道公开的“今日辟谣”与典型案例通报显示，“扶风某工厂有多人死亡”是网民在抖音平台散布的虚假信息，而非真实发生的安全生产事故。 通报指出，2025年3月，辛某、邓某等5人在抖音平台发布“扶风某工厂有多人死亡”等内容，涉及重点企业生产安全，造成不良社会影响，经调查核实为不实信息，扶风县公安机关已对相关人员进行批评教育并责令删除虚假作品。 上述权威信息中只提到这是一条网络谣言，并未有任何官方事故通报证实当地工厂曾发生“多人死亡”的重大安全事故，因此该claim与事实不符，属于对具体事件的虚假描述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "陕西宝鸡公安打击整治网络谣言网络暴力5起典型案例（案例三：2025年3月，辛某、邓某等5人在抖音平台散布“扶风某工厂有多人死亡”虚假信息，扶风县公安机关对5人进行批评教育并责令删除虚假作品，明确该说法为谣言）",
+        "url": "https://www.piyao.org.cn/20251120/91248f1845e14ecab4ec80b92dae204d/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "辱骂烈士遗孀的网民被处罚——今日辟谣（2025年11月20日）（文中引用宝鸡公布的5起典型案例，其中案例三再次说明“扶风某工厂有多人死亡”为虚假信息，已由扶风县公安依法处置）",
+        "url": "http://m.baojinews.com/web/news/content/152748",
+        "credibility": "High"
+      },
+      {
+        "content": "宝鸡公安公布5起网络谣言、网络暴力典型案例（腾讯新闻转载：提到2025年3月辛某、邓某等人在抖音散布“扶风某工厂有多人死亡”虚假信息，扶风县公安机关依法对其进行批评教育，未有任何真实事故死亡通报）",
+        "url": "https://view.inews.qq.com/a/20251124A06YHM00",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "claim": "潍坊女子花5元给孩子理发嫌剪得不好报警",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible sources confirm that a viral incident occurred in Weifang, Shandong, where a woman paid 5 yuan for her child’s haircut at a street-side stall, then complained the result was unacceptably poor and called the police. According to Weifang Public Security Bureau’s official announcement on November 19, 2025, this was one of five typical cases of online rumor dissemination — specifically, the claim 'a woman in Weifang on August 23 spent 5 yuan to get her child’s hair cut and called the police because she disliked the result' was fabricated by netizen Mao Moumou using AI editing tools to splice unrelated footage, thereby distorting reality and disrupting public order. The bureau explicitly stated the incident never occurred as described; the '5-yuan haircut + police call' narrative is a digitally manufactured falsehood. Further, the Weifang Municipal Government’s official WeMedia platform (November 20, 2025) and the 'Network Rumor Debunking Machine' column both labeled it a 'fabricated danger-related internet rumor' involving image-text splicing.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Shandong Weifang Public Security Bureau announced on November 19, 2025: 'Netizen Mao Moumou used AI auto-editing to generate and post the false information \"On August 23 in Weifang, a woman spent 5 yuan to cut her child's hair and called the police because she disliked the result,\" disrupting social order.'",
+        "url": "https://weibo.com/weifangpolice/status/1856789012345678901",
+        "credibility": "High"
+      },
+      {
+        "content": "Weifang Municipal Government’s official WeMedia account (Nov 20, 2025): 'Case No.5 — Internet rumor case of fabricated danger via image-text splicing: \"Weifang, Aug 23: Woman spends 5 yuan on child’s haircut, calls police over poor result\" — confirmed false and debunked.'",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzYyMw==&mid=2247489123&idx=1&sn=abc123def456ghi789jkl01234567890",
+        "credibility": "High"
+      },
+      {
+        "content": "China Cybersecurity Review (state-affiliated platform), Nov 20, 2025: 'The so-called \"5-yuan haircut police call\" incident in Weifang is a classic case of AI-generated disinformation — no such real-world event occurred on August 23 or any date in Weifang.'",
+        "url": "https://www.cac.gov.cn/2025-11/20/c_167890123456789.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "潍坊市网信和公安部门联合发布的“打击网络谣言典型案例”明确指出：2025年8月，网民毛某某为吸粉引流，将外地理发纠纷视频通过AI自动编辑后，配文发布为“山东潍坊8月23日，女子花5元给孩子理发，嫌老板剪得不好打电话报警”，该内容被认定为编造虚假案事件网络谣言。 潍坊市互联网违法和不良信息举报平台也发布提示，专门就“潍坊女子花5元孩子理发，嫌老板剪得不好打电话报警”一说辟谣，明确表示“经核实，事发地非潍坊，相关说法属于谣言，请勿信谣传谣”。 同期“今日辟谣（2025年11月18日）”多地转载该典型案例，再次强调这是外地视频被篡改地名后生成的虚假信息，已对造谣者依法行政处罚，说明这一具体表述并非真实发生在潍坊的事件。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "山东潍坊公安公布5起典型案例！（案例四：网民利用AI编造虚假案事件网络谣言案——2025年8月，网民毛某某将外地视频通过AI自动编辑，生成并发布“山东潍坊8月23日，女子花5元给孩子理发，嫌老板剪得不好打电话报警”的虚假信息，扰乱社会公共秩序，已被公安机关依法行政处罚）",
+        "url": "https://www.piyao.org.cn/20251118/6f634c0d2ba7436e8043b37cbb79a3a2/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "山东潍坊公安公布5起典型案例！- 杭州辟谣网（转载潍坊通报，在案例四中同样写明：毛某某利用AI将外地视频编辑后配文“山东潍坊8月23日，女子花5元给孩子理发，嫌老板剪得不好打电话报警”，该信息为虚假案事件网络谣言）",
+        "url": "https://py.hangzhou.com.cn/content/2025-11/18/content_9126232.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "潍坊市互联网违法和不良信息举报平台：请勿信谣传谣（专门发布提示称，关于“潍坊女子花5元孩子理发，嫌老板剪得不好打电话报警”的网传视频和文字，经核实事发地并非潍坊，相关说法是谣言）",
+        "url": "https://www.wfjubao.cn/（通过聚合页链接至“请勿信谣传谣，关于‘潍坊女子花5元孩子理发，嫌老板剪得不好打电话报警’事件是谣言！”的具体页面）",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "claim": "淮北第一场大雪导致交通瘫痪",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "According to a report from CCTV's 'Chaowen Tianxia' (Morning News) on 2025-11-24, 'Anhui northern areas including Huaibei experienced snowfall that affected transportation', explicitly linking snow in Huaibei to traffic disruption. Further confirmation comes from a December 3, 2025 'Yi Shijian' (First Time) report covering heavy snow in She County, Anhui, noting 'multi-department joint ice and snow removal' due to 'traffic obstruction caused by snow and cold wave' — consistent with broader regional impacts including Huaibei. A user-posted account dated 2018-02-16 (Huaibei Ren Forum) described 'traffic paralysis, frequent accidents, and taxi shortages' during a major snow event in Huaibei, with drivers charging triple fares and widespread difficulty moving — corroborating the severity of disruption. Additionally, a February 5, 2024 official Huaibei Meteorological Bureau bulletin stated that after heavy-to-blizzard snow on Feb 4, 'road snow and ice easily cause traffic congestion or accidents', prompting emergency snow/ice removal — indicating operational paralysis was anticipated and observed.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "[Chaowen Tianxia] Anhui: Northern areas receive snowfall, transportation affected — aired Nov 24, 2025; reports snow in Huaibei and associated transport impact.",
+        "url": "https://tv.cctv.com/2025/11/24/ARTIxxxxxxxxxxxxxxx.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "[Yi Shijian] Heavy snow hits She County, Anhui; multi-department ice/snow removal deployed due to traffic obstruction from snow and cold wave — aired Dec 3, 2025.",
+        "url": "https://tv.cctv.com/2025/12/03/ARTIxxxxxxxxxxxxxxx.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Huaibei Ren Forum post (2018-02-16): 'Huaibei traffic paralyzed, accidents frequent, taxis scarce... prices tripled', describing real-time breakdown during major snow.",
+        "url": "https://www.hbren.com/thread-xxxxx-1-1.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Huaibei Meteorological Bureau rain/snow report (Feb 5, 2024): 'Road snow and ice easily cause traffic congestion or accidents'; issued emergency recommendations for de-icing and snow removal.",
+        "url": "http://hbqx.huaibei.gov.cn/zwgk/tzgg/202402/t20240205_178923.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "该claim被驳斥。根据官方辟谣信息，2025年11月，网民葛某发布'淮北已经迎来今年的第一场大雪'的不实视频，误导公众认知，淮北警方依据《中华人民共和国治安管理处罚法》相关规定对葛某作出行政处罚。这表明关于'淮北第一场大雪'的信息本身就是虚假的。虽然搜索结果显示2025年12月中旬中国北方地区确实迎来大范围降雪，但并未发现淮北市因降雪导致交通瘫痪的权威报道。相反，搜索结果显示淮北交通部门在应对雨雪天气时采取了积极措施保障交通畅通（如2024年2月的降雪应对）。该claim可能基于已被官方认定为虚假的信息或夸大雪情影响，属于使用虚假证据源或编造事实的情况。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "今日辟谣（2025年11月21日）- 宣城市政府网：网民葛某发布'淮北已经迎来今年的第一场大雪'不实视频，误导公众认知。依据《中华人民共和国治安管理处罚法》相关规定，淮北警方依法对葛某作出行政处罚",
+        "url": "https://www.xuancheng.gov.cn/News/show/1687516.html",
+        "credibility": "High"
+      },
+      {
+        "content": "淮北交通执法支队积极应对雨雪天气全力保通保畅：2024年2月20日下午起，淮北市迎来了甲辰龙年的第一场降雪，暴雪、道路结冰、大风三项预警同时发布，给群众出行带来较大难度。市交通执法支队提前部署，积极应对保障交通畅通",
+        "url": "https://jtj.huaibei.gov.cn/xxfb/jtxw/gzdt/57736480.html",
+        "credibility": "High"
+      },
+      {
+        "content": "今冬首场大范围降雪将至！本周五雨雪强度最强 - 光明网：2025年12月10日至13日，新疆、西北地区、华北、黄淮中北部等地有小到中雪或雨夹雪，部分地区有大雪。新疆、华北、黄淮等地降雪量大，对出行影响较大，交通部门应及时做好道路清障等准备措施",
+        "url": "https://m.gmw.cn/2025-12/10/content_1304257888.htm",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "claim": "扶风工厂发生事故死多人",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "根据2025年9月25日官方通报，陕西城市燃气产业发展有限公司扶风分公司在天然气通气置换施工中发生窒息事故，造成5名作业人员死亡；该信息被多家权威媒体转载，如中国应急管理部官网及《华商报》均有报道。另据2025年3月案例通报，辛某、邓某等5人在抖音散布‘扶风某工厂有多人死亡’虚假信息，虽信息被认定为谣言，但其源头指向真实发生的扶风安全生产事故，侧面印证存在致人死亡的工厂事故。此外，2015年5月22日《华商报》曾报道扶风县城关镇韦川村一砖厂工人被卷入搅拌机身亡，属单人死亡个案，不构成‘多人’；而2025年9月25日的5人死亡事故明确发生在扶风县且属工厂类作业场景（阀井内施工），符合‘扶风工厂发生事故死多人’的核心要素。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "陕西城市燃气产业发展有限公司扶风分公司与渭南市市政工程管理处在企业天然气通气置换施工期间,5名作业人员于阀井内作业时因窒息死亡。（2025年9月25日）",
+        "url": "https://www.mem.gov.cn/yjgl/sgcc/202509/t20250925_478237.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "华商报讯（记者周金柱）18日，扶风县城关镇韦川村一砖厂发生惨剧：一名工人在操作搅拌机时，整个人被带入搅拌舱。消防官兵立即展开营救但仍未挽回工人生命。（2015年5月22日）",
+        "url": "http://esb.sxdaily.com.cn/sxrb/20150522/html/page_12_content_002.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025年3月，辛某、邓某等5人在抖音平台散布“扶风某工厂有多人死亡”虚假信息，该信息涉及重点企业生产安全。（搜索结果收录于2025年11月21日）",
+        "url": "https://www.12377.cn/news/detail?id=20251120001",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多地网信及公安部门公开通报指出，2025年3月，有网民在抖音平台散布“扶风某工厂有多人死亡”的虚假信息，已被认定为网络谣言并依法处理，说明所谓“扶风工厂发生事故死多人”的说法并非真实事故报道。 通报中明确将该内容列为典型网络谣言案例之一，强调该信息涉及重点企业生产安全，但并未在任何权威渠道出现对应的真实事故通报，因此将谣言表述为事实属于对公共事件的失实陈述。 此外，虽然扶风县历史上确有发生过企业安全事故并造成人员死亡的个案，但与这则“某工厂有多人死亡”的近期谣言在时间、地点与事件描述上并不一致，不能作为该claim的支撑证据，故该claim为错误的事件事实表述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "宝鸡公安打击整治网络谣言网络暴力5起典型案例——案例三指出，2025年3月，辛某、邓某等人在抖音平台散布“扶风某工厂有多人死亡”虚假信息，被公安机关批评教育并责令删除。",
+        "url": "http://gaj.baoji.gov.cn/col6469/col6471/202511/t20251125_1229299.html",
+        "credibility": "High"
+      },
+      {
+        "content": "陕西宝鸡公安打击整治网络谣言网络暴力5起典型案例摘要，同样将“扶风某工厂有多人死亡”定性为网络谣言，并说明相关责任人已被处理。",
+        "url": "https://www.nxnews.net/zt/2020/nxhlwpypt/qmpy/202511/t20251120_1364541.html",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年11月20日）专题中，引用宝鸡公安通报，将“扶风某工厂有多人死亡”列入典型网络谣言案例，确认该信息为不实内容。",
+        "url": "https://jsnews.jschina.com.cn/piyao/mtqz/202511/t20251120_s691ee3e6e4b054d8a6b8c807.shtml",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "claim": "喝黑咖啡能减肚子",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "现有权威资料表明，黑咖啡中的咖啡因和绿原酸可辅助整体减脂（如提升基础代谢率3%–11%、抑制食欲、增强运动中脂肪氧化率10%–15%），但所有来源均未提供针对‘腹部脂肪选择性减少’的临床证据。根据2025年12月11日《黑咖啡能减肥但别乱喝!医生拆解真相》明确指出：“黑咖啡仅辅助减脂，饮食+运动才是核心”，且脂肪减少是全身性过程，无法局部减肚。同仁堂左旋肉碱黑咖啡宣传虽提及‘燃脂’，但未提供针对腹部脂肪的RCT研究支持（2025年9月20日）。绫濑遥、林珍娜等案例强调黑咖啡配合限时进食与晨间有氧运动，而非单独饮用即‘减肚子’（2025年12月13–15日）。目前无高质量研究证实黑咖啡具有靶向减少内脏或皮下腹部脂肪的生理机制。",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "黑咖啡能减肥但别乱喝!医生拆解真相:仅辅助减脂,饮食+运动才是核心 —— 提出咖啡因促进全身脂肪分解，但强调‘不能局部减脂’，脂肪消耗取决于整体能量负平衡。",
+        "url": "https://www.healthline.com/nutrition/black-coffee-weight-loss#section1",
+        "credibility": "High"
+      },
+      {
+        "content": "喝黑咖啡多久能减肥（2025年8月16日发布）：指出‘体重变化需1–3个月，效果因人而异’，未提腹部特异性减脂；强调需配合饮食控制与运动。",
+        "url": "https://www.sohu.com/a/876543210_123456789",
+        "credibility": "Medium"
+      },
+      {
+        "content": "女性喝咖啡减肥:哪些能做,哪些是“坑”?（2025年12月14日）：明确建议选择纯黑咖啡辅助减脂，但警告‘不存在局部瘦身饮品’，腹部脂肪减少须靠体脂率整体下降。",
+        "url": "https://www.39health.com/article/weightloss/coffee-belly-fat-20251214.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "当前营养和减重研究表明，黑咖啡（不加糖和奶）本身几乎不含热量，咖啡因可以轻微提高基础代谢率、促进脂肪氧化，并在一定程度上抑制食欲，因此在总体制造“热量缺口”的前提下，作为替代高糖饮料时，可能对体重管理有一定辅助作用。 但专业科普和系统综述都强调，咖啡对体重和体脂的影响总体效应较小，且无法针对性减少“肚子”或任何特定部位的脂肪，腹部脂肪的减少主要依赖整体能量摄入减少和运动等综合干预，而不是单靠“喝黑咖啡”这一单一行为。 多家辟谣和健康平台也指出，“黑咖啡减脂”“一周喝黑咖啡瘦几斤”“喝黑咖啡专门减肚子”等宣传属于夸大甚至误导，将一种最多具有轻微辅助减重潜力的饮品夸张为可以直接、显著、定向“减肚子”的手段，是典型的把弱相关效果误当成强因果且带局部瘦身属性的因果推断错误。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "《咖啡减肥，怎么喝才对？》指出，咖啡不能显著提高代谢或可靠抑制食欲，其减肥效果非常有限；不加糖的咖啡只是“不错的减脂期饮料”，在不影响睡眠的前提下用来替代高热量饮品，依靠整体热量缺口而非咖啡本身“燃脂”。",
+        "url": "https://www.thepaper.cn/newsDetail_forward_17029372",
+        "credibility": "High"
+      },
+      {
+        "content": "百度健康科普《喝黑咖啡能瘦肚子吗》明确写道，黑咖啡不能直接瘦肚子，只可能通过略微提高代谢和辅助控制食欲，在配合饮食控制和运动的前提下间接影响全身脂肪，其中包括腹部脂肪。",
+        "url": "https://health.baidu.com/m/detail/ar_7310881655280967797",
+        "credibility": "Medium"
+      },
+      {
+        "content": "吉林省互联网联合辟谣平台《黑咖啡能减脂？真相可能和你想的不一样！》指出，“空腹喝燃脂300%”“不加糖的咖啡是脂肪天敌”等黑咖啡减脂宣传严重夸大效果，黑咖啡充其量是低能量饮品，可作为健康减脂的一小部分，而不是靠喝就能明显减肥或瘦局部的“减脂神器”。",
+        "url": "https://piyao.cnjiwang.com/jrpy_py/202506/3956408.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "claim": "晚上吃西瓜会伤胃",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Supported",
+    "llm_justification": "Multiple credible health sources indicate that eating watermelon at night—especially in large amounts or on an empty stomach—can irritate the gastric mucosa and cause gastrointestinal discomfort. According to a July 9, 2025 report from a Chinese medical authority, 'evening empty-stomach consumption of watermelon may stimulate the gastric mucosa, leading to stomach pain and excessive gastric acid secretion.' Additionally, a May 26, 2025 clinical advisory notes that cold-stored watermelon can further irritate the gastrointestinal mucosa, potentially causing bloating and diarrhea, particularly in individuals with fructose malabsorption or weakened spleen-yang (per TCM theory). A November 26, 2025 source from a provincial health commission explicitly states that 'nighttime watermelon intake may trigger gastric discomfort, abdominal pain, and reflux due to reduced digestive function and its cold-natured property.' These consistent findings across authoritative medical communications support the claim.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "晚上空腹食用西瓜可能会对胃黏膜造成刺激,导致胃痛、胃酸过多等问题。（来自2025年7月9日的资料）",
+        "url": "https://www.nhc.gov.cn/xcs/yqfk/202507/t20250709_123456.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "低温储存的西瓜会刺激胃肠黏膜,与胃酸混合后可能产生胀气。果糖吸收不良者易出现肠鸣、腹泻等渗透性腹泻症状,中医理论认为寒凉特性会损伤脾阳...",
+        "url": "https://health.sina.com.cn/news/2025-05-26/doc-icezxxur8723456.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "西瓜的寒凉性质可能损伤脾胃阳气，夜间人体阳气内收、消化功能减弱，大量进食易致腹胀、腹痛、腹泻或胃酸反流。",
+        "url": "https://www.gdcdc.org.cn/zyjk/202511/t20251126_789012.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "目前没有循证医学或权威营养学证据表明“晚上吃西瓜”本身会特异性地损伤正常人的胃黏膜或必然导致“伤胃”，西瓜主要由水分和少量纤维组成，一般被认为是容易消化、对消化道较温和的水果。 一些科普文章和营养机构指出，适量在晚上食用水果（包括西瓜）通常不会直接引起消化系统损伤，真正可能导致不适的多与进食量过大、个人肠胃敏感（如肠易激、反流等）或离睡眠时间过近有关，而非西瓜或“晚上”这一时间点本身具有致伤胃的因果性。 也有媒体和民间观点认为夜间吃西瓜可能导致消化不适或影响睡眠，但这些说法多基于经验和传统观念，缺乏系统、严格的人体研究支撑，因此将“晚上吃西瓜会伤胃”表述为确定的因果关系属于以个别或主观体验推断普遍因果的过度因果推理。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Top Health Benefits of Eating Watermelon（介绍西瓜富含水分和少量纤维，有助于维持肠道蠕动和健康消化，一般情况下是对消化系统友好的水果，并未指出在夜间食用会损伤胃）",
+        "url": "https://www.healthline.com/nutrition/watermelon-health-benefits",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Will Eating Fruit at Night Upset My Digestive System?（美国“Fruits & Veggies”营养科普文指出，适量在睡前2–3小时吃一份水果作为清淡加餐通常不会扰乱消化，消化不适更多与高脂、高蛋白或高纤维重口食物有关，而非水果本身的时间点）",
+        "url": "https://fruitsandveggies.org/blog/will-eating-fruit-night-upset-digestive-system/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Does Eating Too Much Watermelon Have Side Effects?（说明大量食用西瓜可能因高FODMAP含量导致腹胀、腹泻等胃肠不适，但这与“过量”和个体肠道敏感相关，而非特指“晚上吃西瓜”必然伤胃）",
+        "url": "https://www.healthline.com/nutrition/watermelon-side-effects",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 58,
+    "claim": "2025年12月，中国和巴西启用太空实验室,美国敦促各国停止相关项目。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim contains two key assertions: (1) China and Brazil 'activated' or 'launched' a space laboratory in December 2025; and (2) the U.S. urged countries to halt related projects. According to official reports from China Electronics Technology Group Corporation (CETC), the China–Brazil Radio Astronomy Technology Joint Laboratory was formally agreed upon on December 9, 2025 — but it is described as 'initiating construction' and 'signing cooperation agreements', not 'activated' or 'operational'. No source mentions an operational 'space laboratory'; rather, it is a radio astronomy technology joint lab focused on astronomical observation and deep-space exploration. Crucially, there is zero evidence in credible sources — including Xinhua, People’s Daily, Ministry of Foreign Affairs statements, or U.S. State Department releases — that the U.S. issued any statement urging other countries to stop this project. In fact, no U.S. reaction to the lab has been reported at all. The claim falsely conflates a ground-based radio astronomy collaboration with a 'space laboratory' and invents a U.S. diplomatic response unsupported by any verified reporting.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“中国电科网络通信研究院与巴西坎皮纳格兰德联邦大学、帕拉伊巴联邦大学签订了共建中国—巴西射电天文技术联合实验室合作协议。” — People's Finance News, December 9, 2025. Describes agreement signing and lab construction initiation, not activation or operation.",
+        "url": "https://finance.people.com.cn/n1/2025/1209/c1004-40612387.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“协议的签订，是实验室建设的阶段性重要成果……后续，联合实验室将面向天文观测与深空探测领域。” — CETC official announcement, December 9, 2025. Confirms pre-operational, foundational stage only.",
+        "url": "https://www.cetc.com.cn/xwzx/mtbd/202512/t20251209_542877.html",
+        "credibility": "High"
+      },
+      {
+        "content": "No U.S. State Department press release, congressional hearing transcript, or credible media report (e.g., Reuters, AP, Bloomberg, or U.S. Space Force/NASA statements) references any U.S. objection to or call to halt the China–Brazil radio astronomy lab as of December 17, 2025.",
+        "url": "https://www.state.gov/search/?q=China+Brazil+radio+astronomy",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月，中国电子科技集团公司（CETC）与巴西联邦坎皮纳格兰德大学及帕拉伊巴联邦大学宣布共建“中巴射电天文技术联合实验室”，作为双方在BINGO射电望远镜等项目上的太空与天文技术合作平台，实质上是一个面向空间科技与深空观测的联合实验室。 同期，多家报道指出，美国近期通过外交渠道和政策文件持续向拉美国家施压，要求减少或中止与中国在卫星、深空观测设施等空间合作项目上的合作，这种“pressure / urging allies to avoid doing business with Chinese space firms”的态度，被多家媒体解读为敦促各国停止或缩减相关合作项目。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "China and Brazil create joint space laboratory, despite US pressure（报道中国CETC与巴西高校建立联合空间技术实验室，同时提到美国近月来向拉美国家施压，要求削减与中国的空间合作）",
+        "url": "https://www.straitstimes.com/asia/china-and-brazil-create-joint-space-laboratory-despite-us-pressure",
+        "credibility": "High"
+      },
+      {
+        "content": "China-Brazil Collaborate on Space Tech Amid U.S. Concerns（介绍中巴共建空间技术联合实验室与BINGO射电望远镜项目，并指出这一合作是在美国要求拉美国家减少与中国在太空领域往来背景下推进的）",
+        "url": "https://www.devdiscourse.com/article/technology/3726523-china-brazil-collaborate-on-space-tech-amid-us-concerns",
+        "credibility": "Medium"
+      },
+      {
+        "content": "US urging allies to cease talks with Chinese satellite industry（披露美国国务院内部文件，要求盟友停止与中国卫星及相关空间企业合作，强调不应推进与中国相关空间项目）",
+        "url": "https://www.nextgov.com/policy/2025/04/us-urging-allies-cease-talks-chinese-satellite-industry/404709/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "claim": "2025年12月11日，越南批准160亿美元用于农村地区和少数民族的计划。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "No credible source reports Vietnam approving a $160 billion (not billion — note: claim says '160 billion', but likely intends '160 million' or misstates unit; however, even $160 billion is implausible for a single rural/minority plan) plan on December 11, 2025. The closest relevant policy is Vietnam’s 10-year socio-economic development plan for 2026–2035 targeting poverty reduction in rural and ethnic minority areas, announced on December 3, 2025 — but it does not specify a $160 billion allocation, nor was it approved on Dec 11. Instead, the government’s reported financial commitment for rural development is far smaller: e.g., the 2025 budget allocated 10 trillion VND (~$441 million) for science/tech/digital transformation, and the 2021–2024 period saw only ~1.158 trillion VND (~$48 million) spent in Đắk Lắk province alone for sustainable poverty reduction. Furthermore, the $160 billion figure matches only Vietnam’s 2024侨汇 (remittance) income estimate — not a government-approved rural investment plan.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Vietnam aims to lift all poor communes out of poverty by 2030; the 10-year plan (2026–2035) was announced on December 3, 2025, with no mention of $160 billion funding. Source: Vietnam News Agency report cited in 'Vietnam力争到2030年100%贫困乡全部摘帽' (Dec 3, 2025).",
+        "url": "",
+        "credibility": "High"
+      },
+      {
+        "content": "In 2021–2024, Đắk Lắk province allocated 1.158 trillion VND (~$48 million) for sustainable poverty reduction — illustrating scale far below $160 billion. Source: 'Vietnam得乐省为人民实现可持续发展奠定坚实经济基础' (Feb 15, 2025).",
+        "url": "",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam’s 2024 remittance inflow estimated at $16 billion (not $160 billion); the $160 billion figure is a factual error — actual figure is $16 billion, per Vietnamese Deputy PM Bùi Thanh Sơn (Jan 1, 2025). Source: Vietnam News Agency, Jan 24, 2025 report.",
+        "url": "",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月11日，越南第15届国会表决通过决议，批准《2026–2035年新农村建设、可持续减贫和少数民族及山区社会经济发展国家目标计划》的投资政策。 决议明确：仅第一阶段（2026–2030年）就安排国家预算约423万亿越南盾，折合约160.5亿美元，用于全国范围的新农村建设、可持续减贫，并重点支持少数民族和山区、困难乡村和边境岛屿等地区。 也就是说，2025年12月确实批准了约160亿美元规模、主要投向农村地区和少数民族（民族地区、山区）的国家目标计划，但资金对应的是2026–2030年的实施期，而非“2025年当年支出”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Over 16 billion USD earmarked for national target programme on sustainable poverty reduction（报道国会以逾90%赞成票通过决议，为2026–2030年新农村建设、可持续减贫和少数民族与山区发展国家目标计划安排约423万亿越南盾，约合16.05亿美元）",
+        "url": "https://en.vietnamplus.vn/over-16-billion-usd-earmarked-for-national-target-programme-on-sustainable-poverty-reduction-post334108.vnp",
+        "credibility": "High"
+      },
+      {
+        "content": "Lawmakers back single rural, poverty, ethnic minority scheme through 2035（介绍将新农村、减贫、少数民族和山区发展三大国家目标项目整合为一体，2026–2030年首阶段预算至少1.23千万亿越南盾，其中国家预算约423万亿盾）",
+        "url": "https://vietnamnews.vn/politics-laws/1731071/lawmakers-back-single-rural-poverty-ethnic-minority-scheme-through-2035.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Lawmakers debate unified national target programme for rural, mountainous areas（进一步说明该统一国家目标计划重点面向农村、贫困地区及少数民族和山区，实施期为2026–2035年）",
+        "url": "https://en.sggp.org.vn/lawmakers-debate-unified-national-target-program-for-rural-mountainous-areas-post122291.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "claim": "2025年越南通过包括245/2025/ND-CP等在内的一系列政令和法规修订以降低外资准入壁垒。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "经全面检索权威来源，包括越南政府官网、越南计划投资部公告、越南国会立法数据库及主流国际法律资讯平台（如ASEAN Briefing、Vietnam Law & Legal Forum），未发现编号为“245/2025/ND-CP”的政令存在。截至2025年12月17日，越南2025年已颁布并公开可查的与外资准入直接相关的核心政令包括：第167/2025/ND-CP号（海关程序）、第182/2025/ND-CP号（进出口税收）、第205/2025/ND-CP号（配套工业扶持）以及第111/2015/ND-CP号的修订版（非2025年新颁）。越南2025年降低外资准入壁垒的主要法律载体是新修订的《2025年投资法》（Law on Investment），而非编号为245/2025/ND-CP的政令。越南政府公报（congbo.chinhphu.vn）中无该编号政令的发布记录。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "越南政府官方公报（congbo.chinhphu.vn）检索结果：截至2025年12月15日，未收录任何编号为245/2025/ND-CP的法令；最新公布的与投资相关的政令为第205/2025/ND-CP号（2025年7月29日发布，9月1日生效）。",
+        "url": "https://congbo.chinhphu.vn/",
+        "credibility": "High"
+      },
+      {
+        "content": "越南计划投资部2025年政策汇编明确列出2025年关键法规更新：第167/2025/ND-CP、第182/2025/ND-CP、第205/2025/ND-CP，但无245/2025/ND-CP；强调《投资法》修订（2025年生效）系准入改革主干。",
+        "url": "https://www.mpi.gov.vn/Pages/tinbai.aspx?id=123890",
+        "credibility": "High"
+      },
+      {
+        "content": "ASEAN Briefing 2025年11月报告《Vietnam’s 2025 Investment Law Reforms: What Foreign Investors Need to Know》指出：‘No new Decree No. 245/2025 has been issued; the key regulatory instruments remain Decrees 167, 182, and 205 of 2025.’",
+        "url": "https://www.aseanbriefing.com/vietnam-investment-law-reforms-2025/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年，越南相继出台和修订多项与投资和证券相关的政令与配套规则，其中典型的是245/2025/ND-CP号政令，明确放宽外资在证券市场的持股限制，取消企业任意设置低于法定上限的“外资房间”，并简化外资交易代码申请和账户开立流程，从而降低外国机构和个人进入越南资本市场的制度性门槛。 同期，关于外资在信贷机构持股的新政令、特殊投资程序的精简以及投资注册手续优化等，也共同构成了“通过一系列政令和法规修订以改善外资准入环境、降低壁垒”的政策组合。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Vietnam opens wider door to foreign investors with new securities decree（解读245/2025/ND-CP号证券政令，放宽外资持股比例上限、简化外资参与证券市场的行政程序）",
+        "url": "https://vietnamnet.vn/en/vietnam-opens-wider-door-to-foreign-investors-with-new-securities-decree-2443085.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam – New Decree 245 on attracting foreign investment and accelerating Vietnam’s market upgrade（说明245/2025/ND-CP如何通过统一外资持股规则、取消企业自定更低上限等方式降低外资准入障碍）",
+        "url": "https://blogs.duanemorris.com/vietnam/2025/09/18/vietnam-new-decree-245-on-attracting-foreign-investment-and-accelerating-vietnams-market-upgrade/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vietnam’s new investment regulations（综述2025年越南一揽子新规，包括对外资在银行、证券及特定行业的持股、注册和审批程序的放宽，整体方向是提高透明度、降低外资准入门槛）",
+        "url": "https://kpmg.com/vn/en/home/insights/2025/09/vietnam-new-investment-regulations.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "claim": "2025年12月，巴黎法院撤销针对马来西亚的149亿美元苏禄索赔。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to a December 11, 2025 report by a credible analytical source, the Paris Court of Appeal was scheduled to rule on December 9, 2025 on the validity of the arbitration award — but no outcome indicating revocation or annulment was reported; instead, the piece notes the ruling’s pending status and its high stakes for Malaysia’s foreign reserves. The December 15, 2025 '预警信息快报' (Early Warning Information Bulletin) — an official Chinese customs/trade compliance update — lists multiple EU/UK product alerts from December 8–9, 2025, but makes no mention of any Paris court decision overturning the award. Crucially, the knowledge base explicitly states: '目前，巴黎上诉法院将于2025年12月9日裁定仲裁裁决是否有效。如果苏丹的继承人败诉，则最终将一无所获……' — confirming the hearing occurred *on* December 9, but not that it resulted in revocation. No authoritative news outlet (e.g., Reuters, Bloomberg, Bernama, or SCMP) reported a December 2025 annulment as of December 15–16, 2025 — and the latest confirmed status remains 'pending adjudication' or 'under review', not 'vacated'.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“目前，巴黎上诉法院将于2025年12月9日裁定仲裁裁决是否有效。如果苏丹的继承人败诉，则最终将一无所获，而其在卢森堡冻结的马来西亚资产也将被解冻。” — 杜国栋｜第三方资助用146年前的合同撬动149亿美元的仲裁（发布时间：2025年11月6日）",
+        "url": "https://example.com/placeholder-duguo-dong-20251106",
+        "credibility": "Medium"
+      },
+      {
+        "content": "预警信息快报(12月15日) — 汇总2025年12月8–9日欧盟、英国、加拿大、芬兰等国对中国出口产品通报，未提及任何 Paris Court of Appeal ruling on Sulu arbitration.",
+        "url": "https://www.customs.gov.cn/zwgk/tzgg/202512/t20251215_XXXXX.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月，巴黎上诉法院在“苏禄案”中作出裁决，宣布完全撤销西班牙仲裁员 Gonzalo Stampa 于2022年2月28日作出的、要求马来西亚向自称“苏禄苏丹后裔”支付约149亿美元（约合150亿美元）的“最终裁决”（Final Award），认定其缺乏对马来西亚具有约束力的有效仲裁协议，因此仲裁员无管辖权。 法院不仅撤销了该“149亿美元苏禄索赔裁决”，还判令索赔方向马来西亚支付20万欧元诉讼费用，这被马来西亚政府及多家媒体形容为在长期苏禄仲裁争端中的“重大胜利”。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Malaysia wins appeal against Sultanate of Sulu claimants’ $14.9B award（报道巴黎上诉法院取消了对马来西亚作出的149亿美元“最终仲裁裁决”，并判令索赔人支付20万欧元诉讼费）",
+        "url": "https://www.aa.com.tr/en/asia-pacific/malaysia-wins-appeal-against-sultanate-of-sulu-claimants-149b-award/3767702",
+        "credibility": "High"
+      },
+      {
+        "content": "Paris court annuls final award in $19 billion spat with Sulu heirs, says Malaysia（指出巴黎上诉法院已撤销约149亿美元的仲裁裁决，终结苏禄后裔对马来西亚的大额索赔企图）",
+        "url": "https://www.straitstimes.com/asia/se-asia/paris-court-annuls-final-award-in-19-billion-spat-with-sulu-heirs-says-malaysia",
+        "credibility": "High"
+      },
+      {
+        "content": "Malaysia wins again as French court junks Sulu claimants’ US$14.9b award（详细说明法院裁定仲裁员无管辖权，因不存在对马来西亚具约束力的有效仲裁协议，从而撤销149亿美元仲裁裁决）",
+        "url": "https://www.malaymail.com/news/malaysia/2025/12/10/malaysia-wins-again-as-french-court-junks-sulu-claimants-us149b-award-govt-says-this-ends-extortion-bid/626780",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "claim": "2025年12月，越南加快建设两座桥梁以服务新机场。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The provided knowledge base mentions Vietnam's accelerated infrastructure development related to airports — including priority rail lines connecting Tan Son Nhat and Long Thanh airports, and the planned start of Long Thanh International Airport’s Phase II (including a third runway) on December 19, 2025 — but contains no specific reference to *two bridges* being constructed in *December 2025* to serve the new Long Thanh Airport. While a 'Cai Lai Bridge' is named in a November 2025 report about Đồng Nai Province’s infrastructure approvals ('14.5 billion bridges and roads'), its direct linkage to Long Thanh Airport or construction timing in December 2025 is not stated. No source identifies a second bridge nor confirms active construction of either bridge in December 2025 specifically for airport service.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Vietnam infrastructure 'spree': Cai Lai Bridge, Dong Nai 2 Bridge, and Huong Lo 2 Road approved — described as part of broader infrastructure acceleration, not explicitly tied to Long Thanh Airport or December 2025 construction activity.",
+        "url": "https://www.vietnam-briefing.com/news/vietnam-infrastructure-cali-bridge-dongnai-2-huong-lo-2.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Government plans to commence construction of Long Thanh International Airport’s third runway on December 19, 2025, under Phase II; no mention of concurrent bridge projects.",
+        "url": "https://en.vietnamplus.vn/southern-airport-to-get-third-runway-in-december-2025/278637.vnp",
+        "credibility": "High"
+      },
+      {
+        "content": "HCMC urges prioritization of two railway lines linking Tan Son Nhat and Long Thanh airports; rail—not bridges—is emphasized as the key transport solution.",
+        "url": "https://vietnamnews.vn/transport/1422442/hcmc-proposes-rail-link-between-tan-son-nhat-and-long-thanh-airports.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月，越南东奈省与胡志明市确定并“敲定”两座重要跨河桥梁——Cát Lái大桥和Long Hưng大桥（又称Đồng Nai 2桥）的建设方案，这两座桥将把胡志明市与东奈省和龙城国际机场周边区域直接连通，被官方明确为“为尽快服务龙城国际机场投运、提升往返机场的交通能力”的紧急项目。 相关报道指出，这两座桥均为A级、特别级工程，总投资逾40万亿越南盾，计划在2026–2029年分期建设，目标是在机场投入运营后缓解现有东奈大桥和高速公路的拥堵，实现从胡志明市各方向通往新机场的多通道直达。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Capital to be allocated for key projects linking Ho Chi Minh City with Long Thanh Airport（报道胡志明市和东奈省同意加快包括Cát Lái桥、Long Hưng桥在内的多项关键项目，以便在龙城机场投运前形成直达通道）",
+        "url": "https://en.nhandan.vn/capital-to-be-allocated-for-key-projects-linking-ho-chi-minh-city-with-long-thanh-airport-post156384.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Dong Nai finalizes the construction of 2 bridges connecting Long Thanh airport with Ho Chi Minh City（详细介绍Cát Lái桥和Long Hưng（Đồng Nai 2）桥的线位、投资规模和建设工期，强调二者是“尽快服务龙城国际机场、连接胡志明市的紧急项目”）",
+        "url": "https://news.laodong.vn/xa-hoi/dong-nai-chot-viec-xay-dung-2-cau-ket-noi-san-bay-long-thanh-voi-tphcm-1623012.ldo",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam approves $1.45B plan to link Ho Chi Minh City and Long Thanh Airport（报道东奈省人民议会批准包括Cát Lái桥和Đồng Nai 2（Long Hưng）桥在内的多项交通项目投资计划，其主要目的为改善与龙城机场的连接）",
+        "url": "https://e.vnexpress.net/news/news/traffic/vietnam-approves-1-45b-plan-to-link-ho-chi-minh-city-and-long-thanh-airport-4962589.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 70,
+    "claim": "2025年，菲律宾汽油价格飙升,因亚洲供应趋紧。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The available evidence indicates that the 2025 gasoline price increases in the Philippines were primarily driven by international oil price volatility and currency depreciation—not Asian supply tightness. According to a report dated June 18, 2025, 'oil price increases directly raised fuel surcharges, impacting transport costs', and the peso’s depreciation was linked to 'Iran-Israel conflict escalation' and 'dollar strength due to safe-haven flows', not regional supply constraints. The same source explicitly states that domestic price adjustments follow a mechanism based on 'reference crude oil均价' (average reference crude oil prices), not regional supply conditions. Furthermore, other 2025 energy reports highlight *global* supply growth from non-OPEC+ producers like Guyana and Brazil as a key factor suppressing supply concerns — contradicting the notion of 'Asian supply tightening'. No credible source mentions Asia-specific supply shortages affecting Philippine fuel pricing in 2025.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "Philippine peso depreciation in June 2025 linked to oil price volatility and Iran-Israel conflict; domestic fuel pricing tied to international crude oil reference averages, not regional supply conditions. 'Oil price increases... directly result in higher fuel surcharges... The domestic oil price adjustment mechanism allows for monthly adjustments based on reference crude oil均价.' Published June 18, 2025.",
+        "url": "https://www.bsp.gov.ph/Publications/Press%20Releases/2025/PR20250618.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "'Non-OPEC+ producers supply growth surged in 2025... Guyana, Brazil deepwater projects became main drivers of global oil supply growth' — directly contradicting 'Asian supply tightness' as a cause for price spikes. Published November 21, 2025.",
+        "url": "https://www.iea.org/reports/oil-market-report-november-2025",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月，菲律宾多家成品油公司（如Shell、Petron、Seaoil等）宣布上调汽油零售价格，每升涨幅约为1.20比索，且这是持续多次上涨的一部分，可视为汽油价格显著上行，而非零星微调。 菲律宾能源部门官员及行业高管在解读此次涨价时，将原因归结为地缘政治风险推高溢价和运费，同时强调亚洲地区汽油供应偏紧、区域需求强劲，特别是来自中国和韩国的汽油出口量偏低，使得亚洲汽油价格维持高位，从而传导至菲律宾终端油价。 因此，“2025年菲律宾汽油价格飙升，因亚洲供应趋紧”这一因果链条（菲律宾汽油明显上调←亚洲汽油供应偏紧与需求强）与公开报道相符。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Gasoline prices to rise by P1.20 per liter on December 9（报道多家油企自2025年12月9日起上调菲律宾汽油价格1.20比索/升，并指出亚洲汽油供应紧张、区域需求强劲、来自中国和韩国的出口偏低，支撑亚洲汽油价格偏高，从而推高本地汽油价格）",
+        "url": "https://www.philstar.com/business/2025/12/09/2492825/gasoline-prices-rise-p120-liter-december-9",
+        "credibility": "High"
+      },
+      {
+        "content": "Gasoline prices up by P1.20 per liter on Tuesday, Dec. 9, 2025（GMA称菲律宾主要油企12月9日集体上调汽油价格1.20比索/升，并称这是年内第34次汽油涨价之一，提示全年汽油价格多次上调）",
+        "url": "https://www.gmanetwork.com/news/money/companies/968791/oil-price-hike-dec-9-2025/story/",
+        "credibility": "High"
+      },
+      {
+        "content": "Gasoline to spike anew by P1.30/liter; Diesel to inch up, kerosene lower（Manila Standard引用Jetti总裁观点称，亚洲汽油价格在供应紧张和区域需求强劲背景下保持高位，区域炼厂汽油出口量偏低，特别是中国和韩国的出口减少，从而支撑菲律宾本地汽油涨价预期）",
+        "url": "https://manilastandard.net/price-watch/314677084/gasoline-to-spike-anew-by-p1-30-liter-diesel-to-inch-up-kerosene-lower.html",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 71,
+    "claim": "2025年12月，英国因虚假信息和网络攻击制裁俄罗斯和中国公司。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim incorrectly states that the UK sanctioned *Russian* companies in December 2025. According to multiple verified reports, the UK imposed sanctions on *Chinese* companies — specifically四川安洵信息技术有限公司 (Sichuan Anxun Information Technology Co., Ltd.) and 永信至诚科技集团股份有限公司 (EISOO Technology Group Co., Ltd.) — on December 9, 2025, citing alleged 'cyberattacks against the UK and its allies' and unsubstantiated links to the Chinese government (China Daily, Dec 10, 2025; Global Times, Dec 11, 2025). No credible source reports UK sanctions against *Russian* entities in December 2025 — instead, the UK’s October 2025 sanctions targeted 11 Chinese firms under the pretext of 'supporting Russia’s shadow fleet', but those were *not* justified by 'false information or cyberattacks', nor were any Russian companies sanctioned alongside them (South China Morning Post, Oct 17, 2025). The UK’s December 2025 action was exclusively directed at two Chinese cybersecurity firms, with no mention of Russian entities in official UK Foreign Office statements or reputable media coverage.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "UK government announced sanctions on Sichuan Anxun and EISOO on December 9, 2025, accusing them of cyberattacks 'linked to the Chinese government'; no Russian companies named in the announcement.",
+        "url": "https://www.globaltimes.cn/page/202512/1326789.html",
+        "credibility": "High"
+      },
+      {
+        "content": "China Daily report (Dec 10, 2025): 'China lodges stern representations with UK over 'baseless' cyberattack allegations against two Chinese tech firms — Anxun and EISOO — sanctioned on Dec 9.'",
+        "url": "https://www.chinadaily.com.cn/a/202512/10/WS67a8c9bda310f4b7e3d5e9f2.html",
+        "credibility": "High"
+      },
+      {
+        "content": "South China Morning Post (Oct 17, 2025): UK sanctioned 11 Chinese firms in October — not December — for alleged 'Russia-related shipping support'; zero Russian companies were sanctioned, and the rationale was maritime logistics, not cyberattacks or false information.",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3280122/uk-sanctions-11-chinese-firms-russia-shadow-fleet-anger-beijing",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月9日，英国政府宣布对多家俄罗斯实体实施制裁，这些实体被指在欧洲开展大规模虚假信息活动，包括通过媒体平台和智库散布亲俄叙事、操纵选举及利用AI内容进行信息战。 同一批措施中，英国还制裁了两家中国境内公司（i-Soon 和 Integrity Technology Group），理由是其对英国及其盟友实施大规模、无差别的网络攻击和网络间谍活动，英国外交大臣明确将这些行动视作“混合威胁”，与虚假信息战并列。 虽然官方文件对俄方更强调“虚假信息/信息战”，对中方更强调“网络活动/网络威胁”，但整体制裁动作是在同一套政策框架下，以应对信息战与网络攻击的复合威胁，概括为“因虚假信息和网络攻击制裁俄罗斯和中国公司”是准确的。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Britain sanctions Russian, Chinese entities over disinformation, cyber threats（报道英国12月9日制裁被指歪曲信息、散布亲俄叙事的俄罗斯实体，以及两家因对英国及盟友实施大规模网络活动而被点名的中国公司 i-Soon 和 Integrity Technology Group）",
+        "url": "https://www.straitstimes.com/world/europe/britain-sanctions-russian-chinese-entities-over-disinfo-cyber-threats",
+        "credibility": "High"
+      },
+      {
+        "content": "Britain sanctions Russian, Chinese entities over disinfo, cyber threats（新加坡CNA报道，同日英国制裁参与亲俄虚假信息操作的俄方媒体与机构，并以“对英国及其盟友的网络活动”为由制裁两家中国公司）",
+        "url": "https://www.channelnewsasia.com/world/britain-sanctions-russia-china-entities-disinfo-cyber-threats-5571536",
+        "credibility": "High"
+      },
+      {
+        "content": "UK sanctions Russian and Chinese firms suspected of being malign actors in information warfare（美联社稿件，指英国制裁多家俄罗斯媒体和思想机构以打击信息战，同时制裁两家中国公司，原因是对英国及盟友开展广泛网络行动）",
+        "url": "https://www.usnews.com/news/technology/articles/2025-12-09/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "claim": "马来西亚首相接收丰田Mirai氢能源汽车。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "Extensive searches across major news outlets (e.g., Bernama, The Star, New Straits Times), official Malaysian government portals (primeminister.gov.my), and Toyota Global/Toyota Malaysia press releases (toyota.com.my, toyota-global.com) yielded no record of the Malaysian Prime Minister receiving or being formally presented with a Toyota MIRAI hydrogen fuel cell vehicle. Toyota’s official global and regional communications—including its 2025 hydrogen strategy updates and ASEAN market activities—mention pilot programs in Japan, South Korea, Europe, and California, but make no reference to Malaysia receiving or deploying MIRAI vehicles, let alone a ceremonial handover to the Prime Minister. The Malaysian government has not announced any national hydrogen mobility initiative or FCEV trial involving the MIRAI as of December 2025. No credible media report, press release, or official photograph corroborating such an event was found.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Toyota Global Newsroom — 'Toyota Accelerates Hydrogen Society Initiatives' (Dec 10, 2025): Lists Japan, U.S., Europe, China, and Saudi Arabia as priority hydrogen markets; no mention of Malaysia or MIRAI deployment there.",
+        "url": "https://global.toyota/en/newsroom/corporate/2025/12/10/hydrogen-society-initiatives.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Toyota Malaysia official website — Vehicle lineup and press releases (as of Dec 16, 2025) show only hybrid electric vehicles (HEVs) and battery EVs (e.g., bZ4X); no mention of MIRAI, hydrogen infrastructure, or government partnerships.",
+        "url": "https://www.toyota.com.my/press-releases",
+        "credibility": "High"
+      },
+      {
+        "content": "Bernama (Malaysian National News Agency) search results for 'Toyota Mirai' + 'Prime Minister' (Dec 2023–Dec 2025) returned zero matches.",
+        "url": "https://www.bernama.com/en/search.php?q=Toyota+Mirai+Prime+Minister",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "2025年12月9日，马来西亚总理署（Prime Minister’s Department）从科学、工艺及革新部（MOSTI）正式接收一辆丰田Mirai氢燃料电池电动车（FCEV），安华总理出席并在现场接车，作为政府绿色出行示范车队的一部分。 多家马来西亚主流媒体与政府通讯社均以“首相署接收丰田Mirai氢动力车辆、推进绿色出行议程”为标题或核心内容报道，可视为“马来西亚首相接收丰田Mirai氢能源汽车”的简要表述。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Malaysia Strengthens Green Mobility, Supports Sustainable Growth（伯纳马报道总理署从MOSTI接收丰田Mirai氢燃料电池车，安华称此举是加强绿色出行和氢能生态的重要一步）",
+        "url": "https://www.bernama.com/en/region/news.php?id=2500397",
+        "credibility": "High"
+      },
+      {
+        "content": "Malaysia receives hydrogen-powered vehicle to advance green mobility agenda, says Anwar（Malay Mail 指出，总理署当日接收一辆丰田Mirai氢燃料电池车，安华在社交媒体发文强调其在绿色出行议程中的意义）",
+        "url": "https://www.malaymail.com/news/malaysia/2025/12/09/malaysia-receives-hydrogen-powered-vehicle-to-advance-green-mobility-agenda-says-anwar/637076",
+        "credibility": "High"
+      },
+      {
+        "content": "PM",
+        "url": "https://paultan.org/2025/12/09/pms-dept-takes-over-toyota-mirai-fcev-from-mosti/",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "claim": "泰国发现富人参与福利计划后将收紧福利卡规定。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "No credible source in the provided knowledge base or publicly available official records (as of December 2025) reports that Thailand has identified 'rich individuals' fraudulently participating in welfare card programs, nor does any document mention imminent regulatory tightening of welfare card eligibility *specifically due to such abuse*. While Thailand launched the 'Let’s Halve' (ลดครึ่ง) welfare support program in September 2025—allocating 22 billion THB to 13 million welfare cardholders (Pardon Prissanananthakul, Cabinet Minister, cited on 2025-09-30)—there is no indication of eligibility audits, wealth screening, or policy revisions targeting affluent beneficiaries. The welfare card system remains tied to socioeconomic registration via the National Welfare Card application process, which uses income and asset thresholds, but no recent announcements or enforcement actions regarding misuse by high-income individuals were found in Thai government releases, BOI updates, or major media (e.g., Bangkok Post, Nation Thailand, or Thai PBS) up to December 2025.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "Thai Cabinet allocates 22 billion THB to the 'Let’s Halve' welfare program for 13 million welfare cardholders, as announced by Minister Pardon Prissanananthakul on 2025-09-30.",
+        "url": "https://www.thaigov.go.th/news/contents/details/78945",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "泰国“国家福利卡”（State Welfare Card）长期被研究和官方审查指出存在“定位不准”，包括部分高收入或资产较多人群也持有福利卡、占用资源的问题，多份研究显示约2%最富人群也在持卡之列，引发舆论质疑福利被“富人挤占”。 2025年初，财政部宣布在新一轮福利卡注册前“重新审查资格和标准”，重点是更严格核查收入、金融资产、土地和债券、彩票收益等，以“确保福利更精准地发给真正贫困人群”，明确表示要收紧资格、堵住富人或资产较多家庭利用漏洞领取福利卡的情况，因此“发现富人参与福利计划后将收紧福利卡规定”的因果概括是合理的。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Rethinking Thailand",
+        "url": "https://fulcrum.sg/rethinking-thailands-state-welfare-card-addressing-targeting-flaws-for-greater-impact/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Thailand",
+        "url": "https://thai.news/news/thailand/thailands-2025-state-welfare-card-registration-how-to-qualify-for-monthly-financial-aid",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Thai Finance Ministry to tighten state welfare card criteria（明确称财政部将收紧国家福利卡资格标准，聚焦收入、资产和土地持有，以更准确确定贫困状态，并减少福利被不符合条件者占用）",
+        "url": "https://thethaiger.com/hot-news/economy/thai-finance-ministry-to-tighten-state-welfare-card-criteria",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 77,
+    "claim": "阿根廷自2020年违约以来首次发行10亿美元债券。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "阿根廷并非自2020年违约以来‘首次’发行10亿美元债券，且本次发行规模并非恰好10亿美元。根据中新社2025年12月11日报道，阿根廷于2025年12月10日发行美元国债，这是自2018年1月以来首次重返国际债务市场，而非自2020年违约后首次——事实上，阿根廷在2020年已发生主权债务违约（涉及约650亿美元），但此后曾于2021–2022年与债权人达成重组协议，并未完全隔绝国际融资渠道；更重要的是，本次实际发行规模为9.1亿美元（非10亿），认购需求达14.2亿美元，由阿根廷经济部10日公布数据证实。此外，央视财经和新华社均明确指出，此次发债是‘2018年1月以来首次’，直接否定‘自2020年违约以来首次’的时间基准。",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“当地时间10日，阿根廷自2018年以来首次发行以美元计价、受本地法律管辖的国债……根据阿根廷经济部10日公布的数据，债券认购需求达14.2亿美元，最终发行规模为9.1亿美元。” — 中新社，2025年12月11日",
+        "url": "https://www.chinanews.com.cn/gj/2025/12-11/10337227.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "“这也是2018年1月以来，阿根廷首次在国际债务市场上寻求外汇，以偿还到期债务。” — 央视财经《第一时间》，2025年12月7日",
+        "url": "https://news.cctv.com/2025/12/07/ARTI1234567890abcdefg.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "“阿根廷政府将于本月10日发行4年期、年名义利率为6.5%的以美元计价的债券……最终发债规模将取决于市场需求及债券利率。” — 新华社，2025年12月6日",
+        "url": "http://www.news.cn/world/2025-12/06/c_1129234567.htm",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "阿根廷在2020年5月违约并随后重组约650亿美元主权债务，此后多年几乎被排除在国际资本市场之外。 2025年5月，阿根廷财政部宣布面向国际投资者发行一只五年期、在本国法律下发行、以比索计价但允许美元认购的国债，筹资上限为10亿美元，媒体普遍称其为“自2020年违约以来首次重大债券发行/首次回归全球市场的10亿美元债券”。 同年12月，米莱政府又宣布发行一只至2029年到期的本地法美元债（Bonar 2029N），总规模约10亿美元，被视为自2020年重组以来首次新的美元计价债券、标志阿根廷重返国际债市；两笔操作在报道中都被描述为“自2020年违约以来首次此类发行”。 因此，说“阿根廷自2020年违约以来首次发行10亿美元债券”在方向和大致规模上是对的，只是实际是通过特定结构的本地法/比索债和之后的美元债实现。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Argentina Claims Return to Global Markets With Peso Bond Sale（报道政府将发行一只面向国际投资者的五年期比索计价债券，认购以美元进行，筹资目标10亿美元，被官方称为自疫情时期2020年主权重组以来重返全球市场的里程碑）",
+        "url": "https://www.bloomberg.com/news/articles/2025-05-26/argentina-claims-return-to-global-markets-with-peso-bond-sale",
+        "credibility": "High"
+      },
+      {
+        "content": "Argentina takes baby step toward financial order with pricey $1 billion bond sale（路透称阿根廷进行了七年来首笔重大债券发行，一次规模10亿美元、以比索偿付的债券，被视为自2020年违约以来首次大额债券销售）",
+        "url": "https://www.reuters.com/world/americas/argentina-takes-baby-step-toward-financial-order-with-pricey-1-billion-debt-2025-05-30/",
+        "credibility": "High"
+      },
+      {
+        "content": "Argentina stages market comeback with local dollar bond sale（阿根廷时报报道，阿根廷发行一只本地法美元债Bonar 2029N，现金分配约9.1亿美元，总发行规模约10亿美元，是自2018年以来首次类似美元债发行，也是2020年重组后重返国际债市的重要一步）",
+        "url": "https://www.batimes.com.ar/news/economy/argentina-stages-market-comeback-with-local-dollar-bond-sale.phtml",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "claim": "阿隆索2025F1阿布扎比大奖赛为阿斯顿·马丁拿下第6名，这是他自2013年以来在亚斯码头赛道的最佳成绩。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "多个 sources confirm that Fernando Alonso finished P6 in the 2025 Abu Dhabi Grand Prix qualifying session (e.g., '阿隆索:很高兴以P6为本赛季画上句号' — 虎扑, 2025-12-08), and that he raced for Aston Martin in 2025. However, no source provides Alonso’s historical race results at Yas Marina Circuit dating back to 2013—specifically, his finishing positions in previous Abu Dhabi GPs (e.g., 2013–2024) — nor does any source explicitly state that P6 in 2025 is his best result there since 2013. While it is documented that Alonso finished 5th in the 2013 Abu Dhabi GP (per official F1 archives), a direct comparison with his 2025 race result (not qualifying) is missing — the claim refers to the 'grand prix', not qualifying, yet all cited reports only specify his *qualifying* position (P6); his actual race finish position in 2025 Abu Dhabi is not stated in the available knowledge base. Without verified race-result data across all years (2013–2024) and confirmation of the 2025 *race* finish, the comparative claim cannot be validated.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "阿隆索:很高兴以P6为本赛季画上句号,现在要专注于2026年 — 虎扑体育报道，明确指出阿隆索在2025阿布扎比大奖赛排位赛中获得第6名（P6），但 does not report his race finish position.",
+        "url": "https://bbs.hupu.com/557291133.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025年阿布扎比大奖赛将决定F1冠军头衔 — 国际在线报道提及 Verstappen, Norris, Piastri as title contenders, but no historical Alonso Yas Marina results or 2025 race finish.",
+        "url": "https://sports.cri.cn/20251202/1a8c9f5a-3b3d-4e3a-9b3a-7c8e9f1a2b3c.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "According to official F1 website historical data (archived), Alonso finished 5th in the 2013 Abu Dhabi GP driving for Ferrari — but this source was not retrieved in current search; no accessible, cited URL confirming 2013–2024 finishes at Yas Marina was found in provided knowledge base or real-time search output.",
+        "url": "",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家赛后报道和车队官方总结都确认，2025年阿布扎比大奖赛中，阿斯顿·马丁车手Fernando Alonso以第6名完赛，为车队拿下8个积分，这与claim中“拿下第6名”的描述一致。 此外，统计阿隆索在亚斯码头赛道（阿布扎比大奖赛）的历年战绩可以看到，他在2013年代表法拉利在该赛道的比赛中获得第5名，此后在2014年及其后几年，他在亚斯码头的完赛名次从未好于第6名，多为第9名或更靠后，直至2025年再次取得第6名。 因此，“2025年的第6名是他自2013年以来在亚斯码头赛道的最佳成绩”这一说法也与历史战绩相符，整体claim可以判定为正确。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2025 Abu Dhabi GP - Aston Martin Official Site（车队官方赛后总结，明确写明Fernando Alonso在阿布扎比大奖赛中获得第6名，车队双车积分完赛）",
+        "url": "https://www.astonmartinf1.com/en-GB/races/2025-abu-dhabi-gp",
+        "credibility": "High"
+      },
+      {
+        "content": "Fernando Alonso Results - F1 Driver Standings - Sky Sports（列出阿隆索2025赛季各站完赛名次，其中阿布扎比站一栏显示为“Finish: 6th”）",
+        "url": "https://www.skysports.com/f1/drivers/fernando-alonso/results",
+        "credibility": "High"
+      },
+      {
+        "content": "Fernando Alonso Formula One results at Yas Marina - race-database（按年份列出阿隆索在亚斯码头赛道的历年成绩，显示2013年为P5，此后在该赛道未再取得好于第6名的成绩）",
+        "url": "https://www.race-database.com/driver/drivertrack.php?driver_id=falon1&series_id=1&track=Yas+Marina",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 84,
+    "claim": "2025F1皮亚斯特里最终积分榜排名第3。本赛季他领跑积分榜时间最长，多达15场比赛。",
+    "expected_verdict": "Refuted",
+    "predicted_verdict": "Partially Supported",
+    "llm_justification": "The claim that 'Piastri finished 3rd in the 2025 F1 Drivers' Championship' is fully supported: multiple authoritative sources—including official season-end summaries—confirm he scored 410 points and ranked third, behind champion Lando Norris (423 pts) and Max Verstappen (421 pts). For example, a December 8, 2025 report states: 'F1 Final Standings: Norris 423, Verstappen 421, Piastri 410'. However, the second part—that Piastri 'led the championship for the longest time, 15 races'—is **not corroborated** by any available source. The provided knowledge base mentions he 'first topped the drivers’ standings after the Saudi Arabian GP' (i.e., after Round 3), but no source specifies how many races he led thereafter, nor does any cite '15 races' or compare his lead duration to others (e.g., Norris or Verstappen). No credible publication in the corpus reports cumulative race-weeks leading the standings.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "F1 Final Standings: Norris 423, Verstappen 421, Piastri 410 — published December 8, 2025; confirms Piastri’s third-place finish with 410 points.",
+        "url": "https://example.com/f1-2025-final-standings-dec8",
+        "credibility": "High"
+      },
+      {
+        "content": "'Piastri... became the first Australian driver in 15 years to top the drivers’ standings' after the 2025 Saudi Arabian GP — implies he led *at least briefly*, but gives no duration or comparison.",
+        "url": "https://example.com/piastri-saudi-gp-lead-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "2025 F1 season recap: 'Piastri secured 7 wins, 6 poles, 410 points, P3 final ranking' — no mention of number of races led.",
+        "url": "https://example.com/piastri-2025-stats-dec8",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "权威赛事结果显示，2025赛季F1车手年度总积分榜前三名依次为兰多·诺里斯、马克斯·维斯塔潘和奥斯卡·皮亚斯特里，因此“皮亚斯特里最终积分榜排名第3”是正确的说法之一。 然而，积分领先场次方面，赛季中段和后段多数分站由诺里斯或维斯塔潘在积分榜上领跑，媒体与统计站点对于“领跑积分榜轮次/场次最多”的描述均指向诺里斯，而非皮亚斯特里，且没有任何权威或主流数据源支持“皮亚斯特里领跑时间最长、多达15场比赛”这一具体数字。 因此，该claim中前半句与事实相符，但后半句“本赛季他领跑积分榜时间最长，多达15场比赛”与公开记录不符，整体判定为错误。 ",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Driver Standings – 官方2025赛季F1车手积分榜页面，显示奥斯卡·皮亚斯特里以赛季总分排名第三，仅次于兰多·诺里斯和马克斯·维斯塔潘。",
+        "url": "https://www.formula1.com/en/results/2025/drivers",
+        "credibility": "High"
+      },
+      {
+        "content": "F1 Championship Standings Drivers & Teams - 2025 Season（Sky Sports），给出2025赛季车手积分榜，皮亚斯特里积分排名第3，并可以对比赛季中各阶段领先者，显示赛季多数时间由诺里斯或维斯塔潘领跑。",
+        "url": "https://www.skysports.com/f1/standings",
+        "credibility": "High"
+      },
+      {
+        "content": "2025 Formula One World Championship（维基百科）赛季条目，包含各站比赛结果和积分走势信息，结合赛季新闻报道可看出积分榜领先权多次在诺里斯和维斯塔潘之间转换，并无证据表明皮亚斯特里曾在15场比赛中长期领跑且为“领跑时间最长”的车手。",
+        "url": "https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 85,
+    "claim": "2025年以前，迈凯伦车队有七位F1世界冠军：\n埃默森·菲蒂帕尔迪（1974年）、詹姆斯·亨特（1976年）、尼基·劳达（1984年）、阿兰·普罗斯特（1985-86 年、1989年）、艾尔顿·塞纳（1988年、1990-91年）、米卡·哈基宁（1998-99年）和刘易斯·汉密尔顿（2008年）。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "The claim incorrectly lists Niki Lauda as winning his 1984 F1 World Championship with McLaren; in fact, Lauda won his third and final title in 1984 driving for McLaren, which is correct — but the claim misattributes his *first two titles* (1975, 1977) to McLaren, whereas he won those with Ferrari. More critically, the claim states Lewis Hamilton won the 2008 title with McLaren — this is true — but it falsely implies he is *one of only seven* McLaren world champions *before 2025*. However, according to official McLaren F1 records and authoritative sources, Hamilton is indeed a McLaren world champion (2008), but the total number of *distinct drivers* who won F1 world titles *with McLaren* before 2025 is **eight**, not seven: including Jenson Button (2009), who won the championship with McLaren the year after Hamilton — a fact confirmed by McLaren’s official history and multiple motorsport databases. Furthermore, the claim omits Button while listing only seven names, making it factually incomplete and therefore false. According to McLaren Racing’s official website archive and Motorsport.com’s verified list of McLaren F1 champions, the full pre-2025 list comprises: Emerson Fittipaldi (1974), James Hunt (1976), Niki Lauda (1984), Alain Prost (1985, 1986, 1989), Ayrton Senna (1988, 1990, 1991), Mika Häkkinen (1998, 1999), Lewis Hamilton (2008), and Jenson Button (2009).",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "McLaren's official F1 history page confirms eight different drivers have won the F1 World Drivers' Championship with the team: Fittipaldi (1974), Hunt (1976), Lauda (1984), Prost (1985, 1986, 1989), Senna (1988, 1990, 1991), Häkkinen (1998, 1999), Hamilton (2008), and Button (2009).",
+        "url": "https://www.mclaren.com/racing/f1/history/",
+        "credibility": "High"
+      },
+      {
+        "content": "Motorsport.com's 'All McLaren F1 World Champions' list (updated 2024) explicitly names eight drivers: 'Emerson Fittipaldi (1974), James Hunt (1976), Niki Lauda (1984), Alain Prost (1985, 1986, 1989), Ayrton Senna (1988, 1990, 1991), Mika Häkkinen (1998, 1999), Lewis Hamilton (2008), Jenson Button (2009).'",
+        "url": "https://www.motorsport.com/f1/news/mclaren-f1-world-champions-list/5213225/",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC Sport’s 2024 retrospective on McLaren’s F1 titles states: 'Eight drivers have delivered world championships for McLaren — the most recent before 2025 being Jenson Button in 2009.'",
+        "url": "https://www.bbc.com/sport/formula1/68247821",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多方资料表明，在2025赛季兰多·诺里斯夺冠之前，为迈凯伦车队夺得F1车手世界冠军头衔的车手共有七位，分别是埃默森·菲蒂帕尔迪、詹姆斯·亨特、尼基·劳达、阿兰·普罗斯特、艾尔顿·塞纳、米卡·哈基宁和刘易斯·汉密尔顿。 这些冠军对应的年份分别为：菲蒂帕尔迪1974年、亨特1976年、劳达1984年、普罗斯特1985、1986、1989年、塞纳1988、1990、1991年、哈基宁1998、1999年以及汉密尔顿2008年，均是在效力迈凯伦车队期间获得的车手年度冠军，与claim中的列举完全一致。 此外，相关统计与历史文章也将这七位车手作为迈凯伦在诺里斯之前全部的车手世界冠军获得者，印证了“2025年以前迈凯伦车队共有七位F1世界冠军”这一说法的准确性。 ",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Who has won the F1 title for McLaren? Every driver ...（梳理为迈凯伦夺得F1车手世界冠军的全部车手名单，指出在兰多·诺里斯之前共有七位：菲蒂帕尔迪、亨特、劳达、普罗斯特、塞纳、哈基宁和汉密尔顿，并列出对应年份。）",
+        "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-has-won-the-f1-title-for-mclaren-every-driver-champion/",
+        "credibility": "High"
+      },
+      {
+        "content": "McLaren Racing Heritage / Honours（迈凯伦官方荣誉页面，统计车队获得的车手/车队冠军数量，可与冠军年份和车手交叉验证，确认这些冠军年份均对应迈凯伦车队。）",
+        "url": "https://www.mclaren.com/racing/heritage/honours/",
+        "credibility": "High"
+      },
+      {
+        "content": "List of Formula One World Drivers' Champions（按年份列出全部F1车手世界冠军，可核对菲蒂帕尔迪1974、亨特1976、劳达1984、普罗斯特1985/1986/1989、塞纳1988/1990/1991、哈基宁1998/1999和汉密尔顿2008的冠军年份，再与其当年效力车队为迈凯伦交叉确认。）",
+        "url": "https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers'_Champions",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 87,
+    "claim": "诺里斯成为英国第11位车手世界冠军。这也是英国车手获得的第21个车手世界冠军。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "Multiple credible sources consistently state that Lando Norris is the 11th British driver to win the F1 World Drivers' Championship — this part of the claim is supported. However, the second part — that this is the '21st drivers' world championship won by a British driver' — is false. According to official FIA records and authoritative motorsport databases (e.g., StatsF1), as of the end of the 2024 season, British drivers had won a total of 20 Drivers' Championships. Norris’s 2025 title is the 21st *season* in which a British driver won the title, but it is the **20th distinct championship win** — because Jim Clark (2), Graham Hill (2), Jackie Stewart (3), James Hunt (1), Nigel Mansell (1), Damon Hill (1), Jacques Villeneuve (1, Canadian-British dual citizen but FIA-registered as Canadian), Lewis Hamilton (7) — sum to exactly 20 titles. Villeneuve competed under a Canadian license; his 1997 title is not counted as a British title by FIA or StatsF1. Thus, Norris’s 2025 title is the **20th British Drivers’ Championship**, not the 21st. The claim incorrectly conflates '11th driver' with '21st title'.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "StatsF1.com — 'Champions by nationality: United Kingdom' lists 20 Drivers' Championships won by British-licensed drivers: Clark (2), Hill (2), Stewart (3), Hunt (1), Mansell (1), D. Hill (1), Hamilton (7), plus S. Stewart (1), J. Button (1), and now Norris (1) — totals 20. Villeneuve is listed under Canada.",
+        "url": "https://www.statsf1.com/en/nationalite/royaume-uni/champion.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Formula 1 official website — 'List of Formula One World Drivers' Champions' confirms Norris as the 11th British champion (after Hamilton, Button, etc.), and notes total UK titles as 20 as of 2025.",
+        "url": "https://www.formula1.com/en/results.html/2025/drivers-world-championship.html",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC Sport report (Dec 7, 2025): 'Norris becomes the 11th Briton to win the title — the 20th time a British driver has lifted the trophy — matching the record previously held only by Germany (20) before Norris’s win.'",
+        "url": "https://www.bbc.com/sport/formula1/67894321",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "按国籍统计的F1车手世界冠军列表显示，英国车手共获得21个车手世界冠军头衔，其中包含从1958年的迈克·霍索恩到2025年的兰多·诺里斯等所有冠军年份。 同一统计表中给出英国共有11位不同的车手曾获得世界冠军（Drivers一栏为11），兰多·诺里斯作为2025年冠军被列入其中，从而使英国世界冠军车手人数达到11人。 多家权威与专业媒体在报道诺里斯夺冠时，也明确表述他“成为英国第11位F1世界冠军车手”，并指出这一冠军使英国车手累计冠军次数增加到21次，印证了该说法。 ",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "List of Formula One World Drivers' Champions（按国籍汇总统计F1车手世界冠军，其中英国一行显示Titles为21、Drivers为11，并在“By driver (titles)”下列出包含Lando Norris在内的11位英国冠军车手。）",
+        "url": "https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers'_Champions",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Formula One drivers from the United Kingdom（介绍代表英国参赛的F1车手情况，并说明共有11位世界冠军车手代表英国出战，佐证英国世界冠军车手人数为11人。）",
+        "url": "https://en.wikipedia.org/wiki/Formula_One_drivers_from_the_United_Kingdom",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lando Norris wins Formula 1 world title for first time in Abu Dhabi GP decider to pip Max Verstappen to 2025 crown（Sky Sports 报道中称诺里斯成为“Britain's 11th F1 world champion”，并强调英国在F1车手冠军总数上的领先地位，与21个车手冠军的统计相符。）",
+        "url": "https://www.skysports.com/f1/news/12040/13480428/lando-norris-wins-formula-1-world-title-for-first-time-in-abu-dhabi-gp-decider-to-pip-max-verstappen-to-2025-crown",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "claim": "诺里斯在拿下世界冠军之前，一共跑了152场大奖赛正赛，仅次于简森·巴顿的169场、奈杰尔·曼塞尔的176场和尼科·罗斯伯格的206场。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "根据新华社2025年12月7日发布的快讯，诺里斯在2025赛季阿布扎比收官战后首夺F1车手总冠军，且明确指出‘诺里斯在拿下世界冠军之前，一共跑了152场比赛，仅次于简森·巴顿(160场)、奈杰尔·曼塞尔(176场)和尼科·罗斯伯格(206场)’。该信息直接 contradicts the claim’s figure of 169 for Button — it states 160, not 169. Multiple corroborating sources (including a December 12, 2025 summary and Tencent News on Dec 7) repeat the '152 vs 160 vs 176 vs 206' sequence. No credible source cites Button at 169 starts before his 2009 title; official F1 records confirm Button made his championship-winning debut in 2000 and won the title in his 160th start (2009 Brazilian GP), per Formula1.com historical stats.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "“诺里斯在拿下世界冠军之前,一共跑了152场比赛,仅次于简森·巴顿(160场)、奈杰尔·曼塞尔(176场)和尼科·罗斯伯格(206场)。” — 新华社，2025年12月10日发布。",
+        "url": "https://www.news.cn/sports/2025-12/10/c_1129245678.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "腾讯新闻2025年12月7日报道：“诺里斯经历了过山车般的赛季……在前四站比赛均领跑车手积分榜……直到第20站墨西哥大奖赛夺冠后才重回榜首”，并隐含其参赛场次与152场一致；全文未提巴顿为169场。",
+        "url": "https://news.qq.com/a/20251207/001234.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Formula1.com官方车手档案显示：Jenson Button’s first race was 1999 Australian GP; his 160th start was the 2009 Brazilian GP — the race he clinched the title. No record supports 169 starts before title.",
+        "url": "https://www.formula1.com/en/drivers/past-drivers/jenson-button.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "独立统计网站与F1官方数据表明，尼科·罗斯伯格在2016年阿布扎比站夺冠时是其第206场F1大奖赛起步，保持“夺得首个世界冠军前参赛场次最多”的纪录。 同一条官方统计中，将“夺冠前参赛场次最多”的排行榜列为：罗斯伯格206场、奈杰尔·曼塞尔176场、简森·巴顿169场。 另一家赛车媒体在“Rosberg ends longest-ever wait for championship”一文中，使用完全相同的三人数据（巴顿169、曼塞尔176、罗斯伯格206）来说明罗斯伯格在第206场比赛后才首次夺冠，从侧面印证这些数字被业界普遍采用。 关于兰多·诺里斯，赛历统计网站显示他在2025赛季末拿下个人首个世界冠军时，F1正赛起步场次为152场，因此“诺里斯在拿下世界冠军之前一共跑了152场大奖赛正赛”这一说法与统计数据相符，并且在“首冠前参赛场次”这一维度上确实仅次于上述三人，处于历史第四位。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "Nico Rosberg's title triumph in numbers（介绍2016年尼科·罗斯伯格在第206场大奖赛起步后首次获得世界冠军，并给出“首冠前参赛场次”榜：罗斯伯格206场、曼塞尔176场、巴顿169场）",
+        "url": "https://www.formula1.com/en/latest/article/f1-nico-rosberg-champion-2016-title-in-numbers.5XgSvO4nydgGDM7lnfIc1I",
+        "credibility": "High"
+      },
+      {
+        "content": "Rosberg ends longest-ever wait for championship（赛车媒体RaceFans统计并解读罗斯伯格以206场起步成为F1史上等待首冠场次最长的车手，同时引用曼塞尔176场与巴顿169场的数据）",
+        "url": "https://www.racefans.net/2016/11/28/rosberg-ends-longest-ever-wait-for-championship/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lando Norris Races, Wins and Teams - Drivers - F1 History（汇总兰多·诺里斯的F1生涯数据，说明他在2025赛季末夺得首个世界冠军时已完成152场大奖赛起步）",
+        "url": "https://www.formulaonehistory.com/drivers/lando-norris/",
+        "credibility": "Medium"
+      }
+    ]
+  },
+  {
+    "index": 90,
+    "claim": "2025年拉塞尔连续第二年在阿布扎比拿下第5名。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Not Enough Evidence",
+    "llm_justification": "The provided knowledge base confirms that George Russell finished 5th in the 2025 Abu Dhabi Grand Prix: 'F1 Abu Dhabi: Norris third to clinch title, Verstappen wins — ... Russell fifth' (Dec 7, 2025) and 'Lap-by-lap: F1 Abu Dhabi GP — Russell fifth' is implied in the race recap listing 'Lerclerc 4th, Russell 5th'. However, no information is provided about Russell’s 2024 Abu Dhabi Grand Prix result — none of the sources mention his 2024 finishing position, nor do they state or imply continuity (e.g., 'second consecutive year'). Without verifiable data on his 2024 Abu Dhabi result, the 'continuous second year' claim cannot be confirmed or refuted.",
+    "llm_confidence": "Medium",
+    "llm_evidence_sources": [
+      {
+        "content": "F1 Abu Dhabi station: Norris third to win championship, Verstappen wins — ... Russell fifth. (Dec 7, 2025)",
+        "url": "",
+        "credibility": "High"
+      },
+      {
+        "content": "F1 Abu Dhabi GP: Norris third to clinch 2025 title; Verstappen wins, Piastri second, Russell fifth. (Dec 7, 2025)",
+        "url": "",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "多家赛事结果网站和官方/车队报道都显示，2025年阿布扎比大奖赛中乔治·拉塞尔代表梅赛德斯获得第5名完赛。 2024年阿布扎比大奖赛成绩表明，拉塞尔同样在该站获得第5名，从而说明他在2024、2025两个赛季连续两年于阿布扎比站获得第5名，与claim描述一致。 此外，车手个人赛季战绩页也记录了拉塞尔在2025年阿布扎比站的完赛名次为第5名，作为独立来源进一步印证该说法。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "2025 F1 Abu Dhabi Grand Prix - Results（给出2025年阿布扎比大奖赛正式成绩，显示George Russell以第5名完赛）",
+        "url": "https://racingnews365.com/2025-f1-abu-dhabi-grand-prix---results",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Abu Dhabi GP 2024 - Race Results（列出2024年阿布扎比大奖赛正式成绩，结果表中George Russell名列第5位）",
+        "url": "https://www.grandprix.com/races/abu-dhabi-gp-2024-race-results.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Race Report: P2 in the Constructors' Secured as Curtain Comes Down on 2025（梅赛德斯车队赛后报告中说明George Russell在赛季收官的阿布扎比大奖赛获得P5）",
+        "url": "https://www.mercedesamgf1.com/reports/race-report-p2-in-the-constructors-secured-as-curtain-comes-down-on-2025",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "claim": "2025F1阿布扎比大奖赛奥康代表哈斯获得第7名，是他自摩纳哥站以来（16场比赛前）最佳完赛名次。这也是哈斯车队在亚斯码头赛道的历史最佳战绩。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to the official F1 race results cited in the 'f1赛车战报' source, Ésteban Ocon finished 7th at the 2025 Abu Dhabi Grand Prix — but he drove for Alpine (not Haas), as confirmed by the entry '7 奥康 阿尔派 58 +23.778 秒 6' (i.e., Ocon, Alpine, 58 laps, +23.778s behind winner, grid position 6). This directly contradicts the claim that he represented Haas. Furthermore, multiple sources—including the F1 Abu Dhabi race report—list Ocon consistently with Alpine (e.g., 'F1阿布扎比站正赛:诺里斯加冕车手总冠军,维斯塔潘2分惜败' mentions no Haas driver named Ocon). Haas’s 2025 drivers were confirmed as Kevin Magnussen and Nico Hülkenberg; Ocon has never driven for Haas in F1 history. Additionally, Haas’s best-ever Abu Dhabi finish was 6th (by Magnussen in 2023), per official F1 statistics archives — making '7th as Haas’s best' factually false.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "7 奥康 阿尔派 58 +23.778 秒 6 — confirming Ocon drove for Alpine (Alpine = '阿尔派') at the 2025 Abu Dhabi GP, not Haas.",
+        "url": "https://example.com/f1-race-report-2025-abu-dhabi",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1阿布扎比站正赛:诺里斯加冕车手总冠军,维斯塔潘2分惜败 — lists race positions and teams; no mention of Ocon with Haas; consistent Alpine attribution.",
+        "url": "https://example.com/f1-abu-dhabi-2025-race-report",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Official F1 2025 Driver Line-up confirms Haas drivers were Kevin Magnussen and Nico Hülkenberg; Ocon was contracted to Alpine for all 2025 races.",
+        "url": "https://www.formula1.com/en/latest/article.f1-announces-2025-driver-line-up.3QZzXJvYVqK9jJtRkLmN.html",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "官方战绩表与多家赛后报道一致确认，2025 年阿布扎比大奖赛中埃斯特班·奥康代表 MoneyGram Haas F1 Team 以第 7 名完赛并获得 6 分。 2025 赛季个人积分页显示：奥康在摩纳哥站取得第 7 名后，直到赛季最后一站阿布扎比，其间各站最好成绩未能超过第 7 名，因此在“从摩纳哥站到阿布扎比站”这一时间区间内，阿布扎比的第 7 名确实是他的最佳完赛名次。[file:attached_file:1] 赛后数据与统计文章还指出，这一 P7 完赛是哈斯车队在阿布扎比的 Yas Marina 赛道上取得的历史最好成绩，此前车队在该赛道从未有过高于第 7 名的完赛记录，因此“哈斯在亚斯码头赛道的历史最佳战绩”这一表述也得到印证。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025 - Race Result（F1 官方成绩表：奥康代表 Haas 以第 7 名完赛并获 6 分）",
+        "url": "https://www.formula1.com/en/results/2025/races/1276/abu-dhabi/race-result",
+        "credibility": "High"
+      },
+      {
+        "content": "2025 Esteban Ocon Driver Standings（F1 官网个人赛季战绩：显示奥康在摩纳哥站为第 7 名，其后至阿布扎比站之间所有分站完赛名次均未优于第 7 名）",
+        "url": "https://www.formula1.com/en/results/2025/drivers/ESTOCO01/esteban-ocon",
+        "credibility": "High"
+      },
+      {
+        "content": "Verstappen won more, Piastri led longer, but Norris is champion（F1 赛后 Facts & Stats 专栏中提到：奥康在阿布扎比的第 7 名不仅是其自摩纳哥以来的最佳完赛名次，同时也是 Haas 车队在 Yas Marina 赛道上的历史最佳成绩）",
+        "url": "https://www.formula1.com/en/latest/article/facts-and-stats-verstappen-won-more-piastri-led-longer-but-norris-is.14xcBAi0H4ASrOzujtxJA3",
+        "credibility": "High"
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "claim": "2025年是阿布扎比大奖赛连续第11次由杆位获得者取胜，刷新了F1在单一赛道的历史纪录。",
+    "expected_verdict": "Supported",
+    "predicted_verdict": "Refuted",
+    "llm_justification": "According to official F1 race reports and historical statistics from Formula1.com, the 2025 Abu Dhabi Grand Prix was won by Max Verstappen — who *did not start from pole position*. Multiple sources confirm Verstappen started from P17 due to a grid penalty (e.g., 'F1 GP Abu Dhabi pole he took the lead' — search result dated 2025-12-7), and went on to win the race. This directly contradicts the claim that the winner was the pole-sitter. Furthermore, the claim of '11 consecutive pole-to-win' at Yas Marina is false: prior to 2025, the actual streak stood at only 4 (2021–2024), with pole-sitters winning in those years (per Formula1.com race archives). The 2025 result broke that streak, making it zero consecutive pole-to-win finishes that year. No credible source supports an '11-year streak' — such a record would exceed the entire history of the Abu Dhabi GP, which began in 2009 (17 editions as of 2025), and no official F1 publication or motorsport database (e.g., Motorsport.com, Autosport) reports such a statistic.",
+    "llm_confidence": "High",
+    "llm_evidence_sources": [
+      {
+        "content": "F1 GP Abu Dhabi pole he took the lead — search result dated 2025-12-7 states: 'F1 GP from Abu Dhabi pole he took the lead, and won the race', but clarifies earlier: 'he started from 17th'. Confirms Verstappen won despite starting P17.",
+        "url": "https://www.formula1.com/en/results.html/2025/races/1128/abu-dhabi/race-result.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Formula1.com official 2025 Abu Dhabi Grand Prix race report: 'Verstappen started 17th after a grid penalty for power unit component changes, overtook 16 cars to win — the first driver since 2012 to win from P17 or lower.'",
+        "url": "https://www.formula1.com/en/latest/article.verstappen-wins-abu-dhabi-from-17th-after-dramatic-comeback.6zQZvJxXqYyVtKjRkLmNf.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Motorsport.com historical analysis (2024-12-08): 'Abu Dhabi has seen pole-sitters win in 2021 (Hamilton), 2022 (Verstappen), 2023 (Verstappen), and 2024 (Verstappen) — four in a row — but never more than four.'",
+        "url": "https://www.motorsport.com/f1/news/abu-dhabi-pole-win-streak-history/5421924/",
+        "credibility": "High"
+      }
+    ],
+    "ground_truth_justification": "统计显示，阿布扎比大奖赛在2025年前已连续10年由杆位发车的车手夺冠，从2015年至2024年的每一届比赛，冠军均从杆位起步。 赛前和数据分析文章指出，如果2025年阿布扎比大奖赛再次由杆位车手获胜，该赛道将实现连续第11次“从杆位取胜”，并打破此前由巴塞罗那赛道在2001–2010年间创造的10连胜纪录；2025年的比赛结果确认为杆位车手夺冠，使这一纪录正式成立。 相关F1统计网站和赛道数据页面也给出“阿布扎比大奖赛已在最近十届均由杆位取胜，并在2025年将这一连胜纪录扩展为11场，成为F1单一赛道历史上最长的杆位连胜纪录”的描述，与claim完全一致。",
+    "ground_truth_evidence_sources": [
+      {
+        "content": "F1 Track Stats: Abu Dhabi Grand Prix at Yas Marina Circuit 页面统计指出，阿布扎比大奖赛共11次从杆位获胜，其中最近十场比赛（至2024年）全部是由杆位车手夺冠，为赛道连续从杆位取胜的现役纪录。",
+        "url": "https://www.lightsoutblog.com/f1-track-stats-abu-dhabi-grand-prix/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lights Out Blog 在2025年阿布扎比站前的里程碑与纪录文章中提到，如果2025年阿布扎比大奖赛的杆位车手再次取胜，将实现在亚斯码头赛道连续第11次从杆位赢得比赛，并由此打破巴塞罗那赛道在2001–2010年间创下的10连杆位取胜的F1纪录。",
+        "url": "https://www.lightsoutblog.com/2025-abu-dhabi-grand-prix-f1-milestones-records/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Formula 1 官方2025年阿布扎比大奖赛正赛成绩页面显示，本届比赛的冠军车手即为当场杆位获得者，从而将该赛道自2015年以来的“杆位取胜”连胜从10场扩大到11场，完成纪录刷新。",
+        "url": "https://www.formula1.com/en/results/2025/races/1276/abu-dhabi/race-result",
+        "credibility": "High"
+      }
+    ]
+  }
+]
