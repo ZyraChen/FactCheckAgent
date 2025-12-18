@@ -29,13 +29,16 @@ class JudgeAgent:
         evidence_pool: EvidencePool
     ) -> Verdict:
         """
-        生成最终判决
+        生成最终判决 - 修复版
+
+        关键修复: 基于证据的**内容立场**而不是**谁搜索的**
 
         流程:
         1. 计算Grounded Extension(可接受的证据集合)
-        2. 统计双方被接受的证据数量和强度
-        3. 做出判决(Supported/Refuted/NEI)
-        4. 生成详细解释
+        2. 使用LLM判断每个证据的立场(支持/反对claim)
+        3. 计算支持vs反对的强度
+        4. 做出判决(Supported/Refuted/NEI)
+        5. 生成详细解释
         """
         print("\n" + "=" * 80)
         print("Judge 开始判决")
@@ -45,38 +48,63 @@ class JudgeAgent:
         accepted_ids = arg_graph.compute_grounded_extension()
         print(f"可接受的证据节点: {len(accepted_ids)} 个")
 
-        # 2. 分析双方
-        pro_accepted = [
+        # 2. 获取被接受的证据对象
+        accepted_evidences = [
             arg_graph.get_node_by_id(eid) for eid in accepted_ids
-            if arg_graph.get_node_by_id(eid) and arg_graph.get_node_by_id(eid).retrieved_by == "pro"
-        ]
-        con_accepted = [
-            arg_graph.get_node_by_id(eid) for eid in accepted_ids
-            if arg_graph.get_node_by_id(eid) and arg_graph.get_node_by_id(eid).retrieved_by == "con"
+            if arg_graph.get_node_by_id(eid)
         ]
 
-        print(f"Pro被接受: {len(pro_accepted)} 个, Con被接受: {len(con_accepted)} 个")
+        if not accepted_evidences:
+            return Verdict(
+                decision="NEI",
+                confidence=0.3,
+                reasoning="没有被接受的证据，无法判断。",
+                key_evidence_ids=[],
+                accepted_evidence_ids=[],
+                pro_strength=0.0,
+                con_strength=0.0,
+                total_evidences=len(arg_graph.evidence_nodes),
+                accepted_evidences=0
+            )
 
-        # 3. 计算双方强度
-        pro_strength = self._calculate_strength(pro_accepted)
-        con_strength = self._calculate_strength(con_accepted)
+        # 3. 判断每个证据的立场（支持/反对claim）
+        print("\n[立场分析] 判断证据立场...")
+        supporting_evidences = []
+        refuting_evidences = []
 
-        print(f"Pro强度: {pro_strength:.3f}, Con强度: {con_strength:.3f}")
+        for evidence in accepted_evidences:
+            stance = self._determine_evidence_stance(claim, evidence)
+            if stance == "support":
+                supporting_evidences.append(evidence)
+                print(f"  ✓ {evidence.id}: 支持claim")
+            elif stance == "refute":
+                refuting_evidences.append(evidence)
+                print(f"  ✗ {evidence.id}: 反对claim")
+            else:
+                print(f"  ? {evidence.id}: 中立/不确定")
 
-        # 4. 做出判决
+        print(f"\n[立场统计] 支持: {len(supporting_evidences)}个, 反对: {len(refuting_evidences)}个")
+
+        # 4. 计算双方强度
+        support_strength = self._calculate_strength(supporting_evidences)
+        refute_strength = self._calculate_strength(refuting_evidences)
+
+        print(f"支持强度: {support_strength:.3f}, 反对强度: {refute_strength:.3f}")
+
+        # 5. 做出判决
         decision, confidence = self._make_decision(
-            pro_accepted, con_accepted, pro_strength, con_strength
+            supporting_evidences, refuting_evidences, support_strength, refute_strength
         )
 
         print(f"判决: {decision}, 置信度: {confidence:.2f}")
 
-        # 5. 生成推理解释
+        # 6. 生成推理解释
         reasoning = self._generate_reasoning(
-            claim, arg_graph, accepted_ids, decision, pro_accepted, con_accepted
+            claim, arg_graph, accepted_ids, decision, supporting_evidences, refuting_evidences
         )
 
-        # 6. 提取关键证据
-        key_evidence_ids = self._extract_key_evidence(pro_accepted, con_accepted, decision)
+        # 7. 提取关键证据
+        key_evidence_ids = self._extract_key_evidence(supporting_evidences, refuting_evidences, decision)
 
         return Verdict(
             decision=decision,
@@ -84,11 +112,48 @@ class JudgeAgent:
             reasoning=reasoning,
             key_evidence_ids=key_evidence_ids,
             accepted_evidence_ids=list(accepted_ids),
-            pro_strength=pro_strength,
-            con_strength=con_strength,
+            pro_strength=support_strength,
+            con_strength=refute_strength,
             total_evidences=len(arg_graph.evidence_nodes),
             accepted_evidences=len(accepted_ids)
         )
+
+    def _determine_evidence_stance(self, claim: str, evidence: Evidence) -> str:
+        """
+        判断证据的立场 (支持/反对claim)
+
+        返回: "support", "refute", "neutral"
+        """
+        system = """你是事实核查专家，判断证据是支持还是反对给定的claim。
+
+只回答: support / refute / neutral"""
+
+        prompt = f"""Claim: {claim}
+
+证据来源: {evidence.source}
+证据内容: {evidence.content[:500]}
+
+这条证据是支持(support)、反对(refute)还是中立(neutral)于该claim？
+
+只回答一个词: support / refute / neutral"""
+
+        messages = [{"role": "user", "content": prompt}]
+
+        try:
+            response = self.llm.chat(messages, system=system, temperature=0.3)
+            response_lower = response.strip().lower()
+
+            if "support" in response_lower:
+                return "support"
+            elif "refute" in response_lower:
+                return "refute"
+            else:
+                return "neutral"
+
+        except Exception as e:
+            print(f"⚠ 立场判断失败: {e}")
+            # 降级策略: 基于retrieved_by字段
+            return "support" if evidence.retrieved_by == "pro" else "refute"
 
     def _calculate_strength(self, accepted_evidences: List[Evidence]) -> float:
         """计算一方的强度"""
@@ -103,13 +168,13 @@ class JudgeAgent:
 
     def _make_decision(
         self,
-        pro_accepted: List[Evidence],
-        con_accepted: List[Evidence],
-        pro_strength: float,
-        con_strength: float
+        supporting: List[Evidence],
+        refuting: List[Evidence],
+        support_strength: float,
+        refute_strength: float
     ) -> tuple[str, float]:
         """
-        做出判决
+        做出判决 (基于证据立场，不是Pro/Con)
 
         判决逻辑:
         1. 如果一方没有被接受的证据 → 另一方胜出
@@ -118,20 +183,20 @@ class JudgeAgent:
         4. 最后手段 → NEI
         """
         # 情况1: 一方没有被接受的证据
-        if not pro_accepted and not con_accepted:
+        if not supporting and not refuting:
             return "NEI", 0.3
 
-        if not pro_accepted:
-            return "Refuted", min(0.90, 0.6 + con_strength * 0.4)
+        if not supporting:
+            return "Refuted", min(0.90, 0.6 + refute_strength * 0.4)
 
-        if not con_accepted:
-            return "Supported", min(0.90, 0.6 + pro_strength * 0.4)
+        if not refuting:
+            return "Supported", min(0.90, 0.6 + support_strength * 0.4)
 
         # 情况2: 双方都有证据 - 比较强度
-        strength_diff = abs(pro_strength - con_strength)
+        strength_diff = abs(support_strength - refute_strength)
 
         if strength_diff > 0.15:  # 差距明显
-            if pro_strength > con_strength:
+            if support_strength > refute_strength:
                 confidence = 0.6 + (strength_diff * 0.4)
                 return "Supported", min(0.90, confidence)
             else:
@@ -139,19 +204,19 @@ class JudgeAgent:
                 return "Refuted", min(0.90, confidence)
 
         # 情况3: 势均力敌 - 比较最高优先级证据
-        max_pro_priority = max((e.get_priority() for e in pro_accepted), default=0)
-        max_con_priority = max((e.get_priority() for e in con_accepted), default=0)
+        max_support_priority = max((e.get_priority() for e in supporting), default=0)
+        max_refute_priority = max((e.get_priority() for e in refuting), default=0)
 
-        if max_pro_priority > max_con_priority + 0.1:
+        if max_support_priority > max_refute_priority + 0.1:
             return "Supported", 0.6
-        elif max_con_priority > max_pro_priority + 0.1:
+        elif max_refute_priority > max_support_priority + 0.1:
             return "Refuted", 0.6
 
         # 情况4: 真正无法判断
         # 比较数量
-        if len(pro_accepted) > len(con_accepted) + 1:
+        if len(supporting) > len(refuting) + 1:
             return "Supported", 0.55
-        elif len(con_accepted) > len(pro_accepted) + 1:
+        elif len(refuting) > len(supporting) + 1:
             return "Refuted", 0.55
         else:
             return "NEI", 0.5
@@ -162,29 +227,29 @@ class JudgeAgent:
         arg_graph: ArgumentationGraph,
         accepted_ids: Set[str],
         decision: str,
-        pro_accepted: List[Evidence],
-        con_accepted: List[Evidence]
+        supporting: List[Evidence],
+        refuting: List[Evidence]
     ) -> str:
-        """生成推理解释"""
+        """生成推理解释 (参数为支持/反对证据，而非Pro/Con)"""
 
         # 准备证据描述
-        pro_desc = ""
-        if pro_accepted:
-            pro_lines = []
-            for i, ev in enumerate(pro_accepted[:2], 1):
-                pro_lines.append(f"{i}. [{ev.source}] {ev.content[:150]}... (可信度:{ev.credibility}, 优先级:{ev.get_priority():.2f})")
-            pro_desc = "\n".join(pro_lines)
+        support_desc = ""
+        if supporting:
+            support_lines = []
+            for i, ev in enumerate(supporting[:2], 1):
+                support_lines.append(f"{i}. [{ev.source}] {ev.content[:150]}... (可信度:{ev.credibility}, 优先级:{ev.get_priority():.2f})")
+            support_desc = "\n".join(support_lines)
         else:
-            pro_desc = "无被接受的支持证据"
+            support_desc = "无支持claim的证据"
 
-        con_desc = ""
-        if con_accepted:
-            con_lines = []
-            for i, ev in enumerate(con_accepted[:2], 1):
-                con_lines.append(f"{i}. [{ev.source}] {ev.content[:150]}... (可信度:{ev.credibility}, 优先级:{ev.get_priority():.2f})")
-            con_desc = "\n".join(con_lines)
+        refute_desc = ""
+        if refuting:
+            refute_lines = []
+            for i, ev in enumerate(refuting[:2], 1):
+                refute_lines.append(f"{i}. [{ev.source}] {ev.content[:150]}... (可信度:{ev.credibility}, 优先级:{ev.get_priority():.2f})")
+            refute_desc = "\n".join(refute_lines)
         else:
-            con_desc = "无被接受的反驳证据"
+            refute_desc = "无反对claim的证据"
 
         system = """你是事实核查专家,需要生成清晰的判决解释。
 
@@ -199,11 +264,11 @@ class JudgeAgent:
 
 判决结果: {decision}
 
-被接受的支持证据({len(pro_accepted)}条):
-{pro_desc}
+支持claim的证据({len(supporting)}条):
+{support_desc}
 
-被接受的反驳证据({len(con_accepted)}条):
-{con_desc}
+反对claim的证据({len(refuting)}条):
+{refute_desc}
 
 论辩图统计:
 - 总证据节点: {len(arg_graph.evidence_nodes)}
@@ -219,27 +284,27 @@ class JudgeAgent:
             return response if response else f"基于论辩分析,判决为{decision}。"
         except Exception as e:
             print(f"⚠ 推理生成失败: {e}")
-            return f"基于{len(accepted_ids)}个被接受的证据,判决为{decision}。正方被接受{len(pro_accepted)}个证据,反方被接受{len(con_accepted)}个证据。"
+            return f"基于{len(accepted_ids)}个被接受的证据,判决为{decision}。支持{len(supporting)}条,反对{len(refuting)}条。"
 
     def _extract_key_evidence(
         self,
-        pro_accepted: List[Evidence],
-        con_accepted: List[Evidence],
+        supporting: List[Evidence],
+        refuting: List[Evidence],
         decision: str
     ) -> List[str]:
-        """提取关键证据ID"""
+        """提取关键证据ID (基于立场，不是Pro/Con)"""
         if decision == "Supported":
-            # 返回Pro最强的2-3个证据ID
-            sorted_pro = sorted(pro_accepted, key=lambda e: e.get_priority(), reverse=True)
-            return [e.id for e in sorted_pro[:3]]
+            # 返回支持claim的最强证据
+            sorted_support = sorted(supporting, key=lambda e: e.get_priority(), reverse=True)
+            return [e.id for e in sorted_support[:3]]
         elif decision == "Refuted":
-            # 返回Con最强的2-3个证据ID
-            sorted_con = sorted(con_accepted, key=lambda e: e.get_priority(), reverse=True)
-            return [e.id for e in sorted_con[:3]]
+            # 返回反对claim的最强证据
+            sorted_refute = sorted(refuting, key=lambda e: e.get_priority(), reverse=True)
+            return [e.id for e in sorted_refute[:3]]
         else:
             # NEI: 返回双方最强的证据
             all_evidences = sorted(
-                pro_accepted + con_accepted,
+                supporting + refuting,
                 key=lambda e: e.get_priority(),
                 reverse=True
             )
