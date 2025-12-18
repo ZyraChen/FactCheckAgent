@@ -167,7 +167,7 @@ debate_fact_checker/
 
 ### 1. 安装
 ```bash
-cd debate_fact_checker
+cd debate_fact_checker_v1.1
 pip install -r requirements.txt
 ```
 

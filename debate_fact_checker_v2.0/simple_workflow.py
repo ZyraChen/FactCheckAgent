@@ -104,9 +104,9 @@ def run_debate_workflow(claim: str, max_rounds: int = 3) -> dict:
         print("\n[查询生成]")
         pro_queries = pro_agent.generate_search_queries(round_num, arg_graph, evidence_pool)
         con_queries = con_agent.generate_search_queries(round_num, arg_graph, evidence_pool)
-
-        print(f"Pro查询 ({len(pro_queries)}个): {pro_queries}")
-        print(f"Con查询 ({len(con_queries)}个): {con_queries}")
+        #
+        # print(f"Pro查询 ({len(pro_queries)}个): {pro_queries}")
+        # print(f"Con查询 ({len(con_queries)}个): {con_queries}")
 
         # 2. 搜索并创建证据
         print("\n[证据搜索]")

@@ -92,7 +92,7 @@ python test_basic.py
 
 6. 项目结构
 -----------
-debate_fact_checker/
+debate_fact_checker_v2.0/
 ├── core/                  # 核心数据结构
 │   ├── argumentation_graph.py    # 论辩图
 │   └── evidence_pool.py           # 证据池

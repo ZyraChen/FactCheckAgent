@@ -34,7 +34,7 @@ debate_fact_checker/
 
 ### 第1步: 安装依赖
 ```bash
-cd debate_fact_checker
+cd debate_fact_checker_v2.0
 pip install -r requirements.txt
 ```
 

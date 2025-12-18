@@ -109,7 +109,7 @@ if __name__ == "__main__":
     parser.add_argument("--claim", type=str, help="单个claim")
     parser.add_argument("--dataset", type=str, default="data/dataset_part_1.json")
     parser.add_argument("--output", type=str, default="output/results.json")
-    parser.add_argument("--max-samples", type=int, default=2)
+    parser.add_argument("--max-samples", type=int, default=5)
     parser.add_argument("--rounds", type=int, default=3, help="辩论轮次")
 
     args = parser.parse_args()

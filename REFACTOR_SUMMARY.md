@@ -216,7 +216,7 @@ python main_simple.py --dataset data/dataset_part_1.json --max-samples 5
 ### 快速测试
 
 ```bash
-cd debate_fact_checker
+cd debate_fact_checker_v2.0
 
 # 单个claim
 python main_simple.py --claim "欧盟计划在2030年全面禁止销售燃油车。"

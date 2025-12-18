@@ -19,7 +19,7 @@
 
 ```bash
 # 克隆项目
-cd debate_fact_checker
+cd debate_fact_checker_v2.0
 
 # 安装依赖
 pip install -r requirements.txt
