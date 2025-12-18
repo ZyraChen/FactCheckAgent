@@ -30,43 +30,56 @@ class ConAgent:
         evidence_pool: EvidencePool
     ) -> List[str]:
         """
-        生成搜索查询
+        生成搜索查询 - 改进版
 
         策略:
-        - 第1轮: 直接搜索反驳claim的证据,2个查询
-        - 后续轮: 根据正方证据调整策略,1-2个查询
+        - 考虑正方论证
+        - 避免重复已有主题
+        - 生成更有针对性的反驳查询
         """
-        # 获取正方已有的证据
+        # 1. 获取正方证据(尤其是上一轮的)
         pro_evidences = evidence_pool.get_by_agent("pro")
+        recent_pro = [e for e in pro_evidences if e.round_num >= round_num - 1]
 
-        # 构建上下文
-        if round_num == 1:
-            context = "这是第1轮。请搜索反驳该claim的证据,包括反例、错误信息、过时数据等。"
-        else:
-            context = f"这是第{round_num}轮。"
-            if pro_evidences:
-                # 分析正方证据
-                pro_summary = self._summarize_opponent_evidences(pro_evidences)
-                context += f"\n\n正方已找到以下证据支持claim:\n{pro_summary}\n\n你需要找到更强的证据来反驳。"
+        # 2. 获取已有查询主题(避免重复)
+        existing_queries = list(set([e.search_query for e in evidence_pool.get_all()]))
 
-        system_prompt = f"""你是事实核查的反驳方,需要找证据反驳claim: {self.claim}
+        # 3. 构建上下文
+        opponent_args_text = ""
+        if recent_pro:
+            opponent_args_text = "正方最新论证:\n"
+            for i, ev in enumerate(recent_pro[:3], 1):
+                opponent_args_text += f"{i}. [{ev.source}] {ev.content[:150]}...\n"
 
-目标: 找到权威、可信的证据来反驳这个claim或指出其错误。"""
+        existing_topics_text = ""
+        if existing_queries:
+            existing_topics_text = f"\n已搜索过的主题(请避免重复):\n" + "\n".join([f"- {q}" for q in existing_queries[-5:]])
 
-        user_prompt = f"""{context}
+        system_prompt = f"""你是事实核查的反驳方专家。
 
-请生成{2 if round_num == 1 else 1}个搜索查询。
+Claim: {self.claim}
+
+你的任务: 生成高质量的搜索查询,找到**权威证据**来反驳这个claim。
 
 要求:
-1. 查询要具体,能找到权威来源
-2. 寻找反例、错误信息、过时数据,考虑不同角度
-3. 每行一个查询
+1. 查询要具体、可执行,能定位到权威来源
+2. 针对正方论证进行反击
+3. 避免重复已有主题
+4. 寻找: 反例、最新进展、政策变化、官方澄清、学术研究"""
 
-示例:
-欧盟2035燃油车禁令 最新进展 官方声明
-欧盟燃油车政策 豁免条款 合成燃料
+        user_prompt = f"""当前是第 {round_num} 轮。
 
-现在生成查询:"""
+{opponent_args_text}
+
+{existing_topics_text}
+
+请生成 {2 if round_num == 1 else 1} 个搜索查询。
+
+输出格式 (每行一个查询,不要序号):
+欧盟委员会官网 2035燃油车禁令 最新政策
+路透社 欧盟燃油车 合成燃料豁免条款
+
+现在生成:"""
 
         messages = [{"role": "user", "content": user_prompt}]
 
@@ -77,21 +90,25 @@ class ConAgent:
             queries = []
             for line in response.split('\n'):
                 line = line.strip()
-                # 移除序号
-                if line and len(line) > 3:
-                    # 移除开头的数字/点号
-                    cleaned = line.lstrip('0123456789.、）)- ').strip()
-                    if cleaned and len(cleaned) > 5:
+                # 移除序号和特殊字符
+                if line and len(line) > 5:
+                    cleaned = line.lstrip('0123456789.、）)- *#').strip()
+                    # 过滤太短或重复的
+                    if cleaned and len(cleaned) > 10 and cleaned not in existing_queries:
                         queries.append(cleaned)
 
             # 限制数量
             max_queries = 2 if round_num == 1 else 1
-            return queries[:max_queries]
+            result = queries[:max_queries]
+
+            if not result:  # 降级策略
+                result = [f"{self.claim} 反驳证据"] if round_num == 1 else []
+
+            return result
 
         except Exception as e:
             print(f"⚠ Con查询生成失败: {e}")
-            # 降级策略
-            return [f"{self.claim} 反驳 证据"] if round_num == 1 else []
+            return [f"{self.claim} 反驳证据"] if round_num == 1 else []
 
     def _summarize_opponent_evidences(self, evidences: List[Evidence]) -> str:
         """总结对方证据"""
