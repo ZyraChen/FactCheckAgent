@@ -1,51 +1,24 @@
 """
-证据池 - 改进版
-核心改进:每个证据作为独立节点,不再合并
+证据池 - 存储和管理所有证据
 """
+
 from typing import List, Dict, Optional
-from datetime import datetime
-from dataclasses import dataclass
-
-@dataclass
-class Evidence:
-    """证据节点 - 每个证据是独立的论证节点"""
-    id: str
-    content: str
-    url: str
-    source: str  # 来源网站/机构
-    credibility: str  # High/Medium/Low
-    retrieved_by: str  # pro/con
-    round_num: int
-    search_query: str
-    timestamp: datetime
-    quality_score: float = 0.0  # 新增:质量分数(0-1)
-
-    def get_priority(self) -> float:
-        """计算优先级分数"""
-        cred_map = {"High": 1.0, "Medium": 0.6, "Low": 0.3}
-        base = cred_map.get(self.credibility, 0.5)
-        return base * self.quality_score
+from utils.models import Evidence
 
 
 class EvidencePool:
     """
-    证据池 - 改进版
-
-    核心改进:
-    1. 每个证据作为独立节点存储
-    2. 支持质量筛选
-    3. 双方共享证据池
+    证据池
+    双方agent共享的证据存储
     """
 
     def __init__(self):
         self.evidences: Dict[str, Evidence] = {}
-        self._evidence_count = 0
 
     def add_evidence(self, evidence: Evidence):
-        """添加证据节点"""
+        """添加证据"""
         if evidence.id not in self.evidences:
             self.evidences[evidence.id] = evidence
-            self._evidence_count += 1
 
     def add_batch(self, evidences: List[Evidence]):
         """批量添加证据"""
@@ -71,7 +44,7 @@ class EvidencePool:
         return [e for e in self.evidences.values() if e.round_num == round_num]
 
     def get_high_quality(self, min_score: float = 0.6) -> List[Evidence]:
-        """获取高质量证据(quality_score >= min_score)"""
+        """获取高质量证据"""
         return [e for e in self.evidences.values() if e.quality_score >= min_score]
 
     def get_by_credibility(self, credibility: str) -> List[Evidence]:
@@ -92,7 +65,7 @@ class EvidencePool:
         """获取统计信息"""
         total = len(self.evidences)
         if total == 0:
-            return {"total": 0}
+            return {"total": 0, "pro": 0, "con": 0, "high_quality": 0, "high_credibility": 0}
 
         pro_count = len(self.get_by_agent("pro"))
         con_count = len(self.get_by_agent("con"))
@@ -106,3 +79,17 @@ class EvidencePool:
             "high_quality": high_quality,
             "high_credibility": high_cred
         }
+
+    def to_dict(self) -> Dict:
+        """序列化为字典"""
+        return {
+            "evidences": [e.model_dump() for e in self.evidences.values()]
+        }
+
+    @classmethod
+    def from_dict(cls, data: Dict) -> 'EvidencePool':
+        """从字典反序列化"""
+        pool = cls()
+        for e_data in data.get("evidences", []):
+            pool.add_evidence(Evidence(**e_data))
+        return pool

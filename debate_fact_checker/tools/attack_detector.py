@@ -1,21 +1,16 @@
 """
-攻击关系检测 - 改进版
-解决问题: 增加攻击关系,减少冲突节点被同时接受
-
-改进:
-1. 放宽优先级限制 - 允许优先级接近的节点攻击
-2. LLM更积极识别冲突
-3. 每轮重新评估所有节点对
+攻击关系检测器
+使用LLM检测证据之间的矛盾关系
 """
 
 from typing import List
+from utils.models import Evidence, AttackEdge
 from core.argumentation_graph import ArgumentationGraph
-from utils.models import AttackEdge, ArgumentNode
 from llm.qwen_client import QwenClient
 
 
 class AttackDetector:
-    """攻击关系检测器 - 改进版"""
+    """攻击关系检测器"""
 
     def __init__(self, llm_client: QwenClient):
         self.llm = llm_client
@@ -26,185 +21,122 @@ class AttackDetector:
         round_num: int
     ) -> List[AttackEdge]:
         """
-        检测攻击关系 - 改进版
+        检测本轮新增证据与已有证据之间的攻击关系
 
-        关键改进:
-        1. 不只检测本轮新增节点,而是重新评估所有对立节点对
-        2. 放宽优先级限制:差距<0.15也允许攻击(基于内容矛盾)
-        3. 每轮都全面检测,确保冲突被识别
+        策略:
+        1. 获取本轮新增的证据
+        2. 与对方已有证据进行两两比较
+        3. 只添加高优先级→低优先级的攻击
         """
         new_edges = []
 
-        # 获取Pro和Con的所有节点
-        pro_nodes = [n for n in arg_graph.nodes if n.agent == "pro"]
-        con_nodes = [n for n in arg_graph.nodes if n.agent == "con"]
+        # 获取本轮新增的证据
+        new_evidences = [e for e in arg_graph.evidence_nodes.values() if e.round_num == round_num]
 
-        print(f"\n[攻击检测] Pro {len(pro_nodes)}个节点 vs Con {len(con_nodes)}个节点")
+        # 获取所有已有证据(包括本轮)
+        all_evidences = list(arg_graph.evidence_nodes.values())
 
-        # Pro攻击Con
-        pro_attacks = self._detect_attacks_between(
-            pro_nodes, con_nodes, "Pro", "Con"
-        )
-        new_edges.extend(pro_attacks)
+        print(f"\n[攻击检测] 检测 {len(new_evidences)} 个新证据 vs {len(all_evidences)} 个已有证据")
 
-        # Con攻击Pro
-        con_attacks = self._detect_attacks_between(
-            con_nodes, pro_nodes, "Con", "Pro"
-        )
-        new_edges.extend(con_attacks)
+        for new_ev in new_evidences:
+            for existing_ev in all_evidences:
+                # 跳过自己
+                if new_ev.id == existing_ev.id:
+                    continue
 
-        # 去重
-        seen = set()
-        unique_edges = []
-        for edge in new_edges:
-            key = (edge.from_node_id, edge.to_node_id)
-            if key not in seen:
-                seen.add(key)
-                unique_edges.append(edge)
+                # 只检测对立立场
+                if new_ev.retrieved_by == existing_ev.retrieved_by:
+                    continue
 
-        print(f"[攻击检测] 检测到 {len(unique_edges)} 个新攻击关系")
+                # 只检测高优先级→低优先级
+                priority_diff = new_ev.get_priority() - existing_ev.get_priority()
+                if priority_diff <= 0.05:  # 至少高5%
+                    continue
 
-        return unique_edges
+                # 使用LLM判断是否存在矛盾
+                is_attack, rationale = self._check_if_attacks(new_ev, existing_ev)
 
-    def _detect_attacks_between(
+                if is_attack:
+                    edge = AttackEdge(
+                        from_evidence_id=new_ev.id,
+                        to_evidence_id=existing_ev.id,
+                        strength=priority_diff,
+                        rationale=rationale,
+                        round_num=round_num
+                    )
+                    new_edges.append(edge)
+
+        print(f"[攻击检测] 发现 {len(new_edges)} 个攻击关系")
+        return new_edges
+
+    def _check_if_attacks(
         self,
-        my_nodes: List[ArgumentNode],
-        their_nodes: List[ArgumentNode],
-        my_side: str,
-        their_side: str
-    ) -> List[AttackEdge]:
-        """检测我方对他方的所有可能攻击"""
+        attacker: Evidence,
+        target: Evidence
+    ) -> tuple[bool, str]:
+        """
+        使用LLM判断两个证据是否存在攻击关系
 
-        if not my_nodes or not their_nodes:
-            return []
+        攻击关系的判断标准:
+        1. 内容直接矛盾(时间、数字、事实不符)
+        2. attacker提供更权威/更新的信息
+        3. attacker指出target的局限性或错误
+        """
+        system = """你是论辩图分析专家,判断两个证据是否存在攻击关系。
 
-        # 限制数量避免LLM调用过多
-        my_nodes = sorted(my_nodes, key=lambda n: n.priority, reverse=True)[:5]
-        their_nodes = sorted(their_nodes, key=lambda n: n.priority, reverse=True)[:5]
+攻击关系的标准:
+1. 证据1的内容直接反驳证据2(如时间、数字、事实矛盾)
+2. 证据1提供了更权威/更新的信息,使证据2失效
+3. 证据1指出证据2的错误或局限性
 
-        # 构建prompt - 强调找出所有冲突
-        system = f"""你是论辩分析专家,要找出{my_side}和{their_side}之间的所有冲突。
+请判断证据1是否攻击证据2,并给出理由。"""
 
-关键要求:
-1. 积极识别内容上的任何矛盾(数据冲突、结论相反、时效性差异)
-2. 只要有实质性矛盾,就应该标记为攻击
-3. 不要过分纠结优先级 - 内容矛盾更重要
-4. 尽可能多地识别冲突(目标:至少3-5个攻击)
+        prompt = f"""证据1 (来自{attacker.retrieved_by.upper()}, 可信度:{attacker.credibility}, 优先级:{attacker.get_priority():.2f}):
+来源: {attacker.source}
+内容: {attacker.content[:300]}
 
-返回格式(每行一个攻击):
-{my_side}-X攻击{their_side}-Y | 理由(50字内)
+证据2 (来自{target.retrieved_by.upper()}, 可信度:{target.credibility}, 优先级:{target.get_priority():.2f}):
+来源: {target.source}
+内容: {target.content[:300]}
 
-如果真的没有任何冲突,返回"无攻击"
-"""
+请回答:
+1. 证据1是否攻击证据2? (是/否)
+2. 理由 (一句话,30字内)
 
-        my_text = "\n\n".join([
-            f"{my_side}-{i+1} [ID:{n.id}, 优先级:{n.priority:.2f}]\n{n.content[:300]}..."
-            for i, n in enumerate(my_nodes)
-        ])
-
-        their_text = "\n\n".join([
-            f"{their_side}-{i+1} [ID:{n.id}, 优先级:{n.priority:.2f}]\n{n.content[:300]}..."
-            for i, n in enumerate(their_nodes)
-        ])
-
-        prompt = f"""{my_side}方论证:
-{my_text}
-
-{their_side}方论证:
-{their_text}
-
-请识别所有可能的攻击关系。要求:
-1. 只要内容有矛盾就标记(数据冲突、结论相反、来源权威性差异)
-2. 理由要具体说明矛盾点
-3. 尽可能多地识别冲突
-
-示例:
-Pro-1攻击Con-2 | 我方数据74亿公里,对方49亿公里,直接矛盾
-Pro-2攻击Con-1 | 我方2024年数据,对方2015年数据过时"""
+格式: 是/否 | 理由"""
 
         messages = [{"role": "user", "content": prompt}]
 
         try:
-            response = self.llm.chat(messages, system=system, temperature=0.7)
+            response = self.llm.chat(messages, system=system, temperature=0.3)
 
-            attacks = []
-            import re
+            # 解析响应
+            if '|' in response:
+                parts = response.split('|')
+                decision = parts[0].strip()
+                rationale = parts[1].strip() if len(parts) > 1 else "LLM判断存在攻击"
 
-            for line in response.split('\n'):
-                # 匹配格式: Pro-1攻击Con-2 | 理由
-                match = re.search(rf'{my_side}-(\d+)攻击{their_side}-(\d+)\s*[|丨]\s*(.+)', line, re.IGNORECASE)
-                if match:
-                    my_idx = int(match.group(1)) - 1
-                    their_idx = int(match.group(2)) - 1
-                    rationale = match.group(3).strip()
-
-                    if 0 <= my_idx < len(my_nodes) and 0 <= their_idx < len(their_nodes):
-                        attacker = my_nodes[my_idx]
-                        target = their_nodes[their_idx]
-
-                        # 放宽优先级限制:只要差距不超过0.15就允许
-                        priority_diff = attacker.priority - target.priority
-
-                        if priority_diff >= -0.15:  # 允许攻击者略低
-                            # 基础强度 + 优先级差异
-                            strength = max(0.1, 0.5 + priority_diff)
-
-                            attacks.append(AttackEdge(
-                                from_node_id=attacker.id,
-                                to_node_id=target.id,
-                                strength=strength,
-                                rationale=rationale[:150]
-                            ))
-
-                            print(f"  ✓ {attacker.id}(P={attacker.priority:.2f}) → {target.id}(P={target.priority:.2f})")
-
-            return attacks
+                is_attack = '是' in decision or 'Yes' in decision or 'yes' in decision
+                return is_attack, rationale
+            else:
+                # 简单判断
+                is_attack = '是' in response[:10] or 'Yes' in response[:10]
+                return is_attack, response[:50]
 
         except Exception as e:
-            print(f"  ⚠️  LLM攻击检测失败: {e}")
-            return []
+            print(f"⚠ LLM调用失败: {e}")
+            # 降级策略:基于可信度和关键词
+            return self._fallback_attack_check(attacker, target)
 
+    def _fallback_attack_check(
+        self,
+        attacker: Evidence,
+        target: Evidence
+    ) -> tuple[bool, str]:
+        """降级策略:不使用LLM时的简单攻击判断"""
+        # 如果attacker的可信度明显更高且优先级更高
+        cred_rank = {"High": 3, "Medium": 2, "Low": 1}
+        if cred_rank[attacker.credibility] > cred_rank[target.credibility]:
+            return True, f"更高可信度证据({attacker.credibility} vs {target.credibility})"
 
-# 简化版本 - 基于规则,更激进
-def detect_attacks_simple(
-    arg_graph: ArgumentationGraph,
-    round_num: int
-) -> List[AttackEdge]:
-    """
-    简化版攻击检测 - 改进版
-
-    改进:
-    1. 检测所有对立节点对,不只是本轮
-    2. 放宽优先级限制
-    """
-    new_edges = []
-
-    pro_nodes = [n for n in arg_graph.nodes if n.agent == "pro"]
-    con_nodes = [n for n in arg_graph.nodes if n.agent == "con"]
-
-    # Pro攻击Con
-    for pro_node in pro_nodes:
-        for con_node in con_nodes:
-            # 放宽:只要Pro优先级不低于Con太多就攻击
-            if pro_node.priority >= con_node.priority - 0.1:
-                edge = AttackEdge(
-                    from_node_id=pro_node.id,
-                    to_node_id=con_node.id,
-                    strength=max(0.1, pro_node.priority - con_node.priority + 0.2),
-                    rationale=f"Pro论证(P={pro_node.priority:.2f})攻击Con论证(P={con_node.priority:.2f})"
-                )
-                new_edges.append(edge)
-
-    # Con攻击Pro
-    for con_node in con_nodes:
-        for pro_node in pro_nodes:
-            if con_node.priority >= pro_node.priority - 0.1:
-                edge = AttackEdge(
-                    from_node_id=con_node.id,
-                    to_node_id=pro_node.id,
-                    strength=max(0.1, con_node.priority - pro_node.priority + 0.2),
-                    rationale=f"Con论证(P={con_node.priority:.2f})攻击Pro论证(P={pro_node.priority:.2f})"
-                )
-                new_edges.append(edge)
-
-    return new_edges
+        return False, ""
