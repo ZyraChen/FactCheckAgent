@@ -181,6 +181,19 @@ class JinaSearch:
         """同步版本的批量搜索"""
         return asyncio.run(self.search_batch(queries))
 
+    def search(self, query: str, top_k: int = 5) -> List[Dict]:
+        """
+        同步搜索方法 (兼容性接口)
+
+        参数:
+        - query: 搜索查询
+        - top_k: 返回结果数量
+
+        返回: [{"title": ..., "content": ..., "url": ...}, ...]
+        """
+        self.max_results = top_k
+        return asyncio.run(self.search_single(query))
+
 
 # 测试代码
 if __name__ == "__main__":
