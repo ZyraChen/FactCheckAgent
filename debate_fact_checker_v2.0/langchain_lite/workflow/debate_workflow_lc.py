@@ -199,12 +199,22 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
     # 4. 打印最终报告
     _print_final_report(claim, evidence_pool, arg_graph, verdict)
 
-    # 5. 返回结果
+    # 5. 构建完整日志
+    complete_log = _build_complete_log(
+        claim=claim,
+        evidence_pool=evidence_pool,
+        arg_graph=arg_graph,
+        verdict=verdict,
+        ground_truth=None  # 将在 main 中设置
+    )
+
+    # 6. 返回结果
     return {
         "claim": claim,
         "verdict": verdict.model_dump(),
         "evidence_pool_stats": evidence_pool.get_statistics(),
-        "arg_graph_data": arg_graph.to_dict()
+        "arg_graph_data": arg_graph.to_dict(),
+        "complete_log": complete_log  # 新增：完整日志
     }
 
 
@@ -243,6 +253,142 @@ def _print_final_report(
     print(f"被接受: {verdict.accepted_evidences}")
     print(f"支持强度: {verdict.pro_strength:.2f}")
     print(f"反对强度: {verdict.con_strength:.2f}")
+
+
+def _build_complete_log(
+    claim: str,
+    evidence_pool: EvidencePool,
+    arg_graph: ArgumentationGraph,
+    verdict: Verdict,
+    ground_truth: str = None
+) -> dict:
+    """
+    构建完整的运行日志
+
+    Args:
+        claim: Claim
+        evidence_pool: 证据池
+        arg_graph: 论辩图
+        verdict: 判决结果
+        ground_truth: 数据集中的真实标签
+
+    Returns:
+        完整日志字典
+    """
+    # 1. 所有证据节点（格式化）
+    all_evidences = []
+    for ev in evidence_pool.get_all():
+        all_evidences.append({
+            "id": ev.id,
+            "content": ev.content,
+            "url": ev.url,
+            "source": ev.source,
+            "credibility": ev.credibility,
+            "quality_score": ev.quality_score,
+            "priority": ev.get_priority(),
+            "retrieved_by": ev.retrieved_by,
+            "round_num": ev.round_num,
+            "search_query": ev.search_query,
+            "timestamp": ev.timestamp.isoformat() if hasattr(ev.timestamp, 'isoformat') else str(ev.timestamp)
+        })
+
+    # 2. 攻击关系
+    attack_edges = []
+    for edge in arg_graph.attack_edges:
+        attacker = arg_graph.get_node_by_id(edge.from_evidence_id)
+        target = arg_graph.get_node_by_id(edge.to_evidence_id)
+
+        attack_edges.append({
+            "from_evidence_id": edge.from_evidence_id,
+            "from_agent": attacker.retrieved_by if attacker else "unknown",
+            "from_priority": attacker.get_priority() if attacker else 0,
+            "to_evidence_id": edge.to_evidence_id,
+            "to_agent": target.retrieved_by if target else "unknown",
+            "to_priority": target.get_priority() if target else 0,
+            "strength": edge.strength,
+            "rationale": edge.rationale,
+            "round_num": edge.round_num
+        })
+
+    # 3. 被接受的证据（Grounded Extension）
+    accepted_ids = arg_graph.compute_grounded_extension()
+    accepted_evidences = []
+    for eid in accepted_ids:
+        ev = arg_graph.get_node_by_id(eid)
+        if ev:
+            accepted_evidences.append({
+                "id": ev.id,
+                "agent": ev.retrieved_by,
+                "priority": ev.get_priority(),
+                "source": ev.source,
+                "content_preview": ev.content[:200] + "..."
+            })
+
+    # 4. 被击败的证据
+    defeated_ids = set(arg_graph.evidence_nodes.keys()) - accepted_ids
+    defeated_evidences = []
+    for eid in defeated_ids:
+        ev = arg_graph.get_node_by_id(eid)
+        if ev:
+            attackers = arg_graph.get_attackers(eid)
+            defeated_evidences.append({
+                "id": ev.id,
+                "agent": ev.retrieved_by,
+                "priority": ev.get_priority(),
+                "defeated_by": list(attackers)
+            })
+
+    # 5. 判决结果
+    verdict_data = {
+        "decision": verdict.decision,
+        "confidence": verdict.confidence,
+        "reasoning": verdict.reasoning,
+        "key_evidence_ids": verdict.key_evidence_ids,
+        "pro_strength": verdict.pro_strength,
+        "con_strength": verdict.con_strength,
+        "total_evidences": verdict.total_evidences,
+        "accepted_evidences": verdict.accepted_evidences
+    }
+
+    # 6. 统计信息
+    stats = evidence_pool.get_statistics()
+
+    # 7. 构建完整日志
+    complete_log = {
+        "claim": claim,
+        "ground_truth": ground_truth,  # 数据集真实标签
+        "timestamp": datetime.now().isoformat(),
+
+        "statistics": {
+            "total_evidences": stats['total'],
+            "pro_evidences": stats['pro'],
+            "con_evidences": stats['con'],
+            "total_attacks": len(attack_edges),
+            "accepted_evidences": len(accepted_evidences),
+            "defeated_evidences": len(defeated_evidences)
+        },
+
+        "evidences": {
+            "all_evidences": all_evidences,
+            "accepted_evidences": accepted_evidences,
+            "defeated_evidences": defeated_evidences
+        },
+
+        "argumentation": {
+            "attack_edges": attack_edges,
+            "grounded_extension": list(accepted_ids)
+        },
+
+        "verdict": verdict_data,
+
+        "evaluation": {
+            "predicted": verdict.decision,
+            "ground_truth": ground_truth,
+            "correct": verdict.decision == ground_truth if ground_truth else None
+        }
+    }
+
+    return complete_log
 
 
 if __name__ == "__main__":

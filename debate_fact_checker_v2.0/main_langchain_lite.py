@@ -17,13 +17,14 @@ from langchain_lite.workflow.debate_workflow_lc import run_debate_workflow_lc
 import config
 
 
-def process_single_claim(claim: str, rounds: int = 3):
+def process_single_claim(claim: str, rounds: int = 3, ground_truth: str = None):
     """
     处理单个claim
 
     Args:
         claim: 要核查的claim
         rounds: 辩论轮次
+        ground_truth: 数据集中的真实标签（可选）
 
     Returns:
         判决结果
@@ -35,6 +36,14 @@ def process_single_claim(claim: str, rounds: int = 3):
     print(f"Claim: {claim}\n")
 
     result = run_debate_workflow_lc(claim, max_rounds=rounds)
+
+    # 设置 ground_truth
+    if ground_truth:
+        result["complete_log"]["ground_truth"] = ground_truth
+        result["complete_log"]["evaluation"]["ground_truth"] = ground_truth
+        result["complete_log"]["evaluation"]["correct"] = (
+            result["verdict"]["decision"] == ground_truth
+        )
 
     # 保存结果
     output_dir = Path("output")
@@ -48,9 +57,14 @@ def process_single_claim(claim: str, rounds: int = 3):
     with open(output_dir / "verdict_lc_lite.json", "w", encoding="utf-8") as f:
         json.dump(result["verdict"], f, ensure_ascii=False, indent=2, default=str)
 
+    # 保存完整日志
+    with open(output_dir / "complete_log.json", "w", encoding="utf-8") as f:
+        json.dump(result["complete_log"], f, ensure_ascii=False, indent=2, default=str)
+
     print(f"\n✓ 结果已保存到 output/ 目录")
     print(f"  - argumentation_graph_lc_lite.json")
     print(f"  - verdict_lc_lite.json")
+    print(f"  - complete_log.json")
 
     return result
 
@@ -77,6 +91,12 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
 
     results = []
 
+    # 创建日志目录
+    output_dir = Path("output")
+    output_dir.mkdir(exist_ok=True)
+    logs_dir = output_dir / "logs"
+    logs_dir.mkdir(exist_ok=True)
+
     for i, item in enumerate(dataset):
         print(f"\n{'#'*70}")
         print(f"处理第 {i+1}/{len(dataset)} 条")
@@ -85,17 +105,34 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
         try:
             result = run_debate_workflow_lc(item["claim"], max_rounds=3)
 
+            ground_truth = item.get("verdict")
+
+            # 设置 ground_truth 到 complete_log
+            if ground_truth:
+                result["complete_log"]["ground_truth"] = ground_truth
+                result["complete_log"]["evaluation"]["ground_truth"] = ground_truth
+                result["complete_log"]["evaluation"]["correct"] = (
+                    result["verdict"]["decision"] == ground_truth
+                )
+
+            # 保存单个 claim 的完整日志
+            log_filename = f"log_{i+1:03d}.json"
+            with open(logs_dir / log_filename, "w", encoding="utf-8") as f:
+                json.dump(result["complete_log"], f, ensure_ascii=False, indent=2, default=str)
+
             results.append({
                 "claim": item["claim"],
                 "predicted": result["verdict"].get("decision"),
-                "ground_truth": item.get("verdict"),
+                "ground_truth": ground_truth,
                 "confidence": result["verdict"].get("confidence"),
-                "correct": result["verdict"].get("decision") == item.get("verdict")
+                "correct": result["verdict"].get("decision") == ground_truth
             })
 
-            # 保存中间结果
+            # 保存中间结果摘要
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(results, f, ensure_ascii=False, indent=2)
+
+            print(f"✓ 完整日志已保存: {log_filename}")
 
         except Exception as e:
             print(f"❌ 错误: {e}")
