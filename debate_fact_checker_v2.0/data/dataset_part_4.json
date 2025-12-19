@@ -1,0 +1,2467 @@
+[
+  {
+    "claim": "\"I take responsibility for putting people in jail\" in Minnesota fraud scandal.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The work of federal investigators and prosecutors — not state officials — led to dozens of convictions in the most prominent Minnesota fraud scandal involving the nonprofit Feeding Our Future. Reporting by media organizations in the state showed that Minnesota officials provided little or no evidence to federal investigators, who had to build a case from scratch, and that the state could have done more to aid the investigation.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Attorney's Office, District of Minnesota, U.S. Attorney Announces Federal Charges Against 47 Defendants in $250 Million Feeding Our Future Fraud Scheme , Sept. 20, 2022",
+        "url": "https://www.justice.gov/usao-mn/pr/us-attorney-announces-federal-charges-against-47-defendants-250-million-feeding-our",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Attorney's Office, District of Minnesota, Defendants Charged in First Wave of Housing Stabilization Fraud Cases , Sept. 18, 2025",
+        "url": "https://www.justice.gov/usao-mn/pr/defendants-charged-first-wave-housing-stabilization-fraud-cases",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Attorney's Office, First Defendant Charged in Autism Fraud Scheme , Sept. 24, 2025",
+        "url": "https://www.justice.gov/usao-mn/pr/first-defendant-charged-autism-fraud-scheme-0",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The work of federal investigators and prosecutors — not state officials — led to dozens of convictions in the most prominent Minnesota fraud scandal i",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"I have just gotten the highest poll numbers of my 'political career.'\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Eight widely followed poll aggregators show that President Donald Trump notched his strongest approval ratings, and his smallest disapproval ratings, in January at the beginning of his second term. Since then, his approval ratings have gone downhill. Trump's current approval and disapproval ratings are the worst of his second term and within a few percentage points of his first term's weakest showing.",
+    "evidence_sources": [
+      {
+        "content": "Donald Trump, Truth Social post , Nov. 22, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115593240147764609",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Poll aggregators: Silver Bulletin (Nate Silver); FiftyPlusOne (G. Elliott Morris); Decision Desk HQ ; RealClearPolitics , The Cook Political Report with Amy Walter ; The New York Times ; Votehub ; RacetotheWH , accessed Nov. 24, 2025",
+        "url": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, \" No recent public poll shows Kamala Harris with 'great approval ratings ,'\" Aug. 8, 2023",
+        "url": "https://www.politifact.com/factchecks/2023/aug/08/kamala-harris/no-recent-public-poll-shows-kamala-harris-with-gre/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Eight widely followed poll aggregators show that President Donald Trump notched his strongest approval ratings, and his smallest disapproval ratings, ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"There's about 1,400 criminal illegal aliens that, right now, are in North Carolina and Charlotte's jails that they refuse to turn over to ICE law enforcement.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "Some North Carolina sheriffs ignored ICE requests for years. Legislators enacted a law last year requiring sheriffs to comply with ICE requests. Sheriffs say they're complying with the new law and cooperating with immigration officials.",
+    "evidence_sources": [
+      {
+        "content": "WRAL, \" NC immigration enforcement operation 'not over' despite earlier reports, DHS says ,\" Nov. 20, 2025; \" Immigration enforcement changes, $463.5M for private-school vouchers now law after NC Senate override ,\" Nov. 20, 2024.",
+        "url": "https://www.wral.com/news/ap/dc933-federal-immigration-crackdown-ends-in-charlotte-north-carolina-sheriff-says/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post by the Department of Homeland Security on Nov. 17, 2025. Press release by the Department of Homeland Security, \"DHS Launches Operation Charlotte's Web to Target Criminal Illegal Aliens Terrorizing Americans in Charlotte, North Carolina,\" Mov. 15, 2025.",
+        "url": "https://x.com/DHSgov/status/1990528939551248465",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Some North Carolina sheriffs ignored ICE requests for years. Legislators enacted a law last year requiring sheriffs to comply with ICE requests. Sheri",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"We're not cutting science. We're not cutting research.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "Reports of halted research and clinical trials contradict Health Secretary Robert F. Kennedy Jr.'s statement that the Trump administration hasn't cut science and research. One recent research letter reported that grant funding terminations affected roughly 1 in 30 clinical trials, impacting more than 74,000 trial participants. Some previously terminated or frozen grants have been reinstated, but about 2,500 grants remain terminated or frozen. Scientists said the cuts harmed research even if funding was eventually restored.",
+    "evidence_sources": [
+      {
+        "content": "The Associated Press, Here's where jobs and programs are being cut at the nation's top health agencies , April 1, 2025",
+        "url": "https://apnews.com/article/trump-hhs-cdc-fda-nih-cms-layoffs-5aba829b829d9e1a0167c4a0d968aadb",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Health and Human Services, HHS Announces Transformation to Make America Healthy Again , March 27, 2025",
+        "url": "https://www.hhs.gov/press-room/hhs-restructuring-doge.html",
+        "credibility": "High"
+      },
+      {
+        "content": "JAMA Internal Medicine, Clinical Trials Affected by Research Grant Terminations at the National Institutes of Health , Nov. 17, 2025",
+        "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840939",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Reports of halted research and clinical trials contradict Health Secretary Robert F. Kennedy Jr.'s statement that the Trump administration hasn't cut ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Housing is expensive \"because we flooded the country with 30 million illegal immigrants\" and because of a housing shortage.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Experts agree that increased immigration leads to higher housing demand, but evidence doesn't support the idea that immigrants in the United States illegally are a primary driver of high housing costs. The main factor affecting housing affordability is a home shortage caused by years of underbuilding and restrictive zoning. An interest rate surge exacerbated the problem. The number of immigrants illegally in the U.S. is less than half the number Vice President JD Vance cited. Estimates range from 12 million to 14 million people as of 2023, the latest data available.",
+    "evidence_sources": [
+      {
+        "content": "PolitiFact, No, Zillow's CEO didn't say Trump's deportation plan would lower housing prices , Nov. 12, 2024 Center for Migration Studies, The Undocumented Population in the United States Increased to 12.2 Million in 2023 , May 7, 2025 Pew Research Center, U.S. Unauthorized Immigrant Population Reached a Record 14 Million in 2023 , Aug. 21, 2025 Migration Policy Institute, Unauthorized Immigrant Population Profiles , Accessed Nov. 17, 2025 Science Direct, Immigration and housing rents in American cities , March 2007 Research Gate, Wages, Rents and Prices: The Effects of Immigration on US Natives , December 2006 U.S. Government Accountability Office, The Affordable Housing Crisis Grows While Efforts to Increase Supply Fall Short , Oct. 12, 2023 U.S. House Oversight and Accountability Committee, The Consequences of Illegal Immigration for Housing Affordability, Government Budgets, and American Workers , Sept. 25, 2024 Cato Institute, Immigration, Housing Markets, and Community Vitality , 2017",
+        "url": "https://www.politifact.com/factchecks/2024/nov/12/instagram-posts/no-zillows-ceo-didnt-say-trumps-deportation-plan-w/",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Reserve Bank of St. Louis, S&P CoreLogic Case-Shiller U.S. National Home Price Index , Accessed Nov. 18, 2025 Apartment List, Apartment List National Rent Report , Oct. 29, 2025 Pew Research Center, What we know about unauthorized immigrants living in the U.S. , July 22, 2024 Center for Immigration Studies, In October 2023, the Foreign-Born Share Was the Highest in History , Nov. 30, 2023 U.S. Chamber of Commerce, The State of Housing in America , Updated Sept. 3, 2025",
+        "url": "https://fred.stlouisfed.org/series/CSUSHPINSA",
+        "credibility": "High"
+      },
+      {
+        "content": "The University of Utah, What 'mass deportation' means for housing costs , Jan. 24, 2025 The Urban Institute, Mass Deportations Would Worsen Our Housing Crisis , Feb. 25, 2025 Email interview, White House press office of the vice president, Nov. 17, 2025 Email interview, Dean Baker, cofounder and senior economist at the Center for Economic and Policy Research, Nov. 17, 2025 Email interview, Exequiel Hernandez, an associate professor who studies immigration at the Wharton School at the University of Pennsylvania, Nov. 17, 2025 Email interview, Jacob Vigdor, a professor of public policy and governance at the University of Washington, Nov. 17, 2025 Email interview, Susan Pozo, economics professor at Western Michigan University, Nov. 17, 2025 Email interview, Chloe East, an associate professor in Economics at the University of Colorado Boulder, Nov. 18, 2025",
+        "url": "https://attheu.utah.edu/business/what-mass-deportation-means-for-housing-costs/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Experts agree that increased immigration leads to higher housing demand, but evidence doesn't support the idea that immigrants in the United States il",
+    "topic": "Politics"
+  },
+  {
+    "claim": "A '60 Minutes' clip shows Kamala Harris lying while cameras roll. \"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The unedited '\"60 Minutes\" interview with former Vice President Kamala Harris didn't show correspondent Bill Whitaker confronting Harris for lying during the interview when the cameras were off. It showed a crew member gathering extra over-the-shoulder footage and room tone for the broadcast post-interview. A Feb. 5 \"60 minutes\" statement says the broadcast was \"not doctored or deceitful\" but \"journalists regularly edit interviews — for time, space or clarity.\"",
+    "evidence_sources": [
+      {
+        "content": "Instagram post ( archived ), Feb. 6, 2025",
+        "url": "https://www.instagram.com/reel/DFvI6ciuyCf/?utm_source=ig_embed&ig_rid=1c342ad5-fda7-46b8-bd57-79acb43ee998",
+        "credibility": "High"
+      },
+      {
+        "content": "The Associated Press, '60 Minutes' publicly releases transcripts of interview at heart of its dispute with Trump , Feb. 5, 2025",
+        "url": "https://apnews.com/article/trump-60-minutes-harris-lawsuit-514b0ccbc4a4f120e4db810c6a00e259",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , Feb. 7, 2025",
+        "url": "https://x.com/elonmusk/status/1887857194693021738",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The unedited '\"60 Minutes\" interview with former Vice President Kamala Harris didn't show correspondent Bill Whitaker confronting Harris for lying dur",
+    "topic": "Politics"
+  },
+  {
+    "claim": "On support for U.S. Agency for International Development",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "As a U.S. senator, Marco Rubio supported foreign aid and praised the U.S. Agency for International Development, aka USAID. Since he became secretary of state and USAID's acting director, Rubio has criticized the agency and described it as fraught with \"rank insubordination\" and a hindrance to the president's foreign policy efforts. His record of public comments shows some measured thoughts about spending choices and transparency. But his recent claims are a notable departure.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Sen. Robert Menendez, Letter to Secretary Tillerson , Jan. 31, 2018, accessed via the Internet Archive",
+        "url": "https://web.archive.org/web/20220826071046/https://www.menendez.senate.gov/imo/media/doc/Menendez-Rubio-Kaine-Letter-Tillerson-elections-Latin-America.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Senator Marco Rubio Press Release, Rubio, Booker introduce resolution supporting continued U.S. leadership in expanding global access to quality education , May 28, 2021, accessed via Internet Archiv",
+        "url": "https://web.archive.org/web/20210601212730/https://www.rubio.senate.gov/public/index.cfm/press-releases?ID=78D3018C-F0AE-45D2-8316-F2374145CD8B",
+        "credibility": "High"
+      },
+      {
+        "content": "Senate Foreign Relations Committee, Cardin, Rubio introduce Philippines security, human rights assistance legislation, May 4, 2017",
+        "url": "https://www.foreign.senate.gov/press/dem/release/cardin-rubio-introduce-philippines-security-human-rights-assistance-legislation",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. As a U.S. senator, Marco Rubio supported foreign aid and praised the U.S. Agency for International Development, aka USAID. Since he became secretary o",
+    "topic": "Politics"
+  },
+  {
+    "claim": "We're one of the very few nations that allowed birthright citizenship.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "About three dozen countries offer citizenship to people born in the country without restrictions, as the U.S. does. That's about 18 percent of the total countries in the world, U.S. Sen. Ron Johnson, R-Wis.' office points out. Only the U.S. and Canada, which offer birthright citizenship, are considered \"advanced economies\" by the International Monetary Fund. Other nations offering it include Mexico and Brazil. Nearly all are in the Western Hemisphere.",
+    "evidence_sources": [
+      {
+        "content": "National Archives, 14th Amendment to the U.S. Constitution: Civil Rights (1868) .",
+        "url": "https://www.archives.gov/milestone-documents/14th-amendment",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, Protecting the Meaning and Value of American Citizenship , Jan. 20, 2025.",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+        "credibility": "High"
+      },
+      {
+        "content": "Harvard Law Today, Can birthright citizenship be changed? , Jan. 24, 2025.",
+        "url": "https://hls.harvard.edu/today/can-birthright-citizenship-be-changed/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. About three dozen countries offer citizenship to people born in the country without restrictions, as the U.S. does. That's about 18 percent of the tot",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Photo shows \"a dangerous serial killer\" named Jaden Williams in Monroe, Louisiana.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This is a hoax. Police in Monroe, Louisiana, said the reports of a serial killer on the loose are not true. The photo included in the post did not show a man named Jaden Williams. It showed Shannon Atkins, who was arrested Jan. 24 in West Palm Beach, Florida, after making violent threats on social media against President Donald Trump. The Better Business Bureau warns people against these kinds of bait-and-switch scams. The social media posts initially warn of criminal activity in an area, but once shared, scammers change the posts to deceptive ads for rental properties, for example.",
+    "evidence_sources": [
+      {
+        "content": "Facebook post , Feb. 2, 2025",
+        "url": "https://mvau.lt/media/168052e5-10f2-49e4-80dc-2fc0d29cd986",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Better Business Bureau, \" BBB Scam Alert: Facebook scams in local buy and sell groups are on the rise ,\" Nov. 5, 2024",
+        "url": "https://www.bbb.org/article/scams/27865-bbb-scam-alert-facebook-scams-in-local-buy-and-sell-groups-are-on-the-rise",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, \" Don't fall for Facebook posts warning about purported, wanted serial killer Jeffrey Thomas ,\" Jan. 24, 2025",
+        "url": "https://www.politifact.com/factchecks/2025/jan/24/facebook-posts/dont-fall-for-facebook-posts-warning-about-purport/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This is a hoax. Police in Monroe, Louisiana, said the reports of a serial killer on the loose are not true. The photo included in the post did not sho",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Donald Trump is reportedly furious with Elon Musk for convincing him to push out the head of the FAA because Musk was mad SpaceX got fined last September by the FAA for license violations.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The claim originated as satire.",
+    "evidence_sources": [
+      {
+        "content": "Federal Aviation Administration, FAA Proposes $633,009 in Civil Penalties Against SpaceX , Sept. 17, 2024",
+        "url": "https://www.faa.gov/newsroom/faa-proposes-633009-civil-penalties-against-spacex",
+        "credibility": "High"
+      },
+      {
+        "content": "USA Today, Trump appoints FAA-veteran Chris Rocheleau to serve as agency's acting administrator , Jan. 31, 2025",
+        "url": "https://www.usatoday.com/story/travel/2025/01/31/acting-faa-administrator-chris-rocheleau/78080263007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Threads post ( archived ), Jan. 31, 2025",
+        "url": "https://www.threads.net/@carmack55/post/DFfIrqERhTD?fbclid=IwY2xjawIJ66VleHRuA2FlbQIxMAABHWoghe6fBK0n_7fxY1A6tiPOaRu0fZZRF49kIM3_QVZpLEyNo9Cih78_3w_aem_--XXUr0byu-LBgMaC1yoow",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The claim originated as satire.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Imagen muestra a oficiales de inmigración arrestando a un hombre vestido con una camisa de \"Latinos for Trump 2024\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Esta foto fue alterada; es de una redada de inmigración del 2018. La imagen original no muestra a alguien con una camisa de \"Latinos for Trump 20224\".",
+    "evidence_sources": [
+      {
+        "content": "Fuentes incluidas en el articulo en inglés .",
+        "url": "https://www.politifact.com/factchecks/2025/jan/30/viral-image/image-of-ice-officers-arresting-someone-wearing-a/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Esta foto fue alterada; es de una redada de inmigración del 2018. La imagen original no muestra a alguien con una camisa de \"Latinos for Trump 20224\".",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"I changed the Obama policy (on hiring air traffic controllers) ... And then Biden came in and he changed it.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "President Barack Obama in 2010 ordered federal agencies to prioritize hiring more people with disabilities. The Federal Aviation Administration incorporated such efforts into its diversity hiring program. These efforts remained in place throughout President Donald Trump's first administration. The FAA under Trump expanded its effort to hire people with disabilities, announcing in 2019 a program to hire 20 people with disabilities to be air traffic controllers. Trump in 2018 eliminated an Obama-era assessment used in hiring air traffic controllers that scored applicants based on their work and education history and personality traits. Biden did not revive it.",
+    "evidence_sources": [
+      {
+        "content": "The White House, Immediate Assessment of Aviation Safety , Jan. 30, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/immediate-assessment-of-aviation-safety/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Reforming The Federal Hiring Process And Restoring Merit To Government Service , Jan. 20, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Fact Sheet: President Donald J. Trump Ends DEI Madness and Restores Excellence and Safety within the Federal Aviation Administration , Jan. 22, 2025",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-ends-dei-madness-and-restores-excellence-and-safety-within-the-federal-aviation-administration/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. President Barack Obama in 2010 ordered federal agencies to prioritize hiring more people with disabilities. The Federal Aviation Administration incorp",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"As a Californian, we have given more to the recovery of other states than any other state in the union.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "California paid $83.1 billion more in federal taxes than it received from the federal government — more than any other state — in 2022. When the state's population is considered, California paid $2,129 more per capita in federal taxes than it received — which is more than all but three other states.",
+    "evidence_sources": [
+      {
+        "content": "Rockefeller Institute of Government, Giving or Getting? New York's Balance of Payments with the Federal Government (2024) July 1, 2024",
+        "url": "https://rockinst.org/issue-area/new-yorks-balance-of-payments-with-the-federal-government-2024/",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office, FEMA's Disaster Relief Fund: Budgetary History and Projections , November 2022",
+        "url": "https://www.cbo.gov/publication/58840",
+        "credibility": "High"
+      },
+      {
+        "content": "NBC Meet the Press, Transcript and video , Jan. 26, 2025",
+        "url": "https://www.nbcnews.com/meet-the-press/meet-press-january-26-2025-n1311424",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. California paid $83.1 billion more in federal taxes than it received from the federal government — more than any other state — in 2022. When the state",
+    "topic": "Politics"
+  },
+  {
+    "claim": "A video shows \"people around the world\" who are \"protesting because Donald Trump is the president.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The video shows London protesters opposing President Donald Trump's first-term visit to the United Kingdom in 2018.",
+    "evidence_sources": [
+      {
+        "content": "NBC News, Tens of thousands pack London streets to protest Trump visit , July 13, 2018",
+        "url": "https://www.nbcnews.com/video/london-protests-against-trump-draws-tens-of-thousands-1276270659667",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN, London protests send clear message to Trump: You're not welcome , July 13, 2018",
+        "url": "https://www.cnn.com/2018/07/13/uk/trump-visit-london-protests-intl/index.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Instagram post ( archived ), Jan. 28, 2025",
+        "url": "https://www.instagram.com/reel/DFZHYw3shkf/?utm_source=ig_embed&ig_rid=2c367133-409d-45db-8d92-6e3d009d4e5b",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. The video shows London protesters opposing President Donald Trump's first-term visit to the United Kingdom in 2018.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Says Eric Trump post on X, \"Any and all who dare to defy the American Golden Age, heed this warning: You WILL lose. Tow the line, or we WILL run you down!\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This purported X post was fabricated.",
+    "evidence_sources": [
+      {
+        "content": "The White House, The Inaugural Address , Jan. 20, 2025",
+        "url": "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/",
+        "credibility": "High"
+      },
+      {
+        "content": "X post , Jan. 21, 2025",
+        "url": "https://x.com/EricTrump/status/1881762032443392263",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , Jan. 21, 2025",
+        "url": "https://x.com/EricTrump/status/1881817309066703169",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This purported X post was fabricated.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Image shows President Donald Trump's response \"to Selena Gomez' meltdown.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This post was fabricated.",
+    "evidence_sources": [
+      {
+        "content": "Facebook post , Jan. 27, 2025",
+        "url": "https://www.threads.net/@kourtneelynne/post/DFWhmOfOYmG?fbclid=IwY2xjawIGH2RleHRuA2FlbQIxMAABHRyaG4yVyWb25_GBoUAk7MFLAR7Bzm9zSl34pdCZoiEuN7NhC8TECU8UEg_aem_1fA2YKFrT2hMe84tCd39_Q",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube, Border czar Tom Homan reacts to Selena Gomez crying over mass deportation , Jan. 27, 2025",
+        "url": "https://www.youtube.com/watch?v=WA8TLlXK3nc",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Hollywood Reporter, Selena Gomez Told by Border Czar to Cry to Congress as Senate Hopeful Calls for Deportation , Jan. 28, 2025",
+        "url": "https://www.hollywoodreporter.com/news/politics-news/selena-gomez-border-czar-tom-homan-sam-parker-deportation-1236120508/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This post was fabricated.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Wisconsin makes it more difficult for its citizens to vote than almost any state in the nation.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Looking only at voter ID laws, Wisconsin's is one of the strictest in the country, according to the National Conference of State Legislatures, but there are other factors besides the voter ID law that affect how easy or hard it is to vote. According to the Cost of Voting Index, which ranks the ease or difficulty of voting in each state based on 50-plus election laws and policies, Wisconsin was the fifth-hardest state in the nation to vote. Other factors besides the voter ID law that hurt Wisconsin's ranking include a lack of true early voting, stringent rules for voter registration drives and no automatic registration or pre-registration for young people, a researcher for the index said.",
+    "evidence_sources": [
+      {
+        "content": "The Observatory, \"Wisconsin's voter ID controversy: what you need to know,\" April 16, 2024",
+        "url": "https://observatory.journalism.wisc.edu/2016/11/01/wisconsins-voter-id-controversy-what-you-need-to-know/",
+        "credibility": "High"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \"Assembly sends voter ID constitutional amendment question to Wisconsin voters,\" Jan. 14, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/2025/01/14/assembly-sends-voter-id-constitutional-amendment-to-wisconsin-voters/77678445007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \"Republicans moving quickly on legislation to enshrine voter ID law into constitution,\" Jan. 8, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/2025/01/08/wisconsin-republicans-move-to-enshrine-voter-id-law-into-constitution/77508528007/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Looking only at voter ID laws, Wisconsin's is one of the strictest in the country, according to the National Conference of State Legislatures, but the",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"The removal of birthright citizenship only applies to the children of those that are here ILLEGALLY.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "President Donald Trump issued a Jan. 20 executive order that aims to end the granting of U.S. birthright citizenship. A federal judge on Jan. 23 temporarily blocked it from taking effect. Trump's order said the government would no longer recognize U.S. citizenship if a person was born in the U.S. \"when that person's mother's presence in the United States was lawful but temporary, and the person's father was not a United States citizen or lawful permanent resident at the time of said person's birth.\" Immigration experts have repeatedly said the executive order would deny citizenship to the children of some people who are in the U.S. legally.",
+    "evidence_sources": [
+      {
+        "content": "The White House, Protecting The Meaning And Value Of American Citizenship , Jan. 20, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Citizenship and Immigration Services, L-1A Intracompany Transferee Executive or Manager , accessed Jan. 24, 2025",
+        "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/l-1a-intracompany-transferee-executive-or-manager",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Labor, H-1B visa program , Accessed Jan. 6, 2025",
+        "url": "https://www.dol.gov/agencies/whd/immigration/h1b",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. President Donald Trump issued a Jan. 20 executive order that aims to end the granting of U.S. birthright citizenship. A federal judge on Jan. 23 tempo",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Video muestra a inmigrantes en México que \"se dirigen al punto de control en el Paso Texas con el objetivo de entrar a la fuerza hacia los Estados Unidos debido a que aplicación CBP One quedó fuera de servicio\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Este video de migrantes es de 2023, cuando fallos en la aplicación CBP One provocaron que cientos de migrantes intentaran cruzar la frontera entre Ciudad Juárez, México y El Paso, Texas.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Video muestra a inmigrantes en México que \"se dirigen al punto de control en el ...",
+        "url": "https://www.politifact.com/factchecks/2025/jan/24/tweets/este-video-no-es-de-migrantes-cruzando-la-frontera/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Este video de migrantes es de 2023, cuando fallos en la aplicación CBP One provocaron que cientos de migrantes intentaran cruzar la frontera entre Ciu",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Image shows President Donald Trump responding to a picture rapper Ye drew of them.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This exchange is fabricated.",
+    "evidence_sources": [
+      {
+        "content": "X post , April 25, 2018",
+        "url": "https://x.com/realDonaldTrump/status/989225812166696960?lang=en",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post archive , April 25, 2018",
+        "url": "https://web.archive.org/web/20180426104421/www.twitter.com/realDonaldTrump/status/989225812166696960?lang=en",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Know Your Meme, Thank You Kanye, Very Cool! , visited Jan. 21, 2025",
+        "url": "https://knowyourmeme.com/memes/thank-you-kanye-very-cool",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This exchange is fabricated.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Our nation's tallest mountain … has been called Denali for thousands of years.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Native Alaskan language scholars say the name Denali had been used by Indigenous people for thousands of years for the tallest mountain in North America, found in Alaska. The mountain's name officially changed in 1917 to honor President William McKinley. In 2015, the Obama administration changed the mountain's official name to Denali. President Donald Trump on Jan. 20 ordered changing the mountain's name back to Mount McKinley.",
+    "evidence_sources": [
+      {
+        "content": "National Park Service, Denali or Mount McKinley? , accessed Jan. 21, 2025",
+        "url": "https://www.nps.gov/dena/learn/historyculture/denali-origins.htm#:~:text=Renaming%20Effort%20Begins,-In%201975%2C%20the&text=But%20the%20official%20name%20of,name%20Denali%20to%20the%20mountain.",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Restoring Names That Honor American Greatness , Jan. 20, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/",
+        "credibility": "High"
+      },
+      {
+        "content": "Department of Interior, Change of the Name of Mount McKinley to Denali , Aug. 28, 2015",
+        "url": "https://www.doi.gov/sites/doi.gov/files/elips/documents/3337%20-%20Changing%20the%20Name%20of%20Mount%20McKinley%20to%20Denali.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Native Alaskan language scholars say the name Denali had been used by Indigenous people for thousands of years for the tallest mountain in North Ameri",
+    "topic": "Culture"
+  },
+  {
+    "claim": "Video shows Robert F. Kennedy Jr. promoting an alternative diabetes treatment.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video was altered.",
+    "evidence_sources": [
+      {
+        "content": "YouTube, Joe Rogan Experience #1999 - Robert Kennedy Jr. , June 27, 2024",
+        "url": "https://www.youtube.com/watch?v=p6LJXPOv4SM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Ask PolitiFact: If Robert F. Kennedy Jr. is confirmed as HHS secretary, could he ban vaccines? , Nov. 20, 2024",
+        "url": "https://www.politifact.com/article/2024/nov/20/ask-politifact-if-robert-f-kennedy-jr-is-confirmed/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , Jan. 14, 2025",
+        "url": "https://www.facebook.com/100090770254318/videos/987051473473245/",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. This video was altered.",
+    "topic": "Health"
+  },
+  {
+    "claim": "\"Llego la ayuda Mexicana a California\" para combatir los incendios.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "El video es de antes de que México mandara bomberos a California para combatir los incendios. Además, los bomberos mexicanos llegaron en avión, no en helicóptero.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"Llego la ayuda Mexicana a California\" para combatir los incendios....",
+        "url": "https://www.politifact.com/factchecks/2025/jan/21/instagram-posts/este-video-no-tiene-que-ver-con-bomberos-mexicanos/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. El video es de antes de que México mandara bomberos a California para combatir los incendios. Además, los bomberos mexicanos llegaron en avión, no en ",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Imágenes muestran animales heridos en los incendios de Los Ángeles.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Las imágenes tienen una marca de agua que dicen que son generadas con inteligencia artificial. Expertos en IA nos dijeron que se puede notar que las imágenes son falsas debido a que parecen casi perfectas y algunos de los animales tienen extremidades extra.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Imágenes muestran animales heridos en los incendios de Los Ángeles....",
+        "url": "https://www.politifact.com/factchecks/2025/jan/21/facebook-posts/estas-fotos-de-animales-heridos-en-los-incendios-d/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Las imágenes tienen una marca de agua que dicen que son generadas con inteligencia artificial. Expertos en IA nos dijeron que se puede notar que las i",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Buncombe County \"is still demanding property taxes on homes destroyed by Hurricane Helene based on pre-Helene assessments that no longer apply.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Counties affected by Helene are collecting property taxes as they normally do. Property owners are being taxed on their property's value as of January 2024, before Helene hit North Carolina. State law prohibits counties from waiving or altering the property tax payment requirements, even for properties affected by natural disasters.",
+    "evidence_sources": [
+      {
+        "content": "Telephone interview with Chris McLaughlin , Albert and Gladys Hall Coates Distinguished Term Professor of Public Law and Government at UNC-Chapel Hill's School of Government.",
+        "url": "https://www.sog.unc.edu/about/faculty-and-staff/christopher-b-mclaughlin",
+        "credibility": "High"
+      },
+      {
+        "content": "Coates' Canons NC Local Government Law blogpost, \" Local Tax Issues Following a Natural Disaster ,\" Oct. 11, 2024.",
+        "url": "https://canons.sog.unc.edu/2024/10/local-tax-issues-following-a-natural-disaster/",
+        "credibility": "High"
+      },
+      {
+        "content": "North Carolina General Statute 105-380 .",
+        "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-380.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Counties affected by Helene are collecting property taxes as they normally do. Property owners are being taxed on their property's value as of January",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Video shows Mexican firefighters going to help with California fires.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video predates when Mexico sent a contingent to help fight wildfires in California. Plus, they arrived by plane — not helicopter.",
+    "evidence_sources": [
+      {
+        "content": "California governor's office, Governor Newsom welcomes firefighters from Mexico to boost firefighting capacity , Jan. 11, 2025",
+        "url": "https://www.gov.ca.gov/2025/01/11/governor-newsom-welcomes-firefighters-from-mexico-to-boost-firefighting-capacity/",
+        "credibility": "High"
+      },
+      {
+        "content": "X post , Jan. 11, 2025",
+        "url": "https://x.com/Claudiashein/status/1878084010045329766",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Reuters, Mexico sends firefighters to California to help with raging blazes , Jan. 12, 2025",
+        "url": "https://www.reuters.com/world/us/mexico-sends-firefighters-california-help-with-raging-blazes-2025-01-11/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This video predates when Mexico sent a contingent to help fight wildfires in California. Plus, they arrived by plane — not helicopter.",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Video claims to show the Los Angeles fires.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Three of the video's scenes are AI-generated and can be traced to a TikTok AI video artist. One scene was shared on Facebook months before the fires with a caption that said it showed Algerian soccer fans celebrating a team's victory. Only one scene from the viral video depicts the recent fires. It shows a local news channel interviewing people who rescued horses from the fire.",
+    "evidence_sources": [
+      {
+        "content": "Facebook video ( archived link ), Jan. 11, 2025",
+        "url": "https://mvau.lt/media/7b5b1fcf-75e7-41e2-9a83-93fc80fa39db",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook video ( archived link) , Aug. 8, 2024",
+        "url": "https://mvau.lt/media/e2c16ccb-6fc5-4f98-85c7-747410a48296",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook video ( archived link ), Oct. 1, 2024",
+        "url": "https://mvau.lt/media/cddd7e64-687e-4363-a414-316fd3982359",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Three of the video's scenes are AI-generated and can be traced to a TikTok AI video artist. One scene was shared on Facebook months before the fires w",
+    "topic": "Environment"
+  },
+  {
+    "claim": "\"Bomberos que combaten los incendios en Los Ángeles sostienen imagen de Nuestra Madre Santísima\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Un oficial de información pública del Departamento de Silvicultura y Protección contra incendios de California nos dijo que esa foto no parece ser de los recientes incendios en Los Ángeles. Un tabloide de Serbia publicó un artículo en julio de 2023 diciendo que los bomberos sacaron la imagen de la virgen de un incendio en Ruma, Serbia.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"Bomberos que combaten los incendios en Los Ángeles sostienen imagen de Nuestra ...",
+        "url": "https://www.politifact.com/factchecks/2025/jan/16/facebook-posts/esta-foto-de-bomberos-con-una-imagen-de-la-virgen/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Un oficial de información pública del Departamento de Silvicultura y Protección contra incendios de California nos dijo que esa foto no parece ser de ",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Video clips show \"wildfires in Los Angeles, California.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "One of the video's clips was taken in Ghana; another was taken in Algeria. PolitiFact couldn't verify the source of a third video clip, but it looked similar to a video of an Iceland volcano erupting.",
+    "evidence_sources": [
+      {
+        "content": "California Department of Forestry and Fire Protection homepage , accessed Jan. 16, 2025",
+        "url": "https://www.fire.ca.gov/",
+        "credibility": "High"
+      },
+      {
+        "content": "TikTok post by user @kasimofori0, Jan. 2, 2025",
+        "url": "https://www.tiktok.com/@kasimofori0/video/7455197473330449670",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact,​​ 'Gates of hell' in Gaza? No, a viral video shows fireworks in Algeria , Oct. 13, 2023",
+        "url": "https://www.politifact.com/factchecks/2023/oct/13/social-media/gates-of-hell-in-gaza-no-a-viral-video-shows-firew/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. One of the video's clips was taken in Ghana; another was taken in Algeria. PolitiFact couldn't verify the source of a third video clip, but it looked ",
+    "topic": "Environment"
+  },
+  {
+    "claim": "\"After 30 years of Wisconsin's checking account running a deficit, we've ended every fiscal year I've been governor with a positive balance. Today, we have a $4.5 billion positive balance, and a record-high balance in our state savings account.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Wisconsin's general fund had a positive balance each year under Gov. Tony Evers, after running a deficit between 1990 and 2020. Wisconsin's \"rainy day\" fund has kept growing since 2020 and currently sits near a record $2 billion. Although Evers doesn't directly take credit, many factors shape these balances, including decisions made by Republicans and overall economic conditions.",
+    "evidence_sources": [
+      {
+        "content": "Legislative Fiscal Bureau, General Fund Tax Collections , January 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2023/0001_general_fund_tax_collections_informational_paper_1.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Legislative Fiscal Bureau, Budget Stabilization Fund and the General Fund Reserve Requirement , January 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/informational_papers/january_2023/0080_budget_stabilization_fund_and_the_general_fund_reserve_requirements_informational_paper_80.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Administration, Annual Comprehensive Financial Report , Fiscal Year Ending June 30, 2020.",
+        "url": "https://doa.wi.gov/budget/CAFR2020.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Wisconsin's general fund had a positive balance each year under Gov. Tony Evers, after running a deficit between 1990 and 2020. Wisconsin's \"rainy day",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"They still haven't cracked\" Thomas Matthew Crooks' phone.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The FBI said its specialists had accessed Thomas Matthew Crooks' cellphone two days after he tried to assassinate President-elect Donald Trump at a Butler, Pennsylvania, campaign rally. Investigators unlocked other electronic devices, revealing searches of political leaders, including President Joe Biden and Trump, and of mass shootings.",
+    "evidence_sources": [
+      {
+        "content": "Federal Bureau of Investigation, Update on the FBI Investigation of the Attempted Assassination of Former President Donald Trump , July 15, 2024",
+        "url": "https://www.fbi.gov/news/press-releases/update-on-the-fbi-investigation-of-the-attempted-assassination-of-former-president-donald-trump",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Bureau of Investigation, Investigative Updates on the Butler, Pennsylvania, Assassination Attempt , July 29, 2024",
+        "url": "https://www.fbi.gov/news/speeches/investigative-updates-on-the-butler-pennsylvania-assassination-attempt",
+        "credibility": "High"
+      },
+      {
+        "content": "Threads post ( archived link), Jan. 4, 2025",
+        "url": "https://ghostarchive.org/archive/5aCGf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The FBI said its specialists had accessed Thomas Matthew Crooks' cellphone two days after he tried to assassinate President-elect Donald Trump at a Bu",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"BREAKING: A second attack in New Orleans has been uncovered, police are searching.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "On Jan. 1, a man drove a pickup truck into a crowd on a busy street in New Orleans' French Quarter, killing 14 people. We found no credible information to substantiate a Facebook post's claim about a subsequent \"breaking\" attack in New Orleans. Investigators said Shamsud-Din Jabbar, a U.S. Army veteran and American citizen from Texas, acted alone.",
+    "evidence_sources": [
+      {
+        "content": "FBI, Investigative Updates on the New Orleans Bourbon Street Attack , Jan. 2, 2025",
+        "url": "https://www.fbi.gov/news/speeches/investigative-updates-on-the-new-orleans-bourbon-street-attack",
+        "credibility": "High"
+      },
+      {
+        "content": "Facebook post , Jan. 4, 2025",
+        "url": "https://mvau.lt/media/a1e478d5-d520-4f3d-a69a-7e6e8db12457",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, New Orleans attacker acted alone, FBI now believes , Jan. 2, 2024",
+        "url": "https://www.bbc.com/news/articles/crl378x8nnjo",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. On Jan. 1, a man drove a pickup truck into a crowd on a busy street in New Orleans' French Quarter, killing 14 people. We found no credible informatio",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"En Shanghai, se incendió ayer una bodega de la firma Temu\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Esta foto es falsa. Una búsqueda inversa de imágenes muestra que fue creada utilizando Grok, un chatbot de inteligencia artificial generativa creado por xAI, la compañía de Elon Musk, propietario de X. No encontramos informes de noticias creíbles sobre un incendio reciente en un almacén de Temu en Shanghái.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"En Shanghai, se incendió ayer una bodega de la firma Temu\"....",
+        "url": "https://www.politifact.com/factchecks/2025/jan/03/facebook-posts/un-almacen-de-temu-se-incendio-en-shanghai-no-la-f/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Esta foto es falsa. Una búsqueda inversa de imágenes muestra que fue creada utilizando Grok, un chatbot de inteligencia artificial generativa creado p",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Ella es Amelia Carter un hombre le prendió fuego mientras dormía en el tren de Nueva York\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Las autoridades de Nueva York identificaron a la víctima como Debrina Kawam, una mujer de 57 años de Nueva Jersey. Un experto le dijo a PolitiFact que la imagen de \"Amelia Carter\" compartida en redes sociales mostraba señales de haber sido generada por un modelo de aprendizaje profundo diseñado para crear imágenes realistas. La imagen y el nombre falso se usaron para crear una criptomoneda en forma de meme.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"Ella es Amelia Carter un hombre le prendió fuego mientras dormía en el tren de ...",
+        "url": "https://www.politifact.com/factchecks/2025/jan/03/facebook-posts/amelia-carter-no-es-la-victima-del-incendio-en-el/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Las autoridades de Nueva York identificaron a la víctima como Debrina Kawam, una mujer de 57 años de Nueva Jersey. Un experto le dijo a PolitiFact que",
+    "topic": "Society"
+  },
+  {
+    "claim": "Photo shows a large Temu warehouse in China \"went up in flames.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This photo is fake. A reverse-image search shows that it was made using Grok, a generative artificial intelligence chatbot created by Elon Musk's company xAI. We also found no credible news reports that there was a recent fire at a Temu warehouse in China.",
+    "evidence_sources": [
+      {
+        "content": "Facebook post , Dec. 31, 2024",
+        "url": "https://mvau.lt/media/37dc2bcc-5b14-4fe0-a88b-222dc140491b",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , Dec. 30, 2024",
+        "url": "https://mvau.lt/media/f09e78a1-1e33-4ef3-978b-85170d3916ff",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Threads post , Dec. 30, 2024",
+        "url": "https://archive.ph/Ffw23",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This photo is fake. A reverse-image search shows that it was made using Grok, a generative artificial intelligence chatbot created by Elon Musk's comp",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"The subway burning victim's name was Amelia Carter.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "New York authorities identified the victim as Debrina Kawam, a 57-year-old New Jersey woman. An expert told PolitiFact the image of \"Amelia Carter\" showed signs of having been generated by a deep learning model that creates realistic images. The image and fake name were used to create a meme cryptocurrency.",
+    "evidence_sources": [
+      {
+        "content": "X post , Dec. 22, 2024",
+        "url": "https://x.com/minnie1254/status/1870981543176606107",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Pump.fun, Justice For Amelia (AMELIA) , accessed Dec. 22, 2024",
+        "url": "https://pump.fun/coin/B1hq1trJ6bWoE3QeEA26tUN54qPDvkLnVs5ZfWu8pump",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The New York Times, Victim of Coney Island Subway Immolation Is Identified by the Police , Dec. 31, 2024",
+        "url": "https://www.nytimes.com/2024/12/31/nyregion/coney-island-subway-burning-victim-identified.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. New York authorities identified the victim as Debrina Kawam, a 57-year-old New Jersey woman. An expert told PolitiFact the image of \"Amelia Carter\" sh",
+    "topic": "Society"
+  },
+  {
+    "claim": "We've created 732,000 jobs since I've been governor.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Private sector jobs data from the time New York Gov. Kathy Hochul took office until she made her claim shows an increase of 722,100 jobs, or nearly 10,000 fewer than she claimed. The difference represents 0.1% of the state's private sector employment, a fraction that could be covered by themargin of errorin the data. All nonfarm jobs increased by 784,500 during this period.",
+    "evidence_sources": [
+      {
+        "content": "Press release, Gov. Kathy Hochul, Video, Audio, Photos & Rush Transcript: Governor Hochul Participates in a Crain's New York Business and Partnership for New York City Fireside Chat, Nov. 19, 2024",
+        "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-participates-crains-new-york-business-and",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Department of Labor, Current Employment Statistics, total private employment seasonally adjusted data, accessed Dec. 9, 2024",
+        "url": "https://dol.ny.gov/current-employment-statistics-0",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Department of Labor, news release, NYS private sector employment down 8,100 in August 2024, Sept. 19, 2024",
+        "url": "https://dol.ny.gov/system/files/documents/2024/09/press-release-1-august-2024.pdf#:~:text=According%20to%20preliminary%20seasonally%20adjusted,by%200.1%25%20in%20August%202024.",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Private sector jobs data from the time New York Gov. Kathy Hochul took office until she made her claim shows an increase of 722,100 jobs, or nearly 10",
+    "topic": "Economy"
+  },
+  {
+    "claim": "The NFL punished three referees in \"the game between the Atlanta Falcons and the Minnesota Vikings.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This claim is unfounded.",
+    "evidence_sources": [
+      {
+        "content": "ESPN, Vikings 42-21 Falcons , Dec. 8, 2024",
+        "url": "https://www.espn.com/nfl/game/_/gameId/401671648/falcons-vikings",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , Dec. 12, 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031Kw9wPYSgRaTFV59HiV1YhL6t7FjndTDbJctJN8Cyn3yKBtNZudkh4FKdwpXn5sLl&id=61569359486977",
+        "credibility": "Low"
+      },
+      {
+        "content": "Facebook post , Dec. 11, 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02i2jNN9pvMbeA7TCV7VfMjw69hffzNHK7KWehSuVpiexKaNfrGKhnr8FrpzUGpEEil&id=61568478155900",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. This claim is unfounded.",
+    "topic": "Sports"
+  },
+  {
+    "claim": "Image shows Kate, the Princess of Wales, without hair.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This image was generated by artificial intelligence.",
+    "evidence_sources": [
+      {
+        "content": "Facebook post , Dec. 12, 2024",
+        "url": "https://archive.is/1cYok",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Associated Press, King Charles III and Kate attend remembrance event as both slowly return to duty , Nov. 10, 2024",
+        "url": "https://apnews.com/article/britain-remembrance-sunday-veterans-kate-king-charles-670d06dfdda6fb32a1725980932e3870",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Associated Press, Kate, the Princess of Wales, has finished chemotherapy and will return to limited public duties , Sept. 9, 2024",
+        "url": "https://apnews.com/article/kate-princess-wales-public-duty-ee5a195bc0c4af3516245f9262ffc306",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This image was generated by artificial intelligence.",
+    "topic": "Society"
+  },
+  {
+    "claim": "Video shows footage of a \"drone crash.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video features footage of a 2014 short video from a German television network that shows aircraft from the \"Star Wars\" movies.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Dec. 14, 2024",
+        "url": "https://www.threads.net/@sunshinenateastro/post/DDlnqa1O-ox?fbclid=IwY2xjawHO4alleHRuA2FlbQIxMAABHXhOBPTAMWH9h813s2-_3Zk-dozkADEyGHI4bJa5HH2eqk73jZtzhtVohA_aem_zkFPTe6xBb53uGyBZJbHJg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Footage shows a Star Wars aircraft, not fighting in Ukraine , March 9, 2022",
+        "url": "https://www.politifact.com/factchecks/2022/mar/09/facebook-posts/footage-shows-star-wars-aircraft-not-fighting-ukra/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube video , April 2, 2015",
+        "url": "https://www.youtube.com/watch?v=Y0U9KwHa0jQ&feature=emb_logo",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This video features footage of a 2014 short video from a German television network that shows aircraft from the \"Star Wars\" movies.",
+    "topic": "Science"
+  },
+  {
+    "claim": "New Jersey drones are searching for missing radioactive material.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The New Jersey Department of Environmental Protection reported a piece of equipment used in medical imaging scanners that contained a small amount of radioactive material had been shipped for disposal and lost in transit Dec. 2. The missing item was found Dec. 10 at the FedEx facility where it was misplaced, a department spokesperson said. Mysterious drone sightings over New Jersey were reported as early as Nov. 18.",
+    "evidence_sources": [
+      {
+        "content": "United States Nuclear Regulatory Commission, Event Notification Report , Dec. 13, 2024 ( archived )",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2024/20241213en.html",
+        "credibility": "High"
+      },
+      {
+        "content": "United States Nuclear Regulatory Commission, Event Notification Report , Dec. 18, 2024 ( archived )",
+        "url": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/en.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Code of Federal Regulations, § 20.2201 Reports of theft or loss of licensed material. , accessed Dec. 16, 2024",
+        "url": "https://www.ecfr.gov/current/title-10/chapter-I/part-20/subpart-M/section-20.2201",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The New Jersey Department of Environmental Protection reported a piece of equipment used in medical imaging scanners that contained a small amount of ",
+    "topic": "Science"
+  },
+  {
+    "claim": "Video shows a drone crashed in New Jersey.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The video shows scenes of the aftermath of a fatal plane crash on the Connecticut-New York border, not a drone. The National Transportation Safety Board said the crash happened in Greenwich, Connecticut, on Interstate 684 while the plane was attempting to land at the nearby Westchester County Airport in New York.",
+    "evidence_sources": [
+      {
+        "content": "Federal Aviation Administration, FAA Statements on Aviation Accidents and Incidents , accessed Dec. 16, 2024",
+        "url": "https://www.faa.gov/newsroom/statements/accident_incidents#Top",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Aviation Administration, FAA Accident and Incident Notification , Dec. 13, 2024",
+        "url": "https://www.asias.faa.gov/apex/f?p=100:96:3417050291217::::P96_ENTRY_DATE,P96_FATAL_FLG,P96_MAKE_NAME:13-DEC-24",
+        "credibility": "High"
+      },
+      {
+        "content": "Departments of Homeland Security, DHS, FBI, FAA & DoD Joint Statement on Ongoing Response to Reported Drone Sightings , Dec. 16, 2024",
+        "url": "https://www.dhs.gov/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The video shows scenes of the aftermath of a fatal plane crash on the Connecticut-New York border, not a drone. The National Transportation Safety Boa",
+    "topic": "Science"
+  },
+  {
+    "claim": "\"The city of… is being warned to be alert & vigilant as there is a serial killer on the run,\" Robert Thibodeau.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Several local authorities nationwide have debunked this serial killer claim and have said it's a national scam. A person named Robert Thibodeau was indicted in March on unrelated weapons and ammunition charges. This is not the man pictured in the social media posts. A reverse-image search showed the posts' photos are of James A. Vining, who was arrested in 2018 in Louisiana after police found he had hidden a camera in a women's restroom.",
+    "evidence_sources": [
+      {
+        "content": "Snopes, What We Know About 'Robert Thibodeau' Serial Killer Hoax on Facebook , Dec. 4, 2024",
+        "url": "https://www.snopes.com/fact-check/robert-thibodeau-serial-killer-facebook-hoax/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBC5, Former CVPH employee Robert Thibodeau indicted on multiple charges following arrest , March 22, 2024",
+        "url": "https://www.mynbc5.com/article/former-cvph-employee-robert-thibodeau-indicted-on-multiple-charges-following-arrest/60281560",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Advocate, Former Tangipahoa firefighter accused of hiding cameras in women's restroom at firehouse , Aug. 7, 2018",
+        "url": "https://archive.ph/KJBsf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Several local authorities nationwide have debunked this serial killer claim and have said it's a national scam. A person named Robert Thibodeau was in",
+    "topic": "Society"
+  },
+  {
+    "claim": "Photo shows a downed drone",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A photo seen in an X post shared by Pennsylvania Republican state Sen. Doug Mastriano showed a replica of an imperial TIE fighter from the \"Star Wars\" movie franchise. A day after Mastriano's X post he said on Facebook and in another X post that he had intentionally shared a \"Star Wars\" meme.",
+    "evidence_sources": [
+      {
+        "content": "State Sen. Doug Mastriano, X post , Dec. 16, 2024 ( archived )",
+        "url": "https://x.com/SenMastriano/status/1868794734530953444",
+        "credibility": "Medium"
+      },
+      {
+        "content": "State Sen. Doug Mastriano, X post , Dec. 17, 2024 ( archived )",
+        "url": "https://x.com/SenMastriano/status/1869069888498921848",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , March 3, 2023",
+        "url": "https://x.com/RAF_Luton/status/1631657159787257859",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A photo seen in an X post shared by Pennsylvania Republican state Sen. Doug Mastriano showed a replica of an imperial TIE fighter from the \"Star Wars\"",
+    "topic": "Science"
+  },
+  {
+    "claim": "Video shows Mitch McConnell appearing in a press conference with a bandage around his head.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The video has been edited from a July 26, 2023, press conference during which Senate Republican Leader Mitch McConnell suddenly stopped speaking while delivering remarks. McConnell was not wearing a head bandage during that conference. McConnell sustained minor injury to his face and hand following a Dec. 10 fall at the U.S. Capitol, his office said. He was photographed wearing a Band-Aid on his cheek and a brace on his hand.",
+    "evidence_sources": [
+      {
+        "content": "CNN, Mitch McConnell sprains wrist and cuts his face after fall in the Capitol , Dec. 10, 2024",
+        "url": "https://www.cnn.com/2024/12/10/politics/mitch-mcconnell-fall/index.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok post ( archived ), Dec. 10, 2024",
+        "url": "https://www.tiktok.com/@massdeportation2024/video/7446896182703459615?q=mcconell%20bandage&t=1734109035704",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Dec. 12, 2024",
+        "url": "https://x.com/WatchChad/status/1867383667707855232",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The video has been edited from a July 26, 2023, press conference during which Senate Republican Leader Mitch McConnell suddenly stopped speaking while",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Usuarios en redes sociales leen 'manifiesto' escrito por Luigi Mangione, el sospechoso de la muerte del ejecutivo de UnitedHealthcare.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Substack removió una publicación que afirmaba ser de Luigi Mangione, el sospechoso en el tiroteo fatal del ejecutivo de UnitedHealthcare, diciendo que el documento violó sus reglas que prohíben la suplantación. Publicaciones en redes sociales estaban leyendo el artículo a sus usuarios, afirmando que Mangione lo escribió. No hay pruebas de que Mangione escribió eso.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Usuarios en redes sociales leen 'manifiesto' escrito por Luigi Mangione, el sosp...",
+        "url": "https://www.politifact.com/factchecks/2024/dec/12/tiktok-posts/el-manifiesto-leido-por-usuarios-en-redes-sociales/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Substack removió una publicación que afirmaba ser de Luigi Mangione, el sospechoso en el tiroteo fatal del ejecutivo de UnitedHealthcare, diciendo que",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Elon Musk said he might run for governor of California.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This claim is unfounded.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Nov. 26, 2024",
+        "url": "https://www.threads.net/@garretteborn40/post/DC09gLGRJNn?fbclid=IwY2xjawG7GzBleHRuA2FlbQIxMAABHek-eoQYN_YA2NrZxnSCd5MnJn2CBxTZorhWnbUi4bPpMCVEgye-xaeJaw_aem_jlGomrjy1mXjnfre89vybg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Elon Musk X account , visited Dec. 10, 2024",
+        "url": "https://x.com/search?q=governor%20(from%3Aelonmusk)&src=typed_query&f=live",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This claim is unfounded.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Video shows actor Kevin Costner and Dr. Mehmet Oz discussing treatment for chronic lung diseases.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video was altered.",
+    "evidence_sources": [
+      {
+        "content": "YouTube, Kevin Costner Talks 'Horizon: An American Saga,' 'Bull Durham' & More w/ Rich Eisen | Full Interview , June 25, 2024",
+        "url": "https://www.youtube.com/watch?v=eqGn2jFWMEE",
+        "credibility": "Medium"
+      },
+      {
+        "content": "COPD Foundation, What is COPD? , visited Dec. 10, 2024",
+        "url": "https://www.copdfoundation.org/What-is-COPD/Understanding-COPD/What-is-COPD.aspx",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube, Dr. Oz Shares His Healthy Eating Tips | People , June 20, 2012",
+        "url": "https://www.youtube.com/watch?v=c_W2GpoGubg",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This video was altered.",
+    "topic": "Health"
+  },
+  {
+    "claim": "\"The Universities of Wisconsin are 43rd out of 50 states in the nation, in terms of public support for our universities. The $855 million (budget request) gets us up to average.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The State Higher Education Finance report shows Wisconsin ranks 43rd in funding its four-year, public universities. Subtracting Wisconsin's funding per student from the national average, and multiplying it by the total number of University of Wisconsin students, does equal $457 million. That's the amount the system is requesting in the second budget year, and the system is actually asking for less in the first year.",
+    "evidence_sources": [
+      {
+        "content": "Milwaukee Journal Sentinel, UW Regents increase in-state tuition for first time in a decade. Here's what you need to know. , March 30, 2023.",
+        "url": "https://www.jsonline.com/story/news/education/2023/03/30/university-of-wisconsin-system-raises-in-state-tuition-for-2023-24-year/70043451007/",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Wisconsin System, Enrollments .",
+        "url": "https://www.wisconsin.edu/education-reports-statistics/enrollments/",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Wisconsin System, Universities of Wisconsin President Jay Rothman introduces budget request to get Wisconsin 'Up to the Middle,' Aug. 19, 2024.",
+        "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-president-jay-rothman-introduces-budget-request-to-get-wisconsin-up-to-the-middle/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The State Higher Education Finance report shows Wisconsin ranks 43rd in funding its four-year, public universities. Subtracting Wisconsin's funding pe",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Photo shows pile of X-rated DVDs found at former Syrian president Bashar Assad's palace.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The image originated from a 2021 advertisement selling three boxes of pornographic DVDs from a Southport, Australia, auction house. A Google search for news reports about the DVDs being found at Assad's residence yielded no results.",
+    "evidence_sources": [
+      {
+        "content": "CNN, The Assad regime ruled Syria for 50 years. Here's how it fell in less than two weeks , Dec. 9, 2024",
+        "url": "https://www.cnn.com/2024/12/09/middleeast/timeline-syria-assad-regime-toppled-intl/index.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Dec. 8, 2024",
+        "url": "https://x.com/Breaking911/status/1865969923198963756",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Danielle Eilzabeth, About Danielle Elizabeth , June 30, 2020",
+        "url": "https://www.danielleelizabeth.com.au/our-story/about-danielle-elizabeth/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The image originated from a 2021 advertisement selling three boxes of pornographic DVDs from a Southport, Australia, auction house. A Google search fo",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Chick fil-A's new policies have people thinking (of a) boycott.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "There is no evidence Chick-fil-A has enacted any recent policies that have sparked calls for boycotts. A Facebook post making the claim links to a two-paragraph blog post that mentions no policy or boycott.",
+    "evidence_sources": [
+      {
+        "content": "TA, Chick-fil-A delivers a bittersweet , Dec. 2, 2024",
+        "url": "https://teamanim.co.uk/?p=605&fbclid=IwZXh0bgNhZW0CMTAAAR1SIwfTnHAcpAReuCg6k6HQvdey2lsPGfFsLdEqlxIbDEe_BpDbZPDEj4k_aem_gmvvajZDqZQNJAte8iBQjw",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chick-fil-A, Where was Chick-fil-A's first restaurant? , accessed Dec. 2, 2024",
+        "url": "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/where-was-chick-fil-as-first-restaurant",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Chick-fil-A, About our chicken supply , accessed Dec. 2, 2024",
+        "url": "https://d1fd34dzzl09j.cloudfront.net/2024%20Chicken%20PDFs/US/Great%20Food%20PDF.pdf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. There is no evidence Chick-fil-A has enacted any recent policies that have sparked calls for boycotts. A Facebook post making the claim links to a two",
+    "topic": "Society"
+  },
+  {
+    "claim": "Rep. Marjorie Taylor Greene said \"if every member of Congress had to resign for doing what Matt Gaetz has been accused of, Democrats would have a supermajority.'\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A comment attributed to Rep. Marjorie Taylor Greene, R-Ga., about Matt Gaetz and other members of Congress originated from a satirical X account.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Nov. 24, 2024 ( archived )",
+        "url": "https://www.threads.net/@gregornot/post/DCp4bNJMlBj",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Rep. Marjorie Taylor Greene, X post , Nov. 19, 2024 ( archived )",
+        "url": "https://x.com/RepMTG/status/1858848622206742717",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Rep. Marjorie Taylor Greene, X post , Nov. 13, 2024 ( archived )",
+        "url": "https://x.com/RepMTG/status/1856841208838197685",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A comment attributed to Rep. Marjorie Taylor Greene, R-Ga., about Matt Gaetz and other members of Congress originated from a satirical X account.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Una mujer posó junto a su hija con un cartel que dice, \"Quiero que mi hija tenga el derecho a abortar que yo no tuve\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "La foto fue manipulada. La foto original fue publicada en marzo de 2023 y muestra que el cartel de la mujer decía: \"Soy mamá de la niña que jamás vas a tocar\".",
+    "evidence_sources": [
+      {
+        "content": "Publicación en TikTok, 8 de noviembre de 2024",
+        "url": "https://www.tiktok.com/@ddavmendoza.r/video/7434945166110182712?q=quiero%20que%20me%20hija%20tenga%20un%20aborto&t=1732569536900",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Otras fuentes incluidas en la verificación en inglés .",
+        "url": "https://www.politifact.com/factchecks/2024/nov/25/social-media/photo-of-woman-holding-sign-about-her-daughter-and/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Publicación en Facebook, 5 de noviembre de 2024",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0249r35Hq6jD8V7wgojxQpybmxMH9gx7Co11sRRtLGZS9BJRSx1YfXz7MeJbrvFrRal&id=100057892296918",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. La foto fue manipulada. La foto original fue publicada en marzo de 2023 y muestra que el cartel de la mujer decía: \"Soy mamá de la niña que jamás vas ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "A woman holds a sign that says, \"I want my daughter to have the right to abortion that I didn't have.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The photo was manipulated. A photograph posted in March 2023 shows that the woman's sign said, \"I'm the mother of the girl you'll never touch,\" in Spanish.",
+    "evidence_sources": [
+      {
+        "content": "X post ( archived ), Nov. 20, 2024",
+        "url": "https://x.com/LibertyCappy/status/1859456918462353812",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok post ( archived ), Nov. 20, 2024",
+        "url": "https://www.tiktok.com/@angie.fly7/video/7439500592483110190?q=I%20want%20my%20daughter%20to%20have%20the%20right%20to%20abortion%20that%20I%20didn%27t%20havfe&t=1732306521633",
+        "credibility": "Medium"
+      },
+      {
+        "content": "La casa de todas y todos, Las mujeres regias en la lucha feminista y anticapitalista , March 24, 2023",
+        "url": "https://lacasadetodasytodos.org/corresponsalias/las-mujeres-regias-en-la-lucha-feminista-y-anticapitalista/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The photo was manipulated. A photograph posted in March 2023 shows that the woman's sign said, \"I'm the mother of the girl you'll never touch,\" in Spa",
+    "topic": "Politics"
+  },
+  {
+    "claim": "The Associated Press misspelled Mississippi in a headline about the state's literacy program.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Records from the Nexis news database show that The Associated Press never published the headline. The news organization posted a related story in 2005 with a different headline that had no spelling errors. An AP spokesperson confirmed the news organization never published the misspelled headline. The earliest version of the misspelled headline we could find appeared on YouTube in 2010, five years after the story was published.",
+    "evidence_sources": [
+      {
+        "content": "Threads post ( archived ), Nov. 18, 2024",
+        "url": "https://www.threads.net/@thompsonphil60/post/DCgt36GttDq?fbclid=IwZXh0bgNhZW0CMTAAAR2LjmA7C2TW1CU7yV8vXhBhM1Mi-DDIQTfy82VYF1XZ_jMzC8LNEk2sWDw_aem_Je9bJgCvM9lLp7Oo6wsHEg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Wenatchee World, Investment in literacy program pays dividends: Mississippi schoolchildren show 'statistically significant' improvement , June 13, 2005",
+        "url": "https://www.wenatcheeworld.com/investment-in-literacy-program-pays-dividends-mississippi-schoolchildren-show-statistically-significant-improvement/article_8310e4f2-5c3e-568d-b3f8-b666fe7b681f.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Google Books, The Union Democrat , June 14, 2005",
+        "url": "https://books.google.com/books?id=nDFZAAAAIBAJ&pg=PA9&dq=For+Lester+Fisher,+it+was+a+first,+and+a+small+sign+of+progress:+Parents+stopped+him+in+the+grocery+store+to+talk+about+their+children%E2%80%99s+love+of+books.&article_id=6958,1892965&hl=en&sa=X&ved=2ahUKEwjYurj2suuJAxVtLUQIHQGPOxoQ6AF6BAgKEAI#v=onepage&q=For%20Lester%20Fisher%2C%20it%20was%20a%20first%2C%20and%20a%20small%20sign%20of%20progress%3A%20Parents%20stopped%20him%20in%20the%20grocery%20store%20to%20talk%20about%20their%20children%E2%80%99s%20love%20of%20books.&f=false",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Records from the Nexis news database show that The Associated Press never published the headline. The news organization posted a related story in 2005",
+    "topic": "Society"
+  },
+  {
+    "claim": "FEMA brought 300 semi trucks to Michigan's Oscoda-Wurtsmith Airport",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A viral video falsely claimed the Federal Emergency Management Agency sent 300 semitrucks to Michigan's Oscoda-Wurtsmith Airport in Michigan. FEMA Press Secretary Daniel Llargues told PolitiFact the agency had no plan to use the location. Bill Palmer, a town supervisor, said he misspoke when he said during a town meeting that the agency would send 350 trailers to the airport for storage for emergency use.",
+    "evidence_sources": [
+      {
+        "content": "Government of Canada, Potash facts , accessed Nov. 20, 2024",
+        "url": "https://natural-resources.canada.ca/our-natural-resources/minerals-mining/mining-data-statistics-and-analysis/minerals-metals-facts/potash-facts/20521#L1",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Emergency Management Agency, Michigan , accessed Nov. 20, 2024",
+        "url": "https://www.fema.gov/locations/michigan#declared-disasters",
+        "credibility": "High"
+      },
+      {
+        "content": "Facebook video ( archived link ), Nov. 12, 2024",
+        "url": "https://mvau.lt/media/682f36cc-be5d-4147-b844-fb6ac5ed7418",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A viral video falsely claimed the Federal Emergency Management Agency sent 300 semitrucks to Michigan's Oscoda-Wurtsmith Airport in Michigan. FEMA Pre",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Video shows floods in Spain and France.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The clips in this video are not from recent floods in Spain or France. We found the video online dating back to May 2023.",
+    "evidence_sources": [
+      {
+        "content": "Facebook, Post by Disasters21 , Nov.14, 2024",
+        "url": "https://ghostarchive.org/archive/3ZFIy",
+        "credibility": "Medium"
+      },
+      {
+        "content": "EuroNews, Italy and France hit by severe flooding after heavy rain , Oct. 20, 2024",
+        "url": "https://www.euronews.com/my-europe/2024/10/20/italy-and-france-hit-by-severe-flooding-after-heavy-rain",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Radio France Internationale, France declares natural disaster zones for nearly 400 towns flooded in October , Jun. 11, 2024",
+        "url": "https://www.rfi.fr/en/france/20241106-france-declares-natural-disaster-zones-for-nearly-400-towns-flooded-in-october",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The clips in this video are not from recent floods in Spain or France. We found the video online dating back to May 2023.",
+    "topic": "Environment"
+  },
+  {
+    "claim": "\"Kroger, Food Lion and Publix announce a 4% price cut across the board.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "This claim originated on a self-described satire site.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Department of Agriculture, Summary Findings: Food Price Outlook, 2024 and 2025 , October 2024",
+        "url": "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings/",
+        "credibility": "High"
+      },
+      {
+        "content": "Threads post , Nov. 11, 2024",
+        "url": "https://www.threads.net/@stocks.tom/post/DCOwW1XxrBr?fbclid=IwY2xjawGhzGNleHRuA2FlbQIxMAABHVw1q7bQAzaCIydPdr_7Rdoh3Ci8M1lImWRq1S65tXUQc-Cn9BuwSbnzyg_aem_HopOkvIw64MFWWZdHXzPBA",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CBS News, In good news for U.S. consumers, some grocery prices are dipping for the first time since 2020 , Nov. 12, 2024",
+        "url": "https://www.cbsnews.com/news/inflation-online-grocery-prices-2024-first-decline-since-2020-adobe/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This claim originated on a self-described satire site.",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Photo shows a missing police officer.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Posts sharing the image of a police officer purportedly missing are scams. The officer was fatally shot in New York in March.",
+    "evidence_sources": [
+      {
+        "content": "The New York Times, Slain Officer Remembered as a Husband and Father With a Promising Future , March 26, 2024",
+        "url": "https://www.nytimes.com/2024/03/26/nyregion/nypd-officer-killed-queens-far-rockaway.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WGME, Police in Clinton warn of fake post claiming an officer went missing , Nov. 12, 2024",
+        "url": "https://wgme.com/news/local/police-in-clinton-warn-of-fake-post-claiming-an-officer-went-missing-maine-scam-jonathan-diller-misinformation",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WISHTV, Posts saying NYPD officer missing in Indiana are scams, IMPD says , Nov. 11, 2024",
+        "url": "https://www.wishtv.com/news/i-team-8/false-social-media-post-officer-missing/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Posts sharing the image of a police officer purportedly missing are scams. The officer was fatally shot in New York in March.",
+    "topic": "Society"
+  },
+  {
+    "claim": "This video shows floods in Spain.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The clips in this video are not from recent floods in Spain. They show flooding caused by storm Boris in September in Poland.",
+    "evidence_sources": [
+      {
+        "content": "Facebook, Post , Nov. 10, 2024",
+        "url": "https://ghostarchive.org/archive/0XcjD",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Reuters, What caused deadly floods in Spain? The impact of DANA explained , Nov. 4, 2024",
+        "url": "https://www.reuters.com/business/environment/spains-deadly-dana-weather-phenomenon-its-links-climate-change-2024-10-30/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, Spain braces for torrential rain as new weather system reaches Med coast , Nov. 12, 2024",
+        "url": "https://www.bbc.com/news/articles/c1e73xd60evo",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The clips in this video are not from recent floods in Spain. They show flooding caused by storm Boris in September in Poland.",
+    "topic": "Environment"
+  },
+  {
+    "claim": "List shows 21 companies or celebrities, including Disney, Marvel and Warner Bros., that have \"stopped posting on X.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Contrary to a Threads account's posts, 15 businesses and two celebrities have not stopped posting on X — 13 post actively and four post sporadically. Three businesses and one TV show had not posted since November 2023, when X owner Elon Musk drew backlash for endorsing antisemitic views on the platform.",
+    "evidence_sources": [
+      {
+        "content": "Threads post ( archived ), Nov. 6, 2024",
+        "url": "https://www.threads.net/@siriplaymastery/post/DCAWnYUPvqk",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Threads post ( archived ), Nov. 7, 2024",
+        "url": "https://www.threads.net/@siriplaymastery/post/DCF5e2IPRHR",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Minnesota Star Tribune, Minnesota companies have stopped posting, spending on X as platform loses trust , Feb. 13, 2024",
+        "url": "https://www.startribune.com/x-twitter-elon-musk-minnesota-target-general-mills-best-buy-3m-medtronic-unitedhealth-social-media/600343130",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Contrary to a Threads account's posts, 15 businesses and two celebrities have not stopped posting on X — 13 post actively and four post sporadically. ",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "Video shows floods in Valencia, Spain.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "These videos are not from the Oct. 29 floods in Valencia, Spain. The clips are from flooding disasters that happened September 2024 in Central Europe.",
+    "evidence_sources": [
+      {
+        "content": "The Guardian, 'We're getting rid of everything': floods destroy homes and lives in Czech Republic , Sept. 24, 2024",
+        "url": "https://www.theguardian.com/world/2024/sep/25/were-getting-rid-of-everything-floods-destroy-homes-and-lives-in-czech-republic",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok post, Sept. 16, 2024",
+        "url": "https://www.tiktok.com/@disasters.and.ai/video/7415219460585311493",
+        "credibility": "Medium"
+      },
+      {
+        "content": "GoFundMe, Rebuilding Hope for Brantice Families Together , Sept. 24, 2024",
+        "url": "https://www.gofundme.com/f/rebuilding-hope-for-brantice-families-together",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. These videos are not from the Oct. 29 floods in Valencia, Spain. The clips are from flooding disasters that happened September 2024 in Central Europe.",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Photos show Keanu Reeves hawking T-shirts with political messages.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "These images were altered. The original photo shows actor Keanu Reeves in November 2017, and he was not holding a shirt. ​",
+    "evidence_sources": [
+      {
+        "content": "PolitiFact, Altered image appears to show Keanu Reeves holding anti-Trump shirt , Nov. 5, 2024",
+        "url": "https://www.politifact.com/factchecks/2024/nov/05/viral-image/altered-image-appears-to-show-keanu-reeves-holding/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Getty Images, EICMA 2017 - International Motorcycle Fair , Nov. 8, 2017",
+        "url": "https://www.gettyimages.com/detail/news-photo/keanu-reeves-attends-arch-press-conference-at-eicma-2017-news-photo/871692840",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, In Context: Trump recounts assassination attempt. Here's what he said at the RNC. , July 19, 2024",
+        "url": "https://www.politifact.com/article/2024/jul/19/in-context-trump-recounts-assassination-attempt-he/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. These images were altered. The original photo shows actor Keanu Reeves in November 2017, and he was not holding a shirt. ​",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "Green Party presidential nominee Jill Stein cost Democratic nominee Kamala Harris an election win in Wisconsin.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Even if the votes that went to Green Party presidential nominee Jill Stein in Wisconsin would have gone to Democratic presidential nominee and Vice President Kamala Harris, Harris still would have fallen short of the votes cast for Republican presidential nominee — and now president-elect — Donald Trump.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Nov. 5, 2024",
+        "url": "https://www.threads.net/@barrettpall/post/DCA7c2ov_GQ?fbclid=IwY2xjawGaEMxleHRuA2FlbQIxMAABHQDI-GT_efo7DicJmWtTXHF0DppVudaHMFS95lcbYjijZmgCy8KOck59vA_aem_JP8TX3v92RBT78dtjKCx7w",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, Jill Stein , visited Nov. 7, 2024",
+        "url": "https://www.washingtonpost.com/elections/candidates/jill-stein-2024/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Wisconsin election results , visited Nov. 7, 2024",
+        "url": "https://www.google.com/search?q=wisconsin+election+results&oq=wi&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg8MgYIAhBFGDsyBggDEEUYOTIICAQQRRgnGDsyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQc2MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Even if the votes that went to Green Party presidential nominee Jill Stein in Wisconsin would have gone to Democratic presidential nominee and Vice Pr",
+    "topic": "Politics"
+  },
+  {
+    "claim": "President-elect Donald Trump \"has been to Epstein's island\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "President-elect Donald Trump and Jeffrey Epstein attended the same parties in the 1990s, and Trump flew on Epstein's private jet at least seven times. The two had a falling out years ago, Trump said, and there's no evidence Trump visited Epstein's private island where prosecutors said Epstein sex trafficked underage girls.",
+    "evidence_sources": [
+      {
+        "content": "Justice Department, Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Of Minors , July 8, 2019",
+        "url": "https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors",
+        "credibility": "High"
+      },
+      {
+        "content": "Miami Herald, Maxwell case logs show how frequently Trump flew on Epstein jets; Bill Clinton, too , Dec. 21, 2021",
+        "url": "https://www.miamiherald.com/news/local/crime/article256740662.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN, Jeffrey Epstein has died by suicide, sources say , Aug. 11, 2019",
+        "url": "https://www.cnn.com/2019/08/10/us/jeffrey-epstein-death/index.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. President-elect Donald Trump and Jeffrey Epstein attended the same parties in the 1990s, and Trump flew on Epstein's private jet at least seven times.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"El Pentágono falló en enviar las boletas para el voto en ausencia al personal militar activo\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "El Departamento de Defensa no envía votos en ausencia a los miembros del servicio militar activo en el extranjero. Los miembros del servicio y sus familias deben inscribirse en sus estados de origen, que son los responsables de enviar los votos en ausencia. Si las boletas estatales no llegan a tiempo, los miembros del servicio pueden imprimir la boleta federal de voto en ausencia por escrito desde la página web del programa de asistencia al voto.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"El Pentágono falló en enviar las boletas para el voto en ausencia al personal m...",
+        "url": "https://www.politifact.com/factchecks/2024/nov/06/tweets/los-estados-envian-las-boletas-a-los-militares-en/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. El Departamento de Defensa no envía votos en ausencia a los miembros del servicio militar activo en el extranjero. Los miembros del servicio y sus fam",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Homeland Security is having a cybersecurity drill on the same day as the election.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A security conference hosted by an Atlanta chapter of a professional organization and a small business that specializes in producing meetings, conferences and events included a tabletop exercise initially scheduled for Nov. 5. But it was rescheduled in part because of the spread of misinformation about the event.",
+    "evidence_sources": [
+      {
+        "content": "AFCEA Atlanta Chapter, 2024 Homeland Security Critical Infrastructure Conference , visited Nov. 5, 2024",
+        "url": "https://atlanta.afceachapters.org/2024-homeland-security-critical-infrastructure-conference#:~:text=dates%20to%20be%20announced,Security%20Cybersecurity%20and%20Infrastructure%20Conference.",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Federal Business Council, 2024 agenda , visited Nov. 5, 2024",
+        "url": "https://www.fbcinc.com/source/Event_Agendas/Homeland_Security_Conference_Agenda_2024.pdf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The New York Times, How Election Deniers Sank a Security Conference in Georgia , Nov. 1, 2024",
+        "url": "https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A security conference hosted by an Atlanta chapter of a professional organization and a small business that specializes in producing meetings, confere",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Video shows Fox News contributors speculating about former President Donald Trump's cognitive health.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video was altered as a joke on \"The Daily Show.\" The original footage showed Fox News contributors speculating about the health of former Democratic presidential nominee Hillary Clinton.",
+    "evidence_sources": [
+      {
+        "content": "X post , Oct. 31, 2024",
+        "url": "https://x.com/TheDailyShow/status/1852108853602594894?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1852108853602594894%7Ctwgr%5Ed03c074e19a702a0aaef78a3df3eb3072399d6a3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fdaily-show-fox-news-trump-hillary-clinton_n_6724f5f9e4b00acf55d9b008",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Hannity ,\" Aug. 11, 2016",
+        "url": "https://archive.org/details/FOXNEWSW_20160812_020000_Hannity/start/1932/end/1992?q=literate",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, In prime time, Sean Hannity carries out a Clinton medical 'investigation,' Aug. 11, 2016",
+        "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/08/11/in-prime-time-sean-hannity-carries-out-a-clinton-medical-investigation/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This video was altered as a joke on \"The Daily Show.\" The original footage showed Fox News contributors speculating about the health of former Democra",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Former President Donald Trump posted on Truth Social, \"I hate SNL.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This image was altered. Former President Donald Trump didn't post this.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Nov. 3, 2024",
+        "url": "https://www.threads.net/@chosennj/post/DB6YmCTubAY?fbclid=IwY2xjawGWMzZleHRuA2FlbQIxMAABHbDzWr-V6X1pxTEdydVTucXsH5py_dvS4HTfMswSaQnaKXZOQw_QktJotg_aem_EBLw2kAuywWgbV4XAuVjzQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Variety Australia, Donald Trump Rages at Taylor Swift After Singer Endorses Kamala Harris: 'I Hate Taylor Swift!' Sept. 16, 2024",
+        "url": "https://au.variety.com/2024/more/news/donald-trump-i-hate-taylor-swift-truth-social-17548/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Kamala Harris' 'Saturday Night Live' appearance and 'equal time' for Donald Trump: What to know , Nov. 4, 2024",
+        "url": "https://www.politifact.com/article/2024/nov/04/kamala-harris-snl-appearance-and-equal-time-for-do/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This image was altered. Former President Donald Trump didn't post this.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"The Pentagon reportedly failed to send absentee ballots to active military service members before the election.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The Defense Department doesn't send absentee ballots to active overseas service members. Service members and their families must register with their home states, which are responsible for sending out absentee ballots. The Pentagon oversees the Federal Voting Assistance Program to help service members vote. If state ballots don't arrive in time, service members can print out the Federal Write-In Absentee Ballot from the voting assistance program's website.",
+    "evidence_sources": [
+      {
+        "content": "Rep. Brian Mast, R-Fla., letter to Secretary of Defense Lloyd Austin , Oct. 30, 2024",
+        "url": "https://mast.house.gov/_cache/files/e/5/e591a3db-c158-4635-a3fd-9ad2a4b177f2/9F9EA3E229622DE054CA6CA0265ABD9F.10.30.24-letter-to-secdef-re-servicemember-voting.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Defense Department, Pentagon Press Secretary Maj. Gen. Pat Ryder Holds Press Briefing , Nov. 4, 2024",
+        "url": "https://www.defense.gov/News/Transcripts/Transcript/Article/3955881/pentagon-press-secretary-maj-gen-pat-ryder-holds-press-briefing/",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Voting Assistance Program, Homepage , accessed Nov. 5, 2024 ( archived )",
+        "url": "https://www.fvap.gov/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The Defense Department doesn't send absentee ballots to active overseas service members. Service members and their families must register with their h",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Gwinnett County, Georgia, sheriff's office said white supremacists \"are planning to attack\" Black people \"from now until the Inauguration.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Gwinnett County, Georgia, sheriff's office said white supremacists \"are planning to attack\" Black people \"from now until the Inauguration.\"By Amy Sherman • November 5, 2024",
+    "evidence_sources": [
+      {
+        "content": "Meta post , Nov. 1, 2024",
+        "url": "https://archive.is/vBqUZ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Gwinnett County Sheriff's Office, Statement , Nov. 2, 2024",
+        "url": "https://x.com/GwinnettSO/status/1852838663807214034",
+        "credibility": "Medium"
+      },
+      {
+        "content": "ABC10, No, a Georgia sheriff's office didn't warn people that KKK members are planning attacks, Nov. 4, 2024",
+        "url": "https://www.abc10.com/article/news/verify/elections-verify/georgia-sheriffs-office-not-warning-people-kkk-attacks/536-28d1ef29-0298-44be-9213-b3719923cbef",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Gwinnett County, Georgia, sheriff's office said white supremacists \"are planning to attack\" Black people \"from now until the Inauguration.\"By Amy Sher",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Este video muestra a un votante en Kentucky tratando de votar por el expresidente Donald Trump y la máquina de votación no le deja.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Los funcionarios electorales de Kentucky investigaron un problema con una máquina de votación y descubrieron que se trataba de un incidente aislado. Un votante que utilizaba un dispositivo para marcar boletas tocó una pequeña casilla de verificación en la esquina del texto que incluía los nombres de los candidatos a presidente y vicepresidente, y seleccionó sin darse cuenta a los candidatos equivocados. Los funcionarios dijeron que la votante del condado Laurel que inicialmente tuvo el problema pudo emitir su voto con una boleta marcada correctamente con los candidatos deseados.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Este video muestra a un votante en Kentucky tratando de votar por el expresident...",
+        "url": "https://www.politifact.com/factchecks/2024/nov/04/instagram-posts/no-maquinas-de-votacion-en-kentucky-no-estan-bloqu/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Los funcionarios electorales de Kentucky investigaron un problema con una máquina de votación y descubrieron que se trataba de un incidente aislado. U",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Joe Rogan says he will not be voting for Trump after having him on the podcast.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Joe Rogan, the influential podcaster who recently interviewed Republican presidential nominee and former President Donald Trump, hadn't announced who he's voting for in the 2024 election as of early afternoon Nov. 3. Rogan said he voted for the Libertarian Party candidate in the 2020 presidential election.",
+    "evidence_sources": [
+      {
+        "content": "\"Joe Rogan Experience\" podcast interview with former President Donald Trump, Oct. 26, 2024",
+        "url": "https://www.youtube.com/watch?v=hBMoPUAeLnY",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN, \" Bernie Sanders draws criticism for touting Joe Rogan endorsement ,\" Jan. 25, 2020",
+        "url": "https://www.cnn.com/2020/01/24/politics/bernie-sanders-joe-rogan-endorsement/index.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Guardian, \"J oe Rogan would 'rather vote for Trump than Biden' after endorsing Sanders ,\" April 4, 2020",
+        "url": "https://www.theguardian.com/us-news/2020/apr/04/joe-rogan-donald-trump-joe-biden-bernie-sanders",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Joe Rogan, the influential podcaster who recently interviewed Republican presidential nominee and former President Donald Trump, hadn't announced who ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"I never mentioned\" wanting to end the Affordable Care Act.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "During the 2024 campaign, former President Donald Trump has said inconsistent things about his plan for the Affordable Care Act if he wins the presidency. But he's wrong to say that he's never \"mentioned\" wanting to scuttle the law. He did so in 2016 as a candidate. As president, Trump sought to end the law through congressional action and at the U.S. Supreme Court.",
+    "evidence_sources": [
+      {
+        "content": "Congress.Gov, H.R.1628 - American Health Care Act of 2017 , accessed on Oct. 23, 2024",
+        "url": "https://www.congress.gov/bill/115th-congress/house-bill/1628",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, Truth Social post , Oct. 31, 2024",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/113402752841810552",
+        "credibility": "Medium"
+      },
+      {
+        "content": "KFF, The \"Concept of a Plan\" President Trump Proposed to Replace the ACA , Sept. 11, 2024",
+        "url": "https://www.kff.org/quick-take/the-concept-of-a-plan-president-trump-proposed-to-replace-the-aca/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. During the 2024 campaign, former President Donald Trump has said inconsistent things about his plan for the Affordable Care Act if he wins the preside",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Republican Senate candidate Sam Brown \"wants to cut Medicaid and Social Security.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Republican Sam Brown said he would not cut Social Security, Medicare or Medicaid, but supported a balanced budget amendment. Experts say preserving Social Security and Medicare in a balanced budget amendment would result in Medicaid's elimination. Brown said in 2022 he appreciated Florida Republican Sen. Rick Scott's attempt to craft a Republican Party vision that would sunset all federal legislation — including Medicaid — every five years. Brown never directly supported Scott's plan.",
+    "evidence_sources": [
+      {
+        "content": "Rick Scott, \" 6. Government Reform & Debt - Rescue America ,\" Feb. 17, 2023",
+        "url": "https://rescueamerica.com/steps/6-government-reform-debt/",
+        "credibility": "High"
+      },
+      {
+        "content": "Treasury Department, USAspending.gov database , Centers for Medicare and Medicaid Services awards to Nevada for FY 2022 and FY 2023, accessed Oct. 31, 2024",
+        "url": "https://www.usaspending.gov/search/?hash=fb39b21c42ba9ddeaec56d16e838f1cc",
+        "credibility": "High"
+      },
+      {
+        "content": "Make the Road Nevada X post , Oct. 28, 2024",
+        "url": "https://x.com/makeroadactNV/status/1850992253805666724",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Republican Sam Brown said he would not cut Social Security, Medicare or Medicaid, but supported a balanced budget amendment. Experts say preserving So",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Vice President Kamala Harris didn't respond to questions about a cognitive test in a CBS News interview that aired Oct. 28, 2024.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Vice President Kamala Harris said in a CBS News interview that aired Oct. 28 she would take a cognitive test and challenged former President Donald Trump to do the same.",
+    "evidence_sources": [
+      {
+        "content": "CBS News, Kamala Harris says she'd take a cognitive test; challenges Trump \"to take the same one,\" Oct. 28, 2024",
+        "url": "https://www.cbsnews.com/news/kamala-harris-interview-norah-odonnell-interview-cognitive-test/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube, Joe Rogan Experience #2219 - Donald Trump , Oct. 25, 2024",
+        "url": "https://www.youtube.com/watch?v=hBMoPUAeLnY&t=5014s",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Instagram post , Oct. 29, 2024",
+        "url": "https://www.instagram.com/reel/DBuegjcPA8X/?utm_source=ig_embed&ig_rid=4220ae7e-2bdf-4112-a760-77ef4cf16c34",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. Vice President Kamala Harris said in a CBS News interview that aired Oct. 28 she would take a cognitive test and challenged former President Donald Tr",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"I've not gotten a single call from the White House.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "White House records show a staff member emailed and called North Carolina Rep. Tim Moore's office offering assistance. Moore wasn't aware of that outreach when he made his claim on Oct. 21, he told PolitiFact.",
+    "evidence_sources": [
+      {
+        "content": "Press release by North Carolina Gov. Roy Cooper on Oct. 21, 2024.",
+        "url": "https://governor.nc.gov/news/press-releases/2024/10/21/response-and-recovery-efforts-western-north-carolina",
+        "credibility": "High"
+      },
+      {
+        "content": "X post by The Blaze on Oct. 21, 2024.",
+        "url": "https://x.com/theblaze/status/1848396425337471136",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. White House records show a staff member emailed and called North Carolina Rep. Tim Moore's office offering assistance. Moore wasn't aware of that outr",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Says opponent Eric Hovde \"opposes efforts to negotiate with the big pharmaceutical companies to lower the price of prescription drugs.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Repblican U.S. Senate candidate Eric Hovde opposes the Inflation Reduction Act, which among other things, makes it possible to negotiate drug prices. But he says drug prices are too high and negotiations with Big Pharma are needed",
+    "evidence_sources": [
+      {
+        "content": "Centers for Medicare & Medicaid Services \" Medicare drug price negotiation program: negotiated prices for initial price Applicability Year 2026, \" Aug. 15, 2024",
+        "url": "https://www.cms.gov/newsroom/fact-sheets/medicare-drug-price-negotiation-program-negotiated-prices-initial-price-applicability-year-2026",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House \" FACT SHEET: Biden-⁠Harris administration announces new, lower prices for first 10 drugs selected for Medicare price negotiation to lower costs for millions of Americans, \" Aug. 15, 2024",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/",
+        "credibility": "High"
+      },
+      {
+        "content": "WUWM 89.7 Joy Powers \" Wisconsin U.S. Senate election: Candidate Eric Hovde's full interview, \" published Oct. 3, 2024",
+        "url": "https://www.wuwm.com/government-politics/2024-10-03/wisconsin-u-s-senate-election-candidate-eric-hovdes-full-interview",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Repblican U.S. Senate candidate Eric Hovde opposes the Inflation Reduction Act, which among other things, makes it possible to negotiate drug prices. ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Says Eric Hovde \"claims anyone who believes in transitioning to a clean energy economy is 'smoking crack cocaine.'\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "During a Nov. 17, 2022, appearance at Sunwest Bank's Economic Forum, Hovde said that if people think an economy can transition from its existing fuel sources \"in a matter of a decade,\" they are smoking crack cocaine. In this remark and other similar ones, Hovde is casting doubt on the pace of the clean energy transition, not saying anyone who thinks it can happen at all is kidding themselves. That's a key distinction. Hovde has derided clean energy initiatives in the past, and energy experts critiqued the usefulness of his overall point here. But that doesn't change that he didn't say what the group claims he did.",
+    "evidence_sources": [
+      {
+        "content": "Wisconsin Office of Sustainability and Clean Energy, State of Wisconsin Clean Energy Plan Progress Report , accessed Oct. 28, 2024",
+        "url": "https://osce.wi.gov/PublishingImages/Pages/cleanenergyplan/2024%20Clean%20Energy%20Plan%20Progress%20Report.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "United Nations, For a livable climate: Net-zero commitments must be backed by credible action , accessed Oct. 28, 2024",
+        "url": "https://www.un.org/en/climatechange/net-zero-coalition#:~:text=As%20of%20June%202024%2C%20107,a%20high%2Dlevel%20government%20official.",
+        "credibility": "High"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \"Bice: Senate candidate Eric Hovde has learned to love tax credits for solar energy he used to hate,\" April 15, 2024",
+        "url": "https://www.jsonline.com/story/news/politics/elections/2024/04/15/senate-candidate-eric-hovde-now-loves-solar-energy-he-used-to-hate/73222735007/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. During a Nov. 17, 2022, appearance at Sunwest Bank's Economic Forum, Hovde said that if people think an economy can transition from its existing fuel ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Image shows an anti-Trump billboard outside Madison Square Garden.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The image is altered. The original photo taken April 20, 2020, showed a sign that said \"We (Love) New York,\" with a heart shape representing the word \"love.\" The sign's sentiment was shared as a pandemic quickly spread through New York City, one of the COVID-19 outbreak's early U.S. hotspots.",
+    "evidence_sources": [
+      {
+        "content": "X post , Oct. 27, 2024",
+        "url": "https://x.com/StivaliRyder/status/1850551724064252322",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Threads post , Oct. 27, 2024",
+        "url": "https://www.threads.net/@_pat_moore/post/DBojL-SvORQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBC News, Trump's Madison Square Garden rally overshadowed by his allies' crude and racist remarks , Oct. 28, 2024",
+        "url": "https://www.nbcnews.com/politics/2024-election/trump-madison-square-garden-rally-allies-crude-racist-remarks-rcna177487",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The image is altered. The original photo taken April 20, 2020, showed a sign that said \"We (Love) New York,\" with a heart shape representing the word ",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"In Montana, we cherish our public lands. But Tim Sheehy called to transfer them off, so the ultra-rich can buy them up.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Republican U.S. Senate candidate Tim Sheehy has said local interests should get a greater voice in managing federal land. However, he's consistently said he opposes federal transfers or sales of federal lands, and he has not urged sales to the \"ultra-rich.\" Unlike Sheehy, the state Republican Party platform explicitly calls for land transfers, and the federal government has negotiated land swaps with private landholders in recent years, at a time of growing interest by well-heeled outsiders in buying up Montana land.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Forest Service, \" South Crazy Mountains Land Exchange ,\" accessed Oct. 28, 2024",
+        "url": "https://www.fs.usda.gov/project/?project=56687",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Montana, Montana Survey , March 23-28, 2024",
+        "url": "https://www.umt.edu/crown-yellowstone/voter-surveys/2024/2024_surveyresults.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Property and Environment Research Center, website , accessed Oct. 28, 2024",
+        "url": "https://perc.org/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Republican U.S. Senate candidate Tim Sheehy has said local interests should get a greater voice in managing federal land. However, he's consistently s",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Milwaukee is one of the sex trafficking capitals in our country.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Multiple state departments and law enforcement confirm human and sex trafficking does take place in Milwaukee. The crime itself, compared with other crimes in the city, is low. Law enforcement and victim advocates find challenges tracking this data, making it difficult to say with certainty that it's a worse problem in one place compared with another.",
+    "evidence_sources": [
+      {
+        "content": "Milwaukee Police Department, crime map and statistics , last checked Oct. 25, 2024",
+        "url": "https://city.milwaukee.gov/police/Information-Services/Crime-Maps-and-Statistics",
+        "credibility": "High"
+      },
+      {
+        "content": "Medical College of Wisconsin, Estimating the Magnitude of Sex Trafficking Risk and Victimization of Juveniles and Yount Adults , March 1, 2018",
+        "url": "https://www.mcw.edu/-/media/MCW/Departments/Epidemiology/MHRC/sextraffickingreportfinal03012018.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "National Human Trafficking Hotline, Wisconsin statistics , last checked Oct. 25, 2024",
+        "url": "https://humantraffickinghotline.org/en/statistics/wisconsin",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Multiple state departments and law enforcement confirm human and sex trafficking does take place in Milwaukee. The crime itself, compared with other c",
+    "topic": "Society"
+  },
+  {
+    "claim": "Four Florida counties had \"zero results\" Oct. 26, and \"something underhanded might be happening.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A screenshot showed zero ballots cast during early voting in four Florida counties as of the morning of Oct. 26. That's not suspicious. Those four counties began early voting within two hours of the screenshot's timestamp.",
+    "evidence_sources": [
+      {
+        "content": "Florida Division of Elections, Early Voting and Secure Ballot Intake Stations , accessed Oct. 28, 2024",
+        "url": "https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "credibility": "High"
+      },
+      {
+        "content": "Florida Division of Elections, Vote-by-Mail Request & Early Voting Statistics , accessed Oct. 28, 2024",
+        "url": "https://countyballotfiles.floridados.gov/VoteByMailEarlyVotingReports/PublicStats",
+        "credibility": "High"
+      },
+      {
+        "content": "Threads post ( archived ), Oct. 26, 2024",
+        "url": "https://www.threads.net/@imperiojp/post/DBmolYiJeda",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A screenshot showed zero ballots cast during early voting in four Florida counties as of the morning of Oct. 26. That's not suspicious. Those four cou",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Photo shows people lined up outside Madison Square Garden before an Oct. 27 rally by former President Donald Trump.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This image was taken in 2011 and showed people waiting to get into a Dublin event featuring then-President Barack Obama.",
+    "evidence_sources": [
+      {
+        "content": "Obama White House Archives, \" President Obama in Dublin: \"Never Has a Nation So Small Inspired So Much in Another ,\" May 23, 2011",
+        "url": "https://obamawhitehouse.archives.gov/blog/2011/05/23/president-obama-dublin-never-has-nation-so-small-inspired-so-much-another",
+        "credibility": "High"
+      },
+      {
+        "content": "The Guardian, \" Barack Obama visits Ireland – in pictures ,\" May 23, 2011",
+        "url": "https://www.theguardian.com/world/gallery/2011/may/23/barack-obama-usa",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Madison Square Garden, \" Rent Madison Square Garden ,\" accessed Oct. 28, 2024",
+        "url": "https://www.msg.com/venue-rentals-event-rentals/rent-madison-square-garden",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This image was taken in 2011 and showed people waiting to get into a Dublin event featuring then-President Barack Obama.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "El expresidente Donald Trump quiere eliminar la Ley del Cuidado de Salud a Bajo Precio.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "El anuncio de la campaña de Harris utiliza un video de 2017 en el que el expresidente Donald Trump dijo que su administración planeaba \"derogar y reemplazar el Obamacare\". Trump ha dicho en repetidas ocasiones que quiere reemplazar la Ley del Cuidado de Salud a Bajo Precio (ACA, por sus siglas en inglés). Pero últimamente ha dicho que quiere mejorarla y presentar su propio plan, aunque no ha ofrecido detalles.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: El expresidente Donald Trump quiere eliminar la Ley del Cuidado de Salud a Bajo ...",
+        "url": "https://www.politifact.com/factchecks/2024/oct/25/kamala-harris/expresidente-Donald-Trump-quiere-eliminar/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. El anuncio de la campaña de Harris utiliza un video de 2017 en el que el expresidente Donald Trump dijo que su administración planeaba \"derogar y reem",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"As of today, we have cut the flow of immigration by over half.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The size of the drop varies based on what time frame is used, but over roughly the past year, the number of encounters along the southwestern U.S. border — a common way to measure immigration — has declined by 57% to 78%.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Customs and Border Protection, \" Southwest Land Border Encounters ,\" accessed Oct. 24, 2024",
+        "url": "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters",
+        "credibility": "High"
+      },
+      {
+        "content": "Office of Homeland Security Statistics, \" Immigration Enforcement and Legal Processes Monthly Tables ,\" accessed Oct. 24, 2024",
+        "url": "https://ohss.dhs.gov/topics/immigration/immigration-enforcement/immigration-enforcement-and-legal-processes-monthly",
+        "credibility": "High"
+      },
+      {
+        "content": "Kamala Harris, remarks at a CNN town hall , Oct. 24, 2024",
+        "url": "https://transcripts.cnn.com/show/se/date/2024-10-23/segment/01",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. The size of the drop varies based on what time frame is used, but over roughly the past year, the number of encounters along the southwestern U.S. bor",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Michigan U.S. Senate candidate Mike Rogers \"wants to cut Medicare and Social Security.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "During a previous stint in Congress, Michigan Republican U.S. Senate candidate Mike Rogers supported plans to overhaul Medicare and raise the eligibility age for benefits. Whether those plans would have led to higher costs for beneficiaries would have depended on several factors, but the plans never became law. Rogers has said during this campaign that he does not support cuts to the programs. He's called for a bipartisan commission to address the programs' funding shortfalls.",
+    "evidence_sources": [
+      {
+        "content": "Congress.gov, H.Con.Res.34 - Establishing the budget for the United States Government for fiscal year 2012 and setting forth appropriate budgetary levels for fiscal years 2013 through 2021 , accessed Oct. 22, 2024",
+        "url": "https://www.congress.gov/bill/112th-congress/house-concurrent-resolution/34",
+        "credibility": "High"
+      },
+      {
+        "content": "Centers for Medicare and Medicaid Services, 2024 Medicare Trustees Report , accessed Oct. 22, 2024",
+        "url": "https://www.cms.gov/oact/tr/2024",
+        "credibility": "High"
+      },
+      {
+        "content": "Social Security Administration, The 2024 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds , accessed Oct. 22, 2024",
+        "url": "https://www.ssa.gov/OACT/TR/2024/tr2024.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. During a previous stint in Congress, Michigan Republican U.S. Senate candidate Mike Rogers supported plans to overhaul Medicare and raise the eligibil",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Former President Donald Trump wants to take away the Affordable Care Act.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The Harris' campaign ad uses a 2017 video in which former President Donald Trump said his administration planned on \"repealing and replacing Obamacare.\" Trump has repeatedly said he wants to replace the Affordable Care Act. But lately, he's said he wants to fix it and introduce his own plan, though he's offered no specifics.",
+    "evidence_sources": [
+      {
+        "content": "Congress.Gov, H.R.1628 - American Health Care Act of 2017 , accessed on Oct. 23, 2024",
+        "url": "https://www.congress.gov/bill/115th-congress/house-bill/1628",
+        "credibility": "High"
+      },
+      {
+        "content": "Youtube, Stop Him | Harris-Walz 2024 , Sept. 27, 2024",
+        "url": "https://www.youtube.com/watch?v=bUCyM15kJ28",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, What would a second Donald Trump presidency look like for health care? We explore , Jan. 16, 2024",
+        "url": "https://www.politifact.com/article/2024/jan/16/what-would-a-second-donald-trump-presidency-look-l/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The Harris' campaign ad uses a 2017 video in which former President Donald Trump said his administration planned on \"repealing and replacing Obamacare",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Says opponent Eric Hovde \"supports a $4 trillion tax plan that would disproportionately advantage the well-off and profitable corporations\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Republican Eric Hovde, a U.S. Senate candidate in Wisconsin, has publicly supported former President Donald Trump's 2017 tax cut program. That same program is projected to benefit the wealthy far more than the middle class, while raising the U.S. debt, an analysis shows.",
+    "evidence_sources": [
+      {
+        "content": "Center on Budget and Policy Priorities, \" The 2017 Trump Tax Law was skewed to the rich, expensive and failed to deliver on its promises ,\" June 13, 2024",
+        "url": "https://www.cbpp.org/research/federal-tax/the-2017-trump-tax-law-was-skewed-to-the-rich-expensive-and-failed-to-deliver",
+        "credibility": "High"
+      },
+      {
+        "content": "Sen. Tammy Baldwin, D-Wis., \"The Last Word with Lawrence O'Donnell,\" Oct. 11, 2024",
+        "url": "https://www.youtube.com/watch?v=JuuZmzK09Pg&ab_channel=MSNBC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel, \" Takeaways from Eric Hovde campaign stop: He calls for simpler tax code, defends investments ,\" Sept. 4, 2024",
+        "url": "https://www.jsonline.com/story/news/politics/elections/2024/09/04/eric-hovde-calls-for-simpler-tax-code-defends-his-investments/75068892007/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Republican Eric Hovde, a U.S. Senate candidate in Wisconsin, has publicly supported former President Donald Trump's 2017 tax cut program. That same pr",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"There was a bill to basically create a ban to make sure we never become a sanctuary state, that no locality passes those regulations, and (former Manchester Mayor Joyce Craig) opposed that bill.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Former Manchester Mayor Joyce Craig opposed a 2023 bill that would have prohibited \"any state or local government entity from establishing sanctuary policies,\" alongside Manchester's police chief and other law enforcement officials. Former U.S. Sen. Kelly Ayotte's remark glossed over Craig's support for Manchester's 13-year-old policy, which includes cooperation with federal immigration officials when people are arrested in the city for felonies and violent misdemeanors. Craig has also said she would not turn New Hampshire into a sanctuary state if elected.",
+    "evidence_sources": [
+      {
+        "content": "New Hampshire House Committee on Municipal and County Government, report on SB 132 , May 24, 2023",
+        "url": "https://gencourt.state.nh.us/BillHistory/SofS_Archives/2023/house/SB132H.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Kelly Ayotte, remarks at a debate sponsored by the Greater Nashua Chamber of Commerce, Sep. 25 2024",
+        "url": "http://debate",
+        "credibility": "Medium"
+      },
+      {
+        "content": "New Hampshire bill SB 132 , 2023",
+        "url": "https://legiscan.com/NH/text/SB132/id/2750185",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Former Manchester Mayor Joyce Craig opposed a 2023 bill that would have prohibited \"any state or local government entity from establishing sanctuary p",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Former President Donald Trump posted on Truth Social and addressed claims of his \"incontinence,\" saying, \"I don't poop myself.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The image originated from a satirical post. Donald Trump made no such remarks.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Oct. 20, 2024",
+        "url": "https://www.threads.net/@turbofunk_/post/DBWT7PLRt44",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post by Acyn , Oct. 10, 2024",
+        "url": "https://x.com/Acyn/status/1844527835010171298?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1844527835010171298%7Ctwgr%5E5d352b2561286aa354ad131bfffb699c0551f61a%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.vanityfair.com%2Fnews%2Fstory%2Fobama-laughs-at-trump-adult-diaper-joke-as-trump-proves-hes-a-78-year-old-baby",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Newsweek, Obama's Diapers Joke About Donald Trump Is a Hit With Kamala Harris Crowd , Oct. 11, 2024",
+        "url": "https://www.newsweek.com/barack-obama-diapers-jokes-donald-trump-kamala-harris-1967455",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The image originated from a satirical post. Donald Trump made no such remarks.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Estas son imágenes del huracán Milton en Florida.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Esta compilación de videos en Facebook no son del huracán Milton. Estos se publicaron en internet antes de que el huracán llegará a Florida y algunas son de otras localidades.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Estas son imágenes del huracán Milton en Florida....",
+        "url": "https://www.politifact.com/factchecks/2024/oct/21/facebook-posts/estos-videos-no-son-del-huracan-milton-en-florida/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Esta compilación de videos en Facebook no son del huracán Milton. Estos se publicaron en internet antes de que el huracán llegará a Florida y algunas ",
+    "topic": "Environment"
+  },
+  {
+    "claim": "Kamala Harris \"supports taxpayer-funded sex changes for prisoners and illegal aliens.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "During Vice President Kamala Harris' 2019 Democratic primary run, she supported access to gender-affirming surgery for people in federal prisons and immigration detention. In recent comments, she has said she will \"follow the law.\" Federal law requires that prisons provide necessary medical care to inmates, and several courts have ruled that gender-affirming care, including surgery, is included. The Trump administration also acknowledged this legal obligation. Access to gender-affirming surgery is limited. Reports show it has been provided to two federal inmates. PolitiFact found no record of immigration detainees receiving transgender surgery.",
+    "evidence_sources": [
+      {
+        "content": "Columbia University, ' Chapter 23: Your Right to Adequate Medical Care ,\" accessed Oct. 16, 2024",
+        "url": "https://jlm.law.columbia.edu/files/2017/05/35.-Ch.-23.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Justice, \" United States Department of Justice Federal Prison System ,\" 2018",
+        "url": "https://www.justice.gov/d9/pages/attachments/2018/02/13/28_federal_bureau_of_prisons_bop_se_0.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Bureau of Prisons,\" Transgender Offender Manual ,\" Jan. 13, 2022",
+        "url": "https://www.bop.gov/policy/progstat/5200-08-cn-1.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. During Vice President Kamala Harris' 2019 Democratic primary run, she supported access to gender-affirming surgery for people in federal prisons and i",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Photo shows Vice President Kamala Harris and Sean \"Diddy\" Combs.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This image was altered. The original shows Sean \"Diddy\" Combs and fashion designer Misa Hylton, not Vice President Kamala Harris.",
+    "evidence_sources": [
+      {
+        "content": "Threads post , Oct. 15, 2024",
+        "url": "https://www.threads.net/@ponzi_investments/post/DBKoopsRofQ?fbclid=IwY2xjawF9EGRleHRuA2FlbQIxMAABHQ5uh0Bry1tjBc9E12yhQRQhB2bkUMqOHgn6qIFrCa92_pt8GFbY3QiMBg_aem_-wZ8_U0-gNck-GPD023KDQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Getty Images, Sean Combs 50th Birthday Bash Presented By Ciroc Vodka , Dec. 14, 2019",
+        "url": "https://www.gettyimages.com/detail/news-photo/sean-combs-and-misa-hylton-attend-sean-combs-50th-birthday-news-photo/1194049938?adppopup=true",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Image shows Kamala Harris and Montel Williams, not Sean \"Diddy\" Combs , Sept. 20, 2024",
+        "url": "https://www.politifact.com/factchecks/2024/sep/20/viral-image/image-shows-kamala-harris-and-montel-williams-not/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This image was altered. The original shows Sean \"Diddy\" Combs and fashion designer Misa Hylton, not Vice President Kamala Harris.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Arizona U.S. Senate candidate Kari Lake \"was against\" the child tax credit expansion \"when the bill was on the floor.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Although Kari Lake, a Republican U.S. Senate candidate, criticized the American Rescue Plan Act of 2021, she did not single out the child tax credit portion. Lake has supported child tax credits and \"baby bonuses\" to reduce abortions and increase the U.S. birth rate.",
+    "evidence_sources": [
+      {
+        "content": "Congress bill tracker, American Rescue Plan Act of 2021 , Oct. 16, 2024.",
+        "url": "https://www.congress.gov/bill/117th-congress/house-bill/1319/text",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, ARP State by State Analysis Arizona , Oct. 16, 2024.",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ARP-State-by-State_Arizona.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Tax Policy Center, How did the 2021 American Rescue Plan Act Change the Child Tax Credit, Oct. 16, 2024.",
+        "url": "https://taxpolicycenter.org/briefing-book/how-did-2021-american-rescue-plan-act-change-child-tax-credit",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Although Kari Lake, a Republican U.S. Senate candidate, criticized the American Rescue Plan Act of 2021, she did not single out the child tax credit p",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Fox News reported Donald Trump donated $1,300 for hurricane relief.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The image was not part of a Fox News report. It was not on Fox News' website and a network spokesperson told PolitiFact in an email, \"I can confirm this was not reported on FOX News.\" The image was shared as parody and has telltale signs of being artificially generated.",
+    "evidence_sources": [
+      {
+        "content": "The Associated Press, Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms , Oct. 17, 2024",
+        "url": "https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Fox News, Trump launches GoFundMe to help Hurricane Helene victims, raises more than $1M , Sept. 30, 2024",
+        "url": "https://www.foxnews.com/us/trump-launches-gofundme-help-hurricane-helene-victims-raises-more-1m",
+        "credibility": "Medium"
+      },
+      {
+        "content": "GoFundMe, Support Hurricane Helene Victims - Trump Authorized , Sept. 30, 2024",
+        "url": "https://www.gofundme.com/f/support-hurricane-helene-victims-with-president-trump",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The image was not part of a Fox News report. It was not on Fox News' website and a network spokesperson told PolitiFact in an email, \"I can confirm th",
+    "topic": "Politics"
+  },
+  {
+    "claim": "支付宝2025年“集五福”活动从1月20日开始。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "多家媒体和地方信息网站基于支付宝官方公告给出的2025年活动规则均明确，2025年“集五福”主活动（正式集福）时间为北京时间2025年1月20日00:00:00至2月2日19:59:59，即活动从1月20日开始。部分早鸟活动在1月15日至1月19日提前发放福卡凭证，但正式集福开启日期仍是1月20日，因此将起始时间表述为“从1月20日开始”是准确的。",
+    "evidence_sources": [
+      {
+        "content": "2025支付宝集五福活动规则（时间+入口+全新玩法+集福方式）：明确写明“活动时间：北京时间2025年1月20日00:00:00-2025年2月2日19:59:59”，说明正式集福活动自1月20日开始。",
+        "url": "https://m.cd.bendibao.com/youhui/193937.shtm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025支付宝集五福早鸟活动规则：给出早鸟福卡凭证领取时间为1月15日至1月19日，并说明福卡凭证兑换时间为2025年1月20日00:00:00起，印证正式集福从1月20日启动。",
+        "url": "https://m.bj.bendibao.com/youhui/369553.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025支付宝集五福活动规则与媒体报道（含杭州网、搜狐等）：多篇文章引用支付宝官方信息称“2025年集福于1月20日开启/即将在1月20日正式启动”，并统一给出1月20日–2月2日的活动区间。",
+        "url": "https://hznews.hangzhou.com.cn/jingji/content/2025-01/17/content_8843251.htm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "支付宝2025年“集五福”活动主活动（正式集福）从2025年1月20日开始，一直持续到2月2日，其间用户可通过扫福字、碰一下支付、看视频、玩小游戏等方式收集福卡。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "歌曲《一样的月光》的原唱是台湾歌手苏芮。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "公开的音乐资料与专辑信息均显示，《一样的月光》是台湾歌手苏芮在1983年发行的首张个人专辑及电影《搭错车》原声带中的主打歌曲，由苏芮首次录制并发表，被普遍视为这首歌的原唱版本。 此后虽有多位歌手翻唱《一样的月光》，但这些版本都晚于苏芮1983年的录音，因此将苏芮称为该歌曲的“原唱”在时间顺序与行业通行认定上是准确的。",
+    "evidence_sources": [
+      {
+        "content": "〈一样的月光〉是1983年苏芮首张个人专辑的主打歌，也是1983年台湾电影《搭错车》的插曲，并被视为其代表作之一，说明该曲最早由苏芮录制并公开发行。",
+        "url": "https://zh.wikipedia.org/wiki/%E4%B8%80%E6%A8%A3%E7%9A%84%E6%9C%88%E5%85%89",
+        "credibility": "Medium"
+      },
+      {
+        "content": "乐评/资料介绍指出，《一样的月光》由吴念真、罗大佑作词，李寿全作曲，苏芮演唱，收录于1983年发行的《搭错车》电影原声专辑，是苏芮成名的重要作品，后续多位歌手翻唱该曲。",
+        "url": "https://www.youtube.com/watch?v=4KaRqIWxTI4",
+        "credibility": "Medium"
+      },
+      {
+        "content": "音乐平台曲目页面将《一样的月光》标注为苏芮（Julie Sue）演唱，并将其归入苏芮1980年代专辑目录中，作为原创演唱版本；其他歌手版本被列为翻唱或后录版本。",
+        "url": "https://www.kkbox.com/tw/tc/song/DadxNcYZK9m6FapMEB",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "歌曲《一样的月光》的原唱是台湾歌手苏芮，后续的其他版本均为翻唱或重新演绎。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "重庆主城到长寿区将开通直升飞机",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "2025年央视新闻频道节目《新闻直播间》《朝闻天下》以及多家媒体对“重庆至长寿将开通直升机客运，每座180元”的网传信息进行了求证，明确指出经向相关部门核实，重庆市长寿区暂未开通重庆主城至长寿的直升机客运路线，相关说法系谣言。 同期报道还强调，重庆确实在积极发展低空经济，已开通部分城市空中交通和低空游览航线，但这些航线主要集中在渝北、江北、巴南、武隆等地或跨区县、跨省试点，并不包含“重庆主城—长寿区直升机客运”这一具体线路。 因此，把谣言中尚未获批、官方已否认的线路表述为“将开通直升飞机”，属于对已被辟谣信息的错误事件陈述。",
+    "evidence_sources": [
+      {
+        "content": "央视新闻频道《新闻直播间》栏目播出的“真相来了：‘重庆至长寿将开通直升机客运’系谣言”，明确指出经核实该直升机客运路线并未开通，网传信息不实。",
+        "url": "https://tv.cctv.com/2025/02/22/VIDEYR28yHeVLBU7S83ir07b250222.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "央视新闻频道《朝闻天下》栏目同日播出的辟谣节目，再次强调“重庆至长寿将开通直升机客运”属于谣言，提醒公众不要轻信网络不实信息。",
+        "url": "https://tv.cctv.com/2025/02/22/VIDEgrXSbiLWoSHZ7gcF6LAY250222.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "《大河网》等媒体刊发《“重庆主城到长寿将开通直升飞机，每座180元”？回应来了》一文，援引重庆市长寿区相关部门答复称，暂未开通重庆主城至长寿直升飞机客运路线，网传信息不属实。",
+        "url": "https://5g.dahe.cn/zt/202504101918143",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前重庆确实在发展低空经济并开通了一些直升机城市空中交通和观光航线，但重庆主城至长寿区的直升机客运线路尚未开通，且已被权威媒体和当地部门辟谣，相关说法属于不实信息。",
+    "topic": "Society"
+  },
+  {
+    "claim": "河南许昌暴雨摧毁了城市",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "多份权威报道显示，许昌近年来多次遭遇强降雨和暴雨红色预警，出现道路和立交桥严重积水、局部内涝、停工停课、人员转移等情况，但均未将许昌描述为在暴雨中“城市被摧毁”。2025年9月强降雨中，许昌24小时降水量达163.8毫米，打破当地9月单日降水纪录，中心城区一度停工、停业、停运、停课，并出现小区、婚礼现场被内涝围困等情况，但报道同时强调通过应急响应和转移救援后灾情逐步可控。 2021年“7·20”河南特大暴雨灾害中，学术与媒体分析普遍将“严重城市破坏”集中描述在郑州都市圈，对许昌多为“出现特大暴雨或大雨、部分地区受灾”的客观表述，而非“摧毁城市”级别的系统性破坏。 因此，“暴雨摧毁了城市”明显夸大了许昌的暴雨灾情和城市受损程度，属于将严重内涝与局部灾害渲染为城市整体毁坏的误导性表述，构成语义和情境上的错误呈现。",
+    "evidence_sources": [
+      {
+        "content": "报道河南多地暴雨，许昌累积雨量达163.8毫米，打破当地9月单日降水量纪录，许昌中心城区宣布停工、停业、停运、停课，但仅描述为严重内涝和防汛二级响应，并未称城市被摧毁。",
+        "url": "https://www.orientaldaily.com.my/news/international/2025/09/11/760869",
+        "credibility": "High"
+      },
+      {
+        "content": "新华社等报道河南多地出现大暴雨，指出许昌等城市发布暴雨红色预警、启动防汛应急响应，提到降水量居全国前列和城市内涝处置情况，未有“城市被摧毁”的定性。",
+        "url": "https://www.stcn.com/article/detail/3332869.html",
+        "credibility": "High"
+      },
+      {
+        "content": "关于2021年7月河南水灾的综述与大气科学研究，将特大暴雨造成的极端城市破坏主要指向郑州都市圈，对包括许昌在内的其他城市以“严重降雨和一定损失”表述，并未将许昌描写为被暴雨摧毁的城市。",
+        "url": "http://www.iapjournals.ac.cn/dqkx/article/doi/10.3878/j.issn.1006-9895.2209.21251",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "河南许昌在2021年特大暴雨以及2025年9月强降雨等过程中确有出现严重降雨、局部内涝和一定损失，并一度采取停工停课、应急转移等措施，但现有权威信息并未显示暴雨曾经“摧毁了城市”，该说法属于严重夸大灾情的误导性表述。",
+    "topic": "Environment"
+  }
+]

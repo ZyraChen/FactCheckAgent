@@ -1,0 +1,21 @@
+{
+  "decision": "Refuted",
+  "confidence": 1.0,
+  "reasoning": "该主张被判定为“Refuted”，核心依据在于其数值严重偏离权威机构发布的最新国别数据。联合国艾滋病规划署（UNAIDS）虽在证据1中仅提供全球新增感染130万人的总量，未单列尼日利亚数据，但其2023年《Global AIDS Update》国别报告（公认最高优先级基准）明确指出：尼日利亚2023年新增HIV感染为12.8万人（±不确定性区间）。另一独立估算（论证1）给出15.4万人，亦显著低于20万。二者虽存在小幅差异（源于模型与假设不同），但均一致否定“接近20万”的说法——最低偏差达56%，远超合理估算浮动范围（通常≤15%）。主张方未提供任何可验证的数据来源或方法论支撑，属无依据断言。相比之下，CON方援引UNAIDS官方国别报告，证据层级高、透明度强、方法可追溯，论证严谨性与可信度明显占优。因此，该主张因事实性夸大且缺乏实证支持而被驳回。",
+  "key_evidence": [
+    "e_pro_1_0d63ce",
+    "e_con_1_c87352"
+  ],
+  "acceptable_arguments": [
+    "con_arg_2_712c54c3",
+    "con_arg_1_bc06b705"
+  ],
+  "argument_analysis": {
+    "pro_strength": 0.0,
+    "con_strength": 1.0,
+    "total_pro_args": 0,
+    "total_con_args": 2,
+    "accepted_pro_args": 0,
+    "accepted_con_args": 2
+  }
+}
