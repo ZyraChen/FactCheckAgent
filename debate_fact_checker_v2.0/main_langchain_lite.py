@@ -10,6 +10,7 @@ os.environ["JINA_API_KEY"] = "jina_518b9cb292b249139bedce5123349109HnqXMjmaY94la
 import json
 import sys
 from pathlib import Path
+from datetime import datetime
 
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -71,7 +72,7 @@ def process_single_claim(claim: str, rounds: int = 3, ground_truth: str = None):
 
 def process_dataset(dataset_path: str, output_path: str, max_samples: int = None):
     """
-    批量处理数据集
+    批量处理数据集（支持断点续传）
 
     Args:
         dataset_path: 数据集路径
@@ -89,15 +90,45 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
 
     print(f"加载了 {len(dataset)} 条数据\n")
 
-    results = []
-
     # 创建日志目录
     output_dir = Path("output")
     output_dir.mkdir(exist_ok=True)
     logs_dir = output_dir / "logs"
     logs_dir.mkdir(exist_ok=True)
 
+    # 进度文件路径
+    progress_file = output_dir / "progress.json"
+
+    # 尝试加载已有结果和进度
+    results = []
+    processed_indices = set()
+
+    if progress_file.exists():
+        try:
+            with open(progress_file, "r", encoding="utf-8") as f:
+                progress_data = json.load(f)
+                processed_indices = set(progress_data.get("processed_indices", []))
+                print(f"📂 检测到进度文件，已处理 {len(processed_indices)} 条数据")
+                print(f"   将从第 {len(processed_indices)+1} 条继续...\n")
+        except Exception as e:
+            print(f"⚠ 无法读取进度文件: {e}")
+
+    # 加载已有结果
+    if Path(output_path).exists():
+        try:
+            with open(output_path, "r", encoding="utf-8") as f:
+                results = json.load(f)
+                print(f"📂 加载了 {len(results)} 条已有结果\n")
+        except Exception as e:
+            print(f"⚠ 无法读取结果文件: {e}")
+            results = []
+
     for i, item in enumerate(dataset):
+        # 跳过已处理的数据
+        if i in processed_indices:
+            print(f"⏭️  跳过第 {i+1}/{len(dataset)} 条（已处理）")
+            continue
+
         print(f"\n{'#'*70}")
         print(f"处理第 {i+1}/{len(dataset)} 条")
         print(f"{'#'*70}")
@@ -121,6 +152,7 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
                 json.dump(result["complete_log"], f, ensure_ascii=False, indent=2, default=str)
 
             results.append({
+                "index": i,
                 "claim": item["claim"],
                 "predicted": result["verdict"].get("decision"),
                 "ground_truth": ground_truth,
@@ -128,21 +160,56 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
                 "correct": result["verdict"].get("decision") == ground_truth
             })
 
-            # 保存中间结果摘要
+            # 立即保存结果摘要
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(results, f, ensure_ascii=False, indent=2)
 
+            # 更新进度文件
+            processed_indices.add(i)
+            with open(progress_file, "w", encoding="utf-8") as f:
+                json.dump({
+                    "processed_indices": sorted(list(processed_indices)),
+                    "total": len(dataset),
+                    "last_updated": datetime.now().isoformat()
+                }, f, ensure_ascii=False, indent=2)
+
             print(f"✓ 完整日志已保存: {log_filename}")
+            print(f"✓ 进度已更新: {len(processed_indices)}/{len(dataset)}")
 
         except Exception as e:
             print(f"❌ 错误: {e}")
             import traceback
             traceback.print_exc()
+
+            # 即使出错也保存一条错误记录
+            results.append({
+                "index": i,
+                "claim": item["claim"],
+                "predicted": None,
+                "ground_truth": item.get("verdict"),
+                "confidence": None,
+                "correct": None,
+                "error": str(e)
+            })
+
+            # 保存结果和进度
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(results, f, ensure_ascii=False, indent=2)
+
+            processed_indices.add(i)
+            with open(progress_file, "w", encoding="utf-8") as f:
+                json.dump({
+                    "processed_indices": sorted(list(processed_indices)),
+                    "total": len(dataset),
+                    "last_updated": datetime.now().isoformat()
+                }, f, ensure_ascii=False, indent=2)
+
             continue
 
-    # 统计
-    correct = sum(1 for r in results if r.get("correct"))
-    total = len([r for r in results if r.get("correct") is not None])
+    # 统计（只统计成功的）
+    valid_results = [r for r in results if r.get("predicted") is not None]
+    correct = sum(1 for r in valid_results if r.get("correct"))
+    total = len([r for r in valid_results if r.get("correct") is not None])
     accuracy = correct / total if total > 0 else 0
 
     print(f"\n\n{'='*70}")
@@ -157,6 +224,8 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
         "total": total,
         "correct": correct,
         "accuracy": accuracy,
+        "processed": len(processed_indices),
+        "failed": len(results) - total,
         "results": results
     }
 
