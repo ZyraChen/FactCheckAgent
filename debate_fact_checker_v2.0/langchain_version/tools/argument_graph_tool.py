@@ -32,10 +32,13 @@ class ArgumentGraphTool(BaseTool):
     """
     args_schema: Type[BaseModel] = ArgumentGraphInput
 
-    arg_graph: any  # ArgumentationGraph instance
+    arg_graph: any = Field(default=None, exclude=True)
 
-    def __init__(self, arg_graph):
-        super().__init__()
+    class Config:
+        arbitrary_types_allowed = True
+
+    def __init__(self, arg_graph, **kwargs):
+        super().__init__(**kwargs)
         self.arg_graph = arg_graph
 
     def _run(

@@ -33,10 +33,13 @@ class EvidencePoolTool(BaseTool):
     """
     args_schema: Type[BaseModel] = EvidencePoolInput
 
-    evidence_pool: any  # EvidencePool instance
+    evidence_pool: any = Field(default=None, exclude=True)
 
-    def __init__(self, evidence_pool):
-        super().__init__()
+    class Config:
+        arbitrary_types_allowed = True
+
+    def __init__(self, evidence_pool, **kwargs):
+        super().__init__(**kwargs)
         self.evidence_pool = evidence_pool
 
     def _run(

@@ -35,12 +35,16 @@ class SearchTool(BaseTool):
     """
     args_schema: Type[BaseModel] = SearchInput
 
-    jina_client: JinaSearch
-    evidence_pool: any  # EvidencePool instance
-    arg_graph: any  # ArgumentationGraph instance
+    # 使用 Field 标记这些字段，设置 exclude=True 避免验证
+    jina_client: JinaSearch = Field(default=None, exclude=True)
+    evidence_pool: any = Field(default=None, exclude=True)
+    arg_graph: any = Field(default=None, exclude=True)
 
-    def __init__(self, jina_client: JinaSearch, evidence_pool, arg_graph):
-        super().__init__()
+    class Config:
+        arbitrary_types_allowed = True
+
+    def __init__(self, jina_client: JinaSearch, evidence_pool, arg_graph, **kwargs):
+        super().__init__(**kwargs)
         self.jina_client = jina_client
         self.evidence_pool = evidence_pool
         self.arg_graph = arg_graph
