@@ -1,0 +1,63 @@
+{
+  "claim": "女子网球获得女单大满贯冠军数量最多的运动员外号是“小威廉姆斯”。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T14:26:43.579519",
+  "statistics": {
+    "total_evidences": 1,
+    "pro_evidences": 0,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 1,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_1_d9c38791",
+        "content": "综观女子职业网坛，马格丽特-史密斯-考特以24个大满贯数排第一，女金刚纳夫纳蒂诺娃的冠军数和总获胜场次成为跨越历史的常青树...",
+        "url": "https://sports.sina.cn/sa/2007-02-10/detail-ikftpnnz2267738.d.html",
+        "source": "sports.sina.cn",
+        "credibility": "Low",
+        "quality_score": 0.24839999999999998,
+        "priority": 0.07451999999999999,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "WTA官方女子网球大满贯单打冠军历史排名玛格丽特·史密斯·考特第一",
+        "timestamp": "2025-12-20T14:24:19.487934"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_d9c38791",
+        "agent": "con",
+        "priority": 0.07451999999999999,
+        "source": "sports.sina.cn",
+        "content_preview": "综观女子职业网坛，马格丽特-史密斯-考特以24个大满贯数排第一，女金刚纳夫纳蒂诺娃的冠军数和总获胜场次成为跨越历史的常青树......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_d9c38791"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.5,
+    "reasoning": "该claim存在根本性错误。claim包含两个关键点：谁是女单大满贯冠军数量最多的运动员，以及该运动员是否外号\"小威廉姆斯\"。根据知识库中\"女子网球大满贯数量排名\"和\"wta大满贯冠军数排名\"的多处信息，玛格丽特·史密斯·考特以24个大满贯单打冠军位居历史第一，而塞雷娜·威廉姆斯(小威廉姆斯)获得23个，排名第二。虽然\"小威廉姆斯\"确实是塞雷娜·威廉姆斯的外号，但claim的前提\"获得女单大满贯冠军数量最多的运动员\"不适用于她。知识库明确指出考特\"曾创纪录的赢得24个大满贯单打冠军...均为目前网球史上最高纪录\"。尽管小威廉姆斯是公开赛时代(1968年后)大满贯数量最多的选手，但claim未限定\"公开赛时代\"，因此整体表述错误。反对证据虽强度低(0.07)，但准确指出了考特排名第一的关键事实，构成决定性反驳。",
+    "key_evidence_ids": [
+      "con_1_d9c38791"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.07451999999999999,
+    "total_evidences": 1,
+    "accepted_evidences": 1
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

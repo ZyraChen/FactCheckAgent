@@ -1,0 +1,233 @@
+{
+  "claim": "目前已实现室温超导。",
+  "ground_truth": "Not Enough Evidence",
+  "timestamp": "2025-12-20T16:12:28.495534",
+  "statistics": {
+    "total_evidences": 9,
+    "pro_evidences": 4,
+    "con_evidences": 5,
+    "total_attacks": 0,
+    "accepted_evidences": 9,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_9556da96",
+        "content": "发现高温超导材料一直是全球科学家竞逐的目标。近期我国科学家开发了一种新镍基超导体，创下了该类材料超导转变温度的最高纪录。该成果12月3日凌晨在线发表 ...",
+        "url": "https://www.bj.news.cn/20251204/8c9cf1fc310a43b3a78e5f92a101b711/c.html",
+        "source": "www.bj.news.cn",
+        "credibility": "Low",
+        "quality_score": 0.2568,
+        "priority": 0.07703999999999998,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "室温超导实现最新权威确认2025",
+        "timestamp": "2025-12-20T15:52:43.750665"
+      },
+      {
+        "id": "pro_1_8467fe40",
+        "content": "发现高温超导材料一直是全球科学家竞逐的目标。近期我国科学家开发了一种新镍基超导体，创下了该类材料超导转变温度的最高纪录。该成果12月3 ...",
+        "url": "https://finance.sina.com.cn/wm/2025-12-03/doc-infzpwty9284946.shtml",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.46259999999999996,
+        "priority": 0.27756,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "室温超导实现最新权威确认2025",
+        "timestamp": "2025-12-20T15:52:43.751191"
+      },
+      {
+        "id": "con_1_8f835c63",
+        "content": "（转自：公众号知社学术圈）2020年10月14日，物理学家兰加·迪亚斯（Ranga Dias）在Nature发表了论文，声称他构建出了人类史上第一个室温超导材料。从论文发表的那一刻起，他和他的研究就陷入到了一场巨大的学术丑闻之中。2024年2月8日，迪亚斯所在的罗切斯特大学（University of Rochester）对迪亚斯开展的独立调查得出了最终结论，认为针对迪亚斯的16项学术不端指控均能成立。这份长达124页的调查报告在近日��到披露，其内容详...",
+        "url": "https://xswyh.cug.edu.cn/info/1051/4485.htm",
+        "source": "xswyh.cug.edu.cn",
+        "credibility": "High",
+        "quality_score": 0.8392,
+        "priority": 0.8392,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "科学界公认室温超导尚未实现2024最新权威报告",
+        "timestamp": "2025-12-20T15:53:09.520096"
+      },
+      {
+        "id": "con_1_211950b7",
+        "content": "室温超导一直是物理学界的热门话题，对于其应用也是众说纷纭，2024年室温超导有哪些研究新进展？这些进展…",
+        "url": "https://www.zhihu.com/question/3582334754",
+        "source": "www.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4512,
+        "priority": 0.27071999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "科学界公认室温超导尚未实现2024最新权威报告",
+        "timestamp": "2025-12-20T15:53:09.521112"
+      },
+      {
+        "id": "pro_2_70da8191",
+        "content": "《自然》杂志刊发的撤稿说明指出，应论文作者中8名合著者要求，这篇论文已被撤回。这些研究人员认为，这篇已发表的论文没有准确反映所研究材料的来源、所使用 ...",
+        "url": "http://www.news.cn/world/2023-11/09/c_1129965927.htm",
+        "source": "www.news.cn",
+        "credibility": "Low",
+        "quality_score": 0.2568,
+        "priority": 0.07703999999999998,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "年9月美国物理学会会议确认室温超导实现",
+        "timestamp": "2025-12-20T15:56:16.596377"
+      },
+      {
+        "id": "pro_2_0c474010",
+        "content": "英国《自然》杂志日前刊发撤稿声明称，美国罗切斯特大学兰加·迪亚斯研究团队今年3月发表的关于一种含镥、氢、氮的材料可在室温环境表现出超导性能的论文已被撤回。这是该团队的室温超导研究论文第二次被《自然》撤稿。",
+        "url": "https://news.cctv.com/2023/11/09/ARTIJHl7yn1tSwmsKPgP3jPd231109.shtml",
+        "source": "news.cctv.com",
+        "credibility": "Medium",
+        "quality_score": 0.48119999999999996,
+        "priority": 0.28872,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "年9月美国物理学会会议确认室温超导实现",
+        "timestamp": "2025-12-20T15:56:16.596377"
+      },
+      {
+        "id": "con_2_9b35fa69",
+        "content": "中国科大合肥微尺度物质科学国家研究中心与物理系的陈仙辉研究团队与上海前瞻物质科学研究院曾桥石研究组、安徽大学葛炳辉研究组合作，近日在混合型Ruddlesden–Popper（RP）结构镍酸盐La5Ni3O11单晶中发现高压诱导的高温超导电性，该新结构超导体的发现拓展了镍基高温超导体材料家族，为高温超导机理研究提供了一个新的材料体系。相关研究成果于9月5日以“Pressure induced superconductivity in hybrid Ruddlesden‒Popper La...",
+        "url": "https://news.ustc.edu.cn/info/1048/92579.htm",
+        "source": "news.ustc.edu.cn",
+        "credibility": "High",
+        "quality_score": 0.8488,
+        "priority": 0.8488,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "中科大陈仙辉镍基超导体54K转变温度需高压非室温超导官方说明",
+        "timestamp": "2025-12-20T15:56:43.754613"
+      },
+      {
+        "id": "con_3_3a503dac",
+        "content": "室温超导疑云尘埃落定？韩国学者：无法认定LK-99为常温超导体未表现出迈斯纳效应据华尔街见闻报道，轰动…",
+        "url": "https://www.zhihu.com/question/615439087",
+        "source": "www.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4512,
+        "priority": 0.27071999999999996,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "年所有室温超导宣称均需高压条件非真正室温超导权威说明",
+        "timestamp": "2025-12-20T16:04:49.656957"
+      },
+      {
+        "id": "con_3_49672932",
+        "content": "但这些材料实现超导条件苛刻，即便所谓“高温超导体”的临界温度也通常在零下100摄氏度或更低，需要液氦或液氮制冷并需要高压，难度大且成本高，几乎无法实用。",
+        "url": "http://www.news.cn/tech/2023-08/09/c_1129794675.htm",
+        "source": "www.news.cn",
+        "credibility": "Low",
+        "quality_score": 0.2556,
+        "priority": 0.07668,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "年所有室温超导宣称均需高压条件非真正室温超导权威说明",
+        "timestamp": "2025-12-20T16:04:49.656957"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_3_49672932",
+        "agent": "con",
+        "priority": 0.07668,
+        "source": "www.news.cn",
+        "content_preview": "但这些材料实现超导条件苛刻，即便所谓“高温超导体”的临界温度也通常在零下100摄氏度或更低，需要液氦或液氮制冷并需要高压，难度大且成本高，几乎无法实用。..."
+      },
+      {
+        "id": "pro_2_70da8191",
+        "agent": "pro",
+        "priority": 0.07703999999999998,
+        "source": "www.news.cn",
+        "content_preview": "《自然》杂志刊发的撤稿说明指出，应论文作者中8名合著者要求，这篇论文已被撤回。这些研究人员认为，这篇已发表的论文没有准确反映所研究材料的来源、所使用 ......"
+      },
+      {
+        "id": "con_1_8f835c63",
+        "agent": "con",
+        "priority": 0.8392,
+        "source": "xswyh.cug.edu.cn",
+        "content_preview": "（转自：公众号知社学术圈）2020年10月14日，物理学家兰加·迪亚斯（Ranga Dias）在Nature发表了论文，声称他构建出了人类史上第一个室温超导材料。从论文发表的那一刻起，他和他的研究就陷入到了一场巨大的学术丑闻之中。2024年2月8日，迪亚斯所在的罗切斯特大学（University of Rochester）对迪亚斯开展的独立调查得出了最终结论，认为针对迪亚斯的16项学术不端指控均能..."
+      },
+      {
+        "id": "con_1_211950b7",
+        "agent": "con",
+        "priority": 0.27071999999999996,
+        "source": "www.zhihu.com",
+        "content_preview": "室温超导一直是物理学界的热门话题，对于其应用也是众说纷纭，2024年室温超导有哪些研究新进展？这些进展…..."
+      },
+      {
+        "id": "pro_1_9556da96",
+        "agent": "pro",
+        "priority": 0.07703999999999998,
+        "source": "www.bj.news.cn",
+        "content_preview": "发现高温超导材料一直是全球科学家竞逐的目标。近期我国科学家开发了一种新镍基超导体，创下了该类材料超导转变温度的最高纪录。该成果12月3日凌晨在线发表 ......"
+      },
+      {
+        "id": "con_2_9b35fa69",
+        "agent": "con",
+        "priority": 0.8488,
+        "source": "news.ustc.edu.cn",
+        "content_preview": "中国科大合肥微尺度物质科学国家研究中心与物理系的陈仙辉研究团队与上海前瞻物质科学研究院曾桥石研究组、安徽大学葛炳辉研究组合作，近日在混合型Ruddlesden–Popper（RP）结构镍酸盐La5Ni3O11单晶中发现高压诱导的高温超导电性，该新结构超导体的发现拓展了镍基高温超导体材料家族，为高温超导机理研究提供了一个新的材料体系。相关研究成果于9月5日以“Pressure induced sup..."
+      },
+      {
+        "id": "pro_1_8467fe40",
+        "agent": "pro",
+        "priority": 0.27756,
+        "source": "finance.sina.com.cn",
+        "content_preview": "发现高温超导材料一直是全球科学家竞逐的目标。近期我国科学家开发了一种新镍基超导体，创下了该类材料超导转变温度的最高纪录。该成果12月3 ......"
+      },
+      {
+        "id": "con_3_3a503dac",
+        "agent": "con",
+        "priority": 0.27071999999999996,
+        "source": "www.zhihu.com",
+        "content_preview": "室温超导疑云尘埃落定？韩国学者：无法认定LK-99为常温超导体未表现出迈斯纳效应据华尔街见闻报道，轰动…..."
+      },
+      {
+        "id": "pro_2_0c474010",
+        "agent": "pro",
+        "priority": 0.28872,
+        "source": "news.cctv.com",
+        "content_preview": "英国《自然》杂志日前刊发撤稿声明称，美国罗切斯特大学兰加·迪亚斯研究团队今年3月发表的关于一种含镥、氢、氮的材料可在室温环境表现出超导性能的论文已被撤回。这是该团队的室温超导研究论文第二次被《自然》撤稿。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_3_49672932",
+      "pro_2_70da8191",
+      "con_1_8f835c63",
+      "con_1_211950b7",
+      "pro_1_9556da96",
+      "con_2_9b35fa69",
+      "pro_1_8467fe40",
+      "con_3_3a503dac",
+      "pro_2_0c474010"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.9,
+    "reasoning": "Claim的核心是\"目前已实现室温超导\"，关键验证点在于是否在室温条件下实现了被科学界公认的超导现象。知识库多处明确指出室温超导尚未实现：截至2025年3月29日的资料确认\"科学界公认结论尚未突破至真正常温\"；2025年10月26日的文章标题直接称其为\"一场尚未实现的科技革命\"。提供的反对证据中，《自然》杂志撤回了迪亚斯团队的室温超导论文，且其研究\"从发表起就陷入争议\"，这是决定性证据。多个宣称(2020年迪亚斯研究、2023年LK-99)均未被科学界复现。目前科学界公认最高临界温度在常压下仅为134K(-139℃)，远低于室温。这些高可信度证据直接证伪claim的核心主张，表明室温超导尚未被科学界公认实现。",
+    "key_evidence_ids": [
+      "con_3_49672932",
+      "pro_2_70da8191",
+      "con_1_8f835c63"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.33627555555555555,
+    "total_evidences": 9,
+    "accepted_evidences": 9
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Not Enough Evidence",
+    "correct": false
+  }
+}

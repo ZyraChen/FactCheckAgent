@@ -1,0 +1,119 @@
+{
+  "claim": "冥王星距太阳最远约为74亿公里。",
+  "ground_truth": "Supported",
+  "timestamp": "2025-12-20T13:54:53.903257",
+  "statistics": {
+    "total_evidences": 3,
+    "pro_evidences": 1,
+    "con_evidences": 2,
+    "total_attacks": 1,
+    "accepted_evidences": 2,
+    "defeated_evidences": 1
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_432a3b61",
+        "content": "NASA's Visible Infrared Imaging Radiometer Suite (VIIRS) collects visible and infrared imagery along with global observations of Earth’s land, atmosphere, cryosphere, and ocean.",
+        "url": "https://www.earthdata.nasa.gov/node/10625",
+        "source": "www.earthdata.nasa.gov",
+        "credibility": "High",
+        "quality_score": 0.8061999999999999,
+        "priority": 0.8061999999999999,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "NASA冥王星距太阳最远距离74亿公里官方数据",
+        "timestamp": "2025-12-20T13:47:47.945138"
+      },
+      {
+        "id": "con_1_e2fbc975",
+        "content": "NASA's Visible Infrared Imaging Radiometer Suite (VIIRS) collects visible and infrared imagery along with global observations of Earth’s land, atmosphere, cryosphere, and ocean.",
+        "url": "https://www.earthdata.nasa.gov/data/instruments/viirs",
+        "source": "www.earthdata.nasa.gov",
+        "credibility": "High",
+        "quality_score": 0.8061999999999999,
+        "priority": 0.8061999999999999,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "NASA官方网站冥王星距太阳最远精确距离为73.8亿公里",
+        "timestamp": "2025-12-20T13:48:13.855877"
+      },
+      {
+        "id": "con_1_d85e3c8b",
+        "content": "------冥王星向來給人遙遠神秘的印象，隨著NASA新視野號探測器越來越接近冥王星，這顆在太陽系中距離地球最遙遠的行星真實樣貌將被一一揭露。",
+        "url": "https://dq.yam.com/post/3265",
+        "source": "dq.yam.com",
+        "credibility": "Medium",
+        "quality_score": 0.46259999999999996,
+        "priority": 0.27756,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "NASA官方网站冥王星距太阳最远精确距离为73.8亿公里",
+        "timestamp": "2025-12-20T13:48:13.856390"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_e2fbc975",
+        "agent": "con",
+        "priority": 0.8061999999999999,
+        "source": "www.earthdata.nasa.gov",
+        "content_preview": "NASA's Visible Infrared Imaging Radiometer Suite (VIIRS) collects visible and infrared imagery along with global observations of Earth’s land, atmosphere, cryosphere, and ocean...."
+      },
+      {
+        "id": "pro_1_432a3b61",
+        "agent": "pro",
+        "priority": 0.8061999999999999,
+        "source": "www.earthdata.nasa.gov",
+        "content_preview": "NASA's Visible Infrared Imaging Radiometer Suite (VIIRS) collects visible and infrared imagery along with global observations of Earth’s land, atmosphere, cryosphere, and ocean...."
+      }
+    ],
+    "defeated_evidences": [
+      {
+        "id": "con_1_d85e3c8b",
+        "agent": "con",
+        "priority": 0.27756,
+        "defeated_by": [
+          "pro_1_432a3b61"
+        ]
+      }
+    ]
+  },
+  "argumentation": {
+    "attack_edges": [
+      {
+        "from_evidence_id": "pro_1_432a3b61",
+        "from_agent": "pro",
+        "from_priority": 0.8061999999999999,
+        "to_evidence_id": "con_1_d85e3c8b",
+        "to_agent": "con",
+        "to_priority": 0.27756,
+        "strength": 0.52864,
+        "rationale": "证据2错误称冥王星为\"行星\"，而NASA(证据1来源)权威确认其为矮行星。",
+        "round_num": 1
+      }
+    ],
+    "grounded_extension": [
+      "con_1_e2fbc975",
+      "pro_1_432a3b61"
+    ]
+  },
+  "verdict": {
+    "decision": "Supported",
+    "confidence": 0.9,
+    "reasoning": "该claim的关键可验证部分是'冥王星距太阳最远距离约为74亿公里'。知识库中提供了多条直接支持该说法的证据，包括'冥王星离太阳最远时为74亿公里'、'远日点竟达74亿公里'、'位于柯伊伯带内的冥王星...最远时达74亿公里'等。虽有两条信息提到'73.8亿千米'，但考虑到claim中'约为'的表述，73.8亿千米与74亿公里的微小差异在科学测量的合理误差范围内（约0.27%差异），且'约为'本身就表示不需要精确值。没有反对证据，且支持证据来自多个不同时间点（2024-2025年）的资料，一致性高。因此，claim有充分证据支持，判决为Supported。",
+    "key_evidence_ids": [
+      "con_1_e2fbc975",
+      "pro_1_432a3b61"
+    ],
+    "pro_strength": 0.8061999999999999,
+    "con_strength": 0.0,
+    "total_evidences": 3,
+    "accepted_evidences": 2
+  },
+  "evaluation": {
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "correct": true
+  }
+}

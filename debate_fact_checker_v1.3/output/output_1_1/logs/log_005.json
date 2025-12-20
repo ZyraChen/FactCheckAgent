@@ -1,0 +1,107 @@
+{
+  "claim": "2025奥斯卡最佳动画长片奖得主是《你想活出怎样的人生》。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T14:38:23.377979",
+  "statistics": {
+    "total_evidences": 3,
+    "pro_evidences": 1,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 3,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_2_3bc67687",
+        "content": "《你想活出怎样的人生》获得2024年第96届奥斯卡最佳动画长片奖。      这是继2003年，宫崎骏凭借《千与千寻》获得奥斯卡最佳动画长片后，第二次获得该奖项。      《你想活出怎样的人生》中....",
+        "url": "https://news.qq.com/rain/a/20240311A010RY00",
+        "source": "news.qq.com",
+        "credibility": "Medium",
+        "quality_score": 0.4818,
+        "priority": 0.28908,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "美国电影艺术与科学学院2025年奥斯卡获奖名单最佳动画长片你想活出怎样的人生",
+        "timestamp": "2025-12-20T14:31:40.580691"
+      },
+      {
+        "id": "con_2_ca9dda54",
+        "content": "在2025年奥斯卡获奖名单中，这部拉脱维亚影片击败好莱坞两部重磅作品，荣获最佳动画长片奖。影片故事设定在洪水淹没的世界，小猫登上帆船开启冒险 ...",
+        "url": "https://finance.sina.com.cn/tech/roll/2025-03-08/doc-inenxkpi4848864.shtml",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4644,
+        "priority": 0.27864,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "奥斯卡官方获奖名单最佳动画长片猫猫的奇幻漂流",
+        "timestamp": "2025-12-20T14:32:06.944968"
+      },
+      {
+        "id": "con_3_96af7937",
+        "content": "由拉脫維亞導演金茲‧齊巴洛迪斯製作的動畫片《喵的奇幻漂流》在安妮獎上雖然敗給夢工廠的《荒野機器人》，但2日晚上，該片意外斬獲奧斯卡最佳動畫片獎。金茲說：我希望你們能為獨立動畫電影製作人打開大門。",
+        "url": "https://www.epochtimes.com/b5/25/3/3/n14449481.htm",
+        "source": "www.epochtimes.com",
+        "credibility": "Medium",
+        "quality_score": 0.47819999999999996,
+        "priority": 0.28691999999999995,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "年第97届奥斯卡最佳动画长片获奖名单猫猫的奇幻漂流官方确认",
+        "timestamp": "2025-12-20T14:35:34.434571"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_3_96af7937",
+        "agent": "con",
+        "priority": 0.28691999999999995,
+        "source": "www.epochtimes.com",
+        "content_preview": "由拉脫維亞導演金茲‧齊巴洛迪斯製作的動畫片《喵的奇幻漂流》在安妮獎上雖然敗給夢工廠的《荒野機器人》，但2日晚上，該片意外斬獲奧斯卡最佳動畫片獎。金茲說：我希望你們能為獨立動畫電影製作人打開大門。..."
+      },
+      {
+        "id": "pro_2_3bc67687",
+        "agent": "pro",
+        "priority": 0.28908,
+        "source": "news.qq.com",
+        "content_preview": "《你想活出怎样的人生》获得2024年第96届奥斯卡最佳动画长片奖。      这是继2003年，宫崎骏凭借《千与千寻》获得奥斯卡最佳动画长片后，第二次获得该奖项。      《你想活出怎样的人生》中......."
+      },
+      {
+        "id": "con_2_ca9dda54",
+        "agent": "con",
+        "priority": 0.27864,
+        "source": "finance.sina.com.cn",
+        "content_preview": "在2025年奥斯卡获奖名单中，这部拉脱维亚影片击败好莱坞两部重磅作品，荣获最佳动画长片奖。影片故事设定在洪水淹没的世界，小猫登上帆船开启冒险 ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_3_96af7937",
+      "pro_2_3bc67687",
+      "con_2_ca9dda54"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "Claim声称2025年奥斯卡最佳动画长片奖得主是《你想活出怎样的人生》，但所有可靠证据均表明该片实际获得的是2024年第96届奥斯卡奖。知识库中多条记录(2024年3月11日资料)一致确认颁奖时间为2024年3月10日，且明确列出第96届获奖作品为该片。同时，知识库中的奥斯卡获奖名单清楚显示第97届(对应2025年)获奖作品是《猫猫的奇幻漂流》。反对证据2(news.qq.com)直接指出\"《你想活出怎样的人生》获得2024年第96届奥斯卡最佳动画长片奖\"，而反对证据1和3确认2025年获奖作品为拉脱维亚影片《喵的奇幻漂流》。这些证据形成完整证据链，明确证明claim将两届奥斯卡奖项年份混淆，核心事实错误。",
+    "key_evidence_ids": [
+      "con_3_96af7937",
+      "pro_2_3bc67687",
+      "con_2_ca9dda54"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.28487999999999997,
+    "total_evidences": 3,
+    "accepted_evidences": 3
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

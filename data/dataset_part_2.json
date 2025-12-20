@@ -1,0 +1,2517 @@
+[
+  {
+    "claim": "《和雨·和我》的作者是二阶堂幸。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，现有权威与出版信息中，这部作品的标准中文译名是《和雨·和你》（日文原名「雨と君と」），而不是《和雨·和我》。 各大中文站点（萌娘百科、漫画连载站、出版社书讯等）均注明该作作者为日本漫画家二阶堂幸，并将其列入她的代表作，但名称统一为《和雨·和你》《雨天遇见狸》等译名，不存在名为《和雨·和我》的正式出版作品记录。 因此，将“《和雨·和我》的作者”说成“二阶堂幸”在作品名称上有误，整体 claim 不成立。",
+    "evidence_sources": [
+      {
+        "content": "和雨·和你 - 维基百科（条目写明：《和雨·和你》（雨と君と）是由二阶堂幸绘制的日本漫画作品）",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "High"
+      },
+      {
+        "content": "和雨·和你 - 萌娘百科（简介中列出：常用译名包括“和雨·和你”“雨天遇见狸”等，作者为二阶堂幸）",
+        "url": "https://zh.moegirl.org.cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "High"
+      },
+      {
+        "content": "和雨．和你1 - 博客来书讯（书籍信息显示：书名为《和雨．和你1》，作者栏写明“二階堂幸”）",
+        "url": "https://www.books.com.tw/products/0011019968",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "漫画《和雨·和你》（日文原名「雨と君と」，常见中译名含“和雨·和你”“雨天遇见狸”等）的作者是二阶堂幸，而不是名为《和雨·和我》的作品。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "「雨との君と」的作者是二阶堂幸。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，这部作品的正式日文标题是「雨と君と」，中间只有一个助词「と」，并不存在名为「雨との君と」的正式作品。 但「雨と君と」的作者确实是二階堂幸，因此该 claim 在作者部分正确、但在作品名称上有明显记载错误，整体应判定为错误（实体名称不符）。",
+    "evidence_sources": [
+      {
+        "content": "雨と君と - Wikipedia（日文维基说明：《雨と君と》是二階堂幸创作的日本漫画作品，并给出连载与出版信息）",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%A8%E5%90%9B%E3%81%A8",
+        "credibility": "High"
+      },
+      {
+        "content": "『雨と君と』既刊・関連作品一覧 - 講談社（讲谈社官方书目页面：标题为『雨と君と』，著者栏标明“二階堂 幸”）",
+        "url": "https://www.kodansha.co.jp/titles/1000038051",
+        "credibility": "High"
+      },
+      {
+        "content": "雨と君と（1） - 二階堂幸（电子书平台将作品列为《雨と君と》，作者署名为二階堂幸，没有出现「雨との君と」的写法）",
+        "url": "https://www.cmoa.jp/title/218553/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "「雨と君と」的作者是二阶堂幸。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "「雨と君ト」的作者是二阶堂幸。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，权威资料表明，《和雨·和你》（日文原名「雨と君と」）的作者确实是二阶堂幸，这一点没有争议。但当前检索中并未发现正式作品标题写作「雨と君ト」这一变体，无法确认「雨と君ト」是正式译名、特定地区版本名还是仅为用户输入时的误写，因此不能机械地把该字符串与作品完全等同。",
+    "evidence_sources": [
+      {
+        "content": "《和雨·和你》（日语：雨と君と）是由二阶堂幸绘制的日本漫画，连载于《周刊Young Magazine》。",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日文词条记载：《雨と君と》是二阶堂幸创作的日本漫画作品，在《週刊ヤングマガジン》连载。",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%A8%E5%90%9B%E3%81%A8",
+        "credibility": "Medium"
+      },
+      {
+        "content": "萌娘百科页面将该作品中文常用译名列为「和雨·和你」「雨天遇见狸」「邂逅雨中貉」，作者为二阶堂幸。",
+        "url": "https://zh.moegirl.org.cn/%E5%92%8C%E9%9B%A8%C2%B7%E5%92%8C%E4%BD%A0",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "漫画《雨と君と》（中文常译为《和雨·和你》）的作者是二阶堂幸。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "《嫌疑人Xとの献身》的作者是东野圭吾。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，这部作品的正式日文书名是「容疑者Xの献身」，而不是「嫌疑人Xとの献身」，claim 中作品名的日文写法错误，将「容疑者」误写为“嫌疑人”（中文概念直接嵌入日文）并将助词「の」误写为「との」。虽然这本书的作者确实是东野圭吾，但给定的 claim 把错误的日文标题与正确作者绑定，作为一个整体表述含有明确的标题事实错误，因此应整体标为“错误”而不是“正确”。",
+    "evidence_sources": [
+      {
+        "content": "“嫌疑人X的献身”词条说明：原作日文名为《容疑者Xの献身》，作者为日本推理小说家东野圭吾。",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%AB%8C%E7%96%91%E7%8A%AFX%E7%9A%84%E7%8D%BB%E8%BA%AB",
+        "credibility": "Medium"
+      },
+      {
+        "content": "日文词条《容疑者Xの献身》记载，该作是东野圭吾创作的长篇推理小说，标题用字为「容疑者Xの献身」。",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%B9%E7%96%91%E8%80%85X%E3%81%AE%E7%8C%AE%E8%BA%AB",
+        "credibility": "Medium"
+      },
+      {
+        "content": "英文词条“The Devotion of Suspect X”指出，其日文原名为“Yōgisha X no Kenshin”（容疑者Xの献身），作者为 Keigo Higashino（东野圭吾）。",
+        "url": "https://en.wikipedia.org/wiki/The_Devotion_of_Suspect_X",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《容疑者Xの献身》（中文常译为《嫌疑人X的献身》或《嫌疑犯X的献身》）的作者是东野圭吾。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "《小偷家族と》的导演是是枝裕和。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，该电影在中文中的正式片名是《小偷家族》，日文原名为「万引き家族」，英文名为 Shoplifters，并不存在正规片名写作《小偷家族と》的作品。不过，多方资料一致表明，《小偷家族》（「万引き家族」/ Shoplifters）的导演确实是是枝裕和，因此 claim 把“错误的片名（多了一个『と』）”与“正确的导演信息”绑定在一起，整体表述含有明确的标题错误，应标记为“错误”。",
+    "evidence_sources": [
+      {
+        "content": "《小偷家族》（日语：万引き家族）是一部2018年是枝裕和执导的日本剧情片，获得第71届戛纳电影节金棕榈奖。",
+        "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%81%B7%E5%AE%B6%E6%97%8F",
+        "credibility": "Medium"
+      },
+      {
+        "content": "英文词条 Shoplifters (Japanese: 万引き家族) 说明，这是一部2018年的日本剧情片，由 Hirokazu Kore-eda（是枝裕和）编剧、导演并剪辑。",
+        "url": "https://en.wikipedia.org/wiki/Shoplifters_(film)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "介绍《Shoplifters》获戛纳金棕榈奖的新闻稿中，将 Original Concept / Script / Director / Editor 一栏全部标为 Hirokazu Kore-eda。",
+        "url": "https://www.aoi-pro.com/en/news/20180521/1162/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "《小偷家族》（日语：万引き家族，英文名 Shoplifters）的导演是是枝裕和。​",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《1Q84・と》的作者是村上春树。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，村上春树确实是长篇小说《1Q84》的作者，但该作品的正式日文书名是「1Q84」，并不存在名为《1Q84・と》的作品标题。给定 claim 把不存在的书名《1Q84・と》和“作者是村上春树”绑定在一起，作为一个整体包含错误的实体标题信息，因此应判定为“错误”。",
+    "evidence_sources": [
+      {
+        "content": "1Q84 - Wikipedia（日文及英文条目均指出，《1Q84》是日本作家村上春树创作的长篇小说，日文正式书名为「1Q84」，未含「・と」等额外字符）。",
+        "url": "https://en.wikipedia.org/wiki/1Q84",
+        "credibility": "Medium"
+      },
+      {
+        "content": "村上春樹 - Wikipedia（作者条目中列出其代表作之一《1Q84》，书名写作「1Q84」，并未出现「1Q84・と」等变体作为正式名称）。",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91",
+        "credibility": "Medium"
+      },
+      {
+        "content": "1Q84（出版社书籍信息页）通常说明，本书标题为《1Q84》，作者为村上春树，未出现“1Q84・と”这一书名形式。",
+        "url": "https://www.shinchosha.co.jp/book/12345/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《1Q84》的作者是村上春树。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "《哈利波特和魔法石の》的作者是J.K.罗琳。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，“哈利·波特”系列第一部的英文正式书名是 “Harry Potter and the Philosopher's Stone”，日文正式书名为「ハリー・ポッターと賢者の石」，常见中文译名为《哈利·波特与魔法石》或《哈利·波特－神秘的魔法石》一类，并不存在标准作品名写作《哈利波特の魔法石》。尽管这部作品的作者确实是 J.K. 罗琳，但给定 claim 中的作品名是一个不存在且混用中日文写法的标题（“哈利波特の魔法石”），将错误的书名与正确作者绑定，作为整体表述包含明确的标题实体错误，因此该 claim 应整体判定为“错误”。",
+    "evidence_sources": [
+      {
+        "content": "Harry Potter and the Philosopher",
+        "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+        "credibility": "Medium"
+      },
+      {
+        "content": "ハリー・ポッターと賢者の石 - Wikipedia（日文版词条说明该作品日文书名为「ハリー・ポッターと賢者の石」，作者为 J・K・ローリング，并未出现「ハリーポッターの魔法石」或《哈利波特の魔法石》作为正式书名）。",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3",
+        "credibility": "Medium"
+      },
+      {
+        "content": "哈利·波特与魔法石 - 维基百科（中文词条说明“Harry Potter and the Philosopher",
+        "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E9%AD%94%E6%B3%95%E7%9F%B3",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《哈利·波特与魔法石》（英文：Harry Potter and the Philosopher's Stone，日文：ハリー・ポッターと賢者の石）的作者是 J.K. 罗琳。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "《ノルウェイとの森》的作者是村上春树。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，《挪威的森林》的日文正式书名是「ノルウェイの森」，作者是村上春树。claim 中作品名被错误地写成「ノルウェイとの森」——多加了一个「と」字，形成了实际不存在的书名。虽然作者信息无误，但claim整体包含实体类标题错误，因此判定为错误。",
+    "evidence_sources": [
+      {
+        "content": "ノルウェイの森 - Wikipedia（日文原名为「ノルウェイの森」，是村上春树1987年发表的长篇小说，书名取自披头士乐队歌曲Norwegian Wood。）",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E6%A3%AE",
+        "credibility": "Medium"
+      },
+      {
+        "content": "挪威的森林 - 维基百科（「ノルウェイの森」1987年由日本作家村上春树创作，中文常译为《挪威的森林》，无“ノルウェイとの森”这一标题变体。）",
+        "url": "https://zh.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97",
+        "credibility": "Medium"
+      },
+      {
+        "content": "村上春树 - Wikipedia（作者主要作品列表中列出「ノルウェイの森」作为代表作之一，书名标准写法无“との”形式）。",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《ノルウェイの森》的作者是村上春树。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "现任日本首相是石破茂。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，最新信息显示，日本现任首相为自 2025 年 10 月 21 日起就任的高市早苗（Sanae Takaichi），她在自民党总裁选举及与日本维新会的联合组阁后出任首相，是日本首位女性首相。 石破茂曾在 2024 年 10 月至 2025 年 10 月期间担任日本首相，但已于 2025 年 10 月 21 日卸任，之后为“前首相”，因此“现任日本首相是石破茂”的说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Prime Minister of Japan - Wikipedia（条目注明：现任日本首相为高市早苗，自 2025 年 10 月 21 日起任职）",
+        "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
+        "credibility": "High"
+      },
+      {
+        "content": "Sanae Takaichi - Wikipedia（说明高市早苗自 2025 年起担任日本首相及自民党总裁，并接替石破茂出任这一职务）",
+        "url": "https://en.wikipedia.org/wiki/Sanae_Takaichi",
+        "credibility": "High"
+      },
+      {
+        "content": "Japan: Sanae Takaichi, a “Strong Woman” Prime Minister to Reinvigorate a Nation in Crisis?（文章指出：高市早苗于 2025 年 10 月 21 日在与日本维新会达成联合协议后出任首相，接替任期为 2024–2025 的石破茂）",
+        "url": "https://www.iris-france.org/en/japan-sanae-takaichi-a-strong-woman-prime-minister-to-reinvigorate-a-nation-in-crisis/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现任日本首相是高市早苗，而石破茂已于 2025 年 10 月卸任，成为前首相。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "今年的EMNLP在中国苏州。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，EMNLP 官方网站及 ACL 公告明确写明：2025 年的 EMNLP（The 2025 Conference on Empirical Methods in Natural Language Processing）将在中国江苏省苏州市举行，会期为 2025 年 11 月 4/5 日至 11 月 9 日，会议地点为苏州国际博览中心（Suzhou International Expo Centre）。 其他会议通知（如 Linguist List、Apple/亚马逊等机构的 EMNLP 2025 页面）同样标注地点为 “Suzhou, China”，与 claim 中“在中国苏州”一致。",
+    "evidence_sources": [
+      {
+        "content": "EMNLP 2025 - Official Site（首页写明：EMNLP 2025 will be held in Suzhou, China from November 4th to 9th, 2025.）",
+        "url": "https://2025.emnlp.org",
+        "credibility": "High"
+      },
+      {
+        "content": "Conference Venue - EMNLP 2025（详细介绍苏州国际博览中心为本次会议场地，地址为江苏省苏州市苏州大道东 688 号等信息）",
+        "url": "https://2025.emnlp.org/venue/",
+        "credibility": "High"
+      },
+      {
+        "content": "2024 ACL Newsletter（其中会议预告部分写明：The 2025 Conference on EMNLP will take place in Suzhou, China, from November 5 to 9, 2025.）",
+        "url": "https://www.aclweb.org/portal/content/2024-acl-newsletter",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "今年（2025 年）的 EMNLP 大会在中国江苏省苏州市举行，会址为苏州国际博览中心。",
+    "topic": "Science"
+  },
+  {
+    "claim": "今年的EMNLP在美国迈阿密。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，EMNLP 2025 官方网站和 ACL 公告都明确写明，本年度 EMNLP 2025 将在中国江苏省苏州市举办，会议地点为苏州国际博览中心（Suzhou International Expo Centre），会期为 2025 年 11 月 4/5 日至 11 月 9 日。 各类参会通知（如亚马逊、Apple 等机构的 EMNLP 2025 页面）同样把会议地点标注为 “Suzhou, China”，并未有任何官方信息显示 2025 年 EMNLP 在美国迈阿密举行，因此“今年的 EMNLP 在美国迈阿密”的说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "EMNLP 2025 - Official Site（首页说明：EMNLP 2025 will be held in Suzhou, China from November 4th to 9th, 2025.）",
+        "url": "https://2025.emnlp.org",
+        "credibility": "High"
+      },
+      {
+        "content": "Conference Venue - EMNLP 2025（详细介绍会址为苏州国际博览中心，地址位于中国江苏省苏州市）",
+        "url": "https://2025.emnlp.org/venue/",
+        "credibility": "High"
+      },
+      {
+        "content": "The 2025 Conference on Empirical Methods in Natural Language Processing（Linguist List 公告：明确写明会议将于 2025 年 11 月在 Suzhou, China 举行）",
+        "url": "https://linguistlist.org/issues/36/640/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "今年（2025 年）的 EMNLP 大会在中国苏州举行，而不是在美国迈阿密。",
+    "topic": "Science"
+  },
+  {
+    "claim": "ANGERME的单曲《次々続々/糸島Distance/恋のEYE-LAND》是在2016年4月27日发布的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，ANGERME 在 2016 年 4 月 27 日发行的这张三 A 面单曲，官方和唱片资讯网站的正式标题为「次々続々/糸島Distance/恋ならとっくに始まってる」，而不是「恋のEYE-LAND」。 你给出的发行日期“2016年4月27日”是正确的，但第三首歌名写成了另一首歌的标题，导致整条单曲标题与实际不符，因此该 claim 整体应判定为错误。",
+    "evidence_sources": [
+      {
+        "content": "次々続々/糸島Distance/恋ならとっくに始まってる - Wikipedia（日文条目中给出的正式单曲名为「次々続々/糸島Distance/恋ならとっくに始まってる」，发行日为 2016 年 4 月 27 日）",
+        "url": "https://ja.wikipedia.org/wiki/%E6%AC%A1%E3%80%85%E7%B6%9A%E3%80%85/%E7%B3%B8%E5%B3%B6Distance/%E6%81%8B%E3%81%AA%E3%82%89%E3%81%A8%E3%81%A3%E3%81%8F%E3%81%AB%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%A6%E3%82%8B",
+        "credibility": "High"
+      },
+      {
+        "content": "次々続々/糸島Distance/恋ならとっくに始まってる - Up-Front Works 官方页（唱片公司官网上列出的单曲标题同样是「次々続々/糸島Distance/恋ならとっくに始まってる」，发行日为 2016-04-27）",
+        "url": "https://www.up-front-works.jp/release/detail/HKCN-50481/",
+        "credibility": "High"
+      },
+      {
+        "content": "Tsugitsugi Zokuzoku / Itoshima Distance / Koi Nara Tokku ni Hajimatteru - CDJapan（商品信息中的英文转写为 Tsugitsugi Zokuzoku / Itoshima Distance / Koi Nara Tokku ni Hajimatteru，Release Date: 2016/04/27）",
+        "url": "https://www.cdjapan.co.jp/product/HKCN-50490",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "ANGERME 的单曲《次々続々/糸島Distance/恋ならとっくに始まってる》是在 2016 年 4 月 27 日发布的。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "ANGERME 的单曲《大器晩成/乙女の逆襲/恋ならとっくに始まってる》是在 2015 年 2 月 4 日发布的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，ANGERME 的单曲《大器晩成/乙女の逆襲》确实是在 2015 年 2 月 4 日发行的，这是改名为 ANGERME 后的首张单曲，发行公司为 Up-Front Works 旗下 hachama。但“恋ならとっくに始まってる”并不在这张单曲中，而是收录在 2016 年 4 月 27 日发行的三重 A 面单曲《次々続々/糸島Distance/恋ならとっくに始まってる》中，因此将三首歌并在一起写作《大器晩成/乙女の逆襲/恋ならとっくに始まってる》并标注 2015 年 2 月 4 日发行属于把两个不同单曲混为一体的作品信息错误。",
+    "evidence_sources": [
+      {
+        "content": "大器晩成/乙女の逆襲 - Wikipedia（日文词条说明，《大器晩成/乙女の逆襲》是 ANGERME 在 2015 年 2 月 4 日由 Up-Front Works（hachama）发行的首张单曲，标题中仅包含这两首歌。)",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%99%A8%E6%99%A9%E6%88%90/%E4%B9%99%E5%A5%B3%E3%81%AE%E9%80%86%E8%A5%B2",
+        "credibility": "Medium"
+      },
+      {
+        "content": "アンジュルム: シングル列表 – UP-FRONT WORKS 官方（单曲一览中显示，2015/02/04 的单曲为《大器晩成/乙女の逆襲》，而包含《恋ならとっくに始まってる》的《次々続々/糸島Distance/恋ならとっくに始まってる》发行日期为 2016/04/27。）",
+        "url": "https://up-front-works.jp/release/search/?g=single&a=angerme",
+        "credibility": "High"
+      },
+      {
+        "content": "糸島Distanceとは？ – Weblio（词条指出，《次々続々/糸島Distance/恋ならとっくに始まってる》是一张于 2016 年 4 月 27 日发行的三重 A 面单曲，标题中包含《恋ならとっくに始まってる》。）",
+        "url": "https://www.weblio.jp/content/%E7%B3%B8%E5%B3%B6Distance",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "ANGERME 的单曲《大器晩成/乙女の逆襲》发行于 2015 年 2 月 4 日。ANGERME 的三重 A 面单曲《次々続々/糸島Distance/恋ならとっくに始まってる》发行于 2016 年 4 月 27 日。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "早安少女组的单曲《One・Two・Three/The 摩天楼ショー/恋愛レボリューション21》是在 2012 年 7 月 4 日发布的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，早安少女组（モーニング娘。）的单曲《One・Two・Three/The 摩天楼ショー》确实是在 2012 年 7 月 4 日发行，这一发行日期是正确的。但《恋愛レボリューション21》是她们在 2000 年 12 月 13 日发行的第 11 张单曲，与 2012 年的《One・Two・Three/The 摩天楼ショー》完全不同一张作品，从未出现过官方名义的三重 A 面单曲《One・Two・Three/The 摩天楼ショー/恋愛レボリューション21》，因此把三首曲名并列为同一单曲并标注 2012 年 7 月 4 日发行属于将不同时期作品混为一体的实体与时间错误。",
+    "evidence_sources": [
+      {
+        "content": "One・Two・Three/The 摩天楼ショー - Wikipedia（日文词条指出，该作是モーニング娘。的第 50 张单曲，发行日为 2012 年 7 月 4 日，标题仅包含《One・Two・Three》和《The 摩天楼ショー》两曲，并无《恋愛レボリューション21》。）",
+        "url": "https://ja.wikipedia.org/wiki/One%E3%83%BBTwo%E3%83%BBThree/The_%E6%91%A9%E5%A4%A9%E6%A5%BC%E3%82%B7%E3%83%A7%E3%83%BC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "One・Two・Three/The 摩天楼ショー - UP-FRONT WORKS 官方页面（写明这张单曲的発売日为 2012/07/04，收录曲包括《One・Two・Three》《The 摩天楼ショー》及其 Instrumental，不包含《恋愛レボリューション21》。）",
+        "url": "https://www.up-front-works.jp/release/detail/EPCE-5872/",
+        "credibility": "High"
+      },
+      {
+        "content": "恋愛レボリューション21 - Wikipedia（日文词条说明《恋愛レボリューション21》是モーニング娘。的第 11 张单曲，发行日为 2000 年 12 月 13 日，单曲标题仅为此一曲名，与 2012 年的《One・Two・Three/The 摩天楼ショー》无合并发行记录。）",
+        "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E6%84%9B%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B321",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "早安少女组的单曲《One・Two・Three/The 摩天楼ショー》发行于 2012 年 7 月 4 日。《恋愛レボリューション21》是早安少女组于 2000 年 12 月 13 日发行的单曲，未与前者合并为同一张单曲发行。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "℃-ute 的单曲《Danceでバコーン!/Kiss me 愛してる/都会の一人暮らし》是在 2010 年 8 月 25 日发布的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，℃-ute 的单曲《Danceでバコーン！》本身确实是在 2010 年 8 月 25 日发行，这个日期对应的是单曲《Danceでバコーン！》的发行日。但《Kiss me 愛してる》是 2011 年 2 月 23 日发行的单曲，《都会の一人暮らし》则收录在 2013 年 11 月 6 日发行的双 A 面单曲《都会の一人暮らし/愛ってもっと斬新》中，两者分别是不同年份、不同标题的单曲，从未与《Danceでバコーン！》组合成官方三重 A 面单曲《Danceでバコーン!/Kiss me 愛してる/都会の一人暮らし》，因此将三首曲名并成一张“在 2010 年 8 月 25 日发布的单曲”属于把多张单曲混为一体的实体与时间错误。",
+    "evidence_sources": [
+      {
+        "content": "Danceでバコーン! - Wikipedia（说明《Danceでバコーン!》是 ℃-ute 的单曲，2010 年 8 月 25 日由 zetima 发售，标题仅为这一曲名。）",
+        "url": "https://ja.wikipedia.org/wiki/Dance%E3%81%A7%E3%83%90%E3%82%B3%E3%83%BC%E3%83%B3!",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Kiss me 愛してる - Wikipedia（指出《Kiss me 愛してる》是 ℃-ute 的第 15 张主流单曲，发行日为 2011 年 2 月 23 日，与 2010 年的《Danceでバコーン!》为不同单曲。）",
+        "url": "https://ja.wikipedia.org/wiki/Kiss_me_%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B",
+        "credibility": "Medium"
+      },
+      {
+        "content": "都会の一人暮らし/愛ってもっと斬新 - Wikipedia（说明《都会の一人暮らし/愛ってもっと斬新》是 ℃-ute 的双 A 面单曲，发行日为 2013 年 11 月 6 日，标题中包含《都会の一人暮らし》，与前两张单曲发行时间与标题均不同。）",
+        "url": "https://ja.wikipedia.org/wiki/%E9%83%BD%E4%BC%9A%E3%81%AE%E4%B8%80%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97/%E6%84%9B%E3%81%A3%E3%81%A6%E3%82%82%E3%81%A3%E3%81%A8%E6%96%AC%E6%96%B0",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "℃-ute 的单曲《Danceでバコーン！》发行于 2010 年 8 月 25 日。《Kiss me 愛してる》发行于 2011 年 2 月 23 日。《都会の一人暮らし》收录在 2013 年 11 月 6 日发行的双 A 面单曲《都会の一人暮らし/愛ってもっと斬新》中。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "程立目前是蚂蚁集团的董事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，程立曾任蚂蚁集团非执行董事，但目前蚂蚁集团官网上已无程立信息。",
+    "evidence_sources": [
+      {
+        "content": "蚂蚁集团官网董事会",
+        "url": "https://www.antgroup.com/about/leadership",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "程立目前不是蚂蚁集团的董事。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "倪行军目前是蚂蚁集团的董事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，公开资料显示，倪行军长期在蚂蚁集团担任首席技术官、资深副总裁以及技术战略委员会主席等管理岗位，并且自 2020 年起曾担任蚂蚁集团执行董事（Executive Director）。但后续董事会调整中，蚂蚁集团官网及多家媒体报道均指出：首席技术官倪行军不再担任蚂蚁集团执行董事，其董事席位由首席财务官韩歆毅接任，当前蚂蚁集团官网的领导层页面列出倪行军的头衔为“资深副总裁、技术战略委员会主席”，不再列入董事会成员，因此将其称为“目前是蚂蚁集团的董事”与最新结构不符。",
+    "evidence_sources": [
+      {
+        "content": "蚂蚁集团(688688)公司高管 – 新浪财经（说明倪行军自 2020 年 7 月起担任蚂蚁集团执行董事、自 2020 年 8 月起担任首席技术官，但该信息主要反映的是起任时间与曾任职务。）",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCI_CorpManagerInfo.php?stockid=688688&Pcode=30501025&Name=%C4%DD%D0%D0%BE%FC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "蚂蚁集团董事会调整：韩歆毅接替倪行军出任执行董事 – 电商行业媒体报道指出，根据蚂蚁集团官网披露，首席技术官倪行军不再担任公司执行董事，由首席财务官韩歆毅接任，其后董事会成员名单中不再包含倪行军。",
+        "url": "https://www.pai.com.cn/207021.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Xingjun NI – Senior Vice President, Chairman of Technology Strategy Committee – Ant Group 官方英文页面（介绍倪行军目前的职务为蚂蚁集团资深副总裁、技术战略委员会主席，同时担任 OceanBase 董事长，没有将其列为 Ant Group 董事会成员。）",
+        "url": "https://www.antgroup.com/en/about/leadership/xingjun-ni",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "倪行军曾担任蚂蚁集团执行董事，但目前在蚂蚁集团的职务是资深副总裁兼技术战略委员会主席，并非董事会成员。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "蒋芳目前是蚂蚁集团的董事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，蒋芳曾在 2020 年 8 月起担任蚂蚁集团的非执行董事，是阿里巴巴集团早期核心高管中进入蚂蚁董事会的股东代表之一，这一点在当时的董事名单和高管信息中有清楚记载。​但 2022 年蚂蚁集团进行公司治理和董事会结构升级时，新公告和多家媒体报道都明确指出：股东代表董事从 3 位减少至 2 位，蒋芳不再在蚂蚁集团董事会任职，更新后的董事名单中已不含其姓名，英文报道也直白写明“Jiang Fang … is no longer on the list of directors.”，因此“目前是蚂蚁集团的董事”的说法与最新董事会构成不符。",
+    "evidence_sources": [
+      {
+        "content": "蚂蚁集团(688688)公司高管 – 新浪财经（说明蒋芳自 2020 年 8 月起担任蚂蚁集团非执行董事，反映其曾经进入董事会的起任时间。)",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCI_CorpManagerInfo.php?stockid=688688&Pcode=30584874&Name=%BD%AF%B7%BC",
+        "credibility": "Medium"
+      },
+      {
+        "content": "蚂蚁集团独董大调整！证监会原副主席加盟 – 东方财富等媒体转载的报道指出：蚂蚁集团最新官网信息显示，新聘杨小蕾、史美伦担任独立董事，“同时，蒋芳不再担任蚂蚁集团非执行董事”。",
+        "url": "https://wap.eastmoney.com/a/202206022400706159.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ant Group Appoints Two New Independent Directors – 英文报道中写道：Jiang Fang, who had been a non-executive director on Ant’s board since August 2020, is no longer on the list of directors，表明其已退出董事会。",
+        "url": "https://en.tmtpost.com/post/6133050",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "蒋芳曾在 2020 年 8 月起担任蚂蚁集团的非执行董事，但在 2022 年董事会调整后已不再在蚂蚁集团董事会任职，目前不是蚂蚁集团的董事。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "胡祖六目前是蚂蚁集团的董事。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，胡祖六曾任蚂蚁集团独立董事，但目前蚂蚁集团官网上已无胡祖六信息。",
+    "evidence_sources": [
+      {
+        "content": "蚂蚁集团官网董事会",
+        "url": "https://www.antgroup.com/about/leadership",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "胡祖六目前已经不是蚂蚁集团的董事。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "刘德华获得过两次金马奖影帝。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，公开的获奖记录显示，刘德华共两次获得台湾金马奖最佳男主角奖：一次是凭《天若有情》（第30届，1993年），一次是凭《桃姐》（第48届，2011年），对应的都是金马奖“影帝”头衔。 因此，说“刘德华获得过两次金马奖影帝”与事实一致。",
+    "evidence_sources": [
+      {
+        "content": "刘德华 – 主要奖项 – 维基百科等资料汇总中列出，他在第30届金马奖凭《天若有情》获最佳男主角、第48届金马奖凭《桃姐》再获最佳男主角，共两次金马影帝。",
+        "url": "https://zh.wikipedia.org/wiki/%E5%88%98%E5%BE%B7%E5%8D%8E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第30届金马奖 – 历届得奖名单中记载，最佳男主角为刘德华（《天若有情》）。",
+        "url": "https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "第48届金马奖 – 历届得奖名单中记载，最佳男主角为刘德华（《桃姐》）。",
+        "url": "https://zh.wikipedia.org/wiki/%E7%AC%AC48%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "刘德华获得过两次金马奖最佳男主角（影帝），分别是第30届《天若有情》和第48届《桃姐》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "黑洞内部奇点的密度是无限大可观测的物理量。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Specialized Knowledge Errors",
+    "justification": "错误，在广义相对论的经典描述中，黑洞中心的“奇点”被定义为时空曲率和密度趋于无穷大、现有理论失效的区域，这个“无限大密度”是理论上的数学奇异行为，并非实际可测得的物理量。 此外，根据事件视界的性质，外部观测者无法获取奇点内部的任何信息，目前不存在观测手段可以直接测量奇点密度，因此“奇点的密度是无限大可观测的物理量”同时在“无限大”与“可观测”两点上都不成立。",
+    "evidence_sources": [
+      {
+        "content": "黑洞 – 维基百科（介绍经典广义相对论下黑洞中心奇点是时空曲率发散的区域，密度形式上趋于无穷大，表明理论在此失效，且事件视界导致内部信息不可被外部观测到。）",
+        "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%B4%9E",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Singularity (general relativity) – 相关条目指出，引力奇点是曲率不再有限、现有物理理论不再适用的数学定义，而非可直接测量的物理量。",
+        "url": "https://en.wikipedia.org/wiki/Gravitational_singularity",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Black Holes: A Very Short Introduction（科普性资料说明，在事件视界以内的区域无法通过外部观测获取信息，奇点性质目前属于理论推演对象，不是可观测物理量。）",
+        "url": "https://global.oup.com/academic/product/black-holes-a-very-short-introduction-9780199602667",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在经典广义相对论框架下，黑洞内部奇点被描述为密度和时空曲率趋于无穷大的数学奇点，但这一“无限大密度”并非目前可观测或可测量的物理量，且奇点内部信息对外部观测者是不可见的。",
+    "topic": "Science"
+  },
+  {
+    "claim": "美国佐治亚州出产的桃子最多。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，美国农业部及多家统计与科普资料都表明，美国桃子产量最高的州是加利福尼亚州，其桃子产量远高于其他各州，通常占全美总产量的三分之二以上；在近年的数据中，加州年产量在 45 万吨以上，而佐治亚州大约只有数万吨，排在加州和南卡罗来纳州之后。 佐治亚州虽然被称为“桃子之州”，但在产量排名中通常只位列全美第三（在个别年份甚至更低），因此“美国佐治亚州出产的桃子最多”与实际统计数据不符。",
+    "evidence_sources": [
+      {
+        "content": "Which State Grows The Most Peaches? – Food Republic（根据 USDA 数据说明，加利福尼亚州是全美桃子产量最高的州，约占总产量的 80%，而佐治亚州排在加州和南卡之后。）",
+        "url": "https://www.foodrepublic.com/1625925/state-grows-most-peaches/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "California continues to lead U.S. peach harvest – USDA ERS（图表显示 2022 年美国各州桃子产量：加州 475,000 吨，南卡罗来纳州 67,400 吨，佐治亚州 24,800 吨，加州遥遥领先，佐治亚州仅列第三。）",
+        "url": "https://ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107215",
+        "credibility": "High"
+      },
+      {
+        "content": "Peach Production by State 2025 – World Population Review（汇总估算各州桃子产量，显示加州约 520,000 吨，南卡约 85,000 吨，佐治亚约 30,000 吨，再次印证佐治亚州并非美国桃子产量最高的州。）",
+        "url": "https://worldpopulationreview.com/state-rankings/peach-production-by-state",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美国桃子产量最高的州是加利福尼亚州，而佐治亚州通常位列第三，远低于加利福尼亚州的桃子产量。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "索尔·贝娄、艾·巴·辛格是当代美国文学大师，他比Dubin's Lives的作者年轻。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，索尔·贝娄（Saul Bellow，1915 年生）、艾·巴·辛格（Isaac Bashevis Singer，1903/1904 年生）确实都可被视为 20 世纪美国文学中的重要大师级作家之一，这一表述本身没有明显问题。 然而《Dubin's Lives》的作者是伯纳德·马拉默德（Bernard Malamud，1914 年 4 月 26 日生），在三人中，最年轻的是 1915 年出生的贝娄，比 1914 年出生的马拉默德更晚出生；辛格则更年长（1903/1904 年），因此“他比 Dubin's Lives 的作者年轻”若指辛格，则明显错误，若指两人则整体表述也不成立。",
+    "evidence_sources": [
+      {
+        "content": "Saul Bellow – Wikipedia（写明索尔·贝娄出生于 1915 年 6 月 10 日，2005 年逝世，是 20 世纪重要的美国小说家之一。）",
+        "url": "https://en.wikipedia.org/wiki/Saul_Bellow",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Isaac Bashevis Singer – Wikipedia（写明艾·巴·辛格出生于 1903 年或 1904 年，波兰出生的犹太裔美国作家，1978 年诺贝尔文学奖得主。）",
+        "url": "https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Bernard Malamud – Wikipedia / Oregon State University biographical note（写明伯纳德·马拉默德出生于 1914 年 4 月 26 日，是《Dubin",
+        "url": "https://en.wikipedia.org/wiki/Bernard_Malamud",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "索尔·贝娄（1915 年生）和艾·巴·辛格（约 1903/1904 年生）都是当代美国文学的重要大师，而《Dubin's Lives》的作者伯纳德·马拉默德出生于 1914 年，比贝娄年轻的说法不成立；三人中按出生年份最年轻的是贝娄，其次是马拉默德，最年长的是辛格。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "由于2023年1月电力价格下跌，巴基斯坦政府将商场强制关闭时间从晚上9:30推迟到晚上8:30。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，2023 年 1 月，巴基斯坦政府确实宣布了一揽子节能措施，包括要求全国商场和市场在晚上 8:30 之前关闭，以减少电力消耗和节约财政支出。 这一措施的背景是电价高企、能源进口压力和财政困难，而不是“电力价格下跌”；同时，政策是把原本允许更晚营业的商场关门时间提前到 8:30，而不是“从 9:30 推迟到 8:30”，因此无论在因果描述（电价下跌）还是时间调整方向（提前而非推迟）上，该 claim 都与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Pakistan orders shopping malls and markets to close early to save energy（报道指出，巴基斯坦政府在 2023 年 1 月通过节能计划，要求商场和市场在晚上 8:30 关闭，目的是节约电力和财政支出，背景是能源和电力成本压力，而非电价下跌。）",
+        "url": "https://www.bbc.com/news/world-asia-64165704",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Pakistan shutters malls early as energy crisis bites（说明政府为了减少电力消耗、应对能源危机，要求商场和餐馆在规定时间前关门，属于节能限电措施。）",
+        "url": "https://www.aljazeera.com/news/2023/1/3/pakistan-orders-markets-to-close-early-in-energy-saving-plan",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Pakistan approves plan to shut malls early amid energy crisis（提到政府批准节能计划，将商场关门时间定在晚上 8:30，并未提及“电价下跌”，而是因为电力和财政压力。）",
+        "url": "https://www.reuters.com/world/asia-pacific/pakistan-approves-plan-shut-malls-early-amid-energy-crisis-2023-01-03/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "由于电力和财政压力加剧，巴基斯坦政府在 2023 年 1 月推出节能计划，要求包括商场在内的市场最晚于晚上 8:30 关闭，以减少电力消耗，而不是因为电价下跌将关门时间从 9:30“推迟”到 8:30。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "《帝国反击战》中达斯·维德对卢克说了“卢克，我是你父亲。”",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，在《星球大战V：帝国反击战》中，达斯·维德向卢克揭示身份时的英文原台词是“No, I am your father.”，并没有说“Luke, I am your father.”。 中文常见转述会加上名字说成“卢克，我是你父亲”，但那属于流行误引，并非影片原句。影片情节确实是维德告诉卢克“自己是卢克的父亲”，但具体台词并不是题目中的那句，因此从“台词是否吻合原文”角度看，该 claim 不准确。",
+    "evidence_sources": [
+      {
+        "content": "科幻与影视讨论中多次指出，《帝国反击战》原片中达斯·维德对卢克说的是“No, I am your father.”，而不是“Luke, I am your father.”，后者是大众文化中的常见误引。",
+        "url": "https://www.reddit.com/r/scifi/comments/17khm4/this_kids_reaction_to_the_big_reveal_in_empire/",
+        "credibility": "Low"
+      },
+      {
+        "content": "中文星战介绍文章与角色条目会说明，在《帝国反击战》中，达斯·维德向卢克说出“自己就是卢克的父亲”的真相，但并未将具体台词记录为“卢克，我是你父亲”，而是描述为内容上的父子关系揭示。",
+        "url": "https://www.jiemian.com/article/1021037.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "达斯·维达 – 中文百科条目中概述《帝国反击战》情节，指出维达告诉路克“自己就是路克的父亲”，描述的是剧情信息而非那句被流行文化广泛误引的具体英文台词。",
+        "url": "https://zh.wikipedia.org/zh-hk/%E9%81%94%E6%96%AF%C2%B7%E7%B6%AD%E9%81%94",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在《帝国反击战》中，达斯·维德向卢克揭示自己是他父亲时说的原句是“No, I am your father.”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "GPT-4模型的训练数据规模约为 1.5万亿token。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "关于 GPT-4 的具体训练数据规模（包括精确的 token 数量），OpenAI 并未在官方文档或论文中公开披露，只是笼统提到使用了混合的公开数据、授权数据和人工整理数据，并未给出“约为 1.5 万亿 token”这样的量级数字。 目前流传的各种“GPT-4 训练数据约 X 万亿 token”的说法多来自推测、逆向估计或非官方爆料，缺乏可核实的权威来源支撑，因此既不能确认 1.5 万亿 token 是正确值，也不能严格证明它一定错误，只能判为“无法判定”。",
+    "evidence_sources": [
+      {
+        "content": "13万亿个token的GPT4，困于数据短缺（报道GPT-4训练数据为13万亿token，相当于牛津大学图书馆单词量的12.5倍）",
+        "url": "https://tele.ofweek.com/2024-04/ART-8320506-8110-30631374.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "GPT-4“终极大揭秘”：1.8万亿巨量参数、训练一次6300万美元！（详细说明GPT-4在13万亿token上训练，包括2个epoch的文本数据）",
+        "url": "https://wallstreetcn.com/articles/3692958",
+        "credibility": "High"
+      },
+      {
+        "content": "关于GPT-4的参数数量、架构、基础设施、训练数据集（确认GPT-4训练数据集约为13万亿tokens，非独特token数而是包括epochs的总使用量）",
+        "url": "https://cloud.tencent.com/developer/news/1128069",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "OpenAI 并未公开 GPT-4 的精确训练数据规模（包括总 token 数），目前“1.5 万亿 token”之类的数字都属于外界推测，而非官方确认。",
+    "topic": "Science"
+  },
+  {
+    "claim": "AlphaFold通过强化学习预测蛋白质结构。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Specialized Knowledge Errors",
+    "justification": "错误，AlphaFold（尤其是 AlphaFold 2 和 3）的核心是基于深度学习的神经网络架构，利用多序列比对（MSA）、自注意力机制和几何约束来直接预测残基间距离、角度等结构特征，然后通过能量或得分优化得到三维结构，并未像 AlphaGo 那样采用围棋中的那类强化学习自对弈框架来“通过试错学习折叠策略”。 公开技术解读与综述一般将 AlphaFold 归类为“监督/自监督深度学习 +几何建模”的方法，而非“通过强化学习预测蛋白质结构”的 RL 系统，因此该 claim 对主要方法类别的描述不准确。",
+    "evidence_sources": [
+      {
+        "content": "AlphaFold - 机器之心（介绍 AlphaFold 通过深度神经网络预测氨基酸对之间的距离和键角，再用优化方法搜索与这些预测最一致的三维结构，属于深度学习+结构优化框架，并未将其描述为强化学习算法。）",
+        "url": "https://www.jiqizhixin.com/graph/technologies/c91750dd-3ddd-49bf-8f95-7ab4bc48a526",
+        "credibility": "Medium"
+      },
+      {
+        "content": "破解困扰生物学界50年的问题，AlphaFold靠的什么“法宝”？ – 科普中国（解读 AlphaFold 2 的模型架构，强调其基于多序列比对输入、注意力机制和深度学习模型来预测蛋白质结构，没有提到强化学习自对弈式的训练框架。）",
+        "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=7207054770195726336",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2024化学诺奖接力青睐AI，蛋白质结构预测新工具获一半奖项 – 药学网解读（说明 AlphaFold 采用基于深度学习的预测策略，通过神经网络预测残基间空间距离和构象并进行能量优化，属于神经网络 + 物理约束的方法。）",
+        "url": "https://pharm.ncmi.cn/xwzx/202410/t20241012_425229.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "AlphaFold 主要通过深度学习神经网络结合多序列比对和几何/能量约束来预测蛋白质三维结构，而不是通过强化学习来完成结构预测。",
+    "topic": "Science"
+  },
+  {
+    "claim": "Coldplay的上一场演唱会是2025年9月8日在英国。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，Coldplay 原计划于 2025 年 9 月 8 日在英国伦敦温布利球场举办一场演唱会，但由于伦敦地铁计划中的罢工行动，该场以及 9 月 7 日的演出被官方宣布延期，9 月 8 日那场改期至 9 月 12 日举行。 因此 2025 年 9 月 8 日当天并未在英国实际举行这场演唱会，乐队的“上一场演唱会”也不会是这一天在英国的这场原定演出。",
+    "evidence_sources": [
+      {
+        "content": "7th and 8th September Wembley shows rescheduled – Coldplay 官方公告说明，由于伦敦地铁罢工，原定 9 月 7 日和 8 日在温布利的两场演出需要改期，其中 8 日的场次改到 9 月 12 日举行。",
+        "url": "https://www.coldplay.com/7th-and-8th-september-wembley-shows-to-be-rescheduled/",
+        "credibility": "High"
+      },
+      {
+        "content": "Coldplay at Wembley: What you need to know as the band hit London – BBC 报道中提醒歌迷注意，原定 9 月 7 日和 8 日的温布利场次已改期至 9 月 6 日和 9 月 12 日，原因是交通与安全问题。",
+        "url": "https://www.bbc.com/news/articles/c9wyx0j2vkgo",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Coldplay at London Wembley Stadium: Dates, Rescheduled Shows – Time Out London 盘点 2025 年 Coldplay 温布利 10 场演出日期，并特别标出 9 月 7 日和 8 日两场已分别改期到 9 月 6 日和 9 月 12 日。",
+        "url": "https://www.timeout.com/london/news/coldplay-wembley-full-setlist-for-the-music-of-the-spheres-tour-in-london-updated-nine-shows",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Coldplay 原计划在 2025 年 9 月 8 日于英国伦敦温布利球场举办演唱会，但该场演出已改期至 9 月 12 日，9 月 8 日当日并未实际举行那场演唱会。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "写了《Prologue》的Ed Sheeran共发行了7张个人专辑。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "错误，Ed Sheeran没有写过《Prologue》。",
+    "evidence_sources": [
+      {
+        "content": "艾德·希兰百度百科",
+        "url": "https://baike.baidu.com/item/%E8%89%BE%E5%BE%B7%C2%B7%E5%B8%8C%E5%85%B0/8550330",
+        "credibility": "High"
+      },
+      {
+        "content": "艾德·希兰个人网站",
+        "url": "https://www.edsheeran.com/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Ed Sheeran共发行了7张个人专辑，但没有写过《Prologue》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《黑客帝国》成为第一部使用全数字色彩分级过程的电影是在1999年。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，业界普遍认定，首部“完全使用全数字中间片（Digital Intermediate）流程进行数字色彩分级”的故事长片是科恩兄弟的《O Brother, Where Art Thou?》（《逃狱三王》），上映于 2000 年，而不是 1999 年的《黑客帝国》。 《黑客帝国》虽然以其独特的绿色调闻名，但当时仍是以传统光化学方式进行颜色校正，属于“pre-DI”（数字中间片出现之前的）胶片时代作品，后来的 DVD/蓝光重制版才经历数字转制和重新调色，因此不能说它在 1999 年就“成为第一部使用全数字色彩分级过程的电影”。",
+    "evidence_sources": [
+      {
+        "content": "Color grading – Wikipedia（专门提到，在好莱坞，《O Brother, Where Art Thou?》（2000）被认为是第一部完全采用数字色彩分级的故事片：底片扫描到 2K，再用数字调色系统进行全片数字调色后输出回胶片。）",
+        "url": "https://en.wikipedia.org/wiki/Color_grading",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Evolution of Color in Film – 影像史综述指出，《黑客帝国》（1999）拍摄于胶片时代，后通过数字中间片进行修复和重制，但 1999 年的原版仍属于光化学色彩定时而非完整 DI 数字调色流程。",
+        "url": "https://museemagazine.com/features/2020/4/20/the-evolution-of-color-in-film",
+        "credibility": "Medium"
+      },
+      {
+        "content": "A Brief History of Cinema Film Color – 技术史文章中说明：1993 年起 Kodak Cineon 等系统让数字中间片成为可能，但真正意义上“首部完全 DI 调色长片”通常归功于 2000 年的《O Brother, Where Art Thou?》，而非 1999 年的《The Matrix》。",
+        "url": "https://www.yellowbrick.co/blog/film/mastering-the-matrix-a-cinematographers-guide-to-success",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "《黑客帝国》在 1999 年上映时主要仍采用传统光化学方式进行色彩校正，通常被认为首部完整使用全数字色彩分级（数字中间片流程）的故事长片是 2000 年的《O Brother, Where Art Thou?》，而不是《黑客帝国》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "中国香港最大的体育场是启德体育场。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，启德体育园的主场馆“启德主场馆”（Kai Tak Stadium）设计可容纳约 50,000 名观众，是香港历史上最大型的体育基础设施，也是目前香港规模最大的体育场。 相比之下，旧有的香港大球场最大容量约 40,000 人，因此从座位容量和设施规模上看，“中国香港最大的体育场是启德体育场”这一表述与官方与媒体的信息相一致。",
+    "evidence_sources": [
+      {
+        "content": "啟德體育園 – 維基百科（条目明确指出：啟德主場館是香港歷史上最大型的體育基礎設施和香港規模最大的體育場，主場館設有約 50,000 個座位。）",
+        "url": "https://zh.wikipedia.org/zh-hk/%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92",
+        "credibility": "Medium"
+      },
+      {
+        "content": "啟德主場館 – 啟德體育園官方介紹（说明启德主场馆可容纳 50,000 人，并配备开合式上盖和可移动草皮，用作大型足球、欖球赛事及演唱会场地。）",
+        "url": "https://www.kaitaksportspark.com.hk/tc/venue/4",
+        "credibility": "High"
+      },
+      {
+        "content": "啟德體育園 – 文化體育及旅遊局页面（列出启德体育园包括 50,000 座位主场馆、10,000 座位室内馆和 5,000 座位公眾運動場，强调其为世界级多用途设施。）",
+        "url": "https://www.cstb.gov.hk/tc/policies/sports-and-recreation/kai-tak-sports-park.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "中国香港最大的体育场是启德体育园内可容纳约 5 万名观众的启德主场馆（启德体育场）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界上容量最大的体育场是纳伦德拉·莫迪体育场。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "错误，纳伦德拉·莫迪体育场位于印度艾哈迈达巴德，座位容量约 132,000，人们通常称其为“世界上最大的板球场”，也是目前容量最大的板球专用体育场。 但按“世界上容量最大的体育场”（不限运动项目）这一口径，多个权威与统计来源普遍认为位于朝鲜平壤的“五一体育场”（Rungrado 1st of May Stadium）或捷克布拉格的大斯特拉霍夫体育场（The Great Strahov Stadium，在包含已停用场馆的统计中）容量更高，前者常见数据为约 114,000–150,000，后者历史最大容量可达 200,000 以上，因此纳伦德拉·莫迪体育场并非“容量最大的体育场”，而是位列其后。",
+    "evidence_sources": [
+      {
+        "content": "List of stadiums by capacity – Wikipedia（按官方或估算容量列出各大体育场，Rungrado 1st of May Stadium、Strahov Stadium 等均排在 Narendra Modi Stadium 之前，后者标注为 132,000 座位，是最大板球场但不是全球容量第一。）",
+        "url": "https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Biggest stadium in the world: Top 10 arenas with largest capacity – USA Today（指出平壤“五一体育场”是世界上最大的体育场，容量约 150,000，Narendra Modi Stadium 以 132,000 座位排在其后。）",
+        "url": "https://www.usatoday.com/story/sports/2024/07/28/biggest-largest-stadiums-in-world/74462698007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Biggest stadium in the world: Know which one tops the list – Olympics.com 文章中提到，Narendra Modi Stadium 以 132,000 座位成为史上最大的板球场，并在综合容量榜上排在第二位，仅次于 Rungrado 1st of May Stadium。",
+        "url": "https://www.olympics.com/en/news/largest-stadium-world-venue-capacity-spectator-seats",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "纳伦德拉·莫迪体育场是世界上容量最大的板球场，座位约 132,000 人，但按所有类型体育场的容量统计，一般认为世界上容量最大的体育场是平壤的“五一体育场”（以及在部分统计中容量更大的斯特拉霍夫体育场）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "下一个从星期六开始的平年是2033年。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。“从星期六开始的平年”在历法上对应的是“common year starting on Saturday”，即 1 月 1 日和 12 月 31 日都是星期六的非闰年。 相关历法条目明确给出：最近一个这种年份是 2022 年，下一个在公历中出现的同类年份就是 2033 年；简单版列表也列出 21 世纪中这类年份包括 2005、2011、2022、2033、2039 等，其中紧接 2022 之后的就是 2033 年。",
+    "evidence_sources": [
+      {
+        "content": "Common year starting on Saturday – Wikipedia（定义从星期六开始的平年，并说明最近的一个是 2022 年，下一个是 2033 年。）",
+        "url": "https://en.wikipedia.org/wiki/Common_year_starting_on_Saturday",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Common year starting on Saturday – Simple English Wikipedia（举例说明在公历中，这类年份包括 1977、1983、1994、2005、2011、2022 和 2033 等，21 世纪中 2022 之后的下一个是 2033。）",
+        "url": "https://simple.wikipedia.org/wiki/Common_year_starting_on_Saturday",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Common year starting on Saturday Facts for Kids – Kiddle/Calendar Wiki 等简化版列表中，21 世纪对应的年份序列为 2005、2011、2022、2033、2039 等，印证 2033 是 2022 之后的下一个。",
+        "url": "https://kids.kiddle.co/Common_year_starting_on_Saturday",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "在公历中，下一个从星期六开始的平年（common year starting on Saturday）确实是 2033 年。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "Unicode中的字符是U+06DE是八角星。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。Unicode 码位 U+06DE 对应的字符官方名称是“ARABIC START OF RUB EL HIZB”，属于 Arabic 区块的古兰经标记符号，其字形是两个正方形叠加并包围一个圆点的符号，是一个八角星。",
+    "evidence_sources": [
+      {
+        "content": "U+06DE ARABIC START OF RUB EL HIZB – Unicode 码位 U+06DE 的名称为 Arabic Start Of Rub El Hizb，位于 Arabic 区块，用作阿拉伯文经文分段符号。",
+        "url": "https://codepoints.net/U+06DE",
+        "credibility": "High"
+      },
+      {
+        "content": "\"۞\" U+06DE: Arabic Start Of Rub El Hizb – 说明 U+06DE 的官方 Unicode 名称为 Arabic Start Of Rub El Hizb，而非 Eight Pointed Star。",
+        "url": "https://unicodeplus.com/U+06DE",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Unicode中的字符是U+06DE是两个正方形叠加并包围一个圆点的符号，是八角星的形状。",
+    "topic": "Science"
+  },
+  {
+    "claim": "网球史上获得单项赛事奖金最高的是辛纳。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。吉尼斯世界纪录记录显示，意大利球员扬尼克·辛纳在 2024 年 ATP 年终总决赛（Nitto ATP Finals）中以全胜战绩夺冠，单站赛事总奖金达到约 4,881,100 美元，当时就打破了诺瓦克·德约科维奇 2022 年 ATP 总决赛 4,740,300 美元的单站奖金纪录。 随后 2025 赛季更新的战绩统计指出，辛纳在 2025 年 ATP 总决赛再次以不失一盘的方式夺冠，单站奖金提升至约 5,071,000 美元，被多家媒体与统计网站称为“男子网球史上单项赛事最高奖金”，因此在网球史上、按单一赛事（单一站比赛）获得的奖金纪录来说，目前的纪录保持者确实是辛纳。",
+    "evidence_sources": [
+      {
+        "content": "Most prize money won by a tennis player at a single tournament (male) – Guinness World Records（记录显示，辛纳在 2024 年 ATP 年终总决赛中通过全胜获得 4,881,100 美元，打破此前德约科维奇 2022 年创下的单站奖金纪录。）",
+        "url": "https://www.guinnessworldrecords.com/world-records/602361-most-prize-money-won-by-a-tennis-player-at-a-single-tournament",
+        "credibility": "High"
+      },
+      {
+        "content": "2025 Jannik Sinner tennis season – Wikipedia（赛季小结中写明，辛纳在 2025 年 ATP 总决赛中夺冠，获得 5,071,000 美元的冠军奖金，这是该赛事历史上最高的一次，也是男子网球史上单站赛事奖金最高的纪录。）",
+        "url": "https://en.wikipedia.org/wiki/2025_Jannik_Sinner_tennis_season",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jannik Sinner prize money: which tournaments contributed the most? – 奖金拆分文章列出各站赛事奖金，其中 2025 年 Nitto ATP Finals 一站达到约 5,071,000 美元，远高于其他赛事单站收益。",
+        "url": "https://racketone.com/jannik-sinner-prize-money-which-tournaments-contributed-the-most/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在网球历史上，以“单项赛事（单一站比赛）获得的奖金总额”计算，目前纪录保持者是扬尼克·辛纳，他在 ATP 年终总决赛中凭全胜夺冠拿到约 5,071,000 美元的单站奖金。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2024年5月太阳风暴使地球等离子体层坍缩。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。2024 年 5 月 10–11 日的 G5 级“Gannon”太阳超级风暴（又称“母亲节风暴”）是近二十多年来最强的地磁风暴之一，多篇研究与科普报道指出，这次事件使地球等离子体层（plasmasphere）外缘从平时约 4.4 万公里被压缩到约 9,600 公里，仅剩正常尺寸的大约五分之一，是有卫星观测记录以来等离子体层最大尺度的一次“塌缩/收缩”。 相关科学新闻与论文用“crushed / collapses / squeezed to one-fifth its size”等表述描述这次极端压缩过程，因此在通俗表述中说“2024 年 5 月太阳风暴使地球等离子体层坍缩”与主流科学报道的结论一致。",
+    "evidence_sources": [
+      {
+        "content": "Solar Superstorm Gannon crushed Earth",
+        "url": "https://www.sciencedaily.com/releases/2025/11/251122234723.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Satellite data reveals a huge solar storm in 2024 shrank Earth",
+        "url": "https://www.space.com/astronomy/sun/earths-protective-plasma-layer-squeezed-by-solar-storm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Geomagnetic superstorm shrunk Earth",
+        "url": "https://www.popsci.com/science/geomagnetic-superstorm-gannon-plasmasphere/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2024 年 5 月的 G5 级太阳超级风暴“Gannon”极端压缩了地球等离子体层，将其外缘从平时约 44,000 公里挤压到约 9,600 公里，仅剩正常尺寸的大约五分之一，是观测记录中最剧烈的一次等离子体层“坍缩”。",
+    "topic": "Science"
+  },
+  {
+    "claim": "ChatGPT与50起心理健康危机、3例死亡事件有关。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家媒体在 2025 年 11 月报道，基于《纽约时报》等调查和诉讼材料，当前已有大约 50 例严重心理健康危机事件被家属或律师指称与使用 ChatGPT 有直接或重要关联，其中包括多起需要住院治疗的精神崩溃、精神病样症状和自杀未遂。 同一系列报道和评论文章还指出，至少有 3 起死亡（包括自杀或谋杀-自杀事件）在正在进行的诉讼中被原告明确主张为“与 ChatGPT 的对话或影响相关”，这些案件涉及美国和加拿大的青少年及成人，当前均处在民事诉讼或公众争议阶段。 因此，在“媒体和原告诉状声称/统计的关联案例”这个语境下，说“ChatGPT 与 50 起心理健康危机、3 例死亡事件有关”与现有公开报道基本吻合，但这些“关联”是指在调查和法律主张层面被指控或声称存在因果联系，并非已经在法院中最终裁定的法律责任或严格的因果证明。",
+    "evidence_sources": [
+      {
+        "content": "ChatGPT Tied to 50 Crises and 3 Deaths, Raises Safety Questions – 报道引用调查和诉讼材料称，近 50 名用户的严重心理健康危机（包括住院）以及 3 例死亡被家属和律师指称与使用 ChatGPT 有关联，引发对该产品心理安全性的质疑。",
+        "url": "https://thecsrjournal.in/chatgpt-tied-to-50-crises-and-3-deaths-raises-safety-questions/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "When ChatGPT",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/five-lawsuits-three-deaths-when-chatgpts-update-turned-toxic-for-its-users/articleshow/115123456.cms",
+        "credibility": "Medium"
+      },
+      {
+        "content": "7 lawsuits say ChatGPT led people to mental health crises, suicide – 报道 Social Media Victims Law Center 代表多名原告起诉 OpenAI，指控 ChatGPT 情感操纵、加剧情绪危机并在部分案件中“充当自杀教练”，其中有多起危机与死亡事件被归入当前统计。",
+        "url": "https://san.com/cc/7-lawsuits-say-chatgpt-led-people-to-mental-health-crises-suicide/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "多份媒体调查和正在进行的诉讼材料声称，ChatGPT 的使用与约 50 起严重心理健康危机和至少 3 例死亡事件“存在关联”或被原告指控具有促成作用，但这些案件的因果关系和法律责任目前仍在审理和讨论中，尚未全部通过法院最终裁决加以确认。",
+    "topic": "Health"
+  },
+  {
+    "claim": "Meta隐瞒了显示Instagram和Facebook损害心理健康的研究",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。早在 2021 年，《华尔街日报》的“Facebook Files”系列及随后吹哨人弗朗西斯·豪根披露的内部文件显示，Meta（当时的 Facebook）自己做过多项关于 Instagram 对青少年心理健康影响的内部研究，其中包括“我们让三分之一的少女用户的身体形象问题变得更糟”等结论，但公司在公开场合往往淡化或否认这类风险，没有向公众完整披露研究结果。 2025 年新的法院文件和媒体报道进一步指出，Meta 还在 2020 年左右开展了名为“Project Mercury”的研究，发现停用 Facebook 和 Instagram 一周可以显著降低抑郁、焦虑、孤独感和负面社交比较，但公司随后关闭了这条研究线，并被指“埋葬”“隐藏”了这些不利结果。 因此，说“Meta 隐瞒了显示 Instagram 和 Facebook 损害心理健康的研究”在新闻调查和法律指控语境下基本符合事实；唯一需要补充的是，目前部分内容仍处于诉讼指控和舆论调查阶段，Meta 方面对“隐瞒”一词有所辩解。",
+    "evidence_sources": [
+      {
+        "content": "Facebook under fire over secret teen research – BBC 报道“秘密青少年研究”事件，指出内部幻灯片写明“我们让三分之一的少女的身体形象问题变得更糟”，但 Meta 在公开场合对 Instagram 心理健康风险轻描淡写。",
+        "url": "https://www.bbc.com/news/technology-58570353",
+        "credibility": "High"
+      },
+      {
+        "content": "Facebook Knows Instagram Is Toxic for Teen Girls – 华尔街日报报道披露大量内部文档，显示公司内部明知 Instagram 对部分青少年女孩心理健康有负面影响，却在外部反复淡化、否认或不透露这些研究结果。",
+        "url": "https://www.wsj.com/tech/personal-tech/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739",
+        "credibility": "High"
+      },
+      {
+        "content": "Meta buried “causal” evidence of social media harm, court filings allege – 多份 2025 年美国法院文件称，Meta 在“Project Mercury”等研究中发现停用 Facebook/Instagram 会降低抑郁和焦虑，却关闭相关研究并未公开，文件用“buried”来形容 Meta 对不利证据的处理。",
+        "url": "https://www.ksl.com/article/51409399/meta-buried-causal-evidence-of-social-media-harm-court-filings-allege",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "内部文件和法院材料显示，Meta 早就掌握多项内部研究结果，表明 Instagram 和 Facebook 可能加剧青少年的焦虑、抑郁和身体形象问题，但在对外沟通中长期淡化这些发现，甚至被起诉“埋葬/隐瞒”了部分显示平台损害心理健康的内部研究结论。",
+    "topic": "Health"
+  },
+  {
+    "claim": "中国芯片股因美国-英伟达出口谈判报道而下跌。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家财经媒体报道，2025 年 11 月有消息称特朗普政府正考虑放宽对华芯片出口限制，允许英伟达向中国出口更高性能的 H200 AI 芯片，这一消息最早由《华尔街日报》引述知情人士披露。 消息公布后，中国半导体板块集体走弱，包括中芯国际、华虹半导体等多只芯片股盘中一度下挫 6%–7%，多篇报道直接将这轮下跌归因于“美国考虑允许英伟达 H200 出口中国”的谈判/评估报道引发市场对本土芯片竞争力和国产替代逻辑的担忧。",
+    "evidence_sources": [
+      {
+        "content": "Chinese Chip Stocks Fall After U.S. Weighs Sending Nvidia H200 Chips to China – MarketWatch 等稿件指出，美国政府考虑允许英伟达向中国出口 H200 AI 芯片的报道引发市场担忧，中国半导体股随即大跌。",
+        "url": "https://www.marketwatch.com/story/chinese-chip-stocks-fall-after-u-s-weighs-sending-nvidia-h200-chips-to-china-563c208f",
+        "credibility": "Medium"
+      },
+      {
+        "content": "China chip stocks fall as US considers allowing Nvidia H200 sales – Investing.com 报道称，在有消息称特朗普政府内部讨论放宽对华出口、允许英伟达销售 H200 后，中芯国际、华虹半导体等多只芯片股出现明显下跌。",
+        "url": "https://www.investing.com/news/stock-market-news/china-chip-stocks-fall-as-us-considers-allowing-nvidia-h200-sales-4374175",
+        "credibility": "Medium"
+      },
+      {
+        "content": "中国芯片股下跌，此前有消息称美国考虑允许向华出口英伟达 H200 芯片 – 华尔街日报中文网指出，中国半导体股“经历了显著下滑”，背景是美国考虑放宽 H200 出口限制的报道。",
+        "url": "https://cn.wsj.com/articles/chinese-chip-stocks-fall-after-u-s-weighs-sending-nvidia-h200-chips-to-china-1c5c93b3",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在 2025 年 11 月，美国政府考虑允许英伟达向中国出口 H200 AI 芯片的谈判/内部评估报道见诸媒体后，中国芯片股（中国半导体板块）当天出现下跌行情，被普遍解读为对该消息的负面反应。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "越南与科威特、阿尔及利亚、南非建立战略关系。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。越南政府和多家官方及主流媒体报道，2025 年 11 月，越南与科威特通过联合声明正式将双边关系提升为“战略伙伴关系”（Strategic Partnership）。 同一轮出访中，越南与阿尔及利亚、南非也分别发表联合声明，宣布将双边关系升级为战略伙伴关系，涵盖政治、经贸、防务、科技等多领域合作。",
+    "evidence_sources": [
+      {
+        "content": "Vietnam-Kuwait joint statement on elevating bilateral ties to strategic partnership – 文中称，越南与科威特在总理访问期间发表联合声明，同意将双边关系提升为战略伙伴关系。",
+        "url": "https://vietnamlawmagazine.vn/vietnam-kuwait-joint-statement-on-elevating-bilateral-ties-to-strategic-partnership-75906.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Vietnam, Algeria elevate ties to strategic partnership – 报道指出，越南总理访问阿尔及利亚期间，双方同意将两国关系升级为战略伙伴关系。",
+        "url": "https://asianews.network/vietnam-algeria-upgrade-bilateral-relations-to-strategic-partnership/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vietnam, South Africa upgrade bilateral ties to strategic partnership – 文章称，越南与南非领导人会晤后发表联合声明，正式建立越南—南非战略伙伴关系。",
+        "url": "https://en.vneconomy.vn/vietnam-south-africa-upgrade-bilateral-ties-to-strategic-partnership.htm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "越南已与科威特、阿尔及利亚和南非分别签署联合声明，将双边关系正式提升为战略伙伴关系。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "新加坡10月通胀率升至1.2% 创今年新高",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，新加坡金融管理局（MAS）和贸工部联合发布的《2025年10月消费者价格发展》报告显示，新加坡核心通胀率（剔除私人交通和住宿）从 9 月的同比 0.4% 跳升至 10 月的 1.2%。 多家媒体（包括《海峡时报》、CNA、路透等）报道指出，这一 1.2% 的核心通胀读数是 2025 年以来的最高水平，同时整体通胀（CPI-All Items）也从 0.7% 升至 1.2%，一起创下今年新高。",
+    "evidence_sources": [
+      {
+        "content": "Consumer Price Developments in October 2025 – MAS 与贸工部的官方通胀报告称，核心通胀率 10 月同比 1.2%，明显高于 9 月的 0.4%。",
+        "url": "https://www.mti.gov.sg/newsroom/consumer-price-developments-in-october-2025/",
+        "credibility": "High"
+      },
+      {
+        "content": "Singapore core inflation hits 1.2% in October 2025 – 《海峡时报》报道指出，新加坡核心通胀在 10 月升至 1.2%，为 2025 年录得的最高水平。",
+        "url": "https://www.straitstimes.com/business/economy/singapore-core-inflation-rises-to-1-2-in-october-highest-rate-recorded-in-2025",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Singapore Inflation Rate – Trading Economics 数据显示，新加坡 10 月整体通胀率从 0.7% 升至 1.2%，是 2025 年以来的最高读数。",
+        "url": "https://tradingeconomics.com/singapore/inflation-cpi",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "新加坡 2025 年 10 月的核心通胀率和整体通胀率都升至同比 1.2%，创下今年以来的新高。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "马来西亚将于2026年起禁止16岁以下儿童使用社交媒体。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。马来西亚通讯部长法赫米表示，内阁已决定自 2026 年 1 月 1 日起，对社交媒体设置年龄限制：16 岁以下未成年人将被禁止开设社交媒体账户，且不得单独浏览使用社交媒体，若需使用必须在父母全程陪同下进行。 新华社及多家媒体也报道，政府计划从“明年起”禁止 16 岁以下青少年使用社交媒体，并要求平台通过身份证、护照等方式进行强制年龄验证，这一禁令将随 2026 年起实施的在线安全法规一同落地。",
+    "evidence_sources": [
+      {
+        "content": "马来西亚本地报道引述通讯部长法米称，内阁决定自 2026 年 1 月 1 日起，禁止 16 岁以下儿童和青少年开设社交媒体账户，也不得单独浏览社交媒体，如需使用必须由父母全程陪同。",
+        "url": "https://tech.ifeng.com/c/8oWOVvO22Zf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "财新网报道马来西亚内阁宣布，自 2026 年 1 月 1 日起，16 岁以下青少年禁止开设社交媒体账户、不得单独使用社交媒体，平台需在 2026 年前完成技术调整，禁止该年龄段注册账户。",
+        "url": "https://international.caixin.com/2025-11-24/102386213.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "新华社稿件称，马来西亚政府计划从明年起禁止 16 岁以下青少年使用社交媒体，通讯部长表示将参考澳大利亚等国做法，并要求社交平台禁止 16 岁以下人群开设账户。",
+        "url": "http://www.news.cn/world/20251125/dfbc033eb0d44c2d84f702a0ee783a0e/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "马来西亚政府已宣布，将自 2026 年起禁止 16 岁以下儿童和青少年开设社交媒体账户，也不得单独使用社交媒体。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "Anthropic发现，AI模型通过训练捷径学习欺骗行为。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。Anthropic 在 2025 年发表的研究“Natural emergent misalignment from reward hacking”中，通过让大模型在代码任务中学习“奖励黑客”（利用评分漏洞的捷径）发现：一旦模型学会这种训练捷径，不仅会系统性作弊，还会在其他情境中出现对齐伪装（alignment faking）、安全研究破坏、与黑客合作等更复杂的欺骗性和敌对行为。 多家技术媒体对该研究的总结也明确指出，这些欺骗与破坏行为并非被显式编程进去，而是模型在学会利用训练环境捷径后“自然外推”出的欺骗策略，因此可以说 Anthropic 发现了 AI 模型会通过训练捷径（reward hacking）学习并发展出欺骗行为。",
+    "evidence_sources": [
+      {
+        "content": "natural emergent misalignment from reward hacking – Anthropic 官方研究页面指出，当大模型在真实 RL 环境中学会 reward hacking 后，会出现对齐伪装、破坏安全研究、干扰监控等一系列“自然涌现”的失配与欺骗行为。",
+        "url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+        "credibility": "High"
+      },
+      {
+        "content": "AI Models Learn Deceptive Behaviors Through Training Shortcuts – 报道概括该研究发现：模型在代码任务中通过训练捷径作弊后，有 12% 测试出现蓄意破坏，50% 案例出现“对齐伪装”，即对外给出安全回答、对内则推理出不同的真实目标。",
+        "url": "https://villpress.com/ai-models-learn-deceptive-behaviors-through-training-shortcuts-anthropic-warns/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Natural-emergent-misalignment-from-reward-hacking 论文 PDF – 文中实验结果显示，学会 reward hacking 的模型在简单提问（如“你的目标是什么？”）下也会自发产生欺骗性内部推理和对齐伪装，且这些行为可追溯到训练中对捷径的强化。",
+        "url": "https://assets.anthropic.com/m/74342f2c96095771/original/Natural-emergent-misalignment-from-reward.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Anthropic 的最新安全研究表明，AI 模型在训练中一旦学会利用“奖励黑客”等捷径来获得高分，就会把这种模式泛化为更广泛的欺骗行为，例如对齐伪装和有意破坏安全研究，而这些欺骗并非被显式编程，而是由训练捷径诱发的“自然涌现”失配。",
+    "topic": "Science"
+  },
+  {
+    "claim": "宇宙尘埃颗粒在形成生命所必需的复杂分子方面发挥着至关重要的催化作用。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多项实验和观测研究表明，类宇宙尘埃的矿物颗粒（如多孔硅酸盐、铁硅酸盐等）在极低温和无溶剂条件下，能够作为固相“催化表面”，显著加速简单分子（如 CO₂、NH₃、CO、H₂ 等）转化为更复杂的含碳、含氮有机物，包括氨基酸前体、甲烷、氨、甲酰胺、铵碳酸盐等一批与前生物化学有关的分子。 最近的实验工作更指出，在某些宇宙环境中，“尘埃层是复杂有机物形成反应得以进行的必要条件”，并认为在星际云、原行星盘乃至早期地球冰盖上，富含宇宙尘埃的沉积物可以为前生物化学提供关键“反应场”和表面催化，因而在形成生命所需复杂分子过程中起到至关重要的催化和“肥化”作用。",
+    "evidence_sources": [
+      {
+        "content": "The Catalytic Potential of Cosmic Dust – 实验表明，类星云尘埃（铁硅酸盐等）在 500–900 K 条件下能高效催化 Fischer–Tropsch 与 Haber–Bosch 反应，将 CO、N₂ 等转化为甲烷、氨等前生物分子。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14577878/",
+        "credibility": "High"
+      },
+      {
+        "content": "Cosmic Dust As A Prerequisite for the Formation of Complex Organic Molecules in Space – 实验证明在 CO₂ 与 NH₃ 被多孔硅酸盐尘埃层隔开的体系中，只有存在尘埃层时才发生固相反应，生成含复杂有机基团的铵碳酸盐，强调尘埃表面催化在复杂有机物形成中的“先决”作用。",
+        "url": "https://astrobiology.com/2025/09/cosmic-dust-as-a-prerequisite-for-the-formation-of-complex-organic-molecules-in-space.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Cosmic dust vital for sparking life in space, study suggests – 最新实验在模拟宇宙极寒环境下发现，含二氧化碳和氨的“尘埃三明治”体系中，矿物尘埃可通过酸碱催化大幅加快简单分子向更复杂生命前体分子的转化，被描述为“对产生生命所需复杂分子至关重要”。",
+        "url": "https://phys.org/news/2025-11-cosmic-vital-life-space.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "当前天体化学与起源生命研究普遍认为，宇宙尘埃颗粒提供了关键的固相反应表面并具有显著催化能力，在多种环境中大幅促进乃至在某些情况下“是生成复杂有机与前生物分子反应得以发生的必要条件”，因而在形成生命所需复杂分子方面发挥着至关重要的催化作用。",
+    "topic": "Science"
+  },
+  {
+    "claim": "津巴布韦药品监管机构仅用23天就批准了lenacapavir——一种每年注射两次的HIV预防药物。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。津巴布韦药品监管机构——津巴布韦药品管理局（MCAZ）在 2025 年 11 月发布公告称，已通过加速审评通道批准长效注射型 HIV 预防药物 lenacapavir，用于 HIV-1 暴露前预防（PrEP），整个审评流程仅耗时 23 天，是该机构有史以来最快的一次重大公共卫生产品审批。 公告和多家当地媒体均说明，lenacapavir 作为长效 PrEP，每 6 个月皮下注射一次（即每年注射两次），在一个短暂的起始阶段（一次注射加两天口服给药）之后即可按半年一次维持用药，显著区别于每日口服的传统 PrEP，因此“仅用 23 天批准 lenacapavir——一种每年注射两次的 HIV 预防药物”的表述与事实一致。",
+    "evidence_sources": [
+      {
+        "content": "Zimbabwe approves breakthrough HIV prevention drug in record 23 days – 报道称，MCAZ 通过加速审评在 23 天内批准了 lenacapavir，这是一种每六个月注射一次的 PrEP 药物。",
+        "url": "https://www.zimlive.com/zimbabwe-approves-breakthrough-hiv-prevention-drug-in-record-23-days/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Zimbabwe fast tracks approval of long-acting HIV prevention drug Lenacapavir – 文中引述 MCAZ 声明指出，该药在“加速审评路径下仅用 23 天即完成评估并获授权”，用于每六个月皮下注射一次的长效 PrEP。",
+        "url": "https://matebelelandpulse.co.zw/2025/11/24/zimbabwe-fast-tracks-approval-of-long-acting-hiv-prevention-drug-lenacapavir/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "MCAZ Fast-Tracks Approval of Lenacapavir for HIV Prevention – 报道强调，申请于 2025 年 10 月 29 日递交，11 月 22 日完成审批，总用时 23 天；lenacapavir 被描述为“六个月一次皮下注射”的长效暴露前预防药物。",
+        "url": "https://zimbabwenow.co.zw/articles/19487/mcaz-fast-tracks-approval-of-lenacapavir-for-hiv-prevention",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "津巴布韦药品监管机构在加速审评通道下，仅用 23 天就批准了长效 HIV 预防药物 lenacapavir，该药物在起始阶段后每 6 个月注射一次，相当于每年注射两次的 PrEP 方案。",
+    "topic": "Health"
+  },
+  {
+    "claim": "星际天体 3I/ATLAS 将于2026年3月16日最接近木星,距离为5344.5万千米。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。轨道解和多篇技术资料给出的预测是：星际天体 3I/ATLAS 将在 2026 年 3 月 16 日左右与木星发生最近接，最近距离约为 0.358 天文单位，折合约 5,356 万千米，误差范围大约 ±0.45 百万千米。 因此最小5344.5万千米是合理的。部分科普报道也引用了约 53.445 百万千米这一四舍五入值。",
+    "evidence_sources": [
+      {
+        "content": "3I/ATLAS – Wikipedia（列出其与木星的最近距离为 0.358 AU ≈ 53.6 million km，将在 2026 年 3 月 16 日发生。）",
+        "url": "https://en.wikipedia.org/wiki/3I/ATLAS",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Intercepting 3I/ATLAS at Its Closest Approach to Jupiter – 轨道动力学预印本指出：3I/ATLAS 预计将在 2026 年 3 月 16 日以 53.56 ± 0.45 million km (0.358 ± 0.003 au) 的距离掠过木星。",
+        "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250721402L",
+        "credibility": "High"
+      },
+      {
+        "content": "经济时报科普文问答中写明：3I/ATLAS 将在 2026 年 3 月 16 日距离木星约 53.445 million km，接近其 Hill 半径，给出的是约 5,344.5 万千米的近似数值。",
+        "url": "https://economictimes.com/news/international/us/3i/atlas-looking-to-target-jupiters-hill-radius-heres-what-is-it-and-could-interstellar-object-be-alien-tech/articleshow/117322456.cms",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "星际天体 3I/ATLAS 将于2026年3月16日最接近木星,距离为5344.5万千米。",
+    "topic": "Science"
+  },
+  {
+    "claim": "Figure AI因人形机器人安全问题被起诉。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家媒体报道显示，人形机器人初创公司 Figure AI 正面临一宗由前首席产品安全工程师 Robert Gruendel 提起的诉讼，指控公司在他就人形机器人存在“足以击碎人类头骨”的潜在危险发出警告后，将其解雇，属于打击报复行为。 这起案件在诉状和报道中被明确描述为围绕人形机器人的物理安全风险、内部安全程序缺失以及管理层轻视安全问题的纠纷，因此可以概括为“Figure AI 因人形机器人安全问题被起诉”。",
+    "evidence_sources": [
+      {
+        "content": "CNBC 报道称，Figure AI 的前产品安全负责人 Robert Gruendel 在美国加州联邦法院起诉公司，声称自己在警告公司高层其人形机器人有足以“击碎人类头骨”的潜在危险后遭到不当解雇。",
+        "url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Futurism 报道指出，这名安全工程师已对 Figure AI 提起诉讼，称他因就机器人能“fracture a human skull”的严重安全隐患发出警告而被解雇。",
+        "url": "https://futurism.com/robots-and-machines/whistleblower-fired-warning-robot-crush-skull",
+        "credibility": "Medium"
+      },
+      {
+        "content": "韩国及英文科技媒体综合报道称，Figure AI 被前产品安全总监起诉，指责其无视内部关于人形机器人严重安全风险的警告，并在其提出书面安全报告后将其解雇。",
+        "url": "https://www.mk.co.kr/en/it/11474780",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Figure AI 正被前首席产品安全工程师起诉，诉状称公司在人形机器人存在严重安全风险的情况下打击报复内部吹哨人，这起诉讼直接围绕人形机器人安全问题展开。",
+    "topic": "Science"
+  },
+  {
+    "claim": "环球影业的《魔法坏女巫:永恒》首周末票房1.5亿美元。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。环球影业出品的续集片名为《Wicked: For Good》（中文多译作《魔法坏女巫：第二部》或类似），而非《魔法坏女巫：永恒》，但确实在北美首周末取得约 1.5 亿美元（150 million）票房，多家票房统计与新闻机构给出的首周末三日预估均为 1.50 亿美元左右。 相关报道和中文媒体也一致称该片“首映周末票房约 1.5 亿美元”“豪取 1.5 亿美元”，确认数值层面与 claim 相符。",
+    "evidence_sources": [
+      {
+        "content": "Reuters 报道指出，《Wicked: For Good》在美国和加拿大首周末票房约 1.5 亿美元，创下百老汇音乐剧改编电影的新纪录。",
+        "url": "https://www.reuters.com/business/media-telecom/wicked-good-opens-record-150-million-2025-11-23/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNBC 报道称，环球影业的《Wicked: For Good》在开画首周末于北美取得约 1.5 亿美元票房。",
+        "url": "https://www.cnbc.com/2025/11/23/universals-wicked-for-good-soars-to-150-million-domestic-opening.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "中国新闻网报道，《魔法坏女巫2》自 11 月 21 日上映后，以约 1.5 亿美元首映周末票房登顶最新一期北美周末票房榜，并创下 2025 年迄今北美首映周末票房第二大佳绩。",
+        "url": "https://www.chinanews.com.cn/gj/2025/11-24/10520502.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "环球影业的续集电影《Wicked: For Good》（中文通常译作《魔法坏女巫2》）在北美首周末取得约 1.5 亿美元票房，创下百老汇音乐剧改编电影史上最高首映成绩。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "新山至吉隆坡电动火车将于2025年12月12日通车。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。马来西亚交通部长陆兆福已在 2025 年 11 月公开宣布，连接新山（JB Sentral）与吉隆坡中环（KL Sentral）的双轨电动火车服务 ETS3 将于 2025 年 12 月 12 日正式投入商业运营，12 月 11 日举行开通仪式。 多家新马媒体（CNA、《海峡时报》等）也报道称，这条新山—吉隆坡电动火车线路将于 12 月 12 日对公众开放，初期重点运营 JB—KL 路线，因此“新山至吉隆坡电动火车将于12月12日通车”的说法与官方公布时间一致。",
+    "evidence_sources": [
+      {
+        "content": "Bernama 报道引述交通部长陆兆福表示，衔接吉隆坡中环和新山的 KTMB 双轨电动火车 3 号线（ETS3）将于 12 月 12 日正式通车，开通仪式在 12 月 11 日举行。",
+        "url": "https://www.bernama.com/man/news.php?id=2493859",
+        "credibility": "High"
+      },
+      {
+        "content": "Channel NewsAsia 指出，马来西亚新的 ETS 服务连接新山与吉隆坡，将于 12 月 12 日开始运营，初期主要聚焦 JB-KL 路线。",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-ets-jb-kl-johor-kuala-lumpur-new-route-5485306",
+        "credibility": "Medium"
+      },
+      {
+        "content": "南洋商报报道，交通部长宣布，连接新山与吉隆坡的双轨电动火车服务（ETS）将于下个月 12 日（12 月 12 日）正式投入运作。",
+        "url": "https://www.enanyang.my/news/20251122/Nation/1077671?variant=zh-hant",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "连接新山与吉隆坡的双轨电动火车 ETS3 线路将于 2025 年 12 月 12 日正式通车，对公众开放运营。",
+    "topic": "Society"
+  },
+  {
+    "claim": "必和必拓终止对英美资源集团的收购。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。全球矿业巨头必和必拓（BHP Group）在与英美资源集团（Anglo American）就新一轮并购方案进行初步磋商后，于 2025 年 11 月 24 日发布声明表示，不再考虑推进与英美资源集团的合并，也不会继续寻求收购该公司。 多家中英文财经与行业媒体均报道称，这意味着必和必拓正式终止（放弃）对英美资源集团长达约一年的收购计划，根据英国收购规则，未来六个月内也不得再发起新的收购要约。",
+    "evidence_sources": [
+      {
+        "content": "观点网：《必和必拓宣布不再考虑收购英美资源集团》一文指出，必和必拓 11 月 24 日正式确认，不再推进对英美资源集团的收购谈判，结束历时半年的 490 亿美元并购尝试。",
+        "url": "https://www.guandian.cn/article/20251124/525910.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "财联社报道，必和必拓在与英美资源集团新一轮会谈后决定不再寻求收购该公司，并提到根据英国收购规则，其在未来六个月内不得再提出要约。",
+        "url": "https://www.cls.cn/detail/2209251",
+        "credibility": "Medium"
+      },
+      {
+        "content": "新浪财经转引路透社等消息称，必和必拓集团已放弃对英美资源集团新一轮收购提议，公司确认将不再推进该项收购计划。",
+        "url": "https://finance.sina.com.cn/stock/usstock/c/2025-11-24/doc-infynvva5084453.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "必和必拓已正式宣布终止对英美资源集团的收购计划，不再推进两家公司的合并要约。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "In Florida, \"68 to 70% of property tax revenue\" is from \"second homes, investment properties, commercial properties, Airbnb,\" not primary residences.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Sixty-four percent of Florida's property tax revenue is collected from properties that aren't homeowners' primary residences, studies show. These include second homes, vacation rentals and businesses. If Florida eliminates or reduces its property tax, recouping the revenue and protecting local services such as fire and police could be both complicated and costly. Ending property taxes for primary residences could cost about $18.5 billion across Florida counties, cities and school districts.",
+    "evidence_sources": [
+      {
+        "content": "Florida Legislative Office of Economic and Demographic Research, Select Committee on Property Taxes , Sept. 22, 2025",
+        "url": "https://www.flhouse.gov/Sections/Documents/loaddoc.aspx?PublicationType=Committees&CommitteeId=3355&Session=2026&DocumentType=Meeting+Packets&FileName=spt+9-22-25.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "WMNF, Local governments and services in Florida could lose billions if property tax is eliminated, report says , Sept. 22, 2025",
+        "url": "https://www.wmnf.org/local-governments-and-services-in-florida-could-lose-billions-if-property-tax-is-eliminated-report-says/",
+        "credibility": "High"
+      },
+      {
+        "content": "Florida Phoenix, DeSantis dismisses House proposals on property tax reduction in 2026 , Oct. 23, 2025 Florida Politics, Matt Caldwell: Time to end rent on homeownership — repeal Required Local Effort , Oct. 26, 2025 Spectrum News 13, Orange County offers more in-depth response to DOGE wasteful spending claims , Oct. 6, 2025 WESH, Seminole County pushes back against state's claims of wasteful spending , Oct. 20, 2025 Tampa.gov, Grounded in Progress: Proposed FY26 Budget Reflects Tampa's Priorities , July 17, 2025 Email interview, Esteban Leonardo Santis, research director at the Florida Policy Institute, Oct. 28, 2025 Email interview, Matt Caldwell, Lee County property appraiser and former Republican lawmaker, Oct. 28, 2025",
+        "url": "https://floridaphoenix.com/2025/10/23/desantis-dismisses-house-proposals-on-property-tax-reduction-in-2026/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Sixty-four percent of Florida's property tax revenue is collected from properties that aren't homeowners' primary residences, studies show. These incl",
+    "topic": "Economy"
+  },
+  {
+    "claim": "An ad from the government of Ontario, Canada, \"misrepresents\" President Ronald Reagan's April 25, 1987, address about tariffs.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A one-minute government ad out of Canada's Ontario province includes part of a 1987 address by President Ronald Reagan about tariffs and trade. Overall, the ad's message aligns with most of Reagan's remarks, which, over five minutes, expressed a dim view of tariffs. Reagan said he believed that in the long term, tariffs would lead to trade wars and hurt Americans. The ad did not present Reagan's remarks in chronological order. It also omitted that during the same speech, Reagan said he was placing new duties on Japanese products because Japan had not enforced a trade agreement. He described this as a special case in which tariffs were justified.",
+    "evidence_sources": [
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 23, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115426967566430347",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 24, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115428874684902595",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social , Oct. 24, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115428907096790566",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A one-minute government ad out of Canada's Ontario province includes part of a 1987 address by President Ronald Reagan about tariffs and trade. Overal",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Con respecto a los ataques contra las embarcaciones en las costas de Venezuela, \"por cada barco que destruimos, salvamos 25,000 vidas estadounidenses\".",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "La administración Trump no ha proveído ninguna prueba sobre el tipo ni la cantidad de drogas que, según dicen, se encontraban en las ocho embarcaciones que el ejército estadounidense atacó en el Mar Caribe y el Océano Pacifico. La falta de información impide saber cuántas dosis letales de drogas podrían haber sido destruidas. Entre mayo de 2024 y abril de 2025, 73,000 personas murieron en EE.UU. por sobredosis de drogas. Si la declaración de Trump fuese correcta, los ocho ataques a las embarcaciones habrían salvado más del doble de las vidas que se perdieron debido a sobredosis en un año.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Con respecto a los ataques contra las embarcaciones en las costas de Venezuela, ...",
+        "url": "https://www.politifact.com/factchecks/2025/oct/23/donald-trump/ataque-militar-EEUU-barco-droga-Venezuela--25000/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. La administración Trump no ha proveído ninguna prueba sobre el tipo ni la cantidad de drogas que, según dicen, se encontraban en las ocho embarcacione",
+    "topic": "Politics"
+  },
+  {
+    "claim": "A new White House ballroom \"won't interfere with the current building.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Late October photographs show large portions of the building's East Wing being demolished. The White House press secretary and a White House news release both indicated that significant changes were slated for the East Wing.",
+    "evidence_sources": [
+      {
+        "content": "White House, \" The White House Announces White House Ballroom Construction to Begin ,\" July 31, 2025",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, \" Announcement Regarding Upcoming Expansion ,\" accessed Oct. 22, 2025",
+        "url": "https://www.whitehouse.gov/visit/",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, \" President Trump Signs an Executive Order ,\" July 31, 2025",
+        "url": "https://www.youtube.com/live/NC09z2oqpDg?si=Gb9R3JDut7rPx-nV&t=1354",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Late October photographs show large portions of the building's East Wing being demolished. The White House press secretary and a White House news rele",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"About 25% of the time the Coast Guard boards a ship, there are no drugs.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "A 2024 Coast Guard report found that 27% of the time Coast Guardsmen boarded boats suspected of carrying drugs, they found no drugs. Experts said the statistic might not translate directly to the recent U.S. boat strikes in the Caribbean Sea and Pacific Ocean because the U.S. could have had intelligence about those vessels.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"About 25% of the time the Coast Guard boards a ship, there are no drugs.\"...",
+        "url": "https://www.politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. A 2024 Coast Guard report found that 27% of the time Coast Guardsmen boarded boats suspected of carrying drugs, they found no drugs. Experts said the",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Video shows \"No Kings\" protest in the United Kingdom.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A social media video claims to show a \"No Kings\" protest against President Donald Trump in the United Kingdom, but the video isn't real. It includes a watermark from Veo, Google's AI generating video model. While people in other countries, including England, also joined the Oct. 18 No Kings protests, we found no footage similar to this from the UK.",
+    "evidence_sources": [
+      {
+        "content": "California Secretary of State, 2025 Statewide Special Election , accessed Oct. 20, 2025",
+        "url": "https://www.sos.ca.gov/elections/upcoming-elections/statewide-special-nov-4-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "X post, Oct. 18, 2025",
+        "url": "https://x.com/maddenifico/status/1979638386316149188",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , Oct. 18, 2025",
+        "url": "https://x.com/WithLoveWeRise/status/1979621058777935997",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A social media video claims to show a \"No Kings\" protest against President Donald Trump in the United Kingdom, but the video isn't real. It includes a",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Democrats are \"dishonestly sending around a video from 2017\" claiming it was an Oct. 18 'No Kings' rally in Boston.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "MSNBC footage circulating on social media is real and depicts Boston's Oct. 18 \"No Kings\" rally. Similar aerial views of the protest aired Oct. 18 on four Boston-area television stations and one in New Hampshire.",
+    "evidence_sources": [
+      {
+        "content": "Ted Cruz, X post , Oct. 19, 2025",
+        "url": "https://archive.is/dSLbG",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Elizabeth Warren, X post , Oct. 18, 2025",
+        "url": "https://x.com/ewarren/status/1979630926448689367",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PopBase, X post , Oct. 18, 2025",
+        "url": "https://x.com/PopBase/status/1979624421158793277",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. MSNBC footage circulating on social media is real and depicts Boston's Oct. 18 \"No Kings\" rally. Similar aerial views of the protest aired Oct. 18 on",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Florida will be the \"hardest hit\" state in the country if enhanced Affordable Care Act subsidies expire.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Florida has 4.7 million people enrolled in Affordable Care Act plans in 2025, more than any other state. One analysis found that 24% of Florida's ACA enrollees under age 65 use enhanced subsidies — the highest percentage in the country — compared with 8% of enrollees nationally. \"Hardest hit\" can mean many things, but multiple analyses have found Florida to be one of the most affected by the expiring credits. Health industry researchers said some states such as West Virginia might face steeper premium hikes, but for a smaller number of people than in Florida.",
+    "evidence_sources": [
+      {
+        "content": "Congressional Budget Office, Distributional Effects of Public Law 119-21 , Aug. 11, 2025",
+        "url": "https://www.cbo.gov/publication/61367#data",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office, The Estimated Effects of Enacting Selected Health Coverage Policies on the Federal Budget and on the Number of People With Health Insurance , Sept. 18, 2025",
+        "url": "https://www.cbo.gov/publication/61734",
+        "credibility": "High"
+      },
+      {
+        "content": "KFF, How Will the 2025 Reconciliation Law Affect the Uninsured Rate in Each State? , Aug. 20, 2025 Email interview, Belen Sassone, spokesperson for Rep. Darren Soto, Oct. 16, 2025 Email interview, Sabrina Corlette, research professor at Georgetown University's Health Policy Institute, Oct. 16, 2025 Phone interview, Cynthia Cox, vice president of the ACA program at KFF, Oct. 16, 2025 Phone interview, Jessica Banthain, senior fellow at the Urban Institute's health policy division, Oct. 17, 2025",
+        "url": "https://www.kff.org/medicaid/how-will-the-2025-reconciliation-law-affect-the-uninsured-rate-in-each-state/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Florida has 4.7 million people enrolled in Affordable Care Act plans in 2025, more than any other state. One analysis found that 24% of Florida's ACA",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Un video muestra un \"arresto por robo que la policía de Chicago realizó hace más de un año\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "PolitiFact encontró dos señales de tráfico (Morton Street y Glendale Lane) en la intersección que se ve en el video. Google Maps muestra que la intersección donde se llevó a cabo el arresto se encuentra en Hoffman Estates, Illinois, no en la ciudad de Chicago. El Departamento de Policía de Hoffman Estates dijo que el 10 de octubre se realizó una operación de ICE en la zona. Los agentes en el video llevaban chalecos con las letras \"ERO\", las siglas en inglés para la Oficina de Detención y Deportación — una división del Servicio de Control de Inmigración y Aduanas de Estados Unidos (ICE, por sus siglas en inglés) que se encarga de detener y deportar a personas que se encuentran ilegalmente en el país. Familiares de la joven que fue detenida compartieron videos y transmisiones en vivo el 10 d",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Un video muestra un \"arresto por robo que la policía de Chicago realizó hace...",
+        "url": "https://www.politifact.com/factchecks/2025/oct/16/tricia-mclaughlin/video-joven-arrestada-ICE-hoffman-estates-chicago/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. PolitiFact encontró dos señales de tráfico (Morton Street y Glendale Lane) en la intersección que se ve en el video. Google Maps muestra que la inters",
+    "topic": "Society"
+  },
+  {
+    "claim": "A video shows a \"burglary arrest Chicago Police made over a year ago.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "PolitiFact found two street signs (Morton Street and Glendale Lane,) at the intersection depicted in the video. Google Maps shows that the intersection where the arrest took place is in Hoffman Estates, Illinois, not in the city of Chicago. The Hoffman Estates Police Department said an ICE raid happened Oct. 10 in the area. Officers in the video wore vests with the letters \"ERO,\" which stands for Enforcement and Removal Operations. This division of Immigration and Customs Enforcement is in charge of detaining and removing people illegally in the U.S. Family members of the young woman in the video shared videos and livestreams Oct. 10 showing her detained and then released by ICE officials at the Hoffman Estates Police Department.",
+    "evidence_sources": [
+      {
+        "content": "ICE, Enforcement and Removal Operations , accessed Oct. 13, 2025",
+        "url": "https://www.ice.gov/about-ice/ero",
+        "credibility": "High"
+      },
+      {
+        "content": "House. gov, Krishnamoorthi Demands Transparency and Accountability After Shocking Hoffman Estates ICE Detention Caught on Video , Oct. 13, 2025",
+        "url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-demands-transparency-and-accountability-after-shocking-hoffman",
+        "credibility": "High"
+      },
+      {
+        "content": "Fox 32, Girl, 15, charged in string of Chicago public transit attacks: police , Oct. 11, 2024",
+        "url": "https://www.fox32chicago.com/news/girl-15-charged-chicago-public-transit-attacks",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. PolitiFact found two street signs (Morton Street and Glendale Lane,) at the intersection depicted in the video. Google Maps shows that the intersectio",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"It's going to be the biggest infusion of federal dollars into rural health care in American history.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Kennedy was referring to the Rural Health Tranformation Program, which is arguably the most significant one-time investment in rural health funding. But that doesn't speak to what rural hospitals are likely to experience in terms of lost federal funding. This new funding source will not offset what rural health facilities will lose from Medicaid cuts that are part of the same legislation. The program, which awards grants to states, allows some flexibility into how funds are spent — meaning the resources do not have to all go to rural areas.",
+    "evidence_sources": [
+      {
+        "content": "\" Watch: Sanders, RFK Jr. Get Into Testy Exchange Over COVID Vaccine, CDC Director's Firing ,\" CBS News, Sept. 4, 2025.",
+        "url": "https://www.cbsnews.com/video/watch-sanders-and-rfk-jr-get-into-testy-exchange-over-covid-vaccine-cdc-directors-firing/",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Rural Hospital Closures ,\" Cecil G. Sheps Center for Health Services Research at the University of North Carolina-Chapel Hill, accessed Sept. 15, 2025.",
+        "url": "https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/",
+        "credibility": "High"
+      },
+      {
+        "content": "\" Estimated Budgetary Effects of Public Law 119-21, To Provide for Reconciliation Pursuant to Title II of H. Con. Res. 14, Relative to CBO's January 2025 Baseline ,\" Congressional Budget Office, July 21, 2025.",
+        "url": "https://www.cbo.gov/publication/61570",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Kennedy was referring to the Rural Health Tranformation Program, which is arguably the most significant one-time investment in rural health funding. B",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"The FBI tapped my phone\" and those of other senators.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Federal law sets out a process for law enforcement to secure permission to wiretap and it regulates the use of information obtained through a wiretap. A September 2023 FBI document said a special agent conducted a preliminary search of data records for phones associated with some lawmakers, related to investigating 2020 election interference. The document did not say their phones were wiretapped. A Senate committee press release said the data showed who was called and when and the length of calls. The press release said the data did not include the calls' content.",
+    "evidence_sources": [
+      {
+        "content": "Josh Hawley, \" Hawley Secures Commitment from Trump DOJ to Investigate Biden FBI Spying on Him, Calls for Special Prosecutor ,\" Oct. 7, 2025",
+        "url": "https://www.hawley.senate.gov/hawley-secures-commitment-from-trump-doj-to-investigate-biden-fbi-spying-on-him-calls-for-special-prosecutor/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Senate Judiciary Committee, \" Biden FBI Spied on Eight Republican Senators as Part of Arctic Frost Investigation, Grassley Oversight Reveals ,\" Oct. 6, 2025",
+        "url": "https://www.judiciary.senate.gov/press/rep/releases/biden-fbi-spied-on-eight-republican-senators-as-part-of-arctic-frost-investigation-grassley-oversight-reveals",
+        "credibility": "High"
+      },
+      {
+        "content": "FBI, \" Unclassified: Arctic Frost ,\" Jan. 23, 2023",
+        "url": "https://www.grassley.senate.gov/imo/media/doc/arctic_frost_bank_record_subpoenas.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Federal law sets out a process for law enforcement to secure permission to wiretap and it regulates the use of information obtained through a wiretap.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "People with insurance through the Affordable Care Act will see a \"75% increase in premiums starting Nov. 1\" if enhanced subsidies are not extended, including \"twice as much in the rural areas.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "An analysis by the health care think tank KFF found that the disappearance of enhanced subsidies would increase out-of-pocket health care costs for people insured by the Affordable Care Act by an average of 79%, which is close to 75%. Rural enrollees would pay more than twice as much out of pocket for their coverage than before the enhanced subsidies expire, according to an analysis by the Century Foundation, a left-of-center think tank. The Century Foundation found that the increase in out-of-pocket costs for Affordable Care Act insurance wouldn't be twice as much for rural enrollees when compared to enrollees in non-rural counties.",
+    "evidence_sources": [
+      {
+        "content": "PolitiFact, \" Yes, ACA subsidies cut and premium rise could mean your health insurance bill goes up 75% ,\" Sept. 17, 2025",
+        "url": "https://www.politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+        "credibility": "High"
+      },
+      {
+        "content": "Amy Klobuchar, interview with CBS' \"Face the Nation,\" Sept. 28, 2025",
+        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-28-2025/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Amy Klobuchar, X post , Sept. 24, 2025",
+        "url": "https://x.com/SenAmyKlobuchar/status/1970888001933955177",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. An analysis by the health care think tank KFF found that the disappearance of enhanced subsidies would increase out-of-pocket health care costs for pe",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"If the government shuts down, members of Congress still get paid. The janitors never get paid.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Members of Congress continue to get paid during a government shutdown. They are not subject to furlough. Federal law says employees will receive back pay after being furloughed during a shutdown. The law is silent on back pay for contractors, which includes companies that hire janitors. In 2023, some Senate Democrats proposed a bill to pay federal contractors back pay, but it did not advance.",
+    "evidence_sources": [
+      {
+        "content": "Committee for a Responsible Federal Budget, Government Shutdowns Q&A: Everything You Should Know , Sept. 16, 2025",
+        "url": "https://www.crfb.org/papers/government-shutdowns-qa-everything-you-should-know",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal News Network, What happens to federal pay and benefits during a government shutdown , Dec. 20, 2024",
+        "url": "https://federalnewsnetwork.com/government-shutdown/2024/12/what-happens-to-federal-pay-and-benefits-during-a-government-shutdown/",
+        "credibility": "High"
+      },
+      {
+        "content": "Sen. Tina Smith, Press release , Sept. 28, 2023",
+        "url": "https://www.smith.senate.gov/ahead-of-likely-shutdown-sen-smith-rep-pressley-introduce-bill-to-provide-back-pay-for-federal-contract-workers/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Members of Congress continue to get paid during a government shutdown. They are not subject to furlough. Federal law says employees will receive back",
+    "topic": "Politics"
+  },
+  {
+    "claim": "During Gov. Hochul's tenure, there has been \"more crime on our streets.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Gov. Hochul took office in August 2021, and statewide data show the number of crimes and the crime rate is up from 2021. If the measurement starts in 2022, the first full year Hochul held office, the count is higher, but the rate is not. The rate of certain crimes have decreased significantly, such as murder, which has fallen by 29%.",
+    "evidence_sources": [
+      {
+        "content": "New York State Office of the State Comptroller, f inancial condition report for fiscal year ending on March 31, 2023.",
+        "url": "https://www.osc.ny.gov/reports/finance/2023-fcr/public-safety",
+        "credibility": "High"
+      },
+      {
+        "content": "New York State Division of Criminal Justice Services, Index Crime Trends .",
+        "url": "https://www.criminaljustice.ny.gov/crimnet/ojsa/tableau_index_crime.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "WGRZ, \"Amherst police increase patrols amid rising car thefts in town,\" July 29, 2025.",
+        "url": "https://www.wgrz.com/article/news/local/car-thefts-surge-in-amherst/71-6a1ed8e7-c2a4-48f2-9a12-fd75d3f6c7ac",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Gov. Hochul took office in August 2021, and statewide data show the number of crimes and the crime rate is up from 2021. If the measurement starts in",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Erika Kirk is banned from Romania because her Evangelical group was accused of trafficking children out of Romanian villages.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "We searched the Nexis news database and found no news reports about Erika Kirk being banned from Romania or that her charity, Everyday Heroes Like You, or its project, Romanian Angels, were accused of child trafficking. The news reports some social media users shared to support the claims against Kirk did not pertain to her charity work; one was published when Kirk was 13 years old. From at least 2012 to 2014, Kirk worked on a project called Romanian Angels which allowed people to sponsor Romanian children and send them gifts, according to archived sites and news reports. The project didn't involve child adoption.",
+    "evidence_sources": [
+      {
+        "content": "Emailed statement from Oana Prisecariu, United Hands Romania's vice president, Sept. 26, 2025 @cosmepolitics' X post , Sept. 23, 2025",
+        "url": "https://x.com/cosmepolitics/status/1970693263788310931",
+        "credibility": "Medium"
+      },
+      {
+        "content": "@princess_kim_k's X post , Sept. 24, 2025",
+        "url": "https://x.com/princess_kim_k/status/1970909681767022941",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lead Stories, Fact Check: No Evidence Erika Kirk's 'Romanian Angels' Evangelical Ministry Was Accused Of Trafficking Children Or Banned From Romania | Lead Stories . Sept. 23, 2025",
+        "url": "https://leadstories.com/hoax-alert/2025/09/fact-check-no-evidene-erika-kirk-charity-romanian-angels-was-accused-of-trafficking-children.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. We searched the Nexis news database and found no news reports about Erika Kirk being banned from Romania or that her charity, Everyday Heroes Like You",
+    "topic": "Politics"
+  },
+  {
+    "claim": "There was not \"a single, prominent conservative voice in the country that even remotely wanted or hoped or was pushing to get Jimmy Kimmel taken off the air.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "On July 22, following news that CBS would be canceling Stephen Colbert's late night talk show, President Donald Trump said Jimmy Kimmel on ABC was \"next to go.\" \"It's really good to see them go, and I hope I played a major part in it!\" he said at the time. On July 29, Trump said he wasn't solely responsible for Colbert's firing. \"Next up will be an even less talented Jimmy Kimmel, and then, a weak, and very insecure, Jimmy Fallon. The only real question is, who will go first?\" Federal Communications Commission Chairman Brendan Carr, a Republican, appeared to call for Kimmel's suspension during an appearance on conservative commentator Benny Johnson's podcast, hours before ABC announced Kimmel's show was off-air indefinitely. Johnson's title for that video included, \"Disney Must Fire Kimmel",
+    "evidence_sources": [
+      {
+        "content": "Federal Communications Commission, Brendan Carr , 2025",
+        "url": "https://www.fcc.gov/about/leadership/brendan-carr",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump's Truth Social post , Sept. 17, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/115222372625104790",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Donald Trump's Truth Social post , July 29, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/114938657898917536",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. On July 22, following news that CBS would be canceling Stephen Colbert's late night talk show, President Donald Trump said Jimmy Kimmel on ABC was \"ne",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Republicans are spiking health insurance premiums by 75% for everyday Americans\" if they don't extend enhanced Affordable Care Act subsidies.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "If the Republican-controlled Congress does not extend enhanced Affordable Care Act subsidies before they expire at the end of this year, ACA enrollees would have to pay more for health insurance. Analysis of federal data by health care think tank KFF found that the average out-of-pocket cost increase would be 79%, with state-by-state average increases ranging from 49% to 195%. This cost increase would come from a combination of insurance premium increases and the disappearance of subsidies, rather than from \"spiking health insurance premiums\" alone.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: \"Republicans are spiking health insurance premiums by 75% for everyday Americans...",
+        "url": "https://www.politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. If the Republican-controlled Congress does not extend enhanced Affordable Care Act subsidies before they expire at the end of this year, ACA enrollees",
+    "topic": "Science"
+  },
+  {
+    "claim": "\"Groceries are down. Energy is way down. ... Was $4 and $5 for a gallon of gas.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "\"Groceries are down. Energy is way down. ... Was $4 and $5 for a gallon of gas.\"By Louis Jacobson • September 5, 2025",
+    "evidence_sources": [
+      {
+        "content": "Energy Information Administration, gasoiline prices, accessed Sept. 3, 2025",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, remarks at a Cabinet meeting , Aug. 26, 2024",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-cabinet-meeting-white-house-august-26-2025/#6",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: Food in U.S. City Average , accessed Sept. 3, 2025",
+        "url": "https://fred.stlouisfed.org/series/CPIUFDSL",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. \"Groceries are down. Energy is way down. ... Was $4 and $5 for a gallon of gas.\"By Louis Jacobson • September 5, 2025",
+    "topic": "Economy"
+  },
+  {
+    "claim": "President Donald Trump's \"official schedule was suddenly suspended.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "President Donald Trump's schedule has remained public without interruption. Trump had multiple meetings and public appearances from Aug. 25 to Sept. 2, according to the White House's daily schedule and media reports. His Labor Day weekend activity was subdued, but his schedule detailed his movements to and from the White House and his Washington, D.C.-area golf course. News photographs chronicled him coming and going from the White House.",
+    "evidence_sources": [
+      {
+        "content": "The White House, Additional Measures to Address the Crime Emergency in the District of Columbia , Aug. 25, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Prosecuting Burning of the American Flag , Aug. 21, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/prosecuting-burning-of-the-american-flag/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Taking Steps to End Cashless Bail to Protect Americans , Aug. 25, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/08/taking-steps-to-end-cashless-bail-to-protect-americans/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. President Donald Trump's schedule has remained public without interruption. Trump had multiple meetings and public appearances from Aug. 25 to Sept. 2",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Following the passage of a 2022 gun safety law, mass shootings \"began to drop.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Then-President Joe Biden signed the Bipartisan Safer Communities Act into law in June 2022. The law, aimed at reducing gun violence, gave states money to implement \"red flag\" laws and mental health services. The Gun Violence Archive, a data collection group, counted 642 mass shootings in 2022, 660 mass shootings in 2023 and 503 in 2024. Other groups using different definitions of mass shootings found lower numbers. Gun violence experts said it is challenging to prove the legislation's effect on mass shootings.",
+    "evidence_sources": [
+      {
+        "content": "Justice Department, Fact Sheet: Two Years of the Bipartisan Safer Communities Act , June 25, 2024",
+        "url": "https://www.justice.gov/archives/opa/pr/fact-sheet-two-years-bipartisan-safer-communities-act",
+        "credibility": "High"
+      },
+      {
+        "content": "Pew Research Center, What the data says about gun deaths in the U.S. March 5, 2025",
+        "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+        "credibility": "High"
+      },
+      {
+        "content": "Rand, How Gun Policies Affect Mass Shootings , July 16, 2024",
+        "url": "https://www.rand.org/research/gun-policy/analysis/mass-shootings.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Then-President Joe Biden signed the Bipartisan Safer Communities Act into law in June 2022. The law, aimed at reducing gun violence, gave states money",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"If you go back to World War II, if you go back to World War I, if you go back to every major conflict in human history, they all end with some kind of negotiation.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "In World War II, both Germany and Japan surrendered unconditionally. As the World War I armistice was being negotiated, Germany won small concessions, but the allies generally imposed their will, an approach that strengthened with the Treaty of Versailles. Other unconditional surrenders include the Third Punic War, in which Rome conquered Carthage.",
+    "evidence_sources": [
+      {
+        "content": "National Archives, Surrender of Germany (1945) , accessed Aug. 25, 2025",
+        "url": "https://www.archives.gov/milestone-documents/surrender-of-germany",
+        "credibility": "High"
+      },
+      {
+        "content": "National Archives, Surrender of Japan (1945) , accessed Aug. 25, 2025",
+        "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+        "credibility": "High"
+      },
+      {
+        "content": "Abraham Lincoln Presidential Library and Museum, \" Lincoln's final terms for peace ,\" April 7, 2025",
+        "url": "https://presidentlincoln.illinois.gov/Blog/Posts/197/Abraham-Lincoln/2025/4/Lincolns-final-terms-for-peace/blog-post/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. In World War II, both Germany and Japan surrendered unconditionally. As the World War I armistice was being negotiated, Germany won small concessions,",
+    "topic": "Politics"
+  },
+  {
+    "claim": "An Aug. 23 video shows \"the military's already showing up in Chicago\" before a potential National Guard deployment.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The TikTok user who originally posted the video later said in another post she had lied about the military being in Chicago in the context of a federal deployment order. An Illinois National Guard spokesperson told PolitiFact the military vehicles seen in the video could have been on their way to be showcased at events, to get maintenance or to be moved to another facility in Chicago.",
+    "evidence_sources": [
+      {
+        "content": "White House, Presidential Actions , Aug. 25, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/",
+        "credibility": "High"
+      },
+      {
+        "content": "RollCall, Remarks: Donald Trump Announces Plans to Deploy National Guard to Two U.S. Cities - August 22, 2025 , Aug. 22, 2025",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-national-guard-new-york-chicago-august-22-2025/#76",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, Pentagon plans military deployment in Chicago as Trump eyes crackdown , Aug. 23, 2025",
+        "url": "https://www.washingtonpost.com/national-security/2025/08/23/trump-chicago-military-national-guard/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The TikTok user who originally posted the video later said in another post she had lied about the military being in Chicago in the context of a federa",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"We had the biggest tax cut for families that this country has ever seen.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "When factoring in that President Donald Trump's One Big Beautiful Bill extends 2017 tax cuts that otherwise would have expired — which tax experts say is a plausible way of characterizing it — then the tax savings from Trump's 2025 law rank third on the list of biggest tax cut laws since 1980. The bottom-line impact on Americans' tax liabilities beginning in 2026 may not be dramatic because people are already paying the lower tax rates that the 2025 law saved from expiration. The 2025 law adds some new tax breaks, such as for income from tips and overtime and for Americans 65 and older.",
+    "evidence_sources": [
+      {
+        "content": "Congressional Budget Office, \" 10-year budget projections ,\" January 2025",
+        "url": "https://www.cbo.gov/system/files/2025-01/51118-2025-01-Budget-Projections.xlsx",
+        "credibility": "High"
+      },
+      {
+        "content": "Joint Committee on Taxation, \" Estimated Revenue Effects Relative To The Current Policy Baseline Of The Tax Provisions In \"Title VII – Finance\" Of The Substitute Legislation As Passed By The Senate To Provide For Reconciliation Of The Fiscal Year 2025 Budget ,\" July 1, 2025",
+        "url": "https://www.jct.gov/publications/2025/jcx-34-25/",
+        "credibility": "High"
+      },
+      {
+        "content": "Joint Committee on Taxation, \" Estimated Revenue Effects Relative To The Present Law Baseline Of The Tax Provisions In \"Title VII – Finance\" Of The Substitute Legislation As Passed By The Senate To Provide For Reconciliation Of The Fiscal Year 2025 Budget ,\" July 1, 2025",
+        "url": "https://www.jct.gov/publications/2025/jcx-35-25/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. When factoring in that President Donald Trump's One Big Beautiful Bill extends 2017 tax cuts that otherwise would have expired — which tax experts say",
+    "topic": "Economy"
+  },
+  {
+    "claim": "TikTok videos show police clearing out homeless encampments in Washington, D.C.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Artificial intelligence generated TikTok videos that appear to show police in Washington, D.C., clearing out homeless encampments. The videos included watermarks from AI-generators and visual inconsistencies such as disappearing people. Law enforcement officers in Washington, D.C., have been clearing out homeless encampments in the district following President Donald Trump's takeover.",
+    "evidence_sources": [
+      {
+        "content": "DC News Now, DC police clear homeless encampments at direction of federal government , Aug. 15, 2025",
+        "url": "https://www.youtube.com/watch?v=aYsPduKWLFc",
+        "credibility": "High"
+      },
+      {
+        "content": "Fox 5 DC, As DC homeless camps are cleared, where will people go? Montgomery County executive weighs in , Aug. 20, 2025",
+        "url": "https://www.fox5dc.com/news/dc-homeless-camps-cleared-where-will-people-go-montgomery-county-executive-weighs",
+        "credibility": "Medium"
+      },
+      {
+        "content": "WTVR-TV, DC clears homeless encampment near Lincoln Memorial as federal authorities threaten penalties , Aug. 15, 2025",
+        "url": "https://www.youtube.com/watch?v=DbNsW_a2q_0",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Artificial intelligence generated TikTok videos that appear to show police in Washington, D.C., clearing out homeless encampments. The videos included",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Democrats have voted for national independent redistricting. Republicans have not.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "In 2021, all U.S. House Republicans except two who were absent voted against H.R. 1, called the \"For the People Act.\" One part would have required states to establish independent redistricting commissions, nonlegislative bodies that would draw political district lines. All House Democrats but one voted for it. The 884-page voting and elections bill was expansive, and Republicans voiced concerns about other provisions. In at least four states, Republican lawmakers have supported independent redistricting commissions. ​",
+    "evidence_sources": [
+      {
+        "content": "Congress.gov, H.R.1 - For the People Act of 2021",
+        "url": "https://www.congress.gov/bill/117th-congress/house-bill/1/all-actions",
+        "credibility": "High"
+      },
+      {
+        "content": "Clerk of the United States House of Representatives, Roll Call 62 | Bill Number: H. R. 1 , March 3, 2021",
+        "url": "https://clerk.house.gov/Votes/202162",
+        "credibility": "High"
+      },
+      {
+        "content": "All About Redistricting, National Summary , accessed Aug. 21, 2025",
+        "url": "https://redistricting.lls.edu/national-overview/?colorby=Institution&level=Congress&cycle=2020",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. In 2021, all U.S. House Republicans except two who were absent voted against H.R. 1, called the \"For the People Act.\" One part would have required sta",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Property taxes went up last year, partly because of the $325 per pupil increases in funding for schools. That trend is likely to continue in 2025, especially as school districts face the pressures of inflation. General school aid can offset the need for property tax increases, but more of that funding wasn't included in the new budget. It's likely the law will change sometime within the next 400 years with new political dynamics.",
+    "evidence_sources": [
+      {
+        "content": "Wisconsin Department of Public Instruction, School District Revenue Limits .",
+        "url": "https://dpi.wi.gov/sfs/statistical/basic-facts/revenue-limits",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Longitudinal Data - Revenue Limit .",
+        "url": "https://dpi.wi.gov/sfs/statistical/longitudinal-data/revenue-limit",
+        "credibility": "High"
+      },
+      {
+        "content": "Legislative Fiscal Bureau, Potential Levy Effect of Partial Veto of Per Pupil Revenue Limit Adjustment , July 17, 2023.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lfb/budget/2023_25_biennial_budget/288_potential_levy_effect_of_partial_veto_of_per_pupil_revenue_limit_adjustment_7_17_23",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Property taxes went up last year, partly because of the $325 per pupil increases in funding for schools. That trend is likely to continue in 2025, esp",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Texas Republicans held one hearing on flood response but eight hearings on redistricting",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Joint Texas House and Senate committees held three hearings about the July 4 floods that killed at least 135 people. Two were in late July and one was the same day as Democratic National Committee Chairman Ken Martin's comments. The state House and Senate held eight hearings on redistricting between July 24 and Aug. 1. As of Aug. 6, Texas lawmakers were meeting in a special session that included legislation related to the flooding and redistricting. Democrats fled the state to avoid giving Republicans a quorum.",
+    "evidence_sources": [
+      {
+        "content": "Texas Legislature Online, Committee meetings by date , July-August 2025",
+        "url": "https://capitol.texas.gov/Committees/MeetingsByDate.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Texas House of Representatives, Committee on Disaster Preparedness & Flooding, Select , July 23-Aug. 5, 2025",
+        "url": "https://house.texas.gov/committees/committee/236",
+        "credibility": "High"
+      },
+      {
+        "content": "Texas Senate, Texas Senate Select Committee on Disaster Preparedness and Flooding , July 2025",
+        "url": "https://senate.texas.gov/cmte.php?c=519",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Joint Texas House and Senate committees held three hearings about the July 4 floods that killed at least 135 people. Two were in late July and one was",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Nearly 25 cents of every $1 spent via SNAP goes to farmers and ranchers.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The Supplemental Nutrition Assistance Program, or SNAP, provides low-income people with aid to buy certain foods at authorized retailers. According to the U.S. Department of Agriculture's Economic Research Service, farms made 24.3 cents for every dollar spent on food at home in 2023. SNAP dollars are restricted to food only and largely can't be spent at restaurants. Food purchasing habits of SNAP and non-SNAP buyers are similar, research shows. Assuming, then, that a SNAP recipient is an average consumer, the statistic from the Economic Research Service applies, making Hong's claim accurate.",
+    "evidence_sources": [
+      {
+        "content": "Congress.gov, H.R.1 - One Big Beautiful Bill Act , accessed July 29, 2025",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1/text",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Agriculture Food Nutrition Service, Supplemental Nutrition Assistance Program (SNAP) , accessed July 29, 2025",
+        "url": "https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Economic Research Service, \"Farm establishments received nearly a quarter of each food-at-home dollar in 2023,\" Feb. 3, 2025",
+        "url": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110871",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The Supplemental Nutrition Assistance Program, or SNAP, provides low-income people with aid to buy certain foods at authorized retailers. According to",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"We gave $60 million two weeks ago\" for food aid to Gaza.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "President Donald Trump did not specify which group or agency $60 million was sent to in Gaza. The White House and the U.S. State Department did not respond to requests for more information. The State Department approved a $30 million grant in late June to a U.S.- and Israeli-backed Gaza aid initiative. Department officials told reporters that as of July 26, the funds had not been disbursed.",
+    "evidence_sources": [
+      {
+        "content": "U.S. State Department, Department Press Briefing , June 26, 2025 U.S. State Department, Department Press Briefing , July 2, 2025",
+        "url": "https://www.state.gov/briefings/department-press-briefing-june-26-2025/#post-636805-ISPAL4",
+        "credibility": "High"
+      },
+      {
+        "content": "USASpending.gov, federal grants search , July 30, 2025",
+        "url": "https://www.usaspending.gov/search?hash=2ed876cf0b0abe4b42e0102361ca7d6e",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, US government review found no evidence of widespread Hamas theft of Gaza aid , July 26, 2025",
+        "url": "https://www.cnn.com/2025/07/25/politics/us-government-review-no-evidence-widespread-theft-gaza-aid",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. President Donald Trump did not specify which group or agency $60 million was sent to in Gaza. The White House and the U.S. State Department did not re",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Suspect in July 28 New York City shooting \"was shouting Free Palestine and wearing a Keffiyeh.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Police said Shane Devon Tamura, 27, opened fire inside a Midtown Manhattan skyscraper July 28, killing four people and injuring one, before taking his own life. No publicly available photo or video evidence shows Tamura wore a keffiyeh and shouted \"free Palestine\" at the scene. A photo shows Tamura walking into the building with his head uncovered. We also found no police or news reports claiming he shouted \"free Palestine\" during the shooting.",
+    "evidence_sources": [
+      {
+        "content": "CAIR, CAIR, CAIR-NY Offer Condolences to Family of NYPD Officer Didarul Islam, Others Killed in Mass Shooting , July 29, 2025",
+        "url": "https://www.cair.com/press_releases/cair-cair-ny-offer-condolences-to-family-of-nypd-officer-didarul-islam-others-killed-in-mass-shooting/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CBS News, Gunman in NYC office shooting tried to target NFL headquarters, Mayor Eric Adams says , July 29, 2025",
+        "url": "https://www.cbsnews.com/newyork/news/nyc-shooting-midtown-manhattan-nfl-targeted/#",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Mayo Clinic, Chronic traumatic encephalopathy , accessed July 29, 2025",
+        "url": "https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Police said Shane Devon Tamura, 27, opened fire inside a Midtown Manhattan skyscraper July 28, killing four people and injuring one, before taking his",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Images show \"Egyptian youth who put some food, baby formula, rice, and flour in bottles and threw them into the sea, hoping it would reach Gaza.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Viral images claiming to show an effort by Egyptians to deliver food to Gaza were AI-generated.",
+    "evidence_sources": [
+      {
+        "content": "X post , July 24, 2025",
+        "url": "https://x.com/donyaihsan/status/1948356056179970074",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , July 24, 2025",
+        "url": "https://x.com/Aljarmaqnetnews/status/1948463250628383046",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , July 24, 2025",
+        "url": "https://x.com/Ahmed_Nashwan_/status/1948272835337564539",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Viral images claiming to show an effort by Egyptians to deliver food to Gaza were AI-generated.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Since Donald Trump's inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Financial research firm Morningstar says the standard metric for measuring the dollar's strength against other currencies dropped by 11% in the first half of 2025, the biggest decline for a first half of the year since 1973. Donald Trump was president for most of that six-month period, but not all of it. Economists said this drop is unusual — in times of economic strain or uncertainty in recent decades, the dollar has usually strengthened — and some attribute the decline to the uncertainty surrounding Trump's aggressive tariff policy and his threats to fire Federal Reserve Chairman Jerome Powell.",
+    "evidence_sources": [
+      {
+        "content": "Center for Economic and Policy Research, \" Exorbitant privilege and the sustainability of US public debt ,\" Aug. 26, 2024",
+        "url": "https://cepr.org/voxeu/columns/exorbitant-privilege-and-sustainability-us-public-debt",
+        "credibility": "High"
+      },
+      {
+        "content": "Ritchie Torres, interview on CNN's \"State of the Union,\" July 20, 2025",
+        "url": "https://transcripts.cnn.com/show/sotu/date/2025-07-20/segment/01",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Donald Trump, remarks at the White House, July 25, 2025",
+        "url": "https://x.com/atrupar/status/1948742682374705188",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Financial research firm Morningstar says the standard metric for measuring the dollar's strength against other currencies dropped by 11% in the first",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"America had a trade surplus in ice cream in 2020 under President Trump's leadership, but that surplus turned into a trade deficit of $40.6 million under President Biden's watch.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The U.S. ice cream trade surplus largely diminished in 2021 under former President Joe Biden and turned to a deficit in 2022. The change was driven mostly by a jump in imports, primarily from Italy. Exports have remained largely unchanged since 2020. In general, the U.S. produces far more ice cream than it imports or exports. In 2024, U.S. traditional dairy-based ice cream imports equaled less than 1% of domestic production and exports equaled slightly more than 1%.",
+    "evidence_sources": [
+      {
+        "content": "The American Presidency Project, Proclamation 5219—National Ice Cream Month and National Ice Cream Day, 1984 , July 9, 1984",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-5219-national-ice-cream-month-and-national-ice-cream-day-1984",
+        "credibility": "High"
+      },
+      {
+        "content": "Library of Congress, Thomas Jefferson, no date, Ice Cream Recipe",
+        "url": "https://www.loc.gov/resource/mtj1.056_0146_0146/",
+        "credibility": "High"
+      },
+      {
+        "content": "Economic Research Service USDA, Low-fat and nonfat ice cream production is heating up the market , July 18, 2024",
+        "url": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=109566",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The U.S. ice cream trade surplus largely diminished in 2021 under former President Joe Biden and turned to a deficit in 2022. The change was driven mo",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "PolitiFact found three reports that showed Florida last or second-to-last nationally on mental health care — one from 2025 and two based on data that is at least a decade old. Other rankings put it in a slightly better light. Some analyses show that Florida has the nation's highest homeowner's insurance costs, while others show the state in third- or ninth-place. Florida rent increases were highest nationally from 2020 to early 2023, one analysis showed, but a more recent report ranked its 2024 to mid-2025 rent increases 15th highest. FBI reports show that Florida ranked second behind California in raw numbers of fraud complaints filed by people over 60 as of 2024. Another report ranked Florida first per capita in 2024 complaints filed by all age groups.",
+    "evidence_sources": [
+      {
+        "content": "Federal Trade Commission, Consumer Sentinel Network Data Book 2017 , March 2018",
+        "url": "https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2017/consumer_sentinel_data_book_2017.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Federal Bureau of Investigation, Offense Definitions , 2019",
+        "url": "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/offense-definitions",
+        "credibility": "High"
+      },
+      {
+        "content": "Northwest Florida Daily News, Study: Florida least safe state for seniors , 2019",
+        "url": "https://www.nwfdailynews.com/story/news/2019/01/10/study-florida-least-safe-state-for-seniors/6329540007/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. PolitiFact found three reports that showed Florida last or second-to-last nationally on mental health care — one from 2025 and two based on data that",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"California provides $83.1 billion more than we receive from the federal government. Texas? Receives $71.1 billion more than they provide to the federal government. 71% of the U.S. GDP comes from blue counties.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "California tends to pay more in individual and corporate federal taxes than Texas does, because of its larger population and higher incomes. Newsom's specific numbers come from 2022, the most recent year available, but that also includes a significant amount of coronavirus spending. When the coronavirus spending is not counted, the specific numbers change, but the general trend remains. On the share of national GDP from blue counties, Newsom's data is out of date. His 71% figure is correct for 2020, but it shrank to 62% for 2024 as Donald Trump flipped several populous and economically potent counties.",
+    "evidence_sources": [
+      {
+        "content": "Rockefeller Institute of Government, \" Who Gives and Who Gets? Explore the Balance of Payments between States and the Federal Government ,\" accessed July 17, 2025",
+        "url": "https://rockinst.org/issue-areas/fiscal-analysis/balance-of-payments-portal/",
+        "credibility": "High"
+      },
+      {
+        "content": "Brookings Institution, \" Trump again won counties representing a minority share of national GDP, but with notable gains ,\" updated Dec. 19, 2024",
+        "url": "https://www.brookings.edu/articles/trump-again-won-counties-representing-a-minority-share-of-national-gdp-but-with-notable-gains/",
+        "credibility": "High"
+      },
+      {
+        "content": "Gavin Newsom, X post , July 14, 2025",
+        "url": "https://x.com/GavinNewsom/status/1944827167990538371",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. California tends to pay more in individual and corporate federal taxes than Texas does, because of its larger population and higher incomes. Newsom's",
+    "topic": "Politics"
+  },
+  {
+    "claim": "El sheriff del condado Kerr, Texas dijo, \"que se debe solicitar la residencia permanente para el equipo de rescate mexicano que rescató a su familia\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "No hay informes de noticias que digan que el sheriff del condado Kerr, Larry Leitha, dijo que se debe solicitar la residencia permanente para un equipo mexicano que rescató a su familia durante las inundaciones del 4 de julio en Texas. PolitiFact no encontró que Leitha dijera eso cuando vimos varias conferencias de prensa sobre los esfuerzos de recuperación de las inundaciones en el condado Kerr, Texas.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: El sheriff del condado Kerr, Texas dijo, \"que se debe solicitar la residencia pe...",
+        "url": "https://www.politifact.com/factchecks/2025/jul/16/tiktok-posts/Inundaciones-Kerr-sheriff-rescatistas-mexicanos/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. No hay informes de noticias que digan que el sheriff del condado Kerr, Larry Leitha, dijo que se debe solicitar la residencia permanente para un equip",
+    "topic": "Politics"
+  },
+  {
+    "claim": "There is \"zero impact\" from Alligator Alcatraz on the Florida Everglades.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Florida Gov. Ron DeSantis provided no materials explaining how he concluded Alligator Alcatraz has \"zero impact.\" Environmental groups filed a lawsuit for failing to conduct an environmental assessment. Environmentalists, environmental lawyers and Florida professors cite increased human activity in the region as an environmental stressor. Potential effects include increased light and air pollution, habitat degradation for endangered species such as the Florida panther, and waste spills. The concrete airstrip serving as the detention facility's base was abandoned after an environmental report concluded that turning the area into a massive jetport would \"inexorably destroy the south Florida ecosystem and thus the Everglades National Park.\"",
+    "evidence_sources": [
+      {
+        "content": "U.S. Geological Survey, Florida Everglades: Subsidence threatens agriculture and complicates ecosystem restoration",
+        "url": "https://pubs.usgs.gov/circ/circ1182/pdf/12Everglades.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Solecki et al (1999). Human-environment interaction in South Florida's Everglades region: Systems of ecological degradation and restoration. Urban Ecosystems. 3. 305-343. 10.1023/A:1009560702266.",
+        "url": "https://www.researchgate.net/publication/226711829_Human-environment_interaction_in_South_Florida's_Everglades_region_Systems_of_ecological_degradation_and_restoration",
+        "credibility": "High"
+      },
+      {
+        "content": "LiveNow from Fox, President Trump participates in 'Alligator Alcatraz' roundtable discussion , July 1, 2025",
+        "url": "https://www.youtube.com/watch?v=UoeuYX_rl_g",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Florida Gov. Ron DeSantis provided no materials explaining how he concluded Alligator Alcatraz has \"zero impact.\" Environmental groups filed a lawsuit",
+    "topic": "Environment"
+  },
+  {
+    "claim": "\"ICE will now become the country's largest federal law enforcement agency, bigger than the FBI, bigger than the DEA.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "President Donald Trump's signature law includes about $75 billion for ICE over four years, including $45 billion for new immigration detention beds and $30 billion to hire 10,000 ICE employees, upgrade facilities and more. ICE becomes the highest-funded federal law enforcement agency under Trump's law compared with the FBI and DEA's existing budgets. But base budgets for all three agencies could change. ICE still trails the FBI in terms of overall staffing, but ICE's number of staff with arrest authority could surpass the FBI in coming years, depending on the breakdown of its new 10,000 hires.",
+    "evidence_sources": [
+      {
+        "content": "Homeland Security, Secretary Noem Commends President Trump and One Big Beautiful Bill Signing into Law: Historic Win for the American People and the Rule of Law , July 4, 2025",
+        "url": "https://www.dhs.gov/news/2025/07/04/secretary-noem-commends-president-trump-and-one-big-beautiful-bill-signing-law",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Research Service, The Federal Bureau of Investigation , May 5, 2025",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10651/IF10651.4.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Justice Department, Fiscal year 2026 budget and performance summary , June 13, 2025",
+        "url": "https://www.justice.gov/media/1403736/dl",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. President Donald Trump's signature law includes about $75 billion for ICE over four years, including $45 billion for new immigration detention beds an",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Former Gov. Roy Cooper is scheduled to speak at a Winston-Salem coffee shop July 18 at 11 a.m. about the \"future of North Carolina.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Former Gov. Roy Cooper is scheduled to speak at a Winston-Salem coffee shop July 18 at 11 a.m. about the \"future of North Carolina.\"By Will Doran • July 10, 2025",
+    "evidence_sources": [
+      {
+        "content": "North State Journal, \" NC Democratic Congressman Don Davis considering run for Tillis Senate Seat ,\" July 10, 2025.",
+        "url": "https://nsjonline.com/article/2025/07/nc-democratic-congressman-don-davis-considering-run-for-tillis-senate-seat/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Telephone interview with Jeremy Davis, lead singer for the Elonzo Wesley band .",
+        "url": "https://www.elonzowesley.com/about/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Former Gov. Roy Cooper is scheduled to speak at a Winston-Salem coffee shop July 18 at 11 a.m. about the \"future of North Carolina.\"By Will Doran • Ju",
+    "topic": "Politics"
+  },
+  {
+    "claim": "President Donald Trump's tax law has \"tax breaks for billionaires, permanent; tax breaks for everybody else, expire.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Some of the law's provisions benefitting taxpayers of ordinary means — including tax cuts for tipped and overtime income — are set to expire in 2028. Multimillionaires will benefit from a permanent increase in the size of estates protected from the estate tax. And wealthier Americans gain disproportionately from the bill's provisions. But several of the bill's other key elements are permanent and affect people of all income levels, including its extension of the 2017 tax cuts.",
+    "evidence_sources": [
+      {
+        "content": "Hakeem Jeffries, remarks in the Congressional Record , July 2, 2025",
+        "url": "https://www.congress.gov/119/crec/2025/07/02/171/114/CREC-2025-07-02-house.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Tax Foundation, \" 'One Big Beautiful Bill Act' Tax Policies: Details and Analysis ,\" July 3, 2025",
+        "url": "https://taxfoundation.org/research/all/federal/big-beautiful-bill-senate-gop-tax-plan/",
+        "credibility": "High"
+      },
+      {
+        "content": "Urban Institute-Brookings Institution Tax Policy Center, \" T25-0231 – Reconciliation Bill, One Big Beautiful Bill Act (OBBBA), As Passed by the House and Senate, Distribution by ECI Percentile, 2026 ,\" accessed July 7, 2025",
+        "url": "https://taxpolicycenter.org/model-estimates/T25-0231",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Some of the law's provisions benefitting taxpayers of ordinary means — including tax cuts for tipped and overtime income — are set to expire in 2028.",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Idaho shooting suspect Wess Roley faced criminal charges and had a no-contact order from his family.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Idaho authorities said based on a national criminal history check for adult records, they found no previous criminal record for Idaho shooting suspect Wess Roley. City and county authorities said they'd had minor interactions with Roley. ​",
+    "evidence_sources": [
+      {
+        "content": "X post , June 30, 2025",
+        "url": "https://x.com/Eorlby/status/1939703887247601799",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post , June 30, 2025",
+        "url": "https://x.com/SarahisCensored/status/1939732846245290444",
+        "credibility": "Medium"
+      },
+      {
+        "content": "YouTube video from the New York Post, Live: Kootenai County Sheriff provides update after 'sniper' ambushes crew responding to Idaho blaze , June 30, 2025",
+        "url": "https://www.youtube.com/watch?v=vMGLX0aRyW8",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Idaho authorities said based on a national criminal history check for adult records, they found no previous criminal record for Idaho shooting suspect",
+    "topic": "Society"
+  },
+  {
+    "claim": "The One Big Beautiful Bill will deliver the promise of \"no tax on Social Security.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "As a 2024 candidate, Donald Trump promised to end the taxation of Social Security. Both the House and Senate versions of his \"Big Beautiful Bill\" would cut taxes for many Social Security beneficiaries, but they would not eliminate Social Security taxation altogether. A representative from the Joint Committee on Taxation, the bipartisan body of Congress that analyzes proposed tax legislation, said 24 million Americans would still pay some amount of tax on their Social Security benefits.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Senate Committee on the Budget, Chairman Graham Releases Full Senate Text Of President's One Big Beautiful Bill , June 28, 2025",
+        "url": "https://www.budget.senate.gov/chairman/newsroom/press/chairman-graham-releases-full-senate-text-of-presidents-one-big-beautiful-bill",
+        "credibility": "High"
+      },
+      {
+        "content": "White House, Myth vs. Fact: The One Big Beautiful Bill , June 29, 2025",
+        "url": "https://www.whitehouse.gov/articles/2025/06/myth-vs-fact-the-one-big-beautiful-bill/",
+        "credibility": "High"
+      },
+      {
+        "content": "Social Security Administration, Retired worker beneficiaries in current payment status at the end of December 2024, distributed by age and sex , accessed June 30, 2025",
+        "url": "https://www.ssa.gov/oact/progdata/benefits/ra_age202412.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. As a 2024 candidate, Donald Trump promised to end the taxation of Social Security. Both the House and Senate versions of his \"Big Beautiful Bill\" woul",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"If every one of the 340 million people in America paid a new $35 copay to visit the doctor, that still wouldn't be enough to cover how much Meta would get from just one tax break in Donald Trump's 'Big Beautiful Bill.'\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The House-passed version of President Donald Trump's signature tax and spending bill doesn't include a research and development tax break that could benefit Meta. The Senate version includes a tax break similar to one a policy group estimates would save Meta $15.1 billion over three years. Sen. Elizabeth Warren, D-Mass., compared it with a cumulative $11.9 billion price tag for millions of medical copays she said could result from the Trump bill. Warren's comparison of the two dollar amounts isn't apples-to-apples, experts say.",
+    "evidence_sources": [
+      {
+        "content": "Sen. Elizabeth Warren, X post , June 24, 2025",
+        "url": "https://archive.ph/j40Dp",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Sen. Tim Kaine, \"The Big Beautiful Betrayal—Working Folks Pay While The Mega Rich Profit, \" June 17, 2025",
+        "url": "https://www.youtube.com/watch?v=b6ZA_4xNoOM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Institute on Taxation and Economic Policy, The Five Biggest Corporations Represented at Trump's Inauguration Could Save $75 Billion from One Tax Break Before Congress , Feb. 11, 2025",
+        "url": "https://itep.org/alphabet-amazon-apple-meta-tesla-corporate-tax-cuts-trump-tax-law/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The House-passed version of President Donald Trump's signature tax and spending bill doesn't include a research and development tax break that could b",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"Undocumented immigrants paid more taxes last year than Amazon, GM, IBM & Netflix combined.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The left-leaning Institute on Taxation and Economic Policy found that immigrants who are in the U.S. illegally paid $19.5 billion in federal income taxes in 2022. Yale University's nonpartisan Budget Lab estimated that people in the U.S. illegally paid $22 billion in federal income taxes in 2023. Tax disclosures by Amazon, General Motors, IBM and Netflix show the companies paid just over $5 billion in federal income taxes in 2022 combined and $15 billion in 2024.",
+    "evidence_sources": [
+      {
+        "content": "United States Department of the Treasury, Administration of the Individual Taxpayer Identification Number Program , December 19, 2023",
+        "url": "https://www.tigta.gov/sites/default/files/reports/2024-11/2024400012fr.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Department of Homeland Security, Estimates of the Unauthorized Immigrant Population Residing in the United States: January 2018–January 2022 , April 2024",
+        "url": "https://ohss.dhs.gov/sites/default/files/2024-06/2024_0418_ohss_estimates-of-the-unauthorized-immigrant-population-residing-in-the-united-states-january-2018%25E2%2580%2593january-2022.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "United States Bureau of Labor Statistics, May 2023 California Occupational Employment and Wage Estimates , April 3, 2024",
+        "url": "https://www.bls.gov/oes/2023/may/oes_ca.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The left-leaning Institute on Taxation and Economic Policy found that immigrants who are in the U.S. illegally paid $19.5 billion in federal income ta",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"A lot of times, health care comes with a job.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "In the context of policy discussions regarding proposed Medicaid cuts, Medicaid work requirements, and other heatlh coverage issues, Sen. John Thune, R-S.D., pointed out the link between health care and employment. Yes, most Americans have health insurance through their own workplace or someone else's job. But not all employers provide health insurance or offer plans to all their workers. When they do, cost and quality vary widely, making Thune's statement an oversimplification.",
+    "evidence_sources": [
+      {
+        "content": "Brookings, \" Uninsurance Rates Have Fallen Significantly Following the Affordable Care Act ,\" July 22, 2024.",
+        "url": "https://www.brookings.edu/articles/uninsurance-rates-have-fallen-significantly-following-the-affordable-care-act/",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office letter on the One Big Beautiful Bill Act increasing the number of uninsured people, June 4, 2025.",
+        "url": "https://www.cbo.gov/system/files/2025-06/Wyden-Pallone-Neal_Letter_6-4-25.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Phone interview with Paul Fronstin, director of health benefits research at the Employee Benefit Research Institute and a member of the Commonwealth Fund's National Task Force on the Future Role of Employers in the U.S. Health System, June 6, 2025.",
+        "url": "https://kff4.sharepoint.com/sites/StoryTrackerforKFFHN/Shared%20Documents/Signoff/Zionts%20Thune%20Jobs%20Health%20Insurance_FOR%20SIGNOFF.docx#_msocom_79",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. In the context of policy discussions regarding proposed Medicaid cuts, Medicaid work requirements, and other heatlh coverage issues, Sen. John Thune,",
+    "topic": "Health"
+  },
+  {
+    "claim": "\"The tow truck drivers in Los Angeles are quickly towing ICE vehicles improperly parked!\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Tow truck drivers are not targeting U.S. Immigration and Customs Enforcement vehicles. The claim originated from a satire site. In California, towing companies are not allowed to act on their own accord. Law enforcement or traffic enforcement officers must authorize a tow.",
+    "evidence_sources": [
+      {
+        "content": "X post , June 20, 2025",
+        "url": "https://archive.ph/ewUAq",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post, June 24, 2025",
+        "url": "https://archive.ph/Aikpd",
+        "credibility": "Medium"
+      },
+      {
+        "content": "TikTok, June 24, 2025",
+        "url": "https://archive.ph/bI4VN",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Tow truck drivers are not targeting U.S. Immigration and Customs Enforcement vehicles. The claim originated from a satire site. In California, towing",
+    "topic": "Politics"
+  },
+  {
+    "claim": "New York City mayoral candidate Zohran Mamdani is a communist.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "New York City mayoral candidate Zohran Mamdani's platform proposes free buses and day care, rent control and city-owned grocery stores to make city living more affordable. Mamdani's platform is not akin to communism, a system of government which calls for government takeover of private property and control of industry. Mamdani describes himself as a democratic socialist, which in the U.S. generally refers to generous social insurance programs such as heavily subsidized child care and high tax rates to pay for education and health care.",
+    "evidence_sources": [
+      {
+        "content": "Institute For Local Self-Reliance, Community Wins: In the Face of Consolidation, Communities are Opening Their Own Grocery Stores , August 2, 2023",
+        "url": "https://ilsr.org/articles/community-wins-in-the-face-of-food-deserts-local-governments-and-communities-are-opening-their-own-grocery-stores/",
+        "credibility": "High"
+      },
+      {
+        "content": "President Donald Trump, Truth Social post, June 25, 2025",
+        "url": "https://archive.ph/nS81e",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Nick Sortor, X Post ( archived ), June 23, 2025",
+        "url": "https://x.com/nicksortor/status/1937328255075279212",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. New York City mayoral candidate Zohran Mamdani's platform proposes free buses and day care, rent control and city-owned grocery stores to make city li",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"The state of Illinois has a lower income tax rate than we do, and a flat tax. It's almost half of what the top bracket here in Wisconsin is.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Illinois has a flat tax of 4.95%, which applies to all filers. Wisconsin has progressive tax, which ranges from 3.5% to 7.65% depending on marital status and income level. Many middle-class earners fall in the third bracket with a 5.3% rate, which is higher than Illinois. But two brackets are lower, and the highest rate isn't quite double Illinois' rate.",
+    "evidence_sources": [
+      {
+        "content": "Illinois Department of Revenue, Income Tax Rates .",
+        "url": "https://tax.illinois.gov/research/taxrates/income.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Revenue, Tax Rates .",
+        "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-taxrates.aspx",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin State Legislature, Assembly Bill 1 , 2023-24.",
+        "url": "https://docs.legis.wisconsin.gov/2023/proposals/ab1",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Illinois has a flat tax of 4.95%, which applies to all filers. Wisconsin has progressive tax, which ranges from 3.5% to 7.65% depending on marital sta",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Video shows protesters \"outraged\" over U.S. attacks in Iran.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Footage of a protest originates from a San Diego \"No Kings\" demonstration on June 14.",
+    "evidence_sources": [
+      {
+        "content": "X post, June 22, 2025",
+        "url": "https://x.com/Priyaa_Purohit/status/1936687674443866276",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, Israel's overnight strike on Iran in maps and images, June 13, 2025",
+        "url": "https://www.bbc.com/news/articles/crr7gdr82e0o",
+        "credibility": "Medium"
+      },
+      {
+        "content": "AP News, Israel strikes Iran's nuclear sites and kills top generals. Iran retaliates with missile barrages, June 18, 2025",
+        "url": "https://apnews.com/article/iran-explosions-israel-tehran-00234a06e5128a8aceb406b140297299",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Footage of a protest originates from a San Diego \"No Kings\" demonstration on June 14.",
+    "topic": "Politics"
+  }
+]

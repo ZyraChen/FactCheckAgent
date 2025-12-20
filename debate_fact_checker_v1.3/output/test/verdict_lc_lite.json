@@ -1,0 +1,30 @@
+{
+  "decision": "Supported",
+  "confidence": 0.5,
+  "reasoning": "Claim包含两个关键事实：越南通过《人工智能法》，以及在最后一次立法会议中通过51项法案。越通社（zh.vietnamplus.vn）明确报道12月10日国会通过《人工智能法》等法律；越南中文社（yuenan.com）和cn.qdnd.vn均指出本次会议通过51部法律、39项决议。这些来自官方或权威媒体的信息相互印证，直接验证了claim全部必要组成部分，无矛盾或模糊之处，因此判定为Supported。",
+  "key_evidence_ids": [
+    "con_2_d71b349f",
+    "pro_2_b3e65c38",
+    "con_2_1b72a31f"
+  ],
+  "accepted_evidence_ids": [
+    "con_1_bd3fee7b",
+    "pro_3_bfe4935b",
+    "con_3_50777ea5",
+    "pro_2_99087583",
+    "con_1_d81809f2",
+    "pro_1_e743e963",
+    "con_3_3b1c01ca",
+    "con_2_d71b349f",
+    "pro_2_b3e65c38",
+    "pro_1_65371171",
+    "con_2_1b72a31f",
+    "pro_3_03919c05"
+  ],
+  "pro_strength": 0.14765999999999999,
+  "con_strength": 0.07307999999999999,
+  "total_evidences": 12,
+  "accepted_evidences": 12,
+  "publish_date": null,
+  "retrieved_at": "2025-12-19 21:44:03.409182"
+}

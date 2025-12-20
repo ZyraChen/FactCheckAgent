@@ -1,0 +1,2582 @@
+[
+  {
+    "claim": "Companies called \"T-Mellon Events\" and \"Fight Fite Fight LLC\" are offering to pay \"seat fillers\" in Washington, D.C, on June 14.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "White House Deputy Press Secretary Anna Kelly called the Craigslist ad \"fake.\" We find no evidence the companies Fight Fite Fight LLC and T-Mellon Events are legitimate. The ad, still posted as of June 13, contained references and phrasing that some read as satirical.",
+    "evidence_sources": [
+      {
+        "content": "Craigslist posting, accessed June 11, 2025",
+        "url": "https://web.archive.org/web/20250611111507/https://washingtondc.craigslist.org/doc/tlg/d/washington-seat-fillers-needed-june/7857143452.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Craigslist posting, accessed June 13, 2025",
+        "url": "https://archive.ph/IJSqP",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post, June 11, 2025",
+        "url": "https://archive.ph/tw9sq",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. White House Deputy Press Secretary Anna Kelly called the Craigslist ad \"fake.\" We find no evidence the companies Fight Fite Fight LLC and T-Mellon Eve",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Craigslist ad was \"recruiting people for LA 'protests.'\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This Craigslist ad was posted June 5, a day before the Los Angeles protests started. It was created for an online prank show called \"Goofcon1.\" The show's host, Joey LaFleur, told The Associated Press the ad was related to the protests.",
+    "evidence_sources": [
+      {
+        "content": "PolitiFact, A history of hoaxes: Fake Craigslist ads that solicit minority actors for Trump rallies , June 15, 2020",
+        "url": "https://www.politifact.com/factchecks/2020/jun/15/viral-image/history-hoaxes-fake-craigslist-ads-solicit-minorit/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, No, this Craigslist ad for paid 'anti-Trump' protesters is phony , June 25, 2020",
+        "url": "https://www.politifact.com/factchecks/2020/jun/25/facebook-posts/photo-craigslist-advertisement-anti-trump-proteste/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, No, that Craigslist ad offering to pay for Trump support is phony , Nov. 11, 2019",
+        "url": "https://www.politifact.com/factchecks/2019/nov/11/facebook-posts/no-craigslist-ad-offering-pay-trump-support-phony/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This Craigslist ad was posted June 5, a day before the Los Angeles protests started. It was created for an online prank show called \"Goofcon1.\" The sh",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"President Trump has granted pardons that have wiped out over $1 billion in debts owed by wealthy Americans who have committed fraud and broken the law.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Former Justice Department pardon attorney Liz Oyer cited 24 pardons President Donald Trump issued, along with fines and restitution she said the convicted people owed before their pardons erased their financial obligations. She cited $1.3 billion in total forgiven payments. The single biggest amount — about $676 million — was what prosecutors sought, but had not been formally approved by a judge prior to the pardon's issuance, making the dollar figure uncertain. It could have been that much, but a judge could have increased or decreased it.",
+    "evidence_sources": [
+      {
+        "content": "Pardon warrants for Trevor Milton , Ross William Ulbricht , HDR Global Trading Limited , Lawrence Duran , Devon Archer , Carlos Watson , Ozy Media Inc. , Todd Chrisley , Julie Chrisley , Michael Grimm , John Rowland , Michelle Fiore and Alexander Sittenfeld .",
+        "url": "https://www.justice.gov/pardon/media/1395001/dl?inline",
+        "credibility": "High"
+      },
+      {
+        "content": "Justice Department, \" Clemency Grants by President Donald J. Trump ,\" accessed June 5, 2025",
+        "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+        "credibility": "High"
+      },
+      {
+        "content": "Justice Department, \" Effects of a Presidential Pardon ,\" June 19, 2025",
+        "url": "https://biotech.law.lsu.edu/blaw/olc/pardon3.19.htm#N_7_",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. Former Justice Department pardon attorney Liz Oyer cited 24 pardons President Donald Trump issued, along with fines and restitution she said the convi",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"One out of every $5 or $6 in Medicaid (payments) is improper.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The Centers for Medicare & Medicaid Services reported in 2024 that Medicaid's improper payment rate over the previous three years was less than 5.1%. A health policy analyst who worked for the White House during President Donald Trump's first term has said methodological shortcomings in the agency's analysis could mean the rate is as high as 25%. But this is speculative. The vast majority of improper payments stem from documentation mistakes and do not fit the definition of waste, fraud or abuse. They also typically stem from health care providers' actions, not beneficiaries' abuse.",
+    "evidence_sources": [
+      {
+        "content": "Centers for Medicare & Medicaid Services, \" Fiscal Year 2024 Improper Payments Fact Sheet ,\" Nov. 15, 2024",
+        "url": "https://www.cms.gov/newsroom/fact-sheets/fiscal-year-2024-improper-payments-fact-sheet",
+        "credibility": "High"
+      },
+      {
+        "content": "Centers for Medicare & Medicaid Services, \" PERM Error Rate Findings and Reports ,\" accessed June 4, 2025",
+        "url": "https://www.cms.gov/data-research/monitoring-programs/improper-payment-measurement-programs/payment-error-rate-measurement-perm/perm-error-rate-findings-and-reports",
+        "credibility": "High"
+      },
+      {
+        "content": "Centers for Medicare & Medicaid Services, \"2024 Medicaid & CHIP Supplemental Improper Payment Data ,\" accessed June 4, 2025",
+        "url": "https://www.cms.gov/files/document/2024-medicaid-and-chip-supplemental-improper-payment-data.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The Centers for Medicare & Medicaid Services reported in 2024 that Medicaid's improper payment rate over the previous three years was less than 5.1%.",
+    "topic": "Health"
+  },
+  {
+    "claim": "The state budget contains the largest middle class tax cut in 70 years.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Personal income tax rates for the middle class in New York state have fallen by greater amounts in other years. Hochul has repeated this claim, but her staff told PolitiFact that she meant to say the rate would be the lowest in 70 years. Experts said comparing tax rates over decades is not useful because of changes over time in tax brackets, the economy, and other factors.",
+    "evidence_sources": [
+      {
+        "content": "CNN News Central, interview with Gov. Hochul , May 5, 2025.",
+        "url": "https://www.governor.ny.gov/news/video-rush-transcript-governor-hochul-guest-cnn-news-central",
+        "credibility": "High"
+      },
+      {
+        "content": "Gov. Hochul news release, \"B-Roll, Video, Audio, Photos & Rush Transcript: Governor Hochul Visits Suffolk County Family to Discuss Affordability Actions in FY26 Budget,\" May 5, 2025.",
+        "url": "https://www.governor.ny.gov/news/b-roll-video-audio-photos-rush-transcript-governor-hochul-visits-suffolk-county-family-discuss",
+        "credibility": "High"
+      },
+      {
+        "content": "Gov. Hochul news release, \"B-Roll, Video, Audio, Photos & Rush Transcript: We Got It Done: Governor Hochul Celebrates Historic $2.2 Billion Investment in Child Care for New York Families,\" May 2, 2025.",
+        "url": "https://www.governor.ny.gov/news/b-roll-video-audio-photos-rush-transcript-we-got-it-done-governor-hochul-celebrates-historic",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Personal income tax rates for the middle class in New York state have fallen by greater amounts in other years. Hochul has repeated this claim, but he",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"We are not cutting\" the Supplemental Nutrition Assistance Program.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The House-passed GOP bill that includes many of President Donald Trump's policy priorities has multiple provisions that would change how Supplemental Nutrition Assistance Program benefits are distributed, including expanded work requirements and mandated state contributions. The nonpartisan Congressional Budget Office estimated that, if enacted, 3.2 million fewer people per month on average would receive benefits over the next nine years, based solely on the bill's provisions expanding work requirements. The nonpartisan Urban Institute found that the work requirement expansion alone could lead to 5.4 million people losing some or all of their monthly SNAP benefits.",
+    "evidence_sources": [
+      {
+        "content": "Congress.gov, H.R.1 - One Big Beautiful Bill Act",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1/text",
+        "credibility": "High"
+      },
+      {
+        "content": "Government Accountability Office, Improper Payments: USDA's Oversight of the Supplemental Nutrition Assistance Program , Sept. 26, 2024",
+        "url": "https://www.gao.gov/products/gao-24-107461",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Economic Research Service, Supplemental Nutrition Assistance Program (SNAP) - Key Statistics and Research , accessed May 28, 2025",
+        "url": "https://www.ers.usda.gov/topics/food-nutrition-assistance/supplemental-nutrition-assistance-program-snap/key-statistics-and-research",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The House-passed GOP bill that includes many of President Donald Trump's policy priorities has multiple provisions that would change how Supplemental",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Rep. LaMonica McIver, D-N.J., started singing during a May 20 CNN interview.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Rep. LaMonica McIver, D-NJ., did not sing during a CNN interview. A video circulating on X is altered.",
+    "evidence_sources": [
+      {
+        "content": "MSNBC YouTube video, MSNBC Live moderates a DNC forum live from Georgetown University , Jan. 30, 2025",
+        "url": "https://www.youtube.com/watch?v=mYGNpj0qqow",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, Rep. McIver speaks out after DOJ charged her with assaulting a federal officer , May 20, 2025",
+        "url": "https://www.cnn.com/2025/05/20/politics/video/rep-mciver-ice-facility-doj-assault-charges-cnc-digvid",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, Rep. LaMonica McIver charged with assaulting two agents in New Jersey ICE clash , May 20, 2025",
+        "url": "https://www.washingtonpost.com/national-security/2025/05/19/rep-lamonica-mciver-charged-doj-ice/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Rep. LaMonica McIver, D-NJ., did not sing during a CNN interview. A video circulating on X is altered.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "In the House bill, \"we're not changing Medicaid,\" only cutting \"waste, fraud and abuse.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The legislation includes some provisions that can improve the detection of beneficiaries who aren't eligible for Medicaid coverage. However, the bill also cuts reimbursements for states that cover people in the U.S. illegally, mandates that recipients work 80 hours a month, and bans payments to nonprofits that provide abortions. These changes align with Republicans' ideological views. Other changes aim to cut expenses, including imposing copays and shortening the window for retroactive coverage when someone applies to the program.",
+    "evidence_sources": [
+      {
+        "content": "Center for Medicare & Medicaid Services, \" Frequently Asked Questions (FAQs): Medicare & Medicaid Fraud, Waste, and Abuse ,\" accessed May 21, 2025",
+        "url": "https://cmsnationaltrainingprogram.cms.gov/sites/default/files/shared/C-10_FAQ_Medicare_%26_Medicaid_Fraud_Waste_Abuse_Prevention_12-8-2022.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, remarks to reporters in the Capitol , May 20, 2025",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-us-capitol-meeting-may-20-2025/#19",
+        "credibility": "Medium"
+      },
+      {
+        "content": "KFF, \" Health Provisions in the 2025 Federal Budget Reconciliation Bill ,\" updated May 20, 2025",
+        "url": "https://www.kff.org/tracking-the-medicaid-provisions-in-the-2025-budget-bill/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The legislation includes some provisions that can improve the detection of beneficiaries who aren't eligible for Medicaid coverage. However, the bill",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Que California ofrezca acceso asequible a cuidado de salud para los inmigrantes ilegalmente en EE.UU.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "El programa Medicaid de California, Medi-Cal, ofrece cobertura de cuidado de salud a unos 15 millones de niños y adultos con bajos ingresos o discapacidades. Alrededor de 1.6 millones de inmigrantes ilegalmente en Estados Unidos están afiliados a Medi-Cal; la mayoría son adultos. El gobernador de California Gavin Newsom propuso congelar la inscripción en 2026 para las personas mayores de 19 años que carezcan de estatus migratorio legal y cobrar a los inscritos una prima mensual de $100 a partir del 2027.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Que California ofrezca acceso asequible a cuidado de salud para los inmigrantes ...",
+        "url": "https://www.politifact.com/factchecks/2025/may/21/gavin-newsom/newsom-defendio-el-medicaid-para-inmigrantes-ilega/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. El programa Medicaid de California, Medi-Cal, ofrece cobertura de cuidado de salud a unos 15 millones de niños y adultos con bajos ingresos o discapac",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Republicans just unveiled their 'big, beautiful bill,' which will take Medicaid & health insurance away from 13.7 million Americans.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The House Republican budget legislation would reduce the number of people with health insurance by at least 8.6 million by 2034, according to a nonpartisan analysis. The proposal is a working draft. Sanders is counting policy changes not in the current draft to reach the higher, 13.7 million figure.",
+    "evidence_sources": [
+      {
+        "content": "White House, \" One, Big, Beautiful Bill PROTECTS Medicaid by REMOVING Illegals from the Program ,\" May 16, 2025",
+        "url": "https://www.whitehouse.gov/articles/2025/05/one-big-beautiful-bill-protects-medicaid-by-removing-illegals-from-the-program/",
+        "credibility": "High"
+      },
+      {
+        "content": "House Energy and Commerce Committee, Chairman Guthrie Introduces Budget Reconciliation Text to be Marked Up , May 11, 2025",
+        "url": "https://energycommerce.house.gov/posts/chairman-guthrie-introduces-budget-reconciliation-text-to-be-marked-up",
+        "credibility": "High"
+      },
+      {
+        "content": "Congressional Budget Office, Subject: E&C Reconciliation Recommendations , May 11, 2025",
+        "url": "https://democrats-energycommerce.house.gov/sites/evo-subsites/democrats-energycommerce.house.gov/files/evo-media-document/cbo-emails-re-e%26c-reconcilation-scores-may-11%2C-2025.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The House Republican budget legislation would reduce the number of people with health insurance by at least 8.6 million by 2034, according to a nonpar",
+    "topic": "Politics"
+  },
+  {
+    "claim": "On California offering affordable health care access for immigrants in the U.S. illegally.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "California's Medicaid program, Medi-Cal, provides health care coverage for about 15 million children and adults with low incomes or disabilities. About 1.6 million immigrants in the U.S. illegally are enrolled in Medi-Cal; the majority are adults. Gov. Gavin Newsom proposed freezing 2026 enrollment for people ages 19 and older who lack lawful immigration status and charging enrollees a $100 monthly premium starting the following year.",
+    "evidence_sources": [
+      {
+        "content": "Gov. Gavin Newsom, May revision 2025-26 , May 14, 2025",
+        "url": "https://ebudget.ca.gov/FullBudgetSummary.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "California Department of Health Care Services, Highlights , May 14, 2025",
+        "url": "https://www.dhcs.ca.gov/Budget/Documents/DHCS-FY-2025-26-May-Revision-Budget-Highlights.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "California Legislative Affairs Office, Understanding Recent Increases in the Medi‑Cal Senior Caseload , March 6, 2025",
+        "url": "https://lao.ca.gov/Publications/Report/5010",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. California's Medicaid program, Medi-Cal, provides health care coverage for about 15 million children and adults with low incomes or disabilities. Abou",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Under a new executive order, prescription drug prices will be reduced \"almost immediately.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "According to the timeline laid out in President Donald Trump's May 12 executive order, prescription drug price reductions would not happen \"almost immediately.\" The order specifies a 30-day period to develop pricing targets for drugmakers, followed by an unspecified amount of time to determine if companies achieve the targets. If they don't meet the price targets, a formal rulemaking process would begin, requiring more time. If the savings are to be passed on to Americans outside federal health insurance programs like Medicare, Congress likely would have to pass a law to enact any price reductions, which would also take time.",
+    "evidence_sources": [
+      {
+        "content": "White House, \" Delivering Most-Favored-Nation Prescription Drug Pricing to American Patients ,\" May 12, 2025",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/05/delivering-most-favored-nation-prescription-drug-pricing-to-american-patients/",
+        "credibility": "High"
+      },
+      {
+        "content": "RAND, \" International Prescription Drug Price Comparisons: Estimates Using 2022 Data ,\" February 2024",
+        "url": "https://aspe.hhs.gov/sites/default/files/documents/8e057b0a094e6f9b9d01171fce6698f4/international-price-comparisons.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Government Accountability Office, \" U.S. Prices for Selected Brand Drugs Were Higher on Average than Prices in Australia, Canada, and France ,\" March 2021",
+        "url": "https://www.gao.gov/assets/gao-21-282.pdf#page=17",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. According to the timeline laid out in President Donald Trump's May 12 executive order, prescription drug price reductions would not happen \"almost imm",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"About 20% of households with veterans rely upon\" the Supplemental Nutrition Assistance Program.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "An April 2 study found that 8% of U.S. veterans rely on Supplemental Nutrition Assistance Program benefits, sometimes referred to as food stamps. No state had a share higher than 14%. Data from a few years earlier show rates from 4.9% to 6.6%.",
+    "evidence_sources": [
+      {
+        "content": "Center on Budget and Policy Priorities, \" SNAP Helps 1.2 Million Veterans With Low Incomes, Including Thousands in Every State ,\" April 2, 2025",
+        "url": "https://www.cbpp.org/research/food-assistance/snap-helps-12-million-veterans-with-low-incomes-including-thousands-in",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Agriculture Department, \" Food Insecurity Among Working-Age Veterans ,\" May 2021",
+        "url": "https://ers.usda.gov/sites/default/files/_laserfiche/publications/101269/ERR-829.pdf?v=45327",
+        "credibility": "High"
+      },
+      {
+        "content": "RAND Corp., \" Food Insecurity Among Veterans ,\" 2023",
+        "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1300/RRA1363-2/RAND_RRA1363-2.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. An April 2 study found that 8% of U.S. veterans rely on Supplemental Nutrition Assistance Program benefits, sometimes referred to as food stamps. No s",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"China makes 80% of all toys\" and \"90% of all Christmas goods\" sold in the U.S.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Data supports Charles Blow's statement that roughly 80% of all toys and 90% of Christmas goods sold in the U.S. are manufactured in China. The U.S. International Trade Commission's 2024 data showed 78.3% of all U.S. toy imports and 85% of Christmas-related imports came from China. Another data source, the Observatory of Economic Complexity, said of the United States' $41 billion imports in toys, games and sports equipment in 2024, $30 billion or about 73.3% came from China. ​",
+    "evidence_sources": [
+      {
+        "content": "CNN News Night episode, May 5, 2025 ( archived )",
+        "url": "https://archive.org/details/CNNW_20250506_070000_CNN_NewsNight_With_Abby_Phillip/start/1860/end/1920",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NBC News, Read the full transcript: President Donald Trump interviewed by 'Meet the Press' moderator Kristen Welker , May 4, 2025",
+        "url": "https://www.nbcnews.com/politics/trump-administration/read-full-transcript-president-donald-trump-interviewed-meet-press-mod-rcna203514",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CNN Transcripts, CNN NewsNight with Abby Phillip , May 5, 2025",
+        "url": "https://transcripts.cnn.com/show/cnap/date/2025-05-05/segment/01",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Data supports Charles Blow's statement that roughly 80% of all toys and 90% of Christmas goods sold in the U.S. are manufactured in China. The U.S. In",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"We have now close to $10 trillion\" in investments. \"We're talking about essentially two months.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The White House has publicly disclosed far less than $10 trillion in investments; it cites $2.1 trillion in corporate investments, or $5.1 trillion when including investments countries have promised. Closer scrutiny of the White House's data shows the $5.1 trillion figure has caveats; it included some already existing investments and represents about $4.3 trillion in newly pledged investment in the U.S. The $2.1 trillion cited in White House documents also merits a grain of salt, experts said, because there is no guarantee that the full amounts promised will come to fruition, and some of this investment would have occurred regardless of who was president.",
+    "evidence_sources": [
+      {
+        "content": "The White House, Major Investment Announcements , accessed May 6, 2025",
+        "url": "https://www.whitehouse.gov/investments/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, TRUMP EFFECT: A Running List of New U.S. Investment in President Trump's Second Term , May 6, 2025",
+        "url": "https://www.whitehouse.gov/articles/2025/05/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/",
+        "credibility": "High"
+      },
+      {
+        "content": "The White House, Remarks By President Trump In Joint Address To Congress , March 6, 2025",
+        "url": "https://www.whitehouse.gov/remarks/2025/03/remarks-by-president-trump-in-joint-address-to-congress/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The White House has publicly disclosed far less than $10 trillion in investments; it cites $2.1 trillion in corporate investments, or $5.1 trillion wh",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Canadian tourism to Florida has declined by 80%.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "President Donald Trump has repeatedly floated the idea of making Canada the 51st U.S. state. More than 3 million Canadian tourists visited Florida in 2024, representing about 2% of all tourist visits to Florida. So far in 2025, Canadian travel bookings to Florida airports are down. The estimated decrease varies depending on the information source.",
+    "evidence_sources": [
+      {
+        "content": "Visit Florida, Florida visitor estimates , 2024",
+        "url": "https://www.visitflorida.org/resources/research/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Customs and Border Protection, Traveler and Conveyance Statistics , accessed May 2, 2025",
+        "url": "https://www.cbp.gov/newsroom/stats/travel",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, Interview with Rep. Jared Moskowitz, D-Fla. , May 1, 2025",
+        "url": "https://www.cnn.com/2025/05/01/Tv/video/sitroom-blitzer-jared-moskowitz-doge-trump-economy",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. President Donald Trump has repeatedly floated the idea of making Canada the 51st U.S. state. More than 3 million Canadian tourists visited Florida in",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"It's estimated\" that President Donald Trump's tariffs will mean \"American families would have to pay about $4,000 more a year.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Four of five independent groups with varying political ideologies estimated that the average per-household loss from President Donald Trump's tariffs will range from $3,100 a year to $4,900 a year. The fifth group estimated a $1,243 loss. Calculating tariffs' impact requires guesswork even in the most straightforward cases; the five estimates' variations stem from different assumptions about how the tariffs will be absorbed into the economy. Making projections is complicated by Trump's starting and stopping of certain tariffs, so these estimates could change.",
+    "evidence_sources": [
+      {
+        "content": "Yale Budget Lab, \" State of U.S. Tariffs: April 15, 2025 \" April 15, 2025",
+        "url": "https://budgetlab.yale.edu/research/state-us-tariffs-april-15-2025",
+        "credibility": "High"
+      },
+      {
+        "content": "Tax Foundation, \" Trump Tariffs: The Economic Impact of the Trump Trade War ,\" April 11, 2025",
+        "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chuck Schumer, remarks on CNN's \" State of the Union ,\" April 27, 2025",
+        "url": "https://transcripts.cnn.com/show/sotu/date/2025-04-27/segment/01",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Four of five independent groups with varying political ideologies estimated that the average per-household loss from President Donald Trump's tariffs",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Kilmar Armando Abrego Garcia \"had 'MS-13' on his knuckles tattooed. … He had 'MS' as clear as you can be. Not 'interpreted.'\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The figures M, S, 1 and 3 and words below the symbols don't appear in other photographs of Kilmar Armando Abrego Garcia's hand, including one shared by the Salvadoran government. Experts in MS-13 and other gangs say the pictorial tattoos shown are not typical designs for MS-13 or other gangs.",
+    "evidence_sources": [
+      {
+        "content": "White House, X post , April 19, 2025",
+        "url": "https://x.com/whitehouse/status/1913621419352563836?s=46&t=vji7d0SSe8CvktyIp5b1Sw",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, interview with ABC News, April 29, 2025",
+        "url": "https://abcnews.go.com/US/full-transcript-trumps-exclusive-100-days-broadcast-interview/story?id=121291672",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, \" Donald Trump's altered Abrego Garcia photo: Why gang experts dismiss MS-13 link to finger tattoos ,\" April 22, 2025",
+        "url": "https://www.politifact.com/article/2025/apr/22/abrego-garcia-finger-tattoos-trump/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The figures M, S, 1 and 3 and words below the symbols don't appear in other photographs of Kilmar Armando Abrego Garcia's hand, including one shared b",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"We had a couple of states where gasoline was at $1.98 a gallon.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "The lowest statewide price during the week President Donald Trump made this remark was $2.66 per gallon, and the national average was about $3.14. April 23 data from GasBuddy.com showed that no gas station out of roughly 150,000 nationally sold gasoline for $1.98 per gallon. While Trump also said his policies are responsible for lowering gasoline prices nationally, there is no evidence of a significant uptick in drilling or production. Analysts credit a gasoline price drop during the past two weeks to an oil production increase by other countries, and concerns about Trump's policies hurting the U.S. global and economic outlook.",
+    "evidence_sources": [
+      {
+        "content": "Energy Information Administration gasoline price data, accessed April 23, 2025",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W",
+        "credibility": "High"
+      },
+      {
+        "content": "State of North Dakota, \" Monthly Bakken Oil Production Statistics ,\" accessed April 23, 2025",
+        "url": "https://www.dmr.nd.gov/oilgas/stats/historicalbakkenoilstats.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Texas Railroad Commission, \" Oil and Gas Division Monthly Crude Oil Production Report ,\" April 16, 2025",
+        "url": "https://www.rrc.texas.gov/media/gqefy2no/own423_20250416_rrc180_feb2025.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. The lowest statewide price during the week President Donald Trump made this remark was $2.66 per gallon, and the national average was about $3.14. Apr",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"If we don't pass the tax bill by the end of the year, we will have the largest tax increase in American history.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "If the Trump-era tax cuts expire, the resulting tax increase would be the largest in peacetime. The increase would be the largest in dollar amount, though economists use GDP to measure tax increases.",
+    "evidence_sources": [
+      {
+        "content": "Congressional Budget Office, \"Budgetary Outcomes Under Alternative Assumptions About Spending and Revenues,\" May 2024.",
+        "url": "https://www.cbo.gov/system/files/2024-05/60114-Budgetary-Outcomes.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "The Tax Foundation, \"Making the Tax Cuts and Jobs Act Permanent: Economic, Revenue, and Distributional Effects,\" Feb. 26, 2025.",
+        "url": "https://taxfoundation.org/research/all/federal/tax-cuts-and-jobs-act-tcja-permanent-analysis/",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Senate Committee on Finance news release, \"Wyden, Merkley, Neal, Boyle Release Staggering New Cost Estimate of Republican Tax Plan, Blast Giveaways to Corporations and the Wealthy,\" April 3, 2025.",
+        "url": "https://www.finance.senate.gov/chairmans-news/wyden-merkley-neal-boyle-release-staggering-new-cost-estimate-of-republican-tax-plan-blast-giveaways-to-corporations-and-the-wealthy",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. If the Trump-era tax cuts expire, the resulting tax increase would be the largest in peacetime. The increase would be the largest in dollar amount, th",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"Less than half of Americans have $1,000 in savings.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "A 2024 Forbes survey found that about 28% of Americans have less than $1,000 in savings. Consumer financial services company Bankrate found in 2025 that most Americans do not have enough savings to meet expert recommendations of three to six months of living expenses, and many are financially vulnerable due to inflation and rising costs. The Federal Reserve Bank's most recent survey of consumer finances found that average Americans have $8,000 in their bank accounts at any given time.",
+    "evidence_sources": [
+      {
+        "content": "Federal Reserve Board, Changes in U.S. Family Finances from 2019 to 2022 , October 2023",
+        "url": "https://www.federalreserve.gov/publications/files/scf23.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Motley Fool, The Average Savings Account Balance , Feb. 11, 2025",
+        "url": "https://www.fool.com/money/research/average-savings-account-balance/",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN, State of the Union with Jake Tapper , April 6, 2025",
+        "url": "https://www.cnn.com/2025/04/06/politics/video/sotu-governor-walz-says-americans-are-rising-up-asking-leadership-to-do-something",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. A 2024 Forbes survey found that about 28% of Americans have less than $1,000 in savings. Consumer financial services company Bankrate found in 2025 th",
+    "topic": "Economy"
+  },
+  {
+    "claim": "On enacting country-by-country tariffs April 9.",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "On April 7, a reporter asked President Donald Trump if he would be open to pausing tariffs to allow for negotiation. Trump said, \"Well, we're not looking at that.\" White House Press Secretary Karoline Leavitt said April 7 that the idea that Trump was going to issue a 90-day pause was \"fake news.\" On April 9, Trump announced a 90-day pause on some tariffs, lowering the amount for all partners to 10%. He excluded China.",
+    "evidence_sources": [
+      {
+        "content": "Factbase, Remarks: Donald Trump Holds a Bilat with Benjamin Netanyahu of Israel , April 7, 2025",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-benjamin-netanyahu-israel-april-7-2025/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "White House Rapid Response 47, X post, April 7, 2025",
+        "url": "https://x.com/RapidResponse47/status/1909255140671984072",
+        "credibility": "Medium"
+      },
+      {
+        "content": "President Donald Trump, Truth Social post , April 7, 2025",
+        "url": "https://truthsocial.com/@realDonaldTrump/posts/114297166113853713",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. On April 7, a reporter asked President Donald Trump if he would be open to pausing tariffs to allow for negotiation. Trump said, \"Well, we're not look",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Men \"have the lowest college attainment rate ever.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "According to the National Center for Education Statistics, four men were enrolled in postsecondary institutions for every six women in 2023, a historic low. Men are less likely to enroll in and complete college than women. The American Council of Education said this trend is more pronounced among Black and Latino men. Experts link decreased male college attainment levels in part to K-12 educational disparities on measures such as grade point average.",
+    "evidence_sources": [
+      {
+        "content": "National Center for Education Statistics, Historical summary of faculty, enrollment, degrees conferred, and finances in degree-granting postsecondary institutions: Selected academic years, 1869-70 through 2020-21 , May 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_301.20.asp?current=yes",
+        "credibility": "High"
+      },
+      {
+        "content": "National Center for Education Statistics, Total fall enrollment in degree-granting postsecondary institutions, by attendance status, sex of student, and control of institution: Selected years, 1947 through 2031 , December 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_303.10.asp",
+        "credibility": "High"
+      },
+      {
+        "content": "National Center for Education Statistics, Percentage of 18- to 24-year-olds enrolled in college, by level of institution and sex and race/ethnicity of student: 1970 through 2022 , August 2023.",
+        "url": "https://nces.ed.gov/programs/digest/d23/tables/dt23_302.60.asp",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. According to the National Center for Education Statistics, four men were enrolled in postsecondary institutions for every six women in 2023, a histori",
+    "topic": "Society"
+  },
+  {
+    "claim": "Says Kevin Hassett, National Economic Council director, said on April 7, \"Trump is considering a 90-day pause in tariffs for all countries except China.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "X accounts significantly exaggerated a noncommittal response from National Economic Council Director Kevin Hassett about the possibility of a 90-day tariff pause. CNBC anchors repeated the unconfirmed information and later aired a correction. The White House X account called the speculation \"fake news.\" Searching Google and the Nexis news database, we found no credible reports that the Trump administration ever publicly considered a 90-day tariff pause.",
+    "evidence_sources": [
+      {
+        "content": "Walter Bloomberg @DeItaone X post , April 7, 2025",
+        "url": "https://archive.is/tzWmE",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Rapid Response 47 X post , April 7, 2025",
+        "url": "https://x.com/RapidResponse47/status/1909254710361575428",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Rapid Response 47 X post , April 7, 2025",
+        "url": "https://x.com/RapidResponse47/status/1909254335822692548",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. X accounts significantly exaggerated a noncommittal response from National Economic Council Director Kevin Hassett about the possibility of a 90-day t",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"White hats to investigate Wisconsin Supreme Court election.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This claim originated on a site that publishes fabricated and sensational stories.",
+    "evidence_sources": [
+      {
+        "content": "The Associated Press, Wisconsin Supreme Court to tackle abortion, unions and redistricting after a liberal's win , April 2, 2025",
+        "url": "https://apnews.com/article/wisconsin-supreme-court-elon-musk-trump-1a20a047437f69553730dfc096abd729",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Hangings, guillotines and Gitmo: Going behind Real Raw News' sensational (and fabricated) headlines , Sept. 24, 2021",
+        "url": "https://www.politifact.com/article/2021/sep/24/hangings-guillotines-and-gitmo-going-behind-real-r/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PBS NewsHour, Wisconsin's conservative Supreme Court candidate tells supporters to accept election outcome , April 2, 2025",
+        "url": "https://www.pbs.org/newshour/politics/wisconsins-conservative-supreme-court-candidate-tells-supporters-to-accept-election-outcome",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This claim originated on a site that publishes fabricated and sensational stories.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Says Elon Musk wrote on X, \"The DOGE team has discovered tens of millions of dollars spent on golf by a single government official.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This X post was fabricated.",
+    "evidence_sources": [
+      {
+        "content": "X account , visited April 4, 2026",
+        "url": "https://x.com/search?q=from%3Aelonmusk%20The%20DOGE%20team%20has%20discovered%20TENS%20OF%20MILLIONS%20OF%20DOLLARS%20spent%20on%20GOLF%20by%20a%20SINGLE%20GOVERNMENT%20OFFICIAL.%20Stay%20tuned%20for%20when%20we%20figure%20out%20who%20it%20is%22&src=typed_query",
+        "credibility": "High"
+      },
+      {
+        "content": "Facebook post , March 31, 2025",
+        "url": "https://archive.is/73Qji",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Guardian, US taxpayers have shelled out tens of millions of dollars for Trump's golf trips , March 9, 2025",
+        "url": "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This X post was fabricated.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Photo shows a missing police officer in \"extreme danger.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This police officer is \"alive and well,\" her police department said in a post. Her photo is being misused in online scams.",
+    "evidence_sources": [
+      {
+        "content": "KRTV, Police warn of FAKE post featuring GFPD sergeant , March 28, 2025",
+        "url": "https://www.krtv.com/news/great-falls-news/police-warn-of-fake-post-featuring-gfpd-sergeant?fbclid=IwY2xjawJbukJleHRuA2FlbQIxMAABHQBFKmwD2Ofghd_xVf8exzDB9GDOqrsKZ6erFv1pwDIF4QFQcAV-kIoG2A_aem_pwcXd_42HYT5KjB-LJ96Ew",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, Posts about purported missing police officer are scams, and misuse a photo of a deceased NYPD cop , Nov. 14, 2024",
+        "url": "https://www.politifact.com/factchecks/2024/nov/14/facebook-posts/posts-about-purported-missing-police-officer-are-s/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Facebook post , March 28, 2025",
+        "url": "https://www.facebook.com/groups/226874094140473/posts/2855466437947879/",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "FALSE. This police officer is \"alive and well,\" her police department said in a post. Her photo is being misused in online scams.",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Egg prices came down 50%\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "Eggs' wholesale price on Jan. 21, President Donald Trump's first full day in office, was $6.55 and on March 28, it was $3, a more than 50% decrease. Eggs retailed at about $5.90 in February, the most recent data available, up from about $4.90 in January. Retail prices typically lag about three weeks behind wholesale prices, a March Agriculture Department report said.",
+    "evidence_sources": [
+      {
+        "content": "U.S. Department of Agriculture, Egg markets overview, March 28, 2025",
+        "url": "https://www.ams.usda.gov/mnreports/ams_3725.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Department of Agriculture, USDA Update on Progress of Five-Pronged Strategy to Combat Avian Flu and Lower Egg Prices , March 20, 2025",
+        "url": "https://www.usda.gov/about-usda/news/press-releases/2025/03/20/usda-update-progress-five-pronged-strategy-combat-avian-flu-and-lower-egg-prices",
+        "credibility": "High"
+      },
+      {
+        "content": "USDA Economic Research Service, Food Price Outlook - Summary Findings , March 25, 2025",
+        "url": "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Eggs' wholesale price on Jan. 21, President Donald Trump's first full day in office, was $6.55 and on March 28, it was $3, a more than 50% decrease. E",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"The consumer confidence in this country has gone way down.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The Conference Board Consumer Confidence Index, a longstanding survey of Americans' views on the economy as they see it, has fallen by 17% since November 2024. A similar survey, the University of Michigan Consumer Sentiment Index, has fallen nearly 13% since December 2024.",
+    "evidence_sources": [
+      {
+        "content": "Federal Reserve Bank of St. Louis, \" University of Michigan: Consumer Sentiment ,\" accessed April 3, 2025",
+        "url": "https://fred.stlouisfed.org/series/UMCSENT",
+        "credibility": "High"
+      },
+      {
+        "content": "University of Michigan, \" February 2025 Survey Results ,\" Feb. 21, 2025",
+        "url": "https://data.sca.isr.umich.edu/fetchdoc.php?docid=78142",
+        "credibility": "High"
+      },
+      {
+        "content": "National Bureau of Economic Research, \" US Business Cycle Expansions and Contractions ,\" accessed April 3, 2025",
+        "url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The Conference Board Consumer Confidence Index, a longstanding survey of Americans' views on the economy as they see it, has fallen by 17% since Novem",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Images show damage from an \"earthquake in Thailand.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "One image showed a March 2011 tsunami in Japan. Another showed 2024 flooding in Spain. Others showed recent flooding in Argentina.",
+    "evidence_sources": [
+      {
+        "content": "The Guardian, Torrential rain brings deadly flooding to Spain – in pictures , Oct. 30, 2024",
+        "url": "https://www.theguardian.com/world/gallery/2024/oct/30/torrential-rain-brings-deadly-flooding-to-spain-in-pictures",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Guardian, Argentina flooding: 16 killed as two girls swept away by rising waters , March 10, 2025",
+        "url": "https://www.theguardian.com/world/2025/mar/10/argentina-flooding",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BBC, The History Hour , July 31, 2021",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct1z76",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. One image showed a March 2011 tsunami in Japan. Another showed 2024 flooding in Spain. Others showed recent flooding in Argentina.",
+    "topic": "Environment"
+  },
+  {
+    "claim": "\"Man gets plastic surgery and name change to date his ex-girlfriend after she obtains a restraining order.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This story is fabricated and originated on a self-described satire site.",
+    "evidence_sources": [
+      {
+        "content": "iStock by Getty Images photo , Jan. 12, 2017",
+        "url": "https://www.istockphoto.com/photo/woman-discussing-ideas-and-strategy-in-studio-office-gm637928380-114064365",
+        "credibility": "Medium"
+      },
+      {
+        "content": "PolitiFact, No, a California woman didn't break a world record for getting abortions , Oct. 17, 2018",
+        "url": "https://www.politifact.com/factchecks/2018/oct/17/worldnewsdailyreportcom/no-california-woman-didnt-break-world-record-getti/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Parfitt Facial Cosmetic Surgery Center images , visited April 2, 2025",
+        "url": "https://facialplastics.com/before-and-after-gallery/male-facial-procedures/#foogallery-6449/i:25/p:2",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This story is fabricated and originated on a self-described satire site.",
+    "topic": "Society"
+  },
+  {
+    "claim": "Kilmar Armando Abrego Garcia \"was a convicted MS-13 gang member.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "An attorney for Kilmar Armando Abrego Garcia, who says he was wrongfully deported to El Salvador, told PolitiFact that his client has never been convicted of any crime. We also found no court evidence he had been convicted. Vice President JD Vance appeared to be referring to two denials of bond requests in which immigration courts relied on allegations that Abrego Garcia was a gang member as a reason for denying bond. Vance's office did not respond to our inquiries. Abrego Garcia's legal team denies allegations that he was a gang member. He has never been tried for or convicted of gang-related charges or other crimes.",
+    "evidence_sources": [
+      {
+        "content": "U.S. government response to request for temporary restraining order, March 31, 2025",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.11.0.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "JD Vance, posts on X , April 1, 2025",
+        "url": "https://x.com/JDVance/status/1906934067607556440",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jon Favreau, post on X, March 31, 2025",
+        "url": "https://x.com/jonfavs/status/1906903940303892815",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. An attorney for Kilmar Armando Abrego Garcia, who says he was wrongfully deported to El Salvador, told PolitiFact that his client has never been convi",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"We have automobile plants being built at levels we've never seen … and they're going up fast.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The White House cited announcements of major U.S. investments by Hyundai, Honda and Stellantis since President Donald Trump took office Jan. 20. With one exception, these were reallocations of investments at existing facilities, not \"plants being built.\" Building a plant, or even increasing production at an existing plant, can take years. Automotive manufacturing construction increased substantially under Trump's predecessor, Joe Biden.",
+    "evidence_sources": [
+      {
+        "content": "Treasury Department, \" Unpacking the Boom in U.S. Construction of Manufacturing Facilities ,\" June 27, 2023",
+        "url": "https://home.treasury.gov/news/featured-stories/unpacking-the-boom-in-us-construction-of-manufacturing-facilities#ftn1",
+        "credibility": "High"
+      },
+      {
+        "content": "Donald Trump, interview with Newsmax , March 26, 2025",
+        "url": "https://www.youtube.com/watch?v=juc1WQnOgYI",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Atlas Public Policy and Bluegreen Alliance Foundation, \" Tracking the State of U.S. EV Manufacturing ,\" January 2025",
+        "url": "https://atlaspolicy.com/wp-content/uploads/2025/01/Tracking-the-State-of-U.S.-EV-Manufacturing.pdf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The White House cited announcements of major U.S. investments by Hyundai, Honda and Stellantis since President Donald Trump took office Jan. 20. With",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"Brad Schimel said that he wanted to be part of Donald Trump's support network.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Crawford pointed to video of Schimel speaking in Waukesha County to a group of canvassers in which Schimel says \"there has to be a support network around (Trump).\" Schimel's team in response pointed to the context of Schimel's remarks and said, \"As you can see, he was talking about a network of support that is needed to win.\" Although Schimel does not come straight out and say he wanted to be part of a Trump support network, his public pronouncements and campaign literature clearly indicate his affinity for a Trump support network.",
+    "evidence_sources": [
+      {
+        "content": "YouTube WISN-12 News \" Supreme Court Debate \" March 12, 2025, at mark 41.51",
+        "url": "https://www.youtube.com/watch?v=FbQm3NFaY5c",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Appleton Post Crescent \" You can't buy a Cybertruck in Wisconsin. Tesla appeals after state denies 4-dealership plan, \" Feb. 10, 2025",
+        "url": "https://www.postcrescent.com/story/money/companies/2025/02/10/tesla-appeals-wisconsins-rejection-of-plan-to-open-4-ev-dealerships-madison-milwaukee-appleton/78293258007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" What to know about Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel, \" March 26, 2025",
+        "url": "https://www.jsonline.com/story/news/politics/elections/2025/03/25/teslas-wisconsin-lawsuit-elon-musk-and-brad-schimel-explained/82639129007/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Crawford pointed to video of Schimel speaking in Waukesha County to a group of canvassers in which Schimel says \"there has to be a support network aro",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Imagen muestra a \"uno de los manifestantes que participó en el vandalismo contra un concesionario de Tesla. La deportación a El Salvador fue consecuencia de sus acciones\".",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "La imagen en la publicación en Facebook es de Anthony Zingale. En 2016, él fue arrestado y acusado de asalto sexual en Wisconsin. PolitiFact no encontró evidencia de que Zingale fue arrestado recientemente por vandalizar un concesionario Tesla. Ni que haya sido deportado.",
+    "evidence_sources": [
+      {
+        "content": "Fact-checking article from www.politifact.com: Imagen muestra a \"uno de los manifestantes que participó en el vandalismo contra...",
+        "url": "https://www.politifact.com/factchecks/2025/mar/27/facebook-posts/no-esta-imagen-no-es-de-un-hombre-arrestado-por-va/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. La imagen en la publicación en Facebook es de Anthony Zingale. En 2016, él fue arrestado y acusado de asalto sexual en Wisconsin. PolitiFact no encont",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"Nobody was texting war plans\" in the Trump administration Signal group text about bombing Yemen.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Messages shared on the Signal app did not include the most extensive type of plans the military produces, but included a detailed timeline and operational information about a Yemen bombing. Military experts said that the texts included sensitive operational details about military action, which is akin to a plan. Trump administration officials say that a lack of details, such as names, locations and methods, means it was not a \"war plan.\" Multiple experts called this disingenuous.",
+    "evidence_sources": [
+      {
+        "content": "Army College, What's in a war plan? Sept. 24, 2020",
+        "url": "https://warroom.armywarcollege.edu/articles/war-plan/",
+        "credibility": "High"
+      },
+      {
+        "content": "CSPAN, \" Defense Secretary Hegseth: \"Nobody was texting war plans...\" March 2025",
+        "url": "https://www.youtube.com/watch?v=Ym7_3ESCpSg",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Atlantic, The Trump Administration Accidentally Texted Me Its War Plans , March 24, 2025",
+        "url": "https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. Messages shared on the Signal app did not include the most extensive type of plans the military produces, but included a detailed timeline and operati",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"On Feb. 25, I voted yes on a budget resolution that protects Social Security, Medicare, and Medicaid while cutting some spending elsewhere.\"",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "Rep. Nick LaLota (R-N.Y.) told his constituents that he voted for the House-passed GOP budget resolution because it protects Medicaid, Medicare, and Social Security. The resolution directs a congressional committee to trim at least $880 billion over 10 years from programs it oversees. Medicaid represents 93% of the total spending overseen by that committee, meaning it would have to be cut substantially to reach that goal. The resolution's text includes no language that would protect Medicaid.",
+    "evidence_sources": [
+      {
+        "content": "Clerk, United States House of Representatives, \" Roll Call 50 | Bill Number H. Con. Res. 14, \" Feb. 25, 2025.",
+        "url": "https://clerk.house.gov/Votes/202550",
+        "credibility": "High"
+      },
+      {
+        "content": "Rep. Hakeem Jeffries, press release , March 16, 2025.",
+        "url": "https://jeffries.house.gov/2025/03/16/leader-jeffries-democrats-will-oppose-the-largest-potential-medicaid-cut-in-american-history/",
+        "credibility": "High"
+      },
+      {
+        "content": "Medicaid.gov, \" October 2024 Medicaid & CHIP Enrollment Data Highlights , accessed March 17, 2025.",
+        "url": "https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Rep. Nick LaLota (R-N.Y.) told his constituents that he voted for the House-passed GOP budget resolution because it protects Medicaid, Medicare, and S",
+    "topic": "Health"
+  },
+  {
+    "claim": "\"Eliminate school choice\" is on Susan Crawford's agenda.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "Schimel's campaign pointed out that Crawford is endorsed by the state public school teachers' union and litigated a case that secured then-education secretary Tony Evers' power over public education. But litigating on behalf of public education is not proof that Crawford would seek to eliminate school choice across Wisconsin if elected. Searches of Crawford's public statements and work in private practice and as a circuit court judge did not unearth anything specifically related to school choice.",
+    "evidence_sources": [
+      {
+        "content": "Wisconsin Department of Public Instruction, Private school choice programs , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/choice-programs",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Special needs scholarship program , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/special-needs-scholarship",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin Department of Public Instruction, Private school choice programs: Data and reports , accessed March 7, 2025",
+        "url": "https://dpi.wi.gov/parental-education-options/choice-programs/data",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. Schimel's campaign pointed out that Crawford is endorsed by the state public school teachers' union and litigated a case that secured then-education s",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"Under the previous administration … the cost of a median-price home in America more than doubled, and that was just in four years.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Four government and private-sector metrics show home prices alone didn't come close to doubling. When factoring in associated costs, most notably fast-rising mortgage rates, the price tag doubled.",
+    "evidence_sources": [
+      {
+        "content": "JD Vance, speech to the National League of Cities , March 10, 2025",
+        "url": "https://www.c-span.org/program/public-affairs-event/vice-president-vance-speaks-at-national-league-of-cities-conference/656920",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Heritage Foundation, \" Biden's Housing Headache ,\" May 31, 2024",
+        "url": "https://www.heritage.org/housing/commentary/bidens-housing-headache",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Federal Reserve Bank of St. Louis, Median Sales Price of Houses Sold for the United States , accessed March 11, 2025",
+        "url": "https://fred.stlouisfed.org/series/MSPUS",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Four government and private-sector metrics show home prices alone didn't come close to doubling. When factoring in associated costs, most notably fast",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Photo shows first lady Melania Trump crying.",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The image of first lady Melania Trump crying is artificially generated. Facebook posts linked to a story about her mother's death, but her mother died more than a year ago.",
+    "evidence_sources": [
+      {
+        "content": "Stable Diffusion, Stable Diffusion Online , accessed March 10, 2025",
+        "url": "https://stablediffusionweb.com/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Melania Trump, X post , Jan. 9, 2024",
+        "url": "https://x.com/melaniatrump/status/1744900932800761880",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Washington Post, How to spot the Trump and Pope AI fakes , March 31, 2023",
+        "url": "https://www.washingtonpost.com/technology/2023/03/31/tips-spot-ai-fake-images/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The image of first lady Melania Trump crying is artificially generated. Facebook posts linked to a story about her mother's death, but her mother died",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee.\"",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "Data showing property tax revenue of the City of Milwaukee government and the Milwaukee Public School District for the years 2000 through 2021 illustrates that in most years, the city received the lion's share of tax levies. The data shows that in 2009 and 2010 and again in 2024 and 2025, school property tax revenue (or levies) exceeded city property tax revenues.",
+    "evidence_sources": [
+      {
+        "content": "\"UpFront,\" Mayor Cavalier Johnson, Jan. 12, 2025",
+        "url": "https://www.wisn.com/article/upfront-mayor-cavalier-johnson-1736626096/63400442",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" Voters narrowly approve MPS referendum, preliminary results show, \" April 3, 2024",
+        "url": "https://www.jsonline.com/story/news/education/2024/04/02/how-to-watch-for-voting-results-on-the-mps-referendum/73109912007/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Milwaukee Journal Sentinel \" Judge orders MPS and city of Milwaukee to equally split cost of school police program ,\" Feb. 17, 2025",
+        "url": "https://www.jsonline.com/story/news/education/2025/02/17/judge-orders-mps-to-comply-with-state-law-on-school-resource-officers/78244494007/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "TRUE. Data showing property tax revenue of the City of Milwaukee government and the Milwaukee Public School District for the years 2000 through 2021 illustr",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"90% of the (school) districts in Wisconsin already have a policy\" banning cellphones during class time.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "The 90% figure comes from testimony by the Department of Public Instruction, which conducts an annual Digital Learning Survey. Most districts in that 90% bucket allow students to use phones in common areas but not classrooms. Some have a full ban. Cellphone policies vary widely by district, and Kitchens argues the bill was written to accommodate that.",
+    "evidence_sources": [
+      {
+        "content": "Department of Public Instruction, 2025 AB2 Testimony , Feb. 11, 2025.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lc/hearing_testimony_and_materials/2025/ab2/ab0002_2025_02_11.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Department of Public Instruction, 2024-25 WI Digital Learning Survey Results .",
+        "url": "https://dpi.wi.gov/imt/2024-25-wi-digital-learning-survey-results",
+        "credibility": "High"
+      },
+      {
+        "content": "Rep. Joel Kitchens, AB2 Testimony , Feb. 11, 2025.",
+        "url": "https://docs.legis.wisconsin.gov/misc/lc/hearing_testimony_and_materials/2025/ab2/ab0002_2025_02_11.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. The 90% figure comes from testimony by the Department of Public Instruction, which conducts an annual Digital Learning Survey. Most districts in that",
+    "topic": "Society"
+  },
+  {
+    "claim": "\"I am not making this up: Republicans have introduced legislation … to increase your bank fees.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A Republican-backed joint resolution would overturn a regulation set to take effect Oct. 1 that would cap overdraft fees at large banks. If the regulation goes into effect, overdraft fees would be capped at lower levels than what some banks typically charge now. Conversely, if the Republican legislation passes, overdraft fees at some banks would not decrease as they would have if the regulation took effect. The Republican proposal would not increase current overdraft fees.",
+    "evidence_sources": [
+      {
+        "content": "House Committee on Financial Services, Hill, Scott Lead Effort to Roll Back Biden-Era CFPB Overdraft Rule , Feb. 13, 2025",
+        "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409464",
+        "credibility": "High"
+      },
+      {
+        "content": "Consumer Financial Protection Bureau, CFPB Closes Overdraft Loophole to Save Americans Billions in Fees , Dec. 12, 2024",
+        "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-closes-overdraft-loophole-to-save-americans-billions-in-fees/",
+        "credibility": "High"
+      },
+      {
+        "content": "Helpwithmybank.gov, What is overdraft protection? , accessed Feb. 24, 2025",
+        "url": "https://www.helpwithmybank.gov/help-topics/bank-accounts/nsf-fees-overdraft-protection/overdraft-protection-programs/overdraft-protection.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. A Republican-backed joint resolution would overturn a regulation set to take effect Oct. 1 that would cap overdraft fees at large banks. If the regula",
+    "topic": "Economy"
+  },
+  {
+    "claim": "\"The single biggest driver of our national debt since 2001 has been Republican tax cuts.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "A 2024 Committee for a Responsible Federal Budget analysis found that tax cuts were the biggest of four types of legislation that have added to the federal debt since 2001. The analysis also showed that two other types of legislation trailed close behind tax cuts in fiscal impact: large stimulus bills and annual spending increases. The analysis concluded that several of the five tax cut bills since 2001 also had buy-in from congressional Democrats who voted for them or a Democratic president who signed them.",
+    "evidence_sources": [
+      {
+        "content": "Congressional Budget Office, analyses of major tax bills in 2001 , 2003 , 2010 , 2013 and 2017",
+        "url": "https://www.cbo.gov/sites/default/files/cbofiles/attachments/06-07-ChangesSince2001Baseline.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Congress.gov, major tax bills from 2001 , 2003 , 2010 , 2013 and 2017",
+        "url": "https://www.congress.gov/bill/107th-congress/house-bill/1836/all-actions",
+        "credibility": "High"
+      },
+      {
+        "content": "Senate votes on major tax bills from 2001 , 2003 , 2010 , and 2017",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1071/vote_107_1_00170.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "FALSE. A 2024 Committee for a Responsible Federal Budget analysis found that tax cuts were the biggest of four types of legislation that have added to the fe",
+    "topic": "Economy"
+  },
+  {
+    "claim": "The Chicago Cubs owner is bankrolling Brad Schimel.",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "For a decade, Wisconsin's political parties have been getting around a cap on how much an individual person can donate to a political candidate by having donors give to the party and transferring the money to the candidate. In this instance, Joe Ricketts, an owner of the Chicago Cubs, gave $500,000 to the state GOP. After that and some other large donations, the party gave about $1.7 million to Brad Schimel's campaign. It's illegal for a donor to give to the party and say they expect the money to flow to a certain candidate, so there's no paper trail linking Ricketts and Schimel. But this is a widely used strategy, by both Republicans and Democrats. Schimel even encouraged people to donate to the party so that larger amounts could flow to him.",
+    "evidence_sources": [
+      {
+        "content": "Wisconsin Campaign Finance Information System , accessed Feb. 20, 2025",
+        "url": "https://cfis.wi.gov/Public/Registration.aspx?page=ReceiptList",
+        "credibility": "High"
+      },
+      {
+        "content": "2015-16 Wisconsin state Legislature, Assembly bill 387 , accessed Feb. 20, 2025",
+        "url": "https://docs.legis.wisconsin.gov/2015/proposals/ab387",
+        "credibility": "High"
+      },
+      {
+        "content": "Wisconsin state statutes, Contribution limits , accessed Feb. 21, 2025",
+        "url": "https://docs.legis.wisconsin.gov/statutes/statutes/11/xi",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "TRUE. For a decade, Wisconsin's political parties have been getting around a cap on how much an individual person can donate to a political candidate by hav",
+    "topic": "Politics"
+  },
+  {
+    "claim": "\"An ICE minivan was reportedly set on fire in Philadelphia.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "The fire marshal determined the fire was an accident and there was no indication of foul play. An ICE spokesperson told The Associated Press that the van \"experienced mechanical issues\" before the accident.",
+    "evidence_sources": [
+      {
+        "content": "Threads post ( archived ), Feb. 18, 2025",
+        "url": "https://www.threads.net/@nunyabiznews/post/DGOThY4tENa?fbclid=IwY2xjawIi3DlleHRuA2FlbQIxMAABHdA1Pe4X7DBizqrwNYjqGkVAtvLUePFrp5KPn6sdpgWq7pPPEqqGA_nKCg_aem_lkVtOVk-6FRhApQjQkEObQ",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Feb. 18, 2025",
+        "url": "https://x.com/charliekirk11/status/1891909593938395160",
+        "credibility": "Medium"
+      },
+      {
+        "content": "X post ( archived ), Feb. 18, 2025",
+        "url": "https://x.com/libsoftiktok/status/1891906444108161139",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. The fire marshal determined the fire was an accident and there was no indication of foul play. An ICE spokesperson told The Associated Press that the",
+    "topic": "Society"
+  },
+  {
+    "claim": "Video shows celebrities wearing T-shirts with graphics of a middle finger and the word \"Kanye.\"",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "This video was created using artificial intelligence. The celebrities featured didn't actually appear in it.",
+    "evidence_sources": [
+      {
+        "content": "People, Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral , Feb. 12, 2025",
+        "url": "https://people.com/scarlett-johansson-artificial-intelligence-limited-ai-video-goes-viral-11305926",
+        "credibility": "High"
+      },
+      {
+        "content": "The New York Times, Ye's Website Selling T-Shirts With Swastikas Is Taken Down , Feb. 11, 2025",
+        "url": "https://www.nytimes.com/2025/02/11/arts/music/kanye-west-yeezy-website-swastika-shirts.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Hollywood Reporter, Celebrities Protest Kanye West in Fake AI Video; Scarlett Johansson Makes Statement , Feb. 12, 2025",
+        "url": "https://www.hollywoodreporter.com/news/general-news/kanye-west-viral-video-scarlett-johansson-1236134290/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "FALSE. This video was created using artificial intelligence. The celebrities featured didn't actually appear in it.",
+    "topic": "Politics"
+  },
+  {
+    "claim": "北京在 2024 年 6 月正式将共享单车骑行纳入公共交通补贴体系。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "无法判定，检索到的与北京共享单车和出行补贴相关的信息，多集中在电动自行车以旧换新补贴、公交和新能源公交运营补贴，以及全国性层面“将共享出行纳入公共出行体系”的趋势性讨论，但没有权威文件或北京市政府公开政策明确说明“在 2024 年 6 月，北京正式将共享单车骑行纳入公共交通补贴体系”。 现有文献和报道更多是从研究或政策建议角度讨论“共享单车与公共交通一体化”“通过补贴激励共享出行”等概念性内容，而非具体到“2024 年 6 月、北京本地、正式纳入公共交通补贴体系”的时间与制度落地细节，缺乏可以直接核实该精确表述的官方依据。",
+    "evidence_sources": [
+      {
+        "content": "New modes of urban public transport in China（报告指出，中国一些城市在探索将共享单车、电动自行车等新模式纳入公共交通体系和相关补贴安排，但未点名北京在 2024 年 6 月已正式实施。）",
+        "url": "https://changing-transport.org/wp-content/uploads/2025_New-modes-of-urban-public-transport-in-China_EN.pdf",
+        "credibility": "Medium"
+      },
+      {
+        "content": "北京市2025年电动自行车以旧换新补贴实施细则（北京市商务局文件，明确的是电动自行车以旧换新的购车补贴政策，与“共享单车骑行纳入公共交通补贴体系”并非同一制度。）",
+        "url": "https://sw.beijing.gov.cn/zwxx/2024zcwj/202501/t20250127_4001024.html",
+        "credibility": "High"
+      },
+      {
+        "content": "共享出行将是下一次公共交通革命吗？（讨论通过整合、补贴共享单车等方式重塑公共出行体系，属于全球趋势和案例分析，未提供“北京 2024 年 6 月正式纳入补贴体系”的具体政策证据。）",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/12265934.2024.2312284",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "目前没有足够公开证据能够确认“北京在 2024 年 6 月已经正式将共享单车骑行纳入公共交通补贴体系”。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "工信部与市场监管总局 2024 年联合发布《电动自行车电池安全管理通知》，要求销售企业登记电池唯一编码并上传国家平台。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，2024 年，市场监管总局以国家标准委名义发布的是强制性国家标准 GB 43854-2024《电动自行车用锂离子蓄电池安全技术规范》，由工信部组织起草，核心内容是对电动自行车用锂电池的安全性能、试验方法和标识（包括在电池组醒目位置标注唯一性编码）作出要求，但标准本身并不是一份“安全管理通知”，也没有规定“销售企业必须登记电池唯一编码并上传国家平台”。 另一份 2024 年 6 月出台的公告，是市场监管总局关于将电动自行车用锂离子蓄电池、充电器纳入 CCC 强制认证管理的公告，明确自 2024 年 10 月 15 日起受理 CCC 认证，自 2025 年 11 月 1 日起未获认证不得出厂、销售，但同样只要求电池本身带有 CCC 标志和符合标准的唯一编码，并未要求销售企业将编码登记上传“国家平台”。 目前公开法规中可以看到对电动自行车电池“标注唯一编码”“经 CCC 认证后方可销售”的要求，但没有找到“工信部与市场监管总局 2024 年联合发布《电动自行车电池安全管理通知》，强制要求销售企业登记电池唯一编码并上传国家平台”这样的联署通知和上传义务条款，因此该说法与现有政策不符。​",
+    "evidence_sources": [
+      {
+        "content": "强制性国家标准发布涉及电动自行车用锂离子蓄电池安全（新华网报道 GB 43854-2024 由工信部组织起草、市场监管总局发布，内容为电池安全技术规范及试验方法，并未提及销售企业上传编码到国家平台）",
+        "url": "http://www.news.cn/20240506/fd6a9eda86ad478daa6bc6ab63bdf2ea/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "GB 43854-2024《电动自行车用锂离子蓄电池安全技术规范》国家标准解读（说明标准要求电池组在醒目部位标有唯一性编码，用于事故溯源和追责，但只是产品标识要求，并非销售企业登记并上传国家数据库的制度）",
+        "url": "https://scjgj.xinjiang.gov.cn/xjaic/myzcjd/202411/5a8742ea0f884d298dc9d101dca3f89b.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "电动自行车用锂蓄电池、充电器纳入 CCC 认证的公告（市场监管总局公告自 2024 年 10 月 15 日起受理 CCC 认证，2025 年 11 月 1 日起未认证不得销售，要求电池标注 CCC 标志和唯一编码，但没有“销售企业登记并上传国家平台”的条款）",
+        "url": "https://www.cqc.com.cn/www/chinese/c/2024-10-15/597671.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2024 年，工信部组织起草、市场监管总局发布了电动自行车用锂离子蓄电池的强制性安全技术标准和将电池、充电器纳入 CCC 认证的公告，要求电池具备永久性唯一编码并通过认证后方可销售，但并未通过联合“安全管理通知”强制要求销售企业登记电池编码并上传国家平台。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "欧盟在 2024 年 6 月宣布的《数字消费者保护条例》中，已经明确禁止所有电商平台在结算页面默认勾选任何形式的附加保险或服务。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，欧盟层面早在 2011 年通过的《消费者权利指令》（Consumer Rights Directive）就已经统一禁止电商网站使用“预先勾选的选框”来向消费者收取任何附加费用，要求消费者必须主动勾选才能购买额外保险或附加服务，这一禁令适用于所有欧盟成员国的线上销售结算页面。 2024 年欧盟层面讨论的是所谓“Digital Fairness Act / Digital Fairness Fitness Check”等数字公平与消费者保护的评估和未来立法方向，目前处于评估报告和拟议阶段，并不存在一部在 2024 年 6 月已经“宣布并生效”的《数字消费者保护条例》专门“重新”明确禁止默认勾选附加保险或服务；相关禁止实际上是旧指令的延续而非新条例在 2024 年 6 月才首次确立的内容。",
+    "evidence_sources": [
+      {
+        "content": "Consumer rights directive - European Commission（欧盟委员会介绍《消费者权利指令》，其中明确禁止通过预先勾选的选框向消费者收取额外费用，要求消费者对所有附加付款明确同意。）",
+        "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/consumer-rights-directive_en",
+        "credibility": "High"
+      },
+      {
+        "content": "EU bans pre-ticked website boxes to aid consumers（BBC 报道，早在 2011 年欧盟就通过立法，禁止电商在网站上使用“pre-ticked boxes”来推销额外保险等附加服务。）",
+        "url": "https://www.bbc.com/news/world-europe-15260748",
+        "credibility": "High"
+      },
+      {
+        "content": "B2C E-commerce, distance & off-premises selling - Your Europe（欧盟官方“Your Europe”页面重申：商家不得使用预先勾选的选框向消费者收取附加服务费用，例如机票预订页面的附加旅行保险。）",
+        "url": "https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_en.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "欧盟已经通过《消费者权利指令》等现有法律，长期禁止电商在结算页面通过预先勾选选框来默认销售附加保险或其他额外服务，而不是在 2024 年 6 月通过一部名为《数字消费者保护条例》的新法规才首次作出这一禁止。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2024年更新的《美国高校公平录取法案》已经全面禁止在招生过程中考虑申请人的家庭捐款记录。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，目前美国联邦层面并不存在名为《美国高校公平录取法案》（Fair College Admissions Act 或 Fair College Admissions for Students Act）的“2024 年更新版本”已经颁布实施，更没有一部已经生效的联邦法律全面禁止所有高校在招生中考虑家庭捐款记录。 国会正在讨论的是类似 S.880《Fair College Admissions for Students Act》这样的联邦法案草案，拟议禁止联邦资助高校在录取中使用捐赠人或校友关系，但该法案在 2025 年仍处于立法过程，并未通过成法。 目前真正落实“禁止考虑捐款或校友关系”的，是加利福尼亚等少数州通过的州法（如 2024 年的 AB 1780），其效力仅限于所在州的部分高校，而不是全国性的“美国高校公平录取法案”，因此 claim 中关于“2024 年更新的联邦法案已经全面禁止”的说法与实际立法进展不符。",
+    "evidence_sources": [
+      {
+        "content": "S.880 - Fair College Admissions for Students Act（美国联邦参议院 119 届会议中的一项法案草案，提议禁止联邦资助高校使用捐赠人或校友偏好，但法案仍处于立法阶段，并未通过更新或生效。）",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/880/text",
+        "credibility": "High"
+      },
+      {
+        "content": "California bans legacy and donor preferences in admissions at private, nonprofit universities（加州州法 AB 1780，禁止加州私立非营利大学在录取中使用校友和捐赠人偏好，体现为州级立法，而非联邦《美国高校公平录取法案》。）",
+        "url": "https://www.gov.ca.gov/2024/09/30/california-bans-legacy-and-donor-preferences-in-admissions-at-private-nonprofit-universities/",
+        "credibility": "High"
+      },
+      {
+        "content": "Why legacy admissions bans have exploded in the US（梳理马里兰、弗吉尼亚、伊利诺伊、加州等几个州通过或考虑禁止 legacy / donor admissions 的州法，并指出目前仍缺乏全国性的统一联邦禁令。）",
+        "url": "https://www.politico.com/news/2024/10/02/affirmative-action-legacy-admission-bans-00181942",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至目前，美国尚未通过名为《美国高校公平录取法案》的联邦法律，也没有在 2024 年通过联邦立法全面禁止所有高校在招生中考虑家庭捐款记录；真正实施禁令的是加州等少数州通过的州级法律。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2024 年，中国财政部批准“允许地方政府发行用于支持 AI 大模型训练的专项债”。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，财政部和国常会在 2024 年对地方政府专项债的总额度、发行节奏和投向范围做了多次部署，强调“扩大专项债券投向领域和用作项目资本金范围”，主要面向基础设施、保障性住房、新能源与算力基础设施等“重点领域补短板”项目，但公开文件中并没有出现一项单独的、全国统一的政策，叫作“允许地方政府发行用于支持 AI 大模型训练的专项债”。 各地在算力中心、数据中心等项目指南中，确实鼓励将“智算中心”“算力基础设施”纳入专项债支持范围，例如山西、部分沿海省市文件中提出“积极支持申报地方政府专项债”用于智算中心和算力平台建设，但这些都是地方依据现有专项债管理规则，将符合条件的基础设施项目申报纳入专项债，而不是财政部在 2024 年专门“批准一个新的专项债品种，专门用于 AI 大模型训练”。 因此，claim 把“专项债一般性支持算力等新基建”的方向，错误描述成“财政部在 2024 年已经批准一类专门的 AI 大模型专项债”，与官方公开表述不符。",
+    "evidence_sources": [
+      {
+        "content": "国家发展改革委联合财政部完成2024年地方政府专项债券项目筛选工作（说明 2024 年专项债项目约 3.8 万个、需求 5.9 万亿元，强调支持交通、能源、市政、产业园区等重点领域，并未单列“AI 大模型训练专项债”品类。）",
+        "url": "https://www.gov.cn/lianbo/bumen/202404/content_6947118.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "关于2024年国民经济和社会发展计划执行情况与2025年计划草案的报告（指出新增地方政府专项债务限额 3.9 万亿元，将扩大专项债券投向领域和用作项目资本金范围，用于补短板、稳投资，未提到专门的“AI 大模型专项债”。）",
+        "url": "https://www.gov.cn/yaowen/liebiao/202503/content_7013429.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "山西省促进先进算力与人工智能高质量发展若干措施（省级文件提出“支持各市试点开展智算中心建设，积极支持申报地方政府专项债”，说明算力项目可以按现有规则申请专项债支持，而非中央单设“AI 大模型专项债”。）",
+        "url": "https://xxgk.jcgov.gov.cn/szfgzbm/jcsdsjyyj/fdzdgknr_31650/fgwj/202412/t20241209_2072113.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2024 年，中国在保持地方政府专项债总额度的同时，鼓励将智算中心等新型基础设施纳入专项债支持范围，但财政部并未单独批准一类名为“支持 AI 大模型训练的专项债”的全国统一品种。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2024 年起，上海市所有区级图书馆都已经将逾期罚款完全取消，只保留信用记录提示，不再向读者收取任何逾期费用。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "错误，公开信息显示，上海市区级公共图书馆（包括上海图书馆及区县图书馆）在 2024 年仍然保留逾期费制度，例如上海图书馆读者须知中明确规定“逾期归还书刊须支付逾期费，每天每册 0.2 元或 0.5 元”“持有逾期书刊或逾期费未缴清的读者不能继续借书”，并未宣布自 2024 年起全面取消逾期罚款。 其它区级图书馆（如浦东图书馆）同样在 2023–2024 年公布的借阅规则中保留“图书逾期每册每天收取 0.2 元”“需缴清逾期费后方能继续借书”等条款，没有任何统一政策文件表明“从 2024 年起全市所有区级图书馆都取消了逾期罚款，仅保留信用记录提示”。 上海图书馆确实建立了读者信用记录机制，对长期严重逾期的读者可能将信息上传公共信用信息平台，但这是在逾期费制度之外增加信用管理，而非以此替代所有逾期费用，因此 claim 中“完全取消逾期罚款”的说法与现状不符。",
+    "evidence_sources": [
+      {
+        "content": "读者须知 - 上海图书馆（明确规定逾期归还书刊须支付逾期费，每天每册 0.2 元 / 0.5 元，逾期费未缴清者不能继续借书，说明逾期罚款仍在执行。）",
+        "url": "https://www.library.sh.cn/guide/xuzhi",
+        "credibility": "High"
+      },
+      {
+        "content": "上海浦东图书馆图书外借规则（2023 年 12 月更新，条款中写明“图书逾期，每册每天收取 0.2 元”“逾期费未缴清不能继续借书”，未见 2024 年起取消逾期罚款的说明。）",
+        "url": "https://m.sh.bendibao.com/cyfw/140181.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "读者信用公告 - 上海图书馆（说明借书逾期超过一年以上的负面记录会上传上海市公共信用信息服务平台，体现的是信用管理措施，并未表示以此替代或取消逾期费用。）",
+        "url": "https://www.library.sh.cn/guide/dzxygg",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至 2024 年，上海市公共图书馆体系（包括区级图书馆）普遍仍保留逾期费制度，同时辅以读者信用记录管理，并未统一宣布全面取消逾期罚款、只保留信用提示。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2024 年，中国国家统计局第一次单独公布了“全职网约车司机”这一职业的人数统计，并将其纳入城镇就业人员统计口径。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，目前关于网约车司机的数据主要来自交通运输部网约车监管平台统计（如“截至 2024 年 10 月全国已核发网约车驾驶员证 748.3 万本”）以及中国新就业形态研究中心等研究机构的调查报告，而不是国家统计局在官方统计公报中单独列出的“全职网约车司机”职业人数。 国家统计局在就业统计中会将灵活就业、新就业形态劳动者纳入“就业人员”总体口径，并在解读中举例提到外卖员、网约车司机等，但并没有在 2024 年首次“单列一个‘全职网约车司机’职业指标并纳入城镇就业人员表格”的官方统计项目，因此 claim 中关于“国家统计局第一次单独公布该职业人数”的说法与实际公开统计方式不符。",
+    "evidence_sources": [
+      {
+        "content": "全国发放网约车驾驶员证748万本 - 交通运输部（说明网约车司机数量统计来自交通运输部网约车监管信息系统，截至 2024 年 10 月发证 748.3 万本，并非国家统计局职业分类下的“全职网约车司机人数”。）",
+        "url": "https://www.mot.gov.cn/jiaotongyaowen/202412/t20241203_4160569.html",
+        "credibility": "High"
+      },
+      {
+        "content": "灵活就业群体超2.4亿人！如何推动社会工作高质量发展？（引用国家统计局数据给出“灵活就业人员超过 2.4 亿人”，并在分析中将网约车司机作为灵活就业代表举例，但未显示统计局单独发布“全职网约车司机人数”指标。）",
+        "url": "https://www.nxshgzb.gov.cn/llyj/202506/t20250627_1015067.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "【粤开宏观】我国就业市场全景图谱与三大重点就业人群分析（研究报告基于国家统计局就业总量数据，将外卖员、网约车司机等归入新就业形态劳动者进行估算，而不是引用国家统计局单独公布的“全职网约车司机统计表”。）",
+        "url": "https://pdf.dfcfw.com/pdf/H3_AP202404071630034309_1.pdf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "到 2024 年，中国官方并未由国家统计局单独公布“全职网约车司机”这一职业的官方人数统计，该群体通常在交通运输部的网约车监管数据和研究机构报告中被估算，并在国家统计局就业统计中作为灵活就业或新就业形态劳动者的一部分纳入城镇就业人员总量。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "2024 年起，新加坡政府将所有政府部门使用的聊天机器人统一接入一个国家级大模型平台，禁止各部门单独采购第三方模型。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，新加坡在 2023 年更新国家 AI 战略、2024 年发布《生成式 AI 模型治理框架》等文件时，一直强调为公私部门提供“框架、工具和平台”，以便各机构在合规前提下灵活使用不同的大模型，并没有发布强制性规定，要求所有政府部门的聊天机器人统一接入单一“国家级大模型平台”，更没有禁止各部门使用第三方模型。 公开报道提到，GovTech 推出了如 Pair、AIBots、SENSE 等平台，为公务员提供共用的生成式 AI 工具和搭建聊天机器人的能力，但这些被描述为“可供使用的整政府平台”“帮助机构更快部署 AI”的产品，报道中并未出现“自 2024 年起必须统一接入、不得单独采购其它模型”的强制条款或政策表述。",
+    "evidence_sources": [
+      {
+        "content": "Model AI Governance Framework for Generative AI（IMDA 与 AI Verify Foundation 于 2024 年发布的生成式 AI 模型治理框架，为机构部署各类模型提供自愿性治理建议，并未规定公共部门只能使用单一国家级大模型或禁止采用第三方模型。）",
+        "url": "https://aiverifyfoundation.sg/wp-content/uploads/2024/06/Model-AI-Governance-Framework-for-Generative-AI-19-June-2024.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "More public officers in Singapore use government chatbot to enhance productivity（报道介绍公务员使用 GovTech 开发的 Pair、AIBots 等工具数量快速增长，将其描述为“提供给公务员的 AI 工具”，而非唯一允许使用的平台，文中没有提到禁止使用其他第三方模型。）",
+        "url": "https://www.straitstimes.com/singapore/more-public-officers-in-singapore-use-government-chatbot-to-enhance-productivity",
+        "credibility": "High"
+      },
+      {
+        "content": "AIBots | Government Technology Agency of Singapore（GovTech 官方页面将 AIBots 介绍为“让公共部门快速创建和部署生成式 AI 聊天机器人”的平台，强调其功能和优势，没有表述所有政府聊天机器人必须接入 AIBots 或不得使用其他模型。）",
+        "url": "https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/aibots/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前，新加坡政府通过国家 AI 战略和治理框架，为公共部门提供了如 Pair、AIBots 等统一可用的生成式 AI 平台和指引，但并未发布自 2024 年起强制要求所有政府部门聊天机器人只能接入单一国家级大模型、同时禁止各部门采用第三方模型的规定。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "根据 2024 年中国体育数据中心统计，全国青少年体测中小学平均耐力水平相比 2015 年降低了 30% 以上。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，公开资料中，2024 年并没有名为“中国体育数据中心”的官方机构对“全国青少年体测中小学平均耐力水平相比 2015 年降低 30% 以上”发布过权威统计或通报。 相反，教育部基于 2014–2019 年第八次全国学生体质与健康调研给出的结论是：中小学生柔韧、力量、速度、耐力等素质总体出现好转，13–18 岁学生的 800 米、1000 米耐力跑成绩相较 2014 年有所提高，说明耐力素质呈改善趋势，而不是在 2015 以后大幅下降 30% 以上。 最新关于学生体质的官方和主流报道也多强调“中小学生体质下滑趋势迎来拐点、多项体测数据变强”，并未出现“耐力水平较 2015 年普遍下降 30%”这样的统计结论，因此该 claim 与现有权威数据方向相反且来源虚构。",
+    "evidence_sources": [
+      {
+        "content": "教育部第八次全国学生体质与健康调研结果发布（指出 2019 年与 2014 年相比，中小学生柔韧、力量、速度、耐力等素质总体好转，13–18 岁学生 50 米跑和 800/1000 米耐力跑成绩均有所提升。）",
+        "url": "https://chnpf.cn/index/view/63.html",
+        "credibility": "High"
+      },
+      {
+        "content": "全国学生体质与健康调研数据发布：中国孩子更高更壮更快更强了（报道引用教育部调研数据，强调学生体质健康达标优良率总体上升，特别是 13–22 岁学生体能素质出现回升趋势。）",
+        "url": "http://m.cnhubei.com/content/2021-09/06/content_14074495.html",
+        "credibility": "High"
+      },
+      {
+        "content": "中小学生体质下滑趋势迎来拐点？多项体测数据变强了（央视新闻报道指出，在“双减”等政策推动下，中小学生多项体测数据改善，体质下滑趋势出现拐点，而非继续大幅恶化。）",
+        "url": "https://news.cctv.com/2025/08/08/ARTI5ZjVhTT77mSXOOdUCGAX250808.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "根据教育部和相关全国性体质调研数据，到目前为止并没有权威统计显示“中小学平均耐力水平较 2015 年降低 30% 以上”，相反，2014–2019 年间中小学生的耐力等体能素质总体呈止跌回升趋势。",
+    "topic": "Health"
+  },
+  {
+    "claim": "2025年杭州社保基数下限上调至5166元。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "2025 年 7 月，杭州市人力社保局和多家媒体已经专门就“2025 年杭州社保基数下限上调至 5166 元”的网传消息发布辟谣，明确表示“经核查，此为不实信息”，当时尚未按该数字调整社保缴费基数，相关信息以官方发布为准。 随后根据浙江省统一公布的 2025 年社会保险缴费基数通知和杭州本地解读，2025 年杭州社保缴费基数下限按 2023 年全省加权平均工资 8310 元/月的 60% 确定，为 4986 元/月，而不是 5166 元；杭州本地社保指南与媒体汇总也一致写明“2025 杭州社保缴费基数下限：4986 元/月”。 因此，“下限上调至 5166 元”与官方公开数据明显不符。",
+    "evidence_sources": [
+      {
+        "content": "辟谣丨2025年杭州社保基数下限上调至5166元？（杭州市人力社保局核查后确认：网传“2025年社保基数下限上调至5166元”信息不实，目前尚未按该数字调整。）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-07-18/doc-inffwuen4147682.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "浙江省2025年社会保险有关基数的通知政策解读（省级文件明确：2025年缴费基数下限按2023年加权平均工资8310元/月的60%确定，为4986元/月。）",
+        "url": "https://zhejiang.chinatax.gov.cn/art/2025/9/18/art_7575_642624.html",
+        "credibility": "High"
+      },
+      {
+        "content": "杭州社保基数2025最新标准（地方解读再次确认：2025 杭州社保缴费基数下限为4986元/月，比上年提高174元/月。）",
+        "url": "https://m.hz.bendibao.com/live/166645.shtm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年杭州社保缴费基数下限为 4986 元/月，而不是 5166 元。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "乌鲁木齐2路汽车按秒收费。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，乌鲁木齐市相关部门已就“2路汽车按秒收费”的网络传言公开辟谣，明确说明：2路公交为“2路印记·城市畅游专线”，实行单一票价制，票价暂定为每人 1 元，不存在按秒收费或按时间计费的情况，该说法系不实信息。 市政府及交通运输局发布的线路公告同样写明，2路专线覆盖主要旅游景点，线路采取环线运行，全程票价 1 元/人次，并未提及任何“按秒收费”的计价规则。",
+    "evidence_sources": [
+      {
+        "content": "乌鲁木齐2路汽车按秒收费？回应来了（当地网信部门和公交集团回应：经核实，2路汽车票价暂定每人1元，不存在按秒收费情况，相关内容系不实信息。）",
+        "url": "https://news.ifeng.com/c/8jyHM63NGxM",
+        "credibility": "High"
+      },
+      {
+        "content": "停靠在八楼的2路汽车4月20日重回乌鲁木齐街头（介绍“2路印记·城市畅游专线”，线路全程约130分钟，票价暂定每人1元。）",
+        "url": "https://www.ts.cn/xwzx/shxw/202504/t20250419_28050717.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "乌鲁木齐2路公交票价多少钱（本地出行指南：2路印记·城市畅游专线实行单一票价，全程票价为1元/人次。）",
+        "url": "https://m.wlmq.bendibao.com/traffic/64584.shtm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "乌鲁木齐 2 路“城市畅游专线”实行单一票价制，全程票价为每人 1 元，并不存在按秒收费的计费方式。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年4月7日凌晨杭州滨江发生恶性刑事案件。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，杭州市公安局滨江区分局和中国互联网联合辟谣平台已就网传“4月7日凌晨杭州市滨江区发生恶性刑事案件，嫌疑人已被刑拘”的信息发布情况通报，明确说明：经核查，网传文章中所谓“4月7日凌晨滨江区发生恶性案件”等内容纯属虚构。 警方调查查明，一名 28 岁男子为博取流量，利用 AI 生成工具捏造虚假案情并在社交平台发布，已被依法给予行政处罚，这表明该说法属于典型的网络谣言而非真实案件。",
+    "evidence_sources": [
+      {
+        "content": "杭州滨江发生恶性刑事案件？系利用AI编造，28岁男子被处罚（警方通报：经核查，“4月7日凌晨滨江区发生恶性案件”等内容纯属虚构。）",
+        "url": "http://m.cyol.com/gb/articles/2025-04/15/content_LglMeyuG7P.html",
+        "credibility": "High"
+      },
+      {
+        "content": "杭州滨江发生恶性刑事案件？系利用AI编造，当事人已被处罚（中国互联网联合辟谣平台文章，同样引用滨江公安分局说明，确认相关案情为捏造。）",
+        "url": "https://www.piyao.org.cn/20250421/2a04084a7a64421e9909851ead05d34b/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年4月16日）（辟谣专栏再次引用警方通报，指出“4月7日凌晨杭州市滨江区发生恶性案件”的说法不属实。）",
+        "url": "https://m.bjnews.com.cn/detail/1744791286129354.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网络上传播的“2025 年 4 月 7 日凌晨杭州滨江发生恶性刑事案件”的消息是利用 AI 编造的谣言，警方已查明不存在该案情，并对造谣者作出行政处罚。",
+    "topic": "Society"
+  },
+  {
+    "claim": "淄博方舱医院改为了酒店。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，多家权威媒体和当地部门明确回应，“淄博方舱医院改酒店接待游客”的说法不属实，系网络谣言，当地未将方舱医院改造为对游客开放的酒店或民宿。 淄博卫健、文旅等部门在接受采访时表示，方舱医院属于应急医疗设施，现阶段没有改造为酒店的计划，网传相关内容与实际情况不符。 山东省和淄博市网络辟谣平台也将此列为典型谣言案例，提醒公众不要轻信传播。",
+    "evidence_sources": [
+      {
+        "content": "【网络辟谣】淄博方舱医院改酒店接待游客？当地回应（淄博官方表示：方舱医院未改造为酒店，相关传言不属实）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_22793904",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣！“淄博方舱医院改酒店”不实（中国互联网联合辟谣平台发布：所谓“方舱改酒店接待游客”为谣言）",
+        "url": "https://www.piyao.org.cn/20230420/06552ee31efc4eabbd23214c13290779/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "淄博多部门回应方舱将改酒店 游客不适合住方舱（卫健、文旅等部门明确表示目前没有将方舱改酒店的安排）",
+        "url": "https://henan.china.com.cn/m/2023-04/20/content_42339636.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "淄博方舱医院没有改为酒店接待游客，“方舱改酒店”的说法是网络谣言，已被当地官方辟谣。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年6月，广西灵山荔枝堆积如山，只能贱卖。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，中国互联网联合辟谣平台和多家主流媒体已明确指出，2025 年 6 月网传“广西灵山荔枝堆积如山，只能贱卖”“灵山荔枝 1 元一斤”等内容不属实，相关视频并非拍摄于灵山县，当地未出现大范围荔枝堆积贱卖的情况。 灵山县农业农村等部门实地通报称，当时“妃子笑”等中熟品种刚批量上市，大规模上市时间在 6 月 20 日左右，产销总体有序；核心产区龙武凤凰果场日均出货 1.5–1.8 万斤，批发价约 3 元/斤，零售端妃子笑一般 5–6 元/斤，并未出现“堆积如山、只能贱卖”的现象。",
+    "evidence_sources": [
+      {
+        "content": "“广西灵山荔枝堆积如山，只能贱卖”？真相是......（中国互联网联合辟谣平台：网传视频内容并非发生在灵山县，目前灵山荔枝产销有序，未发现滞销贱卖、堆积成山等情况）",
+        "url": "https://www.piyao.org.cn/20250616/9288f62f248c4d68b4898adaf40128ab/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“灵山荔枝堆积如山，只能贱卖”？假的！（光明网：6 月 12 日流传的视频被证实并非灵山，实地走访显示当地批发价格约 3 元/斤、零售 5–8 元/斤，销量正常）",
+        "url": "https://m.gmw.cn/2025-06/14/content_1304059382.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "“广西灵山荔枝堆积如山，只能贱卖”？真相是......（新浪财经转载：灵山荔枝核心产区日均出货 1.5–1.8 万斤，产销顺畅，未出现“堆积如山、1 元贱卖”的情况）",
+        "url": "https://finance.sina.com.cn/wm/2025-06-15/doc-infacefq4599463.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 年 6 月，广西灵山荔枝（如“妃子笑”等品种）产销总体有序，未出现“堆积如山、只能贱卖”的大范围滞销情况，网传相关视频为谣言。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "2025年3月26日，广西英桥银行门口有人抢钱。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，2025 年 3 月 26 日，确有网民在广西玉林博白县英桥镇银行门口拍摄视频并配文“英桥银行门口抢钱”，但当地公安机关和媒体核实后确认，现场只是普通纠纷/打架事件，未发生抢钱或抢劫案件。 公安通报指出，涉事网民为博取流量，捏造成“抢钱”警情发布到短视频平台，已被依法处罚，当地“未发生银行门口抢钱的真实警情”，因此该 claim 属于被官方辟谣的不实信息。",
+    "evidence_sources": [
+      {
+        "content": "捏造“银行门口抢钱”虚假警情，一网民被依法拘留（央视报道：网民在广西博白县英桥街拍视频并配文“英桥银行门口抢钱”，经警方核实为普通纠纷，属捏造虚假警情）",
+        "url": "https://news.cctv.com/2025/04/01/ARTI0xHuoDKEWvZQ0j3OE6eZ250401.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "银行门前男子面颊流血，有网友称疑似抢劫；广西博白警方回应（当地农村信用社、农行及派出所均表示“是打架不是抢劫银行”）",
+        "url": "https://news.qq.com/rain/a/20250327A058QF00",
+        "credibility": "High"
+      },
+      {
+        "content": "“广西一银行门口有人抢钱”？警方回应（警方通报：3 月 26 日网民拍摄视频并配文“英桥银行门口抢钱”，经查现场为普通争执，当地未发生抢钱案件）",
+        "url": "https://www.52hrtt.com/zw/n/w/info/G1743040968368",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 年 3 月 26 日，广西玉林博白县英桥镇某银行门口发生的是普通纠纷/打架事件，网传“有人抢钱”的说法为网民捏造的虚假警情，当地警方已辟谣并对造谣者依法处理。",
+    "topic": "Society"
+  },
+  {
+    "claim": "中国控制巴拿马运河。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Missing Evidence Chain",
+    "justification": "错误，巴拿马运河自 1999 年 12 月 31 日完全移交后，一直由巴拿马政府所属的巴拿马运河管理局（Panama Canal Authority, ACP）负责运营和管理，享有对运河的专属管理权和经营权。 各国（包括中国）企业只是在运河两端个别港口、物流设施等处参与投资或运营，并不掌握运河本身的主权或调度控制权；包括美国与欧盟研究机构在内的多方都明确指出，没有证据表明中国政府“控制”或“运营”巴拿马运河。 因此，“中国控制巴拿马运河”这一表述与现行的国际法律和运河治理架构不符。",
+    "evidence_sources": [
+      {
+        "content": "Panama Canal - Wikipedia（概述巴拿马运河历史：1999 年根据托里霍斯-卡特条约全部移交巴拿马，由巴拿马运河管理局负责运营管理。）",
+        "url": "https://en.wikipedia.org/wiki/Panama_Canal",
+        "credibility": "High"
+      },
+      {
+        "content": "Panama Canal Authority - Wikipedia（介绍巴拿马运河管理局是巴拿马政府下属机构，依据宪法和专门法律对运河具有独立的运营、管理和维护职责。）",
+        "url": "https://en.wikipedia.org/wiki/Panama_Canal_Authority",
+        "credibility": "High"
+      },
+      {
+        "content": "Who Controls the Panama Canal? | Council on Foreign Relations（分析指出：没有证据表明中国政府控制巴拿马运河，中国企业只运营临近港口；运河仍由巴拿马运河管理局掌控。）",
+        "url": "https://www.cfr.org/article/who-controls-panama-canal",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "巴拿马运河目前由巴拿马政府所属的巴拿马运河管理局负责运营和管理，各国（包括中国）企业最多只参与运河附近港口和配套设施的经营，但不控制巴拿马运河本身。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "南京到无锡规划地铁通联。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，近期有网民在短视频平台发布“南京地铁要通到无锡宜兴”“南京到无锡规划地铁通联”的说法，引发关注，但宜兴市交通运输部门已正式回应：根据目前规划，暂无南京与宜兴之间地铁联通计划，如有最新消息将通过官方平台发布。 现阶段仅存在无锡至宜兴城际轨道交通 S2 线等市域线路建设规划，并没有任何已批准或公布的“南京地铁延伸至无锡，实现南京—无锡地铁通联”的规划文件，因此“南京到无锡规划地铁通联”属于网络谣言说法。",
+    "evidence_sources": [
+      {
+        "content": "南京到无锡规划地铁通联？官方回应（宜兴市交通运输局答复：根据目前规划，暂无南京与宜兴之间地铁联通计划。）",
+        "url": "https://finance.eastmoney.com/a/202511183567400224.html",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣｜南京到无锡规划地铁通联？（江苏权威辟谣栏目：网传“南京地铁要通到无锡宜兴”不实，暂无相关联通规划。）",
+        "url": "https://pub-zhtb.hizh.cn/a/202511/18/AP691c617de4b0a0fbdaba9f51.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“南京地铁要通到无锡”系谣言（报道称，宜兴市交通运输局通过官方渠道澄清：目前没有南京与宜兴之间地铁联通计划。）",
+        "url": "https://www.ctdsb.net/c1716_202511/2597209.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前，规划中并不存在南京与无锡之间地铁直通联接的项目，官方明确表示“暂无南京与宜兴（无锡）之间地铁联通计划”。",
+    "topic": "Society"
+  },
+  {
+    "claim": "成都医保以短信或电话方式，让大家点进不明链接领取“医保报销金”，如若不领以后医保会有问题。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，成都市医保局发布紧急提醒称，近日确有不法分子冒用“成都医保”名义，通过短信或电话让群众点进不明链接领取所谓“医保报销金”，并威胁“不领以后医保会有问题”，但这些短信、电话都是诈骗行为。 官方明确说明：成都市各级医保部门从未发送此类领取报销金链接短信，医保业务短信不会附带任何网址或链接，也不会以“以后医保有问题”威胁参保人，更不会通过不明链接发放报销金或补助金。 因此，把这种诈骗话术说成是“成都医保以短信或电话方式”在做的事，是对事实的错误描述。",
+    "evidence_sources": [
+      {
+        "content": "成都医保紧急提醒：陌生链接领“医保报销金”？假的！立即删除（成都市医保局声明：各级医保部门从未发送此类信息，医保业务短信不附带任何网址、链接。）",
+        "url": "https://cbgc.scol.com.cn/news/6297473",
+        "credibility": "High"
+      },
+      {
+        "content": "点进陌生链接领“医保报销金”？成都医保紧急辟谣（再次强调：以短信或电话方式让大家点击不明链接领取“医保报销金”系不法分子诈骗行为。）",
+        "url": "http://sc.people.com.cn/n2/2025/0514/c345167-41226532.html",
+        "credibility": "High"
+      },
+      {
+        "content": "点击链接领“成都城乡医保报销金”？假的！（说明诈骗分子通过短信、电话诱导参保人点不明链接并输入个人信息，医保部门提醒不要点击、不要相信。）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_30819492",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "近期有不法分子冒用成都医保名义，通过短信或电话诱导群众点击不明链接领取所谓“医保报销金”，并声称“不领以后医保会有问题”，这些都是诈骗信息，成都市医保局已明确辟谣并提醒群众不要点击或相信此类链接。",
+    "topic": "Health"
+  },
+  {
+    "claim": "2025年10月18日，山西突发3.9级地震，街面一片狼藉。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，2025 年 10 月 18 日 14 时 07 分，山西忻州市忻府区确实发生过一次 3.9 级地震，震源深度约 10 公里，为有感小震。 但山西省地震局和多家媒体发布的辟谣公告明确表示，此次地震未造成人员伤亡和财产损失，震区街面秩序正常，“山西突发 3.9 级地震，街面一片狼藉”的网络说法与事实不符，相关视频和配文为夸大甚至捏造情节的谣言。",
+    "evidence_sources": [
+      {
+        "content": "官方辟谣：“山西突发3.9级地震，街面一片狼藉！”与事实不符（山西省地震局：本次地震未造成人员伤亡和财产损失，震区社会秩序正常。）",
+        "url": "https://news.cctv.com/2025/10/18/ARTIvLg5unjcc6cjSGBzlTI2251018.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣公告：“山西突发3.9级地震，街面一片狼藉！”与事实不符（重申 10 月 18 日忻府区 3.9 级地震未造成破坏，“街面一片狼藉”的说法属于谣言。）",
+        "url": "https://www.163.com/dy/article/KC7M9BRJ05568W0A.html",
+        "credibility": "High"
+      },
+      {
+        "content": "山西忻州市忻府区发生3.9级地震（中国地震台网正式测定此次地震的时间、位置和震级，仅报道为 3.9 级有感小震，并未提及严重破坏。）",
+        "url": "https://www.cnr.cn/sx/yw/20251018/t20251018_527400148.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 年 10 月 18 日下午，山西忻州市忻府区发生 3.9 级有感地震，未造成人员伤亡和明显破坏，“街面一片狼藉”的网络说法为夸大失实的谣言。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "2025年10月24日乌鲁木齐天山大峡谷景区塌方。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，近期确有网民发布配文称“新疆天山大峡谷塌方”的视频，引发关注，但乌鲁木齐市南山景区管理委员会核实后明确表示，天山大峡谷景区并未发生塌方，相关说法属于网络谣言。 官方说明，网传画面实际拍摄于2025年10月24日，当天是乌鲁木齐中佳勘察设计有限公司在天山大峡谷景区山沟约1.3公里处进行山体排险作业的现场，并不是自然塌方或突发地质灾害事件。",
+    "evidence_sources": [
+      {
+        "content": "“新疆天山大峡谷景区发生塌方”不实——今日辟谣（乌鲁木齐市南山景区管委会核实：景区未发生塌方，网传图片为10月24日排险作业画面）",
+        "url": "https://news.ifeng.com/c/8nz5Vs4mDwJ",
+        "credibility": "High"
+      },
+      {
+        "content": "新疆天山大峡谷景区塌方？真相来了！（中国互联网联合辟谣平台：10月24日为勘察公司进沟排险施工，不是山体塌方）",
+        "url": "https://piyao.cnjiwang.com/gdpy_py/202511/3993241.html",
+        "credibility": "High"
+      },
+      {
+        "content": "新疆天山大峡谷景区发生塌方？辟谣（再次引用南山景区管委会说法，确认“塌方”说法不属实，属于谣言）",
+        "url": "https://news.qq.com/rain/a/20251103A05CGT00",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年10月24日，新疆乌鲁木齐天山大峡谷景区内相关单位在山沟约1.3公里处进行山体排险作业，并未发生景区塌方，网络上传播的“天山大峡谷景区塌方”说法为谣言。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "2025年3月山东菏泽因草地着火导致停车场几十辆汽车被烧毁。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，多地辟谣平台和媒体核查后确认，网传“2025年3月山东菏泽因草地着火导致停车场几十辆汽车被烧毁”的视频并非发生在菏泽，而是将外地旧火灾视频移花接木改成“菏泽”。 官方说明这是典型的“移花接木”式谣言，菏泽当地并未发生网传那种因草地起火致停车场几十辆车被烧毁的事件。",
+    "evidence_sources": [
+      {
+        "content": "辟谣！山东菏泽因草地着火导致停车场汽车被烧毁？回应来了（经多方溯源，网传视频为2024年3月3日河南郑州北龙湖公园火灾，并非发生在菏泽）",
+        "url": "https://news.cctv.cn/2025/03/26/ARTI5mn6HNataLHLWeKFpzWJ250326.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "山东菏泽因草地着火导致停车场几十辆汽车被烧毁？回应来了（确认视频系外地旧闻被改地名传播，属“移花接木”谣言）",
+        "url": "http://piyao.jiaodong.net/system/2025/03/28/200930568.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣！山东菏泽因草地着火导致停车场汽车被烧毁？回应来了（腾讯新闻转载上述权威辟谣内容，指出事件不在菏泽发生）",
+        "url": "https://view.inews.qq.com/a/20250326A08RER00",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“2025年3月山东菏泽因草地着火导致停车场几十辆汽车被烧毁”的视频其实是外地旧火灾画面被移花接木到菏泽，当地并未发生这起事故，该说法属于网络谣言。",
+    "topic": "Society"
+  },
+  {
+    "claim": "天津有生育补贴制度二胎奖励5000元。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，近期网上流传所谓“天津生育补贴制度”“二胎奖励5000元”等信息，天津市相关部门已明确回应，这些信息不实，目前天津市并无统一的“生育补贴制度”，不存在规定“二胎奖励5000元”的做法。 天津现行的是生育登记、生育津贴、育儿补贴等制度，例如2025年起对0–3岁婴幼儿按每孩每年3600元发放育儿补贴，与“只对二胎一次性奖励5000元”的说法明显不同。",
+    "evidence_sources": [
+      {
+        "content": "网传“天津生育补贴制度”？官方回应：信息不实！（天津市有关部门：目前天津市无生育补贴制度，“二胎奖励XX元”等网传内容不实。）",
+        "url": "https://finance.sina.cn/2025-02-28/detail-inemzuic6903369.d.html",
+        "credibility": "High"
+      },
+      {
+        "content": "网传“天津生育补贴制度”？官方回应：不实（说明网上所谓“二胎奖励5000元”等内容与事实不符，目前天津没有这类统一奖励政策。）",
+        "url": "https://xinwen.bjd.com.cn/content/s67c02cb2e4b068c68f1055ff.html",
+        "credibility": "High"
+      },
+      {
+        "content": "天津日报：3周岁前每娃每年3600元（报道天津自2025年起实施普惠育儿补贴政策：0–3岁婴幼儿每人每年3600元，不区分一孩、二孩、三孩。）",
+        "url": "http://epaper.tianjinwe.com/tjrb/html/2025-07/29/content_143084_2455174.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前天津没有“二胎奖励5000元”的生育补贴制度；天津实行的是按0–3岁婴幼儿每人每年发放育儿补贴等政策，不区分一孩二孩单独奖励5000元。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2025年5月新疆库车大峡谷突发洪水。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2025 年 5 月，确有网民在网络平台发布视频，配文称“在新疆旅游时突发洪水，库车大峡谷山洪暴发”，并在评论区注明事发地点为“库车天山大峡谷景区”，引发“2025 年库车大峡谷突发洪水”的说法。 经新疆库车市文旅集团核实，自 2025 年以来，库车天山神秘大峡谷景区未发生洪水事件，景区运营秩序正常有序；网传视频实为 2022 年 7 月库车大峡谷遇大雨时发生洪水的旧视频，被人重新剪辑后谣传为 2025 年的“突发洪水”。 因此，把 2022 年的旧洪水事件说成“2025 年 5 月新疆库车大峡谷突发洪水”属于时间和事实都错误的谣言。",
+    "evidence_sources": [
+      {
+        "content": "“新疆库车大峡谷突发洪水”？回应来了（库车市文旅集团：2025 年至今景区未发生洪水事件，网传画面系 2022 年 7 月的旧视频）",
+        "url": "https://www.piyao.org.cn/20250527/4423d340cd86410480b176f1ef83e486/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣丨新疆库车大峡谷突发洪水？（新疆权威辟谣：所谓“2025 年库车大峡谷突发洪水”是用 2022 年洪水旧视频移花接木）",
+        "url": "https://news.sina.cn/2025-05-26/detail-inexwtaz7788959.d.html",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年5月26日）（针对“新疆库车大峡谷突发洪水？”一说，明确给出“自 2025 年以来景区未发生洪水，相关视频为旧闻画面”的辟谣说明）",
+        "url": "https://jsnews.jschina.com.cn/piyao/mtqz/202505/t20250526_s68342a58e4b0457d53b00699.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "自 2025 年以来，新疆库车天山神秘大峡谷景区未发生洪水事件，网络上传播的“2025 年库车大峡谷突发洪水”视频是 2022 年洪水旧画面被移花接木后的谣言。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "深圳核心区放开房地产限购。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，多家权威媒体及深圳网络辟谣平台明确表示，网上流传的“深圳核心区放开房地产限购”的说法为不实信息，官方已出面辟谣。​ 深圳市在9月5日出台的是“分区优化调整”房地产调控政策：非核心区（罗湖、宝安部分、龙岗、龙华、坪山、光明等）放宽限购，但福田、南山及宝安新安街道等核心区的购房套数限制仍然保留，并不存在“核心区放开限购”。",
+    "evidence_sources": [
+      {
+        "content": "深圳核心区放开限购？官方辟谣（深圳网络辟谣称，经核实并不存在“深圳核心区放开限购”的情况）",
+        "url": "https://wap.eastmoney.com/a/202509193518596210.html",
+        "credibility": "High"
+      },
+      {
+        "content": "深圳辟谣“核心区放开房地产限购”（深圳网络辟谣平台与深圳新闻网微信公众号说明相关传闻不实）",
+        "url": "https://www.zaobao.com.sg/realtime/china/story20250920-7543048",
+        "credibility": "High"
+      },
+      {
+        "content": "深圳优化调整房地产政策（官方文件解读：仅非核心区放宽限购，福田、南山等核心区限购政策维持不变）",
+        "url": "http://www.news.cn/20250906/8ea6c58127a94c5b804c6bbc85050110/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "深圳在2025年9月对非核心区住房限购政策进行了放宽调整，但福田、南山等核心区并未放开房地产限购。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "北京提供了8个“官方亲水点”。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2025年主流媒体和北京市水务局等权威来源未公布“8个官方亲水点”这一说法。相关辟谣消息表明，朋友圈和部分自媒体流传的“北京出台8个官方亲水点”并未得到官方证实，北京水务部门也未如相关传言般专门指定或公布明确的8个“官方亲水点”名单。官方报告和新闻只提到滨水空间持续开放、河湖提升工程等，并未限定具体数量为8个。",
+    "evidence_sources": [
+      {
+        "content": "今日辟谣：北京发布8个“官方亲水点”？（媒体查证市水务部门未官方公布8个亲水点）",
+        "url": "https://news.bjd.com.cn/2025/08/12/11268347.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "北京8个“官方亲水点”？官方回应（“问北京”平台查证，北京官方未指定或公布具体8个亲水点名单）",
+        "url": "https://jsnews.jschina.com.cn/piyao/swrd/202508/t20250813_s689be77ee4b009679837e54a.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "2025年北京市水务工作报告（报告仅提滨水空间建设和更多河湖开放，未提8个官方亲水点）",
+        "url": "https://swj.beijing.gov.cn/zwgk/ghjhzj/202502/t20250218_4013456.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "北京市并没有公布8个“官方亲水点”这一说法，市内部分滨水空间和河湖持续对市民开放，无官方限定数量。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年东莞中考数学科目泄题。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "2025年东莞中考数学科目在考试后曾被网传“疑似泄题”“将重考”，但广东省教育考试院和东莞市教育局联合通报，经连夜核查，未发现考前试题泄露情况，确认不存在“数学科目泄题”。 官方明确指出，网传“东莞中考数学泄题、重考”的相关内容属于谣言，已通过多家权威媒体和辟谣平台公开澄清。",
+    "evidence_sources": [
+      {
+        "content": "网传东莞中考数学科目疑似泄题，东莞市教育局最新通报（经核查未发现泄题情况，“重考”传闻为谣言）",
+        "url": "https://static.nfnews.com/content/202507/02/c11463388.html",
+        "credibility": "High"
+      },
+      {
+        "content": "广东省教育考试院通报“东莞中考数学科目试卷被疑泄露试题”（确认不存在中考考前试题泄露情况）",
+        "url": "https://eea.gd.gov.cn/news/content/post_4738214.html",
+        "credibility": "High"
+      },
+      {
+        "content": "网传“东莞中考数学科目疑泄题”？官方通报（广东省教育考试院、东莞市教育局联合澄清“泄题”和“重考”说法不实）",
+        "url": "https://www.piyao.org.cn/20250701/b4e537dc188b4c6f8aed3430c4057895/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年东莞中考数学科目在考试后曾被网传“疑似泄题”，但广东省教育考试院和东莞市教育局通报确认不存在考前试题泄露情况，相关“泄题”“重考”说法为谣言。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年8月5日太原街头因行车纠纷持刀伤人。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，多地辟谣平台及公安机关通报表明，“太原街头因行车纠纷持刀伤人”的说法源自一名网民为博取流量而编造的短视频情节，该视频以其多年前目睹的一起普通行车纠纷为原型，刻意添加“持刀伤人”等虚构内容，并非2025年8月5日真实发生的案件。 通报中明确指出，警方核查后确认并无“2025年8月5日太原街头因行车纠纷持刀伤人”的实际治安或刑事警情，该信息属于网络谣言，视频发布者刘某已被公安机关依法行政拘留。",
+    "evidence_sources": [
+      {
+        "content": "今日辟谣：山西太原一男子因行车纠纷持刀伤人？（警方调查证实网传“太原街头因行车纠纷持刀伤人”为虚构情节）",
+        "url": "https://xinwen.bjd.com.cn/content/s689c57aee4b0221b9beb62c2.html",
+        "credibility": "High"
+      },
+      {
+        "content": "太原街头因行车纠纷持刀伤人？刘某被拘！（通报称刘某为博流量，编造“持刀伤人”谣言，被警方行政拘留）",
+        "url": "https://finance.sina.com.cn/wm/2025-08-13/doc-infkvepc8014961.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年8月13日）（辟谣栏目说明：相关短视频添加“持刀伤人”等虚构情节，实际仅为普通行车纠纷）",
+        "url": "https://www.sohu.com/a/923691768_163278",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年8月网上流传“太原街头因行车纠纷持刀伤人”的视频内容为虚构情节，警方核查证实未发生该持刀伤人事件，相关信息属网络谣言，发布者已被行政拘留。",
+    "topic": "Society"
+  },
+  {
+    "claim": "成都龙泉山将举办荒野求生赛。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，多家权威辟谣平台和媒体显示，“成都龙泉山将举办荒野求生赛 / 荒野求生大赛”源于网民发布的所谓“荒野求生大赛征集令”，龙泉山城市森林公园管委会经核实后明确公告：官方没有组织举办此类赛事的计划，也未收到任何组织或个人的活动申报。 成都市公安机关进一步通报，相关网民为博取流量捏造赛事信息并在短视频平台传播，系网络谣言，发布者已被依法行政拘留。",
+    "evidence_sources": [
+      {
+        "content": "网传成都龙泉山将举办荒野求生赛？官方回应（龙泉山城市森林公园管委会称无举办该活动计划，未收到任何申报）",
+        "url": "https://www.piyao.org.cn/20251107/4ab9190a82c44d21aaf0469c0157e899/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“成都龙泉山将举办荒野求生赛”不实——今日辟谣（2025年11月7日）（说明相关“征集令”为网传不实信息）",
+        "url": "https://www.smrmnews.cn/content/646955/54/15418443.html",
+        "credibility": "High"
+      },
+      {
+        "content": "真相来了丨官方辟谣“成都龙泉山将举办荒野求生赛”（警方查明发布者捏造信息博取流量，并对其行政拘留）",
+        "url": "https://news.cctv.com/2025/11/19/ARTInMBjsY2dtr3h4nDtHDzV251119.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“成都龙泉山将举办荒野求生赛”属谣言，龙泉山城市森林公园及相关部门并无举办此赛事的计划，也未接到任何申报，造谣者已被警方行政拘留。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年05月山西朔州七里河公园建设存在异常现象。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，多家省级和地方互联网辟谣平台说明，“山西朔州七里河公园建设存在的一系列异常现象”（如“施工挖出宋元石构件”“凌晨秘密施工”“存在神秘放射性设施”“儿童区磁场异常”等）系网络谣言，并非真实情况。 官方通报指出，七里河公园相关建设属正常市政与生态环境提升工程，未发现所谓“异常现象”，相关不实内容已被集中辟谣。",
+    "evidence_sources": [
+      {
+        "content": "山西朔州七里河公园建设存在异常现象？谣言！（逐条澄清“挖出宋元石构件”“神秘放射性设施”等说法不实）",
+        "url": "http://hbjubao.cnhubei.com/gndt/202505/t4762170.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "山西七里河公园建设存在异常现象？官方回应（中国互联网联合辟谣平台转载，说明系网传谣言）",
+        "url": "https://cj.sina.cn/articles/view/7022618504/1a294a78801901azai?froms=ggmp",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年5月14日）：山西朔州某公园建设出现一系列异常现象？（明确将该说法列为网络谣言）",
+        "url": "https://jsnews.jschina.com.cn/piyao/mtqz/202505/t20250515_s68253bf2e4b0b887ac96e6b4.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“2025年5月山西朔州七里河公园建设存在一系列异常现象”属网络谣言，官方核查确认相关建设为正常市政与生态提升工程，未发现所谓“异常现象”。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年5月河南信阳火灾致7人死亡。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，多地辟谣平台和官方通报指出，网络上传播的“河南信阳火灾致7人死亡”说法不属实，属于谣言。 经核实，5月23日夜间确有信阳市平桥区兰店办事处一电动车店发生火情，但应急、消防部门及周边群众迅速救援，将被困人员转移至安全区域，未造成人员死亡，更不存在“7人死亡”的严重后果。",
+    "evidence_sources": [
+      {
+        "content": "辟谣！网传河南“信阳火灾致7人死亡”系谣言！（说明网传视频配音“7条生命被浓烟吞噬”等内容不实）",
+        "url": "https://www.hnwx.gov.cn/2025/06-19/66532.html",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣！网传河南“信阳火灾致7人死亡”系谣言！（核实为5月23日平桥区一电动车店火情，无人员死亡）",
+        "url": "https://finance.sina.com.cn/wm/2025-06-20/doc-infasuen6418401.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "河南信阳发生火灾致7人死亡？官方辟谣（确认现场人员已被安全转移，“7人死亡”等说法失实）",
+        "url": "http://www.chinanews.com.cn/sh/2025/06-19/10434633.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年5月23日河南信阳市平桥区兰店办事处一电动车店发生火情，但被困人员已及时获救并转移至安全区域，未造成7人死亡，网上“信阳火灾致7人死亡”的说法系谣言。",
+    "topic": "Society"
+  },
+  {
+    "claim": "吃“欺骗餐”能够提高基础代谢。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
+    "justification": "错误，“欺骗餐”（cheat meal）在短时间内会因为进食量增加而让能量消耗略有上升，但这种效应非常短暂，通常只在当天或24小时内出现，幅度大约只有几个百分点，远不足以显著、持续地提高基础代谢率（BMR）。 系统综述指出，真正能部分减轻代谢适应的是持续数天到一两周、能量有计划增加的“refeed/diet break”，而不是偶尔一次放飞自我的高热量欺骗餐，因此将“吃欺骗餐”说成能提高基础代谢，是对相关研究的夸大和误读。",
+    "evidence_sources": [
+      {
+        "content": "The truth about “cheat meals” — and what we get wrong about them（指出欺骗餐引起的代谢率升高是短暂且幅度很小，远不足以抵消额外热量）",
+        "url": "https://medschool.duke.edu/news/truth-about-cheat-meals-and-what-we-get-wrong-about-them",
+        "credibility": "High"
+      },
+      {
+        "content": "The Role of Cheat Meals in Dieting: A Scoping Review of the Evidence（综述发现真正对静息代谢影响的是较长时间、结构化的refeed/diet break，而非单次欺骗餐）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12512235/",
+        "credibility": "High"
+      },
+      {
+        "content": "Refeed Days: What has science shown?（总结研究表明短期能量/碳水补充可暂时提高瘦素和能量消耗，但效应很快消失，对长期基础代谢影响有限）",
+        "url": "https://biolayne.com/articles/nutrition/refeed-days-what-has-science-shown/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "偶尔吃一次“欺骗餐”只能在短时间内略微提高能量消耗，对长期基础代谢率几乎没有显著提升作用，想改变基础代谢更依赖于整体能量平衡、肌肉量和长期生活方式。",
+    "topic": "Health"
+  },
+  {
+    "claim": "2024年12月内蒙古赤峰市人力资源和社会保障局“绿色通道”拟引进人员进行公示公告的文件泄露。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，赤峰市人力资源和社会保障局发布严正声明称，网络流传的所谓“2024年12月赤峰市人社局‘绿色通道’拟引进人员进行公示公告的文件泄露”属虚假信息，局方从未发布或泄露此类内部文件。 声明指出，2024年度赤峰市市本级事业单位“绿色通道”人才引进工作相关公告、公示只通过赤峰市人社局官网等官方渠道对外发布，不存在“文件泄露”“名单提前外传”等情况。",
+    "evidence_sources": [
+      {
+        "content": "赤峰市人力资源和社会保障局辟谣声明：关于“2024年赤峰市市本级事业单位‘绿色通道’拟引进人员进行公示公告的文件泄露”系虚假信息",
+        "url": "https://app-h5.litenews.cn/topic/MTA0Mzg6NWMzZTY.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "最近有“草莓瘟”不能吃草莓？辟谣（其中提到赤峰市人社局就“绿色通道”拟引进人员公示公告所谓文件泄露作出辟谣）",
+        "url": "https://www.163.com/dy/article/JQV1A4QQ05508FYJ.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2024年赤峰市市本级事业单位“绿色通道”引进人才公告（说明拟引进人员名单仅按程序在官网公示，并无“泄露文件”情形）",
+        "url": "https://m12333.cn/policy/pmbei.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“2024年12月内蒙古赤峰市人力资源和社会保障局‘绿色通道’拟引进人员公示公告文件泄露”的说法为谣言，赤峰市人社局表示相关信息只通过官方网站按程序公示，不存在文件泄露。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025月7月26日宁夏银川永宁发生4.1级地震。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，权威辟谣平台和媒体指出，网络流传的“2025年7月26日宁夏银川永宁发生4.1级地震”属于虚假信息，是个别网民在内蒙古阿拉善左旗4.7级地震发生后，借机在短视频平台编造的谣言，用以博取流量。 中国地震台网和宁夏地震部门的震情通报中，并无“2025年7月26日永宁县4.1级地震”记录，当地警方已依法查处造谣网民。",
+    "evidence_sources": [
+      {
+        "content": "今日辟谣（2025年7月28日）：针对“宁夏银川永宁发生4.1级地震”虚假信息作出权威澄清，确认系网络谣言",
+        "url": "https://www.piyao.org.cn/20250728/0579146062f843a39161686ddef2a7ab/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "平罗一男子借地震造谣博流量，2小时被查处（称其在阿拉善左旗4.7级地震后编造“宁夏银川永宁发生4.1级地震”的视频信息）",
+        "url": "https://view.inews.qq.com/a/20250727A052JR00",
+        "credibility": "High"
+      },
+      {
+        "content": "宁夏银川永宁发生4.1级地震？（中国互联网联合辟谣平台专题辟谣，指明地震台网无此震情记录）",
+        "url": "https://www.piyao.org.cn/20250804/6fe37d4e6960410c94e96139d2d0a380/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“2025年7月26日宁夏银川永宁发生4.1级地震”属网络谣言，地震台网无该震情记录，相关造谣网民已被警方查处。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "2025年6月广东有高铁站被淹。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2025年6月网络流传“广东有高铁站被淹，滔天洪水吞噬广东省，80万人绝望求救”等内容的视频，被多家辟谣平台和媒体证实为谣言，视频中的“高铁站被淹”画面实为2018年广州站站前广场短时积水的旧视频，被恶意剪辑后冒充当年灾情。 官方核实，2025年6月广东虽有强降雨天气，但并不存在网传“高铁站被淹”的严重情况。",
+    "evidence_sources": [
+      {
+        "content": "今日辟谣（2025年6月18日）：网传广东有高铁站被淹？（明确指出相关视频为拼接旧画面，广东高铁站未被淹）",
+        "url": "https://m.bjnews.com.cn/detail/1750235670129963.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“滔天洪水”，广东有高铁站被淹？真相来了（南方＋核实视频为2018年广州站前广场积水旧视频，2025年并无高铁站被淹）",
+        "url": "https://www.jfdaily.com/news/detail?id=930906",
+        "credibility": "High"
+      },
+      {
+        "content": "网传广东有高铁站被淹？谣言不要信（说明近日广州虽有降雨，但车站并无积水，网传视频为旧闻画面）",
+        "url": "https://www.sohu.com/a/905535917_120237",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年6月网上流传的“广东有高铁站被淹”的视频为拼接旧画面的谣言，当年广东并未出现网传那种高铁站被洪水淹没的情况。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "2025年11月13日，江苏张家港市文昌阁火灾，被烧的是“南朝四百八十寺之一”",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，官方通报证实，火灾发生时间为2025年11月12日，地点是江苏张家港市凤凰山景区内的文昌阁仿古建筑，系游客使用香烛不慎引发，无人员伤亡。 文昌阁为2008年立项、2009年建成的钢筋混凝土仿古建筑，阁内未收藏文物；“南朝四百八十寺之一”的历史永庆寺为古代名寺，但现今凤凰山永庆寺整体为当代重建建筑，与历史名寺并非同一遗存，此次起火建筑也不是古代寺院本体。 因此，将该火灾描述为“2025年11月13日发生，烧毁的是南朝四百八十寺之一”的说法不符合事实。",
+    "evidence_sources": [
+      {
+        "content": "官方通报张家港凤凰山文昌阁火灾：系游客使用香烛不慎引发（说明起火时间为11月12日，文昌阁为2008年立项建设的仿古建筑，阁内未收藏文物）",
+        "url": "https://www.chinanews.com.cn/sh/2025/11-13/10514894.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "江苏省张家港市官方回应：文昌阁火灾系游客使用香烛不慎引发（进一步说明永庆寺现为当代重建，“寺内建筑系现代新建，与相传南朝名寺无直接文物关联”）",
+        "url": "https://www.163.com/dy/article/KE8N1IDI0534A4SC.html",
+        "credibility": "High"
+      },
+      {
+        "content": "“南朝四百八十寺之一”被烧？——今日辟谣（2025年11月14日）（明确指出：起火建筑为文昌阁仿古楼阁，“南朝四百八十寺之一被烧”属夸大误导）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-11-14/doc-infxkhuw4430209.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年11月12日，江苏张家港市凤凰山景区文昌阁仿古建筑发生火灾，系游客使用香烛不慎引发，无人员伤亡，起火建筑为现代仿古楼阁，并非真正意义上的“南朝四百八十寺之一”古寺本体。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年9月有人在山顶冻死致东灵山“封山”。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2025年9月网传“有人在山顶冻死致北京东灵山封山”的说法，被门头沟区清水镇政府、区文旅局和消防救援部门多方核实为谣言。 官方说明：东灵山自2019年起就已暂停对外开放，早已严禁游客擅自进入，近期发布的只是再次重申禁止穿越、夜爬等活动的安全提示；救援部门虽在山上开展过救援行动，但并不存在“有人在山顶冻死”或“因此封山”的事件。",
+    "evidence_sources": [
+      {
+        "content": "“有人在山顶冻死致北京东灵山封山”？官方回应（门头沟区清水镇政府、区文旅局核实：冻死、蛇咬致封山均为谣言，东灵山2019年起即不对外开放）",
+        "url": "https://finance.sina.com.cn/wm/2025-09-23/doc-infrmyav7734810.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "有人在山顶冻死致北京东灵山“封山”？谣言！（今日辟谣栏目：所谓“封山”并非因人员冻死，而是对2019年以来关闭管理措施的再次提醒）",
+        "url": "https://news.qq.com/rain/a/20250923A07IXH00",
+        "credibility": "High"
+      },
+      {
+        "content": "有人山顶冻死致东灵山封山？多方辟谣（清水镇政府与消防救援站说明：18日凌晨确有救援，但不存在人员冻死事件）",
+        "url": "https://news.ifeng.com/c/8mmCjqUfrrx",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "网传“2025年9月有人在山顶冻死致东灵山封山”不属实；东灵山自2019年起已暂停对外开放，近期所谓“封山”只是有关部门再次发布安全提示，并非因有人在山顶冻死。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年4月南宁燃气价格上涨。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2025年4月网络上流传“广西南宁燃气价格上涨/要涨价”的截图和配图，经公安机关和中国互联网联合辟谣平台核查，属于网民利用AI生成的不实信息，并非真实调价通知。 官方明确表示，当时南宁市并未出台新的燃气价格上调政策，居民燃气价格未按网传时间和幅度上涨；真正的价格联动调整方案是南宁市发展改革委在2025年10月发布通知，自2025年11月1日起执行，与“2025年4月涨价”不符。",
+    "evidence_sources": [
+      {
+        "content": "南宁燃气价格上涨？借AI造谣，罚！（说明网传“燃气涨价”图片为网民用AI生成的不实内容，已被公安机关查处）",
+        "url": "https://m.gmw.cn/2025-04/11/content_1304013020.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "近期广西南宁燃气涨价？（中国互联网联合辟谣平台澄清：相关涨价截图为虚假信息，当地并未按网传时间调整燃气价格）",
+        "url": "https://www.piyao.org.cn/20250414/49dc32a1732242cca1b91d4fe6d1fe24/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "南宁市区管道燃气价格联动上涨（南宁市发改委通知自2025年11月1日起联动调整价格，时间点与“4月上涨”的说法明显不符）",
+        "url": "https://news.qq.com/rain/a/20251013A038AJ00",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年4月网上流传的“南宁燃气价格上涨”属于AI生成的虚假截图，当时南宁市并未上调燃气价格，真正的管道燃气价格联动上涨自2025年11月1日起执行。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "2025年3月山东烟台龙口一仓库发生1人昏迷、14人呼吸困难事件。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，多家权威辟谣平台与警方通报表明，“2025年3月山东烟台龙口一仓库发生1人昏迷、14人呼吸困难事件”的说法系网民编造的网络谣言。网民刘某在短视频平台发布所谓“15人在龙口某仓库抢夺尺码，导致1人当场昏迷，另外14人轻度呼吸困难”的视频吸引流量，警方核查后确认当地并未发生此类事故，相关内容纯属捏造，刘某已被依法查处。",
+    "evidence_sources": [
+      {
+        "content": "山东烟台龙口一仓库发生1人昏迷、14人呼吸困难事件？假的！（辟谣指出视频内容为编造，当地并无相关警情或事故）",
+        "url": "https://www.piyao.org.cn/20250324/3b3b9819c97b44ec98118591c3681719/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "辟谣丨山东烟台龙口一仓库发生1人昏迷、14人呼吸困难事件？（详细说明网民刘某为博眼球编造“抢尺码致1人昏迷、14人呼吸困难”情节）",
+        "url": "https://finance.sina.cn/2025-03-25/detail-ineqwnhp9783005.d.html",
+        "credibility": "High"
+      },
+      {
+        "content": "罚！商家为博取流量编造拥挤事故谣言（央广网报道龙口警方调查认定相关视频为虚假信息，对责任人依法处罚）",
+        "url": "https://news.cnr.cn/kuaixun/20250408/t20250408_527126535.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年3月网传“山东烟台龙口一仓库发生1人昏迷、14人呼吸困难事件”系网民为博取流量编造的谣言，当地并未发生这样的仓库事故，涉事人员已被警方依法查处。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2023年2月广州方舱医院拆除中",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，2023年2月网络流传的“广州方舱医院拆除中”视频，经建设单位中铁隧道局集团说明，实际画面是拆除用于隔离施工和医护人员的临时居住点，并非拆除方舱医院本体。 多家权威辟谣平台将该说法明确列为谣言，指出“广州方舱医院拆除中”的表述与事实不符，属于误导性传播。",
+    "evidence_sources": [
+      {
+        "content": "网传“广州方舱医院拆除中”？谣言（中铁隧道局说明：拆除的是隔离工作人员的临时居住点，而非方舱医院）",
+        "url": "https://www.piyao.org.cn/20230216/82847f243baf48c9be9a2a0868571aa3/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "网传“广州方舱医院拆除中”？中铁隧道局辟谣：实为该公司拆除临时居住点",
+        "url": "https://finance.sina.com.cn/jjxw/2023-02-16/doc-imyfvfyh9033133.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2023年2月16日）：广州方舱医院拆除中？（辟谣栏目确认相关视频说法不实）",
+        "url": "https://news.rednet.cn/content/646746/50/12326011.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2023年2月网上流传的“广州方舱医院拆除中”视频实际上是施工单位拆除用于隔离工作人员的临时居住点，方舱医院本体当时并未拆除。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年11月7日贵州遵义汇川区高坪镇发生一起交通事故，导致两死一伤，贵州遵义播州区三合镇货车失控撞向牛圈，造成群众恐慌。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
+    "justification": "错误，多家权威辟谣平台和媒体通报称，网传“2025年11月7日贵州遵义汇川区高坪镇发生一起交通事故，导致两死一伤”“贵州遵义播州区三合镇货车失控撞向牛圈，造成群众恐慌”的内容，均为网民杨某利用AI工具虚构生成的虚假信息，当地公安机关核查后确认两起所谓事故并未发生。 警方已依法对造谣者给予行政罚款等处罚。",
+    "evidence_sources": [
+      {
+        "content": "今日辟谣（2025年11月17日）：贵州遵义发生两起交通事故？（说明“高坪镇两死一伤”“三合镇货车撞牛圈”均为AI虚构谣言）",
+        "url": "https://www.gzwxb.gov.cn/context/contextId/214428",
+        "credibility": "High"
+      },
+      {
+        "content": "贵州遵义发生两起交通事故？官方辟谣（明确两条事故信息均不存在，造谣者已被处罚）",
+        "url": "https://finance.sina.com.cn/roll/2025-11-16/doc-infxqzia5873653.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "官方辟谣贵州遵义发生两起交通事故纯属捏造（详细说明杨某使用AI生成内容，在短视频平台发布上述两起“事故”）",
+        "url": "https://news.china.com/socialgd/10000169/20251117/48995379.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年11月网传“贵州遵义汇川区高坪镇发生两死一伤交通事故”和“遵义播州区三合镇货车失控撞向牛圈造成群众恐慌”的消息均为网民利用AI编造的谣言，当地并未发生这两起事故，造谣者已被公安机关处罚。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年10月新疆于田30万亩荒地出租，前三年免费，需要自己开荒，开荒完种植后每亩补贴1300元，合同50年。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，新疆于田县自然资源局和多家权威辟谣平台确认，网传“2025年10月新疆于田30万亩荒地出租，前三年免费，需要自己开荒，开荒完种植后每亩补贴1300元，合同50年”的内容为虚假信息，当地从未发布过此类土地承包或出租政策。 官方说明，目前于田县自然资源局未与任何企业或个人签订30万亩土地承包合同，也未发布与“前三年免费+每亩补贴1300元+合同50年”相关的任何文件或公告，这种“免费+高补贴+超长期合同”的组合属于典型的土地投资类网络谣言和诈骗话术模板。",
+    "evidence_sources": [
+      {
+        "content": "新疆于田有30万亩荒地出租？官方回应：网传信息系谣言（于田县自然资源局核实，从未发布30万亩土地承包信息，也未签订相关合同）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-10-17/doc-infuexsm6206353.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "新疆于田30万亩荒地出租，前三年免费？官方辟谣（说明“前三年免费、每亩补贴1300元、合同50年”等条件均为不实宣传）",
+        "url": "https://news.ifeng.com/c/8nZfACUda4S",
+        "credibility": "High"
+      },
+      {
+        "content": "新疆30万亩荒地出租谣言调查：虚假土地政策如何收割“投资者”（解析此类谣言的话术模板，引用于田县自然资源局辟谣结论）",
+        "url": "https://c.m.163.com/news/a/KC5TOUTS05562DNY.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "网传“2025年10月新疆于田30万亩荒地出租，前三年免费，自行开荒，种植后每亩补贴1300元，合同50年”的土地承包优惠政策为网络谣言，当地自然资源部门从未发布或签订相关30万亩土地承包协议。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "2025年4月1日蓝海应急救援服务中心以“缅甸地震救援”名义进行公开募捐1万元资金。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "错误，多家权威媒体和辟谣平台报道，近日在社交平台和微信群中出现有人冒充“蓝海应急救援服务中心”“浙江蓝海救援队”队员，以“缅甸地震救援”为名在群聊中发出“需要申请一批资金，一万元，在国内采购防疫物资”的募捐信息。 蓝海应急救援服务中心于4月1日发布正式声明，明确表示在此次缅甸救灾过程中，从未授权任何个人或其他组织以“缅甸地震救援”名义向社会公众进行公开募捐，也不会向公众筹集这笔“1万元资金”；相关所谓“募捐”行为与该中心无任何关系，已向公安机关报案并提醒公众防范诈骗。 因此，声称“2025年4月1日蓝海应急救援服务中心以‘缅甸地震救援’名义进行公开募捐1万元资金”的说法与官方声明相矛盾，属于错误信息。",
+    "evidence_sources": [
+      {
+        "content": "缅甸救援需筹集1万元资金？多个群聊中出现！紧急提醒（报道有人在群聊中冒充“浙江蓝海救援队”队员称需筹集1万元资金）",
+        "url": "https://cj.sina.cn/articles/view/1496814565/593793e502001q1uu",
+        "credibility": "High"
+      },
+      {
+        "content": "缅甸救援需筹集一万元资金？系冒充救援队诈骗，多队发布提醒（引述蓝海应急救援服务中心4月1日声明：从未向公众募集任何救灾资金）",
+        "url": "https://news.qq.com/rain/a/20250401A059PS00",
+        "credibility": "High"
+      },
+      {
+        "content": "今日辟谣（2025年4月2日）：中国赴缅甸救援队需募集资金？（指出所谓“蓝海应急救援服务中心为缅甸地震救援筹集1万元资金”不属实）",
+        "url": "http://www.piyao.org.cn/20250402/78476ffa05f54a2bb16329ad35321dc0/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年4月1日蓝海应急救援服务中心发布声明称，在参与缅甸地震救援过程中从未、也不会以“缅甸地震救援”名义向社会公众公开募捐1万元资金，相关以其名义筹款的信息系他人冒充，涉嫌诈骗。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2025年6月安徽马鞍山安徽省马鞍山市当涂县某工厂着火烧了好几个小时。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
+    "justification": "错误，中国互联网联合辟谣平台等权威渠道指出，网传“2025年6月安徽省马鞍山市当涂县某工厂着火，烧了好几个小时”的内容为虚假信息，属网络谣言。 当地网信与公安部门核查后确认，当涂县近期并未发生网传那种长时间燃烧的大型工厂火灾，相关视频、文字与当地实际警情不符，发布者已被纳入辟谣典型案例通报。",
+    "evidence_sources": [
+      {
+        "content": "安徽马鞍山当涂县某工厂着火，烧了好几个小时？（中国互联网联合辟谣平台给出“假的”结论）",
+        "url": "https://www.piyao.org.cn/20250630/4f029640187140d8906d7b82cd0fdb89/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "国内动态：安徽省马鞍山市当涂县某工厂着火烧了好几个小时？假的！（列入2025年6月典型网络谣言）",
+        "url": "http://hbjubao.cnhubei.com/gndt/index_7.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "中国互联网联合辟谣平台6月26日辟谣榜发布（点名“当涂县工厂着火为假消息”）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-06-26/doc-infckxsm3560940.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025年6月网传“安徽马鞍山当涂县某工厂着火，烧了好几个小时”的说法为网络谣言，当地并未发生此类长时间燃烧的大型工厂火灾。",
+    "topic": "Society"
+  },
+  {
+    "claim": "国务院意见发钱办“村超”，足协仍然能卡审批。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，卡不了。国务院文件明确“谁想办谁办、简化审批”，足协再卡就是顶风。当前中央和国务院层面的政策导向是通过《乡村全面振兴规划》《体育产业新部署》等文件，鼓励各地办好“村超”“村BA”等基层群众赛事，并提出“简化审批程序”“鼓励各地将办赛服务纳入高效办成一件事”等要求，方向是放宽、简化而不是收紧行政审批。 同时，国家体育总局公开答复中提到对贵州“村超”“村BA”等赛事给予中央彩票公益金经费支持，并将其作为群众性“三大球”精品赛事案例推广，强调是由地方文体旅部门组织实施的群众赛事，而非足协主导的职业联赛体系，足协的传统联赛准入和审批权主要针对中超、中甲等职业赛事。 在“苏超”“村超”等民间赛事是否需要足协审批的问题上，多篇报道和评论将其界定为文旅活动或社会足球赛事，强调地方文旅部门备案即可、无需足协审批，说明在“国务院发文支持/给钱办村超”这一背景下，“足协仍然能卡审批”的说法并不符合现实治理格局。",
+    "evidence_sources": [
+      {
+        "content": "“7万亿”将撬动什么？——业内关注体育产业“新部署”（文章解读国务院层面出台的体育产业《意见》，明确提出要简化体育赛事审批程序、降低合规成本，鼓励各地办好“苏超”“村超”等地方赛事）",
+        "url": "https://www.gov.cn/zhengce/202509/content_7040123.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "国家体育总局办公厅关于支持贵州“村BA”“村超”等群众赛事的答复（文件指出通过中央集中彩票公益金等方式对贵州“村BA”“村超”给予经费支持，将其列为群众“三大球”精品赛事案例，作为地方文体旅主导的群众赛事推进）",
+        "url": "https://www.sport.gov.cn/bgt/n25546387/c29055094/content.html",
+        "credibility": "High"
+      },
+      {
+        "content": "管辖权之争！江苏文旅回应足协：苏超是文旅活动，无需足协审批（报道中，地方文旅部门公开表态将“苏超”等归类为文旅活动，由地方备案管理，不属于必须由中国足协审批的职业联赛范畴）",
+        "url": "https://www.163.com/dy/article/K8EQUDO405564VMR.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "国务院和相关部委在文件中通过资金和政策支持“村超”等基层群众赛事，并要求简化赛事审批程序；此类文旅属性的群众赛事主要由地方文体旅部门备案和管理，中国足协并无继续“卡审批”的硬性权力。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "村超为民间赛事免票贴钱，还会受到足协限薪令的限制。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，管不着。限薪令只盯职业合同，民间免票发补贴属于文旅消费，足协没执法权。中国足协出台的“限薪令”针对的是中超、中甲等各级职业联赛俱乐部及其签约职业球员，明确通过限制职业球员年薪、奖金总额等方式控制职业俱乐部财务风险，并以“无法参加任何级别职业联赛”等作为违规处罚手段。 贵州“村超”等赛事则被多方定义为民间或文旅属性的业余赛事，球员以教师、快递员、学生等本职工作为主，每场只领取少量补贴或文旅券，不签职业合同，其补贴收入也不进入职业俱乐部薪酬体系，因此不在足协职业限薪规则的适用范围内。 相关报道还强调，“村超球员每踢一场比赛最多获得几百元补贴”“业余联赛扩大群众参与”，这类业余补贴不构成职业工资，故说“村超民间赛事免票贴钱还会受到足协限薪令的限制”与限薪令的实际适用对象不符。",
+    "evidence_sources": [
+      {
+        "content": "中超新赛季出台限薪令：国内球员税前不超过500万元（报道说明限薪令适用于中超等职业联赛俱乐部及其签约球员，超出部分将被处罚）",
+        "url": "https://finance.sina.cn/2020-12-14/detail-iiznezxs6851386.d.html",
+        "credibility": "High"
+      },
+      {
+        "content": "别再骂国足了！村超队4:1胜巴西，各行各业的他们，救了国足的脸（文章指出村超球员多为教师、外卖员等普通职工，每场比赛只拿少量补贴，属于业余身份）",
+        "url": "https://c.m.163.com/news/a/KCQ73RSP05567MEB.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "足协无权干涉！贵州村超是乡村振兴后，乡村群众的一种文化（将贵州村超定义为民间自发的群众文化活动和业余足球赛事，而非足协管理的职业联赛体系）",
+        "url": "https://www.sohu.com/a/693235086_121716725",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "村超作为民间业余赛事，采取免票或低票价并给球员发放少量补贴的形式举办，不属于职业联赛范畴，因此村超球员及其补贴收入不会受到中国足协职业联赛限薪令的限制。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "文旅局喊地方办城市联赛，但足协规定必须要经过足协审批，不批就撤。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，不用。意见白纸黑字“先照后证、告知承诺”，文旅局当场就能给备案，足协赛前审批靠边站。国务院及体育总局多次文件强调要“取消商业性和群众性体育赛事活动审批”“简政放权”，鼓励各地通过市场化和文旅部门组织举办各类群众赛事与城市联赛，而不是增加体育协会的前置审批。 2025 年围绕“苏超”等城市文旅联赛的管辖权争议中，江苏文旅等部门公开表态称苏超是文旅活动，由文旅系统主办备案，“无需足协审批”，并指出文旅局不隶属足协管理，足协无权以审批为由叫停地方文旅赛事。 中国足协新近出台的《中国足球协会社会足球赛事活动赛风赛纪管理办法（试行）》主要针对赛风赛纪与违规惩戒，要求部分跨区域社会足球赛事事前报备，但文件将其定位为赛风赛纪监管，并未赋予足协对地方文旅部门主办的城市联赛“一不批就撤赛”的行政审批权。",
+    "evidence_sources": [
+      {
+        "content": "国务院:加快发展体育产业2025年人均体育场地达2㎡（提出取消商业性和群众性体育赛事活动审批，推进简政放权，鼓励社会力量办赛）",
+        "url": "http://politics.people.com.cn/n/2014/1020/c1001-25868180-2.html",
+        "credibility": "High"
+      },
+      {
+        "content": "文旅局不隶属足协管理，中国足协新规无权干预（报道指出苏超由江苏文旅局承办，属文旅项目，文旅局不隶属足协管理，因此足协无权以审批否决赛事）",
+        "url": "https://news.qq.com/rain/a/20250831A04TCH00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "管辖权之争！江苏文旅回应中国足协:苏超是文旅活动,无需足协审批（当地文旅部门公开表示苏超是锁定消费场景的城市文旅活动，只需文旅系统备案，无需足协审批）",
+        "url": "https://www.163.com/dy/article/K8EQUDO405564VMR.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "文旅部门可以按照简政放权和取消群众性体育赛事审批的政策组织城市联赛，这类文旅属性的城市联赛通常只需在文旅或地方主管部门备案，不受中国足协“必须审批、不批就撤”的刚性前置审批约束。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "虽然国务院说村超可以“先干后证”，但村超仍然需要满足足协职业准入条款。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，不作数。国家层面已把赛事分级，群众类走简易通道，足协职业准入条款自动失效。“职业准入条款”属于中国足协对中超、中甲等职业联赛俱乐部设置的准入制度，核心包括俱乐部注册资格、财务状况、青训和场地标准等，适用对象是职业俱乐部，而不是以乡村振兴和群众体育为定位的“村超”等社会足球赛事。 近年来足协针对社会足球出台的是《社会足球赛事活动赛风赛纪管理办法》这类赛风赛纪规范，而不是要求社会赛事满足职业准入标准，因此把“村超仍然需要满足足协职业准入条款”当成事实，是将职业联赛规则错误外延到群众赛事上的范围混淆。",
+    "evidence_sources": [
+      {
+        "content": "中国足球协会社会足球赛事办赛指南（2021版）（将社会足球赛事界定为群众性或非职业赛事，重点给出组织与安全建议，并未要求执行面向职业俱乐部的准入条款）",
+        "url": "http://www.theafa.cn/uploadfile/file/20211105/20211105155236543654.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "关于印发《中国足球协会社会足球赛事活动赛风赛纪管理办法（试行）》的通知（文件主要规范社会足球赛事的赛风赛纪与纪律处罚，并未把职业联赛准入标准扩展到这类赛事）",
+        "url": "https://www.thecfa.cn/qttz/20250825/36843.html",
+        "credibility": "High"
+      },
+      {
+        "content": "研究报告：职业体育俱乐部准入办法与适用性分析（报告介绍职业体育俱乐部准入条款的设计目的在于规范职业联赛俱乐部行为，与群众性、社会性赛事的管理制度相区分）",
+        "url": "https://www.cideg.tsinghua.edu.cn/upload_files/file/20180518/1526615247581026875.pdf",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "“村超”属于乡村振兴背景下的群众性社会足球 / 文旅赛事，不是足协体系内的职业联赛项目，因此并不需要满足中国足协面向中超等职业联赛设计的职业准入条款。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "村超由群众集资，球员自己报名，但仍需满足足协的转会窗。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，不关。业余球员自己上，没签职业合同，足协转会系统根本录不进去。中国足协设置的“转会窗”制度是根据国际足联规则，为中超、中甲、中乙等职业联赛以及部分中国足协会员协会冠军联赛等系统内俱乐部之间办理球员转会和注册所规定的特定时间段，只适用于在足协注册的职业或准职业俱乐部及其注册球员。 贵州“村超”这类赛事被界定为群众性、社会性或文旅属性的业余赛事，球队多由当地乡镇、企业或自发团队组队，球员是群众自愿报名、并未以职业球员身份在足协完成转会注册，因此不在职业联赛转会窗规则覆盖范围内，也不存在必须在足协转会窗内“转会”才能为村超球队出场的法律或制度要求。 由此可见，把群众集资、球员自报名的村超说成“仍需满足足协的转会窗”，是将职业联赛转会制度错误套用到业余社会赛事上。",
+    "evidence_sources": [
+      {
+        "content": "中甲和中乙俱乐部球员转会注册工作有关事宜的通知（明确规定转会手续、材料及适用对象为中超、中甲、中乙等职业联赛俱乐部及其注册球员，并在转会窗口期内办理）",
+        "url": "https://www.thecfa.cn/lstz/20250106/35504.html",
+        "credibility": "High"
+      },
+      {
+        "content": "中国足协将在本赛季职业联赛开始前增设国内转会窗口（公告说明转会窗是为职业联赛开赛前的俱乐部间球员流动设置的国内转会期，服务对象为职业俱乐部）",
+        "url": "http://www.zmdnews.cn/2020/0223/575153.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "中国足球协会社会足球赛事办赛指南（2021版）（将社会足球赛事界定为群众性、非职业赛事，强调组织、安全和服务规范，并未要求业余球队和球员遵守职业联赛转会窗制度）",
+        "url": "http://www.theafa.cn/uploadfile/file/20211105/20211105155236543654.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "村超属于群众集资、球员自行报名参加的社会性业余赛事，参与球队和球员不在足协职业联赛注册体系内，因此不需要遵守中国足协为职业联赛设置的转会窗制度。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "村超办赛用公益门票，仍要由足协财务监管查账。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，查不了。公益票不进职业账本，足协财务监管只针对俱乐部，民间临时账户不在范围。中国足协发布的《职业俱乐部财务监管规程》明确写明，其适用对象是“参加职业联赛的俱乐部”“职业联赛准入申请人以及已获取准入许可的职业俱乐部”，财务监管机构负责审查的是职业俱乐部的财务报表、门票收入、赞助、转播权等与职业联赛相关的收入支出情况。 这套监管体系服务于职业联赛准入和联赛财务平衡目标，旨在防止职业俱乐部过度烧钱和财务风险，并不将群众性、公益性赛事的临时账务纳入其中，因此像“村超”这种以公益门票或免费观赛为主、由地方政府或社会主体自筹资金的群众赛事，账务由主办方和地方财政/审计体系监管，而不是由中国足协按职业俱乐部财务监管规程逐场查账。 说“村超办赛用公益门票，仍要由足协财务监管查账”，就是错误地把面向职业俱乐部的财务监管制度外推到了群众文体活动。",
+    "evidence_sources": [
+      {
+        "content": "中国足球协会职业俱乐部财务监管规程（2019 年版）（第三条明确适用范围为参加职业联赛的职业俱乐部及其相关主体，财务监管结果直接服务于职业联赛准入）",
+        "url": "https://www.thecfa.cn/thecfa/upload/20181229/20181229133536140.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "关于印发《中国足球协会职业俱乐部财务监管规程（2019年版）》的通知（公告说明制定该规程是为了规范职业足球俱乐部财务工作、控制俱乐部成本、促进职业联赛健康发展）",
+        "url": "https://www.thecfa.cn/lstz/20181229/25991.html",
+        "credibility": "High"
+      },
+      {
+        "content": "全国社会足球场地设施建设专项行动实施方案（试行）（对免费或公益性活动的社会足球场地使用提出监管要求，由地方政府和相关部门负责资金使用与监督，并未提及由中国足协财务监管）",
+        "url": "https://www.gov.cn/xinwen/2019-07/30/5417280/files/68215ccfbc6645918d59007ad09ec157.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "村超作为以公益门票和群众参与为特色的社会性赛事，其办赛资金和门票收入主要由主办方及地方财政、审计等部门监管，不在中国足协职业俱乐部财务监管规程的查账范围之内。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "国务院给“村超”消费券算俱乐部投资额度，受到足协限投令限制。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，拦不了。消费券算政府促消费资金，不占用俱乐部投资额度，限投令管不到政府红包。中国足协的“限投令”是针对中超等职业联赛俱乐部的投资和年度总支出设置上限，例如规定中超俱乐部单个财政年度总支出不得超过一定金额，并限制投资人注资规模，以遏制“金元足球”。 这类限投指标是依据俱乐部财务报表、股东出资和俱乐部自身经营性收入来核算的，适用对象是职业俱乐部及其投资人，而不是政府发放给普通消费者或观众的体育消费券。国务院和有关部门最新出台的体育消费政策明确鼓励各地发放体育消费券、消费红包等，用于拉动体育服务消费，这些资金性质是政府促消费支出，计入公共财政支出或专项资金使用，而不是某一家职业俱乐部的投资额度。 因此，把“国务院给村超的消费券”算作“俱乐部投资额度”，从而说“受到足协限投令限制”，混淆了政府消费补贴与俱乐部自有投资的概念，与限投令的实际适用范围不符。",
+    "evidence_sources": [
+      {
+        "content": "向“金元足球”说“不” 中国足球变革中前行（文章介绍中国足协的限薪、限投政策，要求中超俱乐部年度总支出不超过 6 亿元，并限制投资人注资额度，适用对象为职业俱乐部）",
+        "url": "http://sports.people.com.cn/n1/2020/1224/c22134-31978063.html",
+        "credibility": "High"
+      },
+      {
+        "content": "国办印发《意见》释放体育消费潜力（解读国务院《关于释放体育消费潜力进一步推进体育产业高质量发展的意见》，其中鼓励地方因地制宜发放体育消费券、消费红包等惠民措施，用于扩大体育消费）",
+        "url": "https://www.stcn.com/article/detail/3322295.html",
+        "credibility": "High"
+      },
+      {
+        "content": "体育消费券为夏日运动消费“添把火”（国家体育总局报道多地发放体育消费券，说明消费券是面向群众的政府补贴，用于降低参与体育消费的门槛，并未被视作俱乐部对外投资）",
+        "url": "https://www.sport.gov.cn/n20001280/n20067608/n20067635/c28917217/content.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "国务院或地方政府发放给“村超”等赛事相关场景的体育消费券属于面向群众的促消费补贴，不计入任何职业俱乐部的投资额度，因此不会受到中国足协职业联赛“限投令”的限制。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "村超球员业余拿补贴，还会受到足协工资帽限制。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，限不住。业余补贴按人头文旅券发放，不属工资，工资帽只能干瞪眼。中国足协设置的“工资帽”和“限薪令”是针对参加中超、中甲、中乙等职业联赛的俱乐部及其注册职业球员，规定俱乐部总薪酬支出和单个球员年薪上限，以遏制“金元足球”。 相关政策文件与报道都以“职业俱乐部”“职业联赛”“劳务合同”等为适用前提，并通过联赛准入和财务审计来约束俱乐部执行，不涉及未在足协职业体系注册的业余球员。村超则被视为群众性或社会性业余赛事，球员多为教师、工人、个体经营者等本职工作者，仅获得按场次或人头发放的补贴，这类补贴不构成职业俱乐部与职业球员之间的劳动合同薪酬，因此不在足协工资帽制度的适用范围内。 将“村超球员业余拿补贴”仍说成“受到足协工资帽限制”，属于把职业联赛的薪酬管控规则错误外推到业余群众赛事。",
+    "evidence_sources": [
+      {
+        "content": "足协正式公布限薪工资帽，中超俱乐部单赛季总支出不超过6亿（通知明确工资帽适用对象为中超等职业联赛俱乐部及其注册球员，设置俱乐部总支出和球员个人年薪上限）",
+        "url": "https://kbsapp.sports.qq.com/article/20201214A08TY3",
+        "credibility": "High"
+      },
+      {
+        "content": "中国足球“工资帽”细则公布 职业联盟拟明年成立（详细说明工资帽和薪酬限额的适用范围是职业俱乐部和职业球员，以俱乐部财务报表为考核基础）",
+        "url": "https://zjtyol.zjol.com.cn/zhzx/201812/t20181221_9043396.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "中国足球（国足男队）——中超限薪令与工资帽解读（文中提到工资帽和顶薪针对的是中超本土球员，随后又将业余联赛如“村超”“苏超”与职业联赛区分开来，强调其群众性和补贴性质）",
+        "url": "https://www.meipian.cn/5es1uaej",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "村超球员以业余身份参赛，只拿一定补贴，不属于中国足协职业联赛体系内的职业球员，因此他们的补贴收入不会受到足协工资帽或限薪令的约束。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "跨省办“苏超”巡回，足协地域限制作废。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，作废。意见鼓励“跨城联动”，地方备案即可，足协旧规里的地域保护条款被直接否定。",
+    "evidence_sources": [
+      {
+        "content": "国务院办公厅关于释放体育消费潜力进一步推进体育产业高质量发展的意见（提出要打造跨区域体育赛事和活动、鼓励体育与文旅融合发展，但未涉及中国足协具体地域条款的废止问题）",
+        "url": "https://www.gov.cn/zhengce/content/202509/content_7039155.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "国务院办公厅关于进一步扩大旅游文化体育健康养老教育培训消费的若干意见（鼓励各地创新文旅体活动、简化相关审批程序，但没有直接否定足协内部地域保护规则的表述）",
+        "url": "https://www.gov.cn/zhengce/content/2016-11/28/content_5138843.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "管辖权之争！江苏文旅回应中国足协：苏超是文旅活动，无需足协审批（地方文旅部门强调苏超属于文旅项目，不在足协审批之列，体现了管理边界争议，但并未构成对足协旧规“地域保护条款”正式废止的法律文件）",
+        "url": "https://www.163.com/dy/article/K8EQUDO405564VMR.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在公开信息层面，只能确认上位政策鼓励跨城联动、简化群众性赛事备案，并且地方文旅部门在实践中弱化了足协对社会赛事的地域管控，但“足协旧规里的地域保护条款已被正式直接否定”这一点目前没有权威依据可以确认。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "按照规定，村超草根球场须装VAR。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，没人规定。国务院强调“低成本办赛”，草根球场连VAR都不用装，足协技术装备清单自动失效。VAR 视频助理裁判系统目前是在中超等职业联赛以及部分重点职业赛事中按联赛规程强制或试点使用的技术配置，由中国足协和体育总局在职业联赛改革方案中逐步推广，主要针对职业比赛的判罚准确性和竞赛公平。 国家体育总局对全国性足球赛事应用 VAR 的答复中也明确，将优先在中甲、中乙等职业联赛重点场次试点应用 VAR，然后再探索次级职业联赛的升级路径，并未提出要求所有群众性或草根球场必须安装 VAR，更没有针对“村超”这类民间草根赛事发布强制配置 VAR 的规定。 相反，多篇报道提到村超、苏超的场地条件有限，争议判罚时媒体以“如果有 VAR 会更好”作为建议，说明当前并无“按规定村超草根球场必须装 VAR”的制度要求。",
+    "evidence_sources": [
+      {
+        "content": "VAR 历史性引入中超（中国足协介绍 VAR 首先在中超联赛试用并在随后的赛季在中超全面推广，作为职业联赛的技术手段）",
+        "url": "https://www.thecfa.cn/spcpxw/20171024/22291.html",
+        "credibility": "High"
+      },
+      {
+        "content": "VAR系统有望让中超联赛更“公平”（报道说明本赛季中超联赛全部场次引入 VAR 系统，强调其适用对象为中超职业联赛，并未涉及群众性赛事的强制配置）",
+        "url": "http://zqb.cyol.com/html/2018-04/09/nw.D110000zgqnb_20180409_2-08.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "对十四届全国人大三次会议第3322号建议的答复（体育总局答复中提出将在中甲、中乙等职业联赛重点场次试点 VAR，逐步探索判罚体系升级，但没有要求基层群众赛事或草根球场必须安装 VAR）",
+        "url": "https://www.sport.gov.cn/bgt/n25546387/c29054283/content.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "按照现有规定，VAR 的强制或优先配置对象是中超等职业联赛和部分重点职业赛事，村超这类草根群众赛事的球场并没有必须安装 VAR 的硬性要求。",
+    "topic": "Sports"
+  }
+]

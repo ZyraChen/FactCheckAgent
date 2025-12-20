@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "model": "qwen3-max",
+    "search_enabled": true,
+    "test_time": "2025-12-19 23:08:36",
+    "total_items": 3
+  },
+  "accuracy_metrics": {
+    "error": "没有成功的测试"
+  },
+  "detailed_results": [
+    {
+      "index": 0,
+      "claim": "冥王星距太阳最远约为74亿公里。",
+      "ground_truth": {
+        "verdict": "Supported"
+      },
+      "success": false,
+      "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/text-generation/generation (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    },
+    {
+      "index": 1,
+      "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+      "ground_truth": {
+        "verdict": "Refuted"
+      },
+      "success": false,
+      "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/text-generation/generation (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    },
+    {
+      "index": 2,
+      "claim": "尼日利亚每年新增HIV感染接近20万。",
+      "ground_truth": {
+        "verdict": "Refuted"
+      },
+      "success": false,
+      "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/text-generation/generation (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    }
+  ]
+}

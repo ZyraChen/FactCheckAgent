@@ -1,0 +1,124 @@
+{
+  "claim": "巴黎圣母院官网会在提前一天0点释放参观预约名额。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T15:33:03.995236",
+  "statistics": {
+    "total_evidences": 4,
+    "pro_evidences": 3,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 4,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_37636584",
+        "content": "Plan your visit by booking for free on the Notre-Dame Cathedral website. Booking is optional : this allows you to reduce your waiting time.",
+        "url": "https://www.notredamedeparis.fr/en/visit/reservation-free/",
+        "source": "www.notredamedeparis.fr",
+        "credibility": "Low",
+        "quality_score": 0.2934,
+        "priority": 0.08802,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "巴黎圣母院官网提前一天0点释放参观预约名额",
+        "timestamp": "2025-12-20T15:23:01.807236"
+      },
+      {
+        "id": "pro_2_7b8b71d4",
+        "content": "Plan your visit by booking for free on the Notre-Dame Cathedral website. Booking is optional : this allows you to reduce your waiting time.",
+        "url": "https://www.notredamedeparis.fr/en/visit/reservation-free/",
+        "source": "www.notredamedeparis.fr",
+        "credibility": "Low",
+        "quality_score": 0.2934,
+        "priority": 0.08802,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "巴黎圣母院官方网站每天0点释放提前一天参观预约名额",
+        "timestamp": "2025-12-20T15:24:59.348824"
+      },
+      {
+        "id": "con_2_70797a7f",
+        "content": "巴黎圣母院大教堂每年接待 1300 万游客，是首都必游景点之一。它既是礼拜场所，也是一座纪念碑，自建成以来见证了巴黎的历史。自 2024 年 12 月 8 日起，这座纪念碑再次开放。在这里，您可以预订全年的音乐会和游览项目，了解参观这座巴黎标志性建筑所需的所有信息，随时迎接全世界的到来。",
+        "url": "https://www.sortiraparis.com/zh/zai-bali-canguan-shenme/lishi-yichan/articles/1183-ba-li-sheng-mu-yuan-shi-ke-biao-can-guan-yu-yue-huo-dong-ni-xu-yao-zhi-dao-de-yi-qie",
+        "source": "www.sortiraparis.com",
+        "credibility": "Medium",
+        "quality_score": 0.5064,
+        "priority": 0.30383999999999994,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "巴黎圣母院预约系统提前48小时具体开放时间点官方说明",
+        "timestamp": "2025-12-20T15:25:25.283322"
+      },
+      {
+        "id": "pro_3_6770e4fa",
+        "content": "时隔五年巴黎圣母院重新开放！首批开放时间12月8日 √ 后续开放时间安排 √ 如何购买门票、购买门票的步骤有哪些 √ 参观注意事项都有什么 √",
+        "url": "https://www.dealmoon.co.uk/guide/4981",
+        "source": "www.dealmoon.co.uk",
+        "credibility": "Low",
+        "quality_score": 0.2526,
+        "priority": 0.07578,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "巴黎圣母院官网预约提前一天零时开放官方说明",
+        "timestamp": "2025-12-20T15:29:11.644406"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_2_7b8b71d4",
+        "agent": "pro",
+        "priority": 0.08802,
+        "source": "www.notredamedeparis.fr",
+        "content_preview": "Plan your visit by booking for free on the Notre-Dame Cathedral website. Booking is optional : this allows you to reduce your waiting time...."
+      },
+      {
+        "id": "pro_1_37636584",
+        "agent": "pro",
+        "priority": 0.08802,
+        "source": "www.notredamedeparis.fr",
+        "content_preview": "Plan your visit by booking for free on the Notre-Dame Cathedral website. Booking is optional : this allows you to reduce your waiting time...."
+      },
+      {
+        "id": "con_2_70797a7f",
+        "agent": "con",
+        "priority": 0.30383999999999994,
+        "source": "www.sortiraparis.com",
+        "content_preview": "巴黎圣母院大教堂每年接待 1300 万游客，是首都必游景点之一。它既是礼拜场所，也是一座纪念碑，自建成以来见证了巴黎的历史。自 2024 年 12 月 8 日起，这座纪念碑再次开放。在这里，您可以预订全年的音乐会和游览项目，了解参观这座巴黎标志性建筑所需的所有信息，随时迎接全世界的到来。..."
+      },
+      {
+        "id": "pro_3_6770e4fa",
+        "agent": "pro",
+        "priority": 0.07578,
+        "source": "www.dealmoon.co.uk",
+        "content_preview": "时隔五年巴黎圣母院重新开放！首批开放时间12月8日 √ 后续开放时间安排 √ 如何购买门票、购买门票的步骤有哪些 √ 参观注意事项都有什么 √..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_2_7b8b71d4",
+      "pro_1_37636584",
+      "con_2_70797a7f",
+      "pro_3_6770e4fa"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.7,
+    "reasoning": "该claim的核心是确认预约名额是否在\"提前一天0点\"释放。知识库多处提到预约需\"提前两天左右\"或\"提前1-2天\"开放，如\"游客需要提前两天左右预约\"和\"预约通道将会提前1-2天开放\"，这与claim中\"提前一天\"存在差异。但最关键的是，没有任何资料明确说明预约名额的具体释放时间点（0点）。虽然有一条信息提到\"一般是整点或半点\"，但未指明是哪个整点。知识库中有关于预约周期的信息，但缺乏关于具体释放时刻的直接证据。因此，虽然有间接证据表明预约周期可能更接近2天，但关于\"0点\"这一精确时间点的证据完全缺失，无法确认claim的准确性，属于证据不足的情况。",
+    "key_evidence_ids": [],
+    "pro_strength": 0.0,
+    "con_strength": 0.15588,
+    "total_evidences": 4,
+    "accepted_evidences": 4
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

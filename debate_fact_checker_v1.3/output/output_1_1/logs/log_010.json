@@ -1,0 +1,124 @@
+{
+  "claim": "意大利小众首饰店Humilis在米兰有门店。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T15:42:08.075830",
+  "statistics": {
+    "total_evidences": 4,
+    "pro_evidences": 3,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 4,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_2_bfcd4a7a",
+        "content": "Enter the world of Humilis jewellery in Assisi: sacred ornaments inspired by St. Francis, made of silver 925 and 18K gold. Discover the collections.",
+        "url": "https://www.humilis.it/en/",
+        "source": "www.humilis.it",
+        "credibility": "Low",
+        "quality_score": 0.29879999999999995,
+        "priority": 0.08963999999999998,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "Humilis+Italian+jewelry+brand+Milan+store+official+information",
+        "timestamp": "2025-12-20T15:35:35.073741"
+      },
+      {
+        "id": "pro_2_1fe768f1",
+        "content": "Not just some average jewellery shops: Humilis boutiques offer the most precious creations, handmade by goldsmiths in Assisi, Italy. Discover them.",
+        "url": "https://www.humilis.it/en/page/boutiques_21",
+        "source": "www.humilis.it",
+        "credibility": "Low",
+        "quality_score": 0.29819999999999997,
+        "priority": 0.08945999999999998,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "Humilis+Italian+jewelry+brand+Milan+store+official+information",
+        "timestamp": "2025-12-20T15:35:35.073741"
+      },
+      {
+        "id": "con_2_5da26be2",
+        "content": "Enter the world of Humilis jewellery in Assisi: sacred ornaments inspired by St. Francis, made of silver 925 and 18K gold. Discover the collections.",
+        "url": "https://www.humilis.it/en/",
+        "source": "www.humilis.it",
+        "credibility": "Low",
+        "quality_score": 0.29879999999999995,
+        "priority": 0.08963999999999998,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "Humilis意大利官网门店查询无米兰实体店记录",
+        "timestamp": "2025-12-20T15:35:43.902289"
+      },
+      {
+        "id": "pro_3_c22bc277",
+        "content": "Not just some average jewellery shops: Humilis boutiques offer the most precious creations, handmade by goldsmiths in Assisi, Italy. Discover them.",
+        "url": "https://www.humilis.it/en/page/boutiques_21",
+        "source": "www.humilis.it",
+        "credibility": "Low",
+        "quality_score": 0.29819999999999997,
+        "priority": 0.08945999999999998,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "Humilis+Milan+fashion+boutique+Duomo+near+store+collection",
+        "timestamp": "2025-12-20T15:37:04.714764"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_5da26be2",
+        "agent": "con",
+        "priority": 0.08963999999999998,
+        "source": "www.humilis.it",
+        "content_preview": "Enter the world of Humilis jewellery in Assisi: sacred ornaments inspired by St. Francis, made of silver 925 and 18K gold. Discover the collections...."
+      },
+      {
+        "id": "pro_2_bfcd4a7a",
+        "agent": "pro",
+        "priority": 0.08963999999999998,
+        "source": "www.humilis.it",
+        "content_preview": "Enter the world of Humilis jewellery in Assisi: sacred ornaments inspired by St. Francis, made of silver 925 and 18K gold. Discover the collections...."
+      },
+      {
+        "id": "pro_2_1fe768f1",
+        "agent": "pro",
+        "priority": 0.08945999999999998,
+        "source": "www.humilis.it",
+        "content_preview": "Not just some average jewellery shops: Humilis boutiques offer the most precious creations, handmade by goldsmiths in Assisi, Italy. Discover them...."
+      },
+      {
+        "id": "pro_3_c22bc277",
+        "agent": "pro",
+        "priority": 0.08945999999999998,
+        "source": "www.humilis.it",
+        "content_preview": "Not just some average jewellery shops: Humilis boutiques offer the most precious creations, handmade by goldsmiths in Assisi, Italy. Discover them...."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_2_5da26be2",
+      "pro_2_bfcd4a7a",
+      "pro_2_1fe768f1",
+      "pro_3_c22bc277"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "该claim的核心是验证Humilis是否在米兰设有门店。支持证据仅泛泛提及\"Humilis boutiques\"但未说明具体位置；反对证据明确指出Humilis在阿西西(Assisi)有门店，但这恰恰不能反驳米兰是否有店——一个品牌完全可以在多个城市同时设店。知识库信息显示\"humilis是意大利首饰牌子\"，且提到\"鸢尾花是佛罗伦萨的市花\"，暗示该品牌可能与佛罗伦萨关联更紧密，而非米兰。最关键的是，没有任何证据直接提及Humilis在米兰的门店情况。反对证据虽然确认了阿西西门店的存在，但这是对\"品牌在意大利有门店\"的支持，而非对\"米兰无门店\"的证明。因此，关于米兰门店的具体位置问题，现有证据既无法确认也无法否定，属于证据不足的情况。",
+    "key_evidence_ids": [],
+    "pro_strength": 0.08945999999999998,
+    "con_strength": 0.08963999999999998,
+    "total_evidences": 4,
+    "accepted_evidences": 4
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

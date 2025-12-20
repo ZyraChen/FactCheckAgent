@@ -1,0 +1,161 @@
+{
+  "claim": "幸运饼干起源于旧金山。",
+  "ground_truth": "Not Enough Evidence",
+  "timestamp": "2025-12-20T16:28:31.611680",
+  "statistics": {
+    "total_evidences": 5,
+    "pro_evidences": 1,
+    "con_evidences": 4,
+    "total_attacks": 1,
+    "accepted_evidences": 4,
+    "defeated_evidences": 1
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_a4fb2842",
+        "content": "幸运饼干是一种美式的亚洲风味脆饼，通常由面粉、糖、香草及奶油做成，并且里面包有类似箴言或者模棱两可预言的字条，有时也印有「幸运数字」（如用于彩票等），翻译过的中国成语、俗语等。在美国及加拿大（其他的西方国家的也有），幸运饼干是中国餐馆里的一道甜点，但在真正的中国是没有这样东西。是加利福尼亚州的多个移民社团都说20世纪早期幸运饼干就已经流行，其配方是基于日本传统的煎饼。",
+        "url": "https://baike.baidu.com/item/%E5%B9%B8%E8%BF%90%E9%A5%BC%E5%B9%B2/5317340",
+        "source": "baike.baidu.com",
+        "credibility": "Medium",
+        "quality_score": 0.531,
+        "priority": 0.3186,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "幸运饼干起源旧金山金门公园萩原真1890年代",
+        "timestamp": "2025-12-20T16:13:26.377037"
+      },
+      {
+        "id": "con_1_93758e16",
+        "content": "原形是京都寺廟製作的，比這版本大和以味噌調味。由San Francisco 的Japanese Tea ... 二戰時期，在美的日本人被帶到營地，本地華人開始涉足製作。 5.",
+        "url": "https://www.threads.com/@ca.poorguy/post/DCx_RVYRY4K",
+        "source": "www.threads.com",
+        "credibility": "Medium",
+        "quality_score": 0.47219999999999995,
+        "priority": 0.28331999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "幸运饼干日本京都起源早于旧金山历史记录权威考证",
+        "timestamp": "2025-12-20T16:13:52.292076"
+      },
+      {
+        "id": "con_2_dd343c50",
+        "content": "全世界每年要生產大約30億個幸運餅乾。因一般出自海外的中餐館，它們常被認為是中式點心。但日本研究員通過追溯烘培屋和歷史資料，發現日本可能才是真正的發源地。",
+        "url": "https://cn.nytimes.com/culture/20160629/solving-a-mistery-inside-a-cookie/zh-hant/",
+        "source": "cn.nytimes.com",
+        "credibility": "High",
+        "quality_score": 0.7462,
+        "priority": 0.7462,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "日本京都辻占煎饼起源历史记录早于19世纪90年代旧金山幸运饼干学术研究",
+        "timestamp": "2025-12-20T16:15:46.659247"
+      },
+      {
+        "id": "con_2_a9b6ceae",
+        "content": "美媒:幸运饼干风靡各国中餐馆 起源日本造就华裔文化---参考消息网6月30日报道美媒称，全世界每年要生产大约30亿个幸运饼干，几乎全部是在美国生产的，但这些包裹着高深莫测的格言的酥脆饼干扩散到了全球。据美国《纽约时报》网站6月30日报道，但有一个地方明显没有幸运饼干的身影：中国。",
+        "url": "http://www.xinhuanet.com/world/2016-06/30/c_129104989.htm",
+        "source": "www.xinhuanet.com",
+        "credibility": "Medium",
+        "quality_score": 0.504,
+        "priority": 0.3024,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "日本京都辻占煎饼起源历史记录早于19世纪90年代旧金山幸运饼干学术研究",
+        "timestamp": "2025-12-20T16:15:46.659247"
+      },
+      {
+        "id": "con_3_907d4f97",
+        "content": "全世界每年要生产大约30亿个幸运饼干。因一般出自海外的中餐馆，它们常被认为是中式点心。但日本研究员通过追溯烘培屋和历史资料，发现日本可能才是真正的发源地。",
+        "url": "https://cn.nytimes.com/culture/20160629/solving-a-mistery-inside-a-cookie/",
+        "source": "cn.nytimes.com",
+        "credibility": "High",
+        "quality_score": 0.7462,
+        "priority": 0.7462,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "年代纽约中餐馆幸运饼干使用记录官方档案",
+        "timestamp": "2025-12-20T16:22:06.590906"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_dd343c50",
+        "agent": "con",
+        "priority": 0.7462,
+        "source": "cn.nytimes.com",
+        "content_preview": "全世界每年要生產大約30億個幸運餅乾。因一般出自海外的中餐館，它們常被認為是中式點心。但日本研究員通過追溯烘培屋和歷史資料，發現日本可能才是真正的發源地。..."
+      },
+      {
+        "id": "con_3_907d4f97",
+        "agent": "con",
+        "priority": 0.7462,
+        "source": "cn.nytimes.com",
+        "content_preview": "全世界每年要生产大约30亿个幸运饼干。因一般出自海外的中餐馆，它们常被认为是中式点心。但日本研究员通过追溯烘培屋和历史资料，发现日本可能才是真正的发源地。..."
+      },
+      {
+        "id": "con_2_a9b6ceae",
+        "agent": "con",
+        "priority": 0.3024,
+        "source": "www.xinhuanet.com",
+        "content_preview": "美媒:幸运饼干风靡各国中餐馆 起源日本造就华裔文化---参考消息网6月30日报道美媒称，全世界每年要生产大约30亿个幸运饼干，几乎全部是在美国生产的，但这些包裹着高深莫测的格言的酥脆饼干扩散到了全球。据美国《纽约时报》网站6月30日报道，但有一个地方明显没有幸运饼干的身影：中国。..."
+      },
+      {
+        "id": "con_1_93758e16",
+        "agent": "con",
+        "priority": 0.28331999999999996,
+        "source": "www.threads.com",
+        "content_preview": "原形是京都寺廟製作的，比這版本大和以味噌調味。由San Francisco 的Japanese Tea ... 二戰時期，在美的日本人被帶到營地，本地華人開始涉足製作。 5...."
+      }
+    ],
+    "defeated_evidences": [
+      {
+        "id": "pro_1_a4fb2842",
+        "agent": "pro",
+        "priority": 0.3186,
+        "defeated_by": [
+          "con_2_dd343c50"
+        ]
+      }
+    ]
+  },
+  "argumentation": {
+    "attack_edges": [
+      {
+        "from_evidence_id": "con_2_dd343c50",
+        "from_agent": "con",
+        "from_priority": 0.7462,
+        "to_evidence_id": "pro_1_a4fb2842",
+        "to_agent": "pro",
+        "to_priority": 0.3186,
+        "strength": 0.4276,
+        "rationale": "证据1指出日本是真正发源地，反驳证据2中加利福尼亚流行的起源说法。",
+        "round_num": 2
+      }
+    ],
+    "grounded_extension": [
+      "con_2_dd343c50",
+      "con_3_907d4f97",
+      "con_2_a9b6ceae",
+      "con_1_93758e16"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.5,
+    "reasoning": "claim\"幸运饼干起源于旧金山\"的关键在于判断其是否为全球最初起源地。知识库显示：1) 2008年1月18日资料明确记载\"1878年的日本书刊中发现了用同一种手法制作的幸运饼干插图\"，而\"幸运饼干在美国出现是在1907-1914年\"，这比旧金山记录早十余年；2) 2023年5月5日资料确认萩原真在1890年代推出的只是\"美式幸运饼干\"，由日本和菓子店制作；3) 2016年资料指出幸运饼干在\"二战前历史模糊\"但日本人声称发明。决定性证据是1878年日本书刊记录，它直接证伪了claim的核心——幸运饼干并非起源于旧金山，而是源自日本。旧金山只是其在美国的早期商业化地点，claim未限定\"在美国范围内\"，因此整体不成立。虽然旧金山在幸运饼干历史中扮演重要角色，但claim表述过于绝对，与证据不符。",
+    "key_evidence_ids": [
+      "con_2_dd343c50",
+      "con_2_a9b6ceae"
+    ],
+    "pro_strength": 0.51476,
+    "con_strength": 0.5243,
+    "total_evidences": 5,
+    "accepted_evidences": 4
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Not Enough Evidence",
+    "correct": false
+  }
+}

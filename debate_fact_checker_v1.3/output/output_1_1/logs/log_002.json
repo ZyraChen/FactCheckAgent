@@ -1,0 +1,149 @@
+{
+  "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T14:08:08.275978",
+  "statistics": {
+    "total_evidences": 5,
+    "pro_evidences": 4,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 5,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_f161a40f",
+        "content": "欧盟调整2035年燃油车禁令，减排目标从100%降至90%，允许内燃机车型继续销售。新规通过积分制鼓励使用低碳钢材和合成燃料，并下调货车减排目标。此举因电动汽车普及速度不及预期，且受汽车行业施压。#欧盟政策调整# #电动汽车#",
+        "url": "https://www.ithome.com/0/905/553.htm",
+        "source": "www.ithome.com",
+        "credibility": "Medium",
+        "quality_score": 0.4878,
+        "priority": 0.29268,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "欧盟官方文件2030年全面禁止燃油车销售",
+        "timestamp": "2025-12-20T13:57:02.824923"
+      },
+      {
+        "id": "pro_2_7662c6fb",
+        "content": "（来源：上观新闻）据环球时报援引路透社报道，欧盟委员会当地时间16日公布一项计划，拟放弃从2035年开始在欧盟境内禁止销售新燃油车的现行安排...",
+        "url": "https://cj.sina.com.cn/articles/view/5953466437/162dab04506709r6hi?froms=ggmp",
+        "source": "cj.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4638,
+        "priority": 0.27827999999999997,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "欧盟委员会2019年可持续交通战略2030年燃油车禁售内容",
+        "timestamp": "2025-12-20T14:00:19.936163"
+      },
+      {
+        "id": "pro_2_6d377476",
+        "content": "日前，欧盟委员会正式提出对原定于2035年全面禁止销售新燃油乘用车和轻型商用车的政策进行重大调整。这一变化标志着欧洲在交通领域脱碳路径上的战略转向——从“一刀切”的纯电化目标，转向更具弹性的“技术中性”路线。",
+        "url": "https://www.esmchina.com/news/13764.html",
+        "source": "www.esmchina.com",
+        "credibility": "Medium",
+        "quality_score": 0.4824,
+        "priority": 0.28944,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "欧盟委员会2019年可持续交通战略2030年燃油车禁售内容",
+        "timestamp": "2025-12-20T14:00:19.936163"
+      },
+      {
+        "id": "con_2_f2bb6262",
+        "content": "欧盟将于2025年实施碳排放法规的新一阶段限制，新车平均二氧化碳排放需降至93.6克/公里，超标企业每克每辆罚95欧元。为应对挑战，车企加速电动化战略， ...",
+        "url": "https://news.smm.cn/news/103058808",
+        "source": "news.smm.cn",
+        "credibility": "Low",
+        "quality_score": 0.258,
+        "priority": 0.0774,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "欧盟2030年新乘用车二氧化碳排放限值克每公里",
+        "timestamp": "2025-12-20T14:00:45.712884"
+      },
+      {
+        "id": "pro_3_b002c800",
+        "content": "据透露，欧盟委员会将降低原定2035年起禁止销售汽油和柴油新车的标准，转而允许部分插电式混合动力车和配备燃油增程器的电动汽车上市。新提案要求，到 ...",
+        "url": "https://finance.sina.com.cn/tech/roll/2025-12-16/doc-inhaziez9724826.shtml?froms=ggmp",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.46559999999999996,
+        "priority": 0.27935999999999994,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "欧盟委员会2018年燃油车禁售时间表提案2030年",
+        "timestamp": "2025-12-20T14:04:05.622701"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_1_f161a40f",
+        "agent": "pro",
+        "priority": 0.29268,
+        "source": "www.ithome.com",
+        "content_preview": "欧盟调整2035年燃油车禁令，减排目标从100%降至90%，允许内燃机车型继续销售。新规通过积分制鼓励使用低碳钢材和合成燃料，并下调货车减排目标。此举因电动汽车普及速度不及预期，且受汽车行业施压。#欧盟政策调整# #电动汽车#..."
+      },
+      {
+        "id": "pro_3_b002c800",
+        "agent": "pro",
+        "priority": 0.27935999999999994,
+        "source": "finance.sina.com.cn",
+        "content_preview": "据透露，欧盟委员会将降低原定2035年起禁止销售汽油和柴油新车的标准，转而允许部分插电式混合动力车和配备燃油增程器的电动汽车上市。新提案要求，到 ......"
+      },
+      {
+        "id": "pro_2_6d377476",
+        "agent": "pro",
+        "priority": 0.28944,
+        "source": "www.esmchina.com",
+        "content_preview": "日前，欧盟委员会正式提出对原定于2035年全面禁止销售新燃油乘用车和轻型商用车的政策进行重大调整。这一变化标志着欧洲在交通领域脱碳路径上的战略转向——从“一刀切”的纯电化目标，转向更具弹性的“技术中性”路线。..."
+      },
+      {
+        "id": "pro_2_7662c6fb",
+        "agent": "pro",
+        "priority": 0.27827999999999997,
+        "source": "cj.sina.com.cn",
+        "content_preview": "（来源：上观新闻）据环球时报援引路透社报道，欧盟委员会当地时间16日公布一项计划，拟放弃从2035年开始在欧盟境内禁止销售新燃油车的现行安排......"
+      },
+      {
+        "id": "con_2_f2bb6262",
+        "agent": "con",
+        "priority": 0.0774,
+        "source": "news.smm.cn",
+        "content_preview": "欧盟将于2025年实施碳排放法规的新一阶段限制，新车平均二氧化碳排放需降至93.6克/公里，超标企业每克每辆罚95欧元。为应对挑战，车企加速电动化战略， ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_1_f161a40f",
+      "pro_3_b002c800",
+      "pro_2_6d377476",
+      "pro_2_7662c6fb",
+      "con_2_f2bb6262"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "Claim的核心可验证部分是欧盟禁售燃油车的具体年份。根据知识库中的多条权威信息，欧盟原计划是在2035年(而非2030年)实施燃油车禁售，且最新调整也是针对2035年的目标。所有资料一致表明，欧盟委员会于2025年12月16日公布的计划是调整\"2035年\"禁售燃油车的目标，将减排要求从100%降至90%。知识库中没有任何信息支持\"2030年全面禁止\"的说法，反而明确提到2030-2032年是三年过渡期。这一关键时间点的错误直接证伪了claim，因为欧盟从未提出过在2030年全面禁售燃油车的计划。时间信息是claim的必要条件，一旦被证伪，整个claim即不成立。",
+    "key_evidence_ids": [
+      "pro_1_f161a40f",
+      "pro_3_b002c800",
+      "pro_2_6d377476"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.24343199999999995,
+    "total_evidences": 5,
+    "accepted_evidences": 5
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

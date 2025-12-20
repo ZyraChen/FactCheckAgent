@@ -1,0 +1,187 @@
+{
+  "claim": "截止2025年11月下旬英超赛季的榜首是曼城足球俱乐部。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T14:57:27.072425",
+  "statistics": {
+    "total_evidences": 7,
+    "pro_evidences": 3,
+    "con_evidences": 4,
+    "total_attacks": 0,
+    "accepted_evidences": 7,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_dc24ab14",
+        "content": "北京时间12月26日20:30，曼城将在英超第18轮地对决中主场迎战埃弗顿。对于近12场比赛仅取得1胜2平9负、近8场联赛中也呈现了..",
+        "url": "https://www.dszuqiu.com/articles/hot/2027098.html",
+        "source": "www.dszuqiu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4608,
+        "priority": 0.27648,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "年11月下旬英超积分榜曼城排名第一",
+        "timestamp": "2025-12-20T14:40:39.489727"
+      },
+      {
+        "id": "con_1_1aa93bce",
+        "content": "经过90分钟激战，曼城主场以3-0击败利物浦，其他四场比赛分别是阿斯顿维拉主场4-0大胜伯恩茅斯，布伦特福德主场3-1战胜纽卡斯尔，水晶宫主场0-0平布莱顿， ...",
+        "url": "https://www.163.com/dy/article/KDVI2MQU05566T0O.html",
+        "source": "www.163.com",
+        "credibility": "Medium",
+        "quality_score": 0.4698,
+        "priority": 0.28187999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "年11月下旬英超积分榜榜首阿森纳",
+        "timestamp": "2025-12-20T14:41:05.179757"
+      },
+      {
+        "id": "pro_2_bbec98be",
+        "content": "体坛加,体坛+,项飞,早报,【早报】互捅局！本赛季英超最有流量一集！,,足球,国际足球,英超,,没赢是最可惜的",
+        "url": "https://www.ttplus.cn/publish/app/data/2025/12/16/575676/os_news.html",
+        "source": "www.ttplus.cn",
+        "credibility": "Low",
+        "quality_score": 0.243,
+        "priority": 0.07289999999999999,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "英超官网2025年11月30日积分榜曼城排名第一",
+        "timestamp": "2025-12-20T14:43:49.793136"
+      },
+      {
+        "id": "con_2_0e69fac6",
+        "content": "英超第14轮的比赛已经全部战罢：莱斯特城0-1曼城、布莱顿4-1切尔西、伯恩茅斯2-3热刺、纽卡4-0维拉、布伦特福德1-1狼队、水晶宫1-0南安普顿、富勒姆0-0埃弗 ...",
+        "url": "https://www.sohu.com/a/601302518_100117394",
+        "source": "www.sohu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4728,
+        "priority": 0.28368,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "年英超第14轮积分榜榜首不是曼城",
+        "timestamp": "2025-12-20T14:44:15.690516"
+      },
+      {
+        "id": "con_2_066e727c",
+        "content": "懂球帝是中超官方合作伙伴，提供免费高清中超比赛直播，全方位报道中超联赛资讯，覆盖广州、山东泰山、北京国安、上海海港、上海申花、大连人、天津津门虎、深圳等球队动态，提供直播、集锦、数据、图集等多种形式的优质内容",
+        "url": "https://www.dongqiudi.com/articles/5562928.html",
+        "source": "www.dongqiudi.com",
+        "credibility": "Medium",
+        "quality_score": 0.4824,
+        "priority": 0.28944,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "年英超第14轮积分榜榜首不是曼城",
+        "timestamp": "2025-12-20T14:44:15.691587"
+      },
+      {
+        "id": "pro_3_0db9df25",
+        "content": "当地时间11月29-30日，英超联赛第13轮，在强强对话中，“领头羊”阿森纳在客场1:1战平切尔西，以5分优势继续领跑。“曼市双雄”曼城和曼联反弹，双双获得胜利。利物浦突然变阵，在客场击败西汉姆联，终结三场不胜。",
+        "url": "https://www.epochtimes.com/gb/25/12/1/n14646280.htm",
+        "source": "www.epochtimes.com",
+        "credibility": "Medium",
+        "quality_score": 0.4836,
+        "priority": 0.29016,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "英超官方网站2025年11月25日第13轮后积分榜曼城排名第一",
+        "timestamp": "2025-12-20T14:47:55.960120"
+      },
+      {
+        "id": "con_3_ae207c70",
+        "content": "德国转会市场列出了近年圣诞期间英超榜首球队的最终排名，33支圣诞节登顶的球队，只有17支夺冠，近7年仅3队最终夺冠。近年英超联赛圣诞榜首球队积分及 ...",
+        "url": "https://m.163.com/dy/article/KH68GAHB0549BAP0.html?clickfrom=subscribe",
+        "source": "m.163.com",
+        "credibility": "Medium",
+        "quality_score": 0.4662,
+        "priority": 0.27971999999999997,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "英超官网2025年11月25日积分榜榜首是阿森纳",
+        "timestamp": "2025-12-20T14:48:21.779250"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_066e727c",
+        "agent": "con",
+        "priority": 0.28944,
+        "source": "www.dongqiudi.com",
+        "content_preview": "懂球帝是中超官方合作伙伴，提供免费高清中超比赛直播，全方位报道中超联赛资讯，覆盖广州、山东泰山、北京国安、上海海港、上海申花、大连人、天津津门虎、深圳等球队动态，提供直播、集锦、数据、图集等多种形式的优质内容..."
+      },
+      {
+        "id": "pro_1_dc24ab14",
+        "agent": "pro",
+        "priority": 0.27648,
+        "source": "www.dszuqiu.com",
+        "content_preview": "北京时间12月26日20:30，曼城将在英超第18轮地对决中主场迎战埃弗顿。对于近12场比赛仅取得1胜2平9负、近8场联赛中也呈现了....."
+      },
+      {
+        "id": "pro_3_0db9df25",
+        "agent": "pro",
+        "priority": 0.29016,
+        "source": "www.epochtimes.com",
+        "content_preview": "当地时间11月29-30日，英超联赛第13轮，在强强对话中，“领头羊”阿森纳在客场1:1战平切尔西，以5分优势继续领跑。“曼市双雄”曼城和曼联反弹，双双获得胜利。利物浦突然变阵，在客场击败西汉姆联，终结三场不胜。..."
+      },
+      {
+        "id": "pro_2_bbec98be",
+        "agent": "pro",
+        "priority": 0.07289999999999999,
+        "source": "www.ttplus.cn",
+        "content_preview": "体坛加,体坛+,项飞,早报,【早报】互捅局！本赛季英超最有流量一集！,,足球,国际足球,英超,,没赢是最可惜的..."
+      },
+      {
+        "id": "con_1_1aa93bce",
+        "agent": "con",
+        "priority": 0.28187999999999996,
+        "source": "www.163.com",
+        "content_preview": "经过90分钟激战，曼城主场以3-0击败利物浦，其他四场比赛分别是阿斯顿维拉主场4-0大胜伯恩茅斯，布伦特福德主场3-1战胜纽卡斯尔，水晶宫主场0-0平布莱顿， ......"
+      },
+      {
+        "id": "con_2_0e69fac6",
+        "agent": "con",
+        "priority": 0.28368,
+        "source": "www.sohu.com",
+        "content_preview": "英超第14轮的比赛已经全部战罢：莱斯特城0-1曼城、布莱顿4-1切尔西、伯恩茅斯2-3热刺、纽卡4-0维拉、布伦特福德1-1狼队、水晶宫1-0南安普顿、富勒姆0-0埃弗 ......"
+      },
+      {
+        "id": "con_3_ae207c70",
+        "agent": "con",
+        "priority": 0.27971999999999997,
+        "source": "m.163.com",
+        "content_preview": "德国转会市场列出了近年圣诞期间英超榜首球队的最终排名，33支圣诞节登顶的球队，只有17支夺冠，近7年仅3队最终夺冠。近年英超联赛圣诞榜首球队积分及 ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_2_066e727c",
+      "pro_1_dc24ab14",
+      "pro_3_0db9df25",
+      "pro_2_bbec98be",
+      "con_1_1aa93bce",
+      "con_2_0e69fac6",
+      "con_3_ae207c70"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "{\n  \"decision\": \"Refuted\",\n  \"confidence\": 0.95,\n  \"reasoning\": \"Claim的核心可验证部分是'截止2025年11月下旬英超赛季的榜首是曼城'。关键证据是[www.epochtimes.com]明确指出'当地时间11月29-30日，英超联赛第13轮，领头羊阿森纳在客场1:1战平切尔西，以5分优势继续领跑'。11月29-30日属于11月下旬，该证据直接证伪Claim的核心内容。知识库中多条12月中旬的信息也一致表明阿森纳是榜首（如'詹俊:英超榜首三强仅差3分...榜首的阿森纳'和'第二名:曼城'），与11月下旬情况相符。该证据为直接、高可信度证据，针对Claim的必要条件（榜首是曼城），构成决定性反驳。\",\n  \"key_evidence\": [\"www.epochtimes.com\"],\n  \"decisive_evidence\": {\n    \"exists\": true,\n    \"evidence_ids\": [\"www.epochtimes.com\"],\n    \"reason\": \"该证据明确指出在2025年11月29-30日（11月下旬），阿森纳是'领头羊'并'以5分优势继续领跑'，直接反驳Claim中'榜首是曼城'的核心陈述。这是针对Claim必要条件的直接证据，具有决定性。\"\n  }\n}",
+    "key_evidence_ids": [],
+    "pro_strength": 0.28169999999999995,
+    "con_strength": 0.24217199999999997,
+    "total_evidences": 7,
+    "accepted_evidences": 7
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

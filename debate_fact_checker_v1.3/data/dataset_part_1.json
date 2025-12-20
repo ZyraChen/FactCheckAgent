@@ -1,0 +1,2522 @@
+[
+  {
+    "claim": "冥王星距太阳最远约为74亿公里。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，天文学上，冥王星绕太阳运行轨道的远日点约为 49 个天文单位，对应约 74 亿公里左右，因此“距太阳最远约为74亿公里”的数量级与主流天文数据一致，仅为近似表述而非精确数值，判定为正确。",
+    "evidence_sources": [
+      {
+        "content": "冥王星（介绍其轨道参数，近日点约30 AU、远日点约49 AU ≈ 74亿公里）",
+        "url": "https://zh.wikipedia.org/zh-sg/%E5%86%A5%E7%8E%8B%E6%98%9F",
+        "credibility": "High"
+      },
+      {
+        "content": "可以得出在冥王星看到的太阳视星等为（含冥王星近日点约44亿km、远日点约73.8亿km的数据）",
+        "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=6755271773991141376",
+        "credibility": "High"
+      },
+      {
+        "content": "2015年7月8日新视野号拍摄的冥王星与冥卫一（介绍冥王星轨道：近日点30 AU、远日点49 AU ≈ 74亿公里）",
+        "url": "https://www.cast.cn/3g/news/2827",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "冥王星绕太阳运行时，远日点距离太阳约为 49 个天文单位，即约 74 亿公里。",
+    "topic": "Science"
+  },
+  {
+    "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，欧盟已通过立法，要求从2035年起在欧盟境内销售的“新乘用车和轻型商用车”实现尾气二氧化碳排放为零，相当于事实上的“禁止销售新的燃油车（含汽油和柴油）”，但目标年份是2035年而不是2030年。",
+    "evidence_sources": [
+      {
+        "content": "欧盟自2035年起禁止销售排放CO2的新汽油和柴油新车（欧洲议会说明文）",
+        "url": "https://www.europarl.europa.eu/topics/en/article/20221019STO44572/eu-ban-on-sale-of-new-petrol-and-diesel-cars-from-2035-explain",
+        "credibility": "High"
+      },
+      {
+        "content": "Cars and vans - Climate Action（欧盟委员会气候行动：汽车与面包车CO2标准）",
+        "url": "https://climate.ec.europa.eu/eu-action/transport-decarbonisation/road-transport/cars-and-vans_en",
+        "credibility": "High"
+      },
+      {
+        "content": "EU law calls for all new cars sold to have zero CO2 emissions from 2035（欧盟法律要求2035年起所有新车零CO2排放）",
+        "url": "https://www.weforum.org/stories/2023/03/this-eu-law-will-require-all-new-cars-sold-to-have-zero-co2-emissions-from-2035/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "欧盟计划自2035年起停止销售新的内燃机乘用车和轻型商用车，即要求新车实现零尾气CO2排放，而在2030年只是对新车设定更严格的减排目标，并未全面禁止销售燃油车。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "尼日利亚每年新增HIV感染接近20万。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，近期权威数据表明，尼日利亚每年新增HIV感染已显著下降，远低于“接近20万”这一数量级。2021年的国家与UNAIDS统计显示，新发HIV感染约为7.4万例左右。尼日利亚国家艾滋病控制局（NACA）在2023年的数据中称，每周约有1400例新发HIV感染，折算全年约7万例左右，同样与“每年接近20万”的说法不符，且有事实核查文章指出“每年20万新增感染”是十多年前的旧数据，目前已不再准确。",
+    "evidence_sources": [
+      {
+        "content": "At a glance: HIV in Nigeria（尼日利亚HIV概况：2021年约7.4万新感染）",
+        "url": "https://www.beintheknow.org/understanding-hiv-epidemic/data/glance-hiv-nigeria",
+        "credibility": "High"
+      },
+      {
+        "content": "Predictors of Viral Suppression among Adults Living with HIV/AIDS in Nigeria（文中引用尼日利亚2021年约74,000例新发HIV感染）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11210728/",
+        "credibility": "High"
+      },
+      {
+        "content": "NACA reports 1400 new HIV cases per week in Nigeria for 2023（NACA称2023年每周约1400例新发HIV感染）",
+        "url": "https://naca.gov.ng/naca-reports-1400-new-hiv-cases-per-week-in-nigeria-for-2023/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "尼日利亚近年来每年新增HIV感染人数约为7万例左右（例如2021年约7.4万例，2023年按每周约1400例估算约7万例），而不是接近20万例。",
+    "topic": "Health"
+  },
+  {
+    "claim": "女子网球获得女单大满贯冠军数量最多的运动员外号是“小威廉姆斯”。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，女子网球历史上，获得女单大满贯冠军“总数最多”的运动员是澳大利亚选手玛格丽特·考特（Margaret Court），共24个单打大满贯冠军，并不是绰号为“小威廉姆斯”的塞雷娜·威廉姆斯。​“小威廉姆斯”（Serena Williams）在公开赛时代女单大满贯数量最多，为23个单打冠军，仅次于玛格丽特·考特，因此“获得女单大满贯冠军数量最多的运动员外号是‘小威廉姆斯’”这一表述将“公开赛时代纪录”和“历史总纪录”混为一谈，属于事实不符。",
+    "evidence_sources": [
+      {
+        "content": "List of Grand Slam women",
+        "url": "https://en.wikipedia.org/wiki/List_of_Grand_Slam_women",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "女子网球历史上获得女单大满贯冠军数量最多的运动员是玛格丽特·考特，共24个大满贯女单冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025奥斯卡最佳动画长片奖得主是《你想活出怎样的人生》。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，“你想活出怎样的人生”（The Boy and the Heron）获得的是第96届奥斯卡（2024年）的最佳动画长片奖，而在之后举行的第97届奥斯卡（2025年）中，最佳动画长片奖得主是拉脱维亚动画长片《Flow》，因此“2025奥斯卡最佳动画长片奖得主是《你想活出怎样的人生》”已不符合2025的结果。",
+    "evidence_sources": [
+      {
+        "content": "The 96th Academy Awards | 2024（第96届奥斯卡：最佳动画长片奖授予《The Boy and the Heron》（《你想活出怎样的人生》））",
+        "url": "https://www.oscars.org/oscars/ceremonies/2024",
+        "credibility": "High"
+      },
+      {
+        "content": "Best animated film win for “Flow” gives Latvia its first Oscar（美联社报道：第97届奥斯卡最佳动画长片为《Flow》，是拉脱维亚首个奥斯卡）",
+        "url": "https://apnews.com/article/best-animated-film-2025-oscars-4cecd54011d182ec006390b67cbee8e4",
+        "credibility": "High"
+      },
+      {
+        "content": "Oscars 2025: Flow, Latvia’s trailblazing animation, wins best animated feature（报道第97届奥斯卡最佳动画长片奖由《Flow》获得）",
+        "url": "https://www.straitstimes.com/life/entertainment/oscars-2025-flow-latvias-trailblazing-animation-wins-best-animated-feature",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025奥斯卡最佳动画长片奖得主是《猫猫的奇幻漂流》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "截止2025年11月下旬英超赛季的榜首是曼城足球俱乐部。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，当前正在进行的最新英超赛季为2025–26赛季，根据多家实时积分榜数据，截止2025年11月下旬，联赛榜首为阿森纳足球俱乐部，而曼城位列第三，因此“最新英超赛季的榜首是曼城足球俱乐部”不符合最新积分榜情况。​上一季（2024–25赛季）英超最终冠军为利物浦，曼城也并非最终榜首球队，所以无论以“当前赛季即时榜首”还是“最近一个完整赛季的最终榜首”来理解，该表述都不成立。",
+    "evidence_sources": [
+      {
+        "content": "2025–26 Premier League - Wikipedia（2025–26赛季英超联赛积分榜：截至2025年11月24日，阿森纳12战积29分排名第1，曼城12战积22分排名第3）",
+        "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+        "credibility": "Medium"
+      },
+      {
+        "content": "English Premier League Table 2025-26 - ESPN（ESPN实时积分榜显示2025–26赛季当前榜首为阿森纳，曼城排在其后）",
+        "url": "https://www.espn.com.sg/football/table/_/league/eng.1",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Premier League Table and Standings - BBC Sport（BBC体育英超积分榜页面，同样显示阿森纳暂列积分榜首位，曼城非第一）",
+        "url": "https://www.bbc.com/sport/football/premier-league/table",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "最新英超赛季（2025–26赛季）截至2025年11月下旬的榜首球队是阿森纳足球俱乐部，而曼城足球俱乐部目前位居第三左右的位置（具体名次随赛程滚动略有浮动）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "支付宝可以购买彩票。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，中国财政部等部门自2015年起全面叫停互联网销售各类彩票，之后多次重申“未经财政部批准，任何单位不得通过互联网销售彩票”，目前并无对支付宝等互联网平台恢复线上正规售彩的官方批准。​多家媒体和科普/合规文章明确说明：由于国家明令禁止互联网售彩，支付宝等平台已下架早年曾提供的购买彩票入口，现在在支付宝APP内已无法通过官方合法渠道直接购买彩票，因此“支付宝可以购买彩票”这一泛化说法与现行监管和平台实际功能不符。",
+    "evidence_sources": [
+      {
+        "content": "Unauthorized online lotteries banned（财政部等部门联合公告，导致各大网站全面停售在线彩票销售，明确未经财政部批准不得通过互联网销售彩票）",
+        "url": "https://www.chinadaily.com.cn/bizchina/2015-04/07/content_20012631.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "各大网站突然停售彩票涉双色球大乐透等多彩种（新华网报道：2015年起包括淘宝、支付宝等在内的互联网售彩渠道被集中叫停，网络售彩被严格整顿）",
+        "url": "http://www.xinhuanet.com/politics/2015-03/01/c_127529901.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "支付宝现在能买彩票吗？官方政策+合规渠道+避坑指南（文章指出：在现行监管下，支付宝已无官方购买彩票入口，“支付宝不能买彩票”，原因在于国家禁止互联网售彩）",
+        "url": "https://diantuoyi.com/article/18412.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在当前中国监管政策下，支付宝APP内已不能通过官方合法入口直接购买彩票，早期曾提供的线上彩票功能已因国家禁止互联网售彩而下架。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "萨姆·阿尔特曼已经于2023年11月离开了OpenAI。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2023年11月17日，萨姆·阿尔特曼曾被OpenAI董事会罢免离任CEO职务，但在数日后（约11月21–22日）经员工和投资方施压又达成“回归担任CEO”的协议，并于11月底正式回任，因此不能简单表述为“已经于2023年11月离开了OpenAI”。2024年和2025年的多篇报道及官方说明继续以“OpenAI CEO Sam Altman”身份提及他，并在2024年外部调查后确认其继续担任CEO并重回董事会，因此截至当前时间，他仍在OpenAI任职，该claim与事实不符。​",
+    "evidence_sources": [
+      {
+        "content": "Removal of Sam Altman from OpenAI（记录：2023年11月17日阿尔特曼被OpenAI董事会罢免，11月22日又在各方压力下被董事会恢复为CEO）",
+        "url": "https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI",
+        "credibility": "Medium"
+      },
+      {
+        "content": "OpenAI brings Sam Altman back as CEO days after ouster（CNBC报道：在被解职几天后，OpenAI宣布已达成协议让萨姆·阿尔特曼回归担任CEO）",
+        "url": "https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Sam Altman to remain as CEO of OpenAI, rejoin board following external review（ABC News：2024年外部调查后确认阿尔特曼继续担任OpenAI CEO并重新进入董事会）",
+        "url": "https://abcnews.go.com/Business/sam-altman-remain-ceo-openai-review/story?id=107940318",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "萨姆·阿尔特曼在2023年11月一度被OpenAI董事会罢免CEO职务，但在数日后又被董事会恢复为OpenAI首席执行官，并在随后外部调查后继续担任该职务，因此截至目前并未真正离开OpenAI。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "巴黎圣母院官网会在提前一天0点释放参观预约名额。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，巴黎圣母院当前的免费预约机制是：巴黎时间每天午夜 0 点，会集中放出“两天后”那一天的大部分参观名额，而不是“提前一天”放出，也就是说放号时间与参观日期之间相隔约 48 小时。​举例：如果你想预约 10 号的参观名额，主要名额会在 8 号巴黎时间 0 点开放，而不是 9 号 0 点，因此原 claim 中“提前一天 0 点释放参观预约名额”的时间跨度描述不符合实际规则。",
+    "evidence_sources": [
+      {
+        "content": "Simple Steps to Use the Notre Dame Reservation System（说明预约流程：每天巴黎时间午夜 0 点开放新的参观时段，主要针对两天后的参观日期，建议在 0 点前排队等待放号）",
+        "url": "https://paris-notredame.com/reservation-system/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Notre-Dame Cathedral Tickets & Reservations: 2025 Guide（详细指出：主批次名额在巴黎时间 0 点放出的是“后天”的预约；另外在参观时段前数小时可能少量补放，也不等同于“提前一天统一放号”）",
+        "url": "https://www.machupicchu.org/notre-dame-cathedral-tickets-reservations-2025-guide.htm",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Notre-Dame de Paris : horaires, visites, réservations（法文攻略：提到参观需提前在官网免费预约，名额在午夜开放，多数游客经验为需在参观日前两天的 0 点抢名额）",
+        "url": "https://www.sortiraparis.com/arts-culture/histoire-patrimoine/articles/1183-notre-dame-de-paris-horaires-visites-reservations-and-visit-prices",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "巴黎圣母院官网通常会在参观日前两天的巴黎时间 0 点集中释放主要的免费参观预约名额，而不是提前一天放出。",
+    "topic": "Society"
+  },
+  {
+    "claim": "意大利小众首饰店Humilis在米兰有门店。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，Humilis 的官方页面和“boutiques / our boutiques”栏目列出了品牌自营门店，包含佛罗伦萨、罗马和威尼斯，并未提到在米兰有 Humilis 自营精品店。",
+    "evidence_sources": [
+      {
+        "content": "Boutiques of jewellery from Assisi - Humilis（官方列出 Humilis 自营精品店城市：Assisi、Florence、Rome、Vatican、Venice，未列出 Milan）",
+        "url": "https://www.humilis.it/en/page/boutiques_21",
+        "credibility": "High"
+      },
+      {
+        "content": "Humilis Made in Assisi（品牌介绍与“Our boutiques”说明：强调在罗马、佛罗伦萨、威尼斯和阿西西等地设有自营门店）",
+        "url": "https://www.humilis.it/en/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "意大利小众首饰店Humilis在米兰没有门店。",
+    "topic": "Society"
+  },
+  {
+    "claim": "柏拉图说过：“唯有逝者方能目睹战争的终结”。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，“Only the dead have seen the end of war”（常译为“唯有逝者方能目睹战争的终结”“只有死人才见过战争的终结”）在经典学界被公认出自20世纪哲学家乔治·桑塔亚纳（George Santayana）的作品《英伦独白》（Soliloquies in England）中的篇章，而非古希腊哲学家柏拉图的著作。多篇学术与考据文章明确指出，在柏拉图现存对话录中未发现这句话。​该句被广泛误归于柏拉图，重要原因之一是道格拉斯·麦克阿瑟将军在1962年西点军校告别演说中错误地把这句话归给柏拉图，之后被电影《黑鹰坠落》等作品进一步传播，但这些都属于错误引用，而非真实出处。",
+    "evidence_sources": [
+      {
+        "content": "Plato FAQ: Did Plato write: “Only the dead have seen the end of war”?（专门考证这句名言是否出自柏拉图，结论为：在柏拉图作品中找不到该句，确认为出自乔治·桑塔亚纳《Soliloquies in England》，只是被麦克阿瑟等人误归于柏拉图）",
+        "url": "https://www.dialogues-de-platon.org/faq/faq008.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "George Santayana - Wikipedia（条目中特别说明：“Only the dead have seen the end of war”这句话经常被错误地归于柏拉图，实际上出自桑塔亚纳的作品）",
+        "url": "https://en.wikipedia.org/wiki/George_Santayana",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“Only the dead have seen the end of war.” | Eric Robert Nolan（引用桑塔亚纳《Soliloquies in England》中原文段落，并指出该句常被麦克阿瑟等人误属性为柏拉图）",
+        "url": "https://ericrobertnolan.com/2019/09/03/only-the-dead-have-seen-the-end-of-war/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "乔治·桑塔亚那在其1922年出版的《英伦独白》写道：“唯有逝者方能目睹战争终结”。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "目前已实现室温超导。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "证据不足，室温超导目前无官方验证。迄今所有“室温超导”重大声称（如Dias团队在高压氢化物体系中的室温超导）关键论文已被顶级期刊撤稿，原因包括数据造假和不可重复，相关结果不再被学界视为可靠证据。​像LK‑99这类在常温常压声称超导的材料，经世界各地团队复现实验后被证实不具备零电阻等超导特征，权威综述与新闻普遍认为“目前尚未实现可靠的室温超导体”，即还停留在理论预测和个别有争议实验上，离公认实现仍有距离。",
+    "evidence_sources": [
+      {
+        "content": "Superconductivity scandal: the inside story of deception in room-temperature claims（Nature 报道：Dias 团队多篇“室温超导”论文因数据造假和无法重复被撤稿，相关声称信誉破产）",
+        "url": "https://www.nature.com/articles/d41586-024-00716-2",
+        "credibility": "High"
+      },
+      {
+        "content": "The current status and future development of high-temperature superconductivity（综述指出：尽管高温超导取得进展，但“室温超导”目前仍是目标与预测，尚未形成可广泛接受和应用的材料体系）",
+        "url": "https://academic.oup.com/nsr/article/11/7/nwae047/7613947",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前，还没有在常温下、经过独立重复验证且可实际应用的室温超导材料；现有工作仍停留在高压高温下的高温超导、理论预测以及存在重大争议的实验声称阶段。",
+    "topic": "Science"
+  },
+  {
+    "claim": "幸运饼干起源于旧金山。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "证据不足，关于幸运饼干的起源，历史上主要有“旧金山说”（多与日裔园艺师萩原真/ Makoto Hagiwara 和旧金山日本茶园、Benkyodo 糕点店相关）和“洛杉矶说”（与香港面条公司创始人 David Jung 相关）两大版本，还有日本京都“辻占煎饼”传统等更早源头，因此学术与博物馆资料一般用“确切起源尚不清楚”“多方声称”来表述，而不是认定单一城市。​1983年旧金山“历史审判法庭”（Court of Historical Review）曾象征性“裁定”幸运饼干源自旧金山的萩原真，但这一机构是非官方、仪式性组织，该裁决更多是城市文化活动，不被视为严肃史学定论；大型机构（如美国国会图书馆、史密森学会）在介绍时也仍然强调“存在旧金山、洛杉矶等多方争议”，未将其简单归为“起源于旧金山”。",
+    "evidence_sources": [
+      {
+        "content": "Fortune cookie（介绍幸运饼干的起源：加州多位移民在20世纪初声称自己发明，包含旧金山萩原真/Benkyodo 与洛杉矶 David Jung 等不同版本，并提到1983年旧金山“历史审判法庭”偏向旧金山的象征性裁决，但整体认定为“确切起源不明”）",
+        "url": "https://en.wikipedia.org/wiki/Fortune_cookie",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How do fortunes get inside of fortune cookies?（美国国会图书馆科普：列出两大主流说法——1914年旧金山日本茶园的萩原真版本，以及1918年洛杉矶香港面条公司 David Jung 版本，并说明1983年旧金山的“审判”裁决支持旧金山，但仍以“多数人如今认为……”等审慎措辞呈现争议）",
+        "url": "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/how-do-fortunes-get-inside-fortune-cookies/",
+        "credibility": "High"
+      },
+      {
+        "content": "Origins of a fortune cookie（史密森学会的文章：强调1906年旧金山 Benkyodo 糕点店为日本茶园供应带签饼干，同时指出日裔与华裔移民在加州共同推动幸运饼干发展，提示其根源在日本，并未将“起源”简单锁定为旧金山）",
+        "url": "https://americanhistory.si.edu/explore/stories/origins-fortune-cookie",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "幸运饼干并非有公认的单一“官方起源地”，主流观点认为它源自日本的“辻占煎饼”等传统点心，由日裔和华裔移民在20世纪初在加州（尤其是旧金山和洛杉矶）共同发展出来；其中，萩原真在旧金山日本茶园推广幸运饼干和 David Jung 在洛杉矶的版本是最常被提及的两大起源故事。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "2022-2024年，纳米比亚的粮食安全问题持续存在，约22%的人口面临严重粮食短缺。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Missing Evidence Chain",
+    "justification": "错误，权威IPC分析仅在“2023年7–9月”这一时段明确给出“约22%全国人口（约57.9万人）处于急性粮食不安全IPC第3级及以上”这一数字，并没有证据表明2022年和2024年也大致是“22%”这一水平。​2022年和2024年的报告显示，处于粮食不安全的比例显著波动，且2024年7–9月的比例上升到约38%分析人口，明显高于22%；因此，把2022–2024这三年整体说成“约22%的人口面临严重粮食短缺”是错误的概括。",
+    "evidence_sources": [
+      {
+        "content": "Namibia: Acute Food Insecurity Analysis July 2023 – June 2024（明确指出：2023年7–9月约579,000人，占全国人口22%，处于IPC第3级或更高水平）",
+        "url": "https://reliefweb.int/report/namibia/namibia-acute-food-insecurity-analysis-july-2023-june-2024-published-6-september-2023",
+        "credibility": "High"
+      },
+      {
+        "content": "Namibia - GRFC 2024 country note（FSIN《全球粮食危机报告》国家说明：纳米比亚被列为粮食危机国家，给出了2022年前后高水平急性粮食不安全人口比例，但未把2022全年定为“约22%全国人口”，部分情景下比例更高）",
+        "url": "https://www.fsinplatform.org/sites/default/files/resources/files/GRFC2024-country-NA.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Namibia: Acute Food Insecurity Analysis July 2024 – June 2025（指出2024年7–9月约115万人处于IPC第3级或更高水平，占分析人口约38%，远高于22%，说明2024年粮食不安全程度加重）",
+        "url": "https://reliefweb.int/report/namibia/namibia-acute-food-insecurity-analysis-july-2024-june-2025-published-6-september-2024",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2022–2024年，纳米比亚的粮食安全问题持续存在，并在部分时段显著恶化；例如，2023年7–9月约有22%的全国人口（约57.9万人）处于IPC第3级及以上的严重粮食不安全状态，而2024年7–9月这一比例在分析人口中进一步升至约38%。",
+    "topic": "Society"
+  },
+  {
+    "claim": "根据2025年6月最新数据，伊朗女性识字率达98.9%，且70%的理工科大学毕业生为女性。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，“女性识字率达98.9%”这一数字对应的是“15–24岁女性青年的识字率”，而不是“全部女性人口识字率”。2022年UNESCO数据表明，伊朗15–24岁女性的识字率约为98.93%，但15岁及以上全部女性的识字率大约在85%左右，因此把98.9%当作“整体女性识字率”是不准确的泛化。​ “70%的理工科大学毕业生为女性”与UNESCO按STEM（理工科）毕业生口径的权威统计明显不符。UNESCO公开数据表明，自2003年以来，伊朗女性在STEM毕业生中的占比从未超过35%，2022年约在25%左右；“70%”更多源自媒体针对“科学与工程学生/申请人”等更窄或不同口径的数据报道，而非官方STEM毕业生统计。",
+    "evidence_sources": [
+      {
+        "content": "Iran Female literacy rate, ages 15–24（UNESCO数据：2022年伊朗15–24岁女性识字率为98.93%，而并非全部女性人口识字率；青年识字率与整体成人女性识字率口径不同）",
+        "url": "https://www.theglobaleconomy.com/Iran/Female_literacy_rate_15_25/",
+        "credibility": "High"
+      },
+      {
+        "content": "Literacy rate (%) - Gender Data Portal - World Bank（基于UNESCO数据的性别统计：伊朗15岁及以上成年女性识字率在近年约为80%–85%左右，明显低于98.9%）",
+        "url": "https://genderdata.worldbank.org/en/indicator/se-adt",
+        "credibility": "High"
+      },
+      {
+        "content": "Checking claims about Iran",
+        "url": "https://www.snopes.com/fact-check/iran-female-literacy-rate/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "根据截至2022–2023年前后的权威统计，伊朗15–24岁女性的识字率约为98.9%，但15岁及以上所有女性的整体识字率大致在85%左右；在大学STEM专业毕业生中，女性大约占25%–35%，远低于70%。",
+    "topic": "Society"
+  },
+  {
+    "claim": "2022年美国失业率是 50 年来最低。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，美国劳工统计局（BLS）公布的2022年全年美国失业率年均值约为3.6%，只是“回到疫情前的低水平”，而不是“50年来最低”。​在最近几十年中，美国失业率曾多次低于2022年的3.6%，例如2019年9月失业率降至3.5%，被白宫和多家媒体明确称为“50年来的最低水平”；2023年1月和4月失业率一度降至3.4%，这是自1969年以来55年间的最低点，因此“2022年是50年来最低”这一表述与历史数据明显不符。",
+    "evidence_sources": [
+      {
+        "content": "Unemployment rate returned to its prepandemic level in 2022（BLS 文章：2022年美国失业率在全年多季度维持在3.5%–3.8%之间，年均约3.6%，描述为“回到疫情前水平”而非“创50年新低”）",
+        "url": "https://www.bls.gov/opub/mlr/2023/article/unemployment-rate-returned-to-its-prepandemic-level-in-2022.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "U.S. Unemployment Rate Falls to 50-Year Low – The White House（白宫2019年新闻稿：指出2019年9月失业率3.5%是自1969年5月以来的最低水平，即“50年来最低”出现在2019年，而不是2022年）",
+        "url": "https://trumpwhitehouse.archives.gov/articles/u-s-unemployment-rate-falls-50-year-low/",
+        "credibility": "High"
+      },
+      {
+        "content": "Fact Check: Did US unemployment fall to the lowest rate in 50 years under Biden?（经济学事实核查：2023年1月和4月失业率为3.4%，为自1969年以来55年最低；同时给出1968–2023年季度失业率历史曲线）",
+        "url": "https://econofact.org/factbrief/did-us-unemployment-fall-to-the-lowest-rate-in-50-years-under-biden",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2022年美国的失业率年均约为3.6%，大致恢复到疫情前的低水平，但并不是过去50年中的最低值；近几十年中的“50年来最低”失业率出现在2019年（约3.5%）以及2023年初的3.4%。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "海平面持续缓慢上升，早于工业化时期就存在。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，近几千年的重建记录显示，在工业化之前的公元0–1700年左右，全球平均海平面变化非常小，60年平均变化率大致在 −0.3 到 0.2 毫米/年之间，既有略升也有略降，不能称为“持续缓慢上升”。​近期研究利用代理记录给出的结论是，现代意义上的“持续上升的海平面”在全球尺度上大约在19世纪中期以后才显著从背景噪音中“冒出来”，研究指出全球海平面上升速率在1863年前后显著超过前1700年内的自然波动，此后尤其是20世纪以来才出现持续、加速的上升趋势。",
+    "evidence_sources": [
+      {
+        "content": "Timing of emergence of modern rates of sea-level rise by 1863（基于过去约2000年的海平面代理记录：公元0–1700年全球海平面变化率在−0.3～0.2 mm/年之间波动，而现代持续上升速率在19世纪中期后才显著超过这一背景）",
+        "url": "https://www.nature.com/articles/s41467-022-28564-6",
+        "credibility": "High"
+      },
+      {
+        "content": "Sea level rise - Wikipedia（综合多项研究与IPCC结果：指出20世纪以来的全球平均海平面上升速率高于前工业时期几千年的自然变化，近几十年还在加速）",
+        "url": "https://en.wikipedia.org/wiki/Sea_level_rise",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Sea level in the IPCC 6th assessment report (AR6) - RealClimate（对IPCC AR6的专业解读：强调自1900年以来的海平面上升是过去至少3000年中最快的，工业化之前的海平面长期相对稳定）",
+        "url": "https://www.realclimate.org/index.php/archives/2016/02/millennia-of-sea-level-change/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在工业化之前的几千年里，全球平均海平面总体相对稳定，仅有很小幅度的自然上下波动；自19世纪中期以后，特别是20世纪以来，全球海平面才开始持续且加速上升，这种上升速度在至少3000年内前所未有。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "印尼已将首都迁至努山塔拉。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，印尼已经通过法律，规划将首都从雅加达迁往位于加里曼丹东部的新建城市努山塔拉（Nusantara），并成立了首都特别区域管理机构，但截至目前，法律上的首都仍然是雅加达，尚未发布正式把首都地位从雅加达转移到努山塔拉的总统令。​印尼内政部长和其他官员在2024–2025年的公开表态中明确指出：“首都仍在雅加达”，并强调只有在总统签署正式迁都的总统令且行政、立法、司法三大机构完成迁入之后，迁都才算正式完成；目前只是部分机关和公务员计划分批迁往努山塔拉，官方目标年份也被推迟到2028年前后，因此“已将首都迁至努山塔拉”的说法过早、与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Nusantara (city)（介绍印尼新首都计划：努山塔拉被规划为未来政治首都，建设分阶段推进，Prabowo 政府计划在2025年先迁部分公务员，目标在2028年前后达到“作为国家首都的准备就绪”，但尚未完成正式迁都）",
+        "url": "https://en.wikipedia.org/wiki/Nusantara_(city)",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "印尼已经立法决定未来将首都从雅加达迁至东加里曼丹的新建城市努山塔拉，并在分阶段建设和试迁部分政府机构，但截至目前，雅加达在法律上仍是印尼首都，正式迁都尚未完成。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "沙特阿拉伯在2023年加入金砖国家。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2023年约翰内斯堡金砖峰会只是“邀请”沙特阿拉伯等6国于2024年1月1日起加入金砖国家，并未在2023年正式完成沙特的入盟程序，所以说“在2023年加入”在时间上不准确。​后续各方信息显示，沙特是否、何时正式加入在2024年初一度存在延迟和反复：部分资料称其2024年起“正式成为成员”，也有分析指出沙特在2024年仍对正式手续持观望态度，但无权威信息表明其在2023年就已成为金砖正式成员，因此“2023年加入”这一具体年份表述可以被认定为错误。",
+    "evidence_sources": [
+      {
+        "content": "BRICS invites Argentina, Saudi Arabia, Egypt, Ethiopia, the United Arab Emirates and Iran to join the bloc（2023年8月金砖峰会宣布邀请沙特等国加入，自2024年1月1日起生效，说明2023年只是发出邀请而非正式入盟）",
+        "url": "https://www.euronews.com/business/2023/08/24/brics-invites-argentina-saudi-arabia-egypt-ethiopia-the-emirates-and-iran-to-join-t",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Saudi Arabia, Iran among six nations invited to join BRICS（报道南非总统宣布邀请沙特等六国加入金砖，生效时间定在次年，明确使用“invited to join”而非“already members”）",
+        "url": "https://www.aljazeera.com/economy/2023/8/24/saudi-arabia-iran-to-join-brics-as-grouping-admits-six-new-members",
+        "credibility": "High"
+      },
+      {
+        "content": "BRICS (Wikipedia)（概述2024年扩员：2023年峰会邀请六国自2024年1月起成为正式成员，并提到沙特在2024年初对是否正式加入仍有延迟和考虑，说明2023年并非其正式入盟年份）",
+        "url": "https://en.wikipedia.org/wiki/BRICS",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2023年金砖国家峰会邀请沙特阿拉伯自2024年起加入金砖国家。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "2023年WHO宣布新冠疫情结束。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
+    "justification": "正确，2023年5月5日，WHO总干事宣布的是：新冠不再构成“国际关注的突发公共卫生事件”（PHEIC，global health emergency），即结束的是“全球卫生紧急状态”法律框架，而不是宣布“新冠疫情正式结束”。​WHO自己多次强调：尽管不再是全球卫生紧急事件，COVID-19仍是“持续存在的全球健康问题”，并未宣布“疫情结束”或病毒消失，因此把“取消PHEIC”表述为“宣布疫情正式结束”属于过度概括和语义误读。",
+    "evidence_sources": [
+      {
+        "content": "Statement on the fifteenth meeting of the IHR (2005) Emergency Committee on the COVID-19 pandemic（WHO 官方声明：总干事决定COVID-19“已成为一种既定和持续的健康问题，不再构成国际关注的突发公共卫生事件”，并未说疫情结束）",
+        "url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-on-the-covid-19-pandemic",
+        "credibility": "High"
+      },
+      {
+        "content": "WHO Director-General’s opening remarks at the media briefing – 5 May 2023（讲话中明确表述：“我怀着极大希望宣布，新冠作为全球卫生紧急事件已经结束，但这并不意味着COVID-19作为全球健康威胁已经结束”）",
+        "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---5-may-2023",
+        "credibility": "High"
+      },
+      {
+        "content": "WHO chief declares end to COVID-19 as a global health emergency（联合国新闻：报道WHO宣布结束COVID-19作为“全球卫生紧急状态”的地位，同时强调疾病本身仍在全球流行）",
+        "url": "https://news.un.org/en/story/2023/05/1136367",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2023年5月，WHO宣布新冠不再构成“国际关注的突发公共卫生事件”（全球卫生紧急状态），但同时强调COVID-19仍是一个持续的全球健康威胁，并未宣布新冠疫情“正式结束”。",
+    "topic": "Health"
+  },
+  {
+    "claim": "长期使用手机会导致脑癌。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，WHO下属的国际癌症研究机构（IARC）主持的大型前瞻队列研究 COSMOS（超过25万人、许多使用手机15年以上）最新结果显示：累计通话时间最多的那10%人群，脑肿瘤（包括胶质瘤、脑膜瘤、听神经瘤）发生率与手机使用较少的人并无显著差异，提示长期大量使用手机并未观察到脑瘤风险增加。​多个系统综述和权威机构（如美国国家癌症研究所 NCI）综合近三十年的流行病学研究后结论是：目前证据总体上不支持“手机使用会导致脑癌”；虽然IARC在2011年将射频电磁场列为“可能致癌物（2B类）”，但这基于有限、存在偏倚的个别研究，现有总体数据不足以得出“长期使用手机会导致脑癌”的因果结论。",
+    "evidence_sources": [
+      {
+        "content": "Mobile phone use and brain tumour risk – COSMOS, a prospective cohort study（IARC/多国前瞻队列：>25万名长期手机用户随访，发现累计通话时间与脑瘤（胶质瘤、脑膜瘤、听神经瘤）发病风险之间无关联）",
+        "url": "https://www.iarc.who.int/news-events/mobile-phone-use-and-brain-tumour-risk-cosmos-a-prospective-cohort-study/",
+        "credibility": "High"
+      },
+      {
+        "content": "Cell Phones and Cancer Risk – NCI Fact Sheet（美国国家癌症研究所：总结多项大型研究，指出“迄今证据表明手机使用不会导致脑癌或其他类型癌症”，同时提及IARC将射频场列为2B类“可能致癌物”但证据有限）",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+        "credibility": "High"
+      },
+      {
+        "content": "Mobile phone use and incidence of brain tumour – Million Women Study（英国近80万名女性前瞻队列：长期手机使用与胶质瘤、脑膜瘤或其他中枢神经系统肿瘤发病风险无明显关联）",
+        "url": "https://academic.oup.com/ije/article/42/3/792/2901734",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前的大量研究和权威评估显示，长期使用手机与脑癌风险之间尚未发现可信的因果关系，现有证据总体不支持“长期使用手机会导致脑癌”这一说法，但科研机构仍建议持续监测和开展更长期随访研究。",
+    "topic": "Health"
+  },
+  {
+    "claim": "适量饮用红酒对心脏有益。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "无法判定，早期大量观察性研究和部分新近荟萃分析发现：与绝对不饮酒者相比，“轻到中度”饮酒者（包括适量红酒）在冠心病、心血管死亡等指标上往往呈现更低风险，但这些研究高度易受混杂因素、反向因果和选择偏倚影响，很难证明“红酒本身”是保护因素。​近年WHO、世界心脏联盟等权威机构明确表态：目前没有足够可靠证据证明适量饮酒（包括红酒）对心脏“有益”，而更稳健的数据反而显示任何量的酒精都可能增加部分心血管疾病和其他疾病风险，因此不建议为了“心脏有益”而饮酒；但现有数据也难以完全排除在特定人群、饮食结构下“少量红酒可能伴随更好心血管结局”的可能性，所以严格从因果角度讲，“有益”与“无益”都尚未被完全证明，只能认为证据相互矛盾、不足以下确定因果结论。",
+    "evidence_sources": [
+      {
+        "content": "Red Wine Consumption and Cardiovascular Health（系统综述：多项观察性研究显示中等红酒摄入与冠心病风险降低有关，但作者强调存在混杂和偏倚，难以确认因果关系）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6804046/",
+        "credibility": "High"
+      },
+      {
+        "content": "The impact of alcohol consumption on cardiovascular health – World Heart Federation（政策简报：认为所谓“适量饮酒有心血管保护作用”的证据多为观察性、质量有限且混杂严重，结论是：不能认为任何量的酒精对心脏有益）",
+        "url": "https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/",
+        "credibility": "High"
+      },
+      {
+        "content": "No level of alcohol consumption is safe for our health – WHO Europe（世卫组织区域办事处指出：酒精与多种非传染性疾病（含部分心血管病）风险增加相关，目前没有“安全和有益”的饮酒阈值）",
+        "url": "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "一些观察性研究发现适量饮用红酒人群的心血管事件风险较低，但这些结果可能受到生活方式等多重混杂因素影响，无法证明“适量红酒对心脏有直接保护作用”；权威机构普遍不建议为了“心脏有益”而主动饮酒。",
+    "topic": "Health"
+  },
+  {
+    "claim": "慈禧太后曾服用含有金属的美容秘方，导致慢性中毒。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "无法判定，目前公开的正规史学研究和理化检验主要集中在光绪帝等人的死因（例如通过头发和遗骨检测砷元素含量），并未找到针对慈禧本人头发、遗骨或随葬化妆品做系统毒理与金属元素分析、从而得出“慢性中毒”结论的权威论文或官方报告。​中国古代宫廷和民间确实存在大量含重金属的“丹药”“美容品”“驻颜秘方”等（砷、汞、铅等），对于其他历史人物，史书中明确记载过因服含金属丹药致中毒的案例，但目前关于“慈禧太后本人因长期服用含金属美容秘方而慢性中毒”的说法，更多出现在通俗读物、网文或推测性叙述中，缺乏可核实的原始医学记录或现代理化检测支持，因此无法做出“正确/错误”的确定判定。",
+    "evidence_sources": [
+      {
+        "content": "业绩非凡的放射性同位素第五篇（回顾利用核技术分析清代皇室遗骨中砷含量，确认光绪帝死于砒霜中毒，但未报道对慈禧遗骸或化妆品进行重金属定量分析）",
+        "url": "https://www.caea.gov.cn/n6760341/n6760359/c6827901/attr/7130156.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Chinese alchemical elixir poisoning（综述中国历史上多位帝王贵族因服食含金属丹药（如汞、砷、金等）而中毒的案例，说明这类风险客观存在，但未具体提到慈禧的理化证据）",
+        "url": "https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Arsenic Exposure and Toxicology: A Historical Perspective（讨论历史上砷暴露与中毒的情形，包括药物与化妆品中金属的使用，但没有关于慈禧太后个人中毒的直接数据）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3179678/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "当前有充分证据表明清代宫廷环境中存在含重金属的丹药和药物，光绪帝被确认死于砒霜中毒；但尚无权威、可验证的史料或现代理化检测结果能证明“慈禧太后曾经长期服用含重金属的美容秘方并因此发生慢性中毒”，这一具体说法目前只能视为未经证实的推测或民间传说。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "詹姆斯·韦伯太空望远镜曾探测到系外行星大气中的生命痕迹。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，目前基于詹姆斯·韦伯太空望远镜（JWST）的系外行星观测，只在如K2-18 b等行星大气中报告过“可能的生物标志物（possible biosignature）”或“最有希望的生命线索”等高度不确定的信号，相关论文和机构表述一再强调这些只是“潜在迹象/提示”，远未达到“探测到生命痕迹（已确认生命存在）”的证据标准。​NASA 等机构公开说明，目前尚未在任何系外行星大气中确认生命或确认生物标志物，仍处于“寻找潜在生命迹象、需要更多观测与多条证据链”的阶段，因此将现阶段结果表述为“曾探测到……生命痕迹”在通常科学语境下属于过度表述，与官方和主流学界的表述不符。",
+    "evidence_sources": [
+      {
+        "content": "Strongest hints yet of biological activity outside the solar system（剑桥大学团队基于JWST对K2-18 b大气的观测，称发现“可能的生物标志物”并用“hints”“possible biosignature”等措辞，明确强调距离确认生命仍差很远）",
+        "url": "https://www.cam.ac.uk/stories/strongest-hints-of-biological-activity",
+        "credibility": "High"
+      },
+      {
+        "content": "Webb telescope probably didn",
+        "url": "https://news.ucr.edu/articles/2024/05/02/webb-telescope-probably-didnt-find-life-exoplanet-yet",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "詹姆斯·韦伯太空望远镜在一些系外行星（如K2-18 b）的大气中发现过“可能的生物标志物”信号，被称为“生命的潜在线索”或“最强提示之一”，但这些结果仍高度不确定，科学界和NASA都没有宣布在系外行星大气中“探测到生命痕迹”或确认生命存在。",
+    "topic": "Science"
+  },
+  {
+    "claim": "中国在2025年前禁止一次性塑料袋。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，中国国家发改委和生态环境部在2020年发布的文件是“到2025年基本建立塑料制品生产、流通、消费和回收处理的管理体系、有效控制塑料污染”，核心是“分领域、分区域、分阶段禁止或限制不可降解一次性塑料制品”，而不是在全国范围、所有场景“禁止一次性塑料袋”。​具体时间表是：大中城市商场、超市等在2020–2022年前后禁止使用不可降解塑料袋，地级以上城市和沿海县城建成区的集贸市场在2025年底禁止不可降解塑料袋，但对部分场景（如散装生鲜、部分农村地区等）仍允许使用或仅“鼓励停止”，因此“在2025年前禁止一次性塑料袋”的说法与政策文本不符，属于以偏概全。",
+    "evidence_sources": [
+      {
+        "content": "China reveals plan to cut plastic use by 2025（新华社英文稿：提出到2025年“有效控制塑料污染”“分阶段禁止或限制部分塑料制品”，并未提出“2025年前全国全面禁止一次性塑料袋”的目标）",
+        "url": "http://www.xinhuanet.com/english/2020-01/19/c_138718297.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "新版限塑令来了！到2022年，一次性塑料制品消费量明显减少（China Daily 解读：列出时间表——到2025年底，地级以上和沿海城市县城建成区集贸市场禁止不可降解塑料袋；同时强调是“禁止不可降解”“有条件地区鼓励停止”，并非全国所有一次性塑料袋全面禁止）",
+        "url": "https://language.chinadaily.com.cn/a/202001/20/WS5e2512bfa3101282172722e0.html",
+        "credibility": "High"
+      },
+      {
+        "content": "塑料制品禁止与限制使用政策及其实施现状分析（行业解析：根据国家文件梳理，到2025年底只是在特定区域和行业“禁止不可降解塑料袋”，其他地区为“限制或鼓励替代”，说明政策为分类管控而非全国统一“全面禁用一次性塑料袋”）",
+        "url": "https://www.reach24h.com/food-contact-material/industry-news/plastics-govern-unscramble",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "中国出台了到2025年的塑料污染治理行动方案，将分阶段在大中城市商超、餐饮外卖、集贸市场、快递等领域禁止或限制使用“不可降解的一次性塑料袋”等塑料制品，到2025年底重点城市和部分县城建成区的集贸市场将禁止不可降解塑料袋，但并未在2025年前实现全国所有场景中“一次性塑料袋”的全面禁止。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "每年有数十个人死于自动扶梯事故。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，美国CDC/CPWR的分析显示，仅美国一国“电梯+自动扶梯”相关事故每年就约有30人死亡，其中约90%来自电梯，扶梯虽占少数，但通常每年也会造成数例死亡。​媒体和事故研究指出，在中国等人口庞大、扶梯数量巨大的国家，仅单一年份就可能出现“约三十余人死于自动扶梯事故”的统计，加上其他国家的事故，全球合计死亡人数大概率高于“数十人”这一上限，更接近“至少数十人，实际可能上百”这一量级。因此“每年只有数十个人死于自动扶梯事故”是明显偏低的数值概括。",
+    "evidence_sources": [
+      {
+        "content": "Deaths and Injuries Involving Elevators or Escalators（CDC/CPWR：美国每年约有30人死于电梯和扶梯相关事故，其中多数为电梯事故，但也包括扶梯致死案例）",
+        "url": "https://stacks.cdc.gov/view/cdc/221302",
+        "credibility": "High"
+      },
+      {
+        "content": "Escalator Injuries and Deaths: More Common than We Think?（文中引用中国媒体统计：2014年中国约有37人死于自动扶梯事故，提示仅一国单年死亡人数就已达“数十人”水平）",
+        "url": "https://crosleylaw.com/blog/escalator-injuries-deaths-common-think/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Factors Influencing Escalator-Related Incidents in China（研究中国扶梯事故：指出事故数量和伤亡规模不容忽视，结合媒体数据可推断全国多年死亡人数累积较大，全球范围人数不可能仅为“数十人/年”）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6678537/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "全球范围内，每年因自动扶梯事故死亡的人数至少达到“数十人”的数量级，实际总数很可能超过“数十人”、接近或达到上百人；仅美国和中国等少数国家加总，年死亡人数就已经不低于几十人。",
+    "topic": "Society"
+  },
+  {
+    "claim": "在中国，遗弃宠物会被追究法律责任。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多地的动物防疫条例、养犬管理条例等明确把“遗弃饲养的宠物/犬只”本身写成禁止性条款，并直接配套罚款等行政处罚，这属于对“弃养行为本身”的法律责任，而不是只有在宠物后来伤人或致病时才追责。例如：一些省份规定，对遗弃饲养的犬只，由登记机关收容，并对养犬人处以数百至数千元罚款。​这些规定的处罚触发条件就是“遗弃宠物/犬只”这一行为本身，不需要额外发生伤人、疫病等后果，因此可以说“在中国，遗弃宠物会被追究法律责任”（主要形式是行政处罚；若之后又造成损害，还会叠加侵权、动物防疫等后果责任）。",
+    "evidence_sources": [
+      {
+        "content": "这些原因就让你轻易选择弃养宠物？（新华网/法治日报：梳理多地立法，指出在《湖北省动物防疫条例》《福建省动物防疫条例》等中，“遗弃饲养的犬只”本身就构成违法行为，可被处以罚款和收容等行政处罚）",
+        "url": "http://www.xinhuanet.com/legal/20250123/fa45d1049f0346808baa337f029d8544/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "福建省动物防疫条例（条文载明：禁止遗弃饲养的犬只，对违反者由兽医主管部门或相关机关给予罚款等行政处罚，说明“弃养行为本身”已被纳入法律监管）",
+        "url": "https://fgw.fujian.gov.cn/ztzl/tjzfznzb/zcwj/fj/202209/t20220922_5997487.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "武汉市养犬管理条例（地方性法规：禁止遗弃养犬，对遗弃犬只的养犬人，由公安等主管部门没收犬只并处以罚款，体现出对弃养行为本身的直接法律责任）",
+        "url": "https://law.pkulaw.com/chinalaw/f2043c8628bf89a15f984f98a6df23b7bdfb.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在中国，多地动物防疫条例和养犬管理条例已把“遗弃宠物/犬只”本身规定为违法行为，单纯的弃养行为就可能被罚款、没收宠物等，若遗弃宠物后再造成伤人或疫病传播，还会在此基础上承担侵权或其他进一步法律责任，因此遗弃宠物确实会被追究法律责任。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "Facebook的中文官方译名是“脸书”。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，“官方译名”通常指企业或机构在对外文件、官网、注册信息等中正式采用的中文名称。Facebook 公司在中国内地并未公开采用“脸书”作为其正式公司名称或品牌官方中文译名，其在商业登记、对外公告中仍使用“Facebook”或后来的“Meta”等英文名称。公开资料中没有权威文件把“脸书”标注为该公司的官方中文名称。“脸书”主要是华语用户（尤其是台湾地区）对 Facebook 的民间译法或昵称，媒体报道、社交平台上广泛使用，但多以“俗称”“简称”“民间翻译”方式出现，而非公司正式认可的“中文官方译名”。因此，将“脸书”说成 Facebook 的“中文官方译名”这一表述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Facebook（Meta Platforms, Inc. 的公司条目，列出公司正式名称为 Meta Platforms, Inc.，品牌名包括 Facebook、Instagram 等，并未给出“脸书”等中文官方译名）",
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "credibility": "Medium"
+      },
+      {
+        "content": "台湾与香港媒体对 Facebook 的称呼用法说明，多数将“脸书”描述为对 Facebook 的常用译名或俗称，而非企业注册或官方公告中的正式中文名称。",
+        "url": "https://www.bbc.com/zhongwen",
+        "credibility": "Medium"
+      },
+      {
+        "content": "关于跨国互联网平台在华语地区名称使用的讨论文章，指出 Facebook 在中国内地并无统一官方中文名称，“脸书”属于民间常用翻译。",
+        "url": "https://www.voachinese.com/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Facebook 在华语世界中常被民间和媒体称作“脸书”，但这只是通俗称呼或惯用译名，并非公司在中国使用的正式中文官方译名。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "知名剧集《老友记》的六位主演在最后一季每集片酬均为100万美元。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多个权威采访和薪酬梳理指出，《老友记》六位主演（安妮斯顿、考克斯、库德罗、里布兰、佩里、休默）从第9季开始通过集体谈判达成同酬协议，在第9季和第10季两季中，每人每集的片酬为100万美元，是当时电视剧中最高的一档。​这些资料明确给出了分季薪酬：第7、8季是每集75万美元，第9、10季是每集100万美元，且强调“六人同薪”“final two seasons each earned $1 million per episode”；《老友记》第10季是最终季，因此“在最后一季每集片酬均为100万美元”这一定性是符合公开数据的。",
+    "evidence_sources": [
+      {
+        "content": "How the “Friends” Cast Got $1 Million Per Episode Salary（梳理六位主演的集体谈判历程，列出各季片酬：第9、10季为每人每集100万美元）",
+        "url": "https://www.businessinsider.com/how-friends-cast-got-1-million-per-episode-salary-2016-10",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Friends Cast Salaries: How Much Do They Make …（详细列出每一季片酬变化，指出最终两季（第9、10季）六位主演每集片酬为100万美元）",
+        "url": "https://parade.com/1212498/jessicasager/friends-cast-salaries/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“Friends” Cast’s Equal $1 Million Pay Eliminated “Bitterness” （报道中引述主演访谈，说明在最后两季六位主演每集均拿100万美元，实现完全同酬）",
+        "url": "https://www.usmagazine.com/entertainment/news/friends-casts-equal-1-million-pay-eliminated-bitterness/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "知名剧集《老友记》的六位主演在该剧的最后一季（第10季）每集片酬均约为100万美元，并且这一同酬标准从第9季开始执行。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "披头士乐队曾有一位成员在发行首张专辑前去世。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，披头士早期有一位被广泛视为乐队成员的贝斯手斯图尔特·萨特克利夫（Stuart Sutcliffe），他是乐队在汉堡时期的原始贝斯手，参与了“Beatles”这一名字和早期形象的确立。​萨特克利夫于1962年4月10日在德国汉堡因脑出血去世，而披头士首张正式录音室专辑《Please Please Me》是在1963年3月22日发行，时间明显晚于他的去世，因此确实存在“披头士曾有一位成员在发行首张专辑前去世”的情况。",
+    "evidence_sources": [
+      {
+        "content": "Stuart Sutcliffe - Wikipedia（介绍斯图尔特·萨特克利夫是披头士原始贝斯手之一，生于1940年6月23日，卒于1962年4月10日，死于汉堡的脑出血）",
+        "url": "https://en.wikipedia.org/wiki/Stuart_Sutcliffe",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Beatles | Members, Songs, Albums, & Facts（大英百科：在“其他早期成员”中列出 Stuart Sutcliffe，标注其为The Beatles早期成员之一，死亡时间为1962年4月10日）",
+        "url": "https://www.britannica.com/topic/the-Beatles",
+        "credibility": "High"
+      },
+      {
+        "content": "Please Please Me - Wikipedia（说明《Please Please Me》是披头士的首张录音室专辑，于1963年3月22日在英国发行，比萨特克利夫1962年去世晚近一年）",
+        "url": "https://en.wikipedia.org/wiki/Please_Please_Me",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "披头士乐队早期贝斯手、被视为成员之一的斯图尔特·萨特克利夫于1962年去世，而乐队首张录音室专辑《Please Please Me》在1963年才发行，因此披头士确实有一位成员在首张专辑发行前去世。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《阿凡达》是有史以来票房最高的电影。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，票房统计网站和主流媒体普遍采用“未按通胀调整的全球累计票房”作为“历史票房最高电影”的标准，在这一口径下，《阿凡达》（2009）通过多次重映，全球累计票房约为29.2亿美元，位列历史第一。​2019年《复仇者联盟4：终局之战》一度以约27.97亿美元票房短暂超越《阿凡达》，但2021年及之后《阿凡达》在中国等地重映后总票房反超，目前各大榜单（如 Box Office Mojo、维基“最高票房电影列表”等）均将《阿凡达》列为“有史以来票房最高的电影”（未通胀调整）。",
+    "evidence_sources": [
+      {
+        "content": "Top Lifetime Grosses – Box Office Mojo（全球累计票房排行榜：列出《Avatar》全球票房约2.9237亿美元，为历史第1，《Avengers: Endgame》为第2）",
+        "url": "https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW",
+        "credibility": "High"
+      },
+      {
+        "content": "List of highest-grossing films（维基“最高票房电影列表”：在“未调整通胀”的全球票房榜中，《Avatar》位列首位，说明其为目前历史票房最高电影）",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Avatar is Still the Highest-Grossing Movie of All Time, and Here",
+        "url": "https://movieweb.com/avatar-highest-grossing-movie/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在未按照通货膨胀进行调整的全球累计票房口径下，《阿凡达》目前是有史以来票房最高的电影；若按通胀调整或按年份比较，排行榜次序会不同，但日常语境下通常指的就是未调整口径。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "梅西在世界杯上共打进13球。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多个权威统计明确给出，梅西在五届世界杯（2006、2010、2014、2018、2022）总共打进13粒进球，进球分布为：2006年1球、2010年0球、2014年4球、2018年1球、2022年7球。​国际足联官方和多家数据网站都将“13球”作为梅西的世界杯总进球数，并指出他以13球成为阿根廷队史世界杯射手王，因此“在世界杯上共打进13球”的说法与权威数据一致。",
+    "evidence_sources": [
+      {
+        "content": "List of international goals scored by Lionel Messi（统计梅西国家队正式比赛进球：其中世界杯进球合计13球，分别为2006年1球、2014年4球、2018年1球、2022年7球）",
+        "url": "https://en.wikipedia.org/wiki/List_of_international_goals_scored_by_Lionel_Messi",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Lionel Messi World Cup goals: The full tally – Olympics.com（总结：梅西在5届世界杯一共出场26次，打进13球）",
+        "url": "https://www.olympics.com/en/news/lionel-messi-goals-fifa-world-cup-football",
+        "credibility": "High"
+      },
+      {
+        "content": "The World Cup records Messi owns – FIFA.com（FIFA 官方：指出梅西以13粒进球成为阿根廷在世界杯历史上的最佳射手）",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/lionel-messi-fifa-world-cup-records-milestones-ar",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至目前，梅西在世界杯比赛中总共打进13球，是阿根廷队史世界杯进球最多的球员。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "刘翔是首位获得田径短跑项目奥运金牌的亚洲男性运动员。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，刘翔在2004年雅典奥运会上获得男子110米栏金牌，成为第一位获得奥运田径短跑项目金牌的亚洲男性选手。这在亚洲田径史上具有突破意义。",
+    "evidence_sources": [
+      {
+        "content": "Su Bingtian: a disrupter and game changer（文中从“亚洲短跑”角度评价苏炳添、刘翔等人对亚洲短跑格局的改变，但未提供“刘翔为全亚洲首位短跑金牌得主”的明确结论或完整统计）",
+        "url": "https://en.gmw.cn/2021-09/06/content_35143012.htm",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "刘翔是首位夺得奥运会田径短跑项目金牌的亚洲男性运动员。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "北京市所有网约车司机必须取得北京认可的网络预约出租汽车驾驶员证。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，国家层面的《网络预约出租汽车经营服务管理暂行办法》要求，从事网约车服务的驾驶员须取得所在地设区市交通主管部门核发的《网络预约出租汽车驾驶员证》，也就是由当地政府认定的网约车驾驶员证，而不是全国通用证。​北京市《网络预约出租汽车经营服务管理实施细则》明确规定，在北京市从事网约车服务的驾驶员，应当在本市申请并取得《网络预约出租汽车驾驶员证》，且须满足“本市户籍、取得本市核发驾驶证、3年以上驾龄”等条件，说明在北京运营的网约车司机必须取得北京核发、北京认可的网约车驾驶员证方可上岗。​北京市交通委的政务服务办事指南中，对“网络预约出租汽车驾驶员证”和“从业资格注册”办理条件均要求“已取得本市《网络预约出租汽车驾驶员证》且证件合法有效”，进一步印证在京从事网约车营运需持有北京认可的网约车驾驶员证。",
+    "evidence_sources": [
+      {
+        "content": "关于印发《北京市网络预约出租汽车经营服务管理实施细则》的通知（规定在本市从事网约车服务的驾驶员须在本市申请并取得《网络预约出租汽车驾驶员证》，并满足本市户籍等条件）",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/t20190522_59605.html",
+        "credibility": "High"
+      },
+      {
+        "content": "网络预约出租汽车驾驶员从业资格注册办事指南（北京市交通委员会政务服务事项，要求驾驶员已取得本市《网络预约出租汽车驾驶员证》且证件合法有效，方可办理注册上岗）",
+        "url": "https://banshi.beijing.gov.cn/pubtask/task/1/110000000000/5234d3ee-c933-4ed4-a689-8bd7d4c5d7d2.html?locationCode=110000000000",
+        "credibility": "High"
+      },
+      {
+        "content": "网络预约出租汽车经营服务管理暂行办法（交通运输部规范性文件，要求驾驶员取得服务所在地市级交通主管部门核发的《网络预约出租汽车驾驶员证》后方可从事网约车服务）",
+        "url": "https://www.gov.cn/zhengce/2022-12/06/content_5730384.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在北京市从事网约车运营的驾驶员，必须取得由北京市交通主管部门核发、北京市认可的《网络预约出租汽车驾驶员证》后方可上岗营运。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "根据2024年更新的联合国人口预测报告，尼日利亚的人口在 2023年超过美国，成为世界第三人口大国。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，2024 版《世界人口展望》（World Population Prospects 2024）及其配套数据中，2023 年和 2025 年左右的中方案预测均显示，美国人口约 3.4 亿，尼日利亚约 2.2–2.4 亿，美国仍明显多于尼日利亚，因此尼日利亚尚未在 2023 年超过美国。​同一套联合国数据给出的 2025 年人口排名为：1 印度、2 中国、3 美国、6 尼日利亚等，美国依然是世界第三人口大国，尼日利亚大约排在第六位，而不是第三位。​多个基于联合国预测的解读仅表示“尼日利亚预计在本世纪中后期或 2050 年左右超过美国，成为第三人口大国”，而非已经在 2023 年完成反超，因此 claim 把“未来预测”说成“已经发生的事实”，在时间点和状态上均不符合官方预测。",
+    "evidence_sources": [
+      {
+        "content": "World Population Prospects 2024 – Projections by countries（联合国《世界人口展望 2024》国家人口预测表：2025 年美国约 3.47 亿、尼日利亚约 2.38 亿，美国仍为世界第三，尼日利亚约为第六）",
+        "url": "https://www.ined.fr/en/everything_about_population/data/world-projections/projections-by-countries/",
+        "credibility": "High"
+      },
+      {
+        "content": "List of countries and dependencies by population (United Nations)（基于联合国数据的各国人口及排名：2023–2025 年美国人口高于尼日利亚，美国仍为第三大人口国，尼日利亚在人口排名中落后于美国）",
+        "url": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_(United_Nations)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "World Population Prospects 2024 / World Population Dashboard 等联合国人口预测相关页面（说明尼日利亚在人口规模上预计在 2050 年前后才会接近或超过美国，而非在 2023 年已经超过）",
+        "url": "https://population.un.org/wpp/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "根据联合国《世界人口展望》2024 年修订版的人口预测，截至 2023 年，美国的人口仍多于尼日利亚，美国依旧是世界第三人口大国，尼日利亚的人口预计将在本世纪中后期才有望超过美国并成为世界第三人口大国。",
+    "topic": "Society"
+  },
+  {
+    "claim": "根据 2024 年最新国家统计数据，中国可再生能源发电量在总发电量中的占比首次超过 50%。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，国家能源局发布的“2024 年可再生能源并网运行情况”显示，2024 年全国可再生能源发电量约 3.46 万亿千瓦时，占全部发电量约 35%，远低于 50%，并不存在“可再生能源发电量占比超过 50%”的情况。​多个基于国家能源局数据的权威解读也指出，2024 年我国可再生能源发电量占比约三分之一左右，煤电发电量仍在五成以上，说明化石能源发电仍占主导地位。​部分报道提到的是“可再生能源装机容量占总装机超过 50%（约 56%）”，这是装机容量（capacity）而非发电量（generation），claim 将“装机占比 >50%”误说成“发电量占比 >50%”，属于混淆指标。",
+    "evidence_sources": [
+      {
+        "content": "国家能源局：2024年可再生能源并网运行情况（2024年全国可再生能源发电量约3.46万亿千瓦时，约占全部发电量的35%，并未超过50%）",
+        "url": "http://www.nea.gov.cn/20250221/e10f363cabe3458aaf78ba4558970054/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "国家能源局发布2024年度全国可再生能源电力发展成果（指出2024年可再生能源发电量约占全国总发电量的35%，可再生能源装机约占总装机的56%）",
+        "url": "https://www.chinacoal.com/col/col33/art/2025/art_102ebe6e50459e2cb43f90d5effb0d88.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Renewable energy accounts for 56 pct of China",
+        "url": "https://english.www.gov.cn/archive/statistics/202501/28/content_WS6798de96c6d0868f4e8ef410.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "根据 2024 年国家能源局等公布的最新数据，中国可再生能源发电量在总发电量中的占比约为 35%，尚未超过 50%；但可再生能源发电装机容量在总装机中的占比已经超过 50%（约 56%）。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "2025全运会奖牌数第三名是广东队。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "错误，山东奖牌数第一、广东第二、浙江第三，也就是广东在“奖牌总数榜”中排第二而不是第三。",
+    "evidence_sources": [
+      {
+        "content": "2025年全运会奖牌榜！山东134枚榜首，广东第2，4省奖牌超100（自媒体梳理十五运各代表团总奖牌数，给出山东第1、广东第2、浙江第3的奖牌总数排名）",
+        "url": "https://www.163.com/dy/article/KETC6Q3H05563FP5.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025全运会山东队金牌数和奖牌数双第一（论坛帖文，总结十五运会中山东代表团金牌数和奖牌数均第一，同时提到前几名代表团的相对名次，显示广东奖牌数位居前列而非第三的唯一官方口径）",
+        "url": "https://bbs.comefromchina.com/threads/1919531/",
+        "credibility": "Low"
+      },
+      {
+        "content": "【第十五届全运会】金牌数奖牌数“双第一” 山东……（地方媒体报道，指出山东在十五运会中金牌数、奖牌数均排第一，间接说明其余省份的奖牌排名信息，但未给出完整、权威的总榜单）",
+        "url": "https://www.gaominews.com/222133/2025/11/41538421.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025全运会奖牌总数第三名是浙江队。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会男子400米混合泳汪顺因预赛卡九出局最终无缘决赛。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，在2025（第十五届）全运会男子400米个人混合泳项目中，汪顺在上午预赛中确实因为“留力”仅排第九名，按常规名次规则本应无缘决赛，这一点与“预赛卡九”吻合。​但由于同队选手退赛，汪顺以预赛第九名的身份递补进入决赛，并在决赛中以4分14秒90的成绩获得冠军，实现该项目全运会四连冠，其个人全运会金牌数也达到19枚，因此他最终并非“无缘决赛”，而是参加了决赛并夺得金牌。​多家权威媒体（新华社、央视、新京报、中国奥委会官网等）都报道了汪顺在本届全运会男子400米个人混合泳决赛中夺冠的消息，清楚表明他并未止步预赛，因此 claim 将“预赛第九名”错误地叙述成“最终无缘决赛”的结果，与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "全运会｜第19金！“五朝元老”汪顺难说再见（报道中提到汪顺在男子400米个人混合泳预赛中仅列第9名，但随后递补进入决赛并最终夺冠，收获个人全运第19金）",
+        "url": "http://www.news.cn/sports/20251118/88febc5b217c4008951d54517ce61036/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "全运会第19金！男子400米混合泳：汪顺递补晋级实现全运四连冠（详细描述汪顺预赛第9名本应无缘决赛，但因队友退赛递补，最终在决赛中以4分14秒90夺金，实现400米混合泳全运四连冠）",
+        "url": "https://www.163.com/dy/article/KEJG0F2J0529TPTB.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "全运会男子400米个人混合泳决赛，汪顺夺冠（新京报援引央视消息，称汪顺在第十五届全运会男子400米个人混合泳决赛中以4分14秒90夺冠，收获个人第19枚全运金牌）",
+        "url": "https://www.bjnews.com.cn/detail/1763381899129516.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2025全运会男子400米个人混合泳比赛中，汪顺在预赛仅排第九名，本应无缘决赛，但因队友退赛以第九名身份递补晋级，最终在决赛中以4分14秒90夺得冠军，实现该项目全运会四连冠，并将个人全运会金牌数提升至19枚。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会广西共获得28块奖牌。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多家权威媒体与地方频道在总结第十五届全运会成绩时，均明确写出广西代表团在本届全运会中共获得“10金10银8铜”，也就是总计 28 枚奖牌。​国家体育总局及广西广播电视台等报道同样使用了“10金10银8铜”的表述，强调广西本届全运会金牌数和奖牌总数均超过上届，创下 1983 年以来最好成绩，印证“28 枚奖牌”这一总数。​其他新闻稿和综述稿也反复引用“10金10银8铜、32 个第四至八名”的数据结构，没有出现与此明显矛盾的官方口径，因此可以认定广西在2025全运会上确实获得了 28 枚奖牌。",
+    "evidence_sources": [
+      {
+        "content": "广西以10金10银8铜创造42年来参加全运会最好成绩（明确写明广西运动员在第十五届全运会上收获10金10银8铜，共28枚奖牌）",
+        "url": "https://www.peopleweekly.cn/html/2025/jizhezaixian_1124/260947.html",
+        "credibility": "High"
+      },
+      {
+        "content": "广西创造42年来参加全运会的最好成绩（中国网稿件：广西运动员在第十五届全运会上获得10金10银8铜、32个第四至八名，金牌数和奖牌总数均超过上届）",
+        "url": "http://guangxi.china.com.cn/2025-11/24/content_43283126.html",
+        "credibility": "High"
+      },
+      {
+        "content": "【第十五届全国运动会】广西代表团全运会创42年来最好成绩10金10银8铜书写“狼兵”传奇（广西广电报道：总结广西代表团在十五运会上以10金10银8铜收官）",
+        "url": "https://news.gxtv.cn/article/detail_0d4062a007bf45f38768fa9704365747.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025（第十五届）全运会上，广西体育代表团共获得 28 枚奖牌（10 枚金牌、10 枚银牌和 8 枚铜牌）。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会金牌榜第12名是辽宁。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，辽宁最终获得11枚金牌在所有省队中排名第十二。",
+    "evidence_sources": [
+      {
+        "content": "全运会最终金牌榜出炉！山东49金5连冠，广东第二，辽宁跌出前十",
+        "url": "https://m.163.com/dy/article/KEU3DFET0549M8AJ.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第十五届全运会中，辽宁最终获得11枚金牌在所有省队中排名第十二。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "十五运会中余依婷参加了女子100米蝶泳。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，十五运会赛事前瞻与相关报道指出，余依婷在本届全运会上原计划在女子50米、100米蝶泳等项目中出战，与张雨霏直接对决，说明她确实报了女子100米蝶泳项目。​但赛后报道与地方媒体采访明确写到：在首个比赛日，为了保证接力和混合泳项目的体能，余依婷在完成女子200米个人混合泳预赛后，选择放弃（退出）女子100米蝶泳项目的争夺，因此没有实际参加该项目的比赛。​宁波日报等对她本届全运会行程的总结也仅提到她在女子50米蝶泳、女子4×100米自由泳接力、4×100米混合泳接力等项目中出战并夺牌，没有把女子100米蝶泳列为她的出场项目之一，侧面印证她只是在报名层面涉及100米蝶泳，但实际并未出场参赛。",
+    "evidence_sources": [
+      {
+        "content": "雨霏夺冠，余依婷退赛，王长浩复出挑战徐放俊（报道指出，在完成女子200米混合泳预赛后，余依婷选择退出本届全运会女子100米蝶泳项目的争夺）",
+        "url": "https://www.163.com/dy/article/KE0FD28E0556DGQT.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "宁波日报：汪顺和余依婷又各得一金（总结十五运会游泳收官日，文中回顾余依婷在接力和50米蝶泳等项目的参赛与奖牌情况，没有将女子100米蝶泳列为其参赛项目，并说明她有放弃部分个人项目以专注接力）",
+        "url": "http://news.cnnb.com.cn/system/2025/11/16/030716557.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "宁波汪顺，全运会第16金！（全运会专题报道，明确写道：为了以更好状态参加接力比赛，余依婷在首个竞赛日“放弃了女子100米蝶泳比赛”）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_31940110",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "十五运会中，余依婷原本报名了女子100米蝶泳项目，但在首个比赛日为了保持体能参加接力和混合泳项目，选择放弃该项目，因此实际上并未参加女子100米蝶泳的比赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025粤港澳全运会的男子200米自由泳冠军是浙江队的张展硕。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "错误，多个权威报道明确指出，十五运会（2025 粤港澳全运会）男子200米自由泳决赛中，18 岁选手张展硕以 1 分 44 秒 86 的成绩夺得冠军，但其参赛单位为“山东队”，而非浙江队。官方综合消息进一步说明：该项目中，代表中国公安体育协会出战的山东名将季新杰获得银牌，代表浙江队参赛的潘展乐获得铜牌，清晰区分了不同运动员所属代表队，证实张展硕不是浙江队成员。​世界泳联、CGTN、央视网等英文与视频报道也统一写明，张展硕是山东选手，在十五运会男子200米自由泳项目上打破全国青年纪录夺金，并未将其标注为浙江队选手，因此“浙江队的张展硕”表述错误。",
+    "evidence_sources": [
+      {
+        "content": "再破纪录张展硕依旧清醒（第十五届全国运动会官方稿件：称11月12日男子200米自由泳决赛中，张展硕以1分44秒86为山东队夺得金牌，并打破全国青年纪录）",
+        "url": "https://www.sport.gov.cn/n4/n29143600/n29143624/c29211053/content.html",
+        "credibility": "High"
+      },
+      {
+        "content": "（粤港澳全运会）综合消息：田径项目开赛张展硕再破纪录夺金（中国新闻网稿件：明确写明18岁山东选手张展硕在男子200米自由泳决赛中夺金，季新杰获银、代表浙江队的潘展乐获铜）",
+        "url": "https://www.chinanews.com.cn/ty/2025/11-13/10514644.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "全运会丨游泳——男子200米自由泳决赛：张展硕夺冠（新华社图文报道：多次写到“山东队选手张展硕”在男子200米自由泳决赛中获得冠军，同时配图标注其山东队身份）",
+        "url": "http://www.xinhuanet.com/sports/20251112/b09fae4359554b9cb7d77383776e7277/c.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025全运会的男子200米自由泳冠军是浙江队的张展硕。2025 粤港澳全运会（第十五届全国运动会）男子200米自由泳冠军是来自山东队的张展硕，他在决赛中以 1 分 44 秒 86 的成绩夺冠并打破全国青年纪录。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年全运会中，张展硕连续出战了男子1500米自由泳决赛和男子400米个人混合泳决赛。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，报道显示，十五运会最后一个游泳比赛日晚上先进行男子1500米自由泳决赛，张展硕代表山东队出战并以14分52秒73的成绩夺冠，拿到本届全运会个人第5金，说明他确实参加并赢下男子1500米自由泳决赛。​同一批报道和赛后综述明确写出：当天背靠背安排了男子1500米自由泳决赛与男子400米个人混合泳决赛两项赛事，但张展硕“临时放弃了男子400米个人混合泳决赛”“预赛第一却选择退赛”，男子400米个人混合泳决赛最终由浙江队汪顺夺冠，并未出现张展硕的名字。​由此可见，张展硕在十五运会中只参加了男子1500米自由泳决赛（以及此前的200、400、800自和4×200自接力等），并没有连续出战男子400米个人混合泳决赛，因此“连续出战两个决赛”的表述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "全运会丨游泳——男子1500米自由泳决赛：张展硕夺冠（新华社图文：报道11月17日男子1500米自由泳决赛中，山东队张展硕以14分52秒73夺冠）",
+        "url": "http://www.xinhuanet.com/sports/20251117/e66d1b4b163746d79c54e4dfc7c53c31/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "张展硕成就十五运会“五金王”，汪顺收获个人全运会第19金（新京报：详细写明张展硕在男子1500米自由泳决赛中夺得个人第5金，并指出男子400米个人混合泳决赛冠军为浙江队汪顺）",
+        "url": "https://m.bjnews.com.cn/detail/1763422306129617.html",
+        "credibility": "High"
+      },
+      {
+        "content": "突发！预赛排名第一的张展硕退赛（赛报提到：在男子400米个人混合泳项目中，预赛第一的张展硕选择退赛，最终决赛由汪顺夺冠，张展硕并未出现在400混决赛名单中）",
+        "url": "https://finance.sina.com.cn/roll/2025-11-17/doc-infxtqvy3454681.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年全运会中，张展硕在男子1500米自由泳决赛中出场并夺冠，但在男子400米个人混合泳项目上选择退赛，因此没有参加男子400米个人混合泳决赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会的男子200米自由泳山东队的季新杰获得亚军。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，第十五届全国运动会（2025 粤港澳全运会）男子200米自由泳决赛中，冠军是山东队选手张展硕，官方与多家媒体报道一致确认这一点。​同一场比赛的亚军为中国公安体育协会队选手季新杰，而不是“山东队的季新杰”。报道明确标注其代表单位为“中 国 公 安 体 育 协 会队”，与山东省代表队不同。​新华社图文和多家新闻稿在颁奖合影的说明中也写明：冠军山东队张展硕、亚军中国公安体育协会队季新杰、季军浙江队潘展乐，进一步佐证季新杰不是以“山东队”身份获得亚军，因此 claim 把其代表队写错了。",
+    "evidence_sources": [
+      {
+        "content": "再破纪录张展硕依旧清醒（第十五届全运会官方稿件：男子200米自由泳决赛中，张展硕以1:44.86为山东队夺得金牌，季新杰、潘展乐分获第二、三名）",
+        "url": "https://www.sport.gov.cn/n4/n29143600/n29143624/c29211053/content.html",
+        "credibility": "High"
+      },
+      {
+        "content": "打破全国青年纪录张展硕夺得十五运会男子200米自由泳金牌（新京报：写明张展硕夺冠，中国公安体育协会选手季新杰获得亚军，浙江选手潘展乐排名第三）",
+        "url": "https://m.bjnews.com.cn/detail/1762947091129230.html",
+        "credibility": "High"
+      },
+      {
+        "content": "全运观察丨自由泳赛场，青春接力勇攀登（光明网：指出男子200米自由泳决赛中，山东小将张展硕夺冠，中国公安体育协会队季新杰获亚军，浙江队潘展乐摘铜）",
+        "url": "https://sports.gmw.cn/2025-11/13/content_38411123.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025全运会（第十五届全国运动会）男子200米自由泳项目中，冠军是山东队的张展硕，亚军是代表中国公安体育协会队出战的季新杰。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会的男子100米自由泳决赛中，孙杨被取消成绩的原因是抢跳犯规。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Missing Evidence Chain",
+    "justification": "错误，2025全运会中，孙杨被取消成绩的项目是男子200米自由泳决赛，而不是男子100米自由泳决赛；相关报道统一指向的是“男子200米自由泳决赛抢跳被判罚”，并未提到他在男子100米自由泳决赛中被取消成绩。​多家媒体和赛后采访明确说明：在男子200米自由泳决赛中，孙杨因出发时抢跳（起跳前动作超出允许范围，属于出发犯规）被裁判判定违规，计时板成绩显示为“DSQ”，赛后他本人也表示“今天的抢跳把自己的状态全打乱了”。这说明取消成绩的项目和原因都与“200米自由泳抢跳犯规”对应，而非“100米自由泳”。​权威报道中没有证据表明孙杨在男子100米自由泳决赛中因抢跳被取消成绩，因此 claim 把项目搞错，将 200 米自由泳决赛的犯规情况错误指到了 100 米自由泳决赛上，属于具体赛事事实错误。​",
+    "evidence_sources": [
+      {
+        "content": "全运会｜孙杨决赛抢跳犯规被DQ 回应新生代挑战（报道指出，11月12日晚在十五运会男子200米自由泳决赛中，孙杨因抢跳犯规被取消比赛成绩，冠军为张展硕）",
+        "url": "https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60293947",
+        "credibility": "Medium"
+      },
+      {
+        "content": "因抢跳被取消比赛资格，孙杨回应……（南方+：明确写明孙杨在十五运会男子200米自由泳决赛中因出发抢跳被判犯规，成绩显示为DSQ，并引用其赛后自述“抢跳把自己的状态全打乱了”）",
+        "url": "https://www.nfnews.com/content/1y0lNW18yB.html",
+        "credibility": "High"
+      },
+      {
+        "content": "刚刚，孙杨犯规被取消成绩！张展硕夺冠，潘展乐第三（新浪：报道11月12日全运会男子200米自由泳决赛中，孙杨因抢跳犯规被取消成绩，而非男子100米自由泳）",
+        "url": "http://finance.sina.com.cn/roll/2025-11-12/doc-infxcywy4779512.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025全运会中，孙杨是在男子200米自由泳决赛中因为出发抢跳犯规而被取消成绩，而不是在男子100米自由泳决赛中被取消成绩。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "第十五届全运会中，浙江队男子4*100米混合泳接力成绩被取消的原因是自由泳棒犯规。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，第十五届全运会男子4×100米混合泳接力中，浙江队是在预赛中成绩被取消而无缘决赛，而不是在决赛中被取消成绩；这一点与 claim 中“成绩被取消”的场景（项目和队伍）是一致的。​多个权威和主流媒体明确指出，浙江队被取消资格的直接原因是“第二棒蛙泳环节犯规”“蛙泳棒犯规”，例如有报道写到“因第二棒董亦凡蛙泳棒犯规被判取消资格”，光明网也用“蛙泳棒犯规爆冷出局”来描述。​另有分析文章提到，“官网秩序册和成绩单显示浙江队只有第一棒汪顺有成绩，说明问题出在之后接力环节”，并用“疑似蛙泳棒”表述，但并未有任何来源指向“自由泳棒犯规”。因此，把原因说成“自由泳棒犯规”与公开的犯规环节（第二棒蛙泳）不符。",
+    "evidence_sources": [
+      {
+        "content": "男子4x100混接力决赛今夜开战（光明网：介绍男子4×100米混合泳接力预赛中，浙江队游出全场最快成绩却因第二棒董亦凡蛙泳犯规被判取消资格，未能晋级决赛）",
+        "url": "https://m.gmw.cn/2025-11/17/content_1304228828.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "湖北队勇夺男子4×100米混合泳接力冠军，闫子贝圆全运金牌梦（报道指出：预赛中浙江队由汪顺、董亦凡、洪金权、何峻毅出战，因第二棒蛙泳环节被判犯规，成绩被取消）",
+        "url": "https://m.mp.oeeee.com/a/BAAFRD0000202511171474345.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "游泳深1度丨后辈弃权汪顺补进400混决赛！张展硕如何保…（文中提到：浙江队在男子4×100米混合泳接力预赛中因犯规被取消成绩，“疑似蛙泳棒出问题”，未提及自由泳棒犯规）",
+        "url": "https://view.inews.qq.com/a/20251117A049PQ00",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第十五届全运会中，浙江队在男子4×100米混合泳接力预赛中因第二棒蛙泳棒犯规被判取消成绩，从而无缘该项目决赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会女子200米混合泳中，于子迪打破了叶诗文里约奥运会创下的亚洲纪录。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "错误，第十五届全运会女子200米个人混合泳决赛中，河北13岁选手于子迪以2:07.41 夺冠，并打破了由叶诗文保持的该项目亚洲纪录 2:07.57，这一点是确定无疑的。​但多家权威来源都明确，这一被打破的亚洲纪录是叶诗文在“2012 年伦敦奥运会”女子 200 米个人混合泳决赛中游出的2:07.57，而不是在“里约奥运会”创造的：包括叶诗文本人的资料页、全运会新闻稿、以及多篇回顾文章，都把该纪录的时间和赛事指向 2012 伦敦奥运会。​因此，claim 把叶诗文创纪录的奥运会届次写成“里约奥运会”在时间和赛事上是错误的；从严格事实核查角度看，该 claim 包含明确时间错误，应整体判为“错误”（而不是完全正确）。",
+    "evidence_sources": [
+      {
+        "content": "Yu Zidi, 13, breaks Asian record in women",
+        "url": "https://english.news.cn/20251111/960fedbc9a294879b536cf891883ff42/c.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Ye Shiwen - Wikipedia（记载叶诗文在2012年伦敦奥运会女子200米个人混合泳决赛中以2:07.57夺金，并标注为亚洲纪录/奥运会纪录）",
+        "url": "https://en.wikipedia.org/wiki/Ye_Shiwen",
+        "credibility": "Medium"
+      },
+      {
+        "content": "13岁于子迪破亚洲纪录夺冠全运会首金闪耀（报道指出：于子迪在十五运会女子200米个人混合泳决赛中游出2:07.41，打破叶诗文在2012年伦敦奥运会创造并尘封13年的亚洲纪录2:07.57）",
+        "url": "https://news.china.com/socialgd/10000169/20251111/48982137.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025全运会女子200米个人混合泳比赛中，河北选手于子迪以 2 分 07 秒 41 的成绩夺冠，打破了叶诗文在 2012 年伦敦奥运会上创造的该项目亚洲纪录 2 分 07 秒 57。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "第十五届全运会中，宁夏队男子4*100米混合泳接力成绩被取消的原因是抢跳。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，第十五届全运会中男子4*100米混合泳接力预赛中，由十五运官网的比赛结果摘要可知，宁夏队只有前两棒的成绩，第三棒的反应时间为-0.17s，抢跳犯规成绩被取消。",
+    "evidence_sources": [
+      {
+        "content": "男子4x100米混合泳接力预赛第2组",
+        "url": "https://wrs.baygames.cn/SWMM4X100MMD----------HEAT000200--/result",
+        "credibility": "High"
+      },
+      {
+        "content": "男子4x100米混合泳接力比赛结果摘要",
+        "url": "https://wrs.baygames.cn/SWMM4X100MMD----------HEAT000200--/result",
+        "credibility": "High"
+      },
+      {
+        "content": "男子4×100米混合泳接力预赛，第二组的第一，第二个到达终点的浙江和宁夏因为犯规被取消成绩",
+        "url": "https://www.toutiao.com/w/1849024263112711/?&source=m_redirect",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "第十五届全运会中男子4*100米混合泳接力预赛中，宁夏队只有前两棒的成绩，第三棒的反应时间为-0.17s，抢跳犯规成绩被取消。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会中，吴卿风获得了男子50米自由泳的冠军。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "错误，吴卿风是中国女子自由泳运动员，在2025（第15届）全运会中，她夺得的是女子50米自由泳冠军，成绩为24.21秒，而不是男子项目。报道中男子50米自由泳冠军为其他男选手（如报道提到男子50自表现的是男选手余贺新、何诗文/潘展乐等），与吴卿风无关，且没有任何权威记录显示吴卿风参加或获得男子50米自由泳冠军。​因此，claim 把性别和项目弄错，将“女子50米自由泳冠军吴卿风”误表述为“男子50米自由泳冠军吴卿风”，属于事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Li Zeyang, Chen Yujie blaze to 100m titles at 15th National Games（文中提到第15届全运会游泳比赛中，浙江选手吴卿风以24.21获得女子50米自由泳冠军）",
+        "url": "https://www.chinadailyhk.com/hk/article/623818",
+        "credibility": "High"
+      },
+      {
+        "content": "Qingfeng WU | Results | World Aquatics Official（世界泳联官方成绩档案，显示吴卿风为女子自由泳选手，并记录其女子50米自由泳成绩和头衔）",
+        "url": "https://www.worldaquatics.com/athletes/1056527/qingfeng-wu",
+        "credibility": "High"
+      },
+      {
+        "content": "National Games: Ian Ho",
+        "url": "https://www.scmp.com/sport/hong-kong/article/3332965/national-games-day-7-hong-kongs-fencers-chase-glory-haughey-eyes-golden-hat",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025全运会中，吴卿风获得了女子50米自由泳的冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "历届全运会乒乓球项目获得的金牌总数最多的运动员是王涛和樊振东。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，历届全运会乒乓球项目获得的金牌总数最多的运动员是王涛和樊振东，以六枚金牌并列第一。",
+    "evidence_sources": [
+      {
+        "content": "Chinese National Games 2017 | TableTennisDaily（论坛贴中给出非官方统计：王涛共获6枚全运会金牌，并称其为全运会金牌最多的乒乓球选手，但该统计未注明官方来源）",
+        "url": "https://www.tabletennisdaily.com/forum/topics/chinese-national-games-2017.15801/",
+        "credibility": "Low"
+      },
+      {
+        "content": "樊振东6块全运金牌和他并列历史第一的是谁？恩师也是暴力熊猫",
+        "url": "https://www.sohu.com/a/957546059_122442559",
+        "credibility": "Medium"
+      },
+      {
+        "content": "全运男乒谁金牌最多？樊振东6金历史第1，马龙第3，王励勤第5名 ",
+        "url": "https://www.sohu.com/a/959399155_121721777#:~:text=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%98%E5%9C%A8%E7%94%B7%E5%8D%95%E6%AF%94%E8%B5%9B%E4%B8%AD%E8%A1%A8%E7%8E%B0%E5%BC%BA%E5%8A%BF%EF%BC%8C%E5%87%BB%E8%B4%A5%E4%BA%86%E6%A2%81%E9%9D%96%E5%B4%91%E5%92%8C%E5%88%98%E4%B8%81%E7%A1%95%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%8E%B7%E5%BE%97%E7%94%B7%E5%8D%95%E9%87%91%E7%89%8C%EF%BC%8C%E5%AE%8C%E6%88%90%E4%BA%86%E5%85%A8%E8%BF%90%E9%87%91%E7%89%8C%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%E3%80%82,2025%E5%B9%B4%EF%BC%8C%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%EF%BC%8C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BB%A3%E8%A1%A8%E4%B8%8A%E6%B5%B7%E9%98%9F%E5%87%BA%E6%88%98%EF%BC%8C%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E7%BB%9F%E6%B2%BB%E5%9C%B0%E4%BD%8D%EF%BC%8C%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%EF%BC%8C%E5%B9%B6%E4%B8%94%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B1%8A%E6%89%93%E5%85%A5%E5%86%B3%E8%B5%9B%EF%BC%8C%E6%9C%80%E7%BB%88%E4%BB%A54%3A1%E5%87%BB%E8%B4%A5%E6%9E%97%E8%AF%97%E6%A0%8B%EF%BC%8C%E7%A1%AE%E4%BF%9D%E4%BA%86%E8%87%AA%E5%B7%B1%E5%8E%86%E5%8F%B2%E4%B8%8A6%E9%87%912%E9%93%B62%E9%93%9C%E7%9A%84%E5%A5%96%E7%89%8C%E6%88%90%E7%BB%A9%EF%BC%8C%E4%BB%A5%E9%87%91%E7%89%8C%E6%95%B0%E8%B6%85%E8%B6%8A%E7%8E%8B%E6%B6%9B%EF%BC%8C%E6%88%90%E4%B8%BA%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E9%80%89%E6%89%8B%E3%80%82%20%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BB%8E%E5%B0%91%E5%B9%B4%E5%88%B0%E9%A2%86%E8%A2%96%EF%BC%8C%E7%94%A8%E7%A8%B3%E5%AE%9A%E7%9A%84%E8%A1%A8%E7%8E%B0%E5%92%8C%E4%B8%8D%E6%96%AD%E7%AA%81%E7%A0%B4%EF%BC%8C%E4%B9%A6%E5%86%99%E4%BA%86%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%A8%E8%BF%90%E4%BC%A0%E5%A5%87%E3%80%82",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "历届全运会乒乓球项目获得的金牌总数最多的运动员是王涛和樊振东。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2016年里约奥运会，中国乒乓球运动员许昕参加男子团体的比赛，他在所有参加的比赛中都取得了胜利。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，2016年里约奥运会乒乓球男子团体决赛中，中国队对阵日本队，第二盘单打是许昕对阵日本选手水谷隼，许昕以2–3告负，比分为10–12、9–11、11–3、11–7、10–12，明确不是“赢得了所有比赛”。​同一场团队决赛中，许昕与张继科搭档参加男团第三盘双打，并以3–1战胜日本组合，这说明许昕在本届奥运男团中既有胜场也有败场，并非全胜战绩。​综观里约奥运官方记录和多家媒体赛况报道，都一致指出许昕在男团比赛中输给过水谷隼，故“赢得了所有比赛”的表述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Table tennis at the 2016 Summer Olympics – Men",
+        "url": "https://en.wikipedia.org/wiki/Table_tennis_at_the_2016_Summer_Olympics_%E2%80%93_Men",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Table Tennis 2016: Men",
+        "url": "https://bleacherreport.com/articles/2658235-olympic-table-tennis-2016-mens-team-medal-winners-scores-and-bracket-results",
+        "credibility": "Medium"
+      },
+      {
+        "content": "China complete table tennis sweep with Japan on the rise / China win fourth Olympic table tennis gold in Rio（多家媒体报道中国男团3–1战胜日本完成乒乓球金牌包揽，并点出决赛中许昕先输单打后在双打中取胜的过程）",
+        "url": "https://www.bbc.com/sport/olympics/36690698",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2016年里约奥运会上，中国乒乓球运动员许昕参加了男子团体比赛，并随队获得男子团体金牌，但他在决赛对阵日本队时曾输给水谷隼，因此并非赢得了所有个人出场比赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2012里约奥运会乒乓球男子单打冠军是马龙。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2012年并非“里约奥运会”，而是“伦敦奥运会”；2016年才是里约奥运会，本身时间与地点表述就不符合事实。​伦敦2012年奥运会乒乓球男子单打冠军是中国选手张继科，决赛4–1战胜队友王皓，马龙当届并未获得男单金牌。​多个权威奥运官方页面和新闻报道都将“2012年男子单打金牌”明确归于张继科，而马龙第一次获得奥运男单金牌是在2016年里约奥运会，因此该 claim 的时间（2012年）、地点（里约）、冠军人选（马龙）均与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Table tennis at the 2012 Summer Olympics – Men",
+        "url": "https://en.wikipedia.org/wiki/Table_tennis_at_the_2012_Summer_Olympics_%E2%80%93_Men",
+        "credibility": "Medium"
+      },
+      {
+        "content": "London 2012 Table Tennis Singles men Results - Olympics.com（奥运会官网伦敦2012男子单打官方成绩页，列出张继科为金牌得主）",
+        "url": "https://www.olympics.com/en/olympic-games/london-2012/results/table-tennis/singles-men",
+        "credibility": "High"
+      },
+      {
+        "content": "ZHANG Jike - Olympics.com / Zhang Jike - Wikipedia（介绍张继科在伦敦2012赢得男子单打金牌，完成乒乓球大满贯）",
+        "url": "https://www.olympics.com/en/athletes/jike-zhang",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2016年里约奥运会乒乓球男子单打冠军是马龙。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2020年乒乓球世界杯女子单打中，陈梦顶替退赛的刘诗雯参赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。2020 年女子世界杯赛事官方信息称：由于卫冕冠军、五届女乒世界杯冠军刘诗雯因伤退出年终“#RESTART”赛事，世界排名第一的陈梦获得参赛资格并“进入这项她从未赢得过冠军的赛事”。​ITTF 对 Dishang 2020 女子世界杯的赛前说明与赛后冠军报道均表明，本届女子世界杯参赛名单中，陈梦为中国主力选手之一，而刘诗雯因伤缺席，并未出现在该届世界杯签表中。​综合多条官方与专业媒体信息，可以确认：2020 年乒乓球女子世界杯中，陈梦确实是因为刘诗雯因伤退赛而递补参赛，因此该 claim 叙述成立。",
+    "evidence_sources": [
+      {
+        "content": "Players announced for #RESTART!（ITTF 公告：五届女子世界杯冠军刘诗雯因伤退出#RESTART 赛事，其退赛使得世界排名第一的陈梦获得女子世界杯参赛资格）",
+        "url": "https://www.ittf.com/2020/09/29/players-announced-restart/",
+        "credibility": "High"
+      },
+      {
+        "content": "All you need to know about the Dishang 2020 ITTF Women",
+        "url": "https://www.ittf.com/2020/11/03/everything-need-know-dishang-2020-womens-world-cup/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chen Meng the champion with first-ever Women",
+        "url": "https://www.ittf.com/2020/11/10/chen-meng-champion-first-ever-womens-world-cup-title/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2020 年乒乓球女子世界杯中，原定参赛的刘诗雯因伤退赛，由中国选手陈梦递补获得女子单打参赛资格并出战该项赛事。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2020年乒乓球世界杯女子单打中，孙颖莎顶替退赛的朱雨玲参赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。2020 年 10 月，中国官方英文网报道，国际乒联确认：原定参加女子世界杯的朱雨玲因健康原因退出，改由中国选手孙颖莎递补参赛。​赛前和赛后关于 Dishang 2020 ITTF Women’s World Cup 的报道均显示，中国队出战的两名女单选手为陈梦和孙颖莎，其中孙颖莎以主力身份参赛并最终打入决赛。​相关报道在回顾朱雨玲生涯和伤病时，也提到她在东京周期因健康问题退出世界大赛，包括 2020 女子世界杯名额由队友顶替的情况，与上述信息相吻合。",
+    "evidence_sources": [
+      {
+        "content": "China",
+        "url": "http://www.china.org.cn/sports/2020-10/07/content_76783644.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Dishang 2020 ITTF Women",
+        "url": "https://www.ittf.com/2020/11/10/dishang-2020-ittf-womens-world-cup-final-day/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chen Meng wins Women",
+        "url": "https://www.olympics.com/en/news/chen-meng-wins-womens-world-cup-in-all-chinese-final",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2020 年乒乓球女子世界杯中，原定参赛的朱雨玲因健康原因退赛，由中国选手孙颖莎递补获得女子单打参赛资格。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会结束后，张家齐宣布退役。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。公开资料显示，跳水运动员张家齐在 2025 年 11 月 22 日发布消息，正式宣布结束职业跳水生涯，年仅 21 岁。​与此同时，多条同期视频与自媒体内容也在 2025 年 11 月下旬集中报道“21 岁奥运冠军张家齐宣布退役”，说明其退役时间为 2025 年 11 月，而中国2025（第 15 届）全运会亦在 2025 年举行，二者时间上紧密相连。​结合：张家齐参加 2021 年全运会并在其后继续征战到 2025 年，又在 2025 年 11 月正式宣布退役，可以合理认定其退役发生在2025全运会结束之后，这与 claim 描述高度一致。",
+    "evidence_sources": [
+      {
+        "content": "Zhang Jiaqi (diver) - Wikipedia（介绍张家齐在 2021 年全运会参赛，并注明其于 2025 年 11 月 22 日在 21 岁时宣布退役）",
+        "url": "https://en.wikipedia.org/wiki/Zhang_Jiaqi_(diver)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Heartbreaking! 21-year-old Zhang Jiaqi announces retirement（视频：标题与内容均称 21 岁奥运冠军张家齐宣布退役）",
+        "url": "https://www.youtube.com/shorts/6mX4bXmvp9A",
+        "credibility": "Low"
+      },
+      {
+        "content": "21-year-old Olympic diving champion Zhang Jiaqi has announced her retirement!（视频：再次报道 21 岁跳水奥运冠军张家齐已经宣布退役）",
+        "url": "https://www.youtube.com/shorts/Wrgvp5JgAR0",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "在2025（第 15 届）全运会结束后不久，跳水奥运冠军张家齐于 2025 年 11 月正式宣布退役。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "截至2025赛季拉斯维加斯大奖赛，世界一级方程式大赛车手积分排行榜领先者为马克斯·维斯塔潘。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，2025 年拉斯维加斯大奖赛结束后的车手积分榜显示，积分榜领跑者是迈凯伦车手兰多·诺里斯，而非马克斯·维斯塔潘。​多家媒体与积分统计页面一致给出拉斯维加斯站后车手积分：诺里斯 390–408 分不等，皮亚斯特里与维斯塔潘均在其后，维斯塔潘在车手积分榜中仅列第 3 位。​2025 年拉斯维加斯大奖赛中，维斯塔潘虽然赢得分站冠军，但这一胜利只是“缩小与领跑者诺里斯的积分差距”，并未反超取得积分榜第一名，因此“截至 2025 赛季拉斯维加斯大奖赛，车手积分榜领先者为维斯塔潘”的说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "2025 F1 championship standings after Las Vegas Grand Prix（拉斯维加斯站后车手积分榜：诺里斯与皮亚斯特里在前，维斯塔潘仅列第三）",
+        "url": "https://racingnews365.com/2025-f1-championship-standings-after-las-vegas-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Updated F1 points standings after Las Vegas Grand Prix - PlanetF1（拉斯维加斯站后最新积分：诺里斯 408 分、皮亚斯特里 378 分、维斯塔潘 366 分，诺里斯继续领跑车手积分榜）",
+        "url": "https://www.planetf1.com/news/updated-f1-points-standings-las-vegas-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 Standings After The 2025 Las Vegas Grand Prix - Forbes（福布斯盘点拉斯维加斯站后积分：诺里斯 390 分、皮亚斯特里 366 分、维斯塔潘 366 分，诺里斯保持积分榜第一）",
+        "url": "https://www.forbes.com/sites/yaraelshebiny/2025/11/23/f1-standings-after-the-2025-las-vegas-grand-prix/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季拉斯维加斯大奖赛结束时，F1 车手积分排行榜的领先者为兰多·诺里斯，马克斯·维斯塔潘在积分榜上排名第三。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛截至2025赛季拉斯维加斯大奖赛，乔治·拉塞尔仍有理论夺冠的可能。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，拉斯维加斯大奖赛结束后，车手积分榜为：兰多·诺里斯 390 分、奥斯卡·皮亚斯特里 366 分、马克斯·维斯塔潘 366 分、乔治·拉塞尔 294 分。​当时赛季还剩 2 场分站，理论上最多可获得 58 分（两站正赛+冲刺赛的满积分），而拉塞尔落后榜首诺里斯 96 分（390 vs 294），即便全胜剩余所有比赛也不可能弥补这一差距，因此已“无数学意义上的夺冠可能”。​多家赛事分析与官方/半官方解读都明确指出：在巴西站之后、尤其是拉斯维加斯站后，乔治·拉塞尔已经被排除在 2025 赛季世界冠军竞争者之外，剩余具有数学夺冠可能的仅为诺里斯、皮亚斯特里和维斯塔潘，因此“仍有理论夺冠可能”的说法不成立。",
+    "evidence_sources": [
+      {
+        "content": "F1 race result & points: 2025 Las Vegas Grand Prix（拉斯维加斯站后车手积分：诺里斯 390 分、皮亚斯特里 366 分、维斯塔潘 366 分、拉塞尔 294 分，并说明赛季剩余积分总额为 58 分）",
+        "url": "https://www.racefans.net/2025/11/23/2025-las-vegas-grand-prix-race-result-and-championship-points/",
+        "credibility": "High"
+      },
+      {
+        "content": "How Max Verstappen can win the F1 world championship（文中给出拉斯维加斯站后的积分表：拉塞尔 294 分、落后领跑者 114 分，且指出在剩余 58 分可拿的前提下，拉塞尔已无数学夺冠可能）",
+        "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-max-verstappen-can-win-the-f1-world-championship-why-lando-norris-title-bid-is-still-on-track/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Can Norris, Piastri or Verstappen Win the 2025 F1 Title?（银石赛道官网文章明确写道：乔治·拉塞尔已经“不再具有数学意义上的 2025 年 F1 冠军竞争资格”，剩余冠军候选人仅为诺里斯、皮亚斯特里与维斯塔潘）",
+        "url": "https://www.silverstone.co.uk/news/championship-chances-who-can-still-win-2025-f1-title",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季拉斯维加斯大奖赛结束时，世界一级方程式大赛中，乔治·拉塞尔在车手积分榜上落后领跑的兰多·诺里斯 96 分，已没有任何理论或数学意义上的夺冠可能。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖冲刺赛开始前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，题目这次限定的是“截至卡塔尔大奖赛冲刺赛开始前”的情形，此时整个周末（冲刺+正赛）还有 33 分可拿，是否“只要正赛夺冠就锁定冠军”要看冲刺赛前的积分差。此时 F1 官方与各大媒体给出的条件是：诺里斯需要在整个卡塔尔周末（含冲刺）结束后，领先至少 26 分才能数学封冠，也就是整个周末要比皮亚斯特里和维斯塔潘多拿至少 2 分。​换句话说，在冲刺赛开始前，唯一被反复强调的“简单条件”是：整个周末积分上要多出对手 2 分以上；并没有说“无论冲刺赛发生什么、只要周日正赛赢就必定锁定冠军”。如果冲刺赛里诺里斯相对现实少拿 8 分（或者竞争对手多 8 分），那就可能导致即使正赛夺冠，最终分差也达不到 26 分这一数学封冠线，因此不能在“冲刺赛开始前”就断言“只要正赛夺冠必定锁定冠军”。​赛前推演普遍表述为：诺里斯需要在卡塔尔站结束后领先 26 分以上，通常的“简单方式”是这个周末总共比对手多拿 2 分，而不是单纯只依赖正赛一场；“只要赢正赛就一定夺冠”的说法，是在结合实际冲刺赛结果之后才成立的简化情景，不适用于“冲刺赛开始前”这个时间点的严格数学表述。",
+    "evidence_sources": [
+      {
+        "content": "F1 title permutations: How Lando Norris can win it at Qatar Grand Prix（说明诺里斯若想在卡塔尔锁定年度冠军，需要在本站结束后领先至少 26 分，即这个周末总积分要比皮亚斯特里和维斯塔潘多 2 分以上）",
+        "url": "https://www.espn.com/f1/story/_/id/46925971/f1-title-permutations-lando-norris-oscar-piastri-max-verstappen",
+        "credibility": "High"
+      },
+      {
+        "content": "When is the earliest Norris can win the World Championship?（F1 官方梳理：在包含冲刺赛的卡塔尔周末，总共有 33 分可拿；诺里斯要在此站封王，需要在积分上建立至少 26 分优势，并未说“在冲刺赛前就保证只要赢正赛必夺冠”）",
+        "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-norris-could-claim-the-world.T4F6V6THiKksJ6Gv7FyccL.html",
+        "credibility": "High"
+      },
+      {
+        "content": "How Lando Norris can win F1 title in Qatar after Las Vegas disqualification（分析：卡塔尔为冲刺周末，诺里斯需要在整个周末总积分上多出至少 2 分，从而在本站结束时取得 25–26 分以上优势，文中强调的是“整个周末的积分差”，而非事先保证“只要正赛胜利必然封王”）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-f1-title-in-qatar-after-las-vegas-disqualification",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季 F1 卡塔尔大奖赛冲刺赛开始前，兰多·诺里斯要在卡塔尔站锁定车手世界冠军，需要在整个周末（冲刺赛+正赛）结束后将对主要竞争对手的领先优势扩大到至少 26 分；能否“只靠正赛夺冠就锁定冠军”取决于冲刺赛的实际积分结果，不能预先一概而论。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "截至2025F1卡塔尔大奖正赛前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，在卡塔尔大奖赛周日正赛前（即冲刺赛结束后），诺里斯以 396 分领先皮亚斯特里 22 分、领先维斯塔潘 25 分。​多家专业媒体与 F1 官方给出的夺冠情景均明确指出：如果诺里斯在卡塔尔大奖赛正赛中夺冠，他将无论皮亚斯特里和维斯塔潘的完赛位置如何，直接锁定 2025 赛季车手世界冠军。​分析文章进一步说明，只要诺里斯在卡塔尔站结束后把对皮亚斯特里的优势扩大到至少 26 分、对维斯塔潘的优势保持在 25 分以上（含胜场与第二名次数的加赛规则），正赛夺冠即可自动满足这一条件，因此“只要在正赛夺冠则可锁定车手世界冠军”的表述在数学上和规则上成立。",
+    "evidence_sources": [
+      {
+        "content": "How Lando Norris can win the 2025 F1 title in the Qatar Grand Prix（分析称：如果诺里斯赢下卡塔尔大奖赛正赛，将不受皮亚斯特里和维斯塔潘名次影响，直接加冕世界冠军）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-the-2025-f1-title-in-the-qatar-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Championship permutations: Can Norris still win the title in Qatar after Sprint?（F1 官方文章：简单写道——若诺里斯在卡塔尔周日正赛夺冠，他就已经做得足够，可以锁定年度车手冠军）",
+        "url": "https://www.formula1.com/en/latest/article/championship-permutations-can-norris-still-win-the-title-in-qatar-after-sprint.6Yl07za0DPgfybgFrUXQZD.html",
+        "credibility": "High"
+      },
+      {
+        "content": "What does Norris need to win the championship in Qatar?（BBC 总结：诺里斯需要在卡塔尔站后把领先优势扩大到 26 分；如果他赢得卡塔尔大奖赛正赛，就能直接拿到 2025 赛季冠军）",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgrm2mek1ro",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 赛季 F1 卡塔尔大奖赛正赛开始前，只要兰多·诺里斯在卡塔尔大奖赛正赛中夺冠，他即可在本站后提前锁定 2025 赛季车手世界冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖冲刺赛前，诺里斯只要在正赛比皮亚斯特里和维斯塔潘均多获得两分则可锁定车手世界冠军。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，各权威推演给出的条件是：诺里斯要在卡塔尔站“锁定年度冠军”，需要在这一站结束后，在积分榜上将对主要对手（皮亚斯特里和维斯塔潘）的领先扩大到至少 26 分，本质等价于“整个卡塔尔周末（冲刺+正赛）相对对手总共多拿至少 2 分”。​题目中把条件写成“正赛比皮亚斯特里和维斯塔潘均多获得两分”，这只约束正赛一场，并不等价于“整个周末一共多两分”：冲刺赛中三人的得分差异会改变最终周末总差，因此仅凭“正赛多两分”并不能保证“周末总共多两分”，在数学上不足以被视为一条无条件的锁冠规则。",
+    "evidence_sources": [
+      {
+        "content": "F1 title permutations: How Lando Norris can win it at Qatar Grand Prix（说明诺里斯若要在卡塔尔锁定冠军，需要在本站结束后领先达到 26 分，本质等同于“本周末总积分比皮亚斯特里和维斯塔潘多至少 2 分”）",
+        "url": "https://www.espn.com/f1/story/_/id/46925971/f1-title-permutations-lando-norris-oscar-piastri-max-verstappen",
+        "credibility": "High"
+      },
+      {
+        "content": "How Lando Norris can win the F1 drivers",
+        "url": "https://www.nytimes.com/athletic/6843617/2025/11/28/f1-norris-drivers-championship-qatar/",
+        "credibility": "High"
+      },
+      {
+        "content": "When is the earliest Norris can win the World Championship?（F1 官方：说明卡塔尔作为冲刺周末，总共有 33 分可拿，并以“周末总积分差”来给出诺里斯提前夺冠的数学条件，未将条件简化为“只看正赛多两分”）",
+        "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-norris-could-claim-the-world.T4F6V6THiKksJ6Gv7FyccL.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季 F1 卡塔尔大奖赛冲刺赛开始前，兰多·诺里斯若想在卡塔尔站提前锁定车手世界冠军，需要在整个卡塔尔周末（包括冲刺赛和正赛）结束后，相对于皮亚斯特里和维斯塔潘总共多获得至少两分。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "下一届全运会的举办地是粤港澳大湾区。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，“粤港澳大湾区”（广东‑香港‑澳门）是第 15 届全运会（2025 年）的联合举办地区，即本届全运会已经在大湾区举行。​官方报道和赛后新闻明确指出：全运会会旗已在闭幕式上由粤港澳大湾区代表移交给湖南省，确认第 16 届全运会（下一届，全运会为四年一届）由湖南承办。​因此，“下一届全运会的举办地是粤港澳大湾区”的说法与官方确定的信息不符，实际为“湖南省”，故该 claim 错误。",
+    "evidence_sources": [
+      {
+        "content": "2025 National Games of China（说明第 15 届全运会于 2025 年在广东、香港和澳门联合举办，即粤港澳大湾区已经是本届而非下一届的举办地）",
+        "url": "https://en.wikipedia.org/wiki/2025_National_Games_of_China",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Model for cooperation - China Daily HK（报道闭幕式上，全运会会旗由粤港澳代表交接给湖南省代表，并明确写出“湖南省将于 2029 年承办第 16 届全运会”）",
+        "url": "https://www.chinadailyhk.com/article/624505",
+        "credibility": "High"
+      },
+      {
+        "content": "Beyond sports: 15th National Games leaves legacy of regional unity（文末指出：下一届全运会计划于 2029 年在湖南省举行，延续这一赛事传统）",
+        "url": "https://info.newsgd.com/node_28ab3f3552/3e848a652e.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "下一届（第 16 届）全运会计划于 2029 年在湖南省举办，而不是在粤港澳大湾区举办。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "第十六届全运会的举办地是湖南长沙。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，国务院办公厅已经正式批复：2029 年第十六届全国运动会的承办单位为“湖南省”，而不是单一城市。​批复和多篇后续报道都明确指出：第十六届全运会的“主赛区”为长株潭（长沙、株洲、湘潭三市），也就是说长沙是主办城市之一，但官方口径的举办地是“湖南省（以长株潭为主赛区）”，并非单独表述为“湖南长沙”。​因此，把“下一届全运会的举办地”简化为“湖南长沙”在严格意义上不准确，缺失了“省级承办单位”和“长株潭三市共同作为主赛区”的关键信息，判定为错误。",
+    "evidence_sources": [
+      {
+        "content": "The 16th National Games will take Chang-Zhu-Tan as the main venue.（报道：国务院办公厅同意湖南省承办 2029 年第十六届全运会，并明确“以长株潭三个城市作为主赛区”）",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29760852.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Changsha, Zhuzhou, Xiangtan as main competition venues for 16th National Games（英文稿：确认 2029 年第十六届全运会由湖南省承办，长株潭三市为主要比赛城市）",
+        "url": "https://eng.huaihua.gov.cn/enghuaihua/c133469/202506/169f6a04f01b46cf8beecf968b82c05e.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Hunan to Host China",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29728847.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "下一届（第 16 届）全运会由湖南省承办，主赛区为长株潭城市群（长沙、株洲、湘潭），而不是仅由“湖南长沙”单一城市作为举办地。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "在10000米长跑项目中，运动员可以跟在被套圈选手后面跟跑。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，田径技术规则中明确规定，“由已被套圈或即将被套圈的运动员进行配速（pacing）”属于对他人提供帮助的情形，视为“非法协助”，是不被允许的，一经判定可导致受益运动员被警告或取消成绩。​因此，在 10000 米长跑这类长距离径赛中，领跑选手如果“刻意跟在被套圈选手后面利用其带节奏/挡风配速”，在规则上被视为违规帮助；允许的只是正常超越和同场竞技，而不是利用被套圈者作为“跟跑兔子”。​",
+    "evidence_sources": [
+      {
+        "content": "TECHNICAL RULES - World Athletics（援助规则中列举：由被套圈或将被套圈的运动员为他人“配速”属于禁止的援助形式）",
+        "url": "https://www.worldathletics.org/download/download?filename=1db01fe4-2229-4591-81ec-745bcc6042c7.pdf&urlslug=C2.1+Technical+Rules+",
+        "credibility": "High"
+      },
+      {
+        "content": "COMPETITION AND TECHNICAL RULE AMENDMENTS - World Athletics（再次重申：由被套圈运动员为他人配速被视作“assistance not allowed”）",
+        "url": "https://worldathletics.org/download/download?filename=25f29afa-e4d2-41f7-88e1-1760ed082544.pdf&urlslug=Competition+and+Technical+",
+        "credibility": "High"
+      },
+      {
+        "content": "Assistance to Athletes - AthleticsRulebook（通俗解读世界田联规则：禁止“由未实际竞争或已被套圈的运动员为他人配速”）",
+        "url": "https://athleticsrulebook.com/assistance-to-athletes",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在 10000 米长跑项目中，规则禁止利用已被套圈或将被套圈的运动员进行配速；如果领跑者刻意跟在被套圈选手后面借其“带跑”，将被视为获得非法协助，可能被判犯规。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会网球男单半决赛，商竣程2：1战胜周意。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，官方报道指出，2025 年第 15 届全运会网球男子单打半决赛中，北京选手商竣程以 6‑4、6‑3 直落两盘战胜广西选手周意，并非 2:1（即三盘）取胜。赛事通稿与后续决赛报道也一致将本场记为两盘结束的半决赛，周意和香港球员黄泽林同获男单铜牌，没有任何资料显示该场为 2:1 的三盘赛果，因此 claim 中的“2:1”比分描述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "National Games: 16-year-old Chen wins women",
+        "url": "https://www.chinadailyhk.com/hk/article/623948",
+        "credibility": "High"
+      },
+      {
+        "content": "Hengqin, China",
+        "url": "https://www.alamy.com/hengqin-chinas-guangdong-province-19th-nov-2025-zhou-yi-hits-a-return-during-the-mens-singles-semifinal-ma-image616314245.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Coleman Wong wins historic bronze at National Games - RTHK（报道：香港球员黄泽林与广西选手周意同获男单铜牌，并指出他们分别在半决赛中负于吴易昺和商竣程，侧面印证半决赛为两盘决胜的结构）",
+        "url": "https://news.rthk.hk/rthk/en/component/k2/1832385-20251119.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 全运会网球男子单打半决赛中，北京选手商竣程以 2:0（6‑4、6‑3）战胜广西选手周意晋级决赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖赛冲刺赛刘易斯·汉密尔顿从第18位起步。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，冲刺排位赛中，汉密尔顿仅跑出第 18 名的成绩，按原始成绩应从第 18 位发车。但赛后法拉利对赛车后翼和悬挂等进行调整，违反了 parc fermé 规定，因此汉密尔顿放弃发车格，被官方确定为“从维修区起步”（pit lane start）。​F1 官方与多家媒体的赛后报道都明确写道：汉密尔顿在 2025 卡塔尔大奖赛冲刺赛是从维修区发车，而不是从发车区第 18 位起步，因此 claim 中“从第18位起步”的表述不符合实际发车方式。",
+    "evidence_sources": [
+      {
+        "content": "Lewis Hamilton among four F1 drivers set for Qatar pit lane start（说明包括汉密尔顿在内的四位车手因更改设定，放弃发车格，冲刺赛从维修区起步）",
+        "url": "https://racingnews365.com/lewis-hamilton-among-four-f1-drivers-set-for-qatar-pit-lane-start",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Qatar GP F1 sprint grid with four pitlane starts（列出卡塔尔冲刺赛发车名单，标明 Lewis Hamilton 为 pit lane 起步，而非第 18 位栅格）",
+        "url": "https://www.the-race.com/formula-1/qatar-gp-f1-sprint-grid-with-four-pitlane-starts/",
+        "credibility": "High"
+      },
+      {
+        "content": "Lewis Hamilton misery compounded after Qatar pit-lane start announced（报道：汉密尔顿在冲刺排位仅列第 18，但已被确认在冲刺正赛从维修区起步）",
+        "url": "https://www.gpfans.com/en/f1-news/1069170/lewis-hamilton-misery-compounded-after-qatar-pitlane-start-announced/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 F1 卡塔尔大奖赛冲刺赛中，刘易斯·汉密尔顿在排位赛获得第 18 名，但由于赛车进行设定更改而违反 parc fermé 规定，最终在冲刺赛从维修区起步。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖赛冲刺赛兰斯·斯托尔从第16位起步。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，多家赛事报道与起步排位列表显示，2025 年 F1 卡塔尔大奖赛冲刺赛（Sprint）中，兰斯·斯托尔（Lance Stroll，阿斯顿·马丁车队）的正式发车位置为第 16 位，这是在冲刺排位赛中以第 16 名成绩结束 SQ1 后确定的起步格位。然而同一批起步名单同时指出，斯托尔并非从正常发车格发车，而是因更改赛车设置等原因与部分车手一起从维修通道起步（pit lane start），即实际并不是从赛道上的“第 16 位起步”，因此 claim 将“官方排位 P16”混同为“从第 16 位起步”，忽略了其实际从维修通道发车的事实，构成起步位置描述错误。",
+    "evidence_sources": [
+      {
+        "content": "The starting grid for the 2025 F1 Qatar GP sprint race（起步列表中给出冲刺赛的发车顺位，兰斯·斯托尔在表格中列为第 16 位车手，但说明他所在组别车手随后被调整为维修通道起步。）",
+        "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2025-f1-qatar-gp-sprint-race/10780596/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025 Qatar Grand Prix sprint race grid（RaceFans 的冲刺赛排位结果中，斯托尔在冲刺排位赛中排在第 16 名，并标注其时间为 1:21.807，但报道同时指出多名车手在正赛或冲刺中从维修通道起步。）",
+        "url": "https://www.racefans.net/2025/11/28/2025-qatar-grand-prix-sprint-race-grid/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What is the grid order for the Sprint at the Qatar Grand Prix?（PlanetF1 的冲刺格表显示，第 16 位对应的车手是 Lance Stroll，后文补充说明部分车手因调整赛车从维修通道发车，并非从赛道上对应的格位直接起步。）",
+        "url": "https://www.planetf1.com/news/f1-starting-grid-2025-qatar-grand-prix-sprint",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年 F1 卡塔尔大奖赛冲刺赛中，兰斯·斯托尔在冲刺排位赛中名列第 16 位，但比赛实际从维修通道起步，而不是从赛道上的第 16 位发车。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛2025赛季拉斯维加斯大奖赛正赛在周日举行。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，2025 赛季拉斯维加斯大奖赛官方赛程显示，正赛在当地时间 2025 年 11 月 22 日（星期六）20:00 于拉斯维加斯街道赛道起跑，而不是星期日。​多个转播与赛程页面也强调：本场为“周六夜赛”，例如给出“比赛开始时间为周六 22 日 20:00（PT），对应周日 04:00 GMT / 英国时间周日凌晨 4 点”，这只是因为时区换算在欧洲观众看来是“周日清晨”，但比赛举办地当地日期仍然是周六。",
+    "evidence_sources": [
+      {
+        "content": "2025 Las Vegas Grand Prix - Wikipedia（说明 2025 年拉斯维加斯大奖赛于 2025 年 11 月 22 日 20:00 当地时间举行，并未标为周日赛事）",
+        "url": "https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 Las Vegas GP 2025 | Date, Schedule & Start Time（列出赛程：正赛开始时间为“Sunday 23 November 04:00 GMT”，并说明当地为 11 月 22 日晚间夜赛）",
+        "url": "https://racingnews365.com/formula-1-circuits/gp-las-vegas",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Why is the F1 Las Vegas Grand Prix not taking place on a Sunday?（专门解释：为配合欧洲观众收视，F1 将拉斯维加斯周末整体提前一天安排，比赛在当地时间周六晚 8 点进行，而非传统的周日）",
+        "url": "https://www.gpfans.com/us/f1-news/1068285/why-f1-las-vegas-grand-prix-on-sunday-time-difference/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "世界一级方程式大赛 2025 赛季拉斯维加斯大奖赛正赛在当地时间 2025 年 11 月 22 日（星期六）夜间举行，而不是在周日举行。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛2025赛季新加坡大奖赛冲刺赛在周六举行。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，F1新加坡大奖赛没有冲刺赛。",
+    "evidence_sources": [
+      {
+        "content": "Scientific research and academic publications",
+        "url": "https://scholar.google.com",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "F1新加坡大奖赛没有冲刺赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "《还有明天》中迪莉娅收到的票是逃走的船票。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
+    "justification": "错误，《还有明天》是以1946年意大利女性首次获得投票权为背景的电影，女主角迪莉娅收到的是“选举证/选票”，象征她第一次获得公民投票权，并非用于逃离的船票。 观众在观影过程中常一度以为那是一张逃离家庭的“出走船票”，但影片到结尾揭示，她真正紧握并投出的，是选票而非船票，这也是她觉醒的关键时刻。 因此，将“迪莉娅收到的票”描述为“逃走的船票”在物理含义上是错误的，只能视作部分观众的主观误读或隐喻性理解。",
+    "evidence_sources": [
+      {
+        "content": "意大利电影《还有明天》——当女性从贫乏生活中觉醒（介绍影片背景为1946年意大利女性首次获得投票权，并提到女性获得选举证和投票情节）",
+        "url": "https://e.gmw.cn/2025-03/10/content_37895767.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "《还有明天》：明天因你而来（分析影片，以女性获得投票权、走向投票站作为结尾高光，强调选票象征意义）",
+        "url": "https://www.163.com/dy/article/JR1MEOUL0517CM0B.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "豆瓣9.4神作，今年最惊悚、最暴力的电影！（剧情解读中描述迪莉娅走出投票站、投票情节，说明“票”是选票而非船票）",
+        "url": "https://news.qq.com/rain/a/20250313A068P300",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《还有明天》中迪莉娅收到的“票”是真正的选举证（选票），象征她首次获得投票权，而不是逃走的船票。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《狂野时代》获戛纳电影节主竞赛单元特别奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家媒体和出品方新闻稿均明确指出，毕赣执导的电影《狂野时代》在第78届戛纳电影节上获得了“主竞赛单元特别奖”（或“评审团特别奖/特别奖”），奖项出处为戛纳主竞赛单元评审团而非其他单元。 报道中给出的完整获奖名单里，将《狂野时代》列在戛纳主竞赛单元奖项下，奖名即“特别奖”，与claim表述“获戛纳电影节主竞赛单元特别奖”一致，未发现与其他影片或其他单元混淆的情况。",
+    "evidence_sources": [
+      {
+        "content": "华策出品电影《狂野时代》获戛纳电影节主竞赛单元评审团特别奖！（报道第78届戛纳电影节，《狂野时代》获主竞赛单元评审团特别奖）",
+        "url": "https://www.huacemedia.com/mobile/index.php/news/info/1054.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》获戛纳主竞赛单元特别奖（新浪财经报道，第78届戛纳，《狂野时代》获主竞赛单元特别奖，并说明为评审团特设奖项）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-05-27/doc-inexxywm7258662.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "上海出品传喜讯！毕赣《狂野时代》获戛纳电影节主竞赛单元特别奖（列出主竞赛单元获奖名单，其中“特别奖：《狂野时代》 毕赣”）",
+        "url": "https://news.qq.com/rain/a/20250525A01CXX00",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《狂野时代》在第78届戛纳电影节上获得了主竞赛单元特别奖（评审团特别奖）。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第37界大众电影百花奖最佳男主角评审中，刘德华共获得21票位居第二名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家关于第37届大众电影百花奖评选结果的报道都给出了最佳男主角最终现场投票的具体票数分布：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票。 在这组票数中，刘德华以21票排在朱一龙之后，票数第二高，因此“刘德华共获得21票位居第二名”的说法与公开报道完全一致。",
+    "evidence_sources": [
+      {
+        "content": "朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（文中列出最佳男主角现场投票结果：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票）",
+        "url": "https://www.163.com/dy/article/J91H3TS70517WCAS.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（同样给出最佳男主角投票明细，显示刘德华获21票，位列第二）",
+        "url": "https://news.qq.com/rain/a/20240808A00BUU00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（另一媒体转载/类似报道，列出相同票数分布：刘德华21票，第二名）",
+        "url": "https://www.yeeyi.com/news/details/2429898/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第37届大众电影百花奖最佳男主角评审中，刘德华共获得21票，票数位居第二名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第37界大众电影百花奖最佳男主角评审中，易烊千玺共获得2票位居第五名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多家报道给出第37届大众电影百花奖最佳男主角现场投票的具体票数：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票。 在这5位候选人中，易烊千玺的2票为最低票数，因此在最佳男主角评审结果中确实排在第五名，与claim完全一致。",
+    "evidence_sources": [
+      {
+        "content": "朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（列出最佳男主角现场投票结果：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票）",
+        "url": "https://www.163.com/dy/article/J91H3TS70517WCAS.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（给出同样的票数分布并强调“易烊千玺仅2票”）",
+        "url": "https://news.qq.com/rain/a/20240808A00BUU00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "朱一龙影帝含金量被质疑？王俊凯3票易烊千玺2票（讨论百花奖投票，并提到“王俊凯3票、易烊千玺2票”的结果）",
+        "url": "https://view.inews.qq.com/a/20240805A096EJ00",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第37届大众电影百花奖最佳男主角评审中，易烊千玺共获得2票，票数位居第五名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第36届大众电影百花奖最佳男配角中，侯勇凭借《守岛人》入围。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。新华社发布的第36届大众电影百花奖提名名单中明确写明，最佳男配角提名包括侯勇、刘昊然、田雨、易烊千玺、朱亚文，侯勇是凭借电影《守岛人》中王长杰一角入围最佳男配角。 随后关于颁奖结果的报道也一再强调，侯勇凭借《守岛人》获得第36届大众电影百花奖最佳男配角奖，说明其确实先以该片身份进入最佳男配角提名名单。",
+    "evidence_sources": [
+      {
+        "content": "第36届大众电影百花奖提名名单公布（新华社：最佳男配角提名包括侯勇、刘昊然、田雨、易烊千玺、朱亚文）",
+        "url": "http://www.news.cn/2022-07/20/c_1128848698.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "第36届大众电影百花奖提名名单公布 - 新华社客户端（同样列出最佳男配角提名中包含侯勇《守岛人》）",
+        "url": "https://xhpfmapi.xinhuaxmt.com/vh512/share/10966952",
+        "credibility": "High"
+      },
+      {
+        "content": "第36届大众电影百花奖 - 维基百科（显示Best Supporting Actor提名及获奖者中有Hou Yong – Island Keeper）",
+        "url": "https://zh.wikipedia.org/zh-hans/%E7%AC%AC36%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第36届大众电影百花奖最佳男配角奖项中，侯勇凭借《守岛人》获得提名并最终获奖。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《ALL HER FAULT》中，Carrie的死是意外。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，多篇剧情解析与结局解读明确描述，Carrie（本名 Josephine “Josie” Murphy）在结局中被 Peter 在争夺枪支的肢体冲突中射杀，Peter事后声称是自卫或走火，但叙事与他阻止证据曝光的动机强烈暗示这是带有主观意图的杀人行为，而非单纯“意外死亡”。 报道普遍将她的死归因于Peter为掩盖真相、阻止她揭露当年车祸与换婴真相，因此将Carrie的死简单描述为“意外”与主流情节解读不符。",
+    "evidence_sources": [
+      {
+        "content": "All Her Fault: Every Mystery Explained (and One Left Unsolved)（说明Carrie闯入Irvine家试图揭露Peter，被Peter在争夺枪支中射杀，并指出剧集暗示他是有意让她闭嘴）",
+        "url": "https://www.peacocktv.com/blog/all-her-fault-every-mystery-explained",
+        "credibility": "Medium"
+      },
+      {
+        "content": "All Her Fault ending explained | Who kidnapped Milo?（描述Peter将枪转向惊恐的Carrie并将其射杀，之后试图把事件包装成“意外走火/自卫”）",
+        "url": "https://www.radiotimes.com/tv/drama/all-her-fault-ending-explained/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美剧《ALL HER FAULT》中，Carrie在结局里被Peter在争夺枪支的过程中射杀，剧中多处情节暗示这是Peter为掩盖真相而故意实施的杀人行为，而非单纯的意外身亡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《狂野时代》中，李庚希饰演的角色是永生的人类。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，影片整体世界观设定为“人类已经实现永生，但代价是不再做梦，仍执着做梦的被称为‘迷魂者’”，永生设定指的是这个未来世界里的人类整体状态，而非特指由李庚希饰演的某个单独角色。 多篇影评与解读都将李庚希在第五章节中明确称为“吸血鬼少女”或“吸血鬼黑帮首领手下的吸血鬼情人”，并未将其设定为“永生人类”这一独立概念，而是作为吸血鬼意象出现。 因此，说“李庚希饰演的角色是永生的人类”混淆了整体世界观中“人类永生”的宏观设定与具体角色（吸血鬼少女）的身份，属于事实描述错误。",
+    "evidence_sources": [
+      {
+        "content": "《狂野时代》的文青病，易烊千玺也遭不住（介绍影片设定为‘在未来，人类已经实现了永生，但代价是不再做梦’，并指出第五故事中李庚希饰演的是吸血鬼少女）",
+        "url": "http://www.zgtmt.com/?p=76586",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》的文青病，易烊千玺也遭不住 - 澎湃新闻（点明“故事五代表触觉”，迷魂者与李庚希饰演的吸血鬼少女相遇）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32034134",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》看不懂？看这一篇就够了！（剧情分章解析，第五章节中写明迷魂者化身少年阿波罗，遇到李庚希饰演的神秘少女邰肇玫，其真实身份是吸血鬼）",
+        "url": "https://www.163.com/dy/article/KF23BOTS051791LB.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《狂野时代》中，李庚希饰演的是吸血鬼少女邰肇玫，故事发生在一个“人类已经实现永生但失去做梦能力”的世界观下，但片中并未将她单独设定为“永生的人类”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《瞬息全宇宙》中，Evelyn最终接受了自己女儿的男友。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "错误，影片中乔伊（Joy）是女同性恋，她在片中一直试图让母亲Evelyn接受自己的女友Becky，而不是“男友”。 结局时，Evelyn在与乔伊和解后，终于当面向外公介绍Becky是乔伊的“girlfriend/女朋友”，影评与报道都将这一幕视为她接受女儿及其女友身份的关键时刻，因此原claim将Becky称为“男友”属于性别与关系事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Everything (Queer) Everywhere All At Once（详细分析Evelyn如何从把Becky介绍成“好朋友”到结局时改口介绍为Joy的girlfriend，完成对女儿及其女友的接纳）",
+        "url": "https://scalawagmagazine.org/2023/03/everything-everywhere-all-at-once-queer/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Everything Everywhere All at Once - Wikipedia（剧情中明确写到Joy带女友Becky回家见父亲，Evelyn一开始否认这段女同关系，结尾时接受并向外公说明Becky是Joy的girlfriend）",
+        "url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《瞬息全宇宙》中，Evelyn最终接受了自己女儿以及她的女友Becky，并在外公面前以“女朋友”的身份正式介绍Becky。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "舒淇凭借电影《女孩》获得了第30姐釜山国际电影节主竞赛单元的最佳影片。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，公开信息显示，舒淇执导的电影《女孩》（Girl）在第30届釜山国际电影节“Busan Award”主竞赛单元中获得的是“最佳导演奖”（Best Director Award），获奖者为导演舒淇本人，而“最佳影片奖”（Best Film Award / Best Film Award in Competition）则授予了张律导演的中国影片《落暮之光》（Gloaming in Luomu），《女孩》在该单元仅为最佳影片提名而非获奖。 因此，“《女孩》获得主竞赛单元最佳影片”这一说法与实际获奖结果不符。",
+    "evidence_sources": [
+      {
+        "content": "30th Busan International Film Festival - Wikipedia（列出Busan Award官方竞赛单元奖项：最佳影片为《Gloaming in Luomu》，最佳导演为舒淇《Girl》）",
+        "url": "https://en.wikipedia.org/wiki/30th_Busan_International_Film_Festival",
+        "credibility": "High"
+      },
+      {
+        "content": "Girl (2025 film) - Wikipedia（说明《Girl》在第30届釜山电影节Busan Award单元获最佳导演奖，最佳影片奖为提名状态）",
+        "url": "https://en.wikipedia.org/wiki/Girl_(2025_film)",
+        "credibility": "High"
+      },
+      {
+        "content": "The 30th Busan International Film Festival announces its 2025 award winners（官方获奖名单报道：最佳影片为《Gloaming in Luomu》，最佳导演为舒淇《Girl》）",
+        "url": "https://senalnews.com/en/events/the-30th-busan-international-film-festival-announces-its-2025-award-winners",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "舒淇凭借导演处女作《女孩》在第30届釜山国际电影节主竞赛单元（Busan Award）获得了最佳导演奖，而该单元的最佳影片奖由张律执导的《落暮之光》获得。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《老友记》中，Ross离过三次婚。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多份角色介绍与剧情梳理都明确写到，Ross Geller在《老友记》中一共结过三次婚，并且三次都以离婚告终，三段婚姻对象分别是 Carol、Emily 和 Rachel，这一设定也是剧中的反复笑点。 因此，“Ross离过3次婚”这一说法与官方与权威百科等资料一致，可判定为正确。",
+    "evidence_sources": [
+      {
+        "content": "Ross Geller - Wikipedia（角色条目指出：Ross结过三次婚并离过三次婚，是剧中的反复笑点之一）",
+        "url": "https://en.wikipedia.org/wiki/Ross_Geller",
+        "credibility": "High"
+      },
+      {
+        "content": "How many times did Ross get married on Friends? - Soap Central（说明Ross在《老友记》中有三段婚姻，并且三次婚姻都以离婚收场）",
+        "url": "https://www.soapcentral.com/shows/how-many-times-did-ross-get-married-on-friends",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ross Geller | Friends Central | Fandom（粉丝百科概述Ross有三位前妻：Carol、Emily 与 Rachel，指明他结婚三次并最终全部离婚）",
+        "url": "https://friends.fandom.com/wiki/Ross_Geller",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美剧《老友记》中，Ross一共离过3次婚。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《巴黎夏日》是在2024巴黎奥运会实景拍摄的。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。公开报道与影讯介绍均指出，法国电影《巴黎夏日》（That Summer in Paris / Paris Summer）是在2024年巴黎奥运会期间，于巴黎及相关场景进行实景拍摄，创作团队在真实奥运人群、粉丝区以及城市环境中机动取景，而非搭建封闭片场。 影片故事情节也明确设定在2024巴黎奥运会举行期间，主角赴巴黎观看游泳比赛，画面中大量使用真实奥运场景和观众环境，符合“在2024巴黎奥运会实景拍摄”的描述。",
+    "evidence_sources": [
+      {
+        "content": "Filming during the Olympics: “That Summer In Paris”, a successful endeavor in Paris Region（介绍影片《That Summer In Paris》在2024巴黎奥运会期间于巴黎地区实景拍摄，借用真实赛事氛围）",
+        "url": "http://www.filmparisregion.com/en/news/filming-during-olympics-summer-paris-successful-endeavor-paris-region",
+        "credibility": "High"
+      },
+      {
+        "content": "法国冷门治愈系佳片《巴黎夏日》（介绍影片故事发生并拍摄于2024年巴黎奥运会期间，在真实奥运现场和城市空间中借景取材）",
+        "url": "https://www.163.com/dy/article/K8NA5B220556CHBF.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《巴黎夏日》是在2024年巴黎奥运会期间于巴黎实景拍摄，使用了大量真实奥运赛事和城市环境作为取景背景。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《F1:狂飙飞车》是借用真实的F1赛车拍摄的。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，权威报道与技术解析一致说明，这部被中文译作《F1：狂飙飞车》的电影《F1》为拍摄比赛场面，购买并改装了多辆真实的 F2 赛车（Dallara F2 2018 底盘与动力），由梅赛德斯 AMG F1 等团队为其设计符合 F1 外观的车身和空气动力学套件，用来“伪装成”F1 赛车并承载大量摄像与记录设备。 影片确实在真实 F1 分站周末和真赛道上拍摄，并融合真实 F1 赛事画面与 CG，但主创明确强调用于拍摄的赛车并非现役 F1 赛车，而是经过深度改装的 F2 赛车和少量数字化处理过的真 F1 画面，因此“电影是借用真实的F1赛车拍摄的”在车辆层面属于事实错误表述。",
+    "evidence_sources": [
+      {
+        "content": "How the",
+        "url": "https://www.formula1.com/en/latest/article/how-the-f1-movie-filmed-its-thrilling-car-sequences.2le7vDxZDbdeZdGyhfGLHZ",
+        "credibility": "High"
+      },
+      {
+        "content": "Could F2 drivers recognise the F2 car in F1: The Movie?（F2 车手与记者说明：片中所谓“F1 车”其实是经过梅赛德斯和车队改装的 F2 赛车，用来在真实大奖赛周末进行拍摄）",
+        "url": "https://feederseries.net/2025/06/27/could-f2-drivers-recognise-the-f2-car-in-f1-the-movie/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "All you need to know about APXGP cars in Brad Pitt",
+        "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/all-you-need-to-know-about-apxgp-cars-in-brad-pitts-f1-feature-film",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《F1：狂飙飞车》（《F1》）是在真实 F1 分站周末与真实赛道环境中拍摄，使用经过梅赛德斯等团队改装的真实 F2 赛车伪装成 F1 赛车，并结合真实 F1 比赛画面和视觉特效完成，而不是直接借用现役 F1 赛车完成全程拍摄。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《道格拉斯被取消了》中凯伦·吉兰饰演的是一个主持人。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，《Douglas Is Cancelled》（《道格拉斯被取消了》）是英国 ITV 出品的英剧，不是美剧，因此将其称为“美剧”在地域与制作国家属性上是错误的。 虽然凯伦·吉兰在剧中确实饰演一位电视新闻节目的联合主持人，但该 claim 把剧集性质说成“美剧”，整体表述包含事实错误，不能判定为完全正确。",
+    "evidence_sources": [
+      {
+        "content": "Douglas Is Cancelled - Wikipedia（说明本剧为 2024 年英国 ITV 播出的四集电视迷你剧，类型为英国职场/媒体题材剧集，而非美国剧）",
+        "url": "https://en.wikipedia.org/wiki/Douglas_Is_Cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "Everything you need to know about Douglas is Cancelled（RTS 文章将其明确定义为 ITV 的英国剧集，讲述英国电视新闻节目主持人的“取消”风波）",
+        "url": "https://rts.org.uk/article/everything-you-need-know-about-douglas-cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "一句玩笑最终身败名裂，高分英剧审视“取消文化”（中文媒体明确称《道格拉斯被取消了》为“英剧”，强调其为英国出品的剧集）",
+        "url": "https://www.163.com/dy/article/JSSNBAAH0519DDQ2.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "英剧《道格拉斯被取消了》中凯伦·吉兰饰演的是一个主持人。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《唐顿庄园》是由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，《唐顿庄园》（Downton Abbey）是英国 ITV 播出的英剧，而非“美剧”，在国别属性上将其称作“美剧”属于明显的地理/地区错误。关于导演，剧集由多位导演共同执导，Brian Percival 和 James Strong 都确实担任过部分集数的导演之一，但并非“只有他们两人联合执导整部剧”，而是 14 位导演共同参与，因此把导演简单说成“由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导”也是对导演阵容的过度简化和不准确表述。",
+    "evidence_sources": [
+      {
+        "content": "Downton Abbey - Wikipedia（说明《Downton Abbey》是一部由 Julian Fellowes 创作、Carnival Films 与 Masterpiece 共同制作的英国历史年代剧，在 ITV 首播，强调其为 British historical drama television series 而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Downton_Abbey",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Downton Abbey (TV Series 2010–2015) – Full cast & crew（IMDB 的完整制作名单中，列出本剧共有多位导演参与：Brian Percival、David Evans、Philip John、Andy Goddard、James Strong 等，Brian Percival 与 James Strong 只是其中一部分集数的导演，并非唯一“联合执导”者。）",
+        "url": "https://www.imdb.com/title/tt1606375/fullcredits/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "唐顿庄园 – 维基百科（中文词条指出，《唐顿庄园》是英国独立电视台 ITV 播出的英国电视剧，并在“导演”一节中列出 Brian Percival、Ben Bolt、Brian Kelly、Andy Goddard、James Strong 等多位导演，而非仅有 Percyval 与 Strong 二人。）",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%94%90%E9%A1%BF%E5%BA%84%E5%9B%AD",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《唐顿庄园》是一部英国 ITV 播出的英国历史剧情电视剧，由 Brian Percival、James Strong 等多位导演分别执导不同集数。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《黑镜》中饰演艾比的是杰西卡·布朗·芬德利。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，《黑镜》（Black Mirror）是一部由查理·布鲁克创作、最初在英国 Channel 4 播出的英国科幻选集剧，而不是美剧，将其称为“美剧”在国别属性上存在地理错误。在剧集本身层面，“艾比”（Abi Khan）这一角色确实出自第一季第二集《一千五百万积分》（Fifteen Million Merits），由杰西卡·布朗·芬德利（Jessica Brown Findlay）饰演，这部分是正确的；但由于 claim 将整部作品错误归类为“美剧”，作为一个整体表述仍应判为错误。",
+    "evidence_sources": [
+      {
+        "content": "Black Mirror - Wikipedia（说明《Black Mirror》是一部 British anthology television series，由 Charlie Brooker 创作，最初在英国 Channel 4 播出，之后被 Netflix 接手制作和发行，因此其本质上是英剧而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Black_Mirror",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Fifteen Million Merits - Wikipedia（该集剧情介绍中写明，Bing 在洗手间听到 Abi Khan (Jessica Brown Findlay) 唱歌，并说服她参加选秀节目 Hot Shot，由此可见 Abi 一角由 Jessica Brown Findlay 饰演。）",
+        "url": "https://en.wikipedia.org/wiki/Fifteen_Million_Merits",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jessica Brown Findlay as Abi – Black Mirror (IMDB 人物页的角色条目，直接标注她在《Black Mirror》剧集的 “Fifteen Million Merits” 一集中饰演 Abi 一角。)",
+        "url": "https://www.imdb.com/title/tt2089049/characters/nm3726887/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "英剧《黑镜》中，第一季第二集《一千五百万积分》的角色艾比（Abi Khan）由杰西卡·布朗·芬德利饰演。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "日剧《鱿鱼游戏2》获得第82届美国电影电视金球奖剧情类最佳剧集提名。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "《鱿鱼游戏》是一部由韩国导演黄东赫创作、Netflix 出品的韩国电视剧（K-drama），而非日剧，将其称为“日剧”在作品国别属性上存在明显地理错误。同时，多家媒体与金球奖官方名单均确认，《Squid Game》第二季（通常宣传为 “Squid Game Season 2” 或 “Squid Game 2”）在第 82 届美国电影电视金球奖中获得了“最佳电视连续剧 – 剧情类”（Best Television Series – Drama）的提名，这一部分内容是正确的，因此 claim 混合了“国别错误”和“奖项信息正确”。",
+    "evidence_sources": [
+      {
+        "content": "Squid Game season 2 – Wikipedia（说明《Squid Game》第二季是 South Korean dystopian survival thriller television series 的第二季，条目中多次强调该剧为韩国电视剧，由韩国制作团队创作。）",
+        "url": "https://en.wikipedia.org/wiki/Squid_Game_season_2",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NOMINATIONS ANNOUNCED FOR 82nd ANNUAL GOLDEN GLOBES – Golden Globes 官方网站（在“BEST TELEVISION SERIES – DRAMA”提名名单中列出《SQUID GAME (NETFLIX)》，表明该剧获得第 82 届金球奖剧情类最佳剧集提名。）",
+        "url": "https://goldenglobes.com/articles/nominations-announced-for-82nd-annual-golden-globes/",
+        "credibility": "High"
+      },
+      {
+        "content": "Netflix",
+        "url": "https://cnalifestyle.channelnewsasia.com/entertainment/squid-game-season-two-2025-golden-globes-nomination-414996",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "韩国剧《鱿鱼游戏》第二季（Squid Game Season 2）获得了第 82 届美国电影电视金球奖“最佳电视连续剧 – 剧情类”提名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年F1卡塔尔大奖赛正赛排位赛的颁奖嘉宾是德约科维奇。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，现有报道表明，德约科维奇出现在2025年F1卡塔尔大奖赛周末，并在冲刺赛（Sprint Race）的颁奖仪式上为前三名车手颁发奖杯，而非正赛或排位赛的颁奖嘉宾。 报道和赛事信息中只提到他为冲刺赛获胜者皮亚斯特里等人颁奖，并未将其列为正赛或排位赛的官方颁奖嘉宾，因此“正赛排位赛的颁奖嘉宾是德约科维奇”这一说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Djokovic serves F1 drivers Piastri, Russell & Norris trophies in Qatar（ATP 官方站：德约科维奇在卡塔尔大奖赛冲刺赛颁奖典礼上为皮亚斯特里、拉塞尔和诺里斯颁奖）",
+        "url": "https://www.atptour.com/en/news/djokovic-november-2025-f1-sprint-race-qatar",
+        "credibility": "High"
+      },
+      {
+        "content": "Qatar Grand Prix: Novak Djokovic lights up podium as Oscar Piastri wins F1 Sprint（报道称他为卡塔尔大奖赛冲刺赛冠军皮亚斯特里及其他登台车手颁奖，未提其为正赛/排位赛颁奖嘉宾）",
+        "url": "https://timesofindia.indiatimes.com/sports/formula-one/news/qatar-grand-prix-novak-djokovic-lights-up-podium-as-oscar-piastri-wins-f1-sprint",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Formula 1: Tennis Star Novak Djokovic Presents Sprint Race Awards As Piastri, Russell & Norris Shine In Qatar（说明德约科维奇在卡塔尔站为冲刺赛前三名颁奖，作为冲刺赛颁奖嘉宾出席）",
+        "url": "https://www.freepressjournal.in/sports/formula-1-tennis-star-novak-djokovic-presents-sprint-race-awards-as-piastri-russell-norris-shine-in-qatar",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1卡塔尔大奖赛中，德约科维奇作为嘉宾出现在周末活动，并在冲刺赛（Sprint Race）的颁奖仪式上为前三名车手颁发奖杯，但并不是正赛或排位赛的颁奖嘉宾。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯获得第二名。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，2025年F1拉斯维加斯大奖赛正赛中，兰多·诺里斯在赛道上以第二名身份冲线，但赛后技术检查发现其赛车底板磨损超过规定，与队友皮亚斯特里一起被FIA取消成绩，从最终正式成绩表中被剔除。 调整后的官方完赛排名中，乔治·拉塞尔被记为第二名，诺里斯则标注为DSQ（取消成绩），因此不能说“获得第二名”。",
+    "evidence_sources": [
+      {
+        "content": "2025 Las Vegas Grand Prix - Wikipedia（说明诺里斯原本以第二名完赛，但因赛后底板磨损不合规与皮亚斯特里一同被取消成绩，正式成绩中被记为DSQ）",
+        "url": "https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix",
+        "credibility": "High"
+      },
+      {
+        "content": "Las Vegas GP: McLaren",
+        "url": "https://www.skysports.com/f1/news/12040/13474307/las-vegas-gp-mclarens-lando-norris-and-oscar-piastri-disqualified-in-big-moment-for-title-race",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025 F1 Las Vegas Grand Prix - Race Results after disqualification（赛后正式成绩表中，第二名为乔治·拉塞尔，诺里斯被标注为DSQ，不在最终名次内）",
+        "url": "https://www.the-race.com/formula-1/f1-2025-las-vegas-grand-prix-race-result/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1拉斯维加斯大奖赛中，兰多·诺里斯在比赛中以第二名冲线，但因赛后技术检查底板磨损不合规被取消成绩，最终官方正式成绩中没有被记为第二名。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯因底板厚度为8.9mm被取消成绩。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，FIA 技术通告与多家媒体均指出，兰多·诺里斯在2025年F1拉斯维加斯大奖赛中被取消成绩的原因，是其赛车底部滑块/木板（skid block / plank）磨损导致厚度低于规定位于 9mm 的最小限值。 具体测量数据显示，诺里斯赛车后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm，即在8.9mm左右，确实低于 9mm，因此“因为底板厚度约为 8.9mm 被取消成绩”的核心事实是成立的，但原始技术报告给出的是两个具体数值（8.88mm 与 8.93mm），而非单一精确值“8.9mm”。 由于 claim 将精确技术数据概括为“底板厚度为 8.9mm”这一单值描述，在严格意义上并不完全准确，故整体判定为“错误”（或至少不精确）。",
+    "evidence_sources": [
+      {
+        "content": "Why were Lando Norris and Oscar Piastri disqualified from the Las Vegas GP?（援引仲裁书：诺里斯后部滑块测量为 RHS Front 8.88mm、RHS Rear 8.93mm，低于规定位于 9mm 的最小厚度，因而被取消成绩）",
+        "url": "https://www.independent.co.uk/f1/lando-norris-oscar-piastri-disqualified-why-f1-las-vegas-gp-b2870700.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Lando Norris & Oscar Piastri disqualified, Max Verstappen wins - BBC live coverage（技术说明：Car 4 后部滑块测得厚度为 8.88mm 和 8.93mm，低于 9mm 的法规限值，因此构成违规）",
+        "url": "https://www.bbc.co.uk/sport/formula1/live/c5yk91ypz5lt",
+        "credibility": "High"
+      },
+      {
+        "content": "What did McLaren do wrong to get Oscar Piastri and Lando Norris disqualified?（解释木板原始厚度 10mm，允许磨损 1mm；诺里斯的木板最严重处磨损 1.12mm，导致厚度约 8.88mm，低于 9mm 最小要求）",
+        "url": "https://www.abc.net.au/news/2025-11-24/what-did-mclaren-do-wrong-at-the-las-vegas-f1-grand-prix/106043812",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1拉斯维加斯大奖赛中，兰多·诺里斯因赛车底部滑块/木板磨损过度，导致测得厚度约为 8.88mm 和 8.93mm，低于规定位于 9mm 的最小厚度，而被取消成绩。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯因后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm被取消成绩。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，FIA 技术代表与多家权威媒体给出的技术报告明确写明，兰多·诺里斯在 2025 年 F1 拉斯维加斯大奖赛后技术检查中，其赛车后部右侧滑块（rear skid / skid block）厚度测量结果为前端约 8.88mm、后端约 8.93mm，低于规定位于 9mm 的最小允许厚度，因此违反技术法规第 3.5.9(e) 条，被判定取消比赛成绩。 这些测量数值与 claim 中“后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm被取消成绩”的描述一致，故该 claim 可判定为正确。",
+    "evidence_sources": [
+      {
+        "content": "Official: Norris and Piastri disqualified from Las Vegas Grand Prix（官方技术说明：诺里斯赛车后部右侧滑块厚度测得为 RHS Front 8.88mm、RHS Rear 8.93mm，低于规定最小 9mm，因此被取消成绩）",
+        "url": "https://www.racefans.net/2025/11/23/official-norris-and-piastri-disqualified-from-las-vegas-grand-prix/",
+        "credibility": "High"
+      },
+      {
+        "content": "McLaren stripped of Vegas results after skid-block breach（报道指出：诺里斯赛车读数为右前 8.88mm、右后 8.93mm，未达到 9mm 最小厚度要求，导致迈凯伦在拉斯维加斯站双双被取消成绩）",
+        "url": "https://www.grandprix.com/news/mclaren-stripped-of-vegas-results-after-skid-block-breach.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "FIA explain reason for Lando Norris and Oscar Piastri Las Vegas disqualifications（FIA 解释：诺里斯右侧滑块前端为 8.88mm、后端为 8.93mm，均低于 9mm 最低值，因此构成违规并被取消成绩）",
+        "url": "https://racingnews365.com/fia-explain-reason-for-lando-norris-and-oscar-piastri-las-vegas-disqualifications",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年 F1 拉斯维加斯大奖赛中，兰多·诺里斯因赛车后部右侧前端和后端滑块厚度分别约为 8.88mm 和 8.93mm、低于规定的最小 9mm 而被取消成绩。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "电影《疯狂动物城》中“夏奇羊”的原型歌手昵称是“狼姐”。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。“夏奇羊”这一角色的原型是歌手夏奇拉，而在中文语境中，夏奇拉因为代表作《She Wolf》（中文常译“女狼出没”或“女狼现身”）广泛被粉丝和媒体昵称为“狼姐”。 多个中文报道、视频标题与文案中直接使用“狼姐Shakira夏奇拉”“狼姐真的变夏奇羊了”等表述，将“狼姐”作为夏奇拉的固定昵称，并用来指代她在《疯狂动物城》中配音的“夏奇羊”角色，因此说“原型歌手昵称是‘狼姐’”与实际用法一致。",
+    "evidence_sources": [
+      {
+        "content": "夏奇拉- 维基百科（介绍夏奇拉的生平与专辑，其中提到英文专辑《She Wolf》（女狼出没/女狼现身），这一作品是其“狼”形象与相关昵称的重要来源）",
+        "url": "https://zh.wikipedia.org/zh-hk/%E5%A4%8F%E5%A5%87%E6%8B%89",
+        "credibility": "High"
+      },
+      {
+        "content": "听《疯狂动物城》的电影原声：跨种族的CP和呆萌的树懒！（文章中使用“狼姐Shakira(夏奇拉)”来称呼电影《疯狂动物城》主题曲演唱者，说明“狼姐”是夏奇拉在华语圈的常用昵称）",
+        "url": "https://www.toutiao.com/article/6261841024311132417/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "原来狼姐Shakira夏奇拉在疯狂动物城配音的夏奇羊在台湾叫“志羚姐姐”！（标题直接将“狼姐Shakira夏奇拉”和“夏奇羊”对应，体现出“狼姐”是这位原型歌手在中文语境下的昵称）",
+        "url": "https://k.sina.cn/article_1258256457_m4aff784903301mv4k.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城》中“夏奇羊”的原型是歌手夏奇拉，而这位原型歌手在中文语境中的常见昵称就是“狼姐”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《疯狂动物城2》主题曲抄袭了《waka waka》。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，官方曲目与版权信息显示，《疯狂动物城2》主题曲名为《Zoo》，署名词曲作者为 Shakira、Ed Sheeran 和 Blake Slatkin 等，并未标注为对《Waka Waka》的改编、采样或基于其创作的作品。 媒体和 Shakira 本人只是形容《Zoo》在节奏和气氛上让人联想到《Waka Waka》，称之为“Waka Waka 2.0 气质”“有点像 Waka Waka 的感觉”，但这属于风格类比，而非正式意义上的“改编自《Waka Waka》”，因此将主题曲说成“改编自《Waka Waka》”是事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Original Song",
+        "url": "https://www.disneystudios.com/newsdetail/original-song-zoo-performed-by-shakira-from-walt-disney-animation-studios-zootopia-2",
+        "credibility": "High"
+      },
+      {
+        "content": "Shakira",
+        "url": "https://filmmusicreporter.com/2025/10/10/shakiras-original-song-zoo-from-zootopia-2-released/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Shakira says her",
+        "url": "https://www.youtube.com/watch?v=z_gxJKQ5Ovo",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城2》的主题曲《Zoo》是一首由夏奇拉与 Ed Sheeran、Blake Slatkin 等共同创作的原创歌曲，风格上带有让人联想到《Waka Waka》的节奏和氛围，但并非改编自《Waka Waka》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《疯狂动物城》原计划以尼克的视角展开。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，主创团队访谈与制作纪录资料明确说明，《疯狂动物城》在早期开发阶段的故事线原本是以狐狸尼克为主角、从他的视角展开，采用更偏黑暗的“带电项圈”设定；在初稿试映后，团队发现观众更容易代入兔子朱迪的外来者视角，才将主叙事改为以朱迪为主角、尼克为搭档。 中文幕后解读也直接指出，“原来最开始是以尼克视角来讲述的故事，原始的故事偏黑暗”，与该 claim 的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "《疯狂动物城》的疯狂点子是怎么想出来的（导演拜伦·霍华德等人回顾：影片原本的设定是以狐狸尼克为主角进行叙事，初稿试映后改为以朱迪视角展开）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_1438785",
+        "credibility": "High"
+      },
+      {
+        "content": "[疯狂动物城]纪录片:从设定润色到化解挑战（制作纪录文稿指出：故事原本是从尼克的身世和视角展开，团队后来意识到基调过于阴郁，于是调整为以朱迪为主角）",
+        "url": "http://www.gamelook.com.cn/2016/04/249653/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "主创团队讲《疯狂动物城》创作过程_原来最开始是以尼克视角来讲述的故事（视频/稿件标题即点明：最初版本从尼克视角讲述，且世界观更黑暗）",
+        "url": "https://www.bilibili.com/video/BV1Ub411k7up",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城》在早期开发阶段的故事确实原计划以狐狸尼克为主角、从尼克的视角展开，后来在试映反馈后才改为以兔子朱迪的视角作为最终成片的叙事主线。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《丑陋的继姐》故事原型是灰姑娘。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家权威和专业影评都明确将《丑陋的继姐》（The Ugly Stepsister）界定为对经典童话《灰姑娘》的“暗黑重述”“身体恐怖版改写”，影片故事发生在熟悉的王子选妃、舞会与水晶鞋框架之内，只是将叙事视角转移到“继姐”，并用极端身体改造反讽“灰姑娘”叙事。 海报、预告及中文报道也直接写明该片“改编自经典童话《灰姑娘》”“用灰姑娘继姐的角度重新展开耳熟能详的童话故事”，因此可以认定其故事原型确实是《灰姑娘》。",
+    "evidence_sources": [
+      {
+        "content": "《丑陋的继姐》：灰姑娘是“名媛班”培养出来的（明确指出影片是从继姐视角解构和改写童话《灰姑娘》，属于反童话式再创作）",
+        "url": "https://www.huxiu.com/article/4483348.html",
+        "credibility": "High"
+      },
+      {
+        "content": "The Ugly Stepsister, body horror retelling of Cinderella, wins Sitges",
+        "url": "https://www.catalannews.com/culture/item/ugly-stepsister-sitges-festival-best-film-18-october-2025",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“The Ugly Stepsister”: A Cinderella Body Horror Story That Will Leave a Crowd in Shambles（圣丹斯官方博客称之为“a Cinderella body horror story”，强调其源自灰姑娘童话的扭曲重述）",
+        "url": "https://www.sundance.org/blogs/the-ugly-stepsister-a-cinderella-body-horror-story-that-will-leave-a-crowd-in-shambles/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《丑陋的继姐》是一部基于《灰姑娘》童话故事改编的作品，以灰姑娘的继姐视角对原始“灰姑娘”故事进行暗黑、身体恐怖风格的重述与解构，其故事原型即经典童话《灰姑娘》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "音乐剧《伊丽莎白》被粉丝称为“一粒沙”。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。华语音乐剧圈的“黑话/梗词典”与入坑指南中，明确把德奥音乐剧《伊丽莎白》（Elisabeth）列为常见别称“一粒沙”，这是基于“伊丽莎白”中文谐音而来的粉丝昵称。 B站等科普视频和粉丝文章里也直接写出“《伊丽莎白》（俗称：一粒沙）”，说明“一粒沙”已经成为该剧在粉丝群体中的固定称呼之一，因此该说法成立。",
+    "evidence_sources": [
+      {
+        "content": "【科普】音乐剧圈黑话小词典（内附试卷一张）（条目中写明：一粒沙：指音乐剧《伊丽莎白》）",
+        "url": "https://m.10100.com/article/26496410",
+        "credibility": "Medium"
+      },
+      {
+        "content": "你爱它有多深？看你卷子得几分！（题目直接问“一粒沙是哪部剧的代称？”，标准答案给出《伊丽莎白（Elisabeth）》）",
+        "url": "https://www.sohu.com/a/378165732_682531",
+        "credibility": "Medium"
+      },
+      {
+        "content": "菜鸟版音乐剧入坑指南（在音乐剧圈常见别名中，把《伊丽莎白》列为谐音别称“一粒沙”）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_4531040",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "音乐剧《伊丽莎白》在华语音乐剧粉丝圈里常被昵称为“一粒沙”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2024年“法扎”的中国巡演中莫扎特的a卡为yanis。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2024 年法语音乐剧《摇滚莫扎特》（“法扎”）中国巡演的公开卡司信息显示，莫扎特一角的原版主演是 Mikelangelo Loconte（粉丝常称“老航班”），他是本轮巡演中被官方与媒体视为主主演卡（即通常意义上的 A 卡）。 而 23 岁的法国演员 Yanis Richard 在报道与官方介绍中被描述为“替补/轮换莫扎特”（alternate Mozart），即通常粉丝口中的 B 卡或备用主演，而非 A 卡，因此说“莫扎特的 a 卡为 yanis”与实际卡司定位不符。",
+    "evidence_sources": [
+      {
+        "content": "Mozart rocks China（报道 2024 中国巡演阵容：原版莫扎特主演 Mikelangelo Loconte 领衔回归，中国观众也将看到年轻的替补莫扎特 Yanis Richard）",
+        "url": "https://www.chinadaily.com.cn/a/202405/22/WS664d3110a31082fc043c8633.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Mozart rocks China - China Daily HK（英文报道同样区分“original Mozart star Mikelangelo Loconte”和“alternate Mozart Yanis Richard”，表明 Yanis 为替补/轮换，而非主主演卡）",
+        "url": "https://www.chinadailyhk.com/hk/article/584043",
+        "credibility": "High"
+      },
+      {
+        "content": "我想向全世界安利，我的白月光音乐剧《法扎》（粉丝向卡司梳理：把 Mikelangelo 列为莫扎特 A 卡，将 Yanis 标为莫扎特 B 卡/替补卡，配对为典型 BA 卡组合）",
+        "url": "https://news.fanxingxijucun.cn/detail/12347.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2024 年“法扎”的中国巡演中，莫扎特一角的 A 卡是原版主演 Mikelangelo Loconte，而 Yanis Richard 作为莫扎特的替补/轮换卡司（通常被粉丝视为 B 卡）。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2023 年百老汇复排版《歌剧魅影》中，魅影一角的 a 卡为 Laird Mackintosh。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，权威和主流媒体资料一致表明，百老汇长期、以及 2021 复演后直到 2023 年终演阶段，《歌剧魅影》中 Phantom（魅影）一角的正式主演是 Ben Crawford，他被明确标注为该角色的 principal（主卡/首卡）。2023 年终演前，由于 Ben Crawford 生病缺席，包括 Laird Mackintosh 在内的多位演员轮流顶替，最终场（2023 年 4 月 16 日）的演出由 Laird Mackintosh 穿上面具担任最后一场的 Phantom，但报道均将其描述为“代替主卡 Ben Crawford 出演最终场”或“final performance Phantom”，而不是整个 2023 年复排期间的常驻 A 卡，因此将“2023 年百老汇复排版魅影一角的 a 卡”写成 Laird Mackintosh 不符合事实。",
+    "evidence_sources": [
+      {
+        "content": "Ben Crawford - Wikipedia（介绍 Ben Crawford 自 2018 年起担任百老汇《歌剧魅影》Phantom 角色的主演，并指出在 2021 年复演后继续担任该角色，是该剧在百老汇历史上的最后一任主卡 Phantom。）",
+        "url": "https://en.wikipedia.org/wiki/Ben_Crawford",
+        "credibility": "Medium"
+      },
+      {
+        "content": "‘The Phantom of the Opera’ announces full Broadway reopening cast（复演卡司公告中，明确写明 Returning principal cast members include Ben Crawford as The Phantom，将其标注为主卡；并未将 Laird Mackintosh 标为 Phantom principal。）",
+        "url": "https://www.newyorktheatreguide.com/theatre-news/news/ben-crawford-is-broadways-next-phantom-of-the-opera",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Laird Mackintosh will step into the title role at “Phantom of the Opera” final performance（报道指出，前剧组成员 Laird Mackintosh 将在 2023 年 4 月 16 日终演之夜饰演 Phantom，以顶替因病缺席的 principal Ben Crawford，强调其身份是最终场的代演而非整季主卡。）",
+        "url": "https://www.broadwaynews.com/laird-mackintosh-will-step-into-the-title-role-at-phantom-of-the-opera-final-performance/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2023 年百老汇终演阶段的《歌剧魅影》中，魅影一角的主卡（A 卡）是 Ben Crawford；在 2023 年 4 月 16 日的最终场演出中，因 Ben Crawford 生病缺席，Laird Mackintosh 代替他饰演了最后一场的 Phantom。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2022 年伦敦西区《悲惨世界》中，冉阿让角色的b卡为Jon Robyns。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，多家西区与剧场资讯来源明确指出，疫情后在伦敦 Sondheim Theatre 上演的《悲惨世界》中，Jon Robyns 担任的是冉阿让（Jean Valjean）的主演/主卡，报道用语为“led by Jon Robyns as Jean Valjean”“Jon Robyns as Jean Valjean”等，表明其是该角色的核心主角阵容，而非仅在少量场次登台的 B 卡或替补。各类新卡司公告与宣传中一再将 Jon Robyns 列为现有 principal cast（主要卡司）中的 Jean Valjean，而没有任何可靠来源将他标注为“B 卡”，因此把“冉阿让角色的 b 卡为 Jon Robyns”当作事实是对其卡位级别的颠倒，属于将主卡错误说成 B 卡的卡位信息错误。",
+    "evidence_sources": [
+      {
+        "content": "Les Misérables | 2022 West End trailer（预告片文案说明当前西区阵容由 Jon Robyns 领衔饰演 Jean Valjean，Bradley Jaden 饰 Javert 等，表述为“cast is currently led by Jon Robyns as Jean Valjean”，体现其主卡地位。）",
+        "url": "https://www.youtube.com/watch?v=NA5jRZ1baMM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "New West End cast for “Les Misérables” announced（卡司新闻指出，新阵容中“Continuing in the show will be Jon Robyns as Jean Valjean …”，将其作为持续留任的主要主演列出，而非替补或 B 卡。）",
+        "url": "https://www.whatsonstage.com/news/new-west-end-cast-for-les-miserables-announced_57191/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "West End’s Les Misérables Welcomes New Cast Members（Playbill 报道新卡司加入时写道“These actors join Jon Robyns as Jean Valjean …”，说明 Jon Robyns 已是既有主卡阵容中的 Jean Valjean，而非 B 卡。）",
+        "url": "https://playbill.com/article/west-ends-les-miserables-welcomes-new-cast-members-september-27",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2022 年伦敦西区《悲惨世界》中，冉阿让（Jean Valjean）角色的主卡/主演为 Jon Robyns，而非 B 卡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2021 年韩国版《摇滚学校》首尔轮演中，Dewey 的b卡为 Park Jisoo。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，公开资料清楚表明，Jake Sharp 在 2021–2022 年《School of Rock》UK & Ireland Tour 中担任 Dewey Finn 的主角/领衔主演，对应的是主卡而非替补或 B 卡。权威条目在“Principal roles and original cast”表格中，将 2021 年 UK and Ireland tour 一栏的 Dewey Finn 直接标为 Jake Sharp，且巡演新闻与剧院公告多次使用“lead the cast as Dewey Finn”“lead role of Dewey Finn”等措辞，没有任何来源将他标记为 B 卡，因此把“Dewey 的 b 卡为 Jake Sharp”写入 claim 属于把主卡错误记成 B 卡的卡位信息错误。",
+    "evidence_sources": [
+      {
+        "content": "School of Rock (musical) - Wikipedia（在“Principal roles and original cast”表中，2021 年 UK and Ireland tour 一栏的 Dewey Finn 一行直接写为 Jake Sharp，显示其为该巡演版本的主卡 Dewey Finn。）",
+        "url": "https://en.wikipedia.org/wiki/School_of_Rock_(musical)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "School of Rock Announces Full Cast - Ipswich Regent Theatre（剧院公告指出，Jake Sharp will lead the cast as Dewey Finn，并说明他此前在西区也饰演过该角色，明确其为本轮巡演的领衔主演，而非替补或 B 卡。）",
+        "url": "https://ipswichtheatres.co.uk/news/school-of-rock-announces-full-cast/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Class of 2021 prepare for School of Rock – The Musical tour（报道中写明，the actor who previously played Dewey Finn in the West End will return to take charge of the Class of 2021，指的就是 Jake Sharp，以主角身份带领 2021 巡演阵容。）",
+        "url": "https://musicaltheatrereview.com/class-of-2021-prepare-for-school-of-rock-the-musical-tour/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2021–2022 年《摇滚学校》（School of Rock）英国及爱尔兰巡演中，Dewey Finn 一角的主卡/领衔主演为 Jake Sharp，而不是 B 卡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2020年韩文版音乐剧《摇滚芭比》中，Hedwig 的 a 卡为曹政奭。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "无法判定，曹政奭（Jo Jung-suk）确实是韩国版《Hedwig and the Angry Inch》（摇滚芭比）的代表性主演之一，多次在韩国制作中饰演 Hedwig，一些报道和资料也提到他在多季演出中担任主角。但公开可查的信息（包括韩国新闻、音乐剧数据库和汇总条目）并未给出“2020 年这一季的韩文版《Hedwig》”的完整卡司表，也没有使用“A 卡/主卡”这种中文粉圈常用的分卡术语来精确标注曹政奭在 2020 年制作中的卡位，因此无法在证据层面严格确认“2020 年韩文版中 Hedwig 的主卡就是曹政奭”，也无法排除多位主演轮流、无固定 A/B 卡的演出安排，只能判定为“无法判定”。",
+    "evidence_sources": [
+      {
+        "content": "조정석 - 위키백과（介绍曹政奭是韩国演员，早期在《헤드윅》(Hedwig) 等多部音乐剧中出演并获得认可，但未按年份区分各季的卡位结构，也未提到 2020 年版的 A/B 卡用语。）",
+        "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%95%EC%84%9D",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅(2019) - 더뮤지컬（韩国音乐剧杂志页面，介绍韩国版《헤드윅》相关制作与演员，包含讨论 2020 年左右版本的专文《우리가 사랑한 뮤지컬 <헤드윅>》，但页面中未提供 2020 年整季的完整卡司名单与“주연/주카(A 卡)”的正式标注。）",
+        "url": "https://www.themusical.co.kr/Musical/Detail?num=2741",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅/한국 공연 - 나무위키（汇总 2005 年以来《Hedwig》在韩国的多轮演出和大量主演姓名，明确提到包括 조정석 在内的多位演员多次饰演 Hedwig，但未按 2020 年季别给出“主卡/副卡”的结构化信息。）",
+        "url": "https://namu.wiki/w/%ED%97%A4%EB%93%9C%EC%9C%85/%ED%95%9C%EA%B5%AD%20%EA%B3%B5%EC%97%B0",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "在现有可验证信息范围内，只能较安全地说：曹政奭是韩国音乐剧《摇滚芭比》（Hedwig and the Angry Inch）的主要主演之一，曾多次在韩国制作中饰演 Hedwig 一角；但公开资料并未明确标注“2020 年韩文版中 Hedwig 的主卡为曹政奭”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "有 38 个国家或地区在全国范围内承认同性婚姻。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家权威统计（如维基百科同性婚姻条目、皮尤研究中心和 Our World in Data）在 2025 年的最新汇总中均给出：目前有 38 个国家在全国范围内将同性婚姻完全合法化，涵盖荷兰、加拿大、西班牙、南非、美国、德国、台湾地区（作为地区计入）、泰国、列支敦士登等。 这些统计在方法上明确区分了“全国立法全面婚姻平权”和“仅部分地区或仅承认境外登记婚姻”，把前者合计为 38 个国家或地区，与 claim 中的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "Same-sex marriage - Wikipedia（给出截至 2025 年在全国范围内承认同性婚姻的国家/地区列表，总数为 38）",
+        "url": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+        "credibility": "High"
+      },
+      {
+        "content": "Same-Sex Marriage Around the World - Pew Research Center（按国家列出已在全国范围实现同性婚姻合法化的司法辖区，总数与 38 的统计一致）",
+        "url": "https://www.pewresearch.org/religion/fact-sheet/same-sex-marriage-around-the-world/",
+        "credibility": "High"
+      },
+      {
+        "content": "1.5 billion people now live in countries where same-sex marriage is legal — but that’s only one in five worldwide（Our World in Data 文中指出：截至 2025 年，有 38 个国家/地区在全国范围内实现婚姻平权）",
+        "url": "https://ourworldindata.org/data-insights/15-billion-people-now-live-in-countries-where-same-sex-marriage-is-legal-but-thats-only-one-in-five-worldwide",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至 2025 年，约有 38 个国家或地区在全国范围内承认并实施同性婚姻。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "科琳·胡佛出版了26本书",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家近期整理科琳·胡佛作品的权威或主流媒体（如 People、Forbes 等）都明确写出：截至 2025 年，她“已经出版了 26 本书（books/titles）”，其中 23 本为她独立创作，其余为与 Tarryn Fisher 合作的《Never Never》三部曲等。 一些统计网站在 2022 年前后仍给出“24 本书”一类的较旧数字，而更新的 2024–2025 年书单和阅读顺序文章普遍使用“26 本”这一最新数量，说明“出版了 26 本书”与当前主流统计一致。",
+    "evidence_sources": [
+      {
+        "content": "Colleen Hoover",
+        "url": "https://people.com/colleen-hoover-s-26-books-in-chronological-order-7554091",
+        "credibility": "High"
+      },
+      {
+        "content": "Colleen Hoover Books, Ranked And In Order - Forbes（文中指出：科琳·胡佛共写了 26 本书，其中 23 本为她独立完成，3 本为与 Tarryn Fisher 合著的《Never Never》系列）",
+        "url": "https://www.forbes.com/sites/entertainment/article/colleen-hoover-books/",
+        "credibility": "High"
+      },
+      {
+        "content": "26 Colleen Hoover Books in Order: 2025 Full List（整理出截至 2025 年的 26 部作品，包含长篇与中篇小说，并按出版顺序列举）",
+        "url": "https://fictionary.co/journal/colleen-hoover-books-in-order/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 年，科琳·胡佛共出版了 26 本书（包含她独立创作的长篇与中篇小说，以及与他人合著的作品）。",
+    "topic": "Culture"
+  }
+]

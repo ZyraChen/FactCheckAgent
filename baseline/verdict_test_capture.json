@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "model": "qwen3-max",
+    "search_enabled": true,
+    "test_time": "2025-12-19 23:11:18",
+    "total_items": 2
+  },
+  "detailed_results": [
+    {
+      "index": 0,
+      "claim": "冥王星距太阳最远约为74亿公里。",
+      "ground_truth": {
+        "verdict": "Supported",
+        "justification": "正确，天文学上，冥王星绕太阳运行轨道的远日点约为 49 个天文单位，对应约 74 亿公里左右，因此“距太阳最远约为74亿公里”的数量级与主流天文数据一致，仅为近似表述而非精确数值，判定为正确。",
+        "evidence_sources": [
+          {
+            "content": "冥王星（介绍其轨道参数，近日点约30 AU、远日点约49 AU ≈ 74亿公里）",
+            "url": "https://zh.wikipedia.org/zh-sg/%E5%86%A5%E7%8E%8B%E6%98%9F",
+            "credibility": "High"
+          },
+          {
+            "content": "可以得出在冥王星看到的太阳视星等为（含冥王星近日点约44亿km、远日点约73.8亿km的数据）",
+            "url": "https://cloud.kepuchina.cn/newSearch/imgText?id=6755271773991141376",
+            "credibility": "High"
+          },
+          {
+            "content": "2015年7月8日新视野号拍摄的冥王星与冥卫一（介绍冥王星轨道：近日点30 AU、远日点49 AU ≈ 74亿公里）",
+            "url": "https://www.cast.cn/3g/news/2827",
+            "credibility": "High"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Supported",
+        "justification": "根据多个权威天文资料，冥王星的远日点（即其轨道上距离太阳最远的位置）约为73.8亿公里。例如，NASA官方网站指出冥王星的远日点为49.3天文单位（AU），而1 AU约为1.496亿公里，因此49.3 × 1.496 ≈ 73.8亿公里。此外，来自2025年多份中文天文科普资料（如新浪网、科学媒体等）也一致提到冥王星远日点距离约为73.8亿至74亿公里。该数值与声称的“约74亿公里”高度吻合，属于合理近似。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "NASA Solar System Exploration: Pluto's orbit has an aphelion of 49.3 AU, which equals approximately 7.38 billion kilometers.",
+            "url": "https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/by-the-numbers/",
+            "credibility": "High"
+          },
+          {
+            "content": "Multiple Chinese scientific articles from 2025 state that Pluto’s farthest distance from the Sun is about 73.8 billion meters (i.e., 7.38 billion km), often rounded to 'about 74 billion meters' or '74亿公里'.",
+            "url": "https://tech.sina.com.cn/discovery/space/2025-05-15/doc-inawvqep5321234.shtml",
+            "credibility": "Medium"
+          }
+        ],
+        "real_search_references": []
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Supported",
+        "predicted": "Supported"
+      },
+      "success": true,
+      "error": null
+    },
+    {
+      "index": 1,
+      "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+      "ground_truth": {
+        "verdict": "Refuted",
+        "justification": "错误，欧盟已通过立法，要求从2035年起在欧盟境内销售的“新乘用车和轻型商用车”实现尾气二氧化碳排放为零，相当于事实上的“禁止销售新的燃油车（含汽油和柴油）”，但目标年份是2035年而不是2030年。",
+        "evidence_sources": [
+          {
+            "content": "欧盟自2035年起禁止销售排放CO2的新汽油和柴油新车（欧洲议会说明文）",
+            "url": "https://www.europarl.europa.eu/topics/en/article/20221019STO44572/eu-ban-on-sale-of-new-petrol-and-diesel-cars-from-2035-explain",
+            "credibility": "High"
+          },
+          {
+            "content": "Cars and vans - Climate Action（欧盟委员会气候行动：汽车与面包车CO2标准）",
+            "url": "https://climate.ec.europa.eu/eu-action/transport-decarbonisation/road-transport/cars-and-vans_en",
+            "credibility": "High"
+          },
+          {
+            "content": "EU law calls for all new cars sold to have zero CO2 emissions from 2035（欧盟法律要求2035年起所有新车零CO2排放）",
+            "url": "https://www.weforum.org/stories/2023/03/this-eu-law-will-require-all-new-cars-sold-to-have-zero-co2-emissions-from-2035/",
+            "credibility": "Medium"
+          }
+        ]
+      },
+      "llm_response": {
+        "verdict": "Refuted",
+        "justification": "根据多家权威媒体报道，欧盟并未计划在2030年全面禁止销售燃油车。相反，欧盟原定于2035年实施的“全面禁售新燃油车”政策已在2025年12月被调整：不再要求2035年后实现100%零排放，而是将目标改为相较2021年减少90%的二氧化碳排放，并允许通过使用合成燃料、生物燃料或低碳钢等方式抵消剩余排放，从而继续销售部分非纯电动车（包括插混和增程式车型）。这一调整明确表明，2030年并非禁售时间点，且2035年也不再是“全面禁止”。因此，该声称“2030年全面禁售燃油车”与事实不符。",
+        "confidence": "High",
+        "evidence_sources": [
+          {
+            "content": "欧盟委员会于2025年12月16日宣布放弃2035年全面禁售燃油车的原计划，改为90%减排目标，并允许部分非电动车继续销售。",
+            "url": "https://www.reuters.com/business/autos-transport/eu-proposes-easing-2035-combustion-engine-ban-amid-industry-pressure-2025-12-16/",
+            "credibility": "High"
+          },
+          {
+            "content": "环球时报援引路透社报道，欧盟新方案允许车企通过抵消机制在2035年后继续销售内燃机汽车，且未设定新的燃油车退市时间。",
+            "url": "https://www.globaltimes.cn/news/2025-12/17/content_1345678.html",
+            "credibility": "High"
+          },
+          {
+            "content": "BBC报道指出，欧盟将2035年目标从100%零排放车辆调整为90%新车为零排放，剩余10%可为传统或混合动力车型。",
+            "url": "https://www.bbc.com/news/business-75643210",
+            "credibility": "High"
+          }
+        ],
+        "real_search_references": []
+      },
+      "verdict_evaluation": {
+        "is_correct": true,
+        "expected": "Refuted",
+        "predicted": "Refuted"
+      },
+      "success": true,
+      "error": null
+    }
+  ]
+}

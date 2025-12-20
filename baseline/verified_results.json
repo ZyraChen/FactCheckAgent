@@ -1,0 +1,152 @@
+[
+  {
+    "index": 0,
+    "claim": "《和雨·和我》的作者是二阶堂幸。",
+    "verdict_evaluation": {
+      "is_correct": true,
+      "expected": "Refuted",
+      "predicted": "Refuted"
+    },
+    "llm_response": {
+      "claim": "《和雨·和我》的作者是二阶堂幸。",
+      "verdict": "Refuted",
+      "justification": "根据现有权威资料，名为《和雨》的散文集作者是福建作家张山梁，该书由福建人民出版社于2025年出版，内容融合人文与历史，具有浓厚乡土气息，并无证据显示存在名为《和雨·和我》的作品。此外，没有任何可信来源将‘二阶堂幸’与《和雨》或《和雨·和我》关联。二阶堂幸是日本漫画家，以少女漫画著称，未见其有中文散文作品出版记录。因此，该主张与已知事实不符。",
+      "confidence": "High",
+      "evidence_sources": [
+        {
+          "content": "我省作家张山梁散文集《和雨》出版，近日,平和作家张山梁散文集《和雨》由福建人民出版社出版……",
+          "url": null,
+          "credibility": "High"
+        }
+      ]
+    },
+    "real_search_metadata": [],
+    "success": true
+  },
+  {
+    "index": 1,
+    "claim": "「雨との君と」的作者是二阶堂幸。",
+    "verdict_evaluation": {
+      "is_correct": true,
+      "expected": "Refuted",
+      "predicted": "Refuted"
+    },
+    "llm_response": {
+      "claim": "「雨との君と」的作者是二阶堂幸。",
+      "verdict": "Refuted",
+      "justification": "该声明中的作品名称「雨との君と」存在错误。根据多个可信来源，正确标题应为《雨と君と》（中文译名《和雨·和你》），其作者确为二阶堂幸。但「雨との君と」这一名称在所有可查资料中均未出现，属于错误表述。因此，尽管作者信息正确，但作品名称错误导致整个声明不成立。",
+      "confidence": "High",
+      "evidence_sources": [
+        {
+          "content": "《和雨·和你》(日语:雨と君と;英语:With You and the Rain)是由二阶堂幸创作的一部漫画,并有动画等衍生作品。",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "雨と君と (8) 作者:二階堂幸 出版社:講談社",
+          "url": null,
+          "credibility": "High"
+        }
+      ]
+    },
+    "real_search_metadata": [],
+    "success": true
+  },
+  {
+    "index": 2,
+    "claim": "「雨と君ト」的作者是二阶堂幸。",
+    "verdict_evaluation": {
+      "is_correct": true,
+      "expected": "Refuted",
+      "predicted": "Refuted"
+    },
+    "llm_response": {
+      "claim": "「雨と君ト」的作者是二阶堂幸。",
+      "verdict": "Refuted",
+      "justification": "该主张中作品名称「雨と君ト」存在用字错误。根据多个可信来源，正确标题应为「雨と君と」（注意最后一个假名是平假名「と」而非片假名「ト」）。所有资料一致指出《雨と君と》的作者是二阶堂幸。因此，虽然作者信息正确，但作品名称书写错误，导致原主张不准确。",
+      "confidence": "High",
+      "evidence_sources": [
+        {
+          "content": "和雨·和你（日语:雨と君と;英语:With You and the Rain）是由二阶堂幸创作的一部漫画",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "原作:二阶堂幸(讲谈社《周刊青年杂志》连载)",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "Twitterにて公開していた、ハートフルコメディ漫画『雨と君と』が人気となり、講談社「週刊ヤングマガジン」2020年38号から連載。",
+          "url": null,
+          "credibility": "High"
+        }
+      ]
+    },
+    "real_search_metadata": [],
+    "success": true
+  },
+  {
+    "index": 3,
+    "claim": "《嫌疑人Xとの献身》的作者是东野圭吾。",
+    "verdict_evaluation": {
+      "is_correct": false,
+      "expected": "Refuted",
+      "predicted": "Supported"
+    },
+    "llm_response": {
+      "claim": "《嫌疑人Xとの献身》的作者是东野圭吾。",
+      "verdict": "Supported",
+      "justification": "多个权威资料明确指出，《嫌疑人X的献身》（日文原名《容疑者Xの献身》）的作者是日本作家东野圭吾。例如，资料显示：'《嫌疑人X的献身》是日本作家东野圭吾创作的推理小说'，且其日文原版《容疑者Xの献身》于2005年由文艺春秋出版。虽然用户提问中使用了‘との’这一不准确的日语表达（正确应为‘の’），但结合上下文可判断为笔误，实际指代作品即为《容疑者Xの献身》。因此该主张成立。",
+      "confidence": "High",
+      "evidence_sources": [
+        {
+          "content": "《嫌疑人X的献身》是日本作家东野圭吾创作的推理小说,2022年由南海出版公司推出500万册纪念版。",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "《容疑者Xの献身》是日本作家东野圭吾于2005年8月由文艺春秋出版的推理小说。",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "中文名:嫌疑人X的献身 外文名:容疑者Xの献身 作者:东野圭吾",
+          "url": null,
+          "credibility": "High"
+        }
+      ]
+    },
+    "real_search_metadata": [],
+    "success": true
+  },
+  {
+    "index": 4,
+    "claim": "《小偷家族と》的导演是是枝裕和。",
+    "verdict_evaluation": {
+      "is_correct": true,
+      "expected": "Refuted",
+      "predicted": "Refuted"
+    },
+    "llm_response": {
+      "claim": "《小偷家族と》的导演是是枝裕和。",
+      "verdict": "Refuted",
+      "justification": "该主张中提到的作品名称《小偷家族と》存在明显错误。根据所有可信资料，是枝裕和执导的影片正确中文名为《小偷家族》，日文原名为《万引き家族》。没有任何权威来源提及《小偷家族と》这一片名，其中的「と」为日语助词，不属于正式片名组成部分。因此，虽然导演确实是是枝裕和，但因作品名称不准确，该具体表述应被驳回。",
+      "confidence": "High",
+      "evidence_sources": [
+        {
+          "content": "《小偷家族》是日本是枝裕和自编自导,由中川雅也、安藤樱、松冈茉优等主演的犯罪剧情片,于2018年6月8日在日本上映、8月3日在中国公映。",
+          "url": null,
+          "credibility": "High"
+        },
+        {
+          "content": "豆瓣\n小偷家族 万引き家族(2018) 导演:是枝裕和 编剧:是枝裕和（截至2018年8月3日）",
+          "url": null,
+          "credibility": "High"
+        }
+      ]
+    },
+    "real_search_metadata": [],
+    "success": true
+  }
+]

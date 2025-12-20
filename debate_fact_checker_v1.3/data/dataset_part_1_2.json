@@ -1,0 +1,1277 @@
+[
+  {
+    "claim": "2016年里约奥运会，中国乒乓球运动员许昕参加男子团体的比赛，他在所有参加的比赛中都取得了胜利。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，2016年里约奥运会乒乓球男子团体决赛中，中国队对阵日本队，第二盘单打是许昕对阵日本选手水谷隼，许昕以2–3告负，比分为10–12、9–11、11–3、11–7、10–12，明确不是“赢得了所有比赛”。​同一场团队决赛中，许昕与张继科搭档参加男团第三盘双打，并以3–1战胜日本组合，这说明许昕在本届奥运男团中既有胜场也有败场，并非全胜战绩。​综观里约奥运官方记录和多家媒体赛况报道，都一致指出许昕在男团比赛中输给过水谷隼，故“赢得了所有比赛”的表述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Table tennis at the 2016 Summer Olympics – Men",
+        "url": "https://en.wikipedia.org/wiki/Table_tennis_at_the_2016_Summer_Olympics_%E2%80%93_Men",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympic Table Tennis 2016: Men",
+        "url": "https://bleacherreport.com/articles/2658235-olympic-table-tennis-2016-mens-team-medal-winners-scores-and-bracket-results",
+        "credibility": "Medium"
+      },
+      {
+        "content": "China complete table tennis sweep with Japan on the rise / China win fourth Olympic table tennis gold in Rio（多家媒体报道中国男团3–1战胜日本完成乒乓球金牌包揽，并点出决赛中许昕先输单打后在双打中取胜的过程）",
+        "url": "https://www.bbc.com/sport/olympics/36690698",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "在2016年里约奥运会上，中国乒乓球运动员许昕参加了男子团体比赛，并随队获得男子团体金牌，但他在决赛对阵日本队时曾输给水谷隼，因此并非赢得了所有个人出场比赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2012里约奥运会乒乓球男子单打冠军是马龙。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2012年并非“里约奥运会”，而是“伦敦奥运会”；2016年才是里约奥运会，本身时间与地点表述就不符合事实。​伦敦2012年奥运会乒乓球男子单打冠军是中国选手张继科，决赛4–1战胜队友王皓，马龙当届并未获得男单金牌。​多个权威奥运官方页面和新闻报道都将“2012年男子单打金牌”明确归于张继科，而马龙第一次获得奥运男单金牌是在2016年里约奥运会，因此该 claim 的时间（2012年）、地点（里约）、冠军人选（马龙）均与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Table tennis at the 2012 Summer Olympics – Men",
+        "url": "https://en.wikipedia.org/wiki/Table_tennis_at_the_2012_Summer_Olympics_%E2%80%93_Men",
+        "credibility": "Medium"
+      },
+      {
+        "content": "London 2012 Table Tennis Singles men Results - Olympics.com（奥运会官网伦敦2012男子单打官方成绩页，列出张继科为金牌得主）",
+        "url": "https://www.olympics.com/en/olympic-games/london-2012/results/table-tennis/singles-men",
+        "credibility": "High"
+      },
+      {
+        "content": "ZHANG Jike - Olympics.com / Zhang Jike - Wikipedia（介绍张继科在伦敦2012赢得男子单打金牌，完成乒乓球大满贯）",
+        "url": "https://www.olympics.com/en/athletes/jike-zhang",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2016年里约奥运会乒乓球男子单打冠军是马龙。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2020年乒乓球世界杯女子单打中，陈梦顶替退赛的刘诗雯参赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。2020 年女子世界杯赛事官方信息称：由于卫冕冠军、五届女乒世界杯冠军刘诗雯因伤退出年终“#RESTART”赛事，世界排名第一的陈梦获得参赛资格并“进入这项她从未赢得过冠军的赛事”。​ITTF 对 Dishang 2020 女子世界杯的赛前说明与赛后冠军报道均表明，本届女子世界杯参赛名单中，陈梦为中国主力选手之一，而刘诗雯因伤缺席，并未出现在该届世界杯签表中。​综合多条官方与专业媒体信息，可以确认：2020 年乒乓球女子世界杯中，陈梦确实是因为刘诗雯因伤退赛而递补参赛，因此该 claim 叙述成立。",
+    "evidence_sources": [
+      {
+        "content": "Players announced for #RESTART!（ITTF 公告：五届女子世界杯冠军刘诗雯因伤退出#RESTART 赛事，其退赛使得世界排名第一的陈梦获得女子世界杯参赛资格）",
+        "url": "https://www.ittf.com/2020/09/29/players-announced-restart/",
+        "credibility": "High"
+      },
+      {
+        "content": "All you need to know about the Dishang 2020 ITTF Women",
+        "url": "https://www.ittf.com/2020/11/03/everything-need-know-dishang-2020-womens-world-cup/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chen Meng the champion with first-ever Women",
+        "url": "https://www.ittf.com/2020/11/10/chen-meng-champion-first-ever-womens-world-cup-title/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2020 年乒乓球女子世界杯中，原定参赛的刘诗雯因伤退赛，由中国选手陈梦递补获得女子单打参赛资格并出战该项赛事。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2020年乒乓球世界杯女子单打中，孙颖莎顶替退赛的朱雨玲参赛。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。2020 年 10 月，中国官方英文网报道，国际乒联确认：原定参加女子世界杯的朱雨玲因健康原因退出，改由中国选手孙颖莎递补参赛。​赛前和赛后关于 Dishang 2020 ITTF Women’s World Cup 的报道均显示，中国队出战的两名女单选手为陈梦和孙颖莎，其中孙颖莎以主力身份参赛并最终打入决赛。​相关报道在回顾朱雨玲生涯和伤病时，也提到她在东京周期因健康问题退出世界大赛，包括 2020 女子世界杯名额由队友顶替的情况，与上述信息相吻合。",
+    "evidence_sources": [
+      {
+        "content": "China",
+        "url": "http://www.china.org.cn/sports/2020-10/07/content_76783644.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "Dishang 2020 ITTF Women",
+        "url": "https://www.ittf.com/2020/11/10/dishang-2020-ittf-womens-world-cup-final-day/",
+        "credibility": "High"
+      },
+      {
+        "content": "Chen Meng wins Women",
+        "url": "https://www.olympics.com/en/news/chen-meng-wins-womens-world-cup-in-all-chinese-final",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2020 年乒乓球女子世界杯中，原定参赛的朱雨玲因健康原因退赛，由中国选手孙颖莎递补获得女子单打参赛资格。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会结束后，张家齐宣布退役。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。公开资料显示，跳水运动员张家齐在 2025 年 11 月 22 日发布消息，正式宣布结束职业跳水生涯，年仅 21 岁。​与此同时，多条同期视频与自媒体内容也在 2025 年 11 月下旬集中报道“21 岁奥运冠军张家齐宣布退役”，说明其退役时间为 2025 年 11 月，而中国2025（第 15 届）全运会亦在 2025 年举行，二者时间上紧密相连。​结合：张家齐参加 2021 年全运会并在其后继续征战到 2025 年，又在 2025 年 11 月正式宣布退役，可以合理认定其退役发生在2025全运会结束之后，这与 claim 描述高度一致。",
+    "evidence_sources": [
+      {
+        "content": "Zhang Jiaqi (diver) - Wikipedia（介绍张家齐在 2021 年全运会参赛，并注明其于 2025 年 11 月 22 日在 21 岁时宣布退役）",
+        "url": "https://en.wikipedia.org/wiki/Zhang_Jiaqi_(diver)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Heartbreaking! 21-year-old Zhang Jiaqi announces retirement（视频：标题与内容均称 21 岁奥运冠军张家齐宣布退役）",
+        "url": "https://www.youtube.com/shorts/6mX4bXmvp9A",
+        "credibility": "Low"
+      },
+      {
+        "content": "21-year-old Olympic diving champion Zhang Jiaqi has announced her retirement!（视频：再次报道 21 岁跳水奥运冠军张家齐已经宣布退役）",
+        "url": "https://www.youtube.com/shorts/Wrgvp5JgAR0",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "在2025（第 15 届）全运会结束后不久，跳水奥运冠军张家齐于 2025 年 11 月正式宣布退役。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "截至2025赛季拉斯维加斯大奖赛，世界一级方程式大赛车手积分排行榜领先者为马克斯·维斯塔潘。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，2025 年拉斯维加斯大奖赛结束后的车手积分榜显示，积分榜领跑者是迈凯伦车手兰多·诺里斯，而非马克斯·维斯塔潘。​多家媒体与积分统计页面一致给出拉斯维加斯站后车手积分：诺里斯 390–408 分不等，皮亚斯特里与维斯塔潘均在其后，维斯塔潘在车手积分榜中仅列第 3 位。​2025 年拉斯维加斯大奖赛中，维斯塔潘虽然赢得分站冠军，但这一胜利只是“缩小与领跑者诺里斯的积分差距”，并未反超取得积分榜第一名，因此“截至 2025 赛季拉斯维加斯大奖赛，车手积分榜领先者为维斯塔潘”的说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "2025 F1 championship standings after Las Vegas Grand Prix（拉斯维加斯站后车手积分榜：诺里斯与皮亚斯特里在前，维斯塔潘仅列第三）",
+        "url": "https://racingnews365.com/2025-f1-championship-standings-after-las-vegas-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Updated F1 points standings after Las Vegas Grand Prix - PlanetF1（拉斯维加斯站后最新积分：诺里斯 408 分、皮亚斯特里 378 分、维斯塔潘 366 分，诺里斯继续领跑车手积分榜）",
+        "url": "https://www.planetf1.com/news/updated-f1-points-standings-las-vegas-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 Standings After The 2025 Las Vegas Grand Prix - Forbes（福布斯盘点拉斯维加斯站后积分：诺里斯 390 分、皮亚斯特里 366 分、维斯塔潘 366 分，诺里斯保持积分榜第一）",
+        "url": "https://www.forbes.com/sites/yaraelshebiny/2025/11/23/f1-standings-after-the-2025-las-vegas-grand-prix/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季拉斯维加斯大奖赛结束时，F1 车手积分排行榜的领先者为兰多·诺里斯，马克斯·维斯塔潘在积分榜上排名第三。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛截至2025赛季拉斯维加斯大奖赛，乔治·拉塞尔仍有理论夺冠的可能。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Dynamic Event Errors",
+    "justification": "错误，拉斯维加斯大奖赛结束后，车手积分榜为：兰多·诺里斯 390 分、奥斯卡·皮亚斯特里 366 分、马克斯·维斯塔潘 366 分、乔治·拉塞尔 294 分。​当时赛季还剩 2 场分站，理论上最多可获得 58 分（两站正赛+冲刺赛的满积分），而拉塞尔落后榜首诺里斯 96 分（390 vs 294），即便全胜剩余所有比赛也不可能弥补这一差距，因此已“无数学意义上的夺冠可能”。​多家赛事分析与官方/半官方解读都明确指出：在巴西站之后、尤其是拉斯维加斯站后，乔治·拉塞尔已经被排除在 2025 赛季世界冠军竞争者之外，剩余具有数学夺冠可能的仅为诺里斯、皮亚斯特里和维斯塔潘，因此“仍有理论夺冠可能”的说法不成立。",
+    "evidence_sources": [
+      {
+        "content": "F1 race result & points: 2025 Las Vegas Grand Prix（拉斯维加斯站后车手积分：诺里斯 390 分、皮亚斯特里 366 分、维斯塔潘 366 分、拉塞尔 294 分，并说明赛季剩余积分总额为 58 分）",
+        "url": "https://www.racefans.net/2025/11/23/2025-las-vegas-grand-prix-race-result-and-championship-points/",
+        "credibility": "High"
+      },
+      {
+        "content": "How Max Verstappen can win the F1 world championship（文中给出拉斯维加斯站后的积分表：拉塞尔 294 分、落后领跑者 114 分，且指出在剩余 58 分可拿的前提下，拉塞尔已无数学夺冠可能）",
+        "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-max-verstappen-can-win-the-f1-world-championship-why-lando-norris-title-bid-is-still-on-track/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Can Norris, Piastri or Verstappen Win the 2025 F1 Title?（银石赛道官网文章明确写道：乔治·拉塞尔已经“不再具有数学意义上的 2025 年 F1 冠军竞争资格”，剩余冠军候选人仅为诺里斯、皮亚斯特里与维斯塔潘）",
+        "url": "https://www.silverstone.co.uk/news/championship-chances-who-can-still-win-2025-f1-title",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季拉斯维加斯大奖赛结束时，世界一级方程式大赛中，乔治·拉塞尔在车手积分榜上落后领跑的兰多·诺里斯 96 分，已没有任何理论或数学意义上的夺冠可能。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖冲刺赛开始前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Conditional Errors",
+    "justification": "错误，题目这次限定的是“截至卡塔尔大奖赛冲刺赛开始前”的情形，此时整个周末（冲刺+正赛）还有 33 分可拿，是否“只要正赛夺冠就锁定冠军”要看冲刺赛前的积分差。此时 F1 官方与各大媒体给出的条件是：诺里斯需要在整个卡塔尔周末（含冲刺）结束后，领先至少 26 分才能数学封冠，也就是整个周末要比皮亚斯特里和维斯塔潘多拿至少 2 分。​换句话说，在冲刺赛开始前，唯一被反复强调的“简单条件”是：整个周末积分上要多出对手 2 分以上；并没有说“无论冲刺赛发生什么、只要周日正赛赢就必定锁定冠军”。如果冲刺赛里诺里斯相对现实少拿 8 分（或者竞争对手多 8 分），那就可能导致即使正赛夺冠，最终分差也达不到 26 分这一数学封冠线，因此不能在“冲刺赛开始前”就断言“只要正赛夺冠必定锁定冠军”。​赛前推演普遍表述为：诺里斯需要在卡塔尔站结束后领先 26 分以上，通常的“简单方式”是这个周末总共比对手多拿 2 分，而不是单纯只依赖正赛一场；“只要赢正赛就一定夺冠”的说法，是在结合实际冲刺赛结果之后才成立的简化情景，不适用于“冲刺赛开始前”这个时间点的严格数学表述。",
+    "evidence_sources": [
+      {
+        "content": "F1 title permutations: How Lando Norris can win it at Qatar Grand Prix（说明诺里斯若想在卡塔尔锁定年度冠军，需要在本站结束后领先至少 26 分，即这个周末总积分要比皮亚斯特里和维斯塔潘多 2 分以上）",
+        "url": "https://www.espn.com/f1/story/_/id/46925971/f1-title-permutations-lando-norris-oscar-piastri-max-verstappen",
+        "credibility": "High"
+      },
+      {
+        "content": "When is the earliest Norris can win the World Championship?（F1 官方梳理：在包含冲刺赛的卡塔尔周末，总共有 33 分可拿；诺里斯要在此站封王，需要在积分上建立至少 26 分优势，并未说“在冲刺赛前就保证只要赢正赛必夺冠”）",
+        "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-norris-could-claim-the-world.T4F6V6THiKksJ6Gv7FyccL.html",
+        "credibility": "High"
+      },
+      {
+        "content": "How Lando Norris can win F1 title in Qatar after Las Vegas disqualification（分析：卡塔尔为冲刺周末，诺里斯需要在整个周末总积分上多出至少 2 分，从而在本站结束时取得 25–26 分以上优势，文中强调的是“整个周末的积分差”，而非事先保证“只要正赛胜利必然封王”）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-f1-title-in-qatar-after-las-vegas-disqualification",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季 F1 卡塔尔大奖赛冲刺赛开始前，兰多·诺里斯要在卡塔尔站锁定车手世界冠军，需要在整个周末（冲刺赛+正赛）结束后将对主要竞争对手的领先优势扩大到至少 26 分；能否“只靠正赛夺冠就锁定冠军”取决于冲刺赛的实际积分结果，不能预先一概而论。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "截至2025F1卡塔尔大奖正赛前，诺里斯只要在正赛夺冠则可锁定车手世界冠军。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，在卡塔尔大奖赛周日正赛前（即冲刺赛结束后），诺里斯以 396 分领先皮亚斯特里 22 分、领先维斯塔潘 25 分。​多家专业媒体与 F1 官方给出的夺冠情景均明确指出：如果诺里斯在卡塔尔大奖赛正赛中夺冠，他将无论皮亚斯特里和维斯塔潘的完赛位置如何，直接锁定 2025 赛季车手世界冠军。​分析文章进一步说明，只要诺里斯在卡塔尔站结束后把对皮亚斯特里的优势扩大到至少 26 分、对维斯塔潘的优势保持在 25 分以上（含胜场与第二名次数的加赛规则），正赛夺冠即可自动满足这一条件，因此“只要在正赛夺冠则可锁定车手世界冠军”的表述在数学上和规则上成立。",
+    "evidence_sources": [
+      {
+        "content": "How Lando Norris can win the 2025 F1 title in the Qatar Grand Prix（分析称：如果诺里斯赢下卡塔尔大奖赛正赛，将不受皮亚斯特里和维斯塔潘名次影响，直接加冕世界冠军）",
+        "url": "https://racingnews365.com/how-lando-norris-can-win-the-2025-f1-title-in-the-qatar-grand-prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Championship permutations: Can Norris still win the title in Qatar after Sprint?（F1 官方文章：简单写道——若诺里斯在卡塔尔周日正赛夺冠，他就已经做得足够，可以锁定年度车手冠军）",
+        "url": "https://www.formula1.com/en/latest/article/championship-permutations-can-norris-still-win-the-title-in-qatar-after-sprint.6Yl07za0DPgfybgFrUXQZD.html",
+        "credibility": "High"
+      },
+      {
+        "content": "What does Norris need to win the championship in Qatar?（BBC 总结：诺里斯需要在卡塔尔站后把领先优势扩大到 26 分；如果他赢得卡塔尔大奖赛正赛，就能直接拿到 2025 赛季冠军）",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgrm2mek1ro",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 赛季 F1 卡塔尔大奖赛正赛开始前，只要兰多·诺里斯在卡塔尔大奖赛正赛中夺冠，他即可在本站后提前锁定 2025 赛季车手世界冠军。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖冲刺赛前，诺里斯只要在正赛比皮亚斯特里和维斯塔潘均多获得两分则可锁定车手世界冠军。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，各权威推演给出的条件是：诺里斯要在卡塔尔站“锁定年度冠军”，需要在这一站结束后，在积分榜上将对主要对手（皮亚斯特里和维斯塔潘）的领先扩大到至少 26 分，本质等价于“整个卡塔尔周末（冲刺+正赛）相对对手总共多拿至少 2 分”。​题目中把条件写成“正赛比皮亚斯特里和维斯塔潘均多获得两分”，这只约束正赛一场，并不等价于“整个周末一共多两分”：冲刺赛中三人的得分差异会改变最终周末总差，因此仅凭“正赛多两分”并不能保证“周末总共多两分”，在数学上不足以被视为一条无条件的锁冠规则。",
+    "evidence_sources": [
+      {
+        "content": "F1 title permutations: How Lando Norris can win it at Qatar Grand Prix（说明诺里斯若要在卡塔尔锁定冠军，需要在本站结束后领先达到 26 分，本质等同于“本周末总积分比皮亚斯特里和维斯塔潘多至少 2 分”）",
+        "url": "https://www.espn.com/f1/story/_/id/46925971/f1-title-permutations-lando-norris-oscar-piastri-max-verstappen",
+        "credibility": "High"
+      },
+      {
+        "content": "How Lando Norris can win the F1 drivers",
+        "url": "https://www.nytimes.com/athletic/6843617/2025/11/28/f1-norris-drivers-championship-qatar/",
+        "credibility": "High"
+      },
+      {
+        "content": "When is the earliest Norris can win the World Championship?（F1 官方：说明卡塔尔作为冲刺周末，总共有 33 分可拿，并以“周末总积分差”来给出诺里斯提前夺冠的数学条件，未将条件简化为“只看正赛多两分”）",
+        "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-norris-could-claim-the-world.T4F6V6THiKksJ6Gv7FyccL.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至 2025 赛季 F1 卡塔尔大奖赛冲刺赛开始前，兰多·诺里斯若想在卡塔尔站提前锁定车手世界冠军，需要在整个卡塔尔周末（包括冲刺赛和正赛）结束后，相对于皮亚斯特里和维斯塔潘总共多获得至少两分。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "下一届全运会的举办地是粤港澳大湾区。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，“粤港澳大湾区”（广东‑香港‑澳门）是第 15 届全运会（2025 年）的联合举办地区，即本届全运会已经在大湾区举行。​官方报道和赛后新闻明确指出：全运会会旗已在闭幕式上由粤港澳大湾区代表移交给湖南省，确认第 16 届全运会（下一届，全运会为四年一届）由湖南承办。​因此，“下一届全运会的举办地是粤港澳大湾区”的说法与官方确定的信息不符，实际为“湖南省”，故该 claim 错误。",
+    "evidence_sources": [
+      {
+        "content": "2025 National Games of China（说明第 15 届全运会于 2025 年在广东、香港和澳门联合举办，即粤港澳大湾区已经是本届而非下一届的举办地）",
+        "url": "https://en.wikipedia.org/wiki/2025_National_Games_of_China",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Model for cooperation - China Daily HK（报道闭幕式上，全运会会旗由粤港澳代表交接给湖南省代表，并明确写出“湖南省将于 2029 年承办第 16 届全运会”）",
+        "url": "https://www.chinadailyhk.com/article/624505",
+        "credibility": "High"
+      },
+      {
+        "content": "Beyond sports: 15th National Games leaves legacy of regional unity（文末指出：下一届全运会计划于 2029 年在湖南省举行，延续这一赛事传统）",
+        "url": "https://info.newsgd.com/node_28ab3f3552/3e848a652e.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "下一届（第 16 届）全运会计划于 2029 年在湖南省举办，而不是在粤港澳大湾区举办。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "第十六届全运会的举办地是湖南长沙。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，国务院办公厅已经正式批复：2029 年第十六届全国运动会的承办单位为“湖南省”，而不是单一城市。​批复和多篇后续报道都明确指出：第十六届全运会的“主赛区”为长株潭（长沙、株洲、湘潭三市），也就是说长沙是主办城市之一，但官方口径的举办地是“湖南省（以长株潭为主赛区）”，并非单独表述为“湖南长沙”。​因此，把“下一届全运会的举办地”简化为“湖南长沙”在严格意义上不准确，缺失了“省级承办单位”和“长株潭三市共同作为主赛区”的关键信息，判定为错误。",
+    "evidence_sources": [
+      {
+        "content": "The 16th National Games will take Chang-Zhu-Tan as the main venue.（报道：国务院办公厅同意湖南省承办 2029 年第十六届全运会，并明确“以长株潭三个城市作为主赛区”）",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29760852.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Changsha, Zhuzhou, Xiangtan as main competition venues for 16th National Games（英文稿：确认 2029 年第十六届全运会由湖南省承办，长株潭三市为主要比赛城市）",
+        "url": "https://eng.huaihua.gov.cn/enghuaihua/c133469/202506/169f6a04f01b46cf8beecf968b82c05e.shtml",
+        "credibility": "High"
+      },
+      {
+        "content": "Hunan to Host China",
+        "url": "https://m.voc.com.cn/xhn/news/202506/29728847.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "下一届（第 16 届）全运会由湖南省承办，主赛区为长株潭城市群（长沙、株洲、湘潭），而不是仅由“湖南长沙”单一城市作为举办地。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "在10000米长跑项目中，运动员可以跟在被套圈选手后面跟跑。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，田径技术规则中明确规定，“由已被套圈或即将被套圈的运动员进行配速（pacing）”属于对他人提供帮助的情形，视为“非法协助”，是不被允许的，一经判定可导致受益运动员被警告或取消成绩。​因此，在 10000 米长跑这类长距离径赛中，领跑选手如果“刻意跟在被套圈选手后面利用其带节奏/挡风配速”，在规则上被视为违规帮助；允许的只是正常超越和同场竞技，而不是利用被套圈者作为“跟跑兔子”。​",
+    "evidence_sources": [
+      {
+        "content": "TECHNICAL RULES - World Athletics（援助规则中列举：由被套圈或将被套圈的运动员为他人“配速”属于禁止的援助形式）",
+        "url": "https://www.worldathletics.org/download/download?filename=1db01fe4-2229-4591-81ec-745bcc6042c7.pdf&urlslug=C2.1+Technical+Rules+",
+        "credibility": "High"
+      },
+      {
+        "content": "COMPETITION AND TECHNICAL RULE AMENDMENTS - World Athletics（再次重申：由被套圈运动员为他人配速被视作“assistance not allowed”）",
+        "url": "https://worldathletics.org/download/download?filename=25f29afa-e4d2-41f7-88e1-1760ed082544.pdf&urlslug=Competition+and+Technical+",
+        "credibility": "High"
+      },
+      {
+        "content": "Assistance to Athletes - AthleticsRulebook（通俗解读世界田联规则：禁止“由未实际竞争或已被套圈的运动员为他人配速”）",
+        "url": "https://athleticsrulebook.com/assistance-to-athletes",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "在 10000 米长跑项目中，规则禁止利用已被套圈或将被套圈的运动员进行配速；如果领跑者刻意跟在被套圈选手后面借其“带跑”，将被视为获得非法协助，可能被判犯规。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025全运会网球男单半决赛，商竣程2：1战胜周意。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，官方报道指出，2025 年第 15 届全运会网球男子单打半决赛中，北京选手商竣程以 6‑4、6‑3 直落两盘战胜广西选手周意，并非 2:1（即三盘）取胜。赛事通稿与后续决赛报道也一致将本场记为两盘结束的半决赛，周意和香港球员黄泽林同获男单铜牌，没有任何资料显示该场为 2:1 的三盘赛果，因此 claim 中的“2:1”比分描述与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "National Games: 16-year-old Chen wins women",
+        "url": "https://www.chinadailyhk.com/hk/article/623948",
+        "credibility": "High"
+      },
+      {
+        "content": "Hengqin, China",
+        "url": "https://www.alamy.com/hengqin-chinas-guangdong-province-19th-nov-2025-zhou-yi-hits-a-return-during-the-mens-singles-semifinal-ma-image616314245.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Coleman Wong wins historic bronze at National Games - RTHK（报道：香港球员黄泽林与广西选手周意同获男单铜牌，并指出他们分别在半决赛中负于吴易昺和商竣程，侧面印证半决赛为两盘决胜的结构）",
+        "url": "https://news.rthk.hk/rthk/en/component/k2/1832385-20251119.htm",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "2025 全运会网球男子单打半决赛中，北京选手商竣程以 2:0（6‑4、6‑3）战胜广西选手周意晋级决赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖赛冲刺赛刘易斯·汉密尔顿从第18位起步。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，冲刺排位赛中，汉密尔顿仅跑出第 18 名的成绩，按原始成绩应从第 18 位发车。但赛后法拉利对赛车后翼和悬挂等进行调整，违反了 parc fermé 规定，因此汉密尔顿放弃发车格，被官方确定为“从维修区起步”（pit lane start）。​F1 官方与多家媒体的赛后报道都明确写道：汉密尔顿在 2025 卡塔尔大奖赛冲刺赛是从维修区发车，而不是从发车区第 18 位起步，因此 claim 中“从第18位起步”的表述不符合实际发车方式。",
+    "evidence_sources": [
+      {
+        "content": "Lewis Hamilton among four F1 drivers set for Qatar pit lane start（说明包括汉密尔顿在内的四位车手因更改设定，放弃发车格，冲刺赛从维修区起步）",
+        "url": "https://racingnews365.com/lewis-hamilton-among-four-f1-drivers-set-for-qatar-pit-lane-start",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Qatar GP F1 sprint grid with four pitlane starts（列出卡塔尔冲刺赛发车名单，标明 Lewis Hamilton 为 pit lane 起步，而非第 18 位栅格）",
+        "url": "https://www.the-race.com/formula-1/qatar-gp-f1-sprint-grid-with-four-pitlane-starts/",
+        "credibility": "High"
+      },
+      {
+        "content": "Lewis Hamilton misery compounded after Qatar pit-lane start announced（报道：汉密尔顿在冲刺排位仅列第 18，但已被确认在冲刺正赛从维修区起步）",
+        "url": "https://www.gpfans.com/en/f1-news/1069170/lewis-hamilton-misery-compounded-after-qatar-pitlane-start-announced/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 F1 卡塔尔大奖赛冲刺赛中，刘易斯·汉密尔顿在排位赛获得第 18 名，但由于赛车进行设定更改而违反 parc fermé 规定，最终在冲刺赛从维修区起步。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025F1卡塔尔大奖赛冲刺赛兰斯·斯托尔从第16位起步。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，多家赛事报道与起步排位列表显示，2025 年 F1 卡塔尔大奖赛冲刺赛（Sprint）中，兰斯·斯托尔（Lance Stroll，阿斯顿·马丁车队）的正式发车位置为第 16 位，这是在冲刺排位赛中以第 16 名成绩结束 SQ1 后确定的起步格位。然而同一批起步名单同时指出，斯托尔并非从正常发车格发车，而是因更改赛车设置等原因与部分车手一起从维修通道起步（pit lane start），即实际并不是从赛道上的“第 16 位起步”，因此 claim 将“官方排位 P16”混同为“从第 16 位起步”，忽略了其实际从维修通道发车的事实，构成起步位置描述错误。",
+    "evidence_sources": [
+      {
+        "content": "The starting grid for the 2025 F1 Qatar GP sprint race（起步列表中给出冲刺赛的发车顺位，兰斯·斯托尔在表格中列为第 16 位车手，但说明他所在组别车手随后被调整为维修通道起步。）",
+        "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2025-f1-qatar-gp-sprint-race/10780596/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025 Qatar Grand Prix sprint race grid（RaceFans 的冲刺赛排位结果中，斯托尔在冲刺排位赛中排在第 16 名，并标注其时间为 1:21.807，但报道同时指出多名车手在正赛或冲刺中从维修通道起步。）",
+        "url": "https://www.racefans.net/2025/11/28/2025-qatar-grand-prix-sprint-race-grid/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What is the grid order for the Sprint at the Qatar Grand Prix?（PlanetF1 的冲刺格表显示，第 16 位对应的车手是 Lance Stroll，后文补充说明部分车手因调整赛车从维修通道发车，并非从赛道上对应的格位直接起步。）",
+        "url": "https://www.planetf1.com/news/f1-starting-grid-2025-qatar-grand-prix-sprint",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年 F1 卡塔尔大奖赛冲刺赛中，兰斯·斯托尔在冲刺排位赛中名列第 16 位，但比赛实际从维修通道起步，而不是从赛道上的第 16 位发车。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛2025赛季拉斯维加斯大奖赛正赛在周日举行。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，2025 赛季拉斯维加斯大奖赛官方赛程显示，正赛在当地时间 2025 年 11 月 22 日（星期六）20:00 于拉斯维加斯街道赛道起跑，而不是星期日。​多个转播与赛程页面也强调：本场为“周六夜赛”，例如给出“比赛开始时间为周六 22 日 20:00（PT），对应周日 04:00 GMT / 英国时间周日凌晨 4 点”，这只是因为时区换算在欧洲观众看来是“周日清晨”，但比赛举办地当地日期仍然是周六。",
+    "evidence_sources": [
+      {
+        "content": "2025 Las Vegas Grand Prix - Wikipedia（说明 2025 年拉斯维加斯大奖赛于 2025 年 11 月 22 日 20:00 当地时间举行，并未标为周日赛事）",
+        "url": "https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 Las Vegas GP 2025 | Date, Schedule & Start Time（列出赛程：正赛开始时间为“Sunday 23 November 04:00 GMT”，并说明当地为 11 月 22 日晚间夜赛）",
+        "url": "https://racingnews365.com/formula-1-circuits/gp-las-vegas",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Why is the F1 Las Vegas Grand Prix not taking place on a Sunday?（专门解释：为配合欧洲观众收视，F1 将拉斯维加斯周末整体提前一天安排，比赛在当地时间周六晚 8 点进行，而非传统的周日）",
+        "url": "https://www.gpfans.com/us/f1-news/1068285/why-f1-las-vegas-grand-prix-on-sunday-time-difference/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "世界一级方程式大赛 2025 赛季拉斯维加斯大奖赛正赛在当地时间 2025 年 11 月 22 日（星期六）夜间举行，而不是在周日举行。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "世界一级方程式大赛2025赛季新加坡大奖赛冲刺赛在周六举行。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，F1新加坡大奖赛没有冲刺赛。",
+    "evidence_sources": [
+      {
+        "content": "Scientific research and academic publications",
+        "url": "https://scholar.google.com",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "F1新加坡大奖赛没有冲刺赛。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "《还有明天》中迪莉娅收到的票是逃走的船票。",
+    "verdict": "Refuted",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
+    "justification": "错误，《还有明天》是以1946年意大利女性首次获得投票权为背景的电影，女主角迪莉娅收到的是“选举证/选票”，象征她第一次获得公民投票权，并非用于逃离的船票。 观众在观影过程中常一度以为那是一张逃离家庭的“出走船票”，但影片到结尾揭示，她真正紧握并投出的，是选票而非船票，这也是她觉醒的关键时刻。 因此，将“迪莉娅收到的票”描述为“逃走的船票”在物理含义上是错误的，只能视作部分观众的主观误读或隐喻性理解。",
+    "evidence_sources": [
+      {
+        "content": "意大利电影《还有明天》——当女性从贫乏生活中觉醒（介绍影片背景为1946年意大利女性首次获得投票权，并提到女性获得选举证和投票情节）",
+        "url": "https://e.gmw.cn/2025-03/10/content_37895767.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "《还有明天》：明天因你而来（分析影片，以女性获得投票权、走向投票站作为结尾高光，强调选票象征意义）",
+        "url": "https://www.163.com/dy/article/JR1MEOUL0517CM0B.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "豆瓣9.4神作，今年最惊悚、最暴力的电影！（剧情解读中描述迪莉娅走出投票站、投票情节，说明“票”是选票而非船票）",
+        "url": "https://news.qq.com/rain/a/20250313A068P300",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《还有明天》中迪莉娅收到的“票”是真正的选举证（选票），象征她首次获得投票权，而不是逃走的船票。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《狂野时代》获戛纳电影节主竞赛单元特别奖。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家媒体和出品方新闻稿均明确指出，毕赣执导的电影《狂野时代》在第78届戛纳电影节上获得了“主竞赛单元特别奖”（或“评审团特别奖/特别奖”），奖项出处为戛纳主竞赛单元评审团而非其他单元。 报道中给出的完整获奖名单里，将《狂野时代》列在戛纳主竞赛单元奖项下，奖名即“特别奖”，与claim表述“获戛纳电影节主竞赛单元特别奖”一致，未发现与其他影片或其他单元混淆的情况。",
+    "evidence_sources": [
+      {
+        "content": "华策出品电影《狂野时代》获戛纳电影节主竞赛单元评审团特别奖！（报道第78届戛纳电影节，《狂野时代》获主竞赛单元评审团特别奖）",
+        "url": "https://www.huacemedia.com/mobile/index.php/news/info/1054.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》获戛纳主竞赛单元特别奖（新浪财经报道，第78届戛纳，《狂野时代》获主竞赛单元特别奖，并说明为评审团特设奖项）",
+        "url": "https://finance.sina.com.cn/jjxw/2025-05-27/doc-inexxywm7258662.shtml",
+        "credibility": "Medium"
+      },
+      {
+        "content": "上海出品传喜讯！毕赣《狂野时代》获戛纳电影节主竞赛单元特别奖（列出主竞赛单元获奖名单，其中“特别奖：《狂野时代》 毕赣”）",
+        "url": "https://news.qq.com/rain/a/20250525A01CXX00",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《狂野时代》在第78届戛纳电影节上获得了主竞赛单元特别奖（评审团特别奖）。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第37界大众电影百花奖最佳男主角评审中，刘德华共获得21票位居第二名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家关于第37届大众电影百花奖评选结果的报道都给出了最佳男主角最终现场投票的具体票数分布：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票。 在这组票数中，刘德华以21票排在朱一龙之后，票数第二高，因此“刘德华共获得21票位居第二名”的说法与公开报道完全一致。",
+    "evidence_sources": [
+      {
+        "content": "朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（文中列出最佳男主角现场投票结果：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票）",
+        "url": "https://www.163.com/dy/article/J91H3TS70517WCAS.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（同样给出最佳男主角投票明细，显示刘德华获21票，位列第二）",
+        "url": "https://news.qq.com/rain/a/20240808A00BUU00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（另一媒体转载/类似报道，列出相同票数分布：刘德华21票，第二名）",
+        "url": "https://www.yeeyi.com/news/details/2429898/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第37届大众电影百花奖最佳男主角评审中，刘德华共获得21票，票数位居第二名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第37界大众电影百花奖最佳男主角评审中，易烊千玺共获得2票位居第五名。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多家报道给出第37届大众电影百花奖最佳男主角现场投票的具体票数：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票。 在这5位候选人中，易烊千玺的2票为最低票数，因此在最佳男主角评审结果中确实排在第五名，与claim完全一致。",
+    "evidence_sources": [
+      {
+        "content": "朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（列出最佳男主角现场投票结果：朱一龙30票、刘德华21票、张艺兴9票、王俊凯3票、易烊千玺2票）",
+        "url": "https://www.163.com/dy/article/J91H3TS70517WCAS.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "超刘德华9票，朱一龙获百花影帝！贾玲易烊千玺再陪跑，后者仅2票（给出同样的票数分布并强调“易烊千玺仅2票”）",
+        "url": "https://news.qq.com/rain/a/20240808A00BUU00",
+        "credibility": "Medium"
+      },
+      {
+        "content": "朱一龙影帝含金量被质疑？王俊凯3票易烊千玺2票（讨论百花奖投票，并提到“王俊凯3票、易烊千玺2票”的结果）",
+        "url": "https://view.inews.qq.com/a/20240805A096EJ00",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第37届大众电影百花奖最佳男主角评审中，易烊千玺共获得2票，票数位居第五名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "第36届大众电影百花奖最佳男配角中，侯勇凭借《守岛人》入围。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。新华社发布的第36届大众电影百花奖提名名单中明确写明，最佳男配角提名包括侯勇、刘昊然、田雨、易烊千玺、朱亚文，侯勇是凭借电影《守岛人》中王长杰一角入围最佳男配角。 随后关于颁奖结果的报道也一再强调，侯勇凭借《守岛人》获得第36届大众电影百花奖最佳男配角奖，说明其确实先以该片身份进入最佳男配角提名名单。",
+    "evidence_sources": [
+      {
+        "content": "第36届大众电影百花奖提名名单公布（新华社：最佳男配角提名包括侯勇、刘昊然、田雨、易烊千玺、朱亚文）",
+        "url": "http://www.news.cn/2022-07/20/c_1128848698.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "第36届大众电影百花奖提名名单公布 - 新华社客户端（同样列出最佳男配角提名中包含侯勇《守岛人》）",
+        "url": "https://xhpfmapi.xinhuaxmt.com/vh512/share/10966952",
+        "credibility": "High"
+      },
+      {
+        "content": "第36届大众电影百花奖 - 维基百科（显示Best Supporting Actor提名及获奖者中有Hou Yong – Island Keeper）",
+        "url": "https://zh.wikipedia.org/zh-hans/%E7%AC%AC36%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "第36届大众电影百花奖最佳男配角奖项中，侯勇凭借《守岛人》获得提名并最终获奖。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《ALL HER FAULT》中，Carrie的死是意外。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，多篇剧情解析与结局解读明确描述，Carrie（本名 Josephine “Josie” Murphy）在结局中被 Peter 在争夺枪支的肢体冲突中射杀，Peter事后声称是自卫或走火，但叙事与他阻止证据曝光的动机强烈暗示这是带有主观意图的杀人行为，而非单纯“意外死亡”。 报道普遍将她的死归因于Peter为掩盖真相、阻止她揭露当年车祸与换婴真相，因此将Carrie的死简单描述为“意外”与主流情节解读不符。",
+    "evidence_sources": [
+      {
+        "content": "All Her Fault: Every Mystery Explained (and One Left Unsolved)（说明Carrie闯入Irvine家试图揭露Peter，被Peter在争夺枪支中射杀，并指出剧集暗示他是有意让她闭嘴）",
+        "url": "https://www.peacocktv.com/blog/all-her-fault-every-mystery-explained",
+        "credibility": "Medium"
+      },
+      {
+        "content": "All Her Fault ending explained | Who kidnapped Milo?（描述Peter将枪转向惊恐的Carrie并将其射杀，之后试图把事件包装成“意外走火/自卫”）",
+        "url": "https://www.radiotimes.com/tv/drama/all-her-fault-ending-explained/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美剧《ALL HER FAULT》中，Carrie在结局里被Peter在争夺枪支的过程中射杀，剧中多处情节暗示这是Peter为掩盖真相而故意实施的杀人行为，而非单纯的意外身亡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《狂野时代》中，李庚希饰演的角色是永生的人类。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
+    "justification": "错误，影片整体世界观设定为“人类已经实现永生，但代价是不再做梦，仍执着做梦的被称为‘迷魂者’”，永生设定指的是这个未来世界里的人类整体状态，而非特指由李庚希饰演的某个单独角色。 多篇影评与解读都将李庚希在第五章节中明确称为“吸血鬼少女”或“吸血鬼黑帮首领手下的吸血鬼情人”，并未将其设定为“永生人类”这一独立概念，而是作为吸血鬼意象出现。 因此，说“李庚希饰演的角色是永生的人类”混淆了整体世界观中“人类永生”的宏观设定与具体角色（吸血鬼少女）的身份，属于事实描述错误。",
+    "evidence_sources": [
+      {
+        "content": "《狂野时代》的文青病，易烊千玺也遭不住（介绍影片设定为‘在未来，人类已经实现了永生，但代价是不再做梦’，并指出第五故事中李庚希饰演的是吸血鬼少女）",
+        "url": "http://www.zgtmt.com/?p=76586",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》的文青病，易烊千玺也遭不住 - 澎湃新闻（点明“故事五代表触觉”，迷魂者与李庚希饰演的吸血鬼少女相遇）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_32034134",
+        "credibility": "Medium"
+      },
+      {
+        "content": "《狂野时代》看不懂？看这一篇就够了！（剧情分章解析，第五章节中写明迷魂者化身少年阿波罗，遇到李庚希饰演的神秘少女邰肇玫，其真实身份是吸血鬼）",
+        "url": "https://www.163.com/dy/article/KF23BOTS051791LB.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《狂野时代》中，李庚希饰演的是吸血鬼少女邰肇玫，故事发生在一个“人类已经实现永生但失去做梦能力”的世界观下，但片中并未将她单独设定为“永生的人类”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《瞬息全宇宙》中，Evelyn最终接受了自己女儿的男友。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Entity Attribute Errors",
+    "justification": "错误，影片中乔伊（Joy）是女同性恋，她在片中一直试图让母亲Evelyn接受自己的女友Becky，而不是“男友”。 结局时，Evelyn在与乔伊和解后，终于当面向外公介绍Becky是乔伊的“girlfriend/女朋友”，影评与报道都将这一幕视为她接受女儿及其女友身份的关键时刻，因此原claim将Becky称为“男友”属于性别与关系事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Everything (Queer) Everywhere All At Once（详细分析Evelyn如何从把Becky介绍成“好朋友”到结局时改口介绍为Joy的girlfriend，完成对女儿及其女友的接纳）",
+        "url": "https://scalawagmagazine.org/2023/03/everything-everywhere-all-at-once-queer/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Everything Everywhere All at Once - Wikipedia（剧情中明确写到Joy带女友Becky回家见父亲，Evelyn一开始否认这段女同关系，结尾时接受并向外公说明Becky是Joy的girlfriend）",
+        "url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《瞬息全宇宙》中，Evelyn最终接受了自己女儿以及她的女友Becky，并在外公面前以“女朋友”的身份正式介绍Becky。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "舒淇凭借电影《女孩》获得了第30姐釜山国际电影节主竞赛单元的最佳影片。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，公开信息显示，舒淇执导的电影《女孩》（Girl）在第30届釜山国际电影节“Busan Award”主竞赛单元中获得的是“最佳导演奖”（Best Director Award），获奖者为导演舒淇本人，而“最佳影片奖”（Best Film Award / Best Film Award in Competition）则授予了张律导演的中国影片《落暮之光》（Gloaming in Luomu），《女孩》在该单元仅为最佳影片提名而非获奖。 因此，“《女孩》获得主竞赛单元最佳影片”这一说法与实际获奖结果不符。",
+    "evidence_sources": [
+      {
+        "content": "30th Busan International Film Festival - Wikipedia（列出Busan Award官方竞赛单元奖项：最佳影片为《Gloaming in Luomu》，最佳导演为舒淇《Girl》）",
+        "url": "https://en.wikipedia.org/wiki/30th_Busan_International_Film_Festival",
+        "credibility": "High"
+      },
+      {
+        "content": "Girl (2025 film) - Wikipedia（说明《Girl》在第30届釜山电影节Busan Award单元获最佳导演奖，最佳影片奖为提名状态）",
+        "url": "https://en.wikipedia.org/wiki/Girl_(2025_film)",
+        "credibility": "High"
+      },
+      {
+        "content": "The 30th Busan International Film Festival announces its 2025 award winners（官方获奖名单报道：最佳影片为《Gloaming in Luomu》，最佳导演为舒淇《Girl》）",
+        "url": "https://senalnews.com/en/events/the-30th-busan-international-film-festival-announces-its-2025-award-winners",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "舒淇凭借导演处女作《女孩》在第30届釜山国际电影节主竞赛单元（Busan Award）获得了最佳导演奖，而该单元的最佳影片奖由张律执导的《落暮之光》获得。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《老友记》中，Ross离过三次婚。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，多份角色介绍与剧情梳理都明确写到，Ross Geller在《老友记》中一共结过三次婚，并且三次都以离婚告终，三段婚姻对象分别是 Carol、Emily 和 Rachel，这一设定也是剧中的反复笑点。 因此，“Ross离过3次婚”这一说法与官方与权威百科等资料一致，可判定为正确。",
+    "evidence_sources": [
+      {
+        "content": "Ross Geller - Wikipedia（角色条目指出：Ross结过三次婚并离过三次婚，是剧中的反复笑点之一）",
+        "url": "https://en.wikipedia.org/wiki/Ross_Geller",
+        "credibility": "High"
+      },
+      {
+        "content": "How many times did Ross get married on Friends? - Soap Central（说明Ross在《老友记》中有三段婚姻，并且三次婚姻都以离婚收场）",
+        "url": "https://www.soapcentral.com/shows/how-many-times-did-ross-get-married-on-friends",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ross Geller | Friends Central | Fandom（粉丝百科概述Ross有三位前妻：Carol、Emily 与 Rachel，指明他结婚三次并最终全部离婚）",
+        "url": "https://friends.fandom.com/wiki/Ross_Geller",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "美剧《老友记》中，Ross一共离过3次婚。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《巴黎夏日》是在2024巴黎奥运会实景拍摄的。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。公开报道与影讯介绍均指出，法国电影《巴黎夏日》（That Summer in Paris / Paris Summer）是在2024年巴黎奥运会期间，于巴黎及相关场景进行实景拍摄，创作团队在真实奥运人群、粉丝区以及城市环境中机动取景，而非搭建封闭片场。 影片故事情节也明确设定在2024巴黎奥运会举行期间，主角赴巴黎观看游泳比赛，画面中大量使用真实奥运场景和观众环境，符合“在2024巴黎奥运会实景拍摄”的描述。",
+    "evidence_sources": [
+      {
+        "content": "Filming during the Olympics: “That Summer In Paris”, a successful endeavor in Paris Region（介绍影片《That Summer In Paris》在2024巴黎奥运会期间于巴黎地区实景拍摄，借用真实赛事氛围）",
+        "url": "http://www.filmparisregion.com/en/news/filming-during-olympics-summer-paris-successful-endeavor-paris-region",
+        "credibility": "High"
+      },
+      {
+        "content": "法国冷门治愈系佳片《巴黎夏日》（介绍影片故事发生并拍摄于2024年巴黎奥运会期间，在真实奥运现场和城市空间中借景取材）",
+        "url": "https://www.163.com/dy/article/K8NA5B220556CHBF.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《巴黎夏日》是在2024年巴黎奥运会期间于巴黎实景拍摄，使用了大量真实奥运赛事和城市环境作为取景背景。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《F1:狂飙飞车》是借用真实的F1赛车拍摄的。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，权威报道与技术解析一致说明，这部被中文译作《F1：狂飙飞车》的电影《F1》为拍摄比赛场面，购买并改装了多辆真实的 F2 赛车（Dallara F2 2018 底盘与动力），由梅赛德斯 AMG F1 等团队为其设计符合 F1 外观的车身和空气动力学套件，用来“伪装成”F1 赛车并承载大量摄像与记录设备。 影片确实在真实 F1 分站周末和真赛道上拍摄，并融合真实 F1 赛事画面与 CG，但主创明确强调用于拍摄的赛车并非现役 F1 赛车，而是经过深度改装的 F2 赛车和少量数字化处理过的真 F1 画面，因此“电影是借用真实的F1赛车拍摄的”在车辆层面属于事实错误表述。",
+    "evidence_sources": [
+      {
+        "content": "How the",
+        "url": "https://www.formula1.com/en/latest/article/how-the-f1-movie-filmed-its-thrilling-car-sequences.2le7vDxZDbdeZdGyhfGLHZ",
+        "credibility": "High"
+      },
+      {
+        "content": "Could F2 drivers recognise the F2 car in F1: The Movie?（F2 车手与记者说明：片中所谓“F1 车”其实是经过梅赛德斯和车队改装的 F2 赛车，用来在真实大奖赛周末进行拍摄）",
+        "url": "https://feederseries.net/2025/06/27/could-f2-drivers-recognise-the-f2-car-in-f1-the-movie/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "All you need to know about APXGP cars in Brad Pitt",
+        "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/all-you-need-to-know-about-apxgp-cars-in-brad-pitts-f1-feature-film",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《F1：狂飙飞车》（《F1》）是在真实 F1 分站周末与真实赛道环境中拍摄，使用经过梅赛德斯等团队改装的真实 F2 赛车伪装成 F1 赛车，并结合真实 F1 比赛画面和视觉特效完成，而不是直接借用现役 F1 赛车完成全程拍摄。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《道格拉斯被取消了》中凯伦·吉兰饰演的是一个主持人。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，《Douglas Is Cancelled》（《道格拉斯被取消了》）是英国 ITV 出品的英剧，不是美剧，因此将其称为“美剧”在地域与制作国家属性上是错误的。 虽然凯伦·吉兰在剧中确实饰演一位电视新闻节目的联合主持人，但该 claim 把剧集性质说成“美剧”，整体表述包含事实错误，不能判定为完全正确。",
+    "evidence_sources": [
+      {
+        "content": "Douglas Is Cancelled - Wikipedia（说明本剧为 2024 年英国 ITV 播出的四集电视迷你剧，类型为英国职场/媒体题材剧集，而非美国剧）",
+        "url": "https://en.wikipedia.org/wiki/Douglas_Is_Cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "Everything you need to know about Douglas is Cancelled（RTS 文章将其明确定义为 ITV 的英国剧集，讲述英国电视新闻节目主持人的“取消”风波）",
+        "url": "https://rts.org.uk/article/everything-you-need-know-about-douglas-cancelled",
+        "credibility": "High"
+      },
+      {
+        "content": "一句玩笑最终身败名裂，高分英剧审视“取消文化”（中文媒体明确称《道格拉斯被取消了》为“英剧”，强调其为英国出品的剧集）",
+        "url": "https://www.163.com/dy/article/JSSNBAAH0519DDQ2.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "英剧《道格拉斯被取消了》中凯伦·吉兰饰演的是一个主持人。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《唐顿庄园》是由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导的。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "错误，《唐顿庄园》（Downton Abbey）是英国 ITV 播出的英剧，而非“美剧”，在国别属性上将其称作“美剧”属于明显的地理/地区错误。关于导演，剧集由多位导演共同执导，Brian Percival 和 James Strong 都确实担任过部分集数的导演之一，但并非“只有他们两人联合执导整部剧”，而是 14 位导演共同参与，因此把导演简单说成“由布莱恩·珀西瓦尔、詹姆斯·斯特朗联合执导”也是对导演阵容的过度简化和不准确表述。",
+    "evidence_sources": [
+      {
+        "content": "Downton Abbey - Wikipedia（说明《Downton Abbey》是一部由 Julian Fellowes 创作、Carnival Films 与 Masterpiece 共同制作的英国历史年代剧，在 ITV 首播，强调其为 British historical drama television series 而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Downton_Abbey",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Downton Abbey (TV Series 2010–2015) – Full cast & crew（IMDB 的完整制作名单中，列出本剧共有多位导演参与：Brian Percival、David Evans、Philip John、Andy Goddard、James Strong 等，Brian Percival 与 James Strong 只是其中一部分集数的导演，并非唯一“联合执导”者。）",
+        "url": "https://www.imdb.com/title/tt1606375/fullcredits/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "唐顿庄园 – 维基百科（中文词条指出，《唐顿庄园》是英国独立电视台 ITV 播出的英国电视剧，并在“导演”一节中列出 Brian Percival、Ben Bolt、Brian Kelly、Andy Goddard、James Strong 等多位导演，而非仅有 Percyval 与 Strong 二人。）",
+        "url": "https://zh.wikipedia.org/zh-cn/%E5%94%90%E9%A1%BF%E5%BA%84%E5%9B%AD",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《唐顿庄园》是一部英国 ITV 播出的英国历史剧情电视剧，由 Brian Percival、James Strong 等多位导演分别执导不同集数。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "美剧《黑镜》中饰演艾比的是杰西卡·布朗·芬德利。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，《黑镜》（Black Mirror）是一部由查理·布鲁克创作、最初在英国 Channel 4 播出的英国科幻选集剧，而不是美剧，将其称为“美剧”在国别属性上存在地理错误。在剧集本身层面，“艾比”（Abi Khan）这一角色确实出自第一季第二集《一千五百万积分》（Fifteen Million Merits），由杰西卡·布朗·芬德利（Jessica Brown Findlay）饰演，这部分是正确的；但由于 claim 将整部作品错误归类为“美剧”，作为一个整体表述仍应判为错误。",
+    "evidence_sources": [
+      {
+        "content": "Black Mirror - Wikipedia（说明《Black Mirror》是一部 British anthology television series，由 Charlie Brooker 创作，最初在英国 Channel 4 播出，之后被 Netflix 接手制作和发行，因此其本质上是英剧而非美剧。）",
+        "url": "https://en.wikipedia.org/wiki/Black_Mirror",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Fifteen Million Merits - Wikipedia（该集剧情介绍中写明，Bing 在洗手间听到 Abi Khan (Jessica Brown Findlay) 唱歌，并说服她参加选秀节目 Hot Shot，由此可见 Abi 一角由 Jessica Brown Findlay 饰演。）",
+        "url": "https://en.wikipedia.org/wiki/Fifteen_Million_Merits",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Jessica Brown Findlay as Abi – Black Mirror (IMDB 人物页的角色条目，直接标注她在《Black Mirror》剧集的 “Fifteen Million Merits” 一集中饰演 Abi 一角。)",
+        "url": "https://www.imdb.com/title/tt2089049/characters/nm3726887/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "英剧《黑镜》中，第一季第二集《一千五百万积分》的角色艾比（Abi Khan）由杰西卡·布朗·芬德利饰演。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "日剧《鱿鱼游戏2》获得第82届美国电影电视金球奖剧情类最佳剧集提名。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
+    "justification": "《鱿鱼游戏》是一部由韩国导演黄东赫创作、Netflix 出品的韩国电视剧（K-drama），而非日剧，将其称为“日剧”在作品国别属性上存在明显地理错误。同时，多家媒体与金球奖官方名单均确认，《Squid Game》第二季（通常宣传为 “Squid Game Season 2” 或 “Squid Game 2”）在第 82 届美国电影电视金球奖中获得了“最佳电视连续剧 – 剧情类”（Best Television Series – Drama）的提名，这一部分内容是正确的，因此 claim 混合了“国别错误”和“奖项信息正确”。",
+    "evidence_sources": [
+      {
+        "content": "Squid Game season 2 – Wikipedia（说明《Squid Game》第二季是 South Korean dystopian survival thriller television series 的第二季，条目中多次强调该剧为韩国电视剧，由韩国制作团队创作。）",
+        "url": "https://en.wikipedia.org/wiki/Squid_Game_season_2",
+        "credibility": "Medium"
+      },
+      {
+        "content": "NOMINATIONS ANNOUNCED FOR 82nd ANNUAL GOLDEN GLOBES – Golden Globes 官方网站（在“BEST TELEVISION SERIES – DRAMA”提名名单中列出《SQUID GAME (NETFLIX)》，表明该剧获得第 82 届金球奖剧情类最佳剧集提名。）",
+        "url": "https://goldenglobes.com/articles/nominations-announced-for-82nd-annual-golden-globes/",
+        "credibility": "High"
+      },
+      {
+        "content": "Netflix",
+        "url": "https://cnalifestyle.channelnewsasia.com/entertainment/squid-game-season-two-2025-golden-globes-nomination-414996",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "韩国剧《鱿鱼游戏》第二季（Squid Game Season 2）获得了第 82 届美国电影电视金球奖“最佳电视连续剧 – 剧情类”提名。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2025年F1卡塔尔大奖赛正赛排位赛的颁奖嘉宾是德约科维奇。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，现有报道表明，德约科维奇出现在2025年F1卡塔尔大奖赛周末，并在冲刺赛（Sprint Race）的颁奖仪式上为前三名车手颁发奖杯，而非正赛或排位赛的颁奖嘉宾。 报道和赛事信息中只提到他为冲刺赛获胜者皮亚斯特里等人颁奖，并未将其列为正赛或排位赛的官方颁奖嘉宾，因此“正赛排位赛的颁奖嘉宾是德约科维奇”这一说法与事实不符。",
+    "evidence_sources": [
+      {
+        "content": "Djokovic serves F1 drivers Piastri, Russell & Norris trophies in Qatar（ATP 官方站：德约科维奇在卡塔尔大奖赛冲刺赛颁奖典礼上为皮亚斯特里、拉塞尔和诺里斯颁奖）",
+        "url": "https://www.atptour.com/en/news/djokovic-november-2025-f1-sprint-race-qatar",
+        "credibility": "High"
+      },
+      {
+        "content": "Qatar Grand Prix: Novak Djokovic lights up podium as Oscar Piastri wins F1 Sprint（报道称他为卡塔尔大奖赛冲刺赛冠军皮亚斯特里及其他登台车手颁奖，未提其为正赛/排位赛颁奖嘉宾）",
+        "url": "https://timesofindia.indiatimes.com/sports/formula-one/news/qatar-grand-prix-novak-djokovic-lights-up-podium-as-oscar-piastri-wins-f1-sprint",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Formula 1: Tennis Star Novak Djokovic Presents Sprint Race Awards As Piastri, Russell & Norris Shine In Qatar（说明德约科维奇在卡塔尔站为冲刺赛前三名颁奖，作为冲刺赛颁奖嘉宾出席）",
+        "url": "https://www.freepressjournal.in/sports/formula-1-tennis-star-novak-djokovic-presents-sprint-race-awards-as-piastri-russell-norris-shine-in-qatar",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1卡塔尔大奖赛中，德约科维奇作为嘉宾出现在周末活动，并在冲刺赛（Sprint Race）的颁奖仪式上为前三名车手颁发奖杯，但并不是正赛或排位赛的颁奖嘉宾。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯获得第二名。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "错误，2025年F1拉斯维加斯大奖赛正赛中，兰多·诺里斯在赛道上以第二名身份冲线，但赛后技术检查发现其赛车底板磨损超过规定，与队友皮亚斯特里一起被FIA取消成绩，从最终正式成绩表中被剔除。 调整后的官方完赛排名中，乔治·拉塞尔被记为第二名，诺里斯则标注为DSQ（取消成绩），因此不能说“获得第二名”。",
+    "evidence_sources": [
+      {
+        "content": "2025 Las Vegas Grand Prix - Wikipedia（说明诺里斯原本以第二名完赛，但因赛后底板磨损不合规与皮亚斯特里一同被取消成绩，正式成绩中被记为DSQ）",
+        "url": "https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix",
+        "credibility": "High"
+      },
+      {
+        "content": "Las Vegas GP: McLaren",
+        "url": "https://www.skysports.com/f1/news/12040/13474307/las-vegas-gp-mclarens-lando-norris-and-oscar-piastri-disqualified-in-big-moment-for-title-race",
+        "credibility": "Medium"
+      },
+      {
+        "content": "2025 F1 Las Vegas Grand Prix - Race Results after disqualification（赛后正式成绩表中，第二名为乔治·拉塞尔，诺里斯被标注为DSQ，不在最终名次内）",
+        "url": "https://www.the-race.com/formula-1/f1-2025-las-vegas-grand-prix-race-result/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1拉斯维加斯大奖赛中，兰多·诺里斯在比赛中以第二名冲线，但因赛后技术检查底板磨损不合规被取消成绩，最终官方正式成绩中没有被记为第二名。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯因底板厚度为8.9mm被取消成绩。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，FIA 技术通告与多家媒体均指出，兰多·诺里斯在2025年F1拉斯维加斯大奖赛中被取消成绩的原因，是其赛车底部滑块/木板（skid block / plank）磨损导致厚度低于规定位于 9mm 的最小限值。 具体测量数据显示，诺里斯赛车后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm，即在8.9mm左右，确实低于 9mm，因此“因为底板厚度约为 8.9mm 被取消成绩”的核心事实是成立的，但原始技术报告给出的是两个具体数值（8.88mm 与 8.93mm），而非单一精确值“8.9mm”。 由于 claim 将精确技术数据概括为“底板厚度为 8.9mm”这一单值描述，在严格意义上并不完全准确，故整体判定为“错误”（或至少不精确）。",
+    "evidence_sources": [
+      {
+        "content": "Why were Lando Norris and Oscar Piastri disqualified from the Las Vegas GP?（援引仲裁书：诺里斯后部滑块测量为 RHS Front 8.88mm、RHS Rear 8.93mm，低于规定位于 9mm 的最小厚度，因而被取消成绩）",
+        "url": "https://www.independent.co.uk/f1/lando-norris-oscar-piastri-disqualified-why-f1-las-vegas-gp-b2870700.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Lando Norris & Oscar Piastri disqualified, Max Verstappen wins - BBC live coverage（技术说明：Car 4 后部滑块测得厚度为 8.88mm 和 8.93mm，低于 9mm 的法规限值，因此构成违规）",
+        "url": "https://www.bbc.co.uk/sport/formula1/live/c5yk91ypz5lt",
+        "credibility": "High"
+      },
+      {
+        "content": "What did McLaren do wrong to get Oscar Piastri and Lando Norris disqualified?（解释木板原始厚度 10mm，允许磨损 1mm；诺里斯的木板最严重处磨损 1.12mm，导致厚度约 8.88mm，低于 9mm 最小要求）",
+        "url": "https://www.abc.net.au/news/2025-11-24/what-did-mclaren-do-wrong-at-the-las-vegas-f1-grand-prix/106043812",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025年F1拉斯维加斯大奖赛中，兰多·诺里斯因赛车底部滑块/木板磨损过度，导致测得厚度约为 8.88mm 和 8.93mm，低于规定位于 9mm 的最小厚度，而被取消成绩。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2025年F1拉斯维加斯大奖赛中兰多·诺里斯因后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm被取消成绩。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，FIA 技术代表与多家权威媒体给出的技术报告明确写明，兰多·诺里斯在 2025 年 F1 拉斯维加斯大奖赛后技术检查中，其赛车后部右侧滑块（rear skid / skid block）厚度测量结果为前端约 8.88mm、后端约 8.93mm，低于规定位于 9mm 的最小允许厚度，因此违反技术法规第 3.5.9(e) 条，被判定取消比赛成绩。 这些测量数值与 claim 中“后部右侧前端与后端滑块厚度分别约为 8.88mm 和 8.93mm被取消成绩”的描述一致，故该 claim 可判定为正确。",
+    "evidence_sources": [
+      {
+        "content": "Official: Norris and Piastri disqualified from Las Vegas Grand Prix（官方技术说明：诺里斯赛车后部右侧滑块厚度测得为 RHS Front 8.88mm、RHS Rear 8.93mm，低于规定最小 9mm，因此被取消成绩）",
+        "url": "https://www.racefans.net/2025/11/23/official-norris-and-piastri-disqualified-from-las-vegas-grand-prix/",
+        "credibility": "High"
+      },
+      {
+        "content": "McLaren stripped of Vegas results after skid-block breach（报道指出：诺里斯赛车读数为右前 8.88mm、右后 8.93mm，未达到 9mm 最小厚度要求，导致迈凯伦在拉斯维加斯站双双被取消成绩）",
+        "url": "https://www.grandprix.com/news/mclaren-stripped-of-vegas-results-after-skid-block-breach.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "FIA explain reason for Lando Norris and Oscar Piastri Las Vegas disqualifications（FIA 解释：诺里斯右侧滑块前端为 8.88mm、后端为 8.93mm，均低于 9mm 最低值，因此构成违规并被取消成绩）",
+        "url": "https://racingnews365.com/fia-explain-reason-for-lando-norris-and-oscar-piastri-las-vegas-disqualifications",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2025 年 F1 拉斯维加斯大奖赛中，兰多·诺里斯因赛车后部右侧前端和后端滑块厚度分别约为 8.88mm 和 8.93mm、低于规定的最小 9mm 而被取消成绩。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "电影《疯狂动物城》中“夏奇羊”的原型歌手昵称是“狼姐”。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。“夏奇羊”这一角色的原型是歌手夏奇拉，而在中文语境中，夏奇拉因为代表作《She Wolf》（中文常译“女狼出没”或“女狼现身”）广泛被粉丝和媒体昵称为“狼姐”。 多个中文报道、视频标题与文案中直接使用“狼姐Shakira夏奇拉”“狼姐真的变夏奇羊了”等表述，将“狼姐”作为夏奇拉的固定昵称，并用来指代她在《疯狂动物城》中配音的“夏奇羊”角色，因此说“原型歌手昵称是‘狼姐’”与实际用法一致。",
+    "evidence_sources": [
+      {
+        "content": "夏奇拉- 维基百科（介绍夏奇拉的生平与专辑，其中提到英文专辑《She Wolf》（女狼出没/女狼现身），这一作品是其“狼”形象与相关昵称的重要来源）",
+        "url": "https://zh.wikipedia.org/zh-hk/%E5%A4%8F%E5%A5%87%E6%8B%89",
+        "credibility": "High"
+      },
+      {
+        "content": "听《疯狂动物城》的电影原声：跨种族的CP和呆萌的树懒！（文章中使用“狼姐Shakira(夏奇拉)”来称呼电影《疯狂动物城》主题曲演唱者，说明“狼姐”是夏奇拉在华语圈的常用昵称）",
+        "url": "https://www.toutiao.com/article/6261841024311132417/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "原来狼姐Shakira夏奇拉在疯狂动物城配音的夏奇羊在台湾叫“志羚姐姐”！（标题直接将“狼姐Shakira夏奇拉”和“夏奇羊”对应，体现出“狼姐”是这位原型歌手在中文语境下的昵称）",
+        "url": "https://k.sina.cn/article_1258256457_m4aff784903301mv4k.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城》中“夏奇羊”的原型是歌手夏奇拉，而这位原型歌手在中文语境中的常见昵称就是“狼姐”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《疯狂动物城2》主题曲抄袭了《waka waka》。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Data Comparison Errors",
+    "justification": "错误，官方曲目与版权信息显示，《疯狂动物城2》主题曲名为《Zoo》，署名词曲作者为 Shakira、Ed Sheeran 和 Blake Slatkin 等，并未标注为对《Waka Waka》的改编、采样或基于其创作的作品。 媒体和 Shakira 本人只是形容《Zoo》在节奏和气氛上让人联想到《Waka Waka》，称之为“Waka Waka 2.0 气质”“有点像 Waka Waka 的感觉”，但这属于风格类比，而非正式意义上的“改编自《Waka Waka》”，因此将主题曲说成“改编自《Waka Waka》”是事实错误。",
+    "evidence_sources": [
+      {
+        "content": "Original Song",
+        "url": "https://www.disneystudios.com/newsdetail/original-song-zoo-performed-by-shakira-from-walt-disney-animation-studios-zootopia-2",
+        "credibility": "High"
+      },
+      {
+        "content": "Shakira",
+        "url": "https://filmmusicreporter.com/2025/10/10/shakiras-original-song-zoo-from-zootopia-2-released/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Shakira says her",
+        "url": "https://www.youtube.com/watch?v=z_gxJKQ5Ovo",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城2》的主题曲《Zoo》是一首由夏奇拉与 Ed Sheeran、Blake Slatkin 等共同创作的原创歌曲，风格上带有让人联想到《Waka Waka》的节奏和氛围，但并非改编自《Waka Waka》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《疯狂动物城》原计划以尼克的视角展开。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确，主创团队访谈与制作纪录资料明确说明，《疯狂动物城》在早期开发阶段的故事线原本是以狐狸尼克为主角、从他的视角展开，采用更偏黑暗的“带电项圈”设定；在初稿试映后，团队发现观众更容易代入兔子朱迪的外来者视角，才将主叙事改为以朱迪为主角、尼克为搭档。 中文幕后解读也直接指出，“原来最开始是以尼克视角来讲述的故事，原始的故事偏黑暗”，与该 claim 的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "《疯狂动物城》的疯狂点子是怎么想出来的（导演拜伦·霍华德等人回顾：影片原本的设定是以狐狸尼克为主角进行叙事，初稿试映后改为以朱迪视角展开）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_1438785",
+        "credibility": "High"
+      },
+      {
+        "content": "[疯狂动物城]纪录片:从设定润色到化解挑战（制作纪录文稿指出：故事原本是从尼克的身世和视角展开，团队后来意识到基调过于阴郁，于是调整为以朱迪为主角）",
+        "url": "http://www.gamelook.com.cn/2016/04/249653/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "主创团队讲《疯狂动物城》创作过程_原来最开始是以尼克视角来讲述的故事（视频/稿件标题即点明：最初版本从尼克视角讲述，且世界观更黑暗）",
+        "url": "https://www.bilibili.com/video/BV1Ub411k7up",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "电影《疯狂动物城》在早期开发阶段的故事确实原计划以狐狸尼克为主角、从尼克的视角展开，后来在试映反馈后才改为以兔子朱迪的视角作为最终成片的叙事主线。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电影《丑陋的继姐》故事原型是灰姑娘。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家权威和专业影评都明确将《丑陋的继姐》（The Ugly Stepsister）界定为对经典童话《灰姑娘》的“暗黑重述”“身体恐怖版改写”，影片故事发生在熟悉的王子选妃、舞会与水晶鞋框架之内，只是将叙事视角转移到“继姐”，并用极端身体改造反讽“灰姑娘”叙事。 海报、预告及中文报道也直接写明该片“改编自经典童话《灰姑娘》”“用灰姑娘继姐的角度重新展开耳熟能详的童话故事”，因此可以认定其故事原型确实是《灰姑娘》。",
+    "evidence_sources": [
+      {
+        "content": "《丑陋的继姐》：灰姑娘是“名媛班”培养出来的（明确指出影片是从继姐视角解构和改写童话《灰姑娘》，属于反童话式再创作）",
+        "url": "https://www.huxiu.com/article/4483348.html",
+        "credibility": "High"
+      },
+      {
+        "content": "The Ugly Stepsister, body horror retelling of Cinderella, wins Sitges",
+        "url": "https://www.catalannews.com/culture/item/ugly-stepsister-sitges-festival-best-film-18-october-2025",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“The Ugly Stepsister”: A Cinderella Body Horror Story That Will Leave a Crowd in Shambles（圣丹斯官方博客称之为“a Cinderella body horror story”，强调其源自灰姑娘童话的扭曲重述）",
+        "url": "https://www.sundance.org/blogs/the-ugly-stepsister-a-cinderella-body-horror-story-that-will-leave-a-crowd-in-shambles/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "电影《丑陋的继姐》是一部基于《灰姑娘》童话故事改编的作品，以灰姑娘的继姐视角对原始“灰姑娘”故事进行暗黑、身体恐怖风格的重述与解构，其故事原型即经典童话《灰姑娘》。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "音乐剧《伊丽莎白》被粉丝称为“一粒沙”。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。华语音乐剧圈的“黑话/梗词典”与入坑指南中，明确把德奥音乐剧《伊丽莎白》（Elisabeth）列为常见别称“一粒沙”，这是基于“伊丽莎白”中文谐音而来的粉丝昵称。 B站等科普视频和粉丝文章里也直接写出“《伊丽莎白》（俗称：一粒沙）”，说明“一粒沙”已经成为该剧在粉丝群体中的固定称呼之一，因此该说法成立。",
+    "evidence_sources": [
+      {
+        "content": "【科普】音乐剧圈黑话小词典（内附试卷一张）（条目中写明：一粒沙：指音乐剧《伊丽莎白》）",
+        "url": "https://m.10100.com/article/26496410",
+        "credibility": "Medium"
+      },
+      {
+        "content": "你爱它有多深？看你卷子得几分！（题目直接问“一粒沙是哪部剧的代称？”，标准答案给出《伊丽莎白（Elisabeth）》）",
+        "url": "https://www.sohu.com/a/378165732_682531",
+        "credibility": "Medium"
+      },
+      {
+        "content": "菜鸟版音乐剧入坑指南（在音乐剧圈常见别名中，把《伊丽莎白》列为谐音别称“一粒沙”）",
+        "url": "https://www.thepaper.cn/newsDetail_forward_4531040",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "音乐剧《伊丽莎白》在华语音乐剧粉丝圈里常被昵称为“一粒沙”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2024年“法扎”的中国巡演中莫扎特的a卡为yanis。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Incorrect Time Information",
+    "justification": "错误，2024 年法语音乐剧《摇滚莫扎特》（“法扎”）中国巡演的公开卡司信息显示，莫扎特一角的原版主演是 Mikelangelo Loconte（粉丝常称“老航班”），他是本轮巡演中被官方与媒体视为主主演卡（即通常意义上的 A 卡）。 而 23 岁的法国演员 Yanis Richard 在报道与官方介绍中被描述为“替补/轮换莫扎特”（alternate Mozart），即通常粉丝口中的 B 卡或备用主演，而非 A 卡，因此说“莫扎特的 a 卡为 yanis”与实际卡司定位不符。",
+    "evidence_sources": [
+      {
+        "content": "Mozart rocks China（报道 2024 中国巡演阵容：原版莫扎特主演 Mikelangelo Loconte 领衔回归，中国观众也将看到年轻的替补莫扎特 Yanis Richard）",
+        "url": "https://www.chinadaily.com.cn/a/202405/22/WS664d3110a31082fc043c8633.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Mozart rocks China - China Daily HK（英文报道同样区分“original Mozart star Mikelangelo Loconte”和“alternate Mozart Yanis Richard”，表明 Yanis 为替补/轮换，而非主主演卡）",
+        "url": "https://www.chinadailyhk.com/hk/article/584043",
+        "credibility": "High"
+      },
+      {
+        "content": "我想向全世界安利，我的白月光音乐剧《法扎》（粉丝向卡司梳理：把 Mikelangelo 列为莫扎特 A 卡，将 Yanis 标为莫扎特 B 卡/替补卡，配对为典型 BA 卡组合）",
+        "url": "https://news.fanxingxijucun.cn/detail/12347.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2024 年“法扎”的中国巡演中，莫扎特一角的 A 卡是原版主演 Mikelangelo Loconte，而 Yanis Richard 作为莫扎特的替补/轮换卡司（通常被粉丝视为 B 卡）。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2023 年百老汇复排版《歌剧魅影》中，魅影一角的 a 卡为 Laird Mackintosh。",
+    "verdict": "Refuted",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
+    "justification": "错误，权威和主流媒体资料一致表明，百老汇长期、以及 2021 复演后直到 2023 年终演阶段，《歌剧魅影》中 Phantom（魅影）一角的正式主演是 Ben Crawford，他被明确标注为该角色的 principal（主卡/首卡）。2023 年终演前，由于 Ben Crawford 生病缺席，包括 Laird Mackintosh 在内的多位演员轮流顶替，最终场（2023 年 4 月 16 日）的演出由 Laird Mackintosh 穿上面具担任最后一场的 Phantom，但报道均将其描述为“代替主卡 Ben Crawford 出演最终场”或“final performance Phantom”，而不是整个 2023 年复排期间的常驻 A 卡，因此将“2023 年百老汇复排版魅影一角的 a 卡”写成 Laird Mackintosh 不符合事实。",
+    "evidence_sources": [
+      {
+        "content": "Ben Crawford - Wikipedia（介绍 Ben Crawford 自 2018 年起担任百老汇《歌剧魅影》Phantom 角色的主演，并指出在 2021 年复演后继续担任该角色，是该剧在百老汇历史上的最后一任主卡 Phantom。）",
+        "url": "https://en.wikipedia.org/wiki/Ben_Crawford",
+        "credibility": "Medium"
+      },
+      {
+        "content": "‘The Phantom of the Opera’ announces full Broadway reopening cast（复演卡司公告中，明确写明 Returning principal cast members include Ben Crawford as The Phantom，将其标注为主卡；并未将 Laird Mackintosh 标为 Phantom principal。）",
+        "url": "https://www.newyorktheatreguide.com/theatre-news/news/ben-crawford-is-broadways-next-phantom-of-the-opera",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Laird Mackintosh will step into the title role at “Phantom of the Opera” final performance（报道指出，前剧组成员 Laird Mackintosh 将在 2023 年 4 月 16 日终演之夜饰演 Phantom，以顶替因病缺席的 principal Ben Crawford，强调其身份是最终场的代演而非整季主卡。）",
+        "url": "https://www.broadwaynews.com/laird-mackintosh-will-step-into-the-title-role-at-phantom-of-the-opera-final-performance/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2023 年百老汇终演阶段的《歌剧魅影》中，魅影一角的主卡（A 卡）是 Ben Crawford；在 2023 年 4 月 16 日的最终场演出中，因 Ben Crawford 生病缺席，Laird Mackintosh 代替他饰演了最后一场的 Phantom。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2022 年伦敦西区《悲惨世界》中，冉阿让角色的b卡为Jon Robyns。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Misattribution",
+    "justification": "错误，多家西区与剧场资讯来源明确指出，疫情后在伦敦 Sondheim Theatre 上演的《悲惨世界》中，Jon Robyns 担任的是冉阿让（Jean Valjean）的主演/主卡，报道用语为“led by Jon Robyns as Jean Valjean”“Jon Robyns as Jean Valjean”等，表明其是该角色的核心主角阵容，而非仅在少量场次登台的 B 卡或替补。各类新卡司公告与宣传中一再将 Jon Robyns 列为现有 principal cast（主要卡司）中的 Jean Valjean，而没有任何可靠来源将他标注为“B 卡”，因此把“冉阿让角色的 b 卡为 Jon Robyns”当作事实是对其卡位级别的颠倒，属于将主卡错误说成 B 卡的卡位信息错误。",
+    "evidence_sources": [
+      {
+        "content": "Les Misérables | 2022 West End trailer（预告片文案说明当前西区阵容由 Jon Robyns 领衔饰演 Jean Valjean，Bradley Jaden 饰 Javert 等，表述为“cast is currently led by Jon Robyns as Jean Valjean”，体现其主卡地位。）",
+        "url": "https://www.youtube.com/watch?v=NA5jRZ1baMM",
+        "credibility": "Medium"
+      },
+      {
+        "content": "New West End cast for “Les Misérables” announced（卡司新闻指出，新阵容中“Continuing in the show will be Jon Robyns as Jean Valjean …”，将其作为持续留任的主要主演列出，而非替补或 B 卡。）",
+        "url": "https://www.whatsonstage.com/news/new-west-end-cast-for-les-miserables-announced_57191/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "West End’s Les Misérables Welcomes New Cast Members（Playbill 报道新卡司加入时写道“These actors join Jon Robyns as Jean Valjean …”，说明 Jon Robyns 已是既有主卡阵容中的 Jean Valjean，而非 B 卡。）",
+        "url": "https://playbill.com/article/west-ends-les-miserables-welcomes-new-cast-members-september-27",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2022 年伦敦西区《悲惨世界》中，冉阿让（Jean Valjean）角色的主卡/主演为 Jon Robyns，而非 B 卡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2021 年韩国版《摇滚学校》首尔轮演中，Dewey 的b卡为 Park Jisoo。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "错误，公开资料清楚表明，Jake Sharp 在 2021–2022 年《School of Rock》UK & Ireland Tour 中担任 Dewey Finn 的主角/领衔主演，对应的是主卡而非替补或 B 卡。权威条目在“Principal roles and original cast”表格中，将 2021 年 UK and Ireland tour 一栏的 Dewey Finn 直接标为 Jake Sharp，且巡演新闻与剧院公告多次使用“lead the cast as Dewey Finn”“lead role of Dewey Finn”等措辞，没有任何来源将他标记为 B 卡，因此把“Dewey 的 b 卡为 Jake Sharp”写入 claim 属于把主卡错误记成 B 卡的卡位信息错误。",
+    "evidence_sources": [
+      {
+        "content": "School of Rock (musical) - Wikipedia（在“Principal roles and original cast”表中，2021 年 UK and Ireland tour 一栏的 Dewey Finn 一行直接写为 Jake Sharp，显示其为该巡演版本的主卡 Dewey Finn。）",
+        "url": "https://en.wikipedia.org/wiki/School_of_Rock_(musical)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "School of Rock Announces Full Cast - Ipswich Regent Theatre（剧院公告指出，Jake Sharp will lead the cast as Dewey Finn，并说明他此前在西区也饰演过该角色，明确其为本轮巡演的领衔主演，而非替补或 B 卡。）",
+        "url": "https://ipswichtheatres.co.uk/news/school-of-rock-announces-full-cast/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Class of 2021 prepare for School of Rock – The Musical tour（报道中写明，the actor who previously played Dewey Finn in the West End will return to take charge of the Class of 2021，指的就是 Jake Sharp，以主角身份带领 2021 巡演阵容。）",
+        "url": "https://musicaltheatrereview.com/class-of-2021-prepare-for-school-of-rock-the-musical-tour/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "2021–2022 年《摇滚学校》（School of Rock）英国及爱尔兰巡演中，Dewey Finn 一角的主卡/领衔主演为 Jake Sharp，而不是 B 卡。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "2020年韩文版音乐剧《摇滚芭比》中，Hedwig 的 a 卡为曹政奭。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "无法判定，曹政奭（Jo Jung-suk）确实是韩国版《Hedwig and the Angry Inch》（摇滚芭比）的代表性主演之一，多次在韩国制作中饰演 Hedwig，一些报道和资料也提到他在多季演出中担任主角。但公开可查的信息（包括韩国新闻、音乐剧数据库和汇总条目）并未给出“2020 年这一季的韩文版《Hedwig》”的完整卡司表，也没有使用“A 卡/主卡”这种中文粉圈常用的分卡术语来精确标注曹政奭在 2020 年制作中的卡位，因此无法在证据层面严格确认“2020 年韩文版中 Hedwig 的主卡就是曹政奭”，也无法排除多位主演轮流、无固定 A/B 卡的演出安排，只能判定为“无法判定”。",
+    "evidence_sources": [
+      {
+        "content": "조정석 - 위키백과（介绍曹政奭是韩国演员，早期在《헤드윅》(Hedwig) 等多部音乐剧中出演并获得认可，但未按年份区分各季的卡位结构，也未提到 2020 年版的 A/B 卡用语。）",
+        "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%95%EC%84%9D",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅(2019) - 더뮤지컬（韩国音乐剧杂志页面，介绍韩国版《헤드윅》相关制作与演员，包含讨论 2020 年左右版本的专文《우리가 사랑한 뮤지컬 <헤드윅>》，但页面中未提供 2020 年整季的完整卡司名单与“주연/주카(A 卡)”的正式标注。）",
+        "url": "https://www.themusical.co.kr/Musical/Detail?num=2741",
+        "credibility": "Medium"
+      },
+      {
+        "content": "헤드윅/한국 공연 - 나무위키（汇总 2005 年以来《Hedwig》在韩国的多轮演出和大量主演姓名，明确提到包括 조정석 在内的多位演员多次饰演 Hedwig，但未按 2020 年季别给出“主卡/副卡”的结构化信息。）",
+        "url": "https://namu.wiki/w/%ED%97%A4%EB%93%9C%EC%9C%85/%ED%95%9C%EA%B5%AD%20%EA%B3%B5%EC%97%B0",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "在现有可验证信息范围内，只能较安全地说：曹政奭是韩国音乐剧《摇滚芭比》（Hedwig and the Angry Inch）的主要主演之一，曾多次在韩国制作中饰演 Hedwig 一角；但公开资料并未明确标注“2020 年韩文版中 Hedwig 的主卡为曹政奭”。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "有 38 个国家或地区在全国范围内承认同性婚姻。",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家权威统计（如维基百科同性婚姻条目、皮尤研究中心和 Our World in Data）在 2025 年的最新汇总中均给出：目前有 38 个国家在全国范围内将同性婚姻完全合法化，涵盖荷兰、加拿大、西班牙、南非、美国、德国、台湾地区（作为地区计入）、泰国、列支敦士登等。 这些统计在方法上明确区分了“全国立法全面婚姻平权”和“仅部分地区或仅承认境外登记婚姻”，把前者合计为 38 个国家或地区，与 claim 中的表述一致。",
+    "evidence_sources": [
+      {
+        "content": "Same-sex marriage - Wikipedia（给出截至 2025 年在全国范围内承认同性婚姻的国家/地区列表，总数为 38）",
+        "url": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+        "credibility": "High"
+      },
+      {
+        "content": "Same-Sex Marriage Around the World - Pew Research Center（按国家列出已在全国范围实现同性婚姻合法化的司法辖区，总数与 38 的统计一致）",
+        "url": "https://www.pewresearch.org/religion/fact-sheet/same-sex-marriage-around-the-world/",
+        "credibility": "High"
+      },
+      {
+        "content": "1.5 billion people now live in countries where same-sex marriage is legal — but that’s only one in five worldwide（Our World in Data 文中指出：截至 2025 年，有 38 个国家/地区在全国范围内实现婚姻平权）",
+        "url": "https://ourworldindata.org/data-insights/15-billion-people-now-live-in-countries-where-same-sex-marriage-is-legal-but-thats-only-one-in-five-worldwide",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "截至 2025 年，约有 38 个国家或地区在全国范围内承认并实施同性婚姻。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "科琳·胡佛出版了26本书",
+    "verdict": "Supported",
+    "error_type": null,
+    "category": null,
+    "justification": "正确。多家近期整理科琳·胡佛作品的权威或主流媒体（如 People、Forbes 等）都明确写出：截至 2025 年，她“已经出版了 26 本书（books/titles）”，其中 23 本为她独立创作，其余为与 Tarryn Fisher 合作的《Never Never》三部曲等。 一些统计网站在 2022 年前后仍给出“24 本书”一类的较旧数字，而更新的 2024–2025 年书单和阅读顺序文章普遍使用“26 本”这一最新数量，说明“出版了 26 本书”与当前主流统计一致。",
+    "evidence_sources": [
+      {
+        "content": "Colleen Hoover",
+        "url": "https://people.com/colleen-hoover-s-26-books-in-chronological-order-7554091",
+        "credibility": "High"
+      },
+      {
+        "content": "Colleen Hoover Books, Ranked And In Order - Forbes（文中指出：科琳·胡佛共写了 26 本书，其中 23 本为她独立完成，3 本为与 Tarryn Fisher 合著的《Never Never》系列）",
+        "url": "https://www.forbes.com/sites/entertainment/article/colleen-hoover-books/",
+        "credibility": "High"
+      },
+      {
+        "content": "26 Colleen Hoover Books in Order: 2025 Full List（整理出截至 2025 年的 26 部作品，包含长篇与中篇小说，并按出版顺序列举）",
+        "url": "https://fictionary.co/journal/colleen-hoover-books-in-order/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至 2025 年，科琳·胡佛共出版了 26 本书（包含她独立创作的长篇与中篇小说，以及与他人合著的作品）。",
+    "topic": "Culture"
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "claim": "谷歌推出GenTabs，可从浏览器标签页构建应用",
+  "ground_truth": "Supported",
+  "timestamp": "2025-12-19T21:33:38.754939",
+  "statistics": {
+    "total_evidences": 9,
+    "pro_evidences": 6,
+    "con_evidences": 3,
+    "total_attacks": 0,
+    "accepted_evidences": 9,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_1291c525",
+        "content": "该浏览器的核心功能名为GenTabs，能够将用户在浏览器中打开的多个标签页瞬间转化为定制化的Web 应用。这一创新旨在改变传统浏览器的角色，使其不仅仅是信息 ...",
+        "url": "https://m.sohu.com/a/964444247_362225?scm=10001.325_13-325_13.0.0-0-0-0-0.5_32",
+        "source": "m.sohu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4692,
+        "priority": 0.28152,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "谷歌官方博客GenTabs浏览器标签页构建应用",
+        "timestamp": "2025-12-19T21:30:46.001351"
+      },
+      {
+        "id": "pro_1_e662bbf8",
+        "content": "Join 5,000+ successful bettors with AI-powered predictions. 65% win rate, +20% ROI. Get 2 free predictions today. Transparent statistics and expert analysis.",
+        "url": "https://www.clove-technology.com/blogs/news/google-pixel-4-how-to-manage-open-and-close-all-apps?s-news-21490736-2025-12-12-gu-ge-chuang-xin-tu-po-ai-liu-qi-disco-guan-zhu-bao-kuai",
+        "source": "www.clove-technology.com",
+        "credibility": "Medium",
+        "quality_score": 0.5142,
+        "priority": 0.30851999999999996,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "谷歌官方博客GenTabs浏览器标签页构建应用",
+        "timestamp": "2025-12-19T21:30:46.001351"
+      },
+      {
+        "id": "con_1_940989d0",
+        "content": "谷歌于周四发布了一项新的浏览器AI实验：由Gemini驱动的产品“Disco”。它可以帮助你将打开的标签页转化为自定义应用程序。通过Disco，你可以创建谷歌称之为“GenTabs”的工具，它会主动建",
+        "url": "https://www.atyun.com/75372.html",
+        "source": "www.atyun.com",
+        "credibility": "Medium",
+        "quality_score": 0.48,
+        "priority": 0.288,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "谷歌官方是否确认GenTabs可从浏览器标签页构建应用",
+        "timestamp": "2025-12-19T21:31:12.328427"
+      },
+      {
+        "id": "pro_2_ddc1b64c",
+        "content": "与其他AI 浏览器强调「Chat with your tabs」不同，GenTabs 并不满足于围绕标签页回答问题或是以代理执行为核心，而是进一步把这些标签页「编译」为一个新的 ...",
+        "url": "https://zhuanlan.zhihu.com/p/1982926603198677666",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.47519999999999996,
+        "priority": 0.28512,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否能将打开的标签页转化为定制Web应用",
+        "timestamp": "2025-12-19T21:31:48.063237"
+      },
+      {
+        "id": "pro_2_5a85e9ae",
+        "content": "IT之家援引博文介绍，Disco 的核心亮点在于其首发功能GenTabs，该功能利用谷歌Gemini 模型，将用户浏览器中打开的标签页瞬间转化为定制化的Web 应用程序。",
+        "url": "https://finance.sina.com.cn/tech/roll/2025-12-12/doc-inhanyzp7425489.shtml",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.471,
+        "priority": 0.28259999999999996,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否能将打开的标签页转化为定制Web应用",
+        "timestamp": "2025-12-19T21:31:48.063237"
+      },
+      {
+        "id": "con_2_8daf8bb2",
+        "content": "💥Google顛覆傳統搜尋經驗的AI瀏覽器【Disco】可能即將橫空出世!!!( [https://labs.google/disco]",
+        "url": "https://www.facebook.com/groups/2294169410829101/posts/4368834913362530/",
+        "source": "www.facebook.com",
+        "credibility": "Medium",
+        "quality_score": 0.4608,
+        "priority": 0.27648,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否仅为实验性演示未正式发布",
+        "timestamp": "2025-12-19T21:32:16.322178"
+      },
+      {
+        "id": "pro_3_eb956bd8",
+        "content": "Google 在Labs 里放出的实验项目Disco，来自Chrome 团队，表面上看是一个“带AI 的新浏览器”，核心概念叫GenTabs。 但如果只把它看成“又一个AI 浏览器”，很容易 ...",
+        "url": "https://zhuanlan.zhihu.com/p/1983854023137314107",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4794,
+        "priority": 0.28764,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否已正式上线并支持从多个标签页生成可交互Web应用",
+        "timestamp": "2025-12-19T21:32:52.877254"
+      },
+      {
+        "id": "pro_3_72dbeed4",
+        "content": "IT之家12月12日消息，谷歌昨日（12月11日）发布博文，宣布基于Gemini技术，推出AI实验浏览器项目Disco，将用户的浏览器标签页直接转化为定制化的Web应用。",
+        "url": "https://m.163.com/dy/article_cambrian/KGIH52DE0511B8LM.html",
+        "source": "m.163.com",
+        "credibility": "Medium",
+        "quality_score": 0.471,
+        "priority": 0.28259999999999996,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否已正式上线并支持从多个标签页生成可交互Web应用",
+        "timestamp": "2025-12-19T21:32:52.877254"
+      },
+      {
+        "id": "con_3_8acdb034",
+        "content": "Google強調結合AI的Disco瀏覽器，可協助使用者提升學習和工作速度，首個測試的功能為GenTabs，是以最新LLM Gemini 3為底層開發",
+        "url": "https://www.ithome.com.tw/news/172782",
+        "source": "www.ithome.com.tw",
+        "credibility": "Medium",
+        "quality_score": 0.46499999999999997,
+        "priority": 0.27899999999999997,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "谷歌Disco浏览器GenTabs功能是否仅限实验阶段未开放公众使用",
+        "timestamp": "2025-12-19T21:32:57.485401"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_940989d0",
+        "agent": "con",
+        "priority": 0.288,
+        "source": "www.atyun.com",
+        "content_preview": "谷歌于周四发布了一项新的浏览器AI实验：由Gemini驱动的产品“Disco”。它可以帮助你将打开的标签页转化为自定义应用程序。通过Disco，你可以创建谷歌称之为“GenTabs”的工具，它会主动建..."
+      },
+      {
+        "id": "con_3_8acdb034",
+        "agent": "con",
+        "priority": 0.27899999999999997,
+        "source": "www.ithome.com.tw",
+        "content_preview": "Google強調結合AI的Disco瀏覽器，可協助使用者提升學習和工作速度，首個測試的功能為GenTabs，是以最新LLM Gemini 3為底層開發..."
+      },
+      {
+        "id": "pro_1_e662bbf8",
+        "agent": "pro",
+        "priority": 0.30851999999999996,
+        "source": "www.clove-technology.com",
+        "content_preview": "Join 5,000+ successful bettors with AI-powered predictions. 65% win rate, +20% ROI. Get 2 free predictions today. Transparent statistics and expert analysis...."
+      },
+      {
+        "id": "pro_3_eb956bd8",
+        "agent": "pro",
+        "priority": 0.28764,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "Google 在Labs 里放出的实验项目Disco，来自Chrome 团队，表面上看是一个“带AI 的新浏览器”，核心概念叫GenTabs。 但如果只把它看成“又一个AI 浏览器”，很容易 ......"
+      },
+      {
+        "id": "pro_2_5a85e9ae",
+        "agent": "pro",
+        "priority": 0.28259999999999996,
+        "source": "finance.sina.com.cn",
+        "content_preview": "IT之家援引博文介绍，Disco 的核心亮点在于其首发功能GenTabs，该功能利用谷歌Gemini 模型，将用户浏览器中打开的标签页瞬间转化为定制化的Web 应用程序。..."
+      },
+      {
+        "id": "con_2_8daf8bb2",
+        "agent": "con",
+        "priority": 0.27648,
+        "source": "www.facebook.com",
+        "content_preview": "💥Google顛覆傳統搜尋經驗的AI瀏覽器【Disco】可能即將橫空出世!!!( [https://labs.google/disco]..."
+      },
+      {
+        "id": "pro_2_ddc1b64c",
+        "agent": "pro",
+        "priority": 0.28512,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "与其他AI 浏览器强调「Chat with your tabs」不同，GenTabs 并不满足于围绕标签页回答问题或是以代理执行为核心，而是进一步把这些标签页「编译」为一个新的 ......"
+      },
+      {
+        "id": "pro_3_72dbeed4",
+        "agent": "pro",
+        "priority": 0.28259999999999996,
+        "source": "m.163.com",
+        "content_preview": "IT之家12月12日消息，谷歌昨日（12月11日）发布博文，宣布基于Gemini技术，推出AI实验浏览器项目Disco，将用户的浏览器标签页直接转化为定制化的Web应用。..."
+      },
+      {
+        "id": "pro_1_1291c525",
+        "agent": "pro",
+        "priority": 0.28152,
+        "source": "m.sohu.com",
+        "content_preview": "该浏览器的核心功能名为GenTabs，能够将用户在浏览器中打开的多个标签页瞬间转化为定制化的Web 应用。这一创新旨在改变传统浏览器的角色，使其不仅仅是信息 ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_940989d0",
+      "con_3_8acdb034",
+      "pro_1_e662bbf8",
+      "pro_3_eb956bd8",
+      "pro_2_5a85e9ae",
+      "con_2_8daf8bb2",
+      "pro_2_ddc1b64c",
+      "pro_3_72dbeed4",
+      "pro_1_1291c525"
+    ]
+  },
+  "verdict": {
+    "decision": "Supported",
+    "confidence": 0.5,
+    "reasoning": "Claim包含两个关键事实：谷歌是否推出GenTabs，以及该功能是否能从标签页构建应用。来自IT之家、Atyun和知乎的多条证据一致确认：谷歌在Google Labs中发布了名为Disco的实验性浏览器，其首发功能GenTabs利用Gemini 3模型，读取用户打开的标签页并生成可交互的定制Web应用，且保留原始链接。这些报道细节高度一致，来源可信。反对证据实为无关广告，无实质反驳内容。因此，claim得到充分支持。",
+    "key_evidence_ids": [
+      "con_1_940989d0",
+      "con_3_8acdb034",
+      "pro_3_eb956bd8"
+    ],
+    "pro_strength": 0.28286999999999995,
+    "con_strength": 0.30851999999999996,
+    "total_evidences": 9,
+    "accepted_evidences": 9
+  },
+  "evaluation": {
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "correct": true
+  }
+}

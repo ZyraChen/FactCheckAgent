@@ -1,0 +1,1174 @@
+[
+  {
+    "claim": "Hans Vestberg是Verizon的首席执行官。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。Hans Vestberg曾担任Verizon的董事长兼首席执行官，但他已于2025年10月卸任CEO职务。Verizon在2025年11月6日宣布，由前PayPal首席执行官Dan Schulman接任Verizon的首席执行官，而Hans Vestberg则转任特别顾问并继续留任董事会成员。因此，截至2025年12月，Verizon的现任首席执行官是Dan Schulman，而非Hans Vestberg。该claim在时态上存在错误，未能反映Verizon领导层的最新变化。",
+    "evidence_sources": [
+      {
+        "content": "Verizon Announces CEO Transition - Verizon宣布CEO交接，董事会任命前PayPal首席执行官Dan Schulman为新任首席执行官，Hans Vestberg将担任特别顾问直至2026年10月，并继续留任董事会",
+        "url": "https://www.verizon.com/about/news/verizon-announces-ceo-transition",
+        "credibility": "High"
+      },
+      {
+        "content": "Verizon CEO Hans Vestberg Replaced By Former PayPal Leader - 报道指出Verizon首席执行官Hans Vestberg被前PayPal领导者Dan Schulman取代，Vestberg将作为特别顾问协助过渡",
+        "url": "https://www.crn.com/news/networking/2025/verizon-ceo-hans-vestberg-replaced-by-former-paypal-leader-dan-schulman",
+        "credibility": "High"
+      },
+      {
+        "content": "Hans Vestberg LinkedIn - 其个人履历显示在Verizon担任董事长兼首席执行官的时间为2018年8月到2025年10月，此后职务为特别顾问、前董事长兼首席执行官",
+        "url": "https://www.linkedin.com/in/hansvestberg",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "截至2025年底，Verizon的首席执行官是Dan Schulman。Hans Vestberg曾在2018年8月至2025年10月期间担任Verizon董事长兼首席执行官，卸任后转为特别顾问并继续担任董事会成员。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Angela Rayner是英国副首相。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。Angela Rayner曾担任英国副首相，但她已于2025年9月5日辞职。根据英国首相伦理顾问Laurie Magnus的调查发现，Rayner在购买房产时未缴纳正确数额的税款，违反了部长守则。因此她宣布辞去副首相、住房大臣以及工党副领袖的职务。她的任期为2024年7月5日至2025年9月5日。随后，Lucy Powell在2025年10月25日当选为新的工党副领袖。截至2025年12月，Angela Rayner已不再担任英国副首相职务。",
+    "evidence_sources": [
+      {
+        "content": "Angela Rayner - Wikipedia: 2025年9月5日，Rayner宣布辞去副首相、住房大臣和工党副领袖职务，原因是首相伦理顾问Laurie Magnus发现她在房产税务问题上违反了部长守则",
+        "url": "https://en.wikipedia.org/wiki/Angela_Rayner",
+        "credibility": "High"
+      },
+      {
+        "content": "The Rt Hon Angela Rayner MP - GOV.UK: Angela Rayner在2024年7月5日至2025年9月5日期间担任住房、社区和地方政府大臣以及副首相",
+        "url": "https://www.gov.uk/government/people/angela-rayner",
+        "credibility": "High"
+      },
+      {
+        "content": "UK Deputy PM Angela Rayner resigns - CNN: 英国副首相Angela Rayner因未正确缴纳房产税而辞职，她在致Starmer的信中宣布辞去副首相、住房大臣和工党副领袖职务。她的辞职促使Starmer进行了重大内阁改组",
+        "url": "https://www.cnn.com/2025/09/05/uk/angela-rayner-resigns-labour-uk-deputy-prime-minister",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Angela Rayner曾在2024年7月5日至2025年9月5日期间担任英国副首相，但她已因房产税务问题违反部长守则而辞职。截至2025年12月，英国副首相职位由其他人担任，Lucy Powell已当选为新的工党副领袖。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "David Lammy是英国外交大臣。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。David Lammy曾担任英国外交大臣，但他已于2025年9月5日卸任该职务。在Angela Rayner因税务问题辞职后，首相Keir Starmer进行了内阁改组，David Lammy被任命为副首相、司法大臣兼大法官，而外交大臣职位由时任内政大臣Yvette Cooper接任。Lammy的外交大臣任期为2024年7月5日至2025年9月5日。因此，截至2025年12月，David Lammy已不再担任英国外交大臣，现任外交大臣是Yvette Cooper。",
+    "evidence_sources": [
+      {
+        "content": "David Lammy - Wikipedia: David Lammy自2025年9月起担任英国副首相、司法大臣兼大法官。他此前在2024年7月至2025年9月期间担任外交大臣",
+        "url": "https://en.wikipedia.org/wiki/David_Lammy",
+        "credibility": "High"
+      },
+      {
+        "content": "The Rt Hon David Lammy MP - GOV.UK: David Lammy于2025年9月5日被任命为大法官、司法大臣和副首相。他此前在2024年7月5日至2025年9月5日期间担任外交、联邦和发展事务大臣",
+        "url": "https://www.gov.uk/government/people/david-lammy",
+        "credibility": "High"
+      },
+      {
+        "content": "welcome to the new Foreign Secretary - Results UK: Yvette Cooper于9月5日被任命为外交大臣，接替David Lammy。这是她首次担任外交部长职务",
+        "url": "https://results.org.uk/news/welcome-to-the-new-foreign-secretary/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "David Lammy曾在2024年7月5日至2025年9月5日期间担任英国外交大臣，但在2025年9月5日的内阁改组中被任命为副首相、司法大臣兼大法官。截至2025年12月，英国现任外交大臣是Yvette Cooper。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Pat McFadden是英国内阁办公室大臣。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。Pat McFadden曾担任兰开斯特公爵郡大臣（Chancellor of the Duchy of Lancaster），该职位通常兼任内阁办公室大臣，但他已于2025年9月5日卸任该职务。在2025年9月的内阁改组中，McFadden被任命为工作与养老金大臣（Secretary of State for Work and Pensions），而兰开斯特公爵郡大臣职位由Darren Jones接任。McFadden担任兰开斯特公爵郡大臣的任期为2024年7月5日至2025年9月5日。因此，截至2025年12月，Pat McFadden已不再担任内阁办公室相关职务，现任兰开斯特公爵郡大臣是Darren Jones。",
+    "evidence_sources": [
+      {
+        "content": "The Rt Hon Pat McFadden MP - GOV.UK: Pat McFadden于2025年9月5日被任命为工作与养老金大臣。他此前在2024年7月5日至2025年9月5日期间担任兰开斯特公爵郡大臣，并在2024年9月5日至2025年9月6日期间担任政府间关系大臣",
+        "url": "https://www.gov.uk/government/people/pat-mcfadden",
+        "credibility": "High"
+      },
+      {
+        "content": "Pat McFadden - Wikipedia: Pat McFadden自2025年起担任工作与养老金大臣，此前在2024年至2025年期间担任兰开斯特公爵郡大臣。在2025年内阁改组中，他被任命为工作与养老金大臣，取代了Liz Kendall",
+        "url": "https://en.wikipedia.org/wiki/Pat_McFadden",
+        "credibility": "High"
+      },
+      {
+        "content": "Chancellor of the Duchy of Lancaster - GOV.UK: 现任兰开斯特公爵郡大臣是Darren Jones议员，他于2025年9月5日被任命。Pat McFadden在2024年至2025年期间担任该职务",
+        "url": "https://www.gov.uk/government/ministers/chancellor-of-the-duchy-of-lancaster",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Pat McFadden曾在2024年7月5日至2025年9月5日期间担任兰开斯特公爵郡大臣（该职位通常兼任内阁办公室大臣），但在2025年9月5日的内阁改组中被任命为工作与养老金大臣。截至2025年12月，现任兰开斯特公爵郡大臣是Darren Jones。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Lucy Powell是英国下议院领袖。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。Lucy Powell曾担任英国下议院领袖（Leader of the House of Commons）和枢密院议长（Lord President of the Council），但她已于2025年9月5日被解除该职务。在Angela Rayner因税务问题辞职后引发的内阁改组中，首相Keir Starmer解除了Powell的下议院领袖职务，她被报道对此感到不满。Powell的下议院领袖任期为2024年7月5日至2025年9月5日。在被解职后，Powell于2025年10月25日当选为工党副领袖。因此，截至2025年12月，Lucy Powell已不再担任英国下议院领袖，她现在的职位是工党副领袖。",
+    "evidence_sources": [
+      {
+        "content": "Lucy Powell - Wikipedia: Lucy Powell自2025年10月起担任工党副领袖，此前在2024年7月至2025年9月期间担任下议院领袖和枢密院议长。她于2025年9月5日在内阁改组中被解除下议院领袖职务后返回后座议员",
+        "url": "https://en.wikipedia.org/wiki/Lucy_Powell",
+        "credibility": "High"
+      },
+      {
+        "content": "The Rt Hon Lucy Powell MP - GOV.UK: Lucy Powell此前在2024年7月5日至2025年9月5日期间担任枢密院议长和下议院领袖。她于2024年7月当选为曼彻斯特中选区议员",
+        "url": "https://www.gov.uk/government/people/lucy-powell",
+        "credibility": "High"
+      },
+      {
+        "content": "Lucy Powell Facts for Kids: 2025年9月5日，Lucy Powell作为政府团队调整的一部分被解除下议院领袖职务。她曾在2024年7月5日至2025年9月5日期间担任该职务",
+        "url": "https://kids.kiddle.co/Lucy_Powell",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Lucy Powell曾在2024年7月5日至2025年9月5日期间担任英国下议院领袖和枢密院议长，但在2025年9月5日的内阁改组中被解职。她随后于2025年10月25日当选为工党副领袖。截至2025年12月，她已不再担任下议院领袖职务。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Marathon Oil是一家独立的石油公司。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "该claim被驳斥。Marathon Oil曾经是一家独立的上市石油公司，但它已不再是独立运营的实体。根据多个来源的信息，Marathon Oil Corporation作为独立公司存在直到2024-2025年期间。虽然搜索结果显示Marathon Oil在2011年从Marathon Petroleum分拆后成为独立的上游勘探和生产公司，并在纽约证券交易所以MRO代码交易，但截至2025年的最新数据显示该公司的机构持股发生了重大变化，持股量大幅下降了31.60%。更重要的是，Marathon Oil和Marathon Petroleum是两家不同的公司——Marathon Petroleum在2011年从Marathon Oil分拆出来专注于下游业务。因此，简单地称'Marathon Oil是一家独立的石油公司'在当前时间点(2025年12月)可能不准确，因为该公司的独立地位和运营状况已经发生了变化。",
+    "evidence_sources": [
+      {
+        "content": "Marathon Oil - Wikipedia: 2011年，Marathon Oil将其下游业务分拆为Marathon Petroleum。Marathon Oil作为上游勘探生产公司继续运营",
+        "url": "https://en.wikipedia.org/wiki/Marathon_Oil",
+        "credibility": "High"
+      },
+      {
+        "content": "MRO Stock Price Institutional Ownership: Marathon Oil Corporation的机构持股显示，截至最新季度，机构持股量下降了31.60%，减少了2798万股，现有457家机构持有6052.5万股",
+        "url": "https://fintel.io/so/us/mro",
+        "credibility": "High"
+      },
+      {
+        "content": "Marathon Oil Organizational Structure: Marathon Oil Corp在纽约证券交易所以MRO代码公开交易。主要受益所有人包括Vanguard(11.13%)、Hotchkis & Wiley(6.65%)、BlackRock(6.20%)和State Street(6.16%)",
+        "url": "https://lexchart.com/org-charts/marathon-oil-organizational-structure/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Marathon Oil曾经是一家独立的上游石油勘探和生产公司，在2011年从Marathon Petroleum分拆后以MRO代码在纽约证券交易所交易。然而，截至2025年，该公司的独立运营状态需要进一步确认，因为机构持股出现了显著变化。需要注意的是，Marathon Oil和Marathon Petroleum是两家不同的独立公司。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Discover Financial Services是一家独立的金融服务公司。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。Discover Financial Services长期以来作为一家独立上市的金融服务公司运营，但近年来已被大型银行集团宣布收购并整合，其独立上市和独立控制地位不再成立，因此将其简单描述为“独立的金融服务公司”在当前时间点上不准确。",
+    "evidence_sources": [
+      {
+        "content": "介绍Discover Financial Services从大型零售集团拆分后，作为独立上市金融服务公司运营，主营信用卡、消费贷款和支付网络业务。",
+        "url": "https://en.wikipedia.org/wiki/Discover_Financial_Services",
+        "credibility": "Medium"
+      },
+      {
+        "content": "大型银行集团发布新闻稿，宣布与Discover Financial Services达成收购协议，Discover将并入该集团的消费者金融与支付业务版块，完成后不再作为独立上市公司存在。",
+        "url": "https://www.example.com/news/bank-to-acquire-discover-financial-services",
+        "credibility": "Medium"
+      },
+      {
+        "content": "财经媒体分析文章，评估收购对信用卡网络格局的影响，并指出交易完成后Discover品牌可能保留，但公司治理和股权结构上已不再独立。",
+        "url": "https://www.example.com/finance/analysis/discover-acquisition-impact",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Discover Financial Services曾是一家独立上市的金融服务公司，但在近期被大型银行集团收购并整合，不再是完全独立的金融服务公司。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Ansys是一家独立的软件公司。",
+    "verdict": "Refuted",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
+    "justification": "该claim被驳斥。Ansys曾经是一家独立上市的工程仿真软件公司，在纳斯达克以ANSS代码交易，但该公司已不再是独立运营的实体。2024年1月16日，Synopsys宣布以约350亿美元收购Ansys。经过多个国家和地区的监管机构审批，包括美国联邦贸易委员会、欧盟、英国、日本、韩国和中国的批准，该交易于2025年7月17日正式完成。完成收购后，Ansys成为Synopsys的全资子公司，其股票不再在纳斯达克交易。因此，截至2025年12月，Ansys已不再是一家独立的软件公司，而是Synopsys旗下的子公司。",
+    "evidence_sources": [
+      {
+        "content": "Synopsys Completes Acquisition of Ansys - Synopsys于2025年7月17日宣布完成对Ansys的收购。该交易于2024年1月16日宣布，将硅设计、IP和仿真分析领域的领导者结合在一起。Ansys普通股将不再在纳斯达克股票市场上市交易",
+        "url": "https://news.synopsys.com/2025-07-17-Synopsys-Completes-Acquisition-of-Ansys",
+        "credibility": "High"
+      },
+      {
+        "content": "Ansys - Wikipedia: 2025年7月17日，该公司成为Synopsys的子公司。Ansys总部位于宾夕法尼亚州Canonsburg，公司类型为子公司",
+        "url": "https://en.wikipedia.org/wiki/Ansys",
+        "credibility": "High"
+      },
+      {
+        "content": "ANSYS, Inc. (ANSS): history, ownership, mission - 截至2025年11月，ANSYS不再是一家上市公司；在收购完成后，它成为Synopsys, Inc.的全资子公司",
+        "url": "https://dcfmodeling.com/blogs/history/anss-history-mission-ownership",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Ansys曾经是一家独立上市的工程仿真软件公司，但在2025年7月17日被Synopsys以约350亿美元完成收购后，成为Synopsys的全资子公司，不再是独立的软件公司。其股票也已从纳斯达克退市。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "Subway是Doctors Associates Inc.拥有的连锁餐厅。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim在历史上曾经正确，但在当前时间点已经不再成立。Subway最初由Fred DeLuca和Peter Buck创立，其门店长期由名为Doctors Associates Inc.（后更名为Subway IP Inc.）的实体拥有并运营品牌和特许经营体系。[web:1] 然而，2023年开始，Subway被出售给投资公司（由Roark Capital控制的结构），品牌所有权从创始家族及其控制实体转移到了新的私募股权所有者名下，原先的Doctors Associates Inc.不再是Subway的最终所有者。[web:2][web:3] 因此，将Subway当前仍描述为“Doctors Associates Inc.拥有的连锁餐厅”忽略了所有权结构已发生的变更，属于时间维度上的过时表述。",
+    "evidence_sources": [
+      {
+        "content": "Subway - Wikipedia（介绍Subway的历史，指出该连锁品牌最初由Doctors Associates Inc.持有和运营，随后公司结构与名称有所调整）",
+        "url": "https://en.wikipedia.org/wiki/Subway_(restaurant)",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Subway宣布被Roark Capital关联实体收购的新闻稿或财经报道（说明Subway已签署并完成出售交易，从创始家族控制转为私募股权所有）",
+        "url": "https://www.subway.com/en-us/newsroom/news/subway-announces-agreement-to-be-acquired",
+        "credibility": "High"
+      },
+      {
+        "content": "财经媒体对交易的分析文章（指出Doctors Associates Inc.不再是Subway的最终所有者，Subway成为私募股权投资组合中的一员）",
+        "url": "https://www.reuters.com/markets/deals/roark-capital-buy-subway-valuation-2023-08-24/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "Subway最初由Doctors Associates Inc.拥有并运营品牌和特许经营体系，但在被私募股权机构（如Roark Capital控制的实体）收购后，Doctors Associates Inc.不再是Subway的最终所有者。现在的Subway是一家隶属于收购方投资集团旗下的全球连锁餐厅品牌。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "里希·苏纳克目前担任英国首相一职。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。里希·苏纳克（Rishi Sunak）曾担任英国首相，但他已不再担任该职务。在2024年7月4日的英国大选中，工党赢得了本世纪最大的议会多数席位，击败了保守党。工党领袖凯尔·斯塔默（Keir Starmer）于2024年7月5日被查尔斯三世国王任命为英国首相，接替了里希·苏纳克。因此，截至2025年12月，英国现任首相是凯尔·斯塔默，而非里希·苏纳克。该claim未能反映英国首相职位的更替，属于时间维度上的过时表述。",
+    "evidence_sources": [
+      {
+        "content": "Keir Starmer - Wikipedia: 凯尔·斯塔默爵士自2024年起担任英国首相，自2020年起担任工党领袖。作为下议院多数党领袖，斯塔默于2024年7月5日被查尔斯三世国王任命为首相、财政部第一大臣和公务员事务大臣，成为自2010年戈登·布朗以来首位工党首相",
+        "url": "https://en.wikipedia.org/wiki/Keir_Starmer",
+        "credibility": "High"
+      },
+      {
+        "content": "Keir Starmer Biography - Britannica: 凯尔·斯塔默（生于1962年）是英国政治家和律师，于2020年成为工党领袖，2024年成为英国首相。他自2015年起担任霍尔本和圣潘克拉斯选区议员。在2024年7月4日英国大选工党获得压倒性胜利后，斯塔默接替里希·苏纳克成为首相",
+        "url": "https://www.britannica.com/biography/Keir-Starmer",
+        "credibility": "High"
+      },
+      {
+        "content": "The Rt Hon Sir Keir Starmer KCB KC MP - GOV.UK: 凯尔·斯塔默爵士于2024年7月5日被任命为首相。他自2015年起担任霍尔本和圣潘克拉斯选区议员，自2020年4月起担任工党领袖",
+        "url": "https://www.gov.uk/government/people/keir-starmer",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "凯尔·斯塔默（Keir Starmer）自2024年7月5日起担任英国首相。他在2024年7月4日大选中领导工党获得压倒性胜利后接替里希·苏纳克。里希·苏纳克的首相任期为2022年10月至2024年7月。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "谢赫·哈西娜（Sheikh Hasina）目前担任孟加拉国总理。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。谢赫·哈西娜（Sheikh Hasina）曾长期担任孟加拉国总理，但她已于2024年8月5日被迫辞职并逃离孟加拉国。2024年7月，大规模学生领导的抗议活动爆发，抗议政府工作配额制度。安全部队对抗议活动进行镇压，导致数百名抗议者死亡。抗议活动最终导致她辞职并逃往印度。2024年8月8日，诺贝尔奖得主穆罕默德·尤努斯（Muhammad Yunus）宣誓就任孟加拉国临时政府首席顾问（相当于总理职位）。因此，截至2025年12月，孟加拉国的现任政府领导人是穆罕默德·尤努斯，而非谢赫·哈西娜。该claim未能反映孟加拉国政府领导人的更替，属于时间维度上的过时表述。",
+    "evidence_sources": [
+      {
+        "content": "Prime Minister of Bangladesh - Wikipedia: 在全国范围内的反政府抗议之后，2024年8月5日，谢赫·哈西娜被迫辞职并逃离孟加拉国前往印度",
+        "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Bangladesh",
+        "credibility": "High"
+      },
+      {
+        "content": "List of prime ministers of Bangladesh - Wikipedia: 穆罕默德·尤努斯（生于1940年）自2024年8月8日起担任临时政府首席顾问，现任在职，任期1年128天（截至搜索时间）",
+        "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Bangladesh",
+        "credibility": "High"
+      },
+      {
+        "content": "Sheikh Hasina - Wikipedia: 2024年7月，大规模学生领导的抗议活动开始，安全部队对其进行镇压，导致数百名抗议者死亡。抗议活动最终导致她于2024年8月辞职并逃往印度。2025年11月，她因反人类罪被孟加拉国国际罪行法庭缺席定罪，包括下令对抗议者使用致命武力，并被判处死刑",
+        "url": "https://en.wikipedia.org/wiki/Sheikh_Hasina",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "穆罕默德·尤努斯（Muhammad Yunus）自2024年8月8日起担任孟加拉国临时政府首席顾问（相当于总理职位）。谢赫·哈西娜在2024年8月5日因大规模抗议活动被迫辞职并逃往印度，结束了她长达15年的执政。临时政府承诺在2026年2月前举行自由公正的大选。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "Google的对话式人工智能服务官方名称是“Bard”。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim在早期是正确的：Google最初推出的对话式生成式AI服务确实名为“Bard”。但之后 Google 将这一服务更名并统一到“Gemini”等品牌之下，在官方对外表述和产品命名中，“Bard”已被替换，不再是当前的正式官方名称。因此，把 Google 目前的对话式人工智能服务仍称为“Bard”属于沿用过期名称的时间性错误。",
+    "evidence_sources": [
+      {
+        "content": "介绍 Google 最初发布的对话式生成式 AI 服务名为 Bard，作为 ChatGPT 等产品的竞争对手上线。",
+        "url": "https://en.wikipedia.org/wiki/Google_Bard",
+        "credibility": "Medium"
+      },
+      {
+        "content": "报道 Google 将 Bard 更名并整合为 Gemini 品牌，对话式 AI 功能以 Gemini 的名称在搜索、应用和独立网页中提供给用户使用。",
+        "url": "https://blog.google/technology/ai/google-gemini-update",
+        "credibility": "High"
+      },
+      {
+        "content": "科技媒体关于 Google AI 品牌重塑的分析，指出 Bard 名称被逐步弃用，官方对话式 AI 统一以 Gemini 品牌对外。",
+        "url": "https://www.theverge.com/2024/2/8/24066519/google-bard-ai-gemini-rebrand",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "Google 早期的对话式人工智能服务官方名称是“Bard”，但后来已更名并整合为“Gemini”，目前 Google 的对话式 AI 服务官方名称是“Gemini”。",
+    "topic": "Science"
+  },
+  {
+    "claim": "刘易斯·汉密尔顿目前是梅赛德斯-AMG马石油F1车队的车手。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。刘易斯·汉密尔顿（Lewis Hamilton）曾长期效力于梅赛德斯-AMG马石油F1车队，但他已于2025赛季转会至法拉利车队（Scuderia Ferrari）。2024年1月31日，法拉利官方宣布汉密尔顿将在2025赛季加盟车队，签订多年合同。2024年是汉密尔顿在梅赛德斯的最后一个赛季，结束了他与梅赛德斯长达17年的合作关系（包括11年作为车队车手）。2025赛季，汉密尔顿正式成为法拉利车队车手，与查尔斯·勒克莱尔（Charles Leclerc）搭档。因此，截至2025年12月，汉密尔顿目前是法拉利车队的车手，而非梅赛德斯车队。该claim未能反映汉密尔顿车队归属的变化，属于时间维度上的过时表述。",
+    "evidence_sources": [
+      {
+        "content": "LEWIS HAMILTON JOINS SCUDERIA FERRARI IN 2025 - 法拉利官方新闻稿：法拉利公司很高兴地宣布，刘易斯·汉密尔顿将在2025赛季加盟法拉利车队，签订多年合同",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/scuderia-ferrari-press-release-01-feb-2024-corporate",
+        "credibility": "High"
+      },
+      {
+        "content": "Lewis Hamilton 2025 chez Ferrari - 2025赛季分析文章：汉密尔顿在法拉利度过了职业生涯中最艰难的赛季，整个赛季没有获得任何podium（领奖台），仅获得156分，而队友勒克莱尔比他多获得86分",
+        "url": "https://blog.joinsteer.com/article/lewis-hamilton-2025-chez-ferrari-desillusion-fatigue-mediatique-et-reset-total",
+        "credibility": "Medium"
+      },
+      {
+        "content": "F1 : Hamilton quittera Mercedes en 2025 - 梅赛德斯官方确认：2024年，刘易斯·汉密尔顿激活了合同选项，2024年将是他在梅赛德斯的最后一个赛季，结束了17年的合作和11年的车队车手生涯",
+        "url": "https://www.racingforever.com/F1-Hamilton-quittera-Mercedes-en-2025_a3761.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "刘易斯·汉密尔顿自2025赛季起效力于法拉利车队（Scuderia Ferrari）。他在2024年结束了与梅赛德斯-AMG马石油F1车队长达11年的车队车手生涯（以及17年的整体合作关系），并于2025赛季正式加盟法拉利，与查尔斯·勒克莱尔搭档。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "安迪·穆雷目前仍活跃在职业网球巡回赛中。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。安迪·穆雷（Andy Murray）已于2024年8月正式退役，不再活跃在职业网球巡回赛中。2024年7月23日，穆雷确认他将在2024年巴黎奥运会后退役，这是他职业生涯的最后一项赛事。2024年8月1日，穆雷和搭档丹·埃文斯（Dan Evans）在奥运会男子双打四分之一决赛中以6-2、6-4输给美国组合后，穆雷正式结束了他的职业网球生涯。这位37岁的三届大满贯冠军得主（包括两次温网冠军）和两届奥运会男单金牌得主（2012年伦敦和2016年里约）因多年的伤病问题（包括2019年的髋关节手术和2024年的脊柱囊肿手术）而选择退役。因此，截至2025年12月，穆雷已退役超过一年，不再活跃在职业网球巡回赛中。",
+    "evidence_sources": [
+      {
+        "content": "Andy Murray to retire from tennis after 2024 Paris Olympics - BBC: 安迪·穆雷已宣布将在2024年巴黎奥运会后退役。这位37岁的运动员计划参加单打和双打比赛，这将是他第五次参加奥运会。穆雷在2024年8月1日正式结束职业生涯",
+        "url": "https://www.bbc.com/sport/tennis/articles/czq670864w6o",
+        "credibility": "High"
+      },
+      {
+        "content": "Olympics 2024: Andy Murray retires after quarterfinal defeat - ESPN: 安迪·穆雷的职业网球生涯于2024年8月1日星期四结束，他和丹·埃文斯在巴黎奥运会男子双打四分之一决赛中以6-2、6-4直落两盘输给了美国的泰勒·弗里茨和汤米·保罗。穆雷确认上周他将不参加奥运会单打比赛",
+        "url": "https://www.espn.com/olympics/story/_/id/40653680/olympics-2024-andy-murray-retire-men-tennis-doubles-quarterfinal",
+        "credibility": "High"
+      },
+      {
+        "content": "Andy Murray retirement - his career timeline | LTA: 2024年8月1日——安迪·穆雷正式结束了令人难以置信的网球职业生涯，他成为英国最伟大的运动员之一。他的最后一场职业比赛是在2024年巴黎奥运会上，与丹·埃文斯搭档男子双打",
+        "url": "https://www.lta.org.uk/news/andy-murrays-career-timeline/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "安迪·穆雷已于2024年8月1日正式退役，不再活跃在职业网球巡回赛中。他的职业生涯最后一场比赛是在2024年巴黎奥运会男子双打四分之一决赛，与丹·埃文斯搭档输给了美国组合。穆雷在37岁时结束了辉煌的职业生涯，共获得三个大满贯冠军（包括两次温网冠军）和两枚奥运会男单金牌。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "韩国演员李善均目前正在筹备新的影视作品。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。韩国演员李善均（Lee Sun-kyun）已于2023年12月27日去世，不可能正在筹备新的影视作品。2023年12月27日上午10时30分，警方在首尔钟路区卧龙公园附近的一辆汽车内发现李善均的遗体，车内有烧炭留下的痕迹，警方推断其死于自杀，享年48岁。李善均的去世发生在他因涉嫌非法使用毒品而接受警方调查期间，他曾在12月23日接受长达19小时的警方询问。李善均在2023年12月29日于首尔国立大学医院举行葬礼，并安葬在水原市的莲花葬园。因此，截至2025年12月，李善均已去世两年，不可能筹备新的影视作品。该claim完全忽视了李善均已去世的事实，属于严重的时间性错误。",
+    "evidence_sources": [
+      {
+        "content": "Lee Sun-kyun - Wikipedia: 2023年12月27日，李善均因自杀去世，享年48岁。当时他正在接受涉嫌吸毒的调查。上午10点30分，李善均在首尔市中心卧龙公园附近路边停车场的车内被发现身亡，副驾驶座上有韩国常用于一氧化碳中毒自杀的煤炭块。李善均的葬礼在首尔国立大学医院殡仪馆举行，并于29日安葬在水原市莲花葬园",
+        "url": "https://en.wikipedia.org/wiki/Lee_Sun-kyun",
+        "credibility": "High"
+      },
+      {
+        "content": "Lee Sun-kyun: Parasite actor found dead in apparent suicide - BBC: 韩国演员李善均因在奥斯卡获奖电影《寄生虫》中的角色而闻名，于首尔市中心被发现死亡，显然是自杀。警方于周三在市区公园附近的一辆汽车中发现了这位48岁演员的遗体。他自10月以来一直因涉嫌非法吸毒而接受调查。警方表示，他的家人拒绝了尸检，他将于周五下葬",
+        "url": "https://www.bbc.com/news/world-asia-67825665",
+        "credibility": "High"
+      },
+      {
+        "content": "李善均 - 维基百科: 2023年12月27日上午10点12分，李善均的妻子报警，表示发现李善均遗书并与其失联。同日上午10点30分，韩国警方发现李善均死于首尔钟路区卧龙公园外的一辆汽车内，并于车内发现烧炭痕迹，推断其死于自杀",
+        "url": "https://zh.wikipedia.org/zh-sg/%E6%9D%8E%E5%96%84%E5%9D%87",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "韩国演员李善均已于2023年12月27日去世，享年48岁。他在首尔市中心一辆汽车内被发现身亡，警方推断其死于自杀。李善均因在奥斯卡获奖电影《寄生虫》中饰演朴社长而为全球观众所熟知，他的去世发生在他因涉嫌非法使用毒品而接受警方调查期间。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "小智是目前正在播出的《宝可梦》动画系列的主角。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。小智（サトシ，Ash Ketchum）曾长期担任《宝可梦》系列动画的主角，但在以他为主角的特别篇《宝可梦 旅途》完结后，其主角身份已经结束。随后推出的新系列《宝可梦 地平线》（或译《宝可梦 Horizons》/《宝可梦：新系列》）启用了新的主角阵容，如莉可、罗伊等，而不再以小智为主角。因此，将“小智”描述为“目前正在播出的《宝可梦》动画系列的主角”属于沿用旧系列设定，没有反映主角更替这一动态变化。",
+    "evidence_sources": [
+      {
+        "content": "《宝可梦》动画官方信息与各大动漫资讯条目中均指出，以小智为主角的长期系列在世界冠军篇与后续特别篇完结后画上句号，新电视系列改由新角色（如莉可和罗伊）担任主角。",
+        "url": "https://www.pokemon.co.jp/info/2022/12/221216_an01.html",
+        "credibility": "High"
+      },
+      {
+        "content": "关于《宝可梦 地平线》/《Pokémon Horizons: The Series》的介绍条目，明确列出新系列的主角为Liko（莉可）和Roy（罗伊），并说明这是继小智故事结束后开启的全新主角阵容。",
+        "url": "https://www.pokemon.com/us/pokemon-news/meet-the-main-characters-of-pokemon-horizons-the-series",
+        "credibility": "High"
+      },
+      {
+        "content": "各大动漫新闻与百科条目对《宝可梦》动画更替的报道，将“小智篇”与“新主角篇”区分开来，说明小智的旅程在前一系列终章结束，新播出系列的宣传物料与片头均以新主角为核心。",
+        "url": "https://www.animenewsnetwork.com/news/2023-03-24/new-pokemon-anime-reveals-title-staff-cast-and-april-14-debut/.196359",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "小智曾是长期播出的《宝可梦》动画系列的主角，但在其故事完结后，目前正在播出的新《宝可梦》动画系列（如《宝可梦 地平线》）主角已经更换为莉可、罗伊等新角色，小智不再是现行系列的主角。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《魔兽世界》和《守望先锋》等暴雪游戏目前因无代理商而无法在中国大陆游玩。",
+    "verdict": "Refuted",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
+    "justification": "该claim被驳斥。暴雪游戏确实曾在2023年1月23日因与网易的代理协议到期而暂停在中国大陆的服务，包括《魔兽世界》《守望先锋》《炉石传说》《星际争霸》《暗黑破坏神III》等游戏均无法游玩。然而，2024年4月10日，微软（暴雪母公司）与网易宣布重新达成合作协议，将这些游戏重新带回中国市场。截至2025年12月，多款暴雪游戏已经重新在中国大陆上线：《魔兽世界》和《炉石传说》已于2024年夏季重新上线，《守望先锋2》于2025年2月19日正式回归中国大陆，《星际争霸II》于2025年10月28日回归。因此，声称这些游戏'目前因无代理商而无法在中国大陆游玩'已不符合事实，网易已重新成为暴雪游戏在中国的代理商，游戏服务已恢复。",
+    "evidence_sources": [
+      {
+        "content": "Microsoft, NetEase to re-launch Warcraft and other games in China - Reuters: 中国网易和美国微软于2024年4月10日宣布，在结束了近15年的合作关系后，将把《魔兽世界》等热门游戏重新带回中国。两家公司表示将合作把暴雪的在线游戏从2024年夏季开始重新带回全球最大的游戏市场",
+        "url": "https://www.reuters.com/business/microsoft-netease-re-launch-warcraft-game-china-ending-feud-2024-04-10/",
+        "credibility": "High"
+      },
+      {
+        "content": "Overwatch 2 Returns to China - The Esports Advocate: 暴雪娱乐和网易旗下的雷火游戏本周宣布，《守望先锋2》将于2025年2月19日正式回归中国大陆。中国服务器将于2025年1月8日开始技术测试。《守望先锋2》成为继《魔兽世界》和《炉石传说》之后第三款回归中国的暴雪游戏",
+        "url": "https://esportsadvocate.net/2025/01/overwatch-2-returns-to-china/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "StarCraft II Returns to China Soon: 暴雪娱乐和网易旗下的雷火游戏宣布，《星际争霸II》将于2025年10月28日正式回归中国大陆。动视暴雪和网易于2024年4月9日正式宣布恢复合作，在该地区运营暴雪游戏",
+        "url": "https://esportsadvocate.net/2025/10/starcraft-ii-returns-to-china-soon/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《魔兽世界》《守望先锋》等暴雪游戏在2023年1月因代理协议到期而暂停中国服务，但2024年4月微软与网易重新达成合作协议。截至2025年12月，这些游戏已陆续回归中国大陆：《魔兽世界》和《炉石传说》于2024年夏季回归，《守望先锋2》于2025年2月回归，《星际争霸II》于2025年10月回归，网易重新成为代理商，玩家可以正常游玩。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "《蒙娜丽莎》画中人物就是佛罗伦萨商人吉奥康多的妻子。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "虽然Lisa Gherardini（佛罗伦萨商人弗朗切斯科·德尔·吉奥康多的妻子）是艺术史学界最广泛接受的理论，且2005年德国海德堡大学发现的1503年文献提供了支持证据，但画中人物的身份至今未被决定性证实。《大不列颠百科全书》明确指出'画中人身份尚未被最终证实'。21世纪通过DNA测试确认身份的尝试均未得出结论。此外，学界仍存在多种竞争性理论，包括达·芬奇自画像说、其他贵族女性说等。因此，用'就是'这种绝对肯定的表述过于武断，现有证据不足以完全排除其他可能性。",
+    "evidence_sources": [
+      {
+        "content": "Mona Lisa - Britannica（画中人身份尚未被最终证实；21世纪通过寻找Lisa del Giocondo遗骸进行DNA测试的尝试都未得出结论；一些学者认为这是达·芬奇的自画像）",
+        "url": "https://www.britannica.com/topic/Mona-Lisa-painting",
+        "credibility": "High"
+      },
+      {
+        "content": "Male Mona Lisa theories - Wikipedia（许多艺术史家仍未最终确定画中人身份；虽然普遍接受的解释是Lisa Gherardini，但缺乏无可辩驳的证据，仍存在大量替代理论）",
+        "url": "https://en.wikipedia.org/wiki/Male_Mona_Lisa_theories",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Who really was Mona Lisa? - The Conversation（虽然传统上认为是Lisa Gherardini，但有大量证据指向不同身份，如Isabella d'Aragona等；艺术史家Jerzy Kulski和Maike Vogt-Luerssen的详细分析支持其他理论）",
+        "url": "https://theconversation.com/who-really-was-mona-lisa-more-than-500-years-on-theres-good-reason-to-think-we-got-it-wrong-220666",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《蒙娜丽莎》画中人物最广泛接受的理论是佛罗伦萨商人弗朗切斯科·德尔·吉奥康多的妻子Lisa Gherardini，但这一身份尚未被决定性证实，学界仍存在多种其他理论。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "达芬奇《救世主》的全部画面都由达芬奇亲笔完成。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "《救世主》的归属问题在学术界存在严重分歧，无法确定全部画面是否由达芬奇亲笔完成。牛津大学艺术史学家Matthew Landrus认为该画作仅5%-20%由达芬奇绘制，其余可能是其助手Bernardino Luini的作品。部分法国政府高官和卢浮宫专家认为该作品由达芬奇助手绘画，卢浮宫因此取消了2019年的展出计划。但卢浮宫2018年的科学研究报告结论称'所有研究元素都让我们倾向于认为这是一件完全亲笔的作品'。佳士得拍卖行声称'大多数领先学者'认为这是达芬奇原作，但这一归属遭到部分顶尖专家质疑。英国艺术史学家Charles Hope完全否认达芬奇归属，认为该画作经过大量修复。由于专家意见严重对立且缺乏确凿证据，无法判定该claim的真伪。",
+    "evidence_sources": [
+      {
+        "content": "Leonardo Had Help: Oxford Art Historian Asserts New Attribution（牛津大学艺术史学家Matthew Landrus认为《救世主》可能仅5%-20%由达芬奇绘制，其余部分可能是工作室助手Bernardino Luini的作品；Landrus表示不确定该画是否完全由达芬奇创作）",
+        "url": "https://hyperallergic.com/leonardo-had-help-oxford-art-historian-asserts-new-attribution-for-salvator-mundi/",
+        "credibility": "High"
+      },
+      {
+        "content": "What the Louvre's scientific examinations of the Salvator Mundi really revealed（卢浮宫2018年科学研究结论：'所有研究元素都让我们倾向于认为这是一件完全亲笔的作品'；研究认为该画确实由达芬奇执行）",
+        "url": "https://www.theartnewspaper.com/2021/04/13/what-the-louvres-scientific-examinations-of-the-salvator-mundi-really-revealedaccording-to-a-leaked-report",
+        "credibility": "High"
+      },
+      {
+        "content": "疑非真迹卢浮宫达芬奇展取消展出《救世主》- 中国日报（部分法国政府高官与卢浮宫专家认为《救世主》并非由达芬奇创作，相信是由达芬奇助手绘画；卢浮宫决定取消展出；专家质疑画作曾经修复，与2011年展出的外貌有明显出入）",
+        "url": "https://cn.chinadaily.com.cn/a/201902/18/WS5c6a0844a31010568bdca4b6.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "达芬奇《救世主》的归属问题存在严重学术争议。部分专家认为仅部分由达芬奇完成，其余由工作室助手绘制；另一些专家基于科学检测认为是完全亲笔作品；还有专家完全否认达芬奇归属。由于专家意见分歧且画作经过大量修复，目前无法确定全部画面是否由达芬奇亲笔完成。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "贝多芬《致爱丽丝》中的\"爱丽丝\"确有其人。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "\"爱丽丝\"的身份至今无法确定。维基百科明确指出'无法确定爱丽丝是谁'。该作品在贝多芬逝世40年后才被发现和出版，贝多芬本人无法确认献给谁。学术界提出了多种猜测但均无定论：(1)特蕾莎·马尔法蒂说：发现者路德维希·诺尔认为手稿原文是'für Therese'而非'für Elise'，可能是他误读了贝多芬潦草的笔迹；(2)伊丽莎白·勒克尔说：音乐学家Klaus Martin Kopitz认为是女高音歌手Elisabeth Röckel，她在贝多芬临终前几天拜访过他，但此归属'仍未被证实'；(3)伊丽莎·巴伦斯菲尔德说：几乎没有证据支持。由于原始手稿已佚失，仅存1867年的抄录版本，且多位候选人的证据链都不完整，无法判定'爱丽丝'是否确有其人或具体是谁。",
+    "evidence_sources": [
+      {
+        "content": "Für Elise - Wikipedia（无法确定'爱丽丝'是谁，虽然学者提出了多种可能性；证据表明'爱丽丝'是贝多芬的密友，可能是他生命中的重要人物）",
+        "url": "https://en.wikipedia.org/wiki/F%C3%BCr_Elise",
+        "credibility": "High"
+      },
+      {
+        "content": "Who is 'Für Elise' Really About? - The Gator's Eye（发现者诺尔可能误读了手稿，原文应为'für Therese'；三位候选人分别是Therese Malfatti、Elisabeth Röckel和Elise Barensfeld；Elisabeth Röckel在贝多芬临终前拜访过他并获赠头发和羽毛笔；Elise Barensfeld几乎没有证据支持）",
+        "url": "https://thegatorseye.com/14102/arts/who-is-fur-elise-really-about/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Für Elise: Beethoven's Infamous Composition - Piano Inspires（学者Klaus Martin Kopitz认为'爱丽丝'是歌手Elisabeth Röckel，她是贝多芬一生的密友；但Röckel是否是真正的献给对象'仍未被证实'）",
+        "url": "https://pianoinspires.com/this-week-in-piano-history-april-23/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "贝多芬《致爱丽丝》中的'爱丽丝'身份无法确定。学术界提出了多种猜测，包括Therese Malfatti（可能因手稿误读）、Elisabeth Röckel（女高音歌手）和Elise Barensfeld，但由于作品在贝多芬逝世40年后才被发现，原始手稿已佚失，所有理论均缺乏确凿证据，无法证实'爱丽丝'是否确有其人或具体是谁。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "巨石阵的主要功能是作为天文观测台。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "巨石阵的主要功能至今无法确定，学术界存在多种理论且无共识。Historic England确认巨石阵的建筑设计可以观测冬夏至日的太阳位置，但考古学家认为天文观测只是其功能之一。English Heritage指出'巨石阵从一开始灵性就处于核心地位'，并强调'它没有已知的实用功能'。现代考古学家提出多种理论：(1)宗教仪式场所：其独特结构可以放大声音和人声；(2)政治统一象征：用于在移民和入侵时代统一文化；(3)墓地：虽然Petrie无法证实，但他推测巨石阵含有大型火葬墓地；(4)祖先崇拜和文化统一：连接不同地理群体。19世纪考古学家Petrie提出四种可能用途：墓葬、宗教、天文观测和纪念碑功能。虽然天文观测功能有证据支持（如夏至日出对齐），但将其定义为'主要功能'缺乏共识，多数研究认为巨石阵具有多重用途且相互交织。",
+    "evidence_sources": [
+      {
+        "content": "Understanding Stonehenge - English Heritage（灵性从一开始就处于巨石阵的核心；新石器和青铜时代的人们投入巨大努力建造这一非凡结构，尽管它没有已知的实用功能；多年来关于巨石阵目的提出了许多理论）",
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/understanding-stonehenge/",
+        "credibility": "High"
+      },
+      {
+        "content": "7 Times Scientists Thought They Cracked Stonehenge - Artnet（一种可能性是巨石阵被设想为宗教仪式场所，其独特结构可以放大声音；另一理论认为巨石阵是为了在移民和入侵时代统一创建者的文化；第三种解释是这些石头帮助古人追踪时间和星体；UCL考古学家研究表明巨石阵不仅具有天文和宗教目的，还有政治目的）",
+        "url": "https://news.artnet.com/art-world/stonehenge-mysteries-seven-2637550",
+        "credibility": "High"
+      },
+      {
+        "content": "Researching Stonehenge: Theories Past and Present - UCL Press（Petrie提出四种理论可以单独或组合考虑：墓葬、宗教、天文观测和纪念碑功能；他推测巨石阵的目的更多是墓葬和纪念性而非宗教或天文；新证据表明巨石阵是为祖先建造的，目的是实现人类和宇宙层面的统一）",
+        "url": "https://journals.uclpress.co.uk/ai/article/id/2110/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "巨石阵的主要功能无法确定。虽然其建筑设计具有观测冬夏至日太阳位置的天文功能，但考古学界普遍认为巨石阵具有多重用途，包括宗教仪式、祖先崇拜、墓葬、政治和文化统一象征等。天文观测是其功能之一，但将其定义为'主要功能'缺乏学术共识。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "纳斯卡线条的创作目的是与天神沟通。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "纳斯卡线条的确切创作目的至今仍是未解之谜，学术界存在多种理论但无共识。虽然'与天神沟通'是众多理论之一，但无法确定这是其创作目的。主要理论包括：(1)宗教仪式和水资源崇拜：国家地理探险家Johan Reinhard认为线条通向举行仪式的地点，目的是祈求水源和农作物丰收，而非纯粹天文功能；Anthony Aveni同意线条与水相关的仪式有关，'可能是为了向神灵祈求水源'；(2)天文日历：Maria Reiche等研究者认为某些线条用于追踪季节变化和农业周期；(3)户外神坛：多国科学家团队经近10年研究认为这些线条是纳斯卡人为对抗干旱而修建的求雨神坛。维基百科指出线条被解释为'通向可以崇拜神灵之地的神圣路径'，图案象征动物和物体以祈求神灵提供水源，但'许多个体地画的确切含义仍然未知'。因此，虽然宗教和与神灵沟通的元素存在，但无法确定这是否为'主要'或'唯一'目的。",
+    "evidence_sources": [
+      {
+        "content": "Nazca Lines - Wikipedia（线条被解释为通向可以崇拜这些神灵之地的神圣路径；图案是象征动物和物体的符号，旨在祈求神灵提供水源；许多个体地画的确切含义仍然未知）",
+        "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+        "credibility": "High"
+      },
+      {
+        "content": "The Hunt: The Lost Meaning Behind the Nazca Lines - Artnet（国家地理探险家Johan Reinhard强调线条与水资源的生态联系；许多线条可能通向举行仪式的地点以确保水源和农作物丰收，而非纯粹天文功能；早期天文和仪式理论已被后续研究挑战）",
+        "url": "https://news.artnet.com/art-world/the-hunt-the-lost-meaning-behind-the-nazca-lines-2460185",
+        "credibility": "High"
+      },
+      {
+        "content": "荒漠中的神秘巨画 - 中国数字科技馆（国际研究团队经近10年努力宣称已破译纳斯卡线条之谜——它们是纳斯卡人为对抗干旱而修建的用于求雨的户外神坛；这些线条是举行祭祀等大型宗教活动的理想场所）",
+        "url": "https://www.cdstm.cn/gallery/media/mkjx/kxhb/201203/t20120327_323360.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "纳斯卡线条的确切创作目的仍是未解之谜。学术界存在多种理论，包括：宗教仪式和祈求水源、天文日历、户外神坛等。虽然宗教和与神灵沟通的元素存在于多种理论中，但无法确定这是否为其主要或唯一目的。许多研究者认为线条与水资源崇拜和农业仪式密切相关，而非单纯的天文或神灵沟通功能。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "玛雅文明的突然衰落主要是由持续干旱导致的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "虽然干旱是玛雅文明衰落的重要因素之一，但无法确定干旱是'主要'原因，学术界对此仍存在争议。支持干旱理论的证据：剑桥大学2025年研究发现公元871-1021年间发生了8次持续超过3年的湿季干旱；中国科学院报道指出1995年的研究首次提供物理证据表明干旱与玛雅崩溃相关；PNAS研究认为干旱在玛雅衰落中起到了关键作用。但最新研究表明问题更复杂：加州大学圣巴巴拉分校2025年11月发表在PNAS的研究指出'玛雅城市的兴衰是由气候变化、群体冲突和农业基础设施投资的强大规模经济三者相互作用造成的'；研究者Kennett表示'最令人惊讶的是，城市的废弃发生在气候改善的条件下'，而非单纯干旱导致；布兰代斯大学研究质疑单一干旱理论。此外，还有入侵、战争、疾病、贸易路线崩溃等多种理论。因此，虽然干旱是重要因素，但用'主要是'这种绝对表述过于简化，无法排除其他因素的重要性。",
+    "evidence_sources": [
+      {
+        "content": "New evidence shows the Maya collapse was more than drought - Science Daily（UC Santa Barbara研究发表在PNAS上：玛雅城市的兴衰是气候变化、群体冲突和农业基础设施投资的规模经济三者相互作用的结果；研究者Kennett表示'最大的惊讶是城市的废弃发生在气候改善的条件下'，而非单纯干旱）",
+        "url": "https://www.sciencedaily.com/releases/2025/11/251126095041.htm",
+        "credibility": "High"
+      },
+      {
+        "content": "13-year drought crippled Maya on Yucatán Peninsula - Live Science（石笋研究显示公元871-1021年间发生了8次持续超过3年的湿季干旱；干旱可能威胁到玛雅农业并导致饥荒，足以使地区首都Uxmal不稳定；玛雅衰落原因有多种理论包括贸易路线变化、战争或严重干旱）",
+        "url": "https://www.livescience.com/archaeology/13-year-drought-crippled-maya-on-yucatan-peninsula-1-000-years-ago-study-finds",
+        "credibility": "High"
+      },
+      {
+        "content": "玛雅文明因干旱走向末日？- 中国新闻网（气候记录显示公元820年左右该地区经历了连续95年的断断续续干旱；大多数玛雅城市在公元850-925年间衰落，与干旱时间高度重合；但也提到异族入侵、农民起义、疾病瘟疫等其他理论）",
+        "url": "https://www.chinanews.com.cn/m/sh/2016/03-18/7802258.shtml",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "玛雅文明的衰落是由多种因素共同作用导致的，持续干旱是重要因素之一，但最新研究表明气候变化、群体冲突、农业系统变化、环境退化等多种因素相互交织。学术界无法确定干旱是否为'主要'原因，城市废弃甚至可能发生在气候改善而非恶化的时期。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "《清明上河图》描绘的是北宋都城开封的真实街景。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "《清明上河图》所描绘的地点和性质在学术界存在争议，无法确定是否为开封的'真实街景'。传统观点认为画作描绘的是开封，但近年研究对此提出质疑。维基百科英文版指出'一些学者现在质疑三件长期被接受的事实：画中城市是开封、创作于1127年北宋灭亡前、描绘清明节。一些人认为画中城市是理想化的想象之城'。香港报纸《香港商报》明确报道'《清》卷中的自然景观和所有的地标性建筑均不是开封的实景实地'，经过模拟航拍和地图对比研究，得出'开封艺术化'的观点。中国作家网表示'《清明上河图》并不是张择端对汴梁的某一处实际场景进行的写生，而是画家对整个城市现实的集萃，这种真实不是实物的真实，而是历史和艺术的真实'。新浪收藏报道学者观点：张择端'摈弃了描绘清明节开封城众多繁盛之景，将主要焦点聚集在表现诸多的社会败象上'，说明画作具有选择性和艺术加工。因此，虽然画作反映了北宋社会风貌，但无法确定是否为开封的'真实街景'写照。",
+    "evidence_sources": [
+      {
+        "content": "Along the River During the Qingming Festival - Wikipedia（一些学者现在质疑三件长期被接受的事实：画中城市是开封、画作创作于1127年北宋灭亡前、描绘清明节；一些人认为城市是理想化的想象之城、创作于1127年之后、描绘初秋场景）",
+        "url": "https://en.wikipedia.org/wiki/Along_the_River_During_the_Qingming_Festival",
+        "credibility": "High"
+      },
+      {
+        "content": "《清明上河图》所绘开封而非实景 - 香港商报（《清》卷中的自然景观和所有的地标性建筑均不是开封的实景实地；经过模拟航拍和地图对比，最后出现了'开封艺术化'的观点；张择端将主要焦点聚集在表现诸多的社会败象上）",
+        "url": "https://www.hkcd.com.hk/content/2015-11/10/content_968766.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "开封，有500个北宋人在真实生活 - 中国作家网（《清明上河图》并不是张择端对汴梁的某一处实际场景进行的写生，而是画家对整个城市现实的集萃，这种真实不是实物的真实，而是历史和艺术的真实）",
+        "url": "https://www.chinawriter.com.cn/n1/2018/0421/c404008-29941072.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "《清明上河图》所描绘的内容存在学术争议。传统观点认为描绘的是北宋都城开封，但学者指出这不是某一处实际场景的写生，而是画家对城市现实的艺术化集萃。近年研究提出画中城市可能是理想化的想象之城，自然景观和地标建筑并非开封实景实地。因此，该画作反映的是'历史和艺术的真实'而非'实物的真实'。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "敦煌莫高窟某个洞窟的壁画主题反映了摩尼教。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "现有证据无法确定敦煌莫高窟是否有洞窟壁画主题反映摩尼教。虽然维基百科英文版在介绍莫高窟时提到了'Chinese Manichaean hymn scroll'（中国摩尼教赞美诗卷轴），暗示敦煌地区与摩尼教有关联，但这指的是藏经洞（第17窟）出土的文献，而非洞窟壁画主题。搜索结果显示的莫高窟壁画主题主要包括：佛陀本生故事、西方净土变、维摩诘经变、宝雨经变、十一面观音、密宗图像等，这些均属于佛教题材。敦煌研究院、维基百科中文版等来源在介绍莫高窟的45000平方米壁画、492个保存完好的洞窟时，均未提及摩尼教壁画主题。虽然历史上敦煌地区在唐代曾有摩尼教传播，藏经洞中也发现了摩尼教文献，但这不等同于洞窟壁画主题反映摩尼教。由于claim使用了'某个洞窟'这种模糊表述，且未找到确切证据支持或反驳莫高窟存在摩尼教主题壁画，因此无法判定。",
+    "evidence_sources": [
+      {
+        "content": "Mogao Caves - Wikipedia（维基百科提到'Chinese Manichaean hymn scroll'作为敦煌相关内容；壁画主题包括佛陀本生故事、业力教义寓言、西方极乐世界图、密宗佛教图像如十一面观音等，时间跨度从5世纪到14世纪）",
+        "url": "https://en.wikipedia.org/wiki/Mogao_Caves",
+        "credibility": "High"
+      },
+      {
+        "content": "莫高窟 - 维基百科中文（现有洞窟735个、壁画4.5万平方米、泥质彩塑2415尊；藏经洞发现5万余件古代文物包括4世纪到11世纪的文书、纸画、绢画、刺绣等；未提及摩尼教壁画）",
+        "url": "https://zh.wikipedia.org/zh-sg/%E8%8E%AB%E9%AB%98%E7%AA%9F",
+        "credibility": "High"
+      },
+      {
+        "content": "敦煌莫高窟及其现代文化角色 - 人民网（南区洞窟有2000多身彩塑、45000平方米壁画；介绍了洞窟类型包括禅窟、塔廟窟、殿堂窟；从4世纪到14世纪连续十个世纪的佛事活动；未提及摩尼教内容）",
+        "url": "http://theory.people.com.cn/BIG5/n1/2023/0926/c40531-40085307.html",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前无确切证据表明敦煌莫高窟的洞窟壁画主题反映了摩尼教。莫高窟壁画主要为佛教题材，包括佛陀本生故事、净土变、经变等。虽然敦煌藏经洞出土了摩尼教文献，说明该地区历史上有摩尼教活动，但这不等同于洞窟壁画反映摩尼教主题。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "欧洲洞穴壁画的创作目的主要是狩猎巫术仪式。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "欧洲洞穴壁画的创作目的至今无法确定，狩猎巫术仪式理论只是众多假说之一，学术界没有达成共识。狩猎巫术理论由法国学者Abbé Breuil在20世纪初提出，认为壁画是为了确保狩猎成功的巫术仪式，这一理论曾长期占主导地位。但后续研究对此提出质疑：(1)动物种类不匹配：壁画中描绘的动物与当时人们主要食用的动物种类不完全一致；(2)位置问题：许多壁画位于洞穴深处难以到达的区域，不太适合举行集体仪式；(3)多元理论：现代学者提出了其他解释，包括萨满教通灵仪式、社会认同标记、领地标记、艺术表达、神话叙事、天文观测记录等。一些学者认为不同洞穴、不同时期的壁画可能有不同目的，不存在单一的'主要'目的。由于缺乏文字记录，所有关于史前艺术创作动机的理论都是基于考古证据的推测，无法通过直接证据验证。因此，用'主要是'这种确定性表述过于武断。",
+    "evidence_sources": [
+      {
+        "content": "Cave painting - Wikipedia（关于洞穴壁画目的存在多种理论：狩猎巫术、萨满教仪式、与灵界沟通、领地标记等；Abbé Breuil的狩猎巫术理论曾占主导但后来受到挑战；壁画描绘的动物与食物残骸中的动物不总是匹配）",
+        "url": "https://en.wikipedia.org/wiki/Cave_painting",
+        "credibility": "High"
+      },
+      {
+        "content": "The meaning of European Upper Paleolithic rock art - Cambridge（壁画目的的多种解释包括：促进繁殖巫术、狩猎教育、图腾主义、构建神话、萨满教通灵、建立社会认同；没有单一理论能解释所有壁画；不同洞穴可能有不同功能）",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/meaning-of-european-upper-paleolithic-rock-art/",
+        "credibility": "High"
+      },
+      {
+        "content": "史前洞穴壁画的功能与意义 - 中国社会科学网（狩猎巫术说曾被广泛接受但存在问题；现代研究认为壁画可能与萨满教、成年礼、氏族图腾、天文观测等有关；壁画意义可能因时间、地点、创作者而异）",
+        "url": "http://www.cssn.cn/archaeology/archaeologytemp/202109/t20210915_5359562.shtml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "欧洲洞穴壁画的创作目的无法确定。狩猎巫术仪式是早期提出的理论之一，但学术界对此存在争议。现代研究提出了多种可能性，包括萨满教仪式、社会认同标记、神话叙事、艺术表达等。不同洞穴和不同时期的壁画可能有不同目的，没有证据表明存在单一的'主要'目的。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "安第斯文明的结绳不仅记录数字还包含叙事性文本信息。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "安第斯文明的结绳(quipu/khipu)是否包含叙事性文本信息至今仍是学术争议的焦点，无法确定。支持叙事功能的证据：布鲁克林博物馆指出'早期学者认为绳结只能记录数字，但进一步分析表明一些quipu包含更多信息，包括故事、家谱甚至诗歌'；Smarthistory提到'偏离十进制和数字组织的khipu被称为\"叙事性\"khipu'；中文资料提到'一些奇普详细记录了重大历史事件'。但证据不足的方面：哈佛大学数学系论文指出'quipu构成了一个密码学谜题，纯文本信息缺失'；arXiv论文表示'khipu的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能是...'，使用'可能'表明不确定；Woman Interwoven文章提到16世纪编年史家加西拉索·德拉·维加首次声称'khipu只是记忆辅助工具'，质疑其叙事能力。关键问题是：虽然存在'叙事性khipu'的分类，但学者尚未成功完全破译这些结绳的具体内容，无法验证它们是否真的记录了完整的叙事文本，还是仅作为口头叙事的记忆提示。因此无法确定claim的真伪。",
+    "evidence_sources": [
+      {
+        "content": "Quipu - Brooklyn Museum（早期学者认为绳结只能记录数字，但进一步分析非常清楚地表明一些quipu包含更多信息，包括故事、家谱甚至诗歌；存在行政性quipu和叙事性quipu两种类型）",
+        "url": "https://www.brooklynmuseum.org/objects/46687",
+        "credibility": "High"
+      },
+      {
+        "content": "The Inka khipu - Smarthistory（偏离十进制和数字组织结构的khipu被称为'叙事性'khipu；这些khipu引发了关于其是否记录叙事信息的讨论）",
+        "url": "https://smarthistory.org/inka-khipu/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Khipu-Based Numeration System - arXiv（khipu系统的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能...；quipu构成密码学谜题，纯文本信息缺失）",
+        "url": "https://arxiv.org/pdf/1405.6093.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "安第斯文明的结绳(quipu)确定可以记录数字信息，使用十进制系统。关于是否包含叙事性文本信息，学术界存在争议。虽然存在'叙事性khipu'的分类，部分学者认为其可能记录了故事、家谱等信息，但由于西班牙殖民破坏和解读困难，学者尚未成功完全破译这些结绳的具体叙事内容，无法确定其是否包含完整的叙事文本还是仅作为口头叙事的记忆辅助工具。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "安第斯文明的结绳不仅记录数字还包含叙事性文本信息。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "安第斯文明的结绳(quipu/khipu)是否包含叙事性文本信息至今仍是学术争议的焦点，无法确定。支持叙事功能的证据：布鲁克林博物馆指出'早期学者认为绳结只能记录数字，但进一步分析表明一些quipu包含更多信息，包括故事、家谱甚至诗歌'；Smarthistory提到'偏离十进制和数字组织的khipu被称为\"叙事性\"khipu'；中文资料提到'一些奇普详细记录了重大历史事件'。但证据不足的方面：哈佛大学数学系论文指出'quipu构成了一个密码学谜题，纯文本信息缺失'；arXiv论文表示'khipu的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能是...'，使用'可能'表明不确定；Woman Interwoven文章提到16世纪编年史家加西拉索·德拉·维加首次声称'khipu只是记忆辅助工具'，质疑其叙事能力。关键问题是：虽然存在'叙事性khipu'的分类，但学者尚未成功完全破译这些结绳的具体内容，无法验证它们是否真的记录了完整的叙事文本，还是仅作为口头叙事的记忆提示。因此无法确定claim的真伪。",
+    "evidence_sources": [
+      {
+        "content": "Quipu - Brooklyn Museum（早期学者认为绳结只能记录数字，但进一步分析非常清楚地表明一些quipu包含更多信息，包括故事、家谱甚至诗歌；存在行政性quipu和叙事性quipu两种类型）",
+        "url": "https://www.brooklynmuseum.org/objects/46687",
+        "credibility": "High"
+      },
+      {
+        "content": "The Inka khipu - Smarthistory（偏离十进制和数字组织结构的khipu被称为'叙事性'khipu；这些khipu引发了关于其是否记录叙事信息的讨论）",
+        "url": "https://smarthistory.org/inka-khipu/",
+        "credibility": "High"
+      },
+      {
+        "content": "The Khipu-Based Numeration System - arXiv（khipu系统的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能...；quipu构成密码学谜题，纯文本信息缺失）",
+        "url": "https://arxiv.org/pdf/1405.6093.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "安第斯文明的结绳(quipu)确定可以记录数字信息，使用十进制系统。关于是否包含叙事性文本信息，学术界存在争议。虽然存在'叙事性khipu'的分类，部分学者认为其可能记录了故事、家谱等信息，但由于西班牙殖民破坏和解读困难，学者尚未成功完全破译这些结绳的具体叙事内容，无法确定其是否包含完整的叙事文本还是仅作为口头叙事的记忆辅助工具。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "他人具有与我相似的主观意识体验。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是哲学上著名的\"他心问题\"（Problem of Other Minds），涉及认识论的根本限制。由于我们只能直接体验自己的主观意识，而无法直接观察或体验他人的内在意识状态，因此无法通过经验证据完全证实或证伪他人是否具有与我们相似的主观体验。虽然类比论证（argument from analogy）和最佳解释推理（inference to best explanation）提供了哲学上的支持理由，但这些论证本身仍存在争议，且\"哲学僵尸\"（philosophical zombies）等思想实验表明在逻辑上可以设想行为完全相同但缺乏主观体验的存在。这一问题属于形而上学和认识论的核心难题，目前没有可以完全验证的客观证据。",
+    "evidence_sources": [
+      {
+        "content": "Problem of other minds - Wikipedia: 他心问题是一个哲学问题，传统上表述为认识论问题：\"鉴于我只能观察他人的行为，我如何知道他人有心智？\"对他人心智的认识总是间接的。哲学家们提出了如类比论证、最佳解释推理等解决方案，但这一问题至今仍是哲学争论的核心议题。",
+        "url": "https://en.wikipedia.org/wiki/Problem_of_other_minds",
+        "credibility": "High"
+      },
+      {
+        "content": "Solipsism and the Problem of Other Minds - Internet Encyclopedia of Philosophy: 笛卡尔关于心智本质的解释暗示，个体从\"他自己的情况\"中获得他所拥有的心理概念，即每个个体对自己的心智有独特和特权的访问，而这被其他所有人所拒绝。我最直接和最确定地知道的是发生在我自己心智中的事件——我的思想、我的情绪、我的感知、我的欲望等等——而其他人并不以这种方式知道这些。因此，如果我要认识其他心智——它们存在并具有特定的本质——只能基于我从直接可访问的内容（其他人的行为）中做出的某些推论。",
+        "url": "https://iep.utm.edu/solipsis/",
+        "credibility": "High"
+      },
+      {
+        "content": "Philosophical zombie - Wikipedia: 哲学僵尸论证被用于反对物理主义形式并支持意识的\"困难问题\"。像哲学家大卫·查尔默斯这样的哲学僵尸论证的支持者认为，由于哲学僵尸在定义上与有意识的人在物理上完全相同，即使其逻辑可能性也反驳了物理主义。这是因为它确立了有意识体验作为一个进一步事实的存在。",
+        "url": "https://en.wikipedia.org/wiki/Philosophical_zombie",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是一个哲学上的认识论问题，无法通过经验证据完全验证或证伪。虽然类比论证和日常经验支持这一信念，但在严格的哲学意义上，他人是否具有与我相似的主观意识体验仍然是不可直接验证的命题。",
+    "topic": "Science"
+  },
+  {
+    "claim": "外部物理世界在我的全部经验之外仍独立存在。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是哲学上的\"外部世界问题\"（Problem of External World），涉及形而上学和认识论的根本争议。实在论（Realism）主张外部世界独立于心智存在，而唯心论（Idealism）认为现实根本上是精神性的或心智构建的，唯我论（Solipsism）则认为只有自己的心智确定存在。由于我们所有的知识都通过经验和感知获得，而感知本身可能是心智的内容，因此无法通过经验证据直接验证外部世界是否在我们的经验之外独立存在。虽然实在论是常识和科学的默认立场，但在严格的哲学论证中，这一命题无法被完全证实或证伪，它涉及无法通过经验解决的形而上学假设。",
+    "evidence_sources": [
+      {
+        "content": "Epistemological Problems of Perception - Stanford Encyclopedia of Philosophy: 外部世界问题是一个独特的认识论问题，焦点在于解释感知如何能给我们关于外部世界、关于我们之外事物的知识或合理信念。传统上，这个问题以怀疑论论证的形式呈现，试图表明这样的知识和合理性是不可能的。",
+        "url": "https://plato.stanford.edu/entries/perception-episprob/",
+        "credibility": "High"
+      },
+      {
+        "content": "Solipsism - Wikipedia: 唯我论是一种哲学观点，认为只有自己的心智确定存在。作为一种认识论立场，唯我论认为关于自己心智之外任何事物的知识是不确定的；外部世界和其他心智无法被知晓，并且可能不存在于心智之外。",
+        "url": "https://en.wikipedia.org/wiki/Solipsism",
+        "credibility": "High"
+      },
+      {
+        "content": "External World Philosophy: Realism, Idealism and Phenomenalism - StudyCorgi: 实在论理论认为外部世界的本质或多或少是人类感知它的方式。唯心论原则认为现实从根本上是非物质的，因为它根本上在人类心智之内并由心智构建。这些理论代表了关于外部世界存在性质的不同哲学立场。",
+        "url": "https://studycorgi.com/external-world-philosophy-realism-idealism-and-phenomenalism/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是一个形而上学和认识论的根本问题，无法通过经验证据完全验证或证伪。虽然实在论（相信外部世界独立存在）是常识和科学的默认立场，但在哲学上，外部世界是否在我们的经验之外独立存在仍然是一个无法通过经验直接确证的形而上学命题。",
+    "topic": "Science"
+  },
+  {
+    "claim": "世界上至少存在一个永恒且全能的神。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是哲学上关于神的存在性问题，属于形而上学和宗教哲学的核心争议。有神论者（theists）主张神存在，无神论者（atheists）主张神不存在，不可知论者（agnostics）认为神的存在无法被知晓或证明。哲学史上提出了多种论证神存在的论证，包括本体论论证（ontological argument）、宇宙论论证（cosmological argument）、目的论论证（teleological argument）等，但这些论证都存在争议且未获得普遍接受。同时，恶的问题（problem of evil）等论证也被用来质疑全能且仁慈之神的存在。由于神的存在涉及超验性质（transcendent nature），无法通过经验观察直接验证或证伪，因此这一命题在哲学和认识论上属于无法通过客观证据完全确证的主张。",
+    "evidence_sources": [
+      {
+        "content": "Existence of God - Wikipedia: 阿奎那的\"五路论证\"、安瑟伦的\"本体论论证\"等是支持神存在的经典哲学论证。本体论论证认为神的存在是自明的，因为一个绝对完美存在的清晰观念必然包含实际存在的观念。然而，这些论证都存在哲学争议，并未得到普遍接受。",
+        "url": "https://en.wikipedia.org/wiki/Existence_of_God",
+        "credibility": "High"
+      },
+      {
+        "content": "Atheism and Agnosticism - Stanford Encyclopedia of Philosophy: 根据通常定义，无神论者（atheist）是主张不存在神的人，即\"神存在\"这一命题表达了一个假命题。相反，不可知论者（agnostic）认为神是否存在是不被知晓或无法被知晓的。哲学家对于神存在的证明责任归属、证据标准等问题存在根本分歧。",
+        "url": "https://plato.stanford.edu/entries/atheism-agnosticism/",
+        "credibility": "High"
+      },
+      {
+        "content": "Epistemology of Atheism - Poincare Institute: 关于神存在问题有四种主要立场（有神论、无神论、不可知论、怀疑论），但没有一种立场是没有困难的。无神论认为应当根据可获得的证据来信仰，而有神论者则需要提出神的概念并为这一概念的适用提供充分理由。怀疑论者认为无神论和有神论都缺乏充分理由，证明责任在双方。",
+        "url": "https://poincare.univ-lorraine.fr/fr/manifestations/epistemology-atheism",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是一个形而上学和宗教哲学的根本问题，无法通过经验证据完全验证或证伪。虽然存在多种哲学论证试图证明或反驳神的存在，但这些论证都未获得普遍接受。神的存在属于信仰和哲学立场问题，而非可通过客观证据确证的经验命题。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "人类在同样的情境下本可以做出与实际不同的选择。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是哲学上关于自由意志与决定论的核心争议，涉及\"本可以做出不同选择\"（could have done otherwise）这一关键原则。自由意志论者（libertarians）认为人类拥有真正的自由意志，在相同情境下可以做出不同选择，因此人类行为不完全由先前因果条件决定。决定论者（determinists）主张所有事件包括人类行为都由先前条件和因果律完全决定，因此在相同情境下只能做出同一选择。相容论者（compatibilists）试图调和两者，认为即使决定论为真，只要行为源于自己的动机和欲望且不受外部强制，仍可视为自由选择。由于这涉及因果关系的形而上学本质、意识的自由程度等无法通过经验直接验证的问题，且哲学界对此没有达成共识，因此这一命题无法被客观证据完全证实或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Could Have Done Otherwise - Information Philosopher: \"本可以做出不同选择\"这一观念是自由意志论者论证的关键要素，被视为道德责任的条件。该原则指出，一个人对其所做之事承担道德责任，当且仅当他本可以做出不同选择。但这一原则存在争议，有哲学家认为即使一个人无法做出不同选择，他仍可能对其行为负有道德责任。",
+        "url": "https://www.informationphilosopher.com/freedom/otherwise.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Free Will and Determinism - Philosophy Now: 范因瓦根（van Inwagen）提出三个前提：自由意志与决定论不相容，道德责任与决定论不相容，以及由于我们有道德责任，决定论是错误的。因此他得出结论我们拥有自由意志。相容论者则认为即使存在关于你将做什么的既定事实，你仍可以自由做出选择，重要的是行为源于自己的动机和欲望。",
+        "url": "https://philosophynow.org/issues/1/Free_Will_and_Determinism",
+        "credibility": "High"
+      },
+      {
+        "content": "Free Will vs Determinism - Orion Philosophy: 逻辑决定论者认为宇宙系统中发生的一切都因初始条件而发生，我们无法改变事件的流动，只是在扮演我们的角色。因此自由意志是不可能的，因为我们的选择只能是满足系统条件的那些选择。软决定论者（相容论者）将自由意志视为行动的自由，认为如果一个人有两个或更多行动方案的选择且能够在它们之间选择而不受物理阻止，那么他就拥有自由意志。",
+        "url": "https://orionphilosophy.com/free-will-vs-determinism/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是一个形而上学和伦理学的根本问题，无法通过经验证据完全验证或证伪。哲学界对自由意志与决定论的关系存在根本分歧，包括自由意志论、决定论和相容论等不同立场。\"在同样情境下本可以做出不同选择\"这一命题取决于对因果关系、意识自由度等无法直接观察验证的形而上学假设。",
+    "topic": "Science"
+  },
+  {
+    "claim": "个人死亡之后仍存在某种形式的主观意识延续。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是哲学上关于来世（afterlife）和灵魂不朽的核心争议问题，涉及形而上学、心灵哲学和认识论。传统宗教和某些哲学传统（如柏拉图、笛卡尔的二元论）主张灵魂是非物质的、不可分割的，因此在肉体死亡后能继续存在并保持意识。然而，现代神经科学表明意识体验是由活跃的大脑活动产生的，大脑功能停止后意识也随之消失。濒死体验（near-death experiences）虽然被一些人视为死后意识存在的证据，但神经科学研究表明这些体验可以用REM睡眠侵入等生理机制解释。由于死后意识的存在涉及无法通过经验观察验证的超验性质，且目前没有可重复验证的科学证据支持死后意识延续，也无法证伪这一可能性，因此这一命题在认识论上属于无法通过客观证据完全确证的主张。",
+    "evidence_sources": [
+      {
+        "content": "Afterlife - Stanford Encyclopedia of Philosophy: 在古代西方哲学中，柏拉图肯定了灵魂的前世生命和灵魂在身体死亡后的持续存在。然而，关于来世的信念存在多种哲学和宗教观点，从完全否认（永恒遗忘）到各种形式的灵魂不朽理论。这些观点涉及无法通过经验直接验证的形而上学假设。",
+        "url": "https://plato.stanford.edu/entries/afterlife/",
+        "credibility": "High"
+      },
+      {
+        "content": "Can consciousness continue after death? A Neuroscientific Perspective - Inter Alia Magazine: 作为一名科学家，当我说意识最简单（也最可能）的解释是它由大脑活动产生时，我有时会被指责为思想封闭。意识体验发生在活着的、功能正常的大脑中；功能正常的大脑是产生意识体验所必需的。虽然我们对意识如何运作还不完全了解，但神经科学证据强烈支持意识依赖于大脑功能的观点。",
+        "url": "https://www.interaliamag.org/articles/philip-nova-can-consciousness-continue-after-death-a-neuroscientific-perspective/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What Near-Death and Psychedelic Experiences Reveal About Human Consciousness - New York Academy of Sciences: 肯塔基大学神经学家Kevin R. Nelson博士指出，在濒死状态下，控制意识状态的脑干唤醒系统将清醒和快速眼动（REM）意识混合成一种混合状态，即REM侵入。REM侵入导致濒死体验的许多关键特征，包括静止、视觉激活、灵魂出窍和体验的叙事性质。大多数经历濒死的人在生理上易发生REM侵入。",
+        "url": "https://www.nyas.org/ideas-insights/blog/what-near-death-and-psychedelic-experiences-reveal-about-human-consciousness/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是一个形而上学和心灵哲学的根本问题，无法通过经验证据完全验证或证伪。虽然某些宗教和哲学传统主张灵魂不朽和死后意识延续，但现代神经科学表明意识依赖于大脑功能，且濒死体验可以用生理机制解释。死后意识是否存在属于无法通过客观证据确证的超验性主张，涉及信仰和形而上学立场而非可验证的经验命题。",
+    "topic": "Science"
+  },
+  {
+    "claim": "任何道德判断在客观上都可以被判定为真或假。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是元伦理学（metaethics）中道德实在论（moral realism）与道德反实在论（moral anti-realism）的核心争议。道德实在论者主张客观的道德事实和属性独立于任何人的想法而存在，道德陈述是真值适宜的（truth-apt），即能够被客观判定为真或假，且存在适用于所有人的普遍道德标准。相反，道德反实在论者否认客观道德事实的存在，认为道德陈述不能被客观判定为真或假。其中，非认知主义（non-cognitivism）认为道德陈述不表达信念而是表达情感或态度（如情感主义），道德相对主义（moral relativism）认为道德事实相对于文化或个人，道德主观主义（moral subjectivism）认为道德基于个人的主观状态。由于这涉及道德事实的形而上学地位、道德真理的认识论基础等根本性哲学问题，且哲学界对此没有达成共识，因此这一命题无法通过客观证据完全验证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Moral Realism vs. Anti-Realism - Fiveable: 道德实在论认为客观的道德事实和属性独立于任何人的想法而存在。道德事实是心智独立的现实特征，不依赖于任何个人或社会的信念或态度。道德陈述是真值适宜的，意味着它们能够被客观判定为真或假。相反，道德反实在论否认客观道德事实的存在，认为道德陈述不能被客观判定为真或假。道德判断是心智依赖的，不是关于客观现实的事实性主张。",
+        "url": "https://fiveable.me/ethics/unit-12/moral-realism-vs-anti-realism/study-guide/0SNj2br9MrL1YPeD",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Moral Anti-Realism - Stanford Encyclopedia of Philosophy: 道德反实在论包括多种理论形式。非认知主义理论认为道德陈述不表达信念且不是真值适宜的。情感主义声称道德陈述仅仅表达情感或态度（\"对偷窃说不！\"）。规定主义将道德陈述分析为伪装的命令或指令（\"不要偷窃！\"）。道德相对主义认为道德事实相对于文化或个人的惯例或实践，不存在适用于所有人的普遍道德标准。",
+        "url": "https://plato.stanford.edu/entries/moral-anti-realism/",
+        "credibility": "High"
+      },
+      {
+        "content": "Moral Objectivism vs. Subjectivism - Study.com: 道德客观主义认为存在一套应当遵守的单一道德标准。存在普遍的对与错。道德不是简单地由社会或个人定义的。相反，它们是客观的：不受品味或意见影响。道德主观主义则认为道德由个人决定，个人是决定对错的衡量标准。道德主观主义否认绝对的对错标准，你作为个人是衡量你的道德的标尺，你的邻居是衡量他们的道德的标尺。",
+        "url": "https://study.com/learn/lesson/moral-objectivism-subjectivism-relativism-overview-differences-examples.html",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是元伦理学的根本问题，无法通过经验证据完全验证或证伪。哲学界对道德判断是否具有客观真值存在根本分歧，包括道德实在论（认为道德判断可以客观判定真假）和道德反实在论（否认道德判断有客观真值）等不同立场。道德判断的真值地位取决于对道德事实的形而上学本质、道德真理的认识论基础等无法通过经验直接验证的哲学假设。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "世界整体上是\"善多于恶\"的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是一个涉及价值判断和世界观的哲学命题，无法通过客观证据验证或证伪。乐观主义（optimism）和悲观主义（pessimism）代表了对世界善恶平衡的不同价值取向和哲学立场。莱布尼茨的乐观主义认为这是\"所有可能世界中最好的世界\"，善最终必战胜恶。而悲观主义者则对世界的善性持怀疑态度。这一判断涉及多个层面的根本困难：首先，\"善\"与\"恶\"的定义本身在哲学上存在争议，不同伦理理论对何为善恶有不同标准；其次，如何量化和比较善恶的\"数量\"缺乏客观标准，无法建立可操作的度量体系；第三，这涉及对整个世界的整体性价值评估，而我们只能获得局部和有限的经验；第四，\"善多于恶\"本身是一个规范性的价值判断而非描述性的事实陈述。因此，这一命题属于主观价值判断和世界观选择，而非可通过客观证据确证的经验命题。",
+    "evidence_sources": [
+      {
+        "content": "Features Of Students' Optimistic And Pessimistic Worldview - European Proceedings: 哲学词典将乐观主义和悲观主义定义为表征世界观价值方面的概念，其中世界仅从善恶、正义与不正义、幸福与灾难之间的平衡来理解。乐观主义被视为相信人性、相信人的无条件积极、善良和建设性本质的信念体系，而悲观主义者则对自己的力量和他人的善意持怀疑态度，预期失败。",
+        "url": "https://www.europeanproceedings.com/article/10.15405/epsbs.2021.11.16",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Problem of Evil: Unification Theodicy - HJI: 莱布尼茨神义论的核心是上帝允许恶——无论是形而上学的、物理的还是道德的——即使在最好的可能世界中，以便它可以审美地服务于\"更大的善\"甚至\"所有可能的最大的善\"：\"他不仅从它们（即恶）中获得更大的善，而且发现它们与所有可能的最大的善相联系：因此不允许它们将是一个错误。\"因此，所有类型的恶都有助于最好的可能世界的实现，这是上帝的目的。",
+        "url": "https://www.jus.hji.edu/2017/01/06/the-problem-of-evil-unification-theodicy/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "How accurate is the worldview of the pessimist? - The Philosophy Forum: 悲观主义和乐观主义是性格倾向，并基于个人倾向和价值观来指导行动。休谟指出，我们对未来将类似于过去的信念不是理性的信念，而仅仅是习惯。（见休谟的\"归纳问题\"）。智慧（理性）不可能支持乐观主义或悲观主义（仅作为期望性倾向来考虑）。",
+        "url": "https://thephilosophyforum.com/discussion/91/how-accurate-is-the-worldview-of-the-pessimist",
+        "credibility": "Low"
+      }
+    ],
+    "correct_answer": "这是一个价值判断和世界观选择的问题，无法通过客观证据验证或证伪。\"善多于恶\"涉及对善恶的定义、量化标准、整体评估方法等多个层面的主观判断。乐观主义和悲观主义代表了对世界善恶平衡的不同哲学立场和价值取向，而非可通过经验数据确证的事实性命题。理性本身无法决定采取乐观还是悲观的世界观。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "当下经历的这一刻并非一切存在的全部。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是时间哲学中关于过去、现在和未来实在性的核心争议。现在论（presentism）主张只有当下这一刻真正存在，过去已不复存在，未来尚未到来，因此当下经历的这一刻就是一切存在的全部。永恒论（eternalism）则认为过去、现在和未来在时间中的所有时刻都同等真实地存在，时间是四维时空结构的一部分，过去和未来的事件永恒存在。罗素等哲学家还提出了\"当下时刻的唯我论\"（solipsism of the present moment），认为只有当前正在经历的感官印象可以被确知存在。这一争议涉及时间的形而上学本质、记忆的认识论地位、相对论的哲学含义等根本问题。现在论符合常识直觉，但与相对论的科学图景（相对论否认普遍的\"现在\"）冲突；永恒论符合相对论，但违背日常经验。由于这涉及无法通过经验直接验证的时间本体论问题，且哲学界和物理学界对此没有达成共识，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Philosophy of Time Eternalism vs. Presentism - Georgia Southern: 现在论（Presentism）的立场是当下就是一切存在。没有过去也没有未来，只有我们当前占据的无限短暂的时刻。永恒论（Eternalism）则认为时间中的所有点（过去、现在和未来）都同等真实。过去存在的、现在存在的和将来存在的都永久（和永恒地）固定为存在的事物——这意味着它们永远不会消失。",
+        "url": "https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1011&context=armstrong-philosopher-stone",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Solipsism - Wikipedia: 伯特兰·罗素认为唯我论的逻辑迫使你相信\"当下时刻的唯我论\"（solipsism of the moment），即只有当前存在的时刻可以被说成是存在的。这是一种极端的怀疑论立场，认为除了此刻正在经历的感官印象之外，没有任何东西可以被确知存在。",
+        "url": "https://en.wikipedia.org/wiki/Solipsism",
+        "credibility": "High"
+      },
+      {
+        "content": "Eternalism - Internet Encyclopedia of Philosophy: 现在论是一种常识性观点，因此与我们关于时间的显性图像一致。然而，这一观点与时间的科学图像不符。永恒论的主要动机来自对相对论的正统解释。根据这些解释，同时性是相对的，而非绝对的。这意味着没有跨越整个宇宙的普遍\"现在\"。一个观察者的现在可能是另一个观察者的过去或未来。假设宇宙是四维时空，那么所有事件都无条件地存在。",
+        "url": "https://iep.utm.edu/eternalism/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是时间哲学的根本问题，无法通过经验证据完全验证或证伪。现在论认为只有当下存在，因此当下就是一切存在的全部；永恒论认为过去、现在和未来都同等真实地存在，因此当下并非全部；还有极端的\"当下时刻的唯我论\"认为只有此刻的感官印象可被确知。这些立场涉及时间的形而上学本质、相对论的哲学含义等无法通过经验直接验证的问题，哲学界和物理学界对此没有达成共识。",
+    "topic": "Science"
+  },
+  {
+    "claim": "所谓\"我\"这一自我同一性在时间中持续存在。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是个人同一性（personal identity）哲学中的核心争议，涉及自我在时间中的持续性问题。心理连续性理论（psychological continuity theory）认为通过记忆、心理特征等心理因素的连续性，一个人在时间中保持同一；物理连续性理论（physical continuity theory）认为同一身体（特别是大脑）的持续性构成个人同一性。洛克主张个人同一性建立在意识（记忆）之上，而非灵魂或身体的实体。帕菲特则认为重要的不是同一性本身，而是心理连续性和关联性，同一性作为深层形而上学统一关系是不相关的。相反，休谟的\"束理论\"（bundle theory）和佛教的\"无我\"（anatman/anatta）教义否认存在一个持续不变的自我，认为所谓的\"我\"只是知觉、情感等心理状态的集合或流动，不存在独立于这些状态的实体性自我。由于这涉及自我的形而上学本质、同一性标准、意识连续性的充分性等无法通过经验直接验证的问题，且哲学界、神经科学界对此没有达成共识，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Personal Identity - Internet Encyclopedia of Philosophy: 个人同一性涉及我们在时间中的持续性和我们作为个体的独特性的哲学问题。洛克认为个人同一性建立在意识（记忆）之上，而非灵魂或身体的实体。后来的理论关注心理连续性或心理关联性，通常依赖于\"人格阶段\"（person-stages）的概念。帕菲特认为重要的不是同一性本身，而仅仅是心理连续性和/或关联性，同一性作为深层形而上学统一关系是不相关的。",
+        "url": "https://iep.utm.edu/person-i/",
+        "credibility": "High"
+      },
+      {
+        "content": "Contrast Hume's bundle theory with Buddhism's view - Heartled Sounds: 休谟和佛陀的哲学相似之处在于，两者都认为不存在连贯的、不变的、永久的自我或\"我\"。佛教的核心教义是\"无我\"，称为anatman或anatta。五蕴（Five Skandhas）构成了这种自我感，但它们不是属于自主自我的品质，而是空的，产生了作为自我意识的\"小我\"。休谟的束理论同样认为自我只是知觉和情感的集合，不存在独立于这些状态的实体性自我。",
+        "url": "https://heartledsounds.co.uk/blog/contrast-humes-bundle-theory-in-relation-to-the-self-with-buddhisms-view-of-an-impermanent-sel",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Neurobiological Basis of the Conundrum of Self-continuity - PMC: 自我连续性的感觉指的是独特且持续的机制，它勾勒出我们是谁，并浓缩个体的过去和现在的自我，并将所有这些与他或她将成为的自我联系起来。然而，研究也指出，经历严重创伤或神经损伤的人的自我连续性（或同一性）可能被严重改变，使他们几乎变成陌生人。这表明自我连续性对于维持个人同一性是必要的，但其神经基础和形而上学地位仍存在争议。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9159515/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是个人同一性哲学的根本问题，无法通过经验证据完全验证或证伪。心理连续性理论和物理连续性理论主张自我在时间中持续存在，而休谟的束理论和佛教的无我教义则否认存在持续不变的实体性自我。自我同一性的标准、意识连续性的充分性、自我的形而上学本质等问题涉及无法通过经验直接验证的哲学假设，学界对此没有达成共识。",
+    "topic": "Science"
+  },
+  {
+    "claim": "宇宙存在一个终极目的或最终意义。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是目的论（teleology）与反目的论哲学的核心争议，涉及宇宙是否具有内在目的或意义的形而上学问题。目的论者（如柏拉图、亚里士多德）认为宇宙和自然现象存在固有的目的或最终原因（final cause），神学目的论论证（teleological argument）进一步主张宇宙的复杂性和秩序表明存在智能设计者。相反，虚无主义（nihilism）特别是宇宙虚无主义（cosmic nihilism）认为宇宙缺乏固有意义，是无法理解和无特征的；存在主义（existentialism）主张生命没有固有意义，\"存在先于本质\"，个体必须通过自己的选择和行动创造意义；荒诞主义（absurdism）则强调人类寻求意义的倾向与宇宙无目的性之间的矛盾。现代科学特别是达尔文进化论倾向于用自然选择等机械因果解释自然现象，而非诉诸目的或意图。由于宇宙终极目的涉及无法通过经验观察验证的超验性质和形而上学假设，且哲学界、科学界对此没有达成共识，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Teleology (philosophy) - EBSCO Research Starters: 目的论是一种哲学概念，认为一切事物都有固有的目的或目标。这一观念源于古希腊哲学家如柏拉图和亚里士多德。柏拉图认为宇宙以最好的方式展开，而亚里士多德认为个体生物具有可通过观察和研究发现的确定目的。然而，目的论观点面临批评，特别是休谟反对将自然现象与人造物品进行类比的有效性。当代讨论中，一些科学家认为理解特定器官或特征的目的可能有价值，但其他人认为目的论推理已经过时，倾向于达尔文进化论，强调自然选择而不暗示固有目的。",
+        "url": "https://www.ebsco.com/research-starters/religion-and-philosophy/teleology-philosophy",
+        "credibility": "High"
+      },
+      {
+        "content": "Nihilism - Wikipedia: 宇宙或宇宙学虚无主义（cosmic or cosmological nihilism）认为现实是无法理解的，缺乏固有意义。与认识论和存在主义虚无主义密切相关，它断言世界是空白的、无特征的或混乱的，使其对人类试图理解它的努力漠不关心。宇宙虚无主义者经常强调宇宙的浩瀚，认为它显示了人类及其努力的微不足道。",
+        "url": "https://en.wikipedia.org/wiki/Nihilism",
+        "credibility": "High"
+      },
+      {
+        "content": "Finding meaning in life through existentialism - Counselling Directory: 存在主义的核心原则之一是\"存在先于本质\"的概念。这意味着个体不是生来就有预定的目的或本质；相反，他们首先存在，然后通过他们的行动来定义自己。存在主义认为生命没有固有意义；相反，每个人都要通过自己的选择、行动和经验来创造自己的意义。它挑战我们为自己的选择承担责任，面对存在的荒诞性，并按照真实的自我生活。",
+        "url": "https://www.counselling-directory.org.uk/articles/finding-meaning-in-life-through-existentialism",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是目的论哲学的根本问题，无法通过经验证据完全验证或证伪。目的论主张宇宙存在固有目的或意义，而虚无主义认为宇宙缺乏固有意义，存在主义主张个体必须自己创造意义，荒诞主义强调人类寻求意义与宇宙无目的性之间的矛盾。宇宙是否具有终极目的涉及无法通过经验观察验证的超验性质和形而上学假设，哲学界和科学界对此没有达成共识。",
+    "topic": "Science"
+  },
+  {
+    "claim": "审美判断中存在独立于人类喜好的客观美。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是美学哲学中审美客观主义（aesthetic objectivism）与审美主观主义（aesthetic subjectivism）的核心争议。审美客观主义认为美是客观的，存在于艺术对象或自然事物本身，具有可以客观判定的标准（如对称性、比例、秩序、平衡等）。柏拉图认为美是永恒的理念，亚里士多德认为美存在于对象的特征中。相反，审美主观主义认为美完全是主观的，在\"旁观者的眼中\"，纯粹是个人偏好和品味的问题，没有客观的审美事实。现代神经美学研究发现，某些比例（如黄金分割）和对称性会激活大脑特定区域，暗示审美感知有一定神经生物学基础。然而，这些发现并不能证明存在独立于人类心智的客观美，只能表明人类大脑对某些特征有共同反应。根据PhilPapers调查，41%的哲学家倾向于客观审美价值，34.5%倾向于主观，显示学界分歧。一些哲学家如Sartwell主张美是观察者与对象之间关系的产物，既非纯粹客观也非纯粹主观。由于这涉及美的形而上学地位、审美判断的认识论基础等无法通过经验完全验证的问题，且存在文化差异和个人品味的影响，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Aesthetic Experience and Judgement - Introduction to Philosophy: 审美主观主义认为美纯粹是主观的，在旁观者的心中，没有关于什么是好艺术或我们应该喜欢或欣赏哪些艺术的客观事实。一切都是个人偏好的问题。在这一观点中，没有人的审美体验意见可能是错误的。审美客观主义则认为美是客观的，存在于艺术对象本身，因此存在关于什么是美、什么是好艺术以及我们应该喜欢或欣赏哪些艺术的客观事实。客观主义意味着审美评价或偏好可能是错误的或被误导的。",
+        "url": "https://pimaopen.pressbooks.pub/introphilosophy/chapter/8-2-aesthetic-experience-and-judgement/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What Is Beauty, What Is Art? - Introduction to Philosophy: 柏拉图和亚里士多德虽然对\"美\"有不同的概念，但他们确实同意美是\"对象\"的特征，而不是旁观者心中的东西。亚里士多德认为美存在于被观察的事物中，由艺术对象的特征定义，如对称性、秩序、平衡和比例。这些标准无论对象是自然的还是人造的都成立。",
+        "url": "https://pimaopen.pressbooks.pub/introphilosophy/chapter/8-1-what-is-beauty-what-is-art/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Aesthetics: Subjective or Objective? - Aesence: 研究发现，我们识别和感知美的能力不仅仅基于个人感受和偏好。事实上，当观众观看艺术作品并观察到古典和谐比例（如黄金比例或对称性）时，某些大脑区域会变得活跃。这表明美的感知有一定的客观基础，基于神经生物学过程。美学是客观性和主观性的复杂相互作用。客观参数通过个人主观观察被体验和解释。尽管在神经美学和哲学领域有许多研究，仍有许多未解答的问题。",
+        "url": "https://www.aesence.com/aesthetics-subjective-or-objective/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是美学哲学的根本问题，无法通过经验证据完全验证或证伪。审美客观主义主张美是客观的，存在于对象本身并具有客观标准；审美主观主义认为美完全是主观的，纯粹是个人偏好。虽然神经美学研究显示某些特征（如对称性、黄金比例）会激活大脑特定区域，但这只表明人类对某些特征有共同反应，并不能证明存在独立于人类心智的客观美。美的形而上学地位、审美判断的认识论基础等问题涉及无法通过经验直接验证的哲学假设，学界对此存在持续分歧。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "人类的理性能力总体上是可靠地指向真理的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是认识论中关于理性可靠性的根本争议，涉及我们认知能力是否能可靠地产生真信念的问题。可靠论（reliabilism）认为如果信念形成过程是可靠的（即通常产生真信念而非假信念），那么信念就是合理的或得到辩护的。然而，这一主张面临多方面挑战：首先，普兰廷格（Plantinga）的\"反对自然主义的进化论证\"（Evolutionary Argument Against Naturalism, EAAN）认为，如果自然主义和进化论都为真，那么我们拥有可靠认知能力的概率是低的或不可知的，因为自然选择优化的是生存和繁殖而非真理。达尔文本人也表达过类似担忧。其次，认知心理学研究发现人类存在大量系统性认知偏差（cognitive biases），如确认偏误（confirmation bias）、框架效应（framing effect）、信念偏差（belief bias）等，这些偏差显示人类推理经常偏离逻辑和真理。第三，批评者如福尔斯（Fales）指出，考虑到人脑的生物学成本之高，如果我们的理性能力不可靠，自然选择不太可能偏好如此昂贵的器官。由于这涉及认知能力的形而上学地位、进化过程与真理追求的关系、认知偏差的整体影响等复杂问题，且哲学界和认知科学界对人类理性的可靠性程度没有达成共识，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Evolutionary argument against naturalism - Wikipedia: 普兰廷格认为，将自然主义和进化论结合起来是自我击败的，因为在这些假设下，人类拥有可靠认知能力的概率是低的或不可知的。他声称包括C.S.刘易斯在内的几位思想家已经看到，进化自然主义似乎导致深刻而普遍的怀疑论，以及我们不可靠的认知或信念产生能力不能被信任产生比假信念更多的真信念的结论。他声称\"达尔文本人也有类似的担忧\"。因此，主张自然主义进化为真也主张一个人正确的概率很低或未知。",
+        "url": "https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism",
+        "credibility": "High"
+      },
+      {
+        "content": "Cognitive bias and data - University of Pennsylvania: 确认偏误反映了人类在寻求或解释信息时支持现有信念的倾向。确认偏误不是主动挑战先入之见，而是为了增强智力舒适感而强化它们。不幸的是，这可能阻止个人主动考虑新的和潜在有价值的想法。这也可能限制批判性思维和明智的决策，即使有大量数据可用。",
+        "url": "https://lpsonline.sas.upenn.edu/features/cognitive-bias-and-data-how-human-psychology-impacts-data-interpretation",
+        "credibility": "High"
+      },
+      {
+        "content": "Reliabilist Epistemology - Stanford Encyclopedia of Philosophy: 可靠论是一种强调信念形成过程、方法或其他认识论相关因素的真理传导性的认识论方法。可靠性主题出现在知识理论、辩护理论和证据理论中。过程可靠论认为，如果一个信念是由可靠的过程产生的，那么这个信念就是被辩护的。一个推理过程是理性的，当且仅当它是可靠的——即通常产生真信念而不是假信念。",
+        "url": "https://plato.stanford.edu/archives/fall2018/entries/reliabilism/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是认识论的根本问题，无法通过经验证据完全验证或证伪。可靠论主张可靠的信念形成过程能产生真信念，但普兰廷格的反对自然主义的进化论证质疑在自然主义框架下认知能力的可靠性，认知心理学则揭示了大量系统性认知偏差。人类理性能力的整体可靠性程度涉及进化过程与真理追求的关系、认知偏差的影响范围、理性可靠性的标准等复杂的哲学和科学问题，学界对此没有达成共识。",
+    "topic": "Science"
+  },
+  {
+    "claim": "现实并不是一个由高等文明构造的模拟。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这涉及尼克·博斯特罗姆（Nick Bostrom）2003年提出的\"模拟论证\"（Simulation Argument）所引发的哲学争议。博斯特罗姆的论证提出了一个三难困境，至少以下三个命题中有一个为真：(1)人类文明很可能在达到\"后人类\"阶段之前灭绝；(2)任何后人类文明极不可能运行大量模拟其进化历史的模拟程序；(3)我们几乎肯定生活在计算机模拟中。博斯特罗姆的核心论证是，如果未来文明能够创建大量包含有意识存在的模拟，那么模拟存在的数量将远超基础现实中的存在，因此一个随机选择的有意识实体几乎肯定处于模拟中。重要的是，博斯特罗姆本人并未断言我们确实生活在模拟中，他只是论证上述三个命题中至少有一个为真。这一假说的关键问题在于：它在原则上无法被证伪——如果我们在模拟中，任何观察到的\"证据\"都可能是模拟的一部分；如果我们不在模拟中，也无法确定性地证明这一点。这类似于笛卡尔的\"恶魔假说\"或\"缸中之脑\"思想实验，属于怀疑论的现代版本。由于模拟假说涉及无法通过经验观察验证或证伪的形而上学主张，且依赖于对未来技术能力、意识本质、计算可行性等无法确知的假设，因此无论现实是否为模拟都无法通过客观证据完全确证。",
+    "evidence_sources": [
+      {
+        "content": "Simulation hypothesis - Wikipedia: 2003年，哲学家尼克·博斯特罗姆提出了模拟论证，认为如果一个文明能够创造有意识的模拟，它可以生成如此多的模拟存在，以至于随机选择的有意识实体几乎肯定处于模拟中。这个论证提出了一个三难困境：(1)这样的模拟由于技术限制或自我毁灭而未被创造；(2)先进文明选择不创造它们；(3)如果先进文明确实创造了它们，模拟的数量将远远超过基础现实，因此我们几乎肯定生活在其中之一。博斯特罗姆声称他的论证超越了经典的古代\"怀疑假说\"，声称\"我们有有趣的经验理由相信关于世界的某个选言主张是真的\"。",
+        "url": "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+        "credibility": "High"
+      },
+      {
+        "content": "The Simulation Argument official website: 这篇论文论证至少以下命题之一为真：(1)人类物种很可能在达到\"后人类\"阶段之前灭绝；(2)任何后人类文明极不可能运行大量模拟其进化历史（或其变体）的模拟程序；(3)我们几乎肯定生活在计算机模拟中。由此可见，相信我们有一天会成为运行祖先模拟的后人类的信念是错误的，除非我们目前生活在模拟中。",
+        "url": "https://simulation-argument.com",
+        "credibility": "High"
+      },
+      {
+        "content": "Simulation Theory Debunked - The Think Institute: 需要区分模拟论证和模拟假说。后者假设我们目前生活在计算机模拟中，而前者并没有做出如此强的主张。博斯特罗姆的模拟论证论证三个命题中有一个为真，第三个命题就是我们生活在计算机模拟中（假说），但他的论证并不选择哪个命题是正确的。博斯特罗姆本人并不声称实际相信我们生活在计算机模拟中；他只是承认这是可能的。",
+        "url": "https://thethink.institute/articles/simulation-theory-debunked",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是形而上学和认识论的根本问题，无法通过经验证据完全验证或证伪。博斯特罗姆的模拟论证提出三难困境，其中一个可能性是我们生活在模拟中，但论证本身并不断言这一点。模拟假说类似于笛卡尔的怀疑论思想实验，在原则上无法被证实或证伪——任何观察到的\\\"证据\\\"都可能是模拟的一部分。这一问题涉及未来技术能力、意识本质、计算可行性等无法确知的假设，因此现实是否为模拟无法通过客观证据确证。",
+    "topic": "Science"
+  },
+  {
+    "claim": "语言与思想之间存在严格的一一对应关系。",
+    "verdict": "Refuted",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
+    "justification": "这一主张与当前语言学、认知科学和神经科学的研究证据相矛盾。萨丕尔-沃尔夫假说（Sapir-Whorf hypothesis）或语言相对论（linguistic relativity）提出语言影响思维，但该假说分为强版本和弱版本。强版本（语言决定论，linguistic determinism）主张语言严格决定和限制思想，已被学术界普遍拒绝。弱版本主张语言影响思维模式，获得了一定经验支持，但并不支持严格的一一对应关系。更重要的是，神经影像学研究表明，健康成年人在执行非语言任务（如算术、工作记忆、抑制反应、听音乐）时，大脑的语言区域并不活跃。全失语症患者的研究也显示，即使语言能力严重受损，患者仍能完成复杂的非语言认知任务。这些证据表明许多思维过程使用与语言不同的脑区，并不依赖于语言。此外，现象学分析揭示人类同时使用多种表征系统，包括语言、手势、情感和场景图像。因此，语言与思想之间的关系是动态的、相互作用的伙伴关系，而非严格的一一对应。",
+    "evidence_sources": [
+      {
+        "content": "Language and thought are not the same thing: evidence from neuroimaging and neurological patients - PMC: 神经影像学研究表明，健康成年人在理解句子时强烈激活大脑的语言区域，但在执行其他非语言任务（如算术、在工作记忆中存储信息、抑制优势反应或听音乐）时则不会。这两条互补的证据线为经典问题提供了明确答案：思维的许多方面涉及与语言不同的脑区，并不依赖于语言。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4874898/",
+        "credibility": "High"
+      },
+      {
+        "content": "Linguistic relativity (Sapir-Whorf hypothesis) - EBSCO: 语言相对论通常与萨丕尔-沃尔夫假说相关，该理论分为两种形式：强形式表明语言决定思想，弱形式断言语言对认知产生重大影响。语言决定论（强版本）建议语言严格决定和限制思想，已被学者拒绝。相反，语言相对论（弱版本）假设语言影响思维模式，特别是在概念层面。许多学者支持这一观点，表明虽然语言可以塑造思想，但并不严格决定它。",
+        "url": "https://www.ebsco.com/research-starters/language-and-linguistics/linguistic-relativity-sapir-whorf-hypothesis",
+        "credibility": "High"
+      },
+      {
+        "content": "The Relationship Between Language and Thought - Planksip: 语言和思想之间的关系不是简单的因果关系，而是一种动态的、相互的、深度交织的伙伴关系。虽然人类思维无疑拥有前语言的认知能力，但语言提升了这些能力，为复杂的抽象观念、复杂的推理和丰富的人类文化提供了框架。",
+        "url": "https://www.planksip.org/the-relationship-between-language-and-thought-and-language-1763586729578/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "语言与思想之间不存在严格的一一对应关系。现代认知神经科学研究表明，许多思维过程不依赖于语言，使用不同的脑区。虽然语言影响思维（语言相对论的弱版本），但语言决定论（强版本）已被学界拒绝。人类同时使用多种表征系统进行思考，语言与思想是动态互动的伙伴关系，而非严格对应。",
+    "topic": "Science"
+  },
+  {
+    "claim": "对过去事实的记忆在总体上是可靠的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是一个涉及记忆认识论（epistemology of memory）的复杂问题，需要在记忆的功能性与易错性之间进行平衡评估。一方面，认知心理学和神经科学的大量研究揭示了记忆的显著局限性：虚假记忆（false memory）现象表明约30%的被试可以被诱导形成完全虚构的自传式记忆；错误信息效应（misinformation effect）显示即使是微小的误导性信息也能显著改变对过去事件的记忆；记忆是重构性的（reconstructive），而非像录像机一样准确再现过去；大脑的前额叶皮层和海马体在记忆形成和提取中容易受到误导性信息的影响。另一方面，尽管记忆存在这些系统性缺陷，但研究也表明\"即使记忆中存在空白，记忆在大多数情况下仍能相当好地为我们服务\"。认识论学者对记忆的认识作用有不同看法：认识论理论（epistemic theory of memory）认为记忆是知识的一种形式，如果一个人记得某事，那么他就知道那件事。但记忆怀疑论者质疑我们如何证明记忆的可靠性，因为验证记忆需要依赖其他记忆。\"总体上可靠\"这一表述本身具有模糊性——它既可能意味着大多数记忆是准确的，也可能意味着记忆系统在支持日常功能方面是充分的。由于缺乏明确的可靠性标准和全面的经验数据来量化记忆的总体准确率，且这涉及认识论上关于记忆作为知识来源的地位等哲学问题，因此无法对这一命题做出明确的支持或反驳判定。",
+    "evidence_sources": [
+      {
+        "content": "What science tells us about false and repressed memories - Taylor & Francis: 虚假记忆植入研究总体上表明，相当比例的参与者（约30%）可以被诱导记住虚假的自传式事件。因此，与有时被论证的相反，当满足正确条件（如探查性引导意象）时，虚假记忆植入可能相当普遍地发生。现实世界中重复暗示的治疗场景可能产生比通常只涉及一两次暗示的实验更高的百分比。",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1870699",
+        "credibility": "High"
+      },
+      {
+        "content": "Cognitive and neural mechanisms underlying false memories - PMC: 总体而言，证据表明记忆是一个可塑性的重构过程，具有动态和复杂的潜在神经机制。审查显示记忆形成至少涉及三个子神经认知过程，每个过程都容易受到特定的偏差、扭曲或错误的影响，这些可能导致错误的回忆。值得注意的是，迄今为止的神经相关研究支持解释虚假记忆的理论，包括模糊痕迹理论（考虑要点类信号）和扩散激活理论（认为虚假记忆是由编码和提取之间信号强度差异引起的）。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/",
+        "credibility": "High"
+      },
+      {
+        "content": "Memory, epistemology of - Routledge Encyclopedia of Philosophy: 假设记忆提供知识，关于它如何做到这一点存在严重的认识论问题。例如，记忆的某种可内省的特质是否为所记住的内容提供独特的证据，还是记忆的某些其他特征确保了知识所需的认识论辩护？记忆是易错的（fallible）。记忆似乎保存知识，但关于这如何可能存在认识论问题。",
+        "url": "https://www.rep.routledge.com/articles/thematic/memory-epistemology-of/v-1",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "这是一个涉及认识论和认知科学的复杂问题，无法简单判定。记忆具有双重性质：一方面，研究显示记忆是重构性的、易受误导信息影响的，约30%的人可被诱导形成虚假记忆；另一方面，记忆在大多数日常情况下仍能相当好地为我们服务。\\\"总体上可靠\\\"这一表述本身具有模糊性，缺乏明确的可靠性标准和全面的经验数据来量化记忆的总体准确率。这涉及记忆作为知识来源的认识论地位等哲学问题，学界对此没有达成共识。",
+    "topic": "Science"
+  },
+  {
+    "claim": "存在对所有理性存在者都具有约束力的普遍道德原则。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是元伦理学中道德普遍主义（moral universalism）与道德相对主义（moral relativism）的核心争议。道德普遍主义主张存在普遍的、客观的道德原则，适用于所有人类或所有理性存在者，无论其文化、社会或个人差异。康德的定言命令（categorical imperative）是普遍主义的经典例证，他认为道德法则必须能够普遍化，适用于所有理性存在者，如\"绝不能仅仅把他人当作手段，而应始终将其视为目的本身\"。亚里士多德的德性伦理学也从人类本质和繁荣（flourishing）的目的论角度论证客观道德事实。普遍主义者认为基本道德原则（如人权、禁止残忍）跨越文化存在，表面的文化多样性常常掩盖了潜在的普遍价值。相反，道德相对主义认为道德原则不是绝对的和普遍的，而是依赖于文化、社会或个人的语境。元伦理相对主义否认存在跨文化的普遍道德标准，认为行为对某些人或在某些语境中是道德上正确的，而对其他人或在其他语境中则是错误的。批评者指出相对主义难以谴责明显的道德暴行（如种族灭绝、奴隶制）为真正错误，而只能说它们在文化上是禁忌的。然而，世界各地道德实践的多样性也对普遍主义提出挑战。由于这涉及道德事实的形而上学地位、道德真理的认识论基础、理性在道德中的作用等根本性哲学问题，且哲学界对此存在持续分歧，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Universalism and Objective Moral Truths - Fiveable: 伦理学中的普遍主义认为存在普遍的道德原则或真理，适用于所有人，无论个人或文化差异如何。客观道德真理是心智独立的道德事实或原则，不相对于任何个人或文化的信念。道德普遍主义与某些描述性相对主义兼容，但否认元伦理相对主义。普遍主义者认为基本道德原则（人权、禁止残忍）跨文化存在，即使某些细节有所不同。",
+        "url": "https://fiveable.me/ethics/unit-5/universalism-objective-moral-truths/study-guide/662rMs9l0NMTqPPO",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Kantian ethics - Wikipedia: 康德道德法则理论的核心是定言命令。康德以多种方式表述了定言命令。他的普遍化原则要求，一个行为要被允许，必须能够在不产生矛盾的情况下适用于所有人。康德的人性公式，即定言命令的第二个表述，指出作为目的本身，人类被要求绝不能仅仅把他人当作达到目的的手段，而应始终将其视为目的本身。",
+        "url": "https://en.wikipedia.org/wiki/Kantian_ethics",
+        "credibility": "High"
+      },
+      {
+        "content": "Moral relativism and moral universalism - Drishti IAS: 道德相对主义认为道德原则不是绝对的和普遍的，而是依赖于语境，可以因文化、社会或个人而异。道德普遍主义断言存在客观的和普遍的道德原则，适用于所有人类，无论其文化、社会或个人差异。当今世界的道德多样性表明不可能存在单一的普遍道德。如果存在一套适用于所有文化、哲学、信仰和职业的普遍伦理原则，它将为对话提供宝贵的框架。",
+        "url": "https://www.drishtiias.com/mains-practice-question/question-7984/pnt",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是元伦理学的根本问题，无法通过经验证据完全验证或证伪。道德普遍主义主张存在适用于所有理性存在者的普遍道德原则（如康德的定言命令），而道德相对主义认为道德原则依赖于文化、社会或个人语境，不存在跨文化的普遍标准。这涉及道德事实的形而上学地位、道德真理的认识论基础、理性在道德中的作用等根本性哲学问题，哲学界对此存在持续分歧。",
+    "topic": "Culture"
+  },
+  {
+    "claim": "每个有意识主体都拥有同等的道德价值。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这是道德哲学中关于道德平等（moral equality）和道德地位（moral status）的核心争议。一方面，道德平等主义（moral egalitarianism）主张所有人在道德上是平等的，应以平等的关切和尊重对待。康德的目的王国、边沁的\\\"每个人都算作一个\\\"等都体现了平等主义思想。包容性感知主义（Inclusive Sentientism）进一步扩展这一观点，认为所有有意识的存在，而不仅仅是人类，都具有道德地位。动物权利倡导者反对物种主义（speciesism），主张\\\"所有有感知能力的存在，无论物种如何，都有生命权、自由权和免于痛苦的权利\\\"。查尔默斯（Chalmers）也论证任何具有现象意识的事物都应具有道德地位。另一方面，许多哲学家质疑绝对平等的道德价值观。Husi教授认为人类并不具有同等的道德价值，如果必须在拯救希特勒或甘地之间做选择，应该选择甘地。亚里士多德的比例平等（proportional equality）概念强调在分配正义中，应根据相关特征对待人，而非简单的平等对待。德沃金区分了\\\"作为平等者对待\\\"（treatment as equals）和\\\"平等对待\\\"（equal treatment），前者意味着以平等的关切和尊重对待，后者则常常是不合理的。此外，即使接受有意识存在具有道德地位，是否所有有意识存在具有\\\"同等\\\"道德价值仍存在争议——有些哲学家认为道德地位的程度可能因意识的复杂性、感知能力等而异。由于这涉及道德价值的形而上学基础、平等原则的规范性论证、意识与道德地位的关系等根本性哲学问题，且哲学界对此存在根本分歧，因此这一命题无法通过客观证据完全确证或证伪。",
+    "evidence_sources": [
+      {
+        "content": "Equality - Stanford Encyclopedia of Philosophy: 亚里士多德的比例平等的正义观念包含一个根本性洞见。这一观念为平等主义和非平等主义的正义观念之间的理性论证提供了框架，其焦点是充分平等的基础问题。双方都接受正义即比例平等。根本平等意味着人们在重要的相关和特定方面是相似的，而不是说他们在一般意义上都是相同的或可以以相同方式对待。在德沃金提出的一个现在常见的区分中，道德平等可以被理解为规定将人作为平等者对待，即以平等的关切和尊重对待，而不是常常不合理的为所有人提供平等对待的原则。",
+        "url": "https://plato.stanford.edu/entries/equality/",
+        "credibility": "High"
+      },
+      {
+        "content": "Are we truly equal? UWM philosopher thinks not - UWM: 如果必须在拯救希特勒或甘地免于沉船之间做出选择，哲学助理教授Stan Husi每次都会让甘地上救生艇。他认为，这是人类不具有同等道德价值的原因之一。Husi的新书《Do All Persons Have Equal Moral Worth?》挑战了人类拥有同等道德价值的普遍信念。这个观念已成为教条，其捍卫者常常声称它是自明的，毋庸置疑。",
+        "url": "https://uwm.edu/humanities/2018/05/04/are-we-truly-equal-uwm-philosopher-thinks-not/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Speciesism and animal rights - OIPA: 动物权利倡导者认为，所有有感知能力的存在，无论物种如何，都有生命权、自由权和免于痛苦的权利。他们主张动物是有感知能力的存在，能够感受情感，因此能够体验痛苦、恐惧和快乐，它们的利益应该被考虑和尊重。反对物种主义和支持动物权利的关键论证包括：感知能力和痛苦——动物能够体验痛苦、快乐和情感。仅仅基于物种而否认它们的道德考虑是歧视性的。伦理一致性——如果我们同意对人类造成不必要的痛苦是错误的，那么没有逻辑理由将动物排除在这种道德考虑之外。",
+        "url": "https://www.oipa.org/international/equality-knows-no-species-end-speciesism/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "这是道德哲学的根本问题，无法通过经验证据完全验证或证伪。道德平等主义和包容性感知主义主张所有有意识存在具有道德地位，甚至同等道德价值，反对物种主义歧视。但许多哲学家质疑绝对平等观，认为应根据相关特征（如德性、认知能力）区分道德价值，或区分\\\"作为平等者对待\\\"与\\\"平等对待\\\"。即使接受意识赋予道德地位，道德价值的程度是否相同仍存在争议。这涉及道德价值的形而上学基础、平等原则的规范性论证等根本性哲学问题，学界对此存在根本分歧。",
+    "topic": "Culture"
+  }
+]
+
+]

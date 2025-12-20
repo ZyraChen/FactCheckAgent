@@ -14,9 +14,16 @@
 
 import json
 import time
-import re
+import re,os
 from typing import List, Dict, Set
 from collections import defaultdict
+import os
+
+# 禁用所有代理，确保直连阿里云服务器
+os.environ['NO_PROXY'] = 'dashscope.aliyuncs.com'
+os.environ['http_proxy'] = ''
+os.environ['https_proxy'] = ''
+import dashscope
 import openai
 
 
@@ -24,7 +31,7 @@ class QwenPlus:
     """通义千问LLM（带搜索功能）"""
 
     def __init__(self, api_key):
-        self.model = "qwen-plus-latest"
+        self.model = "qwen-plus-2025-12-01"
         self.llm = openai.OpenAI(
             api_key=api_key,
             base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
@@ -35,12 +42,16 @@ class QwenPlus:
             "model": self.model,
             "messages": messages,
             "temperature": 0.3,
-            "timeout": 60,
+            "timeout": 20,
         }
         return kwargs
 
-    def completion(self, messages: list[dict], enable_thinking=False, return_json=False, enable_search=False) -> str:
-        """调用LLM completion"""
+    def completion(self, messages: list[dict], enable_thinking=False, return_json=False, enable_search=False, return_full_response=False):
+        """调用LLM completion
+
+        Args:
+            return_full_response: 如果为True，返回完整响应对象（包含搜索引用）；否则只返回文本内容
+        """
         response_format = {"type": "json_object"} if not enable_thinking and return_json else {"type": "text"}
         extra_body = {}
 
@@ -55,11 +66,28 @@ class QwenPlus:
             }
 
         try:
-            rsp = self.llm.chat.completions.create(
-                **self._cons_kwargs(messages),
-                extra_body=extra_body if enable_search else None,
-                response_format=response_format
+            # rsp = self.llm.chat.completions.create(
+            #     **self._cons_kwargs(messages),
+            #     extra_body=extra_body if enable_search else None,
+            #     response_format=response_format
+            # )
+            rsp=dashscope.Generation.call(
+                api_key="sk-cfa241b1db8e434bb20a31ee29202121",
+                model="qwen-plus-2025-12-01",
+                messages=messages,
+                enable_thinking=True,
+                enable_search=True,
+                search_options={
+                    "enable_source": True,
+                    "forced_search": True,
+                    "search_strategy": "max"
+                },
+                result_format="message"
             )
+            for web in rsp.output.search_info["search_results"]:
+                print(f"[{web['index']}]: {web['title']}")
+                print(f"URL: {web['url']}")  # 👈 这里就是你要的 URL！
+                print(f"网站: {web['site_name']}\n")
         except openai.RateLimitError as e:
             print("    ⚠️  API请求超过限制，等待60秒...")
             time.sleep(60)
@@ -77,7 +105,53 @@ class QwenPlus:
                 response_format=response_format
             )
 
-        return rsp.choices[0].message.content
+        # 如果需要完整响应（包含搜索引用），返回整个响应对象
+        if return_full_response:
+            return rsp
+        print(rsp.output.choices[0].message.reasoning_content)
+        return rsp.output.choices[0].message.content,rsp.output.search_info["search_results"]
+
+    def extract_search_references(self, response) -> List[Dict]:
+        """从API响应中提取真实的搜索引用
+
+        通义千问的搜索结果可能在response对象的不同位置，需要逐个尝试
+        """
+        references = []
+
+        # 尝试多种可能的字段位置
+        try:
+            # 尝试 1: response.web_search
+            if hasattr(response, 'web_search') and response.web_search:
+                for item in response.web_search:
+                    references.append({
+                        'title': item.get('title', ''),
+                        'url': item.get('url', ''),
+                        'content': item.get('content', '')
+                    })
+                return references
+
+            # 尝试 2: response.choices[0].message 中的字段
+            if hasattr(response, 'choices') and response.choices:
+                message = response.choices[0].message
+                if hasattr(message, 'web_search_results'):
+                    for item in message.web_search_results:
+                        references.append({
+                            'title': item.get('title', ''),
+                            'url': item.get('url', ''),
+                            'content': item.get('content', '') or item.get('snippet', '')
+                        })
+                    return references
+
+            # 调试：打印response结构
+            print(f"  [DEBUG] Response属性: {[attr for attr in dir(response) if not attr.startswith('_')]}")
+            if hasattr(response, 'choices') and response.choices:
+                msg = response.choices[0].message
+                print(f"  [DEBUG] Message属性: {[attr for attr in dir(msg) if not attr.startswith('_')]}")
+
+        except Exception as e:
+            print(f"  [DEBUG] 提取搜索引用时出错: {e}")
+
+        return references
 
 
 class EvidenceExtractor:
@@ -158,28 +232,27 @@ class VerdictTester:
 Claim: "{claim}"
 
 CRITICAL REQUIREMENTS:
-1. You must search for relevant, credible information about this claim
+1. You must search for relevant, credible information about this claim, and provide less than 5 evidence sources you actually used, including:
+   - content: Primary content of the evidence
+   - url: 
+       - ONLY include URLs that you ACTUALLY searched. 
+       - DO NOT fabricate, guess, or construct URLs
+       - DO NOT use common patterns like "https://example.com/..."
+       - ONLY use URLs that appeared in your search results
+   - credibility: "High" (government, academic, mainstream media) | "Medium" (industry reports, local news) | "Low" (social media, unverified)
+
 2. In your justification, you MUST cite specific sources:
    - You can use formats like: "According to [Source Name]..."
    - Include URLs in evidence sources
    - Mention the source organization/publication name
    - Cite specific numbers, dates, and statistics
 
-3. Provide your verdict as one of these exact terms:
+3. Provide your verdict as one of these exact terms based on the evidence you searched:
    - "Supported" (if the claim is true based on evidence)
    - "Refuted" (if the claim is false based on evidence)
    - "Not Enough Evidence" (if you cannot find sufficient information)
 
-4. Provide a complete justification (4-6 sentences with explicit source citations)
-
-5. Provide less than 5 evidence sources you actually used, including:
-   - content: Primary content of the evidence
-   - url: 
-       - ONLY include URLs that you ACTUALLY found during your search. 
-       - DO NOT fabricate, guess, or construct URLs
-       - DO NOT use common patterns like "https://example.com/..."
-       - ONLY use URLs that appeared in your search results
-   - credibility: "High" (government, academic, mainstream media) | "Medium" (industry reports, local news) | "Low" (social media, unverified)
+4. Provide a complete justification based on the evidence you searched(4-6 sentences with explicit source citations)
 
 GOOD EXAMPLE:
 {{
@@ -211,38 +284,39 @@ Respond ONLY with a valid JSON object in this exact format, The language of the 
   "verdict": "Supported" | "Refuted" | "Not Enough Evidence",
   "justification": "Your detailed reasoning with source citations",
   "confidence": "High" | "Medium" | "Low",
-  "evidence_sources": [
-    {{
-      "content": "Evidence description",
-      "url": "Real URL",
-      "credibility": "High" | "Medium" | "Low"
-    }}
-  ]
 }}
-
+Requirement: Every evidence_source MUST include a valid, reachable URL extracted directly from the search engine metadata. If no URL is available, clearly state 'No source found' instead of generating a null value.
 Do not include any text outside the JSON object."""
 
             messages = [{"role": "user", "content": prompt}]
 
             print(f"  🔍 正在让LLM分析...")
-            response = self.llm.completion(messages, return_json=True, enable_search=self.enable_search)
+            response,evidence = self.llm.completion(messages, return_json=True, enable_search=self.enable_search)
 
-            # 打印原始响应（用于调试）
-            print(f"\n  【原始响应】")
-            print(f"  {response[:300]}...")
-
+            # # 打印原始响应（用于调试）
+            # print(f"\n  【原始响应】")
+            # print(f"  {response[:300]}...")
+            json_evidence = []
             # 解析响应 - 修复字段名
             try:
                 response_json = json.loads(response)
                 llm_verdict = response_json.get('verdict', 'Not Enough Evidence')
                 llm_justification = response_json.get('justification', '')  # 修复：从justification获取
                 llm_confidence = response_json.get('confidence', 'Unknown')
-                llm_evidence_sources = response_json.get('evidence_sources', [])  # 新增：获取evidence_sources
+                # 新增：获取evidence_sources
+
+
+                for web in evidence:
+                    json_evidence.append({
+                        "title": web["title"],
+                        "url": web["url"],
+                        "site_name": web["site_name"]
+                    })
 
                 print(f"\n  【解析成功】")
                 print(f"  - verdict: {llm_verdict}")
                 print(f"  - justification长度: {len(llm_justification)} 字符")
-                print(f"  - evidence_sources数量: {len(llm_evidence_sources)}")
+                print(f"  - evidence_sources数量: {len(json_evidence)}")
 
             except json.JSONDecodeError as e:
                 print(f"    ⚠️  JSON解析失败: {e}")
@@ -263,25 +337,8 @@ Do not include any text outside the JSON object."""
                 print(f"    Expected: {ground_truth_verdict}")
                 print(f"    Got: {llm_verdict}")
 
-            # 显示LLM返回的证据来源
-            if llm_evidence_sources:
-                print(f"\n  📚 LLM提供的证据来源 ({len(llm_evidence_sources)}条):")
-                for i, ev in enumerate(llm_evidence_sources[:3], 1):
-                    content = ev.get('content', '')[:80]
-                    url = ev.get('url', 'N/A')
-                    cred = ev.get('credibility', 'Unknown')
-                    print(f"    {i}. [{cred}] {content}...")
-                    print(f"       URL: {url}")
-            else:
-                print(f"\n  ⚠️  LLM未返回结构化的evidence_sources")
 
-                # 备用方案：从justification中提取证据
-                extracted_evidence = self.evidence_extractor.extract_evidence_from_text(llm_justification)
-                if extracted_evidence:
-                    print(f"  🔍 从justification中提取到 {len(extracted_evidence)} 条证据引用:")
-                    for i, ev in enumerate(extracted_evidence[:5], 1):
-                        ev_display = ev[:80] + ('...' if len(ev) > 80 else '')
-                        print(f"    {i}. {ev_display}")
+
 
             # 返回结构化结果
             return {
@@ -300,7 +357,7 @@ Do not include any text outside the JSON object."""
                     'verdict': llm_verdict,
                     'justification': llm_justification,  # 修复：使用justification
                     'confidence': llm_confidence,
-                    'evidence_sources': llm_evidence_sources,  # 新增：LLM返回的证据来源
+                    'evidence_sources': json_evidence,  # 新增：LLM返回的证据来源
                 },
 
                 # Verdict评估
@@ -335,7 +392,7 @@ Do not include any text outside the JSON object."""
         print(f"Verdict准确度测试（修复版）")
         print(f"{'=' * 80}")
         print(f"数据集大小: {len(self.dataset)}")
-        print(f"LLM模型: Qwen-Plus-Latest")
+        print(f"LLM模型: Qwen-plus")
         print(f"搜索功能: {'✅ 已开启' if self.enable_search else '❌ 未开启'}")
 
         test_items = self.dataset[start_index:start_index + max_items] if max_items else self.dataset[start_index:]
@@ -451,7 +508,7 @@ Do not include any text outside the JSON object."""
         """保存完整结果为JSON格式"""
         output = {
             'metadata': {
-                'model': 'qwen-plus-latest',
+                'model': 'qwen3-max',
                 'search_enabled': self.enable_search,
                 'test_time': time.strftime('%Y-%m-%d %H:%M:%S'),
                 'total_items': len(self.results)
@@ -497,8 +554,8 @@ Do not include any text outside the JSON object."""
 
 def main():
     # 配置
-    API_KEY = "sk-8faa7214041347609e67d5d09cec7266"
-    DATASET_PATH = "data/dataset_part_8.json"  # 修改为你的数据集路径
+    API_KEY = "sk-cfa241b1db8e434bb20a31ee29202121"
+    DATASET_PATH = "data/dataset_part_2.json"  # 修改为你的数据集路径
 
     # 创建测试器
     tester = VerdictTester(
@@ -515,10 +572,10 @@ def main():
     tester.print_summary()
 
     # 保存结果
-    tester.save_results('qwen3_max_max/verdict_test_results_8.json')
+    tester.save_results('qwen3_plus_12_1_max/verdict_test_results_2.json')
 
     # 保存错误案例
-    tester.save_verdict_errors('qwen3_max_max/verdict_errors_8.json')
+    tester.save_verdict_errors('qwen3_plus_12_1_max/verdict_errors_2.json')
 
     print("\n 测试完成！")
 

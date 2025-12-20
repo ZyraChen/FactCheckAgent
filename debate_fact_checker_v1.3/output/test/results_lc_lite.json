@@ -1,0 +1,62 @@
+[
+  {
+    "claim": "女子网球获得女单大满贯冠军数量最多的运动员外号是“小威廉姆斯”。",
+    "predicted": "Refuted",
+    "ground_truth": null,
+    "confidence": 0.7,
+    "correct": false
+  },
+  {
+    "claim": "巴黎圣母院官网会在提前一天0点释放参观预约名额。",
+    "predicted": "Refuted",
+    "ground_truth": null,
+    "confidence": 0.9,
+    "correct": false
+  },
+  {
+    "claim": "意大利小众首饰店Humilis在米兰有门店。",
+    "predicted": "Refuted",
+    "ground_truth": null,
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "claim": "柏拉图说过：“唯有逝者方能目睹战争的终结”。",
+    "predicted": "Refuted",
+    "ground_truth": null,
+    "confidence": 0.9,
+    "correct": false
+  },
+  {
+    "index": 0,
+    "claim": "美国总统特朗普当地时间周五（12月5日）出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签，其间他提议，应该给美式橄榄球（American football）改名，以免和“真正的足球（football）”相混淆。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Supported",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 1,
+    "claim": "泽连斯基透露顿涅茨克和核电站争端阻碍美国和平计划",
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 2,
+    "claim": "越南通过人工智能法,在最后立法会议中通过51项法案",
+    "predicted": "Refuted",
+    "ground_truth": "Supported",
+    "confidence": 0.7,
+    "correct": false
+  },
+  {
+    "index": 3,
+    "claim": "谷歌推出GenTabs，可从浏览器标签页构建应用",
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "confidence": 0.5,
+    "correct": true
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "claim": "冥王星距太阳最远约为74亿公里。",
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "confidence": 0.78888,
+    "correct": true
+  }
+]

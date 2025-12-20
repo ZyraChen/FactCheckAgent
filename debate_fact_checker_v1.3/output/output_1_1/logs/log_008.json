@@ -1,0 +1,128 @@
+{
+  "claim": "萨姆·阿尔特曼已经于2023年11月离开了OpenAI。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T15:21:18.294139",
+  "statistics": {
+    "total_evidences": 4,
+    "pro_evidences": 2,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 4,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_1_9f8b2491",
+        "content": "中新网11月30日电当地时间29日，美国人工智能研究公司OpenAI官网发布消息称，山姆?阿尔特曼(Sam Altman)回归公司，重新担任首席执行官(CEO)，OpenAI成立了 ...",
+        "url": "https://news.sciencenet.cn/htmlnews/2023/11/513288.shtm",
+        "source": "news.sciencenet.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4764,
+        "priority": 0.28584,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "OpenAI官方网站2023年11月21日萨姆·阿尔特曼重新担任CEO公告",
+        "timestamp": "2025-12-20T15:09:36.093776"
+      },
+      {
+        "id": "con_1_a54cc1e3",
+        "content": "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor.",
+        "url": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board/",
+        "source": "openai.com",
+        "credibility": "Medium",
+        "quality_score": 0.49079999999999996,
+        "priority": 0.29447999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "OpenAI官方网站2023年11月21日萨姆·阿尔特曼重新担任CEO公告",
+        "timestamp": "2025-12-20T15:09:36.093776"
+      },
+      {
+        "id": "pro_3_81c714a6",
+        "content": "突然就在第二天的11 月17 日，奥特曼在一个周五收到了自己一手创办的OpenAI 发来的辞退信。 公开信中写道：奥特曼先生的离职是在董事会经过深思熟虑的审查 ...",
+        "url": "https://zhuanlan.zhihu.com/p/667529319",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4698,
+        "priority": 0.28187999999999996,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "卫报2023年11月17日报道萨姆阿尔特曼被OpenAI董事会开除生效",
+        "timestamp": "2025-12-20T15:15:45.336361"
+      },
+      {
+        "id": "pro_3_53be87b8",
+        "content": "今天OpenAI 官方公告宣布：Sam Altman 将卸任首席执行官并退出董事会。临时接任他担任CEO 的是OpenAI CTO Mira Murati。在之前的报道中，Mira Murati 被称为 ...",
+        "url": "https://www.stcn.com/article/detail/1039687.html",
+        "source": "www.stcn.com",
+        "credibility": "Medium",
+        "quality_score": 0.483,
+        "priority": 0.2898,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "卫报2023年11月17日报道萨姆阿尔特曼被OpenAI董事会开除生效",
+        "timestamp": "2025-12-20T15:15:45.336361"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_3_81c714a6",
+        "agent": "pro",
+        "priority": 0.28187999999999996,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "突然就在第二天的11 月17 日，奥特曼在一个周五收到了自己一手创办的OpenAI 发来的辞退信。 公开信中写道：奥特曼先生的离职是在董事会经过深思熟虑的审查 ......"
+      },
+      {
+        "id": "con_1_a54cc1e3",
+        "agent": "con",
+        "priority": 0.29447999999999996,
+        "source": "openai.com",
+        "content_preview": "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor...."
+      },
+      {
+        "id": "con_1_9f8b2491",
+        "agent": "con",
+        "priority": 0.28584,
+        "source": "news.sciencenet.cn",
+        "content_preview": "中新网11月30日电当地时间29日，美国人工智能研究公司OpenAI官网发布消息称，山姆?阿尔特曼(Sam Altman)回归公司，重新担任首席执行官(CEO)，OpenAI成立了 ......"
+      },
+      {
+        "id": "pro_3_53be87b8",
+        "agent": "pro",
+        "priority": 0.2898,
+        "source": "www.stcn.com",
+        "content_preview": "今天OpenAI 官方公告宣布：Sam Altman 将卸任首席执行官并退出董事会。临时接任他担任CEO 的是OpenAI CTO Mira Murati。在之前的报道中，Mira Murati 被称为 ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_3_81c714a6",
+      "con_1_a54cc1e3",
+      "con_1_9f8b2491",
+      "pro_3_53be87b8"
+    ]
+  },
+  "verdict": {
+    "decision": "Supported",
+    "confidence": 0.5,
+    "reasoning": "Claim的核心是验证\"2023年11月内阿尔特曼是否离开OpenAI\"。关键证据显示：1) 知识库中11月18-20日多条消息源(含OpenAI官网)确认11月17/18日阿尔特曼被解雇，穆拉蒂任临时CEO；2) [news.sciencenet.cn]明确记载\"11月29日阿尔特曼回归公司重新担任CEO\"，\"回归\"一词逻辑上证明此前必然存在离职事实，构成决定性间接证据。反对证据[openai.com]仅显示\"CEO Sam Altman\"但无时间信息，与11月29日回归后的状态一致，不否定11月早些时候的离职。时间线上，离职发生于11月17/18日(属11月内)，claim仅陈述\"11月离开\"而非\"永久离开\"，因此有充分证据支持。",
+    "key_evidence_ids": [
+      "pro_3_81c714a6",
+      "con_1_9f8b2491",
+      "pro_3_53be87b8"
+    ],
+    "pro_strength": 0.28584,
+    "con_strength": 0.29447999999999996,
+    "total_evidences": 4,
+    "accepted_evidences": 4
+  },
+  "evaluation": {
+    "predicted": "Supported",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

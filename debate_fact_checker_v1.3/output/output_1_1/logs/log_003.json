@@ -1,0 +1,105 @@
+{
+  "claim": "尼日利亚每年新增HIV感染接近20万。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T14:22:14.868383",
+  "statistics": {
+    "total_evidences": 3,
+    "pro_evidences": 2,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 3,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_1_748802ad",
+        "content": "艾滋病病毒感染���，总数（占15-49岁人口的百分比） from The World Bank: Data",
+        "url": "https://data.worldbank.org.cn/indicator/SH.DYN.AIDS.ZS",
+        "source": "data.worldbank.org.cn",
+        "credibility": "Medium",
+        "quality_score": 0.45239999999999997,
+        "priority": 0.27143999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "世卫组织尼日利亚2021-2023年HIV新增感染人数官方统计数据",
+        "timestamp": "2025-12-20T14:10:47.635232"
+      },
+      {
+        "id": "pro_2_1169d5ae",
+        "content": "联合国艾滋病规划署发布的《2025年全球艾滋病报告：危机与变革之力》指出，国际资金的大规模削减正威胁着数十年的防治成果。报告警告称，除非各国彻底改变艾滋病防治规划和资金模式，否则全球抗艾进程可能出现严重倒退。 |",
+        "url": "https://news.un.org/zh/story/2025/07/1140317",
+        "source": "news.un.org",
+        "credibility": "High",
+        "quality_score": 0.7636,
+        "priority": 0.7636,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "美国总统艾滋病紧急救援计划尼日利亚年度HIV新增感染统计接近20万",
+        "timestamp": "2025-12-20T14:13:03.133799"
+      },
+      {
+        "id": "pro_2_370c16ac",
+        "content": "世界卫生组织（世卫组织）对立即暂停为低收入和中等收入国家艾滋病毒规划提供资金的影响深表关切。这些规划为全世界3000多万人提供救命的艾滋病毒治疗。截至2023年底，全球有3990万艾滋病毒感染者。",
+        "url": "https://www.who.int/zh/news/item/28-01-2025-who-statement-on-potential-global-threat-to-people-living-with-hiv",
+        "source": "www.who.int",
+        "credibility": "High",
+        "quality_score": 0.7587999999999999,
+        "priority": 0.7587999999999999,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "美国总统艾滋病紧急救援计划尼日利亚年度HIV新增感染统计接近20万",
+        "timestamp": "2025-12-20T14:13:03.134305"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_2_1169d5ae",
+        "agent": "pro",
+        "priority": 0.7636,
+        "source": "news.un.org",
+        "content_preview": "联合国艾滋病规划署发布的《2025年全球艾滋病报告：危机与变革之力》指出，国际资金的大规模削减正威胁着数十年的防治成果。报告警告称，除非各国彻底改变艾滋病防治规划和资金模式，否则全球抗艾进程可能出现严重倒退。 |..."
+      },
+      {
+        "id": "pro_2_370c16ac",
+        "agent": "pro",
+        "priority": 0.7587999999999999,
+        "source": "www.who.int",
+        "content_preview": "世界卫生组织（世卫组织）对立即暂停为低收入和中等收入国家艾滋病毒规划提供资金的影响深表关切。这些规划为全世界3000多万人提供救命的艾滋病毒治疗。截至2023年底，全球有3990万艾滋病毒感染者。..."
+      },
+      {
+        "id": "con_1_748802ad",
+        "agent": "con",
+        "priority": 0.27143999999999996,
+        "source": "data.worldbank.org.cn",
+        "content_preview": "艾滋病病毒感染���，总数（占15-49岁人口的百分比） from The World Bank: Data..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_2_1169d5ae",
+      "pro_2_370c16ac",
+      "con_1_748802ad"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.9,
+    "reasoning": "Claim的核心是尼日利亚每年新增HIV感染\"接近20万\"。关键可验证部分是具体数字和时间范围。根据知识库中2022年8月30日的世卫组织声明，尼日利亚2021年新增HIV感染人数为74,000人（7.4万），2015年为95,000人（9.5万），均远低于20万。虽然2009年数据为38万，但这是13年前的旧数据，且所有证据显示新增感染人数呈下降趋势（从2015年到2021年下降22%）。\"接近20万\"通常意味着相差不超过20-30%，但7.4万与20万相差63%，远超合理范围。世卫组织2022年的数据是最权威、最新的证据，直接反驳了claim，构成决定性证据。因此，claim被证伪。",
+    "key_evidence_ids": [
+      "con_1_748802ad"
+    ],
+    "pro_strength": 0.7587999999999999,
+    "con_strength": 0.27143999999999996,
+    "total_evidences": 3,
+    "accepted_evidences": 3
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

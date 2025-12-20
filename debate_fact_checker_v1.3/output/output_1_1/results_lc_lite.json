@@ -1,0 +1,114 @@
+[
+  {
+    "index": 0,
+    "claim": "冥王星距太阳最远约为74亿公里。",
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "confidence": 0.9,
+    "correct": true
+  },
+  {
+    "index": 1,
+    "claim": "欧盟计划在2030年全面禁止销售燃油车。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 2,
+    "claim": "尼日利亚每年新增HIV感染接近20万。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.9,
+    "correct": true
+  },
+  {
+    "index": 3,
+    "claim": "女子网球获得女单大满贯冠军数量最多的运动员外号是“小威廉姆斯”。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": true
+  },
+  {
+    "index": 4,
+    "claim": "2025奥斯卡最佳动画长片奖得主是《你想活出怎样的人生》。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 5,
+    "claim": "截止2025年11月下旬英超赛季的榜首是曼城足球俱乐部。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 6,
+    "claim": "支付宝可以购买彩票。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 7,
+    "claim": "萨姆·阿尔特曼已经于2023年11月离开了OpenAI。",
+    "predicted": "Supported",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 8,
+    "claim": "巴黎圣母院官网会在提前一天0点释放参观预约名额。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": false
+  },
+  {
+    "index": 9,
+    "claim": "意大利小众首饰店Humilis在米兰有门店。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 10,
+    "claim": "柏拉图说过：“唯有逝者方能目睹战争的终结”。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 11,
+    "claim": "目前已实现室温超导。",
+    "predicted": "Refuted",
+    "ground_truth": "Not Enough Evidence",
+    "confidence": 0.9,
+    "correct": false
+  },
+  {
+    "index": 12,
+    "claim": "幸运饼干起源于旧金山。",
+    "predicted": "Refuted",
+    "ground_truth": "Not Enough Evidence",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 13,
+    "claim": "2022-2024年，纳米比亚的粮食安全问题持续存在，约22%的人口面临严重粮食短缺。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.9,
+    "correct": true
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "claim": "柏拉图说过：“唯有逝者方能目睹战争的终结”。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T15:50:18.025413",
+  "statistics": {
+    "total_evidences": 1,
+    "pro_evidences": 0,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 1,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_2_76948b93",
+        "content": "我知道这个是从《黑鹰坠落》里来的（我猜楼主是从那里知道的）。你说了之后，我不得不去查了一下。 看起来像是麦克阿瑟的锅。 今天学到了。",
+        "url": "https://www.reddit.com/r/quotes/comments/qn9py/only_the_dead_has_seen_the_end_of_war_plato/?tl=zh-hans",
+        "source": "www.reddit.com",
+        "credibility": "Medium",
+        "quality_score": 0.4596,
+        "priority": 0.27576,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "柏拉图只有死者才能看到战争终结误传最早记录学术研究",
+        "timestamp": "2025-12-20T15:47:06.184126"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_76948b93",
+        "agent": "con",
+        "priority": 0.27576,
+        "source": "www.reddit.com",
+        "content_preview": "我知道这个是从《黑鹰坠落》里来的（我猜楼主是从那里知道的）。你说了之后，我不得不去查了一下。 看起来像是麦克阿瑟的锅。 今天学到了。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_2_76948b93"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "该claim的核心是确认\"唯有逝者方能目睹战争的终结\"是否为柏拉图所说。知识库中虽有4条网络文章声称这是柏拉图名言，但均为二手引用且无原始文献支持。关键反对证据指出这句话实际可能源自《黑鹰坠落》电影并归因于麦克阿瑟。柏拉图生活在公元前5-4世纪，其著作中并无此表述记载，且该语句具有明显现代语言特征，与古希腊哲学表达方式不符。历史学术界共识认为这是常见的错误归因现象。虽然反对证据强度不高(0.28)，但它直接攻击了claim的必要条件——说话者身份。根据判决指南，若必要条件被证伪，即使支持证据更多，claim也应被反驳。网络上大量将现代名言错误归于古代哲学家的现象支持这一判断，因此判决为Refuted。",
+    "key_evidence_ids": [
+      "con_2_76948b93"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.27576,
+    "total_evidences": 1,
+    "accepted_evidences": 1
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

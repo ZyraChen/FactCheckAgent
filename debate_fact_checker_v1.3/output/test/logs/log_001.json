@@ -1,0 +1,82 @@
+{
+  "claim": "美国总统特朗普当地时间周五（12月5日）出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签，其间他提议，应该给美式橄榄球（American football）改名，以免和“真正的足球（football）”相混淆。",
+  "ground_truth": "Supported",
+  "timestamp": "2025-12-19T21:19:51.871250",
+  "statistics": {
+    "total_evidences": 2,
+    "pro_evidences": 0,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 2,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_1_43392ada",
+        "content": "... 特朗普当地时间周五（12月5日）出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签，其间他提议，应该给美式橄榄球（American football）改名，以免和“真正的足球 ...",
+        "url": "https://news.ifeng.com/c/8orDjla4e44",
+        "source": "news.ifeng.com",
+        "credibility": "Medium",
+        "quality_score": 0.47819999999999996,
+        "priority": 0.28691999999999995,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "特朗普+2026年世界杯抽签仪式+美式橄榄球改名提议+事实核查",
+        "timestamp": "2025-12-19T21:17:20.423014"
+      },
+      {
+        "id": "con_1_9866820e",
+        "content": "据法新社报道，当地时间12月5日，美国总统特朗普出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签时提议，应给美式橄榄球改名，避免和“真正的足球”混淆。",
+        "url": "https://finance.sina.com.cn/roll/2025-12-06/doc-infzvnmh7632566.shtml",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4668,
+        "priority": 0.28008,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "特朗普+2026年世界杯抽签仪式+美式橄榄球改名提议+事实核查",
+        "timestamp": "2025-12-19T21:17:20.428403"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_43392ada",
+        "agent": "con",
+        "priority": 0.28691999999999995,
+        "source": "news.ifeng.com",
+        "content_preview": "... 特朗普当地时间周五（12月5日）出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签，其间他提议，应该给美式橄榄球（American football）改名，以免和“真正的足球 ......"
+      },
+      {
+        "id": "con_1_9866820e",
+        "agent": "con",
+        "priority": 0.28008,
+        "source": "finance.sina.com.cn",
+        "content_preview": "据法新社报道，当地时间12月5日，美国总统特朗普出席在华盛顿举行的2026年美加墨世界杯小组赛分组抽签时提议，应给美式橄榄球改名，避免和“真正的足球”混淆。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_43392ada",
+      "con_1_9866820e"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "",
+    "key_evidence_ids": [],
+    "pro_strength": 0.0,
+    "con_strength": 0.0,
+    "total_evidences": 2,
+    "accepted_evidences": 2
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Supported",
+    "correct": false
+  }
+}

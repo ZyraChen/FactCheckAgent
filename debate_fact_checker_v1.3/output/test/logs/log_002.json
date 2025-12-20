@@ -1,0 +1,275 @@
+{
+  "claim": "泽连斯基透露顿涅茨克和核电站争端阻碍美国和平计划",
+  "ground_truth": "Supported",
+  "timestamp": "2025-12-19T21:25:33.165118",
+  "statistics": {
+    "total_evidences": 11,
+    "pro_evidences": 6,
+    "con_evidences": 5,
+    "total_attacks": 0,
+    "accepted_evidences": 11,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_f3605186",
+        "content": "俄乌战争和平方案的谈判，乌克兰是否将在领土做重大让步？据法国《世界报》援引乌克兰谈判代表波多利亚克的话报道，基辅方面或将接受在顿巴斯地区设立非军事区。",
+        "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251212-%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%E8%B0%88%E5%88%A4-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%98%AF%E5%90%A6%E5%B0%86%E6%8E%A5%E5%8F%97%E9%A2%86%E5%9C%9F%E9%87%8D%E5%A4%A7%E8%AE%A9%E6%AD%A5",
+        "source": "www.rfi.fr",
+        "credibility": "Low",
+        "quality_score": 0.255,
+        "priority": 0.0765,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "泽连斯基透露顿涅茨克和扎波罗热核电站争端阻碍美国和平计划",
+        "timestamp": "2025-12-19T21:21:31.812799"
+      },
+      {
+        "id": "pro_1_3afa67d4",
+        "content": "美方急派特使前往柏林，欲在年底前推动俄乌“和平计划”取得进展，但美欧就方案细节及特朗普态度分歧显著。乌克兰亦提出新方案，与美方在顿涅茨克领土和扎波罗热核电站共管问题上存两大核心分歧，各方博弈加剧。",
+        "url": "https://m.fastbull.com/cn/news-detail/4359826_1",
+        "source": "m.fastbull.com",
+        "credibility": "Medium",
+        "quality_score": 0.4788,
+        "priority": 0.28728,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "泽连斯基透露顿涅茨克和扎波罗热核电站争端阻碍美国和平计划",
+        "timestamp": "2025-12-19T21:21:31.812799"
+      },
+      {
+        "id": "con_1_cc8853f8",
+        "content": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。",
+        "url": "https://news.cnr.cn/sq/20251218/t20251218_527464679.shtml",
+        "source": "news.cnr.cn",
+        "credibility": "Low",
+        "quality_score": 0.24359999999999998,
+        "priority": 0.07307999999999999,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "泽连斯基称顿涅茨克和扎波罗热核电站问题阻碍美国和平计划是否属实",
+        "timestamp": "2025-12-19T21:21:59.398400"
+      },
+      {
+        "id": "con_1_d5974ed0",
+        "content": "泽连斯基还表示，美国就扎波罗热核电站提出的“妥协方案”缺乏公正性，同时强调近期多轮谈判均未就该核电站相关议题达成实质性协议。 泽连斯基指出，扎波罗热 ...",
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-18/doc-inhcfkvm3163497.shtml?froms=ggmp",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4668,
+        "priority": 0.28008,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "泽连斯基称顿涅茨克和扎波罗热核电站问题阻碍美国和平计划是否属实",
+        "timestamp": "2025-12-19T21:21:59.398400"
+      },
+      {
+        "id": "pro_2_1f9c6db2",
+        "content": "泽连斯基接受媒体采访时表示，乌美之间就协议尚存两大分歧需要继续讨论，一是顿涅茨克地区领土及一切相关问题，二是扎波罗热核电站“共管”问题。他称，顿涅茨克 ...",
+        "url": "http://www.news.cn/20251212/348d2abe0bfe442294908c751ca0d3b4/c.html",
+        "source": "www.news.cn",
+        "credibility": "Low",
+        "quality_score": 0.25739999999999996,
+        "priority": 0.07721999999999998,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "泽连斯基称顿涅茨克领土和扎波罗热核电站问题阻碍美国和平计划",
+        "timestamp": "2025-12-19T21:22:44.007194"
+      },
+      {
+        "id": "pro_2_f9699a5e",
+        "content": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+        "url": "https://m.thepaper.cn/newsDetail_forward_32174230",
+        "source": "m.thepaper.cn",
+        "credibility": "Low",
+        "quality_score": 0.2718,
+        "priority": 0.08153999999999999,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "泽连斯基称顿涅茨克领土和扎波罗热核电站问题阻碍美国和平计划",
+        "timestamp": "2025-12-19T21:22:44.007194"
+      },
+      {
+        "id": "con_2_a0e9e764",
+        "content": "泽连斯基指出，扎波罗热核电站议题已纳入近期多轮谈判议程，但目前尚未取得任何共识。针对美方提出的折中方案，泽连斯基表示，该方案主张核电站未来维持运行， ...",
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-18/doc-inhcfkvc8171055.shtml?froms=ggmp",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4668,
+        "priority": 0.28008,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "泽连斯基是否承认顿涅茨克和扎波罗热核电站争端是美国和平计划受阻主因",
+        "timestamp": "2025-12-19T21:23:11.272873"
+      },
+      {
+        "id": "pro_3_83ed9793",
+        "content": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。",
+        "url": "https://news.cnr.cn/sq/20251218/t20251218_527464679.shtml",
+        "source": "news.cnr.cn",
+        "credibility": "Low",
+        "quality_score": 0.24359999999999998,
+        "priority": 0.07307999999999999,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "泽连斯基公开表示顿涅茨克领土争议和扎波罗热核电站控制权问题阻碍美国和平计划推进",
+        "timestamp": "2025-12-19T21:23:59.769787"
+      },
+      {
+        "id": "pro_3_04559c81",
+        "content": "本文转自【央视新闻客户端】；总台记者获悉，当地时间18日，乌克兰总统泽连斯就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。泽连斯基首先重申了乌方在安全保障问题上的核心立场，明确表示当前正与美国就相关事宜开展合作。他强调，...",
+        "url": "https://finance.sina.com.cn/jjxw/2025-12-18/doc-inhcfkvm3163497.shtml?froms=ggmp",
+        "source": "finance.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.49379999999999996,
+        "priority": 0.29628,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "泽连斯基公开表示顿涅茨克领土争议和扎波罗热核电站控制权问题阻碍美国和平计划推进",
+        "timestamp": "2025-12-19T21:23:59.769787"
+      },
+      {
+        "id": "con_3_4e57ffaf",
+        "content": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。",
+        "url": "https://news.cnr.cn/sq/20251218/t20251218_527464679.shtml",
+        "source": "news.cnr.cn",
+        "credibility": "Low",
+        "quality_score": 0.24359999999999998,
+        "priority": 0.07307999999999999,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "泽连斯基是否明确表示顿涅茨克和扎波罗热核电站争端是美国和平计划受阻的唯一或主要原因",
+        "timestamp": "2025-12-19T21:24:26.514139"
+      },
+      {
+        "id": "con_3_c282dd67",
+        "content": "总台记者获悉，当地时间18日，乌克兰总统泽连斯就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。泽连斯..._新浪网",
+        "url": "https://news.sina.com.cn/w/2025-12-18/doc-inhcfkvm3135322.shtml",
+        "source": "news.sina.com.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4602,
+        "priority": 0.27612,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "泽连斯基是否明确表示顿涅茨克和扎波罗热核电站争端是美国和平计划受阻的唯一或主要原因",
+        "timestamp": "2025-12-19T21:24:26.514139"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_a0e9e764",
+        "agent": "con",
+        "priority": 0.28008,
+        "source": "finance.sina.com.cn",
+        "content_preview": "泽连斯基指出，扎波罗热核电站议题已纳入近期多轮谈判议程，但目前尚未取得任何共识。针对美方提出的折中方案，泽连斯基表示，该方案主张核电站未来维持运行， ......"
+      },
+      {
+        "id": "con_1_d5974ed0",
+        "agent": "con",
+        "priority": 0.28008,
+        "source": "finance.sina.com.cn",
+        "content_preview": "泽连斯基还表示，美国就扎波罗热核电站提出的“妥协方案”缺乏公正性，同时强调近期多轮谈判均未就该核电站相关议题达成实质性协议。 泽连斯基指出，扎波罗热 ......"
+      },
+      {
+        "id": "pro_1_f3605186",
+        "agent": "pro",
+        "priority": 0.0765,
+        "source": "www.rfi.fr",
+        "content_preview": "俄乌战争和平方案的谈判，乌克兰是否将在领土做重大让步？据法国《世界报》援引乌克兰谈判代表波多利亚克的话报道，基辅方面或将接受在顿巴斯地区设立非军事区。..."
+      },
+      {
+        "id": "pro_2_1f9c6db2",
+        "agent": "pro",
+        "priority": 0.07721999999999998,
+        "source": "www.news.cn",
+        "content_preview": "泽连斯基接受媒体采访时表示，乌美之间就协议尚存两大分歧需要继续讨论，一是顿涅茨克地区领土及一切相关问题，二是扎波罗热核电站“共管”问题。他称，顿涅茨克 ......"
+      },
+      {
+        "id": "pro_1_3afa67d4",
+        "agent": "pro",
+        "priority": 0.28728,
+        "source": "m.fastbull.com",
+        "content_preview": "美方急派特使前往柏林，欲在年底前推动俄乌“和平计划”取得进展，但美欧就方案细节及特朗普态度分歧显著。乌克兰亦提出新方案，与美方在顿涅茨克领土和扎波罗热核电站共管问题上存两大核心分歧，各方博弈加剧。..."
+      },
+      {
+        "id": "pro_3_83ed9793",
+        "agent": "pro",
+        "priority": 0.07307999999999999,
+        "source": "news.cnr.cn",
+        "content_preview": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。..."
+      },
+      {
+        "id": "con_3_4e57ffaf",
+        "agent": "con",
+        "priority": 0.07307999999999999,
+        "source": "news.cnr.cn",
+        "content_preview": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。..."
+      },
+      {
+        "id": "pro_2_f9699a5e",
+        "agent": "pro",
+        "priority": 0.08153999999999999,
+        "source": "m.thepaper.cn",
+        "content_preview": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。..."
+      },
+      {
+        "id": "pro_3_04559c81",
+        "agent": "pro",
+        "priority": 0.29628,
+        "source": "finance.sina.com.cn",
+        "content_preview": "本文转自【央视新闻客户端】；总台记者获悉，当地时间18日，乌克兰总统泽连斯就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。泽连斯基首先重申了乌方在安全保障问题上的核心立场，明确表示当前正与美国就相关事宜开展合作。他强调，......"
+      },
+      {
+        "id": "con_3_c282dd67",
+        "agent": "con",
+        "priority": 0.27612,
+        "source": "news.sina.com.cn",
+        "content_preview": "总台记者获悉，当地时间18日，乌克兰总统泽连斯就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。泽连斯..._新浪网..."
+      },
+      {
+        "id": "con_1_cc8853f8",
+        "agent": "con",
+        "priority": 0.07307999999999999,
+        "source": "news.cnr.cn",
+        "content_preview": "记者获悉，当地时间18日，乌克兰总统泽连斯基就乌美安全保障合作、和平谈判推进及与美国政要沟通等议题作出明确表态。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_2_a0e9e764",
+      "con_1_d5974ed0",
+      "pro_1_f3605186",
+      "pro_2_1f9c6db2",
+      "pro_1_3afa67d4",
+      "pro_3_83ed9793",
+      "con_3_4e57ffaf",
+      "pro_2_f9699a5e",
+      "pro_3_04559c81",
+      "con_3_c282dd67",
+      "con_1_cc8853f8"
+    ]
+  },
+  "verdict": {
+    "decision": "Supported",
+    "confidence": 0.7,
+    "reasoning": "Claim包含两个关键事实：顿涅茨克地位争议与扎波罗热核电站控制权问题正在阻碍美国主导的和平计划。大量来自BBC、新华社、RFI及新浪财经的报道一致指出，泽连斯基本人多次公开表示这两大议题是“尚未解决的主要问题”，并质疑美方方案的公平性与可行性。尤其新浪财经引述其对核电站“未达成任何共识”的表态，构成直接证据。无任何可靠证据反驳该说法，因此claim获得充分支持。",
+    "key_evidence_ids": [
+      "con_2_a0e9e764",
+      "con_1_d5974ed0",
+      "pro_1_f3605186"
+    ],
+    "pro_strength": 0.17039454545454544,
+    "con_strength": 0.0,
+    "total_evidences": 11,
+    "accepted_evidences": 11
+  },
+  "evaluation": {
+    "predicted": "Supported",
+    "ground_truth": "Supported",
+    "correct": true
+  }
+}

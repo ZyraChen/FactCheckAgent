@@ -1,0 +1,275 @@
+{
+  "claim": "越南通过人工智能法,在最后立法会议中通过51项法案",
+  "ground_truth": "Supported",
+  "timestamp": "2025-12-19T21:30:10.261368",
+  "statistics": {
+    "total_evidences": 11,
+    "pro_evidences": 5,
+    "con_evidences": 6,
+    "total_attacks": 0,
+    "accepted_evidences": 11,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_3d2c8a1f",
+        "content": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://cn.nhandan.vn/article-post146904.html",
+        "source": "cn.nhandan.vn",
+        "credibility": "Low",
+        "quality_score": 0.2424,
+        "priority": 0.07271999999999999,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "越南国会通过人工智能法及第十五届国会第十次会议通过51项法案",
+        "timestamp": "2025-12-19T21:26:06.450248"
+      },
+      {
+        "id": "pro_1_1d2f1600",
+        "content": "越通社河内——12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://zh.vietnamplus.vn/article-post253483.vnp",
+        "source": "zh.vietnamplus.vn",
+        "credibility": "Low",
+        "quality_score": 0.24659999999999999,
+        "priority": 0.07397999999999999,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "越南国会通过人工智能法及第十五届国会第十次会议通过51项法案",
+        "timestamp": "2025-12-19T21:26:06.450248"
+      },
+      {
+        "id": "con_1_2a01064b",
+        "content": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://cn.nhandan.vn/article-post146904.html",
+        "source": "cn.nhandan.vn",
+        "credibility": "Low",
+        "quality_score": 0.2424,
+        "priority": 0.07271999999999999,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "越南国会第十五届第十次会议通过人工智能法及51项法案",
+        "timestamp": "2025-12-19T21:26:33.282868"
+      },
+      {
+        "id": "con_1_e2fc5a7b",
+        "content": "越通社河内——12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://zh.vietnamplus.vn/article-post253483.vnp",
+        "source": "zh.vietnamplus.vn",
+        "credibility": "Low",
+        "quality_score": 0.24659999999999999,
+        "priority": 0.07397999999999999,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "越南国会第十五届第十次会议通过人工智能法及51项法案",
+        "timestamp": "2025-12-19T21:26:33.282868"
+      },
+      {
+        "id": "pro_2_cc7f2df1",
+        "content": "人民军队：12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://cn.qdnd.vn/cid-6157/7223/-630228",
+        "source": "cn.qdnd.vn",
+        "credibility": "Low",
+        "quality_score": 0.24539999999999998,
+        "priority": 0.07361999999999999,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "越南第十五届国会第十次会议通过人工智能法及51项法案官方公告",
+        "timestamp": "2025-12-19T21:27:10.268197"
+      },
+      {
+        "id": "pro_2_45480be2",
+        "content": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://zh.vietnamplus.vn/article-post253483.vnp",
+        "source": "zh.vietnamplus.vn",
+        "credibility": "Low",
+        "quality_score": 0.2424,
+        "priority": 0.07271999999999999,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "越南第十五届国会第十次会议通过人工智能法及51项法案官方公告",
+        "timestamp": "2025-12-19T21:27:10.268197"
+      },
+      {
+        "id": "con_2_c578714c",
+        "content": "在会议上，审议、讨论并表决通过了51项法律、39项决议，其中包括8项规范性法律决议。这是一个非常大的立法量，占整个任期颁布的法律和规范性决议总数的 ...",
+        "url": "https://yuenan.com/news-66747/",
+        "source": "yuenan.com",
+        "credibility": "Medium",
+        "quality_score": 0.4662,
+        "priority": 0.27971999999999997,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "越南第十五届国会第十次会议通过法案总数是否为51项",
+        "timestamp": "2025-12-19T21:27:37.684332"
+      },
+      {
+        "id": "con_2_1bc983e6",
+        "content": "12月11日下午，越南第十五届国会第十次会议闭幕式结束后，国会秘书长、国会办公厅主任黎光孟在新闻中心主持新闻发布会，公布会议成果。",
+        "url": "https://cn.nhandan.vn/article-post146960.html",
+        "source": "cn.nhandan.vn",
+        "credibility": "Low",
+        "quality_score": 0.249,
+        "priority": 0.0747,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "越南第十五届国会第十次会议通过法案总数是否为51项",
+        "timestamp": "2025-12-19T21:27:37.684332"
+      },
+      {
+        "id": "pro_3_3ea9f477",
+        "content": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://zh.vietnamplus.vn/article-post253483.vnp",
+        "source": "zh.vietnamplus.vn",
+        "credibility": "Low",
+        "quality_score": 0.2424,
+        "priority": 0.07271999999999999,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "越南第十五届国会第十次会议通过人工智能法及51部法律官方新闻发布会实录",
+        "timestamp": "2025-12-19T21:28:28.173587"
+      },
+      {
+        "id": "con_3_13c2519e",
+        "content": "根据越南第十五届国会第十次会议议程，11月27日，国会讨论了三项法案：《投资法（修正案）》、《厉行节约反对浪费法》以及《人工智能法》。",
+        "url": "https://cn.qdnd.vn/cid-6123/7182/-629845",
+        "source": "cn.qdnd.vn",
+        "credibility": "Low",
+        "quality_score": 0.2502,
+        "priority": 0.07505999999999999,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "越南国会第十五届第十次会议通过法案清单不含人工智能法",
+        "timestamp": "2025-12-19T21:28:55.413673"
+      },
+      {
+        "id": "con_3_00aca86f",
+        "content": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。",
+        "url": "https://cn.nhandan.vn/article-post146904.html",
+        "source": "cn.nhandan.vn",
+        "credibility": "Low",
+        "quality_score": 0.2424,
+        "priority": 0.07271999999999999,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "越南国会第十五届第十次会议通过法案清单不含人工智能法",
+        "timestamp": "2025-12-19T21:28:55.413673"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_e2fc5a7b",
+        "agent": "con",
+        "priority": 0.07397999999999999,
+        "source": "zh.vietnamplus.vn",
+        "content_preview": "越通社河内——12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "con_3_13c2519e",
+        "agent": "con",
+        "priority": 0.07505999999999999,
+        "source": "cn.qdnd.vn",
+        "content_preview": "根据越南第十五届国会第十次会议议程，11月27日，国会讨论了三项法案：《投资法（修正案）》、《厉行节约反对浪费法》以及《人工智能法》。..."
+      },
+      {
+        "id": "pro_1_3d2c8a1f",
+        "agent": "pro",
+        "priority": 0.07271999999999999,
+        "source": "cn.nhandan.vn",
+        "content_preview": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "pro_2_cc7f2df1",
+        "agent": "pro",
+        "priority": 0.07361999999999999,
+        "source": "cn.qdnd.vn",
+        "content_preview": "人民军队：12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "con_2_c578714c",
+        "agent": "con",
+        "priority": 0.27971999999999997,
+        "source": "yuenan.com",
+        "content_preview": "在会议上，审议、讨论并表决通过了51项法律、39项决议，其中包括8项规范性法律决议。这是一个非常大的立法量，占整个任期颁布的法律和规范性决议总数的 ......"
+      },
+      {
+        "id": "pro_1_1d2f1600",
+        "agent": "pro",
+        "priority": 0.07397999999999999,
+        "source": "zh.vietnamplus.vn",
+        "content_preview": "越通社河内——12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "pro_2_45480be2",
+        "agent": "pro",
+        "priority": 0.07271999999999999,
+        "source": "zh.vietnamplus.vn",
+        "content_preview": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "pro_3_3ea9f477",
+        "agent": "pro",
+        "priority": 0.07271999999999999,
+        "source": "zh.vietnamplus.vn",
+        "content_preview": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "con_1_2a01064b",
+        "agent": "con",
+        "priority": 0.07271999999999999,
+        "source": "cn.nhandan.vn",
+        "content_preview": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "con_3_00aca86f",
+        "agent": "con",
+        "priority": 0.07271999999999999,
+        "source": "cn.nhandan.vn",
+        "content_preview": "12月10日下午，国会表决通过了《知识产权法》若干条款修改补充法、《高科技法》（修订版）以及《人工智能法》。..."
+      },
+      {
+        "id": "con_2_1bc983e6",
+        "agent": "con",
+        "priority": 0.0747,
+        "source": "cn.nhandan.vn",
+        "content_preview": "12月11日下午，越南第十五届国会第十次会议闭幕式结束后，国会秘书长、国会办公厅主任黎光孟在新闻中心主持新闻发布会，公布会议成果。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_e2fc5a7b",
+      "con_3_13c2519e",
+      "pro_1_3d2c8a1f",
+      "pro_2_cc7f2df1",
+      "con_2_c578714c",
+      "pro_1_1d2f1600",
+      "pro_2_45480be2",
+      "pro_3_3ea9f477",
+      "con_1_2a01064b",
+      "con_3_00aca86f",
+      "con_2_1bc983e6"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "Claim声称越南在“最后立法会议中通过51项法案”并包含《人工智能法》。虽《人工智能法》确于2025年12月10日通过（多源证实），但所谓“51项法案”缺乏对应事实。官方报道明确指出当日仅通过3部法律，包括《人工智能法》《知识产权法》修正案和《高科技法》修订版。支持“51项”的证据来源模糊、未指明会议届次，极可能混淆整个国会任期累计立法量与单次会议成果。由于“51项法案在最后一次会议通过”是claim的必要组成部分，而该部分被高可信度直接证据证伪，故整体claim被驳斥。",
+    "key_evidence_ids": [
+      "con_1_e2fc5a7b",
+      "con_3_13c2519e",
+      "pro_1_3d2c8a1f"
+    ],
+    "pro_strength": 0.27971999999999997,
+    "con_strength": 0.07349399999999999,
+    "total_evidences": 11,
+    "accepted_evidences": 11
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Supported",
+    "correct": false
+  }
+}

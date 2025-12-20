@@ -1,0 +1,147 @@
+{
+  "claim": "支付宝可以购买彩票。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T15:08:03.819058",
+  "statistics": {
+    "total_evidences": 5,
+    "pro_evidences": 3,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 5,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_c4a6dc02",
+        "content": "电商博主解析支付宝当前能否买彩票的官方政策，拆解 2015 年互联网售彩叫停背景，提供线下合规购买渠道，揭露 “隐藏入口” 等诈骗套路，文末推荐店托易美工外包，助力电商店铺视觉优化。",
+        "url": "https://diantuoyi.com/article/18412.html",
+        "source": "diantuoyi.com",
+        "credibility": "Medium",
+        "quality_score": 0.47459999999999997,
+        "priority": 0.28475999999999996,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "支付宝官方网站最新公告支持彩票在线购买功能",
+        "timestamp": "2025-12-20T14:59:17.765825"
+      },
+      {
+        "id": "pro_2_efbe7771",
+        "content": "“附近门店定位”解决了“找店难”的问题。逛商场时突然想购彩，点开小程序就能看到周边3公里内的体彩店，距离、营业时间、用户评分全显示，还能直接跳转到导航 ...",
+        "url": "https://post.smzdm.com/p/aog5k35m",
+        "source": "post.smzdm.com",
+        "credibility": "Medium",
+        "quality_score": 0.4674,
+        "priority": 0.28043999999999997,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "支付宝体彩小程序2025年线上购彩功能官方操作指南",
+        "timestamp": "2025-12-20T15:02:04.239030"
+      },
+      {
+        "id": "pro_2_74a75207",
+        "content": "“中国体育彩票”小程序是什么软件？ · 小程序是否支持在线投注下单？ · 如何进入小程序，入口在哪？ · 进入小程序需要注册吗？ · 小程序收不到验证码怎么办？ · 一个人可以注册几个小 ...",
+        "url": "https://www.lottery.gov.cn/bzzx/tcxcx/",
+        "source": "www.lottery.gov.cn",
+        "credibility": "High",
+        "quality_score": 0.7582,
+        "priority": 0.7582,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "支付宝体彩小程序2025年线上购彩功能官方操作指南",
+        "timestamp": "2025-12-20T15:02:04.240059"
+      },
+      {
+        "id": "con_3_dbd281e8",
+        "content": "二、官方提供的线上辅助工具虽然不能直接在线购彩，但可通过以下官方平台获取购彩支持服务： 1. 中国体育彩票官方小程序- 功能：开奖直播、扫码验奖、附近门店定位、玩法规则 ...",
+        "url": "https://www.baidu.com/from=844b/ssid=b7495665726f6e6963615f6c796d7320/s?word=%E7%BD%91%E4%B8%8A%E6%80%8E%E4%B9%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%EF%BC%88Y2Y%C2%B7CC%EF%BC%89&sa=tb&ts=6366382&t_kt=0&ie=utf-8&ms=1&rsv_t=e82fa0KP6VmLgbQOlVCxy7Ryok99dHR1b0vp839%252FE5%252F6rEx9Z7WWX83YMQ&",
+        "source": "www.baidu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4728,
+        "priority": 0.28368,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "中国体育彩票官方声明支付宝小程序购彩辅助服务不支持在线投注",
+        "timestamp": "2025-12-20T15:04:46.534486"
+      },
+      {
+        "id": "con_3_f4b808e8",
+        "content": "... 小程序、社交软件平台对购彩者诱导投注、进行诈骗的违法行为，导致个人财产损失、诱发购彩沉迷等风险，严重危害公众财产安全与合法权益。为防范购彩 ...",
+        "url": "https://view.inews.qq.com/a/20250708A046JF00",
+        "source": "view.inews.qq.com",
+        "credibility": "Medium",
+        "quality_score": 0.4662,
+        "priority": 0.27971999999999997,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "中国体育彩票官方声明支付宝小程序购彩辅助服务不支持在线投注",
+        "timestamp": "2025-12-20T15:04:46.534486"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_2_74a75207",
+        "agent": "pro",
+        "priority": 0.7582,
+        "source": "www.lottery.gov.cn",
+        "content_preview": "“中国体育彩票”小程序是什么软件？ · 小程序是否支持在线投注下单？ · 如何进入小程序，入口在哪？ · 进入小程序需要注册吗？ · 小程序收不到验证码怎么办？ · 一个人可以注册几个小 ......"
+      },
+      {
+        "id": "con_3_dbd281e8",
+        "agent": "con",
+        "priority": 0.28368,
+        "source": "www.baidu.com",
+        "content_preview": "二、官方提供的线上辅助工具虽然不能直接在线购彩，但可通过以下官方平台获取购彩支持服务： 1. 中国体育彩票官方小程序- 功能：开奖直播、扫码验奖、附近门店定位、玩法规则 ......"
+      },
+      {
+        "id": "pro_1_c4a6dc02",
+        "agent": "pro",
+        "priority": 0.28475999999999996,
+        "source": "diantuoyi.com",
+        "content_preview": "电商博主解析支付宝当前能否买彩票的官方政策，拆解 2015 年互联网售彩叫停背景，提供线下合规购买渠道，揭露 “隐藏入口” 等诈骗套路，文末推荐店托易美工外包，助力电商店铺视觉优化。..."
+      },
+      {
+        "id": "pro_2_efbe7771",
+        "agent": "pro",
+        "priority": 0.28043999999999997,
+        "source": "post.smzdm.com",
+        "content_preview": "“附近门店定位”解决了“找店难”的问题。逛商场时突然想购彩，点开小程序就能看到周边3公里内的体彩店，距离、营业时间、用户评分全显示，还能直接跳转到导航 ......"
+      },
+      {
+        "id": "con_3_f4b808e8",
+        "agent": "con",
+        "priority": 0.27971999999999997,
+        "source": "view.inews.qq.com",
+        "content_preview": "... 小程序、社交软件平台对购彩者诱导投注、进行诈骗的违法行为，导致个人财产损失、诱发购彩沉迷等风险，严重危害公众财产安全与合法权益。为防范购彩 ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_2_74a75207",
+      "con_3_dbd281e8",
+      "pro_1_c4a6dc02",
+      "pro_2_efbe7771",
+      "con_3_f4b808e8"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "该claim的核心在于'支付宝能否直接购买彩票'。知识库显示，自2024年10月起国家已禁止网络彩票销售，支付宝无官方购彩入口。2025年12月的体彩官方小程序上线资料反复强调'仅提供购彩辅助服务，线下实体店为唯一合法渠道'，明确区分了'辅助工具'与'售彩平台'。支付宝虽有体彩小程序，但功能限于扫码验奖、开奖查询等辅助服务，不包含实际购彩功能。最关键的是国家政策明确规定互联网售彩违法，线下实体店是唯一合法渠道，这一决定性证据直接证伪claim的核心部分。即使支付宝可用于线下购彩支付，但claim语境明显指平台内直接购彩，因此应判定为Refuted。",
+    "key_evidence_ids": [
+      "con_3_f4b808e8"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.27971999999999997,
+    "total_evidences": 5,
+    "accepted_evidences": 5
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}
