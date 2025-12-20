@@ -110,5 +110,37 @@
     "ground_truth": "Refuted",
     "confidence": 0.9,
     "correct": true
+  },
+  {
+    "index": 14,
+    "claim": "根据2025年6月最新数据，伊朗女性识字率达98.9%，且70%的理工科大学毕业生为女性。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": true
+  },
+  {
+    "index": 15,
+    "claim": "2022年美国失业率是 50 年来最低。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": false
+  },
+  {
+    "index": 16,
+    "claim": "海平面持续缓慢上升，早于工业化时期就存在。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
+  },
+  {
+    "index": 17,
+    "claim": "印尼已将首都迁至努山塔拉。",
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "confidence": 0.7,
+    "correct": true
   }
 ]
