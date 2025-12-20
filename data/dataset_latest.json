@@ -2442,32 +2442,6 @@
     "topic": "Entertainment"
   },
   {
-    "claim": "2020年韩文版音乐剧《摇滚芭比》中，Hedwig 的 a 卡为曹政奭。",
-    "verdict": "Not Enough Evidence",
-    "error_type": "Unverifiable Claims",
-    "category": "Lack of Public Data",
-    "justification": "无法判定，曹政奭（Jo Jung-suk）确实是韩国版《Hedwig and the Angry Inch》（摇滚芭比）的代表性主演之一，多次在韩国制作中饰演 Hedwig，一些报道和资料也提到他在多季演出中担任主角。但公开可查的信息（包括韩国新闻、音乐剧数据库和汇总条目）并未给出“2020 年这一季的韩文版《Hedwig》”的完整卡司表，也没有使用“A 卡/主卡”这种中文粉圈常用的分卡术语来精确标注曹政奭在 2020 年制作中的卡位，因此无法在证据层面严格确认“2020 年韩文版中 Hedwig 的主卡就是曹政奭”，也无法排除多位主演轮流、无固定 A/B 卡的演出安排，只能判定为“无法判定”。",
-    "evidence_sources": [
-      {
-        "content": "조정석 - 위키백과（介绍曹政奭是韩国演员，早期在《헤드윅》(Hedwig) 等多部音乐剧中出演并获得认可，但未按年份区分各季的卡位结构，也未提到 2020 年版的 A/B 卡用语。）",
-        "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%A0%95%EC%84%9D",
-        "credibility": "Medium"
-      },
-      {
-        "content": "헤드윅(2019) - 더뮤지컬（韩国音乐剧杂志页面，介绍韩国版《헤드윅》相关制作与演员，包含讨论 2020 年左右版本的专文《우리가 사랑한 뮤지컬 <헤드윅>》，但页面中未提供 2020 年整季的完整卡司名单与“주연/주카(A 卡)”的正式标注。）",
-        "url": "https://www.themusical.co.kr/Musical/Detail?num=2741",
-        "credibility": "Medium"
-      },
-      {
-        "content": "헤드윅/한국 공연 - 나무위키（汇总 2005 年以来《Hedwig》在韩国的多轮演出和大量主演姓名，明确提到包括 조정석 在内的多位演员多次饰演 Hedwig，但未按 2020 年季别给出“主卡/副卡”的结构化信息。）",
-        "url": "https://namu.wiki/w/%ED%97%A4%EB%93%9C%EC%9C%85/%ED%95%9C%EA%B5%AD%20%EA%B3%B5%EC%97%B0",
-        "credibility": "Low"
-      }
-    ],
-    "correct_answer": "在现有可验证信息范围内，只能较安全地说：曹政奭是韩国音乐剧《摇滚芭比》（Hedwig and the Angry Inch）的主要主演之一，曾多次在韩国制作中饰演 Hedwig 一角；但公开资料并未明确标注“2020 年韩文版中 Hedwig 的主卡为曹政奭”。",
-    "topic": "Entertainment"
-  },
-  {
     "claim": "有 38 个国家或地区在全国范围内承认同性婚姻。",
     "verdict": "Supported",
     "error_type": null,
@@ -3148,32 +3122,6 @@
     ],
     "correct_answer": "在《帝国反击战》中，达斯·维德向卢克揭示自己是他父亲时说的原句是“No, I am your father.”。",
     "topic": "Entertainment"
-  },
-  {
-    "claim": "GPT-4模型的训练数据规模约为 1.5万亿token。",
-    "verdict": "Not Enough Evidence",
-    "error_type": "Unverifiable Claims",
-    "category": "Lack of Public Data",
-    "justification": "关于 GPT-4 的具体训练数据规模（包括精确的 token 数量），OpenAI 并未在官方文档或论文中公开披露，只是笼统提到使用了混合的公开数据、授权数据和人工整理数据，并未给出“约为 1.5 万亿 token”这样的量级数字。 目前流传的各种“GPT-4 训练数据约 X 万亿 token”的说法多来自推测、逆向估计或非官方爆料，缺乏可核实的权威来源支撑，因此既不能确认 1.5 万亿 token 是正确值，也不能严格证明它一定错误，只能判为“无法判定”。",
-    "evidence_sources": [
-      {
-        "content": "13万亿个token的GPT4，困于数据短缺（报道GPT-4训练数据为13万亿token，相当于牛津大学图书馆单词量的12.5倍）",
-        "url": "https://tele.ofweek.com/2024-04/ART-8320506-8110-30631374.html",
-        "credibility": "Medium"
-      },
-      {
-        "content": "GPT-4“终极大揭秘”：1.8万亿巨量参数、训练一次6300万美元！（详细说明GPT-4在13万亿token上训练，包括2个epoch的文本数据）",
-        "url": "https://wallstreetcn.com/articles/3692958",
-        "credibility": "High"
-      },
-      {
-        "content": "关于GPT-4的参数数量、架构、基础设施、训练数据集（确认GPT-4训练数据集约为13万亿tokens，非独特token数而是包括epochs的总使用量）",
-        "url": "https://cloud.tencent.com/developer/news/1128069",
-        "credibility": "Medium"
-      }
-    ],
-    "correct_answer": "OpenAI 并未公开 GPT-4 的精确训练数据规模（包括总 token 数），目前“1.5 万亿 token”之类的数字都属于外界推测，而非官方确认。",
-    "topic": "Science"
   },
   {
     "claim": "AlphaFold通过强化学习预测蛋白质结构。",
@@ -4298,8 +4246,8 @@
   {
     "claim": "\"If you go back to World War II, if you go back to World War I, if you go back to every major conflict in human history, they all end with some kind of negotiation.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "In World War II, both Germany and Japan surrendered unconditionally. As the World War I armistice was being negotiated, Germany won small concessions, but the allies generally imposed their will, an approach that strengthened with the Treaty of Versailles. Other unconditional surrenders include the Third Punic War, in which Rome conquered Carthage.",
     "evidence_sources": [
       {
@@ -4350,8 +4298,8 @@
   {
     "claim": "\"We had the biggest tax cut for families that this country has ever seen.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "When factoring in that President Donald Trump's One Big Beautiful Bill extends 2017 tax cuts that otherwise would have expired — which tax experts say is a plausible way of characterizing it — then the tax savings from Trump's 2025 law rank third on the list of biggest tax cut laws since 1980. The bottom-line impact on Americans' tax liabilities beginning in 2026 may not be dramatic because people are already paying the lower tax rates that the 2025 law saved from expiration. The 2025 law adds some new tax breaks, such as for income from tips and overtime and for Americans 65 and older.",
     "evidence_sources": [
       {
@@ -4376,8 +4324,8 @@
   {
     "claim": "TikTok videos show police clearing out homeless encampments in Washington, D.C.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Artificial intelligence generated TikTok videos that appear to show police in Washington, D.C., clearing out homeless encampments. The videos included watermarks from AI-generators and visual inconsistencies such as disappearing people. Law enforcement officers in Washington, D.C., have been clearing out homeless encampments in the district following President Donald Trump's takeover.",
     "evidence_sources": [
       {
@@ -4454,8 +4402,8 @@
   {
     "claim": "Texas Republicans held one hearing on flood response but eight hearings on redistricting",
     "verdict": "Refuted",
-  "error_type": "Data Errors",
-  "category": "Statistical Data Errors",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
     "justification": "Joint Texas House and Senate committees held three hearings about the July 4 floods that killed at least 135 people. Two were in late July and one was the same day as Democratic National Committee Chairman Ken Martin's comments. The state House and Senate held eight hearings on redistricting between July 24 and Aug. 1. As of Aug. 6, Texas lawmakers were meeting in a special session that included legislation related to the flooding and redistricting. Democrats fled the state to avoid giving Republicans a quorum.",
     "evidence_sources": [
       {
@@ -4506,8 +4454,8 @@
   {
     "claim": "\"We gave $60 million two weeks ago\" for food aid to Gaza.",
     "verdict": "Refuted",
-  "error_type": "Data Errors",
-  "category": "Statistical Data Errors",
+    "error_type": "Data Errors",
+    "category": "Statistical Data Errors",
     "justification": "President Donald Trump did not specify which group or agency $60 million was sent to in Gaza. The White House and the U.S. State Department did not respond to requests for more information. The State Department approved a $30 million grant in late June to a U.S.- and Israeli-backed Gaza aid initiative. Department officials told reporters that as of July 26, the funds had not been disbursed.",
     "evidence_sources": [
       {
@@ -4532,8 +4480,8 @@
   {
     "claim": "Suspect in July 28 New York City shooting \"was shouting Free Palestine and wearing a Keffiyeh.\"",
     "verdict": "Refuted",
-  "error_type": "Factual Errors",
-  "category": "Public Fact Errors",
+    "error_type": "Factual Errors",
+    "category": "Public Fact Errors",
     "justification": "Police said Shane Devon Tamura, 27, opened fire inside a Midtown Manhattan skyscraper July 28, killing four people and injuring one, before taking his own life. No publicly available photo or video evidence shows Tamura wore a keffiyeh and shouted \"free Palestine\" at the scene. A photo shows Tamura walking into the building with his head uncovered. We also found no police or news reports claiming he shouted \"free Palestine\" during the shooting.",
     "evidence_sources": [
       {
@@ -4610,8 +4558,8 @@
   {
     "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "PolitiFact found three reports that showed Florida last or second-to-last nationally on mental health care — one from 2025 and two based on data that is at least a decade old. Other rankings put it in a slightly better light. Some analyses show that Florida has the nation's highest homeowner's insurance costs, while others show the state in third- or ninth-place. Florida rent increases were highest nationally from 2020 to early 2023, one analysis showed, but a more recent report ranked its 2024 to mid-2025 rent increases 15th highest. FBI reports show that Florida ranked second behind California in raw numbers of fraud complaints filed by people over 60 as of 2024. Another report ranked Florida first per capita in 2024 complaints filed by all age groups.",
     "evidence_sources": [
       {
@@ -4663,7 +4611,7 @@
     "claim": "El sheriff del condado Kerr, Texas dijo, \"que se debe solicitar la residencia permanente para el equipo de rescate mexicano que rescató a su familia\".",
     "verdict": "Refuted",
     "error_type": "Factual Errors",
-  "category": "Misattribution",
+    "category": "Misattribution",
     "justification": "No hay informes de noticias que digan que el sheriff del condado Kerr, Larry Leitha, dijo que se debe solicitar la residencia permanente para un equipo mexicano que rescató a su familia durante las inundaciones del 4 de julio en Texas. PolitiFact no encontró que Leitha dijera eso cuando vimos varias conferencias de prensa sobre los esfuerzos de recuperación de las inundaciones en el condado Kerr, Texas.",
     "evidence_sources": [
       {
@@ -4678,8 +4626,8 @@
   {
     "claim": "There is \"zero impact\" from Alligator Alcatraz on the Florida Everglades.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "Florida Gov. Ron DeSantis provided no materials explaining how he concluded Alligator Alcatraz has \"zero impact.\" Environmental groups filed a lawsuit for failing to conduct an environmental assessment. Environmentalists, environmental lawyers and Florida professors cite increased human activity in the region as an environmental stressor. Potential effects include increased light and air pollution, habitat degradation for endangered species such as the Florida panther, and waste spills. The concrete airstrip serving as the detention facility's base was abandoned after an environmental report concluded that turning the area into a massive jetport would \"inexorably destroy the south Florida ecosystem and thus the Everglades National Park.\"",
     "evidence_sources": [
       {
@@ -4730,8 +4678,8 @@
   {
     "claim": "President Donald Trump's tax law has \"tax breaks for billionaires, permanent; tax breaks for everybody else, expire.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "Some of the law's provisions benefitting taxpayers of ordinary means — including tax cuts for tipped and overtime income — are set to expire in 2028. Multimillionaires will benefit from a permanent increase in the size of estates protected from the estate tax. And wealthier Americans gain disproportionately from the bill's provisions. But several of the bill's other key elements are permanent and affect people of all income levels, including its extension of the 2017 tax cuts.",
     "evidence_sources": [
       {
@@ -4782,8 +4730,8 @@
   {
     "claim": "The One Big Beautiful Bill will deliver the promise of \"no tax on Social Security.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "As a 2024 candidate, Donald Trump promised to end the taxation of Social Security. Both the House and Senate versions of his \"Big Beautiful Bill\" would cut taxes for many Social Security beneficiaries, but they would not eliminate Social Security taxation altogether. A representative from the Joint Committee on Taxation, the bipartisan body of Congress that analyzes proposed tax legislation, said 24 million Americans would still pay some amount of tax on their Social Security benefits.",
     "evidence_sources": [
       {
@@ -4860,8 +4808,8 @@
   {
     "claim": "\"A lot of times, health care comes with a job.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "In the context of policy discussions regarding proposed Medicaid cuts, Medicaid work requirements, and other heatlh coverage issues, Sen. John Thune, R-S.D., pointed out the link between health care and employment. Yes, most Americans have health insurance through their own workplace or someone else's job. But not all employers provide health insurance or offer plans to all their workers. When they do, cost and quality vary widely, making Thune's statement an oversimplification.",
     "evidence_sources": [
       {
@@ -4886,8 +4834,8 @@
   {
     "claim": "\"The tow truck drivers in Los Angeles are quickly towing ICE vehicles improperly parked!\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Rumor / Unverified Reports",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
     "justification": "Tow truck drivers are not targeting U.S. Immigration and Customs Enforcement vehicles. The claim originated from a satire site. In California, towing companies are not allowed to act on their own accord. Law enforcement or traffic enforcement officers must authorize a tow.",
     "evidence_sources": [
       {
@@ -4912,8 +4860,8 @@
   {
     "claim": "New York City mayoral candidate Zohran Mamdani is a communist.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Concept Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
     "justification": "New York City mayoral candidate Zohran Mamdani's platform proposes free buses and day care, rent control and city-owned grocery stores to make city living more affordable. Mamdani's platform is not akin to communism, a system of government which calls for government takeover of private property and control of industry. Mamdani describes himself as a democratic socialist, which in the U.S. generally refers to generous social insurance programs such as heavily subsidized child care and high tax rates to pay for education and health care.",
     "evidence_sources": [
       {
@@ -4990,8 +4938,8 @@
   {
     "claim": "Companies called \"T-Mellon Events\" and \"Fight Fite Fight LLC\" are offering to pay \"seat fillers\" in Washington, D.C, on June 14.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "White House Deputy Press Secretary Anna Kelly called the Craigslist ad \"fake.\" We find no evidence the companies Fight Fite Fight LLC and T-Mellon Events are legitimate. The ad, still posted as of June 13, contained references and phrasing that some read as satirical.",
     "evidence_sources": [
       {
@@ -5016,8 +4964,8 @@
   {
     "claim": "Craigslist ad was \"recruiting people for LA 'protests.'\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This Craigslist ad was posted June 5, a day before the Los Angeles protests started. It was created for an online prank show called \"Goofcon1.\" The show's host, Joey LaFleur, told The Associated Press the ad was related to the protests.",
     "evidence_sources": [
       {
@@ -5094,8 +5042,8 @@
   {
     "claim": "The state budget contains the largest middle class tax cut in 70 years.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "Personal income tax rates for the middle class in New York state have fallen by greater amounts in other years. Hochul has repeated this claim, but her staff told PolitiFact that she meant to say the rate would be the lowest in 70 years. Experts said comparing tax rates over decades is not useful because of changes over time in tax brackets, the economy, and other factors.",
     "evidence_sources": [
       {
@@ -5146,8 +5094,8 @@
   {
     "claim": "Rep. LaMonica McIver, D-N.J., started singing during a May 20 CNN interview.",
     "verdict": "Refuted",
- "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Rep. LaMonica McIver, D-NJ., did not sing during a CNN interview. A video circulating on X is altered.",
     "evidence_sources": [
       {
@@ -5172,8 +5120,8 @@
   {
     "claim": "In the House bill, \"we're not changing Medicaid,\" only cutting \"waste, fraud and abuse.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "The legislation includes some provisions that can improve the detection of beneficiaries who aren't eligible for Medicaid coverage. However, the bill also cuts reimbursements for states that cover people in the U.S. illegally, mandates that recipients work 80 hours a month, and bans payments to nonprofits that provide abortions. These changes align with Republicans' ideological views. Other changes aim to cut expenses, including imposing copays and shortening the window for retroactive coverage when someone applies to the program.",
     "evidence_sources": [
       {
@@ -5266,8 +5214,8 @@
   {
     "claim": "Under a new executive order, prescription drug prices will be reduced \"almost immediately.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Temporal Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Temporal Confusion",
     "justification": "According to the timeline laid out in President Donald Trump's May 12 executive order, prescription drug price reductions would not happen \"almost immediately.\" The order specifies a 30-day period to develop pricing targets for drugmakers, followed by an unspecified amount of time to determine if companies achieve the targets. If they don't meet the price targets, a formal rulemaking process would begin, requiring more time. If the savings are to be passed on to Americans outside federal health insurance programs like Medicare, Congress likely would have to pass a law to enact any price reductions, which would also take time.",
     "evidence_sources": [
       {
@@ -5422,8 +5370,8 @@
   {
     "claim": "Kilmar Armando Abrego Garcia \"had 'MS-13' on his knuckles tattooed. … He had 'MS' as clear as you can be. Not 'interpreted.'\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "The figures M, S, 1 and 3 and words below the symbols don't appear in other photographs of Kilmar Armando Abrego Garcia's hand, including one shared by the Salvadoran government. Experts in MS-13 and other gangs say the pictorial tattoos shown are not typical designs for MS-13 or other gangs.",
     "evidence_sources": [
       {
@@ -5578,8 +5526,8 @@
   {
     "claim": "Says Kevin Hassett, National Economic Council director, said on April 7, \"Trump is considering a 90-day pause in tariffs for all countries except China.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "X accounts significantly exaggerated a noncommittal response from National Economic Council Director Kevin Hassett about the possibility of a 90-day tariff pause. CNBC anchors repeated the unconfirmed information and later aired a correction. The White House X account called the speculation \"fake news.\" Searching Google and the Nexis news database, we found no credible reports that the Trump administration ever publicly considered a 90-day tariff pause.",
     "evidence_sources": [
       {
@@ -5604,8 +5552,8 @@
   {
     "claim": "\"White hats to investigate Wisconsin Supreme Court election.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This claim originated on a site that publishes fabricated and sensational stories.",
     "evidence_sources": [
       {
@@ -5630,8 +5578,8 @@
   {
     "claim": "Says Elon Musk wrote on X, \"The DOGE team has discovered tens of millions of dollars spent on golf by a single government official.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This X post was fabricated.",
     "evidence_sources": [
       {
@@ -5656,8 +5604,8 @@
   {
     "claim": "Photo shows a missing police officer in \"extreme danger.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This police officer is \"alive and well,\" her police department said in a post. Her photo is being misused in online scams.",
     "evidence_sources": [
       {
@@ -5735,7 +5683,7 @@
     "claim": "\"Man gets plastic surgery and name change to date his ex-girlfriend after she obtains a restraining order.\"",
     "verdict": "Refuted",
     "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "category": "Fake or Fabricated Sources",
     "justification": "This story is fabricated and originated on a self-described satire site.",
     "evidence_sources": [
       {
@@ -5786,8 +5734,8 @@
   {
     "claim": "\"We have automobile plants being built at levels we've never seen … and they're going up fast.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "The White House cited announcements of major U.S. investments by Hyundai, Honda and Stellantis since President Donald Trump took office Jan. 20. With one exception, these were reallocations of investments at existing facilities, not \"plants being built.\" Building a plant, or even increasing production at an existing plant, can take years. Automotive manufacturing construction increased substantially under Trump's predecessor, Joe Biden.",
     "evidence_sources": [
       {
@@ -5838,8 +5786,8 @@
   {
     "claim": "Imagen muestra a \"uno de los manifestantes que participó en el vandalismo contra un concesionario de Tesla. La deportación a El Salvador fue consecuencia de sus acciones\".",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "La imagen en la publicación en Facebook es de Anthony Zingale. En 2016, él fue arrestado y acusado de asalto sexual en Wisconsin. PolitiFact no encontró evidencia de que Zingale fue arrestado recientemente por vandalizar un concesionario Tesla. Ni que haya sido deportado.",
     "evidence_sources": [
       {
@@ -5854,8 +5802,8 @@
   {
     "claim": "\"Nobody was texting war plans\" in the Trump administration Signal group text about bombing Yemen.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Concept Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
     "justification": "Messages shared on the Signal app did not include the most extensive type of plans the military produces, but included a detailed timeline and operational information about a Yemen bombing. Military experts said that the texts included sensitive operational details about military action, which is akin to a plan. Trump administration officials say that a lack of details, such as names, locations and methods, means it was not a \"war plan.\" Multiple experts called this disingenuous.",
     "evidence_sources": [
       {
@@ -5906,8 +5854,8 @@
   {
     "claim": "\"Eliminate school choice\" is on Susan Crawford's agenda.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "Schimel's campaign pointed out that Crawford is endorsed by the state public school teachers' union and litigated a case that secured then-education secretary Tony Evers' power over public education. But litigating on behalf of public education is not proof that Crawford would seek to eliminate school choice across Wisconsin if elected. Searches of Crawford's public statements and work in private practice and as a circuit court judge did not unearth anything specifically related to school choice.",
     "evidence_sources": [
       {
@@ -5958,8 +5906,8 @@
   {
     "claim": "Photo shows first lady Melania Trump crying.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "The image of first lady Melania Trump crying is artificially generated. Facebook posts linked to a story about her mother's death, but her mother died more than a year ago.",
     "evidence_sources": [
       {
@@ -6036,8 +5984,8 @@
   {
     "claim": "\"I am not making this up: Republicans have introduced legislation … to increase your bank fees.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "A Republican-backed joint resolution would overturn a regulation set to take effect Oct. 1 that would cap overdraft fees at large banks. If the regulation goes into effect, overdraft fees would be capped at lower levels than what some banks typically charge now. Conversely, if the Republican legislation passes, overdraft fees at some banks would not decrease as they would have if the regulation took effect. The Republican proposal would not increase current overdraft fees.",
     "evidence_sources": [
       {
@@ -6062,8 +6010,8 @@
   {
     "claim": "\"The single biggest driver of our national debt since 2001 has been Republican tax cuts.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "A 2024 Committee for a Responsible Federal Budget analysis found that tax cuts were the biggest of four types of legislation that have added to the federal debt since 2001. The analysis also showed that two other types of legislation trailed close behind tax cuts in fiscal impact: large stimulus bills and annual spending increases. The analysis concluded that several of the five tax cut bills since 2001 also had buy-in from congressional Democrats who voted for them or a Democratic president who signed them.",
     "evidence_sources": [
       {
@@ -6114,8 +6062,8 @@
   {
     "claim": "\"An ICE minivan was reportedly set on fire in Philadelphia.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "The fire marshal determined the fire was an accident and there was no indication of foul play. An ICE spokesperson told The Associated Press that the van \"experienced mechanical issues\" before the accident.",
     "evidence_sources": [
       {
@@ -6140,8 +6088,8 @@
   {
     "claim": "Some celebrities wearing T-shirts with graphics of a middle finger and the word \"Kanye.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This video was created using artificial intelligence. The celebrities featured didn't actually appear in it.",
     "evidence_sources": [
       {
@@ -6162,32 +6110,6 @@
     ],
     "correct_answer": "FALSE. This video was created using artificial intelligence. The celebrities featured didn't actually appear in it.",
     "topic": "Politics"
-  },
-  {
-    "claim": "北京在 2024 年 6 月正式将共享单车骑行纳入公共交通补贴体系。",
-    "verdict": "Not Enough Evidence",
-    "error_type": "Unverifiable Claims",
-    "category": "Lack of Public Data",
-    "justification": "无法判定，检索到的与北京共享单车和出行补贴相关的信息，多集中在电动自行车以旧换新补贴、公交和新能源公交运营补贴，以及全国性层面“将共享出行纳入公共出行体系”的趋势性讨论，但没有权威文件或北京市政府公开政策明确说明“在 2024 年 6 月，北京正式将共享单车骑行纳入公共交通补贴体系”。 现有文献和报道更多是从研究或政策建议角度讨论“共享单车与公共交通一体化”“通过补贴激励共享出行”等概念性内容，而非具体到“2024 年 6 月、北京本地、正式纳入公共交通补贴体系”的时间与制度落地细节，缺乏可以直接核实该精确表述的官方依据。",
-    "evidence_sources": [
-      {
-        "content": "New modes of urban public transport in China（报告指出，中国一些城市在探索将共享单车、电动自行车等新模式纳入公共交通体系和相关补贴安排，但未点名北京在 2024 年 6 月已正式实施。）",
-        "url": "https://changing-transport.org/wp-content/uploads/2025_New-modes-of-urban-public-transport-in-China_EN.pdf",
-        "credibility": "Medium"
-      },
-      {
-        "content": "北京市2025年电动自行车以旧换新补贴实施细则（北京市商务局文件，明确的是电动自行车以旧换新的购车补贴政策，与“共享单车骑行纳入公共交通补贴体系”并非同一制度。）",
-        "url": "https://sw.beijing.gov.cn/zwxx/2024zcwj/202501/t20250127_4001024.html",
-        "credibility": "High"
-      },
-      {
-        "content": "共享出行将是下一次公共交通革命吗？（讨论通过整合、补贴共享单车等方式重塑公共出行体系，属于全球趋势和案例分析，未提供“北京 2024 年 6 月正式纳入补贴体系”的具体政策证据。）",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/12265934.2024.2312284",
-        "credibility": "Medium"
-      }
-    ],
-    "correct_answer": "目前没有足够公开证据能够确认“北京在 2024 年 6 月已经正式将共享单车骑行纳入公共交通补贴体系”。",
-    "topic": "Policy"
   },
   {
     "claim": "工信部与市场监管总局 2024 年联合发布《电动自行车电池安全管理通知》，要求销售企业登记电池唯一编码并上传国家平台。",
@@ -7544,8 +7466,8 @@
   {
     "claim": "\"I take responsibility for putting people in jail\" in Minnesota fraud scandal.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "The work of federal investigators and prosecutors — not state officials — led to dozens of convictions in the most prominent Minnesota fraud scandal involving the nonprofit Feeding Our Future. Reporting by media organizations in the state showed that Minnesota officials provided little or no evidence to federal investigators, who had to build a case from scratch, and that the state could have done more to aid the investigation.",
     "evidence_sources": [
       {
@@ -7570,8 +7492,8 @@
   {
     "claim": "\"I have just gotten the highest poll numbers of my 'political career.'\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Temporal Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Temporal Confusion",
     "justification": "Eight widely followed poll aggregators show that President Donald Trump notched his strongest approval ratings, and his smallest disapproval ratings, in January at the beginning of his second term. Since then, his approval ratings have gone downhill. Trump's current approval and disapproval ratings are the worst of his second term and within a few percentage points of his first term's weakest showing.",
     "evidence_sources": [
       {
@@ -7643,8 +7565,8 @@
   {
     "claim": "Housing is expensive \"because we flooded the country with 30 million illegal immigrants\" and because of a housing shortage.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "Experts agree that increased immigration leads to higher housing demand, but evidence doesn't support the idea that immigrants in the United States illegally are a primary driver of high housing costs. The main factor affecting housing affordability is a home shortage caused by years of underbuilding and restrictive zoning. An interest rate surge exacerbated the problem. The number of immigrants illegally in the U.S. is less than half the number Vice President JD Vance cited. Estimates range from 12 million to 14 million people as of 2023, the latest data available.",
     "evidence_sources": [
       {
@@ -7669,8 +7591,8 @@
   {
     "claim": "A '60 Minutes' clip shows Kamala Harris lying while cameras roll. \"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "The unedited '\"60 Minutes\" interview with former Vice President Kamala Harris didn't show correspondent Bill Whitaker confronting Harris for lying during the interview when the cameras were off. It showed a crew member gathering extra over-the-shoulder footage and room tone for the broadcast post-interview. A Feb. 5 \"60 minutes\" statement says the broadcast was \"not doctored or deceitful\" but \"journalists regularly edit interviews — for time, space or clarity.\"",
     "evidence_sources": [
       {
@@ -7695,8 +7617,8 @@
   {
     "claim": "On support for U.S. Agency for International Development",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Temporal Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Temporal Confusion",
     "justification": "As a U.S. senator, Marco Rubio supported foreign aid and praised the U.S. Agency for International Development, aka USAID. Since he became secretary of state and USAID's acting director, Rubio has criticized the agency and described it as fraught with \"rank insubordination\" and a hindrance to the president's foreign policy efforts. His record of public comments shows some measured thoughts about spending choices and transparency. But his recent claims are a notable departure.",
     "evidence_sources": [
       {
@@ -7747,8 +7669,8 @@
   {
     "claim": "Photo shows \"a dangerous serial killer\" named Jaden Williams in Monroe, Louisiana.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This is a hoax. Police in Monroe, Louisiana, said the reports of a serial killer on the loose are not true. The photo included in the post did not show a man named Jaden Williams. It showed Shannon Atkins, who was arrested Jan. 24 in West Palm Beach, Florida, after making violent threats on social media against President Donald Trump. The Better Business Bureau warns people against these kinds of bait-and-switch scams. The social media posts initially warn of criminal activity in an area, but once shared, scammers change the posts to deceptive ads for rental properties, for example.",
     "evidence_sources": [
       {
@@ -7773,8 +7695,8 @@
   {
     "claim": "\"Donald Trump is reportedly furious with Elon Musk for convincing him to push out the head of the FAA because Musk was mad SpaceX got fined last September by the FAA for license violations.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "The claim originated as satire.",
     "evidence_sources": [
       {
@@ -7799,8 +7721,8 @@
   {
     "claim": "Imagen muestra a oficiales de inmigración arrestando a un hombre vestido con una camisa de \"Latinos for Trump 2024\".",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Esta foto fue alterada; es de una redada de inmigración del 2018. La imagen original no muestra a alguien con una camisa de \"Latinos for Trump 20224\".",
     "evidence_sources": [
       {
@@ -7815,8 +7737,8 @@
   {
     "claim": "\"I changed the Obama policy (on hiring air traffic controllers) ... And then Biden came in and he changed it.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Temporal Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Temporal Confusion",
     "justification": "President Barack Obama in 2010 ordered federal agencies to prioritize hiring more people with disabilities. The Federal Aviation Administration incorporated such efforts into its diversity hiring program. These efforts remained in place throughout President Donald Trump's first administration. The FAA under Trump expanded its effort to hire people with disabilities, announcing in 2019 a program to hire 20 people with disabilities to be air traffic controllers. Trump in 2018 eliminated an Obama-era assessment used in hiring air traffic controllers that scored applicants based on their work and education history and personality traits. Biden did not revive it.",
     "evidence_sources": [
       {
@@ -7893,8 +7815,8 @@
   {
     "claim": "Says Eric Trump post on X, \"Any and all who dare to defy the American Golden Age, heed this warning: You WILL lose. Tow the line, or we WILL run you down!\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This purported X post was fabricated.",
     "evidence_sources": [
       {
@@ -7945,8 +7867,8 @@
   {
     "claim": "\"The removal of birthright citizenship only applies to the children of those that are here ILLEGALLY.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "President Donald Trump issued a Jan. 20 executive order that aims to end the granting of U.S. birthright citizenship. A federal judge on Jan. 23 temporarily blocked it from taking effect. Trump's order said the government would no longer recognize U.S. citizenship if a person was born in the U.S. \"when that person's mother's presence in the United States was lawful but temporary, and the person's father was not a United States citizen or lawful permanent resident at the time of said person's birth.\" Immigration experts have repeatedly said the executive order would deny citizenship to the children of some people who are in the U.S. legally.",
     "evidence_sources": [
       {
@@ -7971,8 +7893,8 @@
   {
     "claim": "Video muestra a inmigrantes en México que \"se dirigen al punto de control en el Paso Texas con el objetivo de entrar a la fuerza hacia los Estados Unidos debido a que aplicación CBP One quedó fuera de servicio\".",
     "verdict": "Refuted",
-  "error_type": "Factual Errors",
-  "category": "Event Misidentification",
+    "error_type": "Factual Errors",
+    "category": "Event Misidentification",
     "justification": "Este video de migrantes es de 2023, cuando fallos en la aplicación CBP One provocaron que cientos de migrantes intentaran cruzar la frontera entre Ciudad Juárez, México y El Paso, Texas.",
     "evidence_sources": [
       {
@@ -8013,8 +7935,8 @@
   {
     "claim": "There exists a video shows Robert F. Kennedy Jr. promoting an alternative diabetes treatment.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This video was altered.",
     "evidence_sources": [
       {
@@ -8039,8 +7961,8 @@
   {
     "claim": "\"Llego la ayuda Mexicana a California\" para combatir los incendios.",
     "verdict": "Refuted",
-  "error_type": "Factual Errors",
-  "category": "Event Misidentification",
+    "error_type": "Factual Errors",
+    "category": "Event Misidentification",
     "justification": "El video es de antes de que México mandara bomberos a California para combatir los incendios. Además, los bomberos mexicanos llegaron en avión, no en helicóptero.",
     "evidence_sources": [
       {
@@ -8055,8 +7977,8 @@
   {
     "claim": "Imágenes muestran animales heridos en los incendios de Los Ángeles.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Las imágenes tienen una marca de agua que dicen que son generadas con inteligencia artificial. Expertos en IA nos dijeron que se puede notar que las imágenes son falsas debido a que parecen casi perfectas y algunos de los animales tienen extremidades extra.",
     "evidence_sources": [
       {
@@ -8071,8 +7993,8 @@
   {
     "claim": "Buncombe County \"is still demanding property taxes on homes destroyed by Hurricane Helene based on pre-Helene assessments that no longer apply.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Scope Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Scope Confusion",
     "justification": "Counties affected by Helene are collecting property taxes as they normally do. Property owners are being taxed on their property's value as of January 2024, before Helene hit North Carolina. State law prohibits counties from waiving or altering the property tax payment requirements, even for properties affected by natural disasters.",
     "evidence_sources": [
       {
@@ -8124,7 +8046,7 @@
     "claim": "\"Bomberos que combaten los incendios en Los Ángeles sostienen imagen de Nuestra Madre Santísima\".",
     "verdict": "Refuted",
     "error_type": "Factual Errors",
-  "category": "Event Misidentification",
+    "category": "Event Misidentification",
     "justification": "Un oficial de información pública del Departamento de Silvicultura y Protección contra incendios de California nos dijo que esa foto no parece ser de los recientes incendios en Los Ángeles. Un tabloide de Serbia publicó un artículo en julio de 2023 diciendo que los bomberos sacaron la imagen de la virgen de un incendio en Ruma, Serbia.",
     "evidence_sources": [
       {
@@ -8165,8 +8087,8 @@
   {
     "claim": "\"They still haven't cracked\" Thomas Matthew Crooks' phone.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Temporal Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Temporal Confusion",
     "justification": "The FBI said its specialists had accessed Thomas Matthew Crooks' cellphone two days after he tried to assassinate President-elect Donald Trump at a Butler, Pennsylvania, campaign rally. Investigators unlocked other electronic devices, revealing searches of political leaders, including President Joe Biden and Trump, and of mass shootings.",
     "evidence_sources": [
       {
@@ -8191,8 +8113,8 @@
   {
     "claim": "\"BREAKING: A second attack in New Orleans has been uncovered, police are searching.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Rumor / Unverified Reports",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
     "justification": "On Jan. 1, a man drove a pickup truck into a crowd on a busy street in New Orleans' French Quarter, killing 14 people. We found no credible information to substantiate a Facebook post's claim about a subsequent \"breaking\" attack in New Orleans. Investigators said Shamsud-Din Jabbar, a U.S. Army veteran and American citizen from Texas, acted alone.",
     "evidence_sources": [
       {
@@ -8217,8 +8139,8 @@
   {
     "claim": "\"En Shanghai, se incendió ayer una bodega de la firma Temu\".",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Esta foto es falsa. Una búsqueda inversa de imágenes muestra que fue creada utilizando Grok, un chatbot de inteligencia artificial generativa creado por xAI, la compañía de Elon Musk, propietario de X. No encontramos informes de noticias creíbles sobre un incendio reciente en un almacén de Temu en Shanghái.",
     "evidence_sources": [
       {
@@ -8233,8 +8155,8 @@
   {
     "claim": "\"Ella es Amelia Carter un hombre le prendió fuego mientras dormía en el tren de Nueva York\".",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Las autoridades de Nueva York identificaron a la víctima como Debrina Kawam, una mujer de 57 años de Nueva Jersey. Un experto le dijo a PolitiFact que la imagen de \"Amelia Carter\" compartida en redes sociales mostraba señales de haber sido generada por un modelo de aprendizaje profundo diseñado para crear imágenes realistas. La imagen y el nombre falso se usaron para crear una criptomoneda en forma de meme.",
     "evidence_sources": [
       {
@@ -8249,8 +8171,8 @@
   {
     "claim": "Photo shows a large Temu warehouse in China \"went up in flames.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "This photo is fake. A reverse-image search shows that it was made using Grok, a generative artificial intelligence chatbot created by Elon Musk's company xAI. We also found no credible news reports that there was a recent fire at a Temu warehouse in China.",
     "evidence_sources": [
       {
@@ -8275,8 +8197,8 @@
   {
     "claim": "\"The subway burning victim's name was Amelia Carter.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "New York authorities identified the victim as Debrina Kawam, a 57-year-old New Jersey woman. An expert told PolitiFact the image of \"Amelia Carter\" showed signs of having been generated by a deep learning model that creates realistic images. The image and fake name were used to create a meme cryptocurrency.",
     "evidence_sources": [
       {
@@ -8327,8 +8249,8 @@
   {
     "claim": "The NFL punished three referees in \"the game between the Atlanta Falcons and the Minnesota Vikings.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Rumor / Unverified Reports",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
     "justification": "This claim is unfounded.",
     "evidence_sources": [
       {
@@ -8353,8 +8275,8 @@
   {
     "claim": "New Jersey drones are searching for missing radioactive material.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Rumor / Unverified Reports",
+    "error_type": "Evidence Errors",
+    "category": "Rumor / Unverified Reports",
     "justification": "The New Jersey Department of Environmental Protection reported a piece of equipment used in medical imaging scanners that contained a small amount of radioactive material had been shipped for disposal and lost in transit Dec. 2. The missing item was found Dec. 10 at the FedEx facility where it was misplaced, a department spokesperson said. Mysterious drone sightings over New Jersey were reported as early as Nov. 18.",
     "evidence_sources": [
       {
@@ -8405,8 +8327,8 @@
   {
     "claim": "A video shows Mitch McConnell appearing in a press conference with a bandage around his head.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "The video has been edited from a July 26, 2023, press conference during which Senate Republican Leader Mitch McConnell suddenly stopped speaking while delivering remarks. McConnell was not wearing a head bandage during that conference. McConnell sustained minor injury to his face and hand following a Dec. 10 fall at the U.S. Capitol, his office said. He was photographed wearing a Band-Aid on his cheek and a brace on his hand.",
     "evidence_sources": [
       {
@@ -8468,8 +8390,8 @@
   {
     "claim": "Actor Kevin Costner and Dr. Mehmet Oz discuss treatment for chronic lung diseases.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "The video shows actor Kevin Costner and Dr. Mehmet Oz discuss treatment for chronic lung diseases was altered.",
     "evidence_sources": [
       {
@@ -8546,8 +8468,8 @@
   {
     "claim": "\"Chick fil-A's new policies have people thinking (of a) boycott.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Missing Evidence Chain",
+    "error_type": "Evidence Errors",
+    "category": "Missing Evidence Chain",
     "justification": "There is no evidence Chick-fil-A has enacted any recent policies that have sparked calls for boycotts. A Facebook post making the claim links to a two-paragraph blog post that mentions no policy or boycott.",
     "evidence_sources": [
       {
@@ -8572,8 +8494,8 @@
   {
     "claim": "Rep. Marjorie Taylor Greene said \"if every member of Congress had to resign for doing what Matt Gaetz has been accused of, Democrats would have a supermajority.'\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "A comment attributed to Rep. Marjorie Taylor Greene, R-Ga., about Matt Gaetz and other members of Congress originated from a satirical X account.",
     "evidence_sources": [
       {
@@ -8598,8 +8520,8 @@
   {
     "claim": "Una mujer posó junto a su hija con un cartel que dice, \"Quiero que mi hija tenga el derecho a abortar que yo no tuve\".",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "La foto fue manipulada. La foto original fue publicada en marzo de 2023 y muestra que el cartel de la mujer decía: \"Soy mamá de la niña que jamás vas a tocar\".",
     "evidence_sources": [
       {
@@ -8650,8 +8572,8 @@
   {
     "claim": "The Associated Press misspelled Mississippi in a headline about the state's literacy program.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Records from the Nexis news database show that The Associated Press never published the headline. The news organization posted a related story in 2005 with a different headline that had no spelling errors. An AP spokesperson confirmed the news organization never published the misspelled headline. The earliest version of the misspelled headline we could find appeared on YouTube in 2010, five years after the story was published.",
     "evidence_sources": [
       {
@@ -8754,8 +8676,8 @@
   {
     "claim": "A photo shows Keanu Reeves hawking T-shirts with political messages.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "These images were altered. The original photo shows actor Keanu Reeves in November 2017, and he was not holding a shirt. ​",
     "evidence_sources": [
       {
@@ -8780,8 +8702,8 @@
   {
     "claim": "Green Party presidential nominee Jill Stein cost Democratic nominee Kamala Harris an election win in Wisconsin.",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "Even if the votes that went to Green Party presidential nominee Jill Stein in Wisconsin would have gone to Democratic presidential nominee and Vice President Kamala Harris, Harris still would have fallen short of the votes cast for Republican presidential nominee — and now president-elect — Donald Trump.",
     "evidence_sources": [
       {
@@ -8832,8 +8754,8 @@
   {
     "claim": "\"El Pentágono falló en enviar las boletas para el voto en ausencia al personal militar activo\".",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Concept Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
     "justification": "El Departamento de Defensa no envía votos en ausencia a los miembros del servicio militar activo en el extranjero. Los miembros del servicio y sus familias deben inscribirse en sus estados de origen, que son los responsables de enviar los votos en ausencia. Si las boletas estatales no llegan a tiempo, los miembros del servicio pueden imprimir la boleta federal de voto en ausencia por escrito desde la página web del programa de asistencia al voto.",
     "evidence_sources": [
       {
@@ -8874,8 +8796,8 @@
   {
     "claim": "Fox News contributors speculated about former President Donald Trump's cognitive health.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "The video was altered as a joke on \"The Daily Show.\" The original footage showed Fox News contributors speculating about the health of former Democratic presidential nominee Hillary Clinton.",
     "evidence_sources": [
       {
@@ -8900,8 +8822,8 @@
   {
     "claim": "Former President Donald Trump posted on Truth Social, \"I hate SNL.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This image was altered. Former President Donald Trump didn't post this.",
     "evidence_sources": [
       {
@@ -8926,8 +8848,8 @@
   {
     "claim": "\"The Pentagon reportedly failed to send absentee ballots to active military service members before the election.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Concept Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
     "justification": "The Defense Department doesn't send absentee ballots to active overseas service members. Service members and their families must register with their home states, which are responsible for sending out absentee ballots. The Pentagon oversees the Federal Voting Assistance Program to help service members vote. If state ballots don't arrive in time, service members can print out the Federal Write-In Absentee Ballot from the voting assistance program's website.",
     "evidence_sources": [
       {
@@ -8952,8 +8874,8 @@
   {
     "claim": "Gwinnett County, Georgia, sheriff's office said white supremacists \"are planning to attack\" Black people \"from now until the Inauguration.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "Gwinnett County, Georgia, sheriff's office said white supremacists \"are planning to attack\" Black people \"from now until the Inauguration.\"By Amy Sherman • November 5, 2024",
     "evidence_sources": [
       {
@@ -9146,7 +9068,7 @@
     "claim": "Says Eric Hovde \"claims anyone who believes in transitioning to a clean energy economy is 'smoking crack cocaine.'\"",
     "verdict": "Refuted",
     "error_type": "Semantic Errors",
-    "category":"Scope Confusion",
+    "category": "Scope Confusion",
     "justification": "During a Nov. 17, 2022, appearance at Sunwest Bank's Economic Forum, Hovde said that if people think an economy can transition from its existing fuel sources \"in a matter of a decade,\" they are smoking crack cocaine. In this remark and other similar ones, Hovde is casting doubt on the pace of the clean energy transition, not saying anyone who thinks it can happen at all is kidding themselves. That's a key distinction. Hovde has derided clean energy initiatives in the past, and energy experts critiqued the usefulness of his overall point here. But that doesn't change that he didn't say what the group claims he did.",
     "evidence_sources": [
       {
@@ -9224,7 +9146,7 @@
     "claim": "Four Florida counties had \"zero results\" Oct. 26, and \"something underhanded might be happening.\"",
     "verdict": "Refuted",
     "error_type": "Temporal Errors",
-    "category":"Incorrect Time Information",
+    "category": "Incorrect Time Information",
     "justification": "A screenshot showed zero ballots cast during early voting in four Florida counties as of the morning of Oct. 26. That's not suspicious. Those four counties began early voting within two hours of the screenshot's timestamp.",
     "evidence_sources": [
       {
@@ -9249,8 +9171,8 @@
   {
     "claim": "A Photo shows people lined up outside Madison Square Garden before an Oct. 27 rally by former President Donald Trump.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This image was taken in 2011 and showed people waiting to get into a Dublin event featuring then-President Barack Obama.",
     "evidence_sources": [
       {
@@ -9275,8 +9197,8 @@
   {
     "claim": "El expresidente Donald Trump quiere eliminar la Ley del Cuidado de Salud a Bajo Precio.",
     "verdict": "Refuted",
-  "error_type": "Temporal Errors",
-  "category": "Outdated Information",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
     "justification": "El anuncio de la campaña de Harris utiliza un video de 2017 en el que el expresidente Donald Trump dijo que su administración planeaba \"derogar y reemplazar el Obamacare\". Trump ha dicho en repetidas ocasiones que quiere reemplazar la Ley del Cuidado de Salud a Bajo Precio (ACA, por sus siglas en inglés). Pero últimamente ha dicho que quiere mejorarla y presentar su propio plan, aunque no ha ofrecido detalles.",
     "evidence_sources": [
       {
@@ -9317,8 +9239,8 @@
   {
     "claim": "Michigan U.S. Senate candidate Mike Rogers \"wants to cut Medicare and Social Security.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Causal Reasoning Errors",
+    "error_type": "Semantic Errors",
+    "category": "Causal Reasoning Errors",
     "justification": "During a previous stint in Congress, Michigan Republican U.S. Senate candidate Mike Rogers supported plans to overhaul Medicare and raise the eligibility age for benefits. Whether those plans would have led to higher costs for beneficiaries would have depended on several factors, but the plans never became law. Rogers has said during this campaign that he does not support cuts to the programs. He's called for a bipartisan commission to address the programs' funding shortfalls.",
     "evidence_sources": [
       {
@@ -9343,8 +9265,8 @@
   {
     "claim": "Former President Donald Trump wants to take away the Affordable Care Act.",
     "verdict": "Refuted",
-  "error_type": "Temporal Errors",
-  "category": "Outdated Information",
+    "error_type": "Temporal Errors",
+    "category": "Outdated Information",
     "justification": "The Harris' campaign ad uses a 2017 video in which former President Donald Trump said his administration planned on \"repealing and replacing Obamacare.\" Trump has repeatedly said he wants to replace the Affordable Care Act. But lately, he's said he wants to fix it and introduce his own plan, though he's offered no specifics.",
     "evidence_sources": [
       {
@@ -9421,8 +9343,8 @@
   {
     "claim": "Former President Donald Trump posted on Truth Social and addressed claims of his \"incontinence,\" saying, \"I don't poop myself.\"",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "The image originated from a satirical post. Donald Trump made no such remarks.",
     "evidence_sources": [
       {
@@ -9447,8 +9369,8 @@
   {
     "claim": "Estas son imágenes del huracán Milton en Florida.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "Esta compilación de videos en Facebook no son del huracán Milton. Estos se publicaron en internet antes de que el huracán llegará a Florida y algunas son de otras localidades.",
     "evidence_sources": [
       {
@@ -9489,8 +9411,8 @@
   {
     "claim": "A Photo shows Vice President Kamala Harris and Sean \"Diddy\" Combs.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Out-of-context / Misinterpretation",
+    "error_type": "Evidence Errors",
+    "category": "Out-of-context / Misinterpretation",
     "justification": "This image was altered. The original shows Sean \"Diddy\" Combs and fashion designer Misa Hylton, not Vice President Kamala Harris.",
     "evidence_sources": [
       {
@@ -9515,8 +9437,8 @@
   {
     "claim": "Arizona U.S. Senate candidate Kari Lake \"was against\" the child tax credit expansion \"when the bill was on the floor.\"",
     "verdict": "Refuted",
-  "error_type": "Semantic Errors",
-  "category": "Concept Confusion",
+    "error_type": "Semantic Errors",
+    "category": "Concept Confusion",
     "justification": "Although Kari Lake, a Republican U.S. Senate candidate, criticized the American Rescue Plan Act of 2021, she did not single out the child tax credit portion. Lake has supported child tax credits and \"baby bonuses\" to reduce abortions and increase the U.S. birth rate.",
     "evidence_sources": [
       {
@@ -9541,8 +9463,8 @@
   {
     "claim": "Fox News reported Donald Trump donated $1,300 for hurricane relief.",
     "verdict": "Refuted",
-  "error_type": "Evidence Errors",
-  "category": "Fake or Fabricated Sources",
+    "error_type": "Evidence Errors",
+    "category": "Fake or Fabricated Sources",
     "justification": "The image was not part of a Fox News report. It was not on Fox News' website and a network spokesperson told PolitiFact in an email, \"I can confirm this was not reported on FOX News.\" The image was shared as parody and has telltale signs of being artificially generated.",
     "evidence_sources": [
       {
@@ -15388,7 +15310,7 @@
     "verdict": "Supported",
     "error_type": null,
     "category": null,
-    "justification": "多家国际媒体和人权监督机构报道显示,Meta自2025年10月起在其Facebook、Instagram和WhatsApp平台上删除或限制了全球超过50个由堕胎服务提供者、LGBTQ倡导团体和生殖健康组织运营的账号。[web:181][web:185][web:186] 监测数字审查的非政府组织Repro Uncensored记录显示,2025年针对这些团体的账号删除和严重限制事件达210起,相比上一年的81起大幅增加,受影响组织遍布欧洲、英国、亚洲、拉丁美洲和中东地区。[web:181][web:185][web:187] Meta虽否认存在针对性审查趋势,但多个组织确认其账号被删除或限制,包括荷兰注册的Women Help Women等为全球女性提供堕胎信息的非营利组织。[web:181][web:185][web:189]",
+    "justification": "多家国际媒体和人权监督机构报道显示,Meta自2025年10月起在其Facebook、Instagram和WhatsApp平台上删除或限制了全球超过50个由堕胎服务提供者、LGBTQ倡导团体和生殖健康组织运营的账号。 监测数字审查的非政府组织Repro Uncensored记录显示,2025年针对这些团体的账号删除和严重限制事件达210起,相比上一年的81起大幅增加,受影响组织遍布欧洲、英国、亚洲、拉丁美洲和中东地区。 Meta虽否认存在针对性审查趋势,但多个组织确认其账号被删除或限制,包括荷兰注册的Women Help Women等为全球女性提供堕胎信息的非营利组织。",
     "evidence_sources": [
       {
         "content": "Business & Human Rights Resource Centre: Global: Meta allegedly restricted or removed more than 50 organisations' accounts for abortion providers, LGBTQ groups and reproductive health organisations（报道Meta自10月起删除或限制了全球50多个堕胎服务、LGBTQ团体和生殖健康组织的账号,涉及Facebook、Instagram和WhatsApp平台）",
@@ -15414,7 +15336,7 @@
     "verdict": "Supported",
     "error_type": null,
     "category": null,
-    "justification": "2025年12月,萨尔瓦多政府与埃隆·马斯克的xAI公司正式宣布建立合作伙伴关系,计划在未来两年内将Grok人工智能聊天机器人部署到全国超过5,000所公立学校,为超过100万名学生提供个性化学习支持。[web:192][web:193][web:196] xAI官方声明和萨尔瓦多总统布克莱均确认,这是世界上第一个全国性AI驱动教育项目,将覆盖从幼儿园到高中的所有公立学校学生。[web:192][web:193][web:197] 多家国际媒体包括ABC News、The Guardian和NDTV均报道了这一合作,确认萨尔瓦多将在5,000多所公立学校中部署Grok AI系统。[web:192][web:194][web:196]",
+    "justification": "2025年12月,萨尔瓦多政府与埃隆·马斯克的xAI公司正式宣布建立合作伙伴关系,计划在未来两年内将Grok人工智能聊天机器人部署到全国超过5,000所公立学校,为超过100万名学生提供个性化学习支持。 xAI官方声明和萨尔瓦多总统布克莱均确认,这是世界上第一个全国性AI驱动教育项目,将覆盖从幼儿园到高中的所有公立学校学生。 多家国际媒体包括ABC News、The Guardian和NDTV均报道了这一合作,确认萨尔瓦多将在5,000多所公立学校中部署Grok AI系统。",
     "evidence_sources": [
       {
         "content": "xAI官方新闻稿: xAI and El Salvador Pioneer the World's First Nationwide AI-Powered Education Program（xAI官方宣布与萨尔瓦多政府合作,在未来两年内将Grok部署到超过5,000所公立学校,为超过100万名学生提供个性化学习）",
@@ -15440,7 +15362,7 @@
     "verdict": "Supported",
     "error_type": null,
     "category": null,
-    "justification": "NASA官方记录和多方天文机构报道确认,星际彗星3I/ATLAS于2025年7月1日由位于智利Rio Hurtado的NASA资助的ATLAS(小行星地球撞击最后警报系统)望远镜首次发现并报告给小行星中心。[web:202][web:203][web:208] 轨道计算和观测数据显示,3I/ATLAS将于2025年12月19日在约1.8天文单位(AU)即约170百万英里(约1.67-1.70亿英里)距离处最接近地球,该距离约为地球到太阳距离的两倍。[web:207][web:210] 多个权威来源包括NASA科学网站、ESA、学术期刊和LinkedIn科学传播均证实了这一发现时间、发现望远镜以及12月19日最近距离的事实。[web:202][web:204][web:207][web:210]",
+    "justification": "NASA官方记录和多方天文机构报道确认,星际彗星3I/ATLAS于2025年7月1日由位于智利Rio Hurtado的NASA资助的ATLAS(小行星地球撞击最后警报系统)望远镜首次发现并报告给小行星中心。 轨道计算和观测数据显示,3I/ATLAS将于2025年12月19日在约1.8天文单位(AU)即约170百万英里(约1.67-1.70亿英里)距离处最接近地球,该距离约为地球到太阳距离的两倍。 多个权威来源包括NASA科学网站、ESA、学术期刊和LinkedIn科学传播均证实了这一发现时间、发现望远镜以及12月19日最近距离的事实。",
     "evidence_sources": [
       {
         "content": "NASA Science官网: Comet 3I/ATLAS（NASA官方页面确认NASA资助的ATLAS巡天望远镜位于智利Rio Hurtado,于2025年7月首次报告了3I/ATLAS的观测数据给小行星中心）",
@@ -15466,7 +15388,7 @@
     "verdict": "Supported",
     "error_type": null,
     "category": null,
-    "justification": "2025年12月11日,谷歌和英国政府正式宣布一项合作计划,向英国研究人员开放谷歌先进的Willow量子芯片。[web:213][web:214][web:218] 根据谷歌量子人工智能(Google Quantum AI)与英国国家量子计算中心(NQCC)的官方联合声明,该合作邀请英国研究人员和研究联盟提交研究提案,申请使用具有世界领先纠错能力的Willow处理器进行高影响力创新项目。[web:218] BBC、The Quantum Insider等多家权威媒体均报道,科学家可以提交提案说明如何使用该芯片,并与谷歌和NQCC的专家合作设计和运行实验,旨在加速发现量子计算在化学、医学和材料科学等领域的实际应用。[web:213][web:214][web:216]",
+    "justification": "2025年12月11日,谷歌和英国政府正式宣布一项合作计划,向英国研究人员开放谷歌先进的Willow量子芯片。 根据谷歌量子人工智能(Google Quantum AI)与英国国家量子计算中心(NQCC)的官方联合声明,该合作邀请英国研究人员和研究联盟提交研究提案,申请使用具有世界领先纠错能力的Willow处理器进行高影响力创新项目。 BBC、The Quantum Insider等多家权威媒体均报道,科学家可以提交提案说明如何使用该芯片,并与谷歌和NQCC的专家合作设计和运行实验,旨在加速发现量子计算在化学、医学和材料科学等领域的实际应用。",
     "evidence_sources": [
       {
         "content": "NQCC官方公告: NQCC and Google Quantum AI launch new initiative to accelerate quantum science in the UK（英国国家量子计算中心和谷歌量子人工智能宣布新合作,向更多英国研究人员提供谷歌Willow量子处理器的访问权限,邀请英国研究人员提交提案申请使用Willow进行高影响力创新项目）",
@@ -17416,7 +17338,7 @@
     "verdict": "Refuted",
     "error_type": "Temporal Errors",
     "category": "Incorrect Time Information",
-    "justification": "该claim被驳斥。Target在2025年8月宣布，由时任首席运营官Michael Fiddelke接任首席执行官一职，但公告明确说明该任命自2026年2月1日起生效，因此在2025年年底时，他仍是“下一任（incoming）CEO”，而不是已经在任的CEO。[web:57][web:66][web:69] 多家媒体和公司介绍页面也一致指出，Brian Cornell在2025年仍担任首席执行官，Fiddelke将在2026年接棒，这表明在2025年12月时将他称为现任CEO属于时间点上的错误表述。[web:67][web:70][web:71]",
+    "justification": "该claim被驳斥。Target在2025年8月宣布，由时任首席运营官Michael Fiddelke接任首席执行官一职，但公告明确说明该任命自2026年2月1日起生效，因此在2025年年底时，他仍是“下一任（incoming）CEO”，而不是已经在任的CEO。 多家媒体和公司介绍页面也一致指出，Brian Cornell在2025年仍担任首席执行官，Fiddelke将在2026年接棒，这表明在2025年12月时将他称为现任CEO属于时间点上的错误表述。",
     "evidence_sources": [
       {
         "content": "Target Appoints Michael Fiddelke As Chief Executive Officer：Target董事会一致选举首席运营官Michael Fiddelke接替Brian Cornell出任CEO，但公告注明两人的任命自2026年2月1日正式生效。",
@@ -17676,7 +17598,7 @@
     "verdict": "Refuted",
     "error_type": "Temporal Errors",
     "category": "Outdated Information",
-    "justification": "该claim在历史上曾经正确，但在当前时间点已经不再成立。Subway最初由Fred DeLuca和Peter Buck创立，其门店长期由名为Doctors Associates Inc.（后更名为Subway IP Inc.）的实体拥有并运营品牌和特许经营体系。[web:1] 然而，2023年开始，Subway被出售给投资公司（由Roark Capital控制的结构），品牌所有权从创始家族及其控制实体转移到了新的私募股权所有者名下，原先的Doctors Associates Inc.不再是Subway的最终所有者。[web:2][web:3] 因此，将Subway当前仍描述为“Doctors Associates Inc.拥有的连锁餐厅”忽略了所有权结构已发生的变更，属于时间维度上的过时表述。",
+    "justification": "该claim在历史上曾经正确，但在当前时间点已经不再成立。Subway最初由Fred DeLuca和Peter Buck创立，其门店长期由名为Doctors Associates Inc.（后更名为Subway IP Inc.）的实体拥有并运营品牌和特许经营体系。 然而，2023年开始，Subway被出售给投资公司（由Roark Capital控制的结构），品牌所有权从创始家族及其控制实体转移到了新的私募股权所有者名下，原先的Doctors Associates Inc.不再是Subway的最终所有者。 因此，将Subway当前仍描述为“Doctors Associates Inc.拥有的连锁餐厅”忽略了所有权结构已发生的变更，属于时间维度上的过时表述。",
     "evidence_sources": [
       {
         "content": "Subway - Wikipedia（介绍Subway的历史，指出该连锁品牌最初由Doctors Associates Inc.持有和运营，随后公司结构与名称有所调整）",
@@ -18166,32 +18088,6 @@
     "topic": "Culture"
   },
   {
-    "claim": "安第斯文明的结绳不仅记录数字还包含叙事性文本信息。",
-    "verdict": "Not Enough Evidence",
-    "error_type": "Unverifiable Claims",
-    "category": "Controversy",
-    "justification": "安第斯文明的结绳(quipu/khipu)是否包含叙事性文本信息至今仍是学术争议的焦点，无法确定。支持叙事功能的证据：布鲁克林博物馆指出'早期学者认为绳结只能记录数字，但进一步分析表明一些quipu包含更多信息，包括故事、家谱甚至诗歌'；Smarthistory提到'偏离十进制和数字组织的khipu被称为\"叙事性\"khipu'；中文资料提到'一些奇普详细记录了重大历史事件'。但证据不足的方面：哈佛大学数学系论文指出'quipu构成了一个密码学谜题，纯文本信息缺失'；arXiv论文表示'khipu的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能是...'，使用'可能'表明不确定；Woman Interwoven文章提到16世纪编年史家加西拉索·德拉·维加首次声称'khipu只是记忆辅助工具'，质疑其叙事能力。关键问题是：虽然存在'叙事性khipu'的分类，但学者尚未成功完全破译这些结绳的具体内容，无法验证它们是否真的记录了完整的叙事文本，还是仅作为口头叙事的记忆提示。因此无法确定claim的真伪。",
-    "evidence_sources": [
-      {
-        "content": "Quipu - Brooklyn Museum（早期学者认为绳结只能记录数字，但进一步分析非常清楚地表明一些quipu包含更多信息，包括故事、家谱甚至诗歌；存在行政性quipu和叙事性quipu两种类型）",
-        "url": "https://www.brooklynmuseum.org/objects/46687",
-        "credibility": "High"
-      },
-      {
-        "content": "The Inka khipu - Smarthistory（偏离十进制和数字组织结构的khipu被称为'叙事性'khipu；这些khipu引发了关于其是否记录叙事信息的讨论）",
-        "url": "https://smarthistory.org/inka-khipu/",
-        "credibility": "High"
-      },
-      {
-        "content": "The Khipu-Based Numeration System - arXiv（khipu系统的数字基础已被充分理解，但更近期的理论认为khipu也编码了叙事信息，这可能...；quipu构成密码学谜题，纯文本信息缺失）",
-        "url": "https://arxiv.org/pdf/1405.6093.pdf",
-        "credibility": "High"
-      }
-    ],
-    "correct_answer": "安第斯文明的结绳(quipu)确定可以记录数字信息，使用十进制系统。关于是否包含叙事性文本信息，学术界存在争议。虽然存在'叙事性khipu'的分类，部分学者认为其可能记录了故事、家谱等信息，但由于西班牙殖民破坏和解读困难，学者尚未成功完全破译这些结绳的具体叙事内容，无法确定其是否包含完整的叙事文本还是仅作为口头叙事的记忆辅助工具。",
-    "topic": "Culture"
-  },
-  {
     "claim": "他人具有与我相似的主观意识体验。",
     "verdict": "Not Enough Evidence",
     "error_type": "Unverifiable Claims",
@@ -18632,5 +18528,811 @@
     ],
     "correct_answer": "这是道德哲学的根本问题，无法通过经验证据完全验证或证伪。道德平等主义和包容性感知主义主张所有有意识存在具有道德地位，甚至同等道德价值，反对物种主义歧视。但许多哲学家质疑绝对平等观，认为应根据相关特征（如德性、认知能力）区分道德价值，或区分\\\"作为平等者对待\\\"与\\\"平等对待\\\"。即使接受意识赋予道德地位，道德价值的程度是否相同仍存在争议。这涉及道德价值的形而上学基础、平等原则的规范性论证等根本性哲学问题，学界对此存在根本分歧。",
     "topic": "Culture"
+  },
+  {
+    "claim": "C罗是历史上最伟大的足球运动员。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "关于谁是历史上最伟大的足球运动员（GOAT），在球迷、媒体和专家之间长期存在激烈争论，且本质上是一个依赖评价标准和价值取向的主观判断，而非可被客观事实唯一决定的问题。不同媒体、组织和专家给出的历史最佳排行榜并不一致，有的将梅西、贝利或马拉多纳排在首位，也有观点认为C罗是历史最佳之一甚至是第一，这表明所谓\"历史最伟大\"缺乏统一、客观、可操作的衡量标准。阿尔贾兹拉等媒体报道中，C罗本人公开表示自己认为是历史最佳，但同时也承认许多人更偏好梅西、贝利或马拉多纳，这进一步说明这是偏好与立场之争而非可证伪的事实命题。多篇分析文章将\"谁是历史最佳\"明确描述为\"永恒争论\"、\"高度主观\"的问题，强调不同人会根据进球、冠军、个人技术、审美偏好等不同维度得出不同结论。因此，\"C罗是历史上最伟大的足球运动员\"这一claim属于价值判断和主观评价范畴，在逻辑和证据上都无法给出唯一的客观判定，只能视为在存在巨大争议的问题上表达的一种立场，而非可被严格支持或反驳的客观事实。",
+    "evidence_sources": [
+      {
+        "content": "A Debate: Is Cristiano Ronaldo the Greatest Player of All Time? - Vocal: 文章指出，\"关于C罗是否是历史最佳的争论已经持续多年\"，并称这是一个在死忠球迷之间引发激烈争吵的话题，文中分析了支持和反对C罗为GOAT的理由，明确把这个问题视为一场辩论而非定论。",
+        "url": "https://vocal.media/cleats/a-debate-is-cristiano-ronaldo-the-greatest-player-of-all-time",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Ronaldo says he is better than Messi in greatest football player debate - Al Jazeera: 报道中提到，C罗在采访中表示\"我认为自己是足球历史上最好的球员\"，但也承认很多球迷更偏爱梅西等其他球员。报道将其描述为\"经常被讨论的谁是历史最佳球员的话题\"，强调这是一场长期存在的争论。",
+        "url": "https://www.aljazeera.com/sports/2025/2/4/ronaldo-says-he-is-better-than-messi-in-greatest-football-player-debate",
+        "credibility": "High"
+      },
+      {
+        "content": "The Debate of the Greatest Footballer of All Time - Vocal: 文章讨论了贝利、马拉多纳、梅西和C罗等多位球员，指出球迷\"热情地为各自心中的传奇辩护\"，并强调\"谁是历史最佳\"这一问题引发持久争论，不同人会根据不同标准（进球、助攻、冠军、观赏性等）做出不同评价。",
+        "url": "https://vocal.media/humans/the-debate-of-the-greatest-footballer-of-all-time",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "关于\"谁是历史上最伟大的足球运动员\"是一个高度主观且存在长期争议的问题，无法通过客观证据给出唯一答案。C罗无疑是历史上最伟大的足球运动员之一，但是否是\"历史第一\"取决于评价标准和个人偏好，不能被视为可被严格证明真假的客观事实命题。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "跨性别运动员参加国际比赛是公平的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "跨性别运动员能否在国际赛事中实现“公平竞争”目前在科学界、体育治理机构、运动员群体和公众之间存在重大分歧，且“公平”本身是一个高度规范性的概念，缺乏单一客观标准。国际奥委会（IOC）在2021年发布了《在性别认同和性别差异基础上的公平、包容与非歧视框架》，提出要在“公平、包容和人权”之间平衡，并将具体资格标准下放给各单项国际联合会，强调既要公平对待顺性别运动员，也要公平对待跨性别和性别差异运动员，这本身就承认该问题没有简单、统一的公平标准。部分学术与政策分析指出，关于跨性别女性是否在生理上拥有持续的竞技优势，目前的科学证据并不一致，有的研究和评论认为支持“先经历男性青春期”的运动员存在力量和体格优势，需要以保护女子项目公平与安全为优先；也有政策倡导与地方政府资料指出，目前并不存在足够的科学证据证明跨性别女性在大众与青少年体育中系统性破坏公平竞争，反对以“公平”为由全面排除跨性别运动员参赛。同时，各国际单项联合会采取的政策差异巨大：有的（如世界田联）全面禁止经历男性青春期的跨性别女性参加女子精英项目，有的则采用以睾酮、过渡时间或个案评估为基础的限制规则。这一局面表明：第一，关于生理优势及其在不同项目中的影响，科学证据尚不统一；第二，如何权衡“公平”和“包容”是规范性判断，不是单纯的经验事实问题；第三，不同利益相关方（女性运动员、跨性别运动员、法庭、人权机构、体育联合会）对“何谓公平”有不同价值取向。因此，“跨性别运动员参加国际比赛是公平的”既无法通过现有科学证据完全证实，也无法被简单证伪，更准确地说，它是一个高度争议的规范性立场，而不是可以用单一事实标准裁决的命题。",
+    "evidence_sources": [
+      {
+        "content": "Position statement: IOC framework on fairness, inclusion and non-discrimination - British Journal of Sports Medicine: 文章指出，IOC在2021年发布的《在性别认同和性别差异基础上的公平、包容与非歧视框架》旨在帮助各国际联合会制定既\"运动专项、以证据为基础又尊重权利\"的政策，要求综合考虑科学和医学证据以及伦理、法律、人权和社会因素。该框架强调公平应当同样适用于所有运动员，包括跨性别运动员和具有性别差异的运动员，并反对“性别检测”或“性别验证”做法。",
+        "url": "https://bjsm.bmj.com/content/57/1/26",
+        "credibility": "High"
+      },
+      {
+        "content": "Transgender people in sports - Wikipedia: 条目概述了跨性别运动员在体育中引发的争议：支持者认为，根据性别认同参与比赛是基本人权，排除跨性别运动员构成歧视；反对者则认为，生理差异可能带来竞技优势，损害女子项目的公平性和安全性。文中总结道，这是体育界持续的政策、法律与伦理争议焦点，各组织采用了不同的政策路径。",
+        "url": "https://en.wikipedia.org/wiki/Transgender_people_in_sports",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Transgender policies struggle to balance fairness with inclusion in women's college sports - The Conversation: 文章以美国高校体育为例指出，支持者强调性别认同与包容，认为允许跨性别运动员参赛不会显著破坏公平；反对者则主张经历男性青春期带来的体格与力量优势影响女子项目的公平，并通过Title IX诉讼挑战跨性别运动员的参赛资格。作者总结，这一争议的核心是如何在\"包容跨性别个体\"与\"保障女子项目公平机会\"之间取得平衡，而现有法律和科学证据尚未给出令各方满意的统一答案。",
+        "url": "https://theconversation.com/transgender-policies-struggle-to-balance-fairness-with-inclusion-in-womens-college-sports-262082",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "跨性别运动员是否参加国际比赛是“公平的”属于高度规范性且存在重大争议的问题，无法通过现有科学证据和单一客观标准给出确定答案。不同体育组织、学者、运动员与政策制定者在如何权衡竞技公平、包容与人权方面存在深刻分歧，有的强调保护女子项目免受潜在生理优势影响，有的强调反歧视与性别认同的尊重。因此，这一命题更适合作为一个有争议的价值立场（Controversy），而非可被简单支持或反驳的客观事实判断。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "孙杨并没有故意服用兴奋剂。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "孙杨案中，涉案事实主要集中在一次 2018 年的飞行药检过程中对血样容器的破坏和对检测程序合法性的争议，而不是在某次检测中检出具体违禁物质的“阳性”结果，因此是否“故意服用兴奋剂”在司法与仲裁层面从未被直接、明确地作为心理主观故意问题加以裁决。FINA 兴奋剂委员会在 2019 年 1 月的初审决定中认为，当晚药检人员的授权文件和行为存在严重程序瑕疵，该次检测程序“无效且作废”，因此认定孙杨没有在该次检测中构成反兴奋剂规则违规。世界反兴奋剂机构（WADA）随即向体育仲裁法庭（CAS）上诉，CAS 2019/A/6148 案件的仲裁庭在 2020 年 2 月作出裁决，认定孙杨在该次检测中构成“拒检/未配合”和“样本篡改”（tampering），并据此认定其违反 FINA 反兴奋剂规则，处以 8 年禁赛（后在程序问题上被瑞士联邦最高法院撤销仲裁裁决，改由新组庭重审，最终维持较短禁赛期）。CAS 报告中强调其依据的是客观行为（如指示安保人员用锤子砸开装有血样的玻璃容器、撕毁检测表等），并认为这些行为“完全不恰当”“没有正当理由”，构成对检测流程的严重妨碍，但并未就他是否在实质上“服用违禁药物”、以及主观上是否“故意服用兴奋剂”作出直接事实认定，而是按反兴奋剂规则中的“拒检/篡改样本”条款进行裁决。另一方面，2014 年孙杨曾因氢氯噻嗪阳性被认定为反兴奋剂违规并服完禁赛期，但其辩称系误服、非故意使用，该问题在当时程序中亦未通过主观心理层面的直接证据被完全厘清。在公开资料中，无论是 FINA 初审决定还是 CAS 各次裁决，都没有给出关于“孙杨是否在整个运动生涯中从未故意服用兴奋剂”的全面事实结论；而要对一个人所有过往行为的主观动机做出“从不”或“绝对没有”式判断，本身在认识论上就超出可证实范围。综合来看：现有公开法律文书只对特定事件中是否构成规则违规做了规范性评价，并未提供关于孙杨一切用药行为主观故意的完整、可核查证据链；是否“故意服用兴奋剂”涉及其内心状态与动机，属于高度主观且难以通过外部证据完全验证或证伪的命题。因此，“孙杨并没有故意服用兴奋剂”这一表述无法在严格证据意义上被确认为真或假，只能被视为当事人一方立场或辩解，而非可通过公开事实完全裁决的命题，因而应归入不可核实且存在争议的范畴。",
+    "evidence_sources": [
+      {
+        "content": "Sun Yang - Wikipedia：条目记载，孙杨于2014年5月在全国游泳冠军赛中被检出违禁成分曲美他嗪阳性，中国游泳协会给予其警告和追溯性三个月禁赛；在2018年9月的一次飞行药检中，他与检测人员发生冲突，血样容器被砸毁，该事件经世界反兴奋剂机构上诉后，在CAS 2019/A/6148及后续重审裁决中被认定为反兴奋剂规则违规并处以长期禁赛。",
+        "url": "https://en.wikipedia.org/wiki/Sun_Yang",
+        "credibility": "Medium"
+      },
+      {
+        "content": "CAS 2019/A/6148 World Anti-Doping Agency v. Sun Yang & FINA（裁决及相关解读）：仲裁庭认定，2018年检测中采样人员的授权和通知程序基本符合国际检测标准，孙杨在明知检测具有约束力且被告知可能后果的情况下，仍指示他人砸毁装有血样的容器并撕毁检测表，构成对检测的“拒绝配合/篡改样本”，因此违反FINA反兴奋剂规则并被禁赛。裁决强调依据的是其客观行为，并未就其是否在其他时间或场合“故意服用违禁物质”作出全面认定。",
+        "url": "https://doylesarbitrationlawyers.com/cas-2019-a-6148-world-anti-doping-agency-v-sun-yang-federation-internationale-de-natation-fina/",
+        "credibility": "High"
+      },
+      {
+        "content": "Sun Yang & Team Face New Questions Over 2014 Doping Positive - Swimming World：文章回顾2014年曲美他嗪阳性事件，指出中国游泳协会和中国反兴奋剂机构的官方解释是翻译延迟导致队医未及时知悉该成分已被列入禁用清单，从而将其定性为“误服”，并给予相对宽松的处罚。报道同时提到这一解释在国际舆论中引发争议，有观点质疑是否足以完全排除运动员及团队的主观责任。",
+        "url": "https://www.swimmingworldmagazine.com/news/sun-yang-team-face-new-questions-over-2014-doping-positive/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "关于孙杨是否“故意服用兴奋剂”，现有公开法律文书和证据并不能给出一个对其全部职业生涯适用的、可以被完全验证的结论。公开裁决主要认定的是他在 2014 年曾发生一次阳性检测并受到处罚，以及在 2018 年检测事件中存在“拒检/样本篡改”等规则违规行为，但未就其所有用药行为的内心主观故意作出全面事实判断。因此，不能基于现有公开证据严格断言他“肯定故意服用兴奋剂”，也不能反向断言他“从未故意服用兴奋剂”，该命题在证据上属于难以被完全核实且存在争议的问题。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "1966年世界杯决赛英格兰对西德比赛中“温布利进球”整体越过球门线。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "“温布利进球”指1966年世界杯决赛加时赛第101分钟赫斯特射门击中横梁后落地并被解围、最终被判定为英格兰第三球的那次射门，该球自诞生起便因是否“整体越过球门线”而长期争议不断。 当时并无门线技术，现场影像为有限机位和非门线角度画面，难以提供足够精度的直接几何测量依据；此后牛津大学等工程团队利用视频重建与计算机视觉方法分析，多数结论认为皮球仍差数厘米才完全越过门线，但这些结论依赖事后建模，且受制于原始素材质量和参数假设，无法等同于现场物理测量。 国际足联官方回顾与媒体至今仍将该球描述为“争论不休”“至今未能给出最终答案”的经典争议案例，说明在公开可获得的信息条件下，无法以足够严谨和普适认可的证据链，对“是否整体越线”这一物理事实给出完全确定的判定，因此该具体表述在严格意义上属于无法被完全核实、且存在重大分歧的争议性命题。",
+    "evidence_sources": [
+      {
+        "content": "1966 FIFA World Cup final - Wikipedia：概述1966年世界杯决赛过程，指出赫斯特在加时赛中的第二球（即“温布利进球”）击中横梁后弹地，被裁判判为进球，并强调该球在此后几十年间一直是世界杯史上最具争议的进球之一。",
+        "url": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
+        "credibility": "High"
+      },
+      {
+        "content": "Wembley-Tor - Wikipedia（德文）：专门条目介绍“温布利进球”，提到长期以来一直不清楚球是否越过门线，并引用牛津大学工程系研究，称通过视频度量分析得出皮球距离完全越线仍差约6厘米，因而“实际上并未完全越过门线”。",
+        "url": "https://de.wikipedia.org/wiki/Wembley-Tor",
+        "credibility": "High"
+      },
+      {
+        "content": "FIFA回顾文章《Hurst: It was at least one metre over the line》：通过赫斯特本人访谈重述该球，称其认为皮球“至少越线一米”，同时强调这粒进球在数十年间一直引发争论，成为推动后来门线技术发展的典型案例，表明官方叙事层面也承认争议始终存在且未被彻底终结。",
+        "url": "https://inside.fifa.com/tournaments/mens/worldcup/1966england/news/the-debate-goes-on-2813334",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "从现有公开资料看，1966年世界杯决赛中的“温布利进球”在规则层面已被当值裁判判定为有效进球，但在物理事实层面“皮球是否整体越过门线”至今仍无法得到绝对确定的答案：当时缺乏门线技术且影像角度有限，后来的工程和计算机视觉重建多倾向于认为皮球并未完全越线、距离门线仍差数厘米，不过这些结果依赖事后建模与有限原始素材，难以视为完全等同于直接测量的终局证据，因此既不能严格断言该球必然整体越线，也不能在同样严格标准下作出绝对否定，只能认为这是一个持续存在重大分歧、在证据上无法被彻底核实的经典争议进球。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "1998年NBA总决赛第六场乔丹最后一攻对拉塞尔构成了走步或推人犯规。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "乔丹在1998年NBA总决赛第六场最后时刻对布莱恩·拉塞尔的突破与后撤步跳投，是NBA历史上最具争议的回合之一，核心争议就是他是否在这次进攻中存在“推人犯规”或“走步违例”。 现有的多机位转播录像清晰显示乔丹在突破后有手臂接触并轻微伸展、拉塞尔随即失衡倒地，但是否构成规则意义上的“非法用手推人”属于对对抗强度、进攻球员自然动作及防守者自身移动方向的综合裁量，不同球员、媒体和裁判回看同一回合时，给出的结论并不一致：部分评论者和球员（包括拉塞尔本人在一些访谈中）认为这是明显的进攻犯规，也有包括约翰·斯托克顿和多名退役裁判在内的人物公开表示这只是比赛中常见的身体接触，不足以吹罚犯规。 当值裁判当时并未吹罚走步或进攻犯规，NBA赛后也未对该回合发布“误判”或“漏判”的官方更正；而“是否走步”同样依赖于对启步、收球、试探步和撤步连贯性的逐帧主观判读，在规则边缘地带缺乏统一标准，这使得事后任何想要断言“必然构成犯规/违例”的说法都不可避免带有主观性和价值判断。综上，虽然该回合是否犯规/走步在舆论中存在长期且激烈的争论，但从可公开获取的录像与规则文本出发，并不存在一个被各方普遍接受、可视为“客观定论”的证据链来证明该说法必然为真或必然为假，因此该命题在严格的事实核查标准下属于无法被完全证实或证伪的争议性陈述。",
+    "evidence_sources": [
+      {
+        "content": "Game 6 of the 1998 NBA Finals - Wikipedia：概述比赛背景与最后一攻，描述乔丹在终场前完成对拉塞尔的急停后仰跳投命中，帮助公牛以87-86领先并最终夺冠，但并未将该回合裁定为犯规或走步，只是记录为制胜进球。",
+        "url": "https://en.wikipedia.org/wiki/Game_6_of_the_1998_NBA_Finals",
+        "credibility": "High"
+      },
+      {
+        "content": "Was Michael Jordan's final shot with the Bulls a foul? - Yahoo Sports：采访当场执法裁判丹尼·克劳福德，他表示从自己的视角并未看到足以吹罚的明显推人动作，并强调该回合“本身就是一个可争辩的判罚”，如果让一百个人看录像，大约会有“五五开”的意见分布，凸显其高度主观与争议性。",
+        "url": "https://sports.yahoo.com/michael-jordans-final-shot-bulls-foul-retired-referee-officiated-game-6-1998-nba-finals-explains-133204118.html",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Michael Jordan's Controversial Push-Off: More Than Just a Game - Ordr.io：回顾该回合的全过程，指出乔丹在最后一攻中出现轻微“推人”动作，批评者认为这是明显的进攻犯规，而支持者则认为只是总决赛中常见、在判罚尺度下被允许的身体接触，文章以规则适用与判罚尺度差异解释争议长期存在的原因。",
+        "url": "https://ordr.io/2023/11/29/michael-jordans-controversial-push-off-more-than-just-a-game/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "1998年NBA总决赛第六场乔丹最后一攻对拉塞尔的进攻在当场并未被裁判吹罚走步或进攻犯规，NBA也没有在赛后将其认定为误判，因此在官方规则层面该球是一次合法进攻并被计为制胜进球；但从录像回放和相关访谈来看，乔丹在出手前确实存在手臂接触并轻微伸展的动作，是否构成“推人犯规”或是否存在“走步”很大程度取决于对身体对抗强度和脚步连贯性的主观解读，不同球员、裁判和媒体在此问题上的看法长期分歧明显，尚未形成一致结论，因此无法在客观证据标准下断言该进攻必然构成走步或推人犯规。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2016年NBA总决赛裁判在部分关键判罚上对骑士队存在隐性偏向。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Lack of Public Data",
+    "justification": "该说法涉及对裁判和联盟主观动机、系统性偏向的判断，而不是单个回合吹罚是否正确的可客观核查事实。 公开报道和球迷讨论中确实存在大量关于2016年总决赛判罚尺度的争议，例如德雷蒙德·格林在G5被禁赛、斯蒂芬·库里在G6六犯离场等事件，被部分人解读为“对骑士有利”，并衍生出联盟希望延长系列赛、提高收视率的阴谋论；前裁判蒂姆·多纳吉也曾声称联盟会通过升级犯规等方式影响系列赛走向，但其本人因赌球丑闻失去公信力，其说法缺乏独立证据支持。 同时，并没有公开、系统的逐回合吹罚数据和统一方法学下的统计分析，能够证明在整体或结构层面存在“明显且有意偏向骑士”的判罚模式，联盟及官方文件也从未承认存在偏袒行为。 在缺乏内部文件披露、权威独立调查与可重复验证的数据分析的情况下，无法将这一命题上升为可被证实或证伪的客观事实，因此只能判定为证据不足。",
+    "evidence_sources": [
+      {
+        "content": "2016 NBA Finals - Wikipedia：介绍2016年总决赛的赛果和关键事件，包括骑士1比3落后后连胜三场逆转勇士、G5格林禁赛、G6库里六犯被罚出场等，但未给出“裁判系统性偏向骑士队”的结论。",
+        "url": "https://en.wikipedia.org/wiki/2016_NBA_Finals",
+        "credibility": "High"
+      },
+      {
+        "content": "Tim Donaghy: NBA suspended Draymond Green to help ...：前裁判蒂姆·多纳吉声称联盟升级格林犯规、实施禁赛是为了“帮助骑士延长系列赛”，并暗示联盟会通过录像会等方式影响裁判，但报道也指出其因赌球案被逐出联盟，其指控属于个人推断、未获独立证据验证。",
+        "url": "https://www.si.com/nba/2016/06/13/tim-donaghy-draymond-green-suspension-prolong-nba-finals-warriors-cavaliers",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“Rigging” the NBA Finals: Perception, Bias, and Culture：分析2016年总决赛“被操纵”“偏向骑士”的舆论现象，指出球迷与媒体容易在对结果不满时放大个别判罚并推演阴谋论，同时说明目前没有决定性证据证明联盟或裁判在系列赛中系统性偏袒某一方。",
+        "url": "https://www.blazersedge.com/2016/6/20/11978288/2016-nba-finals-steph-ayesha-curry-lebron-james-tweet-ratings",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有公开资料只能表明2016年NBA总决赛存在多次引发激烈争议的关键判罚，并因此出现大量关于“联盟或裁判偏向骑士队”的评论和阴谋论，但这些更多是球员、媒体和球迷基于部分回合与结果的主观解读，缺乏可独立验证的内部文件、完整判罚数据或权威统计研究来证明裁判在整体或系统层面上存在刻意、隐性的偏向；联盟官方也未承认有此类操控或偏袒行为。因此，不能将该命题视为已被证实的客观事实，在当前公开信息条件下应判定为证据不足。",
+    "topic": "Sports"
+  },
+  {
+    "claim": "2008 年全球金融危机后主要发达经济体采用的量化宽松政策总体上利大于弊。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题要求对“量化宽松总体上利大于弊”做出带有价值权衡和跨主体福利比较的综合结论，而现有研究在评价口径、权重设定和时间维度上存在显著分歧，难以形成可核查的单一客观结论。 多数央行与部分实证研究认为，危机后主要发达经济体的量化宽松在深度衰退和零利率下确实降低了长期利率、缓解了金融紧缩压力，并在一定程度上提高了产出和通胀，帮助避免通缩螺旋和更严重的经济崩溃，这说明其“宏观稳定”与防止大萧条式崩盘的效应是实质存在的。 但同时，大量文献也指出量化宽松带来资产价格大幅上涨、收入与财富不平等加剧、资源配置扭曲、退出阶段通胀和央行资产负债表亏损风险上升等负面效应，且不同研究对这些成本和收益在社会福利中的权重并无统一标准；还有研究发现央行内部研究更倾向于给出“效果更显著”的正面估计，而独立学者估计的效果更小，显示评价本身存在制度性与立场偏差。 在缺乏对“利”和“弊”统一、可量化且被广泛接受的衡量框架（例如如何在避免大衰退、长期增长、代际分配、公平性和金融稳定之间赋权）的前提下，很难将“总体利大于弊”视为一个可以通过单一证据链被明确证实或证伪的客观命题，因此更合理的判定是：存在大量支持与批评的研究和数据，但关于“总体利弊孰多”的结论在理论界与政策界仍属有争议的问题，证据不足以给出统一定论。",
+    "evidence_sources": [
+      {
+        "content": "Quantitative easing - Wikipedia：总结了美国、英国、欧元区和日本危机后量化宽松的经验，指出多项研究发现量化宽松有效压低长期利率、降低信用风险、对 GDP 和通胀有正向但总体温和的影响，同时也强调其推高资产价格、扩大贫富差距、对实体经济传导有限等争议。",
+        "url": "https://en.wikipedia.org/wiki/Quantitative_easing",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Quantitative Easing: How Well Does This Tool Work? - Federal Reserve Bank of St. Louis：概述量化宽松在危机后作为非常规货币政策工具的使用，认为其在传统利率工具失效时有助于降低长期利率、刺激经济并避免通缩，但也明确列出资产泡沫、不平等加剧和退出风险等潜在成本，强调效果与风险都需要权衡。",
+        "url": "https://www.stlouisfed.org/publications/regional-economist/third-quarter-2017/quantitative-easing-how-well-does-this-tool-work",
+        "credibility": "High"
+      },
+      {
+        "content": "Fifty shades of QE - European Central Bank / related research总结：对央行研究与独立学术研究的元分析表明，大部分研究认为量化宽松对产出和物价有正向且统计显著的影响，但效果大小差异很大，且央行研究往往得到更大的正面效果估计，反映研究结论本身存在机构立场与方法上的偏差；综合来看，文献的“共识”是效果总体为正，但对于分配影响及长期成本仍高度争议。",
+        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2584~004629c8e7.en.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "危机后主要发达经济体实施的量化宽松在多数实证研究中被认为有助于在零利率约束下压低长期利率、缓解金融紧缩和通缩风险，并对产出和通胀产生一定正向拉动，被视为避免更严重衰退的重要工具之一，但同时也被批评为推高资产价格、扩大收入与财富不平等、扭曲风险定价，并在退出阶段带来通胀和央行资产负债表压力等成本；由于不同研究与立场对这些“利”“弊”的权重、时间范围和福利标准设定不一，理论界和政策界至今尚未就“总体上利大于弊还是弊大于利”形成统一共识，因此这一命题更接近一个存在实证支持与反对证据的争议性判断，而非可以简单判定为真或假的客观事实。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "大规模自动化和人工智能普及将在本世纪内造成“技术性大失业”。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Subjective or Future Predictions",
+    "justification": "该命题是关于未来几十年内全球劳动市场走向的强预测，声称会出现“技术性大失业”（大规模、长期性失业），属于对尚未发生的复杂社会经济过程的判断，目前不存在可直接验证或证伪的经验数据。 现有研究与政策评估呈现出高度分化：一方面，部分学者和机构基于岗位可自动化比例（如Frey与Osborne估计美国约47%岗位“高度易被自动化”）或对AI能力的前瞻判断，警告可能出现前所未有的就业替代和结构性失业风险；另一方面，经合组织等对已经观察到的AI与自动化冲击进行实证分析时，多数发现对“总就业”的影响迄今有限，更主要表现为职业内部任务结构调整、技能需求升级和就业结构变化，而非失业率长期飙升至“社会难以承受”的水平。 此外，一些研究强调，技术既会替代旧岗位，也会创造新岗位和新行业，从长期历史视角看历次技术革命并未导致持续的“技术性大失业”，但同时也承认本轮AI的广度和速度可能不同以往，这使得对21世纪内是否出现“大失业”缺乏可直接类比的历史样本；就业结果还高度依赖教育培训、再分配制度、劳动市场政策等一系列政策选择，而这些未来政策路径本身无法预先给定。 因此，无论是“必然出现技术性大失业”还是“绝不会出现”的断言，目前都超出了可证伪的证据范围，更合理的表述应是存在显著风险与不确定性，需要通过政策和制度设计加以应对，而不能被当作已经可以判定真假的客观事实命题。",
+    "evidence_sources": [
+      {
+        "content": "Technological unemployment - Wikipedia：概述“技术性失业”的历史争论，指出自动化和AI引发了关于大规模失业乃至工作终结的担忧，同时也提到诸多经济学家认为技术长期来看通过创造新产业和岗位可以维持充分就业，学界并无定论。",
+        "url": "https://en.wikipedia.org/wiki/Technological_unemployment",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Artificial intelligence and jobs: No signs of slowing labour demand - OECD Employment Outlook 2023 章节：基于各国微观与宏观数据评估AI对就业的影响，发现迄今为止AI暴露度较高岗位并未整体呈现大规模净就业流失的证据，总体就业仍然保持增长，但作者也强调生成式AI等新一代技术的未来冲击存在高度不确定性。",
+        "url": "https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-",
+        "credibility": "High"
+      },
+      {
+        "content": "Will robots and AI cause mass unemployment? Not necessarily – UN DESA：联合国经济和社会事务部讨论机器人和AI是否会造成大规模失业，认为技术确实会替代大量任务并带来严峻调整压力，但历史经验与模型分析并不支持“必然出现持久性大规模失业”的简单结论，就业结果在很大程度上取决于教育、再培训和社会保障等政策应对。",
+        "url": "https://www.un.org/en/desa/will-robots-and-ai-cause-mass-unemployment-not-necessarily-they-do-bring-other",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "当前关于大规模自动化和人工智能在本世纪内是否会导致“技术性大失业”的研究与观点高度分歧：有学者和机构基于岗位可自动化比例和AI能力前景，警告存在大规模就业替代风险，也有基于实证数据的研究发现，迄今为止自动化与AI更多带来的是岗位结构调整和技能要求变化，而非总体就业的系统性崩塌，且技术进步同时会创造大量新岗位；真正的长期就业结局还高度依赖教育培训、再分配和劳动力市场等政策选择。鉴于未来技术路径和政策应对都存在巨大不确定性，无法在目前的证据基础上把“本世纪内一定会出现技术性大失业”视为可以被确证或证伪的客观命题，只能认为这是一个具有重大不确定性和政策依赖性的前瞻性判断。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "欧元区在没有统一财政联盟的情况下也能长期稳定存在。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Subjective or Future Predictions",
+    "justification": "该命题本质上是在预测欧元区在未来几十年甚至更长时期内、在始终缺乏“统一财政联盟”的前提下，是否依然能够维持“长期稳定存在”，涉及对未来政治与经济路径的判断，超出了当前可验证经验的范围。 一方面，大量研究和政策报告指出，欧元区作为非最优货币区，缺乏统一财政能力和充分风险共担机制，使其在应对非对称冲击、主权债务危机和银行—主权“死亡循环”时结构性脆弱，因此主张通过建立某种形式的财政联盟或至少更强的中央财政能力来提升长期稳定性与韧性，认为“没有一定程度的财政联盟，欧元区将持续面临生存风险”。 另一方面，也有经济学家和一些成员国财政部门观点认为，若能通过完成银行联盟、强化资本市场联盟、严格国家财政规则并保留充分的国内财政空间，货币联盟可以在较分散的财政框架下实现足够的稳定，无需完整意义上的集中财政联盟；这些研究强调的是“替代性安排”与制度渐进改革，而非认定在现有状态下必然导致瓦解。 当前事实是：欧元区在迄今二十余年内在缺乏真正统一财政联盟的情况下仍然存续，但期间经历严重主权债务危机、长期增长乏力与高失业等问题，未来稳定性高度依赖成员国政治意愿、制度演进（如是否进一步财政一体化）以及外部冲击强度，这些关键变量无法在今天被确定；因此，“一定可以长期稳定存在”或“必然无法长期稳定存在”都属于尚不可证伪的前瞻性判断，只能说存在显著风险和不同制度路径选择，而无法给出可核查的单一结论。",
+    "evidence_sources": [
+      {
+        "content": "The Euro Area Needs a Fiscal Union - IMF Blog：认为尽管已建立稳定机制和部分银行联盟，但要维持欧元区的金融与经济一体化和稳定，还需要更多财政风险共担与共同财政能力，否则欧元区将继续面临根本性的生存风险和对大冲击的高度脆弱性。",
+        "url": "https://www.imf.org/en/blogs/articles/2018/02/21/the-euro-area-needs-a-fiscal-union",
+        "credibility": "High"
+      },
+      {
+        "content": "A more stable EMU does not require a central fiscal capacity - VoxEU 列文：由荷兰财政部经济学家撰写，认为在商业周期高度趋同、且存在道德风险与永久转移担忧的情况下，中央财政能力的潜在稳定收益未必大于成本，主张通过完成银行联盟、资本市场联盟和确保成员国自身财政空间来提升稳定性，从而“无需中央财政容量”。",
+        "url": "https://cepr.org/voxeu/columns/more-stable-emu-does-not-require-central-fiscal-capacity",
+        "credibility": "Medium"
+      },
+      {
+        "content": "The Eurozone and the Optimal Currency Area Theory（2025）等研究：基于最优货币区框架评估欧元区，认为其在劳动流动性、财政一体化和风险共担方面仍不充分，建议通过更深的财政整合、强化跨国支持机制等方式增强功能与韧性，否则欧元区在长期内仍易受周期分化和结构性失衡的冲击。",
+        "url": "https://js.ugd.edu.mk/index.php/JE/article/view/7832",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有文献与政策讨论普遍认为，欧元区在缺乏统一财政联盟的架构下已经暴露出结构性脆弱性，如难以应对非对称冲击、主权债务与银行危机的相互强化等，因此大量观点主张通过不同程度的财政一体化（共同预算、中央稳定工具、跨国保险机制等）来提升长期稳定性；也有学者和官方机构认为，如果完成银行联盟、资本市场联盟，并确保各成员国拥有充足的财政缓冲和更合理的规则设计，则可以在较分散的财政框架下获得足够稳定，无须建立完全集中化的财政联盟。由于欧元区未来的制度演化、成员国政治选择以及外部经济冲击都充满不确定性，无法在今天证明“在没有统一财政联盟的情况下必然能够（或必然不能）长期稳定存在”，该命题属于对未来制度与经济路径的前瞻性预测，而非可以用当下证据直接判定真假的客观事实。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "普遍基本收入（UBI）可以在不显著削弱劳动积极性的前提下提高社会福利",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题同时对两个复杂维度做出一般性、方向性的断言：一是“对劳动积极性的影响不显著”，二是“可以提高社会福利”，且隐含适用于“普遍推行的UBI计划”，超出了目前有限试点和模型研究能够直接验证的范围。 现有实证与模拟研究对“劳动供给是否被明显削弱”结论并不一致：系统综述发现，多数无条件现金或类似UBI项目对劳动供给的影响总体较小，部分群体（单亲家长、照护者、学生、老人等）劳动参与略有下降甚至是政策目标本身，而其他成年群体的就业率和工时变化多为不显著或略有上升；但也有研究指出，在给定税收与财政约束下，若UBI水平较高、融资依赖扭曲性税收，其收入效应和税负可能在长期抑制劳动供给。 关于“是否提高社会福利”，结论更加依赖规范性假设：多篇量化模型研究和试点评估发现，UBI可显著降低贫困、改善健康和教育、提高主观幸福感与财务安全感，并在某些设计下通过风险分担和需求稳定带来总体福利提升，但这些结果高度依赖具体发放水平、税制设计、是否替代现有福利、人口结构和社会偏好等前提假设，不同研究对“福利”的指标与权重选择差异很大。 国际组织（如IMF）也明确指出，UBI更多是一类政策工具框架，其是否适合、对就业与福利的净效应，取决于国家财政空间、现有保障体系、劳动力市场结构及社会偏好，难以得出“一般适用”的结论。 因此，在缺乏对“普遍基本收入”具体制度参数和社会偏好明确设定的情况下，将上述复杂、情景依赖的研究结果概括为“可以在不显著削弱劳动积极性的前提下提高社会福利”的一般命题，属于尚无统一共识、难以用单一证据链直接证实或证伪的争议性判断。",
+    "evidence_sources": [
+      {
+        "content": "Is There Empirical Evidence on How the Implementation of a Universal Basic Income (UBI) Affects Labour Supply? A Systematic Review：系统综述多国无条件现金转移和类UBI试点，发现总体上不存在大规模劳动供给崩塌的证据，成人劳动参与多为不显著变化或略有上升，减少的主要是儿童、老人、重病者和照护者等群体的劳动时间，同时在贫困、教育、健康、自主性等方面有明显改善。",
+        "url": "https://lanarkbasicincome.ca/wp-content/uploads/2024/03/2020-Sustainability-Does-Implementation-of-UBI-Affect-Labour-Supply.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Employment Responses in the Finnish Basic Income Experiment：对芬兰基本收入随机试验的评估显示，尽管受试者边际税率明显下降、就业激励改善，但试验前期“开放就业天数”与对照组相比并无统计显著差异，短期内未观察到明显的劳动供给提升或削弱，同时受试者的主观福祉和心理压力指标有所改善。",
+        "url": "https://www.ifo.de/DocDL/EconPol_Working_Paper_61_Basic_Income_Experiment.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Universal Basic Income: Debate and Impact Assessment - IMF：系统梳理UBI概念、支持与反对理由，并通过模型分析不同设计下的财政可持续性、分配效果和激励影响，指出UBI可能在简化福利体系、减少贫困和提升某些福利指标方面有优势，但也可能因融资方式与替代现有福利而带来效率损失和劳动供给下降，结论高度情景依赖，没有“一刀切”的正面或负面定论。",
+        "url": "https://www.elibrary.imf.org/view/journals/001/2018/273/article-A001-en.xml",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前的实证试点和量化模型大致表明，合理设计的无条件现金或类UBI项目通常不会导致整体劳动供给的剧烈萎缩，劳动参与的变化多为温和且结构性的，同时在减贫、健康、教育和主观福祉等方面往往有正面效果；但对不同收入群体、家庭结构和制度设计，劳动激励的影响方向和强度并不一致，而且在高给付、严格预算约束情形下，为筹资而提高扭曲性税收可能削弱劳动积极性并压缩长期产出。UBI是否“在不显著削弱劳动积极性的前提下提高社会福利”取决于给付水平、税制设计、是否替代现有福利、财政空间与社会对公平与效率权衡的偏好等具体条件，国际和学术界尚未形成普遍适用的一般结论，因此不能将该命题视为已经被证实的事实，只能认为在特定设计和环境下具有潜在可行性，但整体上仍存在显著争议与不确定性。",
+    "topic": "Economy"
+  },
+  {
+    "claim": "高收入国家应为历史累计排放承担大部分减排责任和资金义务。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题包含两个强规范判断：一是“高收入国家应承担大部分减排责任”，二是“应承担大部分资金义务”，都涉及道义责任、分配正义与国际法解释等价值立场，而非单纯可通过经验数据直接验证的客观事实。 在制度层面，《联合国气候变化框架公约》（UNFCCC）及其后续文件确立了“共同但有区别的责任及各自能力”（CBDR-RC）原则，明确承认发达国家在历史排放和经济能力上的“更高责任”，并要求其在减排行动和气候资金方面“发挥领导作用、向发展中国家提供资金和技术支持”，这为“发达国家承担较大份额责任和资金义务”的主张提供了重要的规范基础。 同时，大量气候正义研究与民间倡议使用“历史责任”“气候债务”等概念，认为高收入国家应按其历史累计排放和人均排放承担明显更高比例的减排任务与气候资金贡献，包括对“损失与损害”的补偿和发展中国家的减缓与适应支持。 但在实际谈判与学术争论中，对“应承担大部分”的具体含义和分摊比例并无共识：发达国家强调当前和未来排放中部分中等收入国家的比重快速上升，主张更“动态”的能力和责任分配；而不同伦理框架（按人均排放、按累计排放、按能力、按“祖父条款”等）会给出截然不同的“公平分摊”结果。 因此，“是否应由高收入国家承担大部分责任与资金义务”更多是规范性与政治性的判断，不存在一个被普遍接受、可作为经验事实检验的标准答案，无法用通常事实核查框架给出 Supported 或 Refuted 的结论，只能认定为在国际政治与学界高度争议、且难以用单一证据链证实或证伪的规范主张。",
+    "evidence_sources": [
+      {
+        "content": "Why do governments in the global north need to provide climate finance?（Eurodad）：解释1992年UNFCCC中确立的“共同但有区别的责任”原则，指出该原则承认所有国家都有义务应对气候变化，但发达国家因其更高的历史排放和更强的经济能力而承担更高责任，应在气候资金上作出更多贡献。",
+        "url": "https://www.eurodad.org/why_climate_finance",
+        "credibility": "High"
+      },
+      {
+        "content": "The climate change battle in Paris: putting equity into action（Social Watch / UNFCCC背景）：回顾UNFCCC及巴黎协定如何以公平和CBDR-RC为基础，强调工业化国家基于其历史责任和能力，应在国内减排和为发展中国家提供“实施手段”（资金、技术、能力建设）方面“带头”，但未给出精确的“多数份额”量化标准。",
+        "url": "https://www2024.socialwatch.org/node/17296",
+        "credibility": "Medium"
+      },
+      {
+        "content": "What Role Does Historical Responsibility Play in Climate Action?：概述“历史责任”在气候政治中的作用，指出发展中国家通常主张根据历史累计排放和能力分配减排与资金义务，而发达国家更强调当前排放和能力，双方围绕CBDR-RC的解释长期存在激烈争论，说明对“谁应承担大部分责任和资金义务”并无统一答案。",
+        "url": "https://climate.sustainability-directory.com/question/what-role-does-historical-responsibility-play-in-climate-action/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现行国际气候制度通过“共同但有区别的责任及各自能力”原则，普遍承认发达／高收入国家在历史排放与经济能力上具有更高义务，应在减排行动和气候资金支持方面发挥领导作用，并为发展中国家的减缓、适应和损失与损害提供重要财政与技术支持；但对于“是否应由高收入国家承担大部分（多数份额）的减排责任和资金义务”，不同国家与学术观点依据历史累计排放、人均排放、当前与未来排放、经济能力等不同公平标准给出迥异结论，尚无广泛接受的统一量化分摊规则，因此这一表述属于具有强烈规范性的政治主张，而不是已经可以用经验事实明确判断真假的客观命题。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "发展中国家有权在未来几十年内继续增加化石能源消费以实现工业化。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这一命题涉及“发展中国家的权利”与“继续增加化石能源消费”的关系，本质上是关于权利内涵与气候义务边界的规范性判断，而非单纯可通过经验数据直接验证的客观事实。 《联合国气候变化框架公约》在序言和第3条明确提出，各方“有权利并应当促进可持续发展”，并承认发展中国家为实现社会经济发展，其能源消费“需要增长”，同时强调应在提高能效和控制温室气体排放的前提下进行，这为发展中国家主张“发展权”与一定程度的能源消费增长提供了重要的法律与政治依据，但并未赋予无限期、无限量增加化石能源的明文权利。 随着《巴黎协定》确立将升温控制在1.5–2摄氏度以内的目标，以及近期国际法院关于气候义务的咨询意见逐步强化各国减少化石燃料依赖的法律责任，越来越多的分析认为，包括发展中国家在内“所有国家”都有逐步摆脱化石能源的义务，只是依据“共同但有区别的责任及各自能力”（CBDR-RC）原则，高收入国家应更快更深地减排并提供资金和技术支持，从而让发展中国家通过更清洁路径实现发展。 同时，气候正义和“发展权”相关研究普遍主张：发展中国家不能被要求复制发达国家尚未完成的快速化石燃料退出路径，但也不应将“发展权”简单等同于“在未来几十年持续增加化石能源消费的权利”，而应理解为在公平的国际支持下获得安全、可负担、可持续能源和发展机会。 目前在国际法和多边谈判中，对“发展中国家是否有权在未来几十年内持续增加化石能源消费”既无明文授权也无明确禁止，不同国家和学者基于气候科学、公平原则与人权视角给出高度分歧的解读，因此无法将该命题视为可被直接证实或证伪的客观事实，只能认定为一个具有强烈价值取向、仍在激烈争论中的规范性主张，证据不足以给出 Supported 或 Refuted 的结论。",
+    "evidence_sources": [
+      {
+        "content": "United Nations Framework Convention on Climate Change（UNFCCC）第3条与前言：确认“缔约方有权利并应当促进可持续发展”，并指出发展中国家为实现可持续社会和经济发展，其能源消费需要增长，同时要求在提高能效和控制温室气体排放的基础上实现这一增长，体现了发展权与减排义务并存。[Article 3.4]",
+        "url": "https://unfccc.int/resource/docs/convkp/conveng.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Climate Change, the Right to Development and the 2030 Agenda（OHCHR）：从人权与发展权角度分析气候行动，认为各国特别是发展中国家保留对本国资源用于发展的主权，但这一权利伴随在全球气候目标之下减少排放、推动可持续能源转型的责任，强调需要通过资金和技术支持帮助发展中国家以低碳方式实现发展。",
+        "url": "https://www.ohchr.org/sites/default/files/Documents/Issues/Development/SR/AddisAbaba/ClimateChange_2030AgendaSustainable.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Can Africa Still Drill? – Verfassungsblog：解读国际法院关于气候的咨询意见，指出法院虽承认可持续发展与CBDR-RC原则，但同时认为化石燃料生产与消费在未采取适当行动时可能构成国际不法行为，并强调包括非洲在内的所有国家都负有逐步摆脱化石燃料的义务，只是能力更强者应更快更深地转型，这表明“发展权”并不被视为继续扩大化石燃料使用的绝对豁免。",
+        "url": "https://verfassungsblog.de/icj-climate-advisory-opinion-means-for-oil-and-gas-exploration-in-africa/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有国际气候法律与人权框架普遍承认发展中国家享有发展权和获得现代能源的权利，并在UNFCCC中明确指出为实现可持续社会经济发展，其能源消费有合理增长需求；同时，这一权利被限定在可持续发展和全球气候目标的框架之内，并伴随逐步控制和减少温室气体排放的责任，特别是在获得发达国家资金与技术支持的前提下加快向清洁能源转型。因此，更谨慎的表述是：发展中国家有权在公平的国际支持和全球减排目标约束下，通过增加能源（包括在一定过渡时期内的部分化石能源）来追求工业化和发展，但这种权利并非对“在未来几十年持续增加化石能源消费”的无限期豁免，具体可行的化石能源使用空间和时间长度仍是全球气候谈判和气候正义争论的核心议题，尚无统一定论。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "为适应气候变化，主动放弃部分注定难以恢复的生态系统比强行修复更有效。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题对全球或广泛情形下的适应策略做出一般性结论，声称“主动放弃部分生态系统比强行修复更有效”，涉及价值取向（保护/放弃）、空间尺度、时间尺度和具体生态情境等多重因素，目前缺乏统一、可验证的经验或规范标准来判定这一说法在“一般意义上”为真或为假。 现有气候适应文献区分“渐进式适应”和“变革性适应”，在某些极端情景下（如海平面上升下的海岸线后退、极端干旱区农业撤出等）讨论过有计划地“撤退”“转移功能”或“转变用途”，以避免在高度脆弱或不可逆退化系统上持续投入资源导致“适应不当”（maladaptation），但这类案例高度情境化，并未形成普适原则，更没有广泛共识认为“主动放弃某些生态系统”在总体上比试图修复更有效。 相反，联合国和多国政策强调“基于生态系统的适应”和“维护完好自然生态系统”通常是成本最低、协同效益最高的适应手段，主张优先通过扩大保护、恢复退化生态和提升生态系统韧性来减少风险；在多数情形下，强行工程化改造或错误的修复方式会被视为“适应不当”，但这并不自动推导出“主动放弃生态系统”是更优选项，而是要求因地制宜评估不同路径的风险、成本和长期效益。 由于不同生态系统（珊瑚礁、冰川、湿地、森林等）受气候变化影响的可逆性、修复成本和社会依赖度差异极大，且“何谓注定难以恢复”“何为更有效”本身就是高度争议的规范与政策问题，目前不存在一套被普遍接受的、量化的全球性证据链来支持或反驳该命题的普遍有效性，因此只能判定为证据不足、属尚在激烈讨论中的适应策略观点，而非已被事实证实或证伪的命题。",
+    "evidence_sources": [
+      {
+        "content": "Transformational adaptation when incremental adaptations to climate change are insufficient（PNAS, 2012）：提出“变革性适应”概念，讨论在某些高度脆弱区域或系统中从局部工程对抗转向更大尺度的用途转移或空间迁移，但强调这是在特定条件下的选择，并未将“放弃特定系统”视为普适更优策略。",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.1115521109",
+        "credibility": "High"
+      },
+      {
+        "content": "Redefining maladaptation to climate change: a conceptual framework（Frontiers in Forests and Global Change, 2024）：指出许多本意为“适应”的措施（包括某些工程化生态修复）可能导致长期脆弱性增加和生态退化，被视为适应不当，呼吁更审慎设计与评估适应措施，但并未主张在一般情况下“放弃生态系统”优于修复。",
+        "url": "https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2024.1506295/full",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Natural Ecosystems Are Cheap and Effective Barriers to Climate Impacts（UNFCCC新闻稿）：强调完整、健康的自然生态系统往往是应对气候影响的最便宜且最有效“屏障”，倡导将基于生态系统的适应纳入国家适应战略，并优先保护和恢复自然生态，而不是主要依赖硬工程或放弃生态系统。",
+        "url": "https://unfccc.int/news/natural-ecosystems-are-cheap-and-effective-barriers-to-climate-impacts",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前的研究与政策实践显示，在许多情形下保护和恢复健康的自然生态系统是成本效益较高、协同减缓和适应效果显著的途径，而对高度退化、在可预见未来几乎无法恢复的个别生态系统，是否应减少投入、转移功能或空间（如有计划的“撤退”与用途转变），需要基于具体生态与社会情境进行个案评估，而不能简单概括为“主动放弃更有效”的普遍原则。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "野化与大型掠食者重引入对大多数地区生态系统恢复是净收益。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题对“野化+大型掠食者重引入”在“多数地区”是否带来“净收益”作出一般性判断，涉及生态效应、经济成本和社会冲突等多维权衡，目前缺乏可以在全球尺度、一刀切证明“对大多数地区都是净收益”的统一证据。 研究与实践表明，在适宜区域和良好治理条件下，大型掠食者重引入确实可以恢复失落的营养级结构、触发“营养级联效应”，改善植被和河岸生态、提升景观多样性，并带来旅游与文化等社会经济收益，例如黄石国家公园狼重引入被广泛视作具有显著正面生态效应的案例；但同样大量文献和案例指出，大型掠食者的回归往往伴随家畜损失增加、人身安全担忧、地方经济风险和社会对立，需要持续的冲突管理、补偿机制与参与式治理，否则可能被当地社区视为“净损失”。 总结性评估和范围综述指出，“rewilding”作为一种保护策略本身仍高度争议，在概念、目标和评估标准上尚无共识，IUCN等机构也将其同时归类为具有显著潜在生态益处、但同样存在不小社会风险与不确定性的工具，强调项目应逐案评估而非假定其在大多数地区自动产生净收益。 由于“净收益”需要对生态、经济和社会三方面进行价值权衡，不同地区、利益相关者和时间尺度下的“收益/成本”判断差异极大，现有证据难以支持对“多数地区”作出统一正面结论，该命题属于规范性和情境依赖性很强的判断，而非可以被简单证实或证伪的客观事实。",
+    "evidence_sources": [
+      {
+        "content": "Rewilding the world's large carnivores（Royal Society Open Science, 2018）：综述大型掠食者重引入的潜在生态益处（恢复营养级结构、降低灭绝风险等），同时指出在人类活动密集的景观中存在显著的人兽冲突和社会接受度问题，强调需要谨慎选址与治理设计。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5882739/",
+        "credibility": "High"
+      },
+      {
+        "content": "The policy consequences of defining rewilding（People and Nature, 2021）：指出“rewilding”作为保护策略虽被视为解决生物多样性危机的“大胆方案”，但也因可能增加人兽冲突、影响现有生计和土地权而备受争议，作者强调其风险与机会并存、不能简单视为在大多数情境下的净收益。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8651963/",
+        "credibility": "High"
+      },
+      {
+        "content": "Five critical questions we should ask of rewilding projects（People and Nature, 2024）：提出野化项目在实施前需审慎评估社会正义、人兽冲突、土地使用和长期治理等问题，指出现有许多倡议对负面社会影响考虑不足，强调野化并非在所有或大多数地点都自然带来净收益。",
+        "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.70100",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "当前证据表明，野化和大型掠食者重引入在部分适宜区域、配套补偿机制和冲突管理完善的情形下，可以显著改善生态系统结构和功能，并带来一定社会经济收益，但在土地高度碎片化、人兽冲突风险高、地方社区反对强烈或治理能力有限的地区，则可能导致严重的社会成本与生态不确定性，未必体现“净收益”。因此，更谨慎的表述是：野化与大型掠食者重引入对一些地区和情景的生态系统恢复可能具有重要净收益潜力，但其效果高度依赖当地生态、社会和治理条件，不能简单概括为“对大多数地区”都是净收益，需逐案评估。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "依靠可再生能源（风光等）加储能，就足以在本世纪中叶前完全替代化石能源。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题断言“仅依靠可再生能源（主要是风电和光伏）再加储能”就“足以”在本世纪中叶前“完全替代化石能源”，涉及全球能源系统的技术可行性、经济性、资源约束和政策路径等多重不确定因素，目前学界与政策界对此并无共识，难以用现有证据简单判定为真或假。 一方面，部分研究（如Jacobson及其后续100%可再生情景文献）认为，通过超大规模风光扩张、跨区域电网互联和多种形式储能，可以在2050年前后实现电力乃至终端能源系统的100%可再生供能，把化石能源全部淘汰，这些模型在技术上展示了理论可行性；另一方面，另一部分综述和批评文章指出，这些情景普遍依赖对储能成本、可再生资源利用率、电网调度灵活性、土地与材料供应等的高度乐观假设，且往往忽略难减排部门（重工业、航空、航运等）对高温热和高能量密度燃料的需求，因此认为在现实约束下仅靠风光+储能“完全替代”化石燃料的主张过于乐观。 诸如IEA《2050净零排放情景》等权威路线图普遍认为，到2050年可再生能源将成为主导、化石能源占比大幅下降，但仍假定需辅以碳捕集利用与封存（CCUS）、核能、可持续生物能源以及需求侧效率和结构性削减等多元手段，化石能源虽大幅收缩但并非在中叶时点“完全消失”，这与“风光+储能即可完全替代”这一单一技术路径结论并不一致。 同时，全球实现上述转型的进度还受政治经济约束、投资规模、供应链和关键矿产等因素影响，未来几十年的技术突破与政策选择具有高度不确定性，因此无论是“必然足以完全替代”还是“必然不可能”，目前都属于超出现有证据可验证范围的前瞻性判断，只能认定为一个存在激烈争论、尚未形成共识的情景假设而非已被证实的客观事实。",
+    "evidence_sources": [
+      {
+        "content": "Response to ‘Burden of proof: A comprehensive review of the feasibility of 100% renewable-electricity systems’（Renewable and Sustainable Energy Reviews, 2018）：综述并回应对100%可再生电力系统可行性的批评，指出多项研究在时序匹配、储能和电网稳定性方面给出了技术上可行的方案，但也承认结果高度依赖关键假设和情景设定。",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1364032118303307",
+        "credibility": "High"
+      },
+      {
+        "content": "Is 100% Renewable Energy Feasible? New Paper Argues ‘No’（对Jacobson方案的批评报道，基于PNAS争论）：批评者认为，在2050s实现100%风光水既可行又经济的说法过于乐观，指出其对储能规模、水电调度和技术成本的假设不现实，担心“过度承诺”100%可再生会导致政策反弹；同时也承认长期看可再生能源将是减排的核心。",
+        "url": "https://insideclimatenews.org/news/19062017/100-percent-renewable-energy-climate-change-targets/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "IEA Net Zero by 2050 Scenario：情景中可再生能源（尤其风光）成为全球能源系统主体、化石能源占比从约80%降至约20%，同时假定需大规模部署CCUS、部分核能、氢能和需求侧减量等多种技术组合；报告明确表示需要“所有可用的零和低碳技术”，并未将“风光+储能”视为唯一或必然足够的路径。",
+        "url": "https://zerocarbon-analytics.org/wp-content/uploads/2022/10/What-does-the-IEA-net-zero-scenario-say_-.pdf",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前主流研究普遍认为，到本世纪中叶可再生能源特别是风电和光伏将在全球能源系统中占据主导地位，储能、电网互联和灵活调度将成为支撑高比例可再生能源的关键基础设施；但是否“仅靠风光等可再生能源加储能”就足以在这一时间点彻底取代所有化石能源，学界和机构评估尚无统一结论，大多权威情景仍假定需要包括CCUS、核能、生物能源、氢能以及需求侧减量等多种技术和结构性措施协同发力。更稳健的表述是：风光等可再生能源加储能极有可能成为中叶前后化石能源大幅退出的主体力量，但其是否在全球范围内单独“就足以”完全替代化石能源仍存在较大不确定性，需要结合技术进步、成本、资源约束和政策选择等因素进一步评估。",
+    "topic": "Environment"
+  },
+  {
+    "claim": "“事实核查”机构在实践中难以做到政治立场中立。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题对“事实核查机构整体在实践中难以做到政治立场中立”作出广泛泛化判断，涉及不同国家、平台、机构与时间段的综合评价，目前缺乏一个统一量化标准和覆盖全球的系统证据来证明这一结论在“一般意义上必然成立”或“必然不成立。 一方面，国际事实核查网络（IFCN）等机构要求成员承诺“不偏不倚与公平”，部分实证研究发现，在控制曝光度等因素后，美国大型事实核查机构并未系统性地更多针对某一政党，比如有研究对PolitiFact检查美国国会议员的频率分析后，认为共和党议员并未显著比民主党议员被更频繁地核查，暗示在“被选中核查的频率”这一维度上不存在简单的一边倒偏向。 另一方面，最新的计量研究也发现，不同事实核查栏目之间在选题上的确存在与各自媒体立场一致的系统差异：例如与右倾媒体关联的核查栏目较少核查意识形态上“同阵营”的对象，且更倾向于选取其“正确”的陈述进行评估；作者据此指出，“事实核查者并非完全政治中立”。 同时，围绕社交平台合作核查项目的公共争论也显示，在高度极化的环境下，部分政治阵营对核查机构普遍缺乏信任，将其视为“带有立场的把关者”，这一感知本身会放大对“偏见”的印象。 综合来看，现有研究表明：不同事实核查机构和项目在程序上有中立的制度承诺，但在选题与表述上可能存在与媒体倾向相关的系统差异，且公众对其中立性的感知高度分裂；然而，要在全球和长期尺度上得出“实践中难以做到政治立场中立”这一强断言，需要对不同机构、语境和评价维度（选题频率、判定尺度、用语等）建立统一且被普遍接受的度量，目前尚不存在这样的共识和完备证据链，因此只能判定为证据不足、属于有重要依据但仍高度争议的规范性判断。",
+    "evidence_sources": [
+      {
+        "content": "Fact-checks focus on famous politicians, not partisans（PNAS Nexus, 2025）：对PolitiFact针对美国国会议员的核查数据进行统计分析，发现共和党议员并没有在控制媒体曝光度后被更频繁核查，结论为“缺乏系统性偏向某一政党的证据”，但同时指出核查更集中于高知名度人物，带来信息覆盖不均问题。",
+        "url": "https://academic.oup.com/pnasnexus/article/4/1/pgae567/7928859",
+        "credibility": "High"
+      },
+      {
+        "content": "Both Judge and Party? Investigating the Political Differences Between Fact-Checkers（Journal of the European Economic Association, 2025）：通过对多家媒体附属事实核查栏目的定量分析，发现核查内容存在与所在媒体意识形态倾向一致的系统差异，如对意识形态同阵营对象核查更少、且更易选取“正确”陈述，作者由此认为“事实核查者并非政治中立”。",
+        "url": "https://academic.oup.com/jeea/article/23/6/2137/8087339",
+        "credibility": "High"
+      },
+      {
+        "content": "“Fact-checking” fact checkers: A data-driven approach（Harvard Misinformation Review, 2023）：使用数据驱动方法比较多家事实核查机构（Snopes、PolitiFact等）的选题与结论，指出不同机构在关注议题和判定尺度上确有差异，且在极化环境中容易被一方视为“有偏见”，强调需要提高透明度和标准化以增强跨阵营信任。",
+        "url": "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "现有研究和实践表明，事实核查机构在制度层面普遍承诺政治不偏不倚，并在部分案例中显示出在政党之间相对平衡的核查频率；但同时也有计量研究发现，不同机构在选题和判定上存在与其所属媒体立场一致的系统差异，说明完全彻底的“立场中立”在现实中面临结构性难题。此外，公众尤其在高度极化社会中，对事实核查政治中立性的主观感知高度分裂。更审慎的表述是：事实核查在程序上以中立为目标，但在具体实践中很难完全消除选题偏倚和立场争议，其政治中立性既是努力方向也是持续受到质疑和检验的开放问题，尚不能简单下结论说其“必然难以做到”或“已经做到”。",
+    "topic": "Society"
+  },
+  {
+    "claim": "在国家安全受到威胁时，暂停部分公民自由是正当的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题是对“国家安全威胁”情境下限制公民自由是否“正当”的一般性规范判断，涉及政治哲学、宪政理论和国际人权法解释等维度，不属于可以通过经验数据直接验证真假的客观事实。 现代国际人权法（如《公民权利和政治权利国际公约》ICCPR第4条、《欧洲人权公约》ECHR第15条等）确实允许在“威胁国家存亡的紧急状态”下，对部分权利进行“有限度、临时性的减让（derogation）”，条件是必须：有正式宣告的紧急状态；措施“为应对局势所严格必需”；不得歧视；并且不得触及被列为“不得减让”的核心权利（如生命权、禁止酷刑、思想信仰自由等）。 这为“在特殊安全威胁下有限暂停部分自由”提供了法律上的条件性正当化框架，但并未认定所有以国家安全为由限制自由的做法都是“正当”的，反而强调严格的必要性、比例性和时间限制，同时要求可被司法与国际监督审查，以防滥用紧急状态压制反对派和少数群体。 历史和当代案例（如二战期间日裔美国人集中营、“反恐战争”时期大规模监控、疫情中的紧急法令等）也显示，以国家安全或公共紧急状态为理由限制自由，既可能在一定程度上应对现实风险，也存在严重滥用、歧视和长期侵蚀法治的风险，引发大量学术批评和“安全—自由权衡是否真实存在”的争论。 在缺乏对“何种威胁”“暂停哪些自由”“由谁决定和如何监督”等具体条件的限定时，笼统断言“在国家安全受到威胁时暂停部分公民自由就是正当的”，既可能被理解为对合法紧急减让的概括，也可能被理解为为广泛滥用紧急权力背书；不同价值立场和法律学派对此有根本分歧，因此该命题无法在现有事实框架下给出统一的 Supported 或 Refuted 结论。",
+    "evidence_sources": [
+      {
+        "content": "Derogation from rights in emergencies – Australian Human Rights Commission：概述ICCPR第4条，指出缔约国在“威胁国家生命的紧急状态”下可以在严格必要范围内减让部分权利，但有明确程序、比例和不歧视要求，且不得触及生命权、禁止酷刑等“不可减让权利”。",
+        "url": "https://humanrights.gov.au/our-work/rights-and-freedoms/derogation-rights-emergencies",
+        "credibility": "High"
+      },
+      {
+        "content": "Human Rights Committee General Comment No. 29（States of Emergency, Article 4）：强调紧急减让措施必须严格限于应对威胁“所必需”的程度，且不得被用作规避条约义务或掩盖严重人权侵犯，指出某些行为即使在紧急状态下也可能构成危害人类罪，不能以国家安全为由正当化。",
+        "url": "https://hrlibrary.umn.edu/gencomm/hrc29.html",
+        "credibility": "High"
+      },
+      {
+        "content": "Security vs. Liberty? Is There a Trade off?（E-International Relations）：回顾“反恐战争”等历史经验，指出部分以国家安全为由扩大国家权力、限制公民自由的举措并未明显提升安全，却长期削弱法治与少数群体权利，说明“以国家安全为名暂停自由”的正当性高度争议且情境依赖。",
+        "url": "https://www.e-ir.info/2011/06/23/security-vs-liberty-is-there-a-trade-off/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "国际人权法普遍承认在极端紧急情况下（如战争、严重恐怖袭击、大规模灾害等）可以依法、有限度地临时减让部分公民自由，但须满足正式宣布紧急状态、严格必要性与比例性、不歧视及尊重不可减让核心权利等条件，并接受司法和国际监督；同时，历史与现实也表明“国家安全”理由极易被滥用，用来打压反对派和少数群体，导致严重、持久的权利侵蚀。因此，更谨慎的表述应为：在国家安全受到严重威胁时，可以在严格的法治框架和人权约束下有限、临时地限制部分公民自由，但其是否正当取决于具体威胁程度、措施必要性与比例性以及是否存在有效的监督与救济，不能一概而论。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "数字监控技术的普及必然会侵蚀公民权利与民主自由。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题使用了“必然”这一强因果与必然性表述，声称数字监控技术一旦普及就不可避免地侵蚀公民权利与民主自由，这是对技术与政治制度关系的规范性和因果性综合判断，超出了目前经验研究可给出的单一结论范围。 大量人权机构与学术研究确实指出，尤其是缺乏法治和有效监管的情况下，数字监控（包括大规模数据收集、人脸识别、间谍软件、预测性警务等）会产生明显“寒蝉效应”，抑制言论自由、集会权和新闻自由，并被威权或民主倒退政权用来压制异议、监视反对派，从而侵蚀民主空间，这在多国已有充分记录。 同时，也有研究与政策分析强调，数字监控技术本身具有工具性，其对民主与权利的实际影响高度依赖于法律框架、透明度、问责机制和权力制衡：在严格的人权法约束、独立监督和强隐私保护制度下，某些有限、目标明确的数字监控（如带充分保障的公共卫生追踪或司法授权下的刑侦取证）可以在一定程度上兼顾安全与权利；也有城市与国家通过立法限制人脸识别和大规模数据留存，试图证明“技术可被驯服而非必然威权化”。 综上，现有证据强烈表明数字监控技术对公民权利和民主具有重大风险和现实侵蚀案例，但是否“必然”导致权利与自由被侵蚀取决于制度设计与权力结构等多重变量，学界与实务界尚无共识，也难以用反事实方式严格验证这一必然性命题，因此更合适的判断是：风险显著且已在许多情境中成真，但不能被视为在所有情境中都不可避免，证据不足以支持“必然会”这一强断言。",
+    "evidence_sources": [
+      {
+        "content": "Human Rights and the Global Digital Surveillance Infrastructure（2025）：指出全球数字监控基础设施对人权和民主治理构成系统性风险，记录了在缺乏充分法律保障和监管的情况下，大规模监控如何通过寒蝉效应、针对异议者的打压和少数群体的针对性监视侵蚀民主空间，并呼吁以人权为中心的监管框架。",
+        "url": "https://www.diplomacyandlaw.com/post/human-rights-and-the-global-digital-surveillance-infrastructure",
+        "credibility": "High"
+      },
+      {
+        "content": "Analyzing the Human Rights Impact of Increased Digital Surveillance（Journal of Human Rights Practice, 2020）：以疫情期间接触追踪和数字监控扩张为例，使用“必要性与比例性”标准评估不同工具的人权影响，认为在缺乏适当法律与技术保障时，监控易滑向“监控国家”和“监控资本主义”，侵蚀隐私和民主；但在严格限制、透明和问责机制下，部分监控工具可以在较小权利代价下服务公共利益。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7762901/",
+        "credibility": "High"
+      },
+      {
+        "content": "Digital Surveillance and Democracy: Navigating the Challenges of the Digital Age（Impact Policies, 2021）：总结数字监控对民主的负面效应（自我审查、恐惧、舆论操控、数字威权主义输出等），认为其是21世纪民主面临的重大威胁之一，同时也指出数字技术本身既非天然解放也非天然压迫，其民主影响取决于法律、政治和社会环境。",
+        "url": "https://impactpolicies.org/news/594/digital-surveillance-and-democracy-navigating-the-challenges-of-the-digital-age",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有研究和人权报告普遍认为，数字监控技术如果缺乏严格的法律约束、透明度、监督和救济机制，极易被用来大规模侵犯隐私、压制异议和操控舆论，从而严重侵蚀公民权利与民主自由；在许多国家，这种风险已经演变为现实。然而，技术本身具有工具性，其具体影响取决于制度设计和权力结构：在强有力的人权与隐私保护框架下，对数字监控的范围、对象和用途进行严格限制，加上独立监督和公民社会参与，有可能在一定程度上缓解对权利和民主的侵蚀风险。因此，更谨慎的表述是：数字监控的普及显著增加了侵蚀公民权利与民主自由的风险，并在缺乏约束的情境下往往会导致实际侵蚀，但这并非在任何制度环境下都“必然”发生，而是一个取决于治理与权力制衡的高度风险命题。",
+    "topic": "Society"
+  },
+  {
+    "claim": "经济制裁是迫使专制政权改变行为的有效工具。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题以一般性形式断言“经济制裁是迫使专制政权改变行为的有效工具”，隐含的是对“制裁→专制政权政策或行为改变”这一因果关系在多数情形下成立的判断，而现有经验研究给出的结论高度复杂且分化，难以支持简单的一刀切定性。 综合量化研究表明：从总体样本看，经济制裁在实现既定外交政策目标方面的成功率大致在三分之一甚至更低的水平，且针对威权/专制政权的制裁普遍被发现“明显低效于针对民主国家的制裁”，原因包括专制政权能通过严厉镇压、信息控制和对精英的定向“买断”来消化制裁成本，并将外部压力转化为民族主义动员工具。 同时，一部分文献指出“民主制裁”（即明确以推动民主化、人权改善为目标的制裁）在统计上与目标国民主水平上升、政权更迭概率增加存在相关性，说明在特定设计和条件下制裁有可能对专制政权行为或制度产生正向影响，但这种效果并不普遍，且伴随严重的副作用：大量研究显示制裁常常加剧人权侵害、政治压迫和普通民众的经济困境，有时甚至稳固了统治联盟，反而不利于预期的政治转型。 鉴于制裁效果高度依赖制裁类型（全面/定向）、目标（核计划、侵略行为、民主化等）、政权结构、国际配合程度以及国内反对力量状况等多重变量，目前学界更趋向于认为：制裁既非普遍有效的“灵丹妙药”，也非完全无用，而是一种在特定情境下可能发挥作用但总体成功率有限、且伴随高人道与政治代价的政策工具。要将其简单概括为“是迫使专制政权改变行为的有效工具”，属于超出现有证据支持范围的强化描述，因此更合适的判定是证据不足且存在明显争议。",
+    "evidence_sources": [
+      {
+        "content": "Autocracies and Economic Sanctions: The Divergent Impact on Regime Survival（相关文献综述）：指出制裁针对威权政权时的成功率普遍低于对民主政体，专制政权通常更能通过镇压和宣传吸收制裁成本，将其转化为反外部压力的合法性资源。",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/10242694.2017.1368258",
+        "credibility": "High"
+      },
+      {
+        "content": "How effective are economic sanctions?（OFCE, 2024）：回顾Hufbauer等及后续数据，给出的总体成功率大致在20%–35%区间，并强调制裁“改变行为”的成功多集中在目标有限、时间较短、与外交谈判配合良好的情形，而对深度嵌入国内权力结构的重大政策（如政权性质、核心安全政策）的效果远弱。",
+        "url": "https://www.ofce.sciences-po.fr/blog/how-effective-are-economic-sanctions/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Evidence on the Costs and Benefits of Economic Sanctions（Peterson Institute, 2018）：基于115个制裁案例，认为约35%的制裁在某种程度上达成了政策目标，但也强调制裁往往带来显著的人道与经济代价，并非稳定可靠的行为改变工具，且成功高度依赖具体设计与情境。",
+        "url": "https://www.piie.com/commentary/testimonies/evidence-costs-and-benefits-economic-sanctions",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "现有研究普遍认为，经济制裁在特定条件下可以对专制政权施加压力，个别设计精良、目标明确且与外交与内部压力相配合的“民主制裁”确实在统计上与政权更迭或民主化程度提升存在关联，但整体成功率有限且高度情境依赖，很多针对专制政权的制裁要么未能实现预期政策改变，要么伴随人权恶化和国内镇压加剧等严重副作用。因此，更稳妥的说法是：经济制裁可以作为影响专制政权行为的工具之一，在某些情形下发挥一定作用，但远不能笼统地视为“迫使专制政权改变行为的有效工具”，其效果和代价需要在具体案例中谨慎评估。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "反恐战争期间建立的“特别法庭”和“特殊拘押”制度在法治意义上是可接受的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题评价的是一整类制度（如关塔那摩军事委员会、对恐怖嫌疑人的特殊拘押与长期不经审判羁押等）在“法治意义上是否可接受”，属于高度规范性、带有强烈价值判断和法理争议的问题，而不是可以用单一经验事实直接证实或证伪的命题。 从国际人权机构、主要人权NGO、大量学术研究的观点看，美国等国在“反恐战争”框架下建立的军事委员会审判体系和无限期拘押安排，长期被批评为违反正当程序、公平审判权、禁止任意拘押和禁止酷刑等基本法治原则：如关塔那摩军事委员会被指允许使用秘密证据、限制被告接触律师和证据、诉讼程序长期拖延，且与普通法院和正规军事法庭相比保障明显不足，多份报告直接称其为“从根本上有缺陷”的制度。 美国联邦最高法院在 Hamdan v. Rumsfeld 等判决中认定，当时设立的军事委员会违反《统一军事司法法典》（UCMJ）和1949年四部日内瓦公约的要求，随后国会通过《军事委员会法》试图重构法律基础，但关于其是否真正达到了与宪法和国际人权法相符的正当程序标准，学界和人权机构仍有广泛质疑。 与此同时，也有部分学者和政府法律意见认为，在武装冲突或“类似武装冲突”的背景下，依据战争法设立军事委员会审判战斗人员或严重违法者在历史上有先例，若程序满足战时法定最低保障，并经国会授权，则在国内宪制秩序下可以被视为“有法律依据”的非常措施；他们主张在国家安全与传统刑事司法难以兼容的情境中，某种“特设法庭/拘押”可以在法治框架内存在。 鉴于不同法律传统、法治观和价值立场对同一制度给出截然不同的评估，并且“法治意义上可接受”本身缺乏统一操作性标准，该命题更多反映的是规范性立场之争，而非一个可以通过客观数据统一回答的事实问题，因此在事实核查框架下只能判定为证据不足、存在重大争议。",
+    "evidence_sources": [
+      {
+        "content": "USA: Restoring the rule of law – The right of Guantánamo detainees to judicial review of the lawfulness of their detention（Amnesty International）：认为‘全球反恐战争’并不构成背离现有国际法框架的合法理由，并批评关塔那摩的无限期拘押和军事委员会严重违反正当程序和法治原则，呼吁以正常法院审理或依法释放。",
+        "url": "https://www.amnesty.org/fr/wp-content/uploads/2021/09/amr510932004en.pdf",
+        "credibility": "High"
+      },
+      {
+        "content": "Briefing Paper on U.S. Military Commissions（Human Rights Watch）：系统列举关塔那摩军事委员会在证据规则、被告权利、公开性与上诉机制上的缺陷，认为其为恐怖主义案件专门设计的“特别法庭”未达到公平审判的基本国际标准，因此损害美国的法治形象。",
+        "url": "https://www.hrw.org/legacy/backgrounder/usa/gitmo0606/",
+        "credibility": "High"
+      },
+      {
+        "content": "Courts-Martial as an Alternative to the 9/11 Military Commissions（Harvard National Security Journal）：回顾布什政府创建军事委员会的过程，并指出关塔那摩军事委员会因缺乏充分的正当程序保障而“进一步削弱其作为公正法庭的合法性”，主张应以已有法律框架下的军事法庭或联邦法院替代。",
+        "url": "https://journals.law.harvard.edu/nsj/2025/06/a-foreign-organ-courts-martial-as-an-alternative-to-the-9-11-military-commissions/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "从现有国际人权机构、主流人权组织和相当大部分学术文献来看，“反恐战争”背景下建立的特别军事委员会和特殊拘押制度（如关塔那摩模式）在正当程序、司法独立性和禁止任意拘押等方面存在严重缺陷，难以被视为符合强实质意义上的法治；尽管也有学者和政府法律意见主张，在武装冲突或极端安全威胁下，经国会授权、并在一定程序保障下的军事法庭与特殊拘押在形式上具有一定法律依据，但这是否构成“法治意义上的可接受”，在国际法和宪政理论领域仍存在深刻分歧，难以给出统一定论。",
+    "topic": "Politics"
+  },
+  {
+    "claim": "死刑在震慑重大暴力犯罪方面具有显著效果。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题宣称死刑对重大暴力犯罪（尤其是故意杀人等）具有“显著震慑效果”，但当前关于死刑威慑力的实证研究在方法和结论上高度分歧，且美国国家科学院旗下的国家研究委员会（NRC）明确指出，现有研究“无法得出死刑对凶杀率是否有影响的可靠结论”，因此既不能据此证明存在显著震慑，也不能据此否定任何可能的威慑效应。 一方面，部分经济学研究基于州际或跨时间数据建模，声称“每一次执行可减少若干起谋杀”，认为存在可观的统计学威慑效应；另一方面，后续大量方法论批评指出这些研究存在模型设定、变量遗漏、因果识别和数据质量等方面的根本缺陷，NRC在系统回顾30余年文献后，结论是这些研究“在科学上不具说服力，不应作为判断死刑对凶杀率影响的依据”。 此外，多份综述和人权组织的政策评估比较有死刑与无死刑辖区的凶杀率，通常发现死刑州/国的凶杀率并不系统低于废死地区，甚至有时更高，而影响凶杀率的更重要因素往往是破案率、司法系统效率、社会经济条件等。 因为现有总体证据既无法在严谨意义上确认“显著威慑”，也无法完全排除在某些特定情境下可能存在有限威慑效果，主流科学评估建议不要将现有研究作为支持或反对死刑政策的决定性依据，而应承认在威慑问题上“证据不足、无法得出定论”，故该命题在事实核查框架下应判定为证据不足，而非 Supported 或 Refuted。",
+    "evidence_sources": [
+      {
+        "content": "Deterrence and the Death Penalty（National Research Council, 2012）：在系统审查1970年代以来实证文献后，明确指出现有研究不足以判断死刑对凶杀率是降低、提高还是没有影响，并建议这些研究不应用于支持任何关于死刑威慑效果的政策判断。",
+        "url": "https://www.nationalacademies.org/publications/13363",
+        "credibility": "High"
+      },
+      {
+        "content": "National Research Council news release “Current Research Not Sufficient to Assess Deterrent Effect of the Death Penalty”：强调关键问题是死刑相对于无期徒刑等替代刑罚是否具有更强威慑力，而现有研究在控制替代刑罚、识别因果关系等方面存在严重方法问题，因此不能得出可靠结论。",
+        "url": "https://www.nationalacademies.org/news/current-research-not-sufficient-to-assess-deterrent-effect-of-the-death-penalty",
+        "credibility": "High"
+      },
+      {
+        "content": "The Death Penalty and Deterrence – Amnesty International USA：概括多国经验指出，有死刑与无死刑辖区的谋杀率不存在系统性“更低”关系，并引用NRC的结论称，声称死刑具有显著威慑效果的研究“从根本上存在缺陷”，科学界不存在“死刑有明显威慑”的共识。",
+        "url": "https://www.amnestyusa.org/issues/death-penalty/death-penalty-facts/the-death-penalty-and-deterrence/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有严谨综述（特别是美国国家研究委员会的权威报告）普遍认为，关于死刑是否比其他严厉刑罚（如终身监禁）更能显著震慑重大暴力犯罪的实证研究，在方法和数据上存在严重缺陷，尚无法得出可靠结论；一些研究声称存在较大威慑效应，另一些则发现没有显著差异甚至可能存在“残酷化效应”，总体上既不能科学地证明死刑具有显著威慑力，也不能据现有证据完全排除任何威慑可能。因而，关于死刑是否在震慑重大暴力犯罪方面具有显著效果，目前属于证据不足、尚无定论的问题，不能被当作已经被事实证实的命题。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "哈维·韦恩斯坦案中的媒体报道准确完整地还原了案件事实。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题断言“媒体报道”对韦恩斯坦案“准确完整地还原”了案件事实，涉及对大量跨媒体、跨时间报道在事实准确性、取舍与框架上的总体评估，这在经验和方法上都难以被简单验证或证伪。 实际上，关于韦恩斯坦案的媒体角色本身就是学界与业界反思和批评的对象：一方面，《纽约时报》《纽约客》等调查报道被广泛认为揭示了长期被压制的性侵和性骚扰指控，推动了司法调查和#MeToo运动，许多内容在后续刑事和民事程序中也得到一定印证，说明部分核心事实通过媒体得到了较为准确的呈现。 另一方面，研究和评论同样指出，媒体早年与韦恩斯坦的利益和人脉关系导致多次“有料不发”、被法律威胁和公关操作“压稿”，BBC等也直言“媒体在其长期施害中存在共谋”，说明在相当长时间内报道既不完整也不准确，甚至起到了掩盖作用。 在正式审判阶段，辩方律师多次公开指责媒体报道营造了“先入为主的有罪形象”并污染陪审团池，而法学和传播学分析则从“框架”“话语权”角度指出，不少报道更强调叙事与情绪，而非对复杂证据、程序争议和无罪/撤诉部分的全面呈现。 鉴于“案件事实”本身仍在部分指控上存在程序争议（如纽约初审定罪被推翻重审）且媒体在不同时期、不同机构之间差异巨大，目前不存在一个被普遍接受的、系统验证“整体媒体报道是否准确完整”的标准与数据，因此无法在事实核查框架下认定此命题为真或为假，只能判为证据不足且高度争议。",
+    "evidence_sources": [
+      {
+        "content": "Harvey Weinstein sexual abuse cases – Wikipedia：梳理媒体揭露、警方调查与多轮审判的关系，指出《纽约时报》和《纽约客》的调查报道在曝光指控方面发挥关键作用，但也提及早年有媒体因法律威胁和公关压力而压制相关报道。",
+        "url": "https://en.wikipedia.org/wiki/Harvey_Weinstein_sexual_abuse_cases",
+        "credibility": "High"
+      },
+      {
+        "content": "Weinstein: Is the media complicit? – BBC：反思媒体在韦恩斯坦长期施害中的角色，指出多名记者多年间掌握线索却因法律风险、行业压力和职业顾虑没有发稿，认为媒体在早期阶段在某种程度上“共谋”于沉默和掩盖。",
+        "url": "https://www.bbc.com/news/entertainment-arts-41582187",
+        "credibility": "Medium"
+      },
+      {
+        "content": "“0, Harvey Weinstein: 10”: A Critical Discourse Analysis of the press coverage – Critical discourse study：以《纽约时报》的系列报道为样本，分析其如何通过选材与话语框架塑造对韦恩斯坦及指控的理解，既肯定其揭露作用，也指出报道在权力与性别叙事上的取舍与建构，说明“还原事实”并非简单客观呈现。",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0277539521000790",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "更符合现有证据的表述是：调查报道在揭露哈维·韦恩斯坦长期被隐藏的性侵和性骚扰指控方面起到了关键作用，许多核心情节在后续司法程序中得到一定程度印证，但整体媒体在早年对线索的忽视、被法律与公关压力影响而“压稿”，以及在审判阶段对案件复杂证据与程序争议的有限呈现，都表明媒体并未在所有阶段、所有报道中“准确完整地还原案件事实”，而是既有重要揭露也有失误和偏向。",
+    "topic": "Society"
+  },
+  {
+    "claim": "“黑命贵”（Black Lives Matter）抗议活动在整体上是和平且合法的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "现有示威事件数据库和多项研究普遍表明，2020年前后与“黑命贵”相关的种族正义抗议绝大多数是和平且未出现暴力或破坏行为：ACLED 和普林斯顿等机构对美国数月内超过一万起示威的编码显示，大约 93%–96% 的与 BLM 相关抗议未涉及暴力或财产破坏，且在全部示威中约 95% 被归类为和平；哈佛与康涅狄格大学的数据同样发现，超过 96% 的 BLM 抗议没有财产损失，97%–98% 没有人员受伤。 这些结果有力反驳了“BLM 大多是暴力骚乱”的说法，但也同时确认，约 3%–7% 的事件确实伴随纵火、打砸抢或与警方、反对者的暴力冲突，包括部分大城市在 2020 年 5–6 月间爆发的大规模骚乱和掠夺行为，因此从经验上很难将整场运动简单描述为“完全和平”。 至于“整体上是否合法”，还取决于各国和各州对集会游行许可、宵禁、疫情限制和“治安/骚乱”条款的具体规定与适用，在美国就出现了大规模和平抗议同时，又有参与者因违反宵禁、堵路或被认定“暴乱”“刑损”等罪名被逮捕起诉；联合国特别报告员则批评部分州以模糊“暴乱”定义通过新法，过度刑事化原本和平的 BLM 抗议，反映“合法性”本身也是高度争议和语境依赖的法律评价，而非单一可量化事实。 因此，较为稳妥的经验性结论是：与 BLM 相关的抗议在事件数量上“压倒性多数”是和平的，但存在少数暴力和违法行为；是否可以概括为“整体上和平且合法”涉及规范判断与不同法律标准，缺乏统一、可操作的衡量框架，难以在事实核查意义上给出简单的真伪判定。",
+    "evidence_sources": [
+      {
+        "content": "ACLED / US Crisis Monitor 报告与汇总数据：分析 2020 年夏季美国超过 10,600 起示威，其中 7,700 余起与 BLM 相关；约 93% 的种族正义示威被编码为和平，ACLED 总体评估为“压倒性和平的运动”。",
+        "url": "https://acleddata.com/report/demonstrations-and-political-violence-america-new-data-summer-2020",
+        "credibility": "High"
+      },
+      {
+        "content": "CNN 与 TIME 对 ACLED 报告的解读：指出 2020 年 5–8 月间与 Black Lives Matter 相关的抗议中“超过 93% 为和平”，并引用 ACLED 的定义说明剩余少数事件中出现财产破坏、纵火与暴力冲突。",
+        "url": "https://edition.cnn.com/2020/09/04/us/blm-protests-peaceful-report-trnd",
+        "credibility": "Medium"
+      },
+      {
+        "content": "UConn / Crowd Counting Consortium 研究：统计 2020 年 5–6 月全美 7,000 余场 BLM 抗议，发现至少 96% 的活动没有财产损失，98% 没有受伤报告，作者因此称“比公众印象中更加和平”。",
+        "url": "https://today.uconn.edu/2020/10/study-2020-protests-shows-difference-reality-perception/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "综合现有大规模事件数据和研究，可以说：数量上绝大多数与“黑命贵”相关的抗议是和平的，未涉及暴力或财产破坏，少数地点和时段则出现打砸抢、纵火、与警方或反对者的暴力冲突等违法行为；而对于“整体上是否合法”的评价，还取决于各司法辖区对集会与治安法规的适用以及对新近“反抗议法”的争议，因此无法简单断言整场运动在法治意义上“整体合法”，更准确的说法是：BLM 抗议在事件层面以和平为主，但既包括大量合法的和平集会，也包含一小部分伴随违法和暴力的事件，整体合法性评价具有高度语境性和争议性。",
+    "topic": "Society"
+  },
+  {
+    "claim": "“占领华尔街”运动的组织和经费来源中包含来自外国政府或组织的实质性支持。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "公开资料显示，“占领华尔街”（OWS）主要由松散的草根网络、本地志愿者、工会和美国国内的各类进步组织支持，其经费来源以现场小额捐款、线上众筹（如 Kickstarter、WePay）以及部分非营利组织和工会的物质支持为主，未见可信证据表明有外国政府直接提供“实质性组织或经费支持”。 有关“外国资金”“索罗斯出钱操纵”等说法在当时被右翼评论广泛炒作，但路透社、CNBC 等媒体追踪资金流向后指出：所谓“索罗斯资助占领”主要是指其基金会通过 Tides 等美国基金会间接向发起占领号召的加拿大杂志 Adbusters 提供过若干笔长期、用途指定的资助；相关各方（包括索罗斯发言人和 Adbusters 创始人）均否认这些资金用于或指向 OWS，且资助发生在运动前多年、金额相对于运动总体经费也有限，报道甚至使用“No Soros money has backed Occupy Wall Street”等标题强调“并无直接资助抗议”的证据。 目前没有公开的政府调查、审计报告或可靠学术研究证明有外国政府对 OWS 提供系统性、主导性或决定性的组织与经费支持；同时，动员和筹款高度分散、组织结构松散也使得要对所有资金与支持来源做出“彻底排查并证实完全无外国成分”在实践上几乎不可能。因此，“存在外国政府或组织的实质性支持”这一说法既缺乏可验证的公开证据，又将间接慈善资助与政治操控混为一谈，属于在证据链上存在重大缺口的指控，无法以现有资料加以证实或证伪，只能判为证据不足。",
+    "evidence_sources": [
+      {
+        "content": "Occupy Wall Street – Wikipedia：介绍运动为去中心化的草根抗议，起源于加拿大杂志 Adbusters 发出的号召，具体组织多由本地活动者、志愿者和美国国内的工会、NGO 提供支持和物资筹集，并未提及外国政府出资或控制。",
+        "url": "https://en.wikipedia.org/wiki/Occupy_Wall_Street",
+        "credibility": "High"
+      },
+      {
+        "content": "Who’s behind the Wall Street protests? – Reuters：调查“索罗斯资助占领”的说法，发现索罗斯基金会通过 Tides 向 Adbusters 提供过指定用途资助，但索罗斯及 Adbusters 均否认资金用于 OWS，报道标题最终更正为“Soros: not a funder of Wall Street protests”，强调不存在直接资助抗议的证据。",
+        "url": "https://www.reuters.com/article/world/us/whos-behind-the-wall-street-protests-idUSTRE79D039/",
+        "credibility": "High"
+      },
+      {
+        "content": "No Soros Money Has Backed ‘Occupy Wall Street’ – The Chronicle of Philanthropy：援引索罗斯发言人澄清其并未直接资助 OWS，说明相关捐款是对美国中介基金会或其他项目的长期支持，而非为占领行动“输血”；文章也未发现其他外国政府为 OWS 提供实质性财务支持的证据。",
+        "url": "https://www.philanthropy.com/news/no-soros-money-has-backed-occupy-wall-street/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有公开信息表明，“占领华尔街”运动的组织与经费主要来自美国本土的草根动员、小额捐款、线上众筹以及工会和非营利组织的支持；虽然有媒体曾质疑其背后存在包括索罗斯在内的“境外势力”，但后续调查多指出相关资金是通过美国基金会对发起号召的加拿大杂志等机构的长期项目资助，且各方否认这些款项用于或指向 OWS，本身也与“外国政府直接操控或实质性资助抗议”相去甚远。目前没有可靠证据证明外国政府向 OWS 提供了主导性或实质性的组织和经费支持，因此这一指控不能被视为已被事实证实。",
+    "topic": "Society"
+  },
+  {
+    "claim": "社交平台对美国前总统账号实施永久封禁在法律意义上属于对仇恨言论的正当限制。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题涉及多重高度争议的问题：一是这些平台依据自身服务条款封禁账号在各国法律体系下的性质和合法性；二是涉案言论是否在法律上构成“仇恨言论”；三是平台行为是否可以被归类为对仇恨言论的“正当限制”。不同法域（美国第一修正案、欧盟数字服务法、各国仇恨言论立法等）以及不同学者和法院对上述问题的界定和评价差异极大，尚不存在统一、公认的法律结论。 在美国语境下，Twitter、Facebook 等平台对前总统账号的封禁基于私人平台的用户协议与“服务条款”，而非直接适用宪法言论自由条款；学界普遍认为，美国第一修正案限制的是政府行为而非私人公司，因此平台封禁并不当然构成“政府对言论自由的限制”，也就谈不上传统意义上“宪法层面的仇恨言论限制是否正当”，而更多是合同与平台治理问题。 与此同时，欧盟和部分国家的监管讨论更强调平台对仇恨言论和煽动暴力内容负有“注意义务”，在数字服务法等框架下平台可能被要求更积极地删除违法仇恨内容，但具体到“对某一政治人物实施永久封禁是否在法律上是‘正当的仇恨言论限制’”，目前并无跨法域一致的司法先例或权威认定结论。 此外，对前总统相关言论的定性本身就存在争议：一部分研究、民权组织和平台自身“信任与安全”说明认为这些言论构成煽动暴力、传播选举虚假信息并助长带有种族色彩的敌意，但是否满足各国刑法或仇恨言论法中对“仇恨言论”的严格构成要件，并未经过广泛的法院审理与定性，更多停留在平台内部审核与多方舆论评价层面。 整体而言，该命题将一系列在法理和实务上高度争议、且跨法域差异巨大的问题作了简单归纳，现有公开法律判例和权威文件不足以支持“在法律意义上已经被普遍视为对仇恨言论的正当限制”的强断言，也不足以在相反方向上给出统一否定结论，因此在事实核查框架下应判定为证据不足。",
+    "evidence_sources": [
+      {
+        "content": "Free speech, fact checking, and the right to accurate information（Science, 2025）：讨论平台内容审核与言论自由的关系，指出美国第一修正案主要约束政府而非私人平台，平台封禁多被视为合同与平台治理问题而非传统“国家对仇恨言论的限制”，并强调目前对平台何种限制具有“法律正当性”仍存在巨大争议。",
+        "url": "https://www.science.org/doi/10.1126/science.adv4632",
+        "credibility": "High"
+      },
+      {
+        "content": "The era of digital surveillance: Authoritarianism vs. democracy（Oxford Global Society）：分析包括美国前总统账号封禁在内的大型平台内容管控事件，指出这些行动在支持者眼中被视为对煽动暴力和仇恨内容的必要约束，但批评者认为其缺乏民主监督和清晰法律基础，反映出在法律与民主理论上尚无共识。",
+        "url": "https://oxgs.org/2022/10/18/the-era-digital-surveillance-authoritarianism-vs-democracy/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Overcoming digital threats to democracy（Lowy Institute, 2024）：讨论社交平台对极端和仇恨内容的治理，认为平台有责任减少煽动暴力和仇恨言论的传播，但现实中围绕封禁政治人物账号的做法，在合法性、比例性、透明度和程序保障方面存在激烈争论，尚未形成统一的法律评估标准。",
+        "url": "https://www.lowyinstitute.org/publications/overcoming-digital-threats-democracy",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "更审慎的表述是：主流社交平台在美国前总统卸任后，以违反平台反煽动、反暴力或错误信息政策为由对其账号实施长期或永久封禁，这在美国法律语境下主要被视为私人平台依据服务条款作出的内容治理决定，而非传统意义上由国家实施的“对仇恨言论的法律限制”；在国际人权法与各国言论监管框架下，目前对这些平台行为是否构成“法律意义上正当的仇恨言论限制”仍存在重大分歧，迄今没有跨法域的一致司法定性或权威结论。",
+    "topic": "Policy"
+  },
+  {
+    "claim": "约翰尼·德普在与安柏·赫德的纠纷中属于主要施暴一方。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题要求对一段高度复杂且跨多次诉讼的双方关系做出简单归因式结论（“主要施暴一方”），而现有公开法律结论与证据呈现并不足以在事实层面给出统一、无争议的判断。 在英国的 Depp v. News Group Newspapers（“太阳报”案）中，高等法院在详细审理 14 起指控后认为，其中 12 起“基本属实”，因而驳回德普对媒体将其称为“打老婆的人”的诽谤之诉，等于在民事证明标准下认可他对赫德存在多次暴力行为。 然而，在 2022 年美国弗吉尼亚州 Depp v. Heard 诽谤案中，陪审团一致认定赫德在《华盛顿邮报》专栏中暗示自己遭到“性暴力和家庭暴力”构成对德普的诽谤，认定其关于自己是“家庭暴力受害者”的若干措辞为“虚假并带有实际恶意”，并判给德普 1000 万美元补偿性赔偿与 500 万美元惩罚性赔偿（后者依法减至 35 万）；同时，陪审团也裁定德普一方的律师关于“赫德伪造现场证据为骗局”的部分言论诽谤赫德本人，判给赫德 200 万美元补偿性赔偿。 此外，在弗吉尼亚审判中，两人的婚姻治疗师视频证词曾将二人关系描述为“mutual abuse（相互施暴）”，认为双方都存在言语和肢体暴力行为，该表述本身在学界和反家暴领域即引发巨大争议，有评论认为这一概念会模糊施暴者与受害者界限。 综上，不同法域和案件针对的焦点是“诽谤是否成立”而非直接就“谁是主要施暴者”做抽象裁决：英国法院在较高程度上接受了赫德关于遭受德普暴力的陈述，而美国陪审团则认定赫德的部分公开说法构成对德普的诽谤，同时也承认德普一方对赫德的部分指控失实。由于两国案件适用的法律、举证责任与争点不同，且双方关系中存在大量互相指控与复杂权力动态，仅凭现有判决与公开证据无法在事实核查意义上给出“德普是主要施暴一方”或“赫德是主要施暴一方”的单向结论，该命题属于在高度争议事实基础上作出的简化归因判断，超出了现有证据链可支持的范围。",
+    "evidence_sources": [
+      {
+        "content": "Depp v. News Group Newspapers Ltd – 英国高院判决：认定《太阳报》将德普称为“妻子施暴者”的报道在 14 起指控中的 12 起“基本属实”，因此驳回德普的诽谤之诉，并拒绝其上诉请求。",
+        "url": "https://en.wikipedia.org/wiki/Depp_v_News_Group_Newspapers_Ltd",
+        "credibility": "High"
+      },
+      {
+        "content": "Depp v. Heard – 弗吉尼亚州民事诽谤案：陪审团认定赫德在《华盛顿邮报》专栏中关于“代表家庭暴力的公众人物”等三项核心表述为虚假且带有实际恶意，构成对德普的诽谤；同时认定德普前律师关于“赫德伪造现场证据是骗局”的一项言论诽谤赫德，裁决双方互赔。",
+        "url": "https://en.wikipedia.org/wiki/Depp_v._Heard",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC 报道《Depp and Heard marriage ended in ‘mutual abuse’, says therapist》：引述两人婚姻治疗师 Laurel Anderson 的证词，称其观察到二人关系中存在“相互施暴”，包括赫德在德普试图离开冲突现场时多次先动手，反映关系暴力的双向性和复杂性，而非单一施暴方。",
+        "url": "https://www.bbc.com/news/world-us-canada-61114768",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "目前的公开判决和证据呈现表明，英美两国法院在不同案件中对双方暴力指控作出了部分相互矛盾的判断：英国法院认为德普对赫德实施多次暴力在民事标准下“基本属实”，而美国陪审团则认定赫德在公开场合将自己描述为遭受德普家庭暴力的说法中有关键部分构成诽谤；再加上两人婚姻治疗师等证人曾将这段关系描述为“相互施暴”，学界和公众对“谁是主要施暴一方”并无统一结论。因此，更谨慎的说法是：德普与赫德之间存在严重且双向的指控和复杂的暴力动态，不宜在现有证据基础上用“单一主要施暴者”的标签做简单归因。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "因吸毒、酒驾或婚外情被曝光的艺人完成法律责任后，应该被允许全面复出。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题不是在陈述一个可客观核查的事实，而是在提出一项规范性主张：社会“应该”如何对待完成法律责任后的公众人物，涉及道德评价、行业自律、平台与品牌的商业选择、以及粉丝与公众的价值判断，天然超出事实核查可判定真假的范围。 现实中，的确存在大量因吸毒、酒驾或婚外情等丑闻而一度“被封杀”或遭到集体抵制的艺人，部分人在服刑或完成法律处罚后通过戒毒、公开道歉、公益活动和形象重塑实现了事业“翻身”，典型如 Robert Downey Jr.、Tiger Woods 等；也有不少人因社会舆论、受害者感受或事件严重性而长期难以回归主流，说明“能否全面复出”高度依赖个案情境与社会接受度，而非单纯由“是否完成法律责任”自动决定。 同时，现代所谓“取消文化”（cancel culture）正是围绕“法律责任之外，公众是否有权长期或永久抵制某些艺人”的争论，学术与媒体讨论中既有强调“应允许悔改与复归、否则变相终身刑”的观点，也有强调“对有害行为应保持社会制裁空间”的立场，尚不存在被广泛接受的统一规范答案。 在缺乏明确、可验证的“社会共识”或法律规定表明“完成法律责任者必然应被允许全面复出”这一命题已被事实或制度层面确立的情况下，只能将其视为一个有争议的价值主张，而非可以用证据直接判定真假的命题。",
+    "evidence_sources": [
+      {
+        "content": "CNN《How some celebrities come back from being ‘canceled’》：梳理多位因种种丑闻遭抵制的名人，指出在美国确实存在通过“沉寂+道歉+自我修复”重返公众视野的路径，但复出难度和公众接受度差异很大，取决于事件性质与后续表现。",
+        "url": "https://www.cnn.com/2021/07/16/entertainment/canceled-cancel-culture",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Brand Rehab: Celebrities Who Bounced Back from Scandal：举例 Robert Downey Jr.、Tiger Woods 等因吸毒、性丑闻或酒驾等危机跌入谷底后，通过戒瘾治疗、道歉和作品成绩逐步修复品牌形象，说明“完成法律责任后有机会复出”在实践中是可能的，但并非制度保障。",
+        "url": "https://blog.newreputation.com/famous-celebrities-who-had-to-reinvent-their-brand/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Cancel Culture: Is There an Opportunity for Redemption?：讨论取消文化与“赎罪”的空间，指出公众抵制本质上是社会制裁的一种，既可能推动问责，也可能让当事人长期被排除在公共生活与工作机会之外；是否、何时允许“重新开始”缺乏统一标准，属于持续争议。",
+        "url": "https://belatina.com/cancel-culture-redemption/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "现有实践表明，因吸毒、酒驾或婚外情等事件被曝光的艺人，在履行完法律责任（如服刑、罚款、吊销驾照期满等）后，法律上通常不会再对其从事演艺工作做出终身禁止，是否能“全面复出”更多取决于市场、平台、雇主和观众的选择，以及当事人的悔过态度与后续行为表现；社会对此并无统一规范共识，有人主张应给完成法律责任者充分复出机会，也有人强调公众有权基于自身价值观继续抵制相关艺人，因此“应该被允许全面复出”属于价值判断，而非已经被事实或制度确立的客观结论。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "在偶像恋爱曝光后，粉丝以“欺骗感情”为由要求艺人退圈是合理的。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题是在讨论偶像产业中的情感期待与职业权利边界，“是否合理”属于价值判断而非可通过客观证据直接验证真假的事实命题。 在日韩及华语偶像文化中，确实存在经纪公司通过“单身人设”“与粉丝恋爱”等话术经营情感依附的做法，一些合同甚至曾被爆出对恋爱有明示或默示的限制，部分粉丝因偶像恋爱曝光而感到“被骗”，继而发起抵制、脱粉甚至要求艺人退圈，现实中也有艺人因此暂停或终止活动的案例。 另一方面，越来越多的舆论、法律与学术讨论强调：偶像在法律上仍是享有基本人格权和私人生活权的劳动者，恋爱属于其私人领域；“粉丝经济”是一种消费与情感互动关系，但并不构成具有强制力的“情感契约”，粉丝有权不再消费，但无权基于“被欺骗感情”要求对方丧失工作权或“退圈”，否则容易演变为对私生活的不当控制。 由于不同文化语境、粉丝群体和行业规范对“人设”“恋爱限制”的接受度不一，且“合理”的判断本身取决于各自对偶像与粉丝关系的理解与道德立场，目前不存在一个被广泛接受、可作为事实标准的统一答案，因此无法在事实核查框架下将上述主张判定为真或假，只能认定为存在激烈争议的价值判断命题。",
+    "evidence_sources": [
+      {
+        "content": "CNN《How some celebrities come back from being ‘canceled’》：指出在偶像与流行文化领域，艺人因恋情、婚姻或私生活曝光遭到粉丝“取消”和抵制的现象普遍存在，反映的是粉丝期待与公众人物私人生活之间的张力，而非法律层面的权利义务关系。",
+        "url": "https://www.cnn.com/2021/07/16/entertainment/canceled-cancel-culture",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Vogue《Fall from grace: Where does forgiveness sit within cancel culture?》：讨论取消文化与偶像塌房，指出粉丝群体时常以“被欺骗”“人设崩塌”为由要求彻底封杀或退圈，但文章强调这更多是道德与情感层面的判断，与法律上对艺人工作权和私生活权的保障存在张力。",
+        "url": "https://vogue.sg/cancel-culture-forgiveness/",
+        "credibility": "Medium"
+      },
+      {
+        "content": "BeLatina《Cancel Culture: Is There an Opportunity for Redemption?》：从更广泛的娱乐产业角度分析粉丝抵制和“封杀”逻辑，指出公众可以选择不再支持某艺人，但是否要求其“永远退出舞台”是高度主观的社会反应，不存在统一的客观标准。",
+        "url": "https://belatina.com/cancel-culture-redemption/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "更审慎的说法是：偶像恋爱曝光后，粉丝感到失落或愤怒并选择脱粉、停止消费是其个人自由，但是否以“欺骗感情”为由要求艺人退圈属于高度主观的价值判断，并不构成法律意义上的权利主张；在法律和基本权利框架下，艺人原则上享有恋爱与工作的自由，如何看待这类事件及其后果，更多取决于行业规范和各自的道德立场，而不存在一个可以用事实核查方式判定真假的统一答案。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "Eminem早期充满暴力和性别歧视内容的歌词不应影响他在流行音乐史上的“经典地位”评价。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题是在评价一个艺人在“流行音乐史上的经典地位”时应否将其早期歌词中的暴力和性别歧视内容纳入考量，本质是规范性与美学判断问题，而不是可以用经验数据直接验证的客观事实。 从事实层面看，一方面，Eminem 的早期专辑（如《The Slim Shady LP》《The Marshall Mathers LP》）在技术与影响力上被广泛视为嘻哈与主流流行文化的重要里程碑，获得格莱美、销量与评论高度肯定，多家媒体和学术文章也将其列入“最重要/最有影响力专辑”之列，这支撑了他在“经典地位”上的正面评价。 另一方面，研究和评论同样清楚指出，这些作品中存在极高比例的暴力厌女与恐同歌词：例如对《The Marshall Mathers LP》的量化研究发现，专辑 14 首歌中 11 首含有暴力厌女内容、9 首描绘杀害女性，其“暴力厌女”比例远高于一般 gangsta rap，引发长期的伦理争议和“是否应重新审视其遗产”的公共辩论。 在当代语境下，BBC、Esquire 等都指出，Eminem 的歌词为其遗产“蒙上阴影”，尤其在 #MeToo 之后，年轻一代部分听众呼吁“取消”或至少对他进行更批判的接受。 然而，是否“应该”让这些问题性内容影响他在“流行音乐史上的经典地位评价”，取决于各自对“经典”的定义（仅看艺术创新与影响力，还是将伦理与社会影响纳入），不同评论者与听众群体给出的答案明显不一，学界与媒体也呈现出“既承认其艺术成就又批判其歌词问题”的复杂态度，而非简单的一致立场。 在缺乏统一规范标准与权威共识的情况下，无法将“应不应该影响评价”判定为真或假，只能认为这是一个高度争议的价值判断命题。",
+    "evidence_sources": [
+      {
+        "content": "The Marshall Mathers LP – Wikipedia：总结该专辑在评论界被誉为史上最伟大、最具影响力的说唱专辑之一，同时列出多方批评其歌词“暴力、恐同、厌女”，并引用研究指出 14 首歌中 11 首含暴力厌女内容，Eminem 在暴力厌女得分上远超一般 gangsta rap。",
+        "url": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP",
+        "credibility": "High"
+      },
+      {
+        "content": "BBC《Eminem: With new album and Houdini single, what is Slim Shady's legacy?》：回顾 Eminem 职业生涯时指出，他在技术和商业上取得巨大成功，但其歌词中的暴力厌女和恐同长期“遮蔽/晦暗了”他的遗产，成为围绕其“经典地位”争论的核心之一。",
+        "url": "https://www.bbc.com/news/articles/clee3445w0lo",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Esquire《Why Eminem is Cancelled by Gen Z》：报道 TikTok 上 #canceleminem 话题，指出争论的焦点正是如何在其显著艺术贡献与长期美化厌女、家庭暴力、恐同的歌词之间做平衡，文章强调这场争论反映的是不同世代对“如何重评流行文化经典”的分歧。",
+        "url": "https://www.esquire.com/entertainment/music/a35765776/why-eminem-gen-z-cancelled-tone-deaf-lyrics-explained/",
+        "credibility": "Medium"
+      }
+    ],
+    "correct_answer": "更符合现状的表述是：Eminem 早期作品在说唱技术、叙事手法和流行文化影响上获得了广泛认可，通常被视为嘻哈与主流流行音乐史上的重要里程碑，但其中大量暴力和性别歧视、恐同内容也长期引发激烈批评，并在当代关于厌女与暴力文化的反思中被重新审视；是否“应当”让这些问题性歌词影响他在流行音乐史上的经典地位，是一个关于如何定义“经典”、如何在审美与伦理之间权衡的价值争议问题，目前不存在统一答案。",
+    "topic": "Entertainment"
+  },
+  {
+    "claim": "电子烟在长期健康风险上明显低于传统香烟，因此应被视为更安全的替代品。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "这一命题包含两个层次：1）“长期健康风险上明显低于传统香烟”；2）因此“应被视为更安全的替代品”。关于第1点，多项权威评估普遍认为，电子烟气溶胶中有害成分的种类和剂量通常明显低于可燃卷烟烟雾，短中期毒理学指标和暴露水平也较低，从“相对风险”角度看对当前吸烟者而言“很可能比继续吸传统烟危害更小”。 例如，美国国家科学院的系统评估认为：电子烟气溶胶中的多种有毒物质水平明显低于传统烟雾，现有证据“总体上表明，电子烟对个体的风险低于可燃卷烟”，同时承认长期后果尚不清楚。 英国公共卫生署（PHE）以及后续更新报告也多次重申其专家组估计“电子烟大约比卷烟危害少95%”，并将电子烟视为成年烟民的减害和戒烟工具；但这一“95%”数字因证据基础有限、专家打分方法争议等，被《柳叶刀》和其他评审严厉批评为“依据薄弱”“不应作为精确量化结论”。 同时，近年的系统综述和队列研究不断积累出电子烟自身的独立健康风险证据：包括增加呼吸道症状、慢性咳嗽、肺炎样损伤、COPD 风险、哮喘加重，以及心血管风险升高、全因和心血管死亡风险上升等，且部分研究提示在从未吸烟者中也存在显著不良结局；对长期癌症与心血管结局的真实风险，目前因上市时间较短和混杂因素尚无法给出确定估计。 因此，相对传统卷烟，“电子烟很可能危害更小”对于已经吸烟的成年人，有一定证据基础；但“长期风险上明显低于”在数量上如何界定、对于从不吸烟者是否也成立，以及具体产品、使用模式下的绝对风险，仍存在重大不确定性。关于第2点，“因此应被视为更安全的替代品”还带有政策与伦理判断：从减害策略角度，很多公共卫生机构主张电子烟仅应作为成年烟民的戒烟或减害工具，而不应向青少年或从不吸烟人群宣传为“安全替代品”；对“更安全”的理解是“相对卷烟危害更小但远非安全”。 综合来看，现有证据支持“对已经吸烟的成年人而言，改用电子烟有可能降低部分健康风险”，但对“长期风险明显低于”“应被视为更安全替代品”的强表述，在绝对风险、青年用户和从不吸烟者层面仍高度不确定且争议很大，难以在事实核查框架下简单判定 Supported 或 Refuted。",
+    "evidence_sources": [
+      {
+        "content": "National Academies, Public Health Consequences of E-Cigarettes（2018）：指出电子烟暴露的有害成分和毒性一般低于可燃卷烟，整体风险“可能较低”，但长期健康后果（包括心血管、癌症）证据不足，强调不能将电子烟视为无害。",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK507163/",
+        "credibility": "High"
+      },
+      {
+        "content": "Public Health England 报告与新闻稿：提出当前最佳估计是“电子烟比卷烟至少危险性低95%”，并主张作为成年烟民的减害与戒烟工具，但这一数字因依据有限、专家打分法受到《柳叶刀》等严厉批评，PHE 也承认电子烟“并非无风险”。",
+        "url": "https://www.gov.uk/government/news/e-cigarettes-around-95-less-harmful-than-tobacco-estimates-landmark-review",
+        "credibility": "Medium"
+      },
+      {
+        "content": "Recent systematic and narrative reviews（如 Arshad 2022, Izquierdo-Condoy 2024 等）：认为电子烟在呼吸与心血管系统上“可能比卷烟危害更低”，但已发现与哮喘、COPD、肺炎样损伤、全因与心血管死亡等不良结局显著相关，且对从不吸烟者也存在独立风险，强调长期总体风险尚不明确。",
+        "url": "https://bcmj.org/articles/health-effects-electronic-cigarettes-review",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "更准确的说法是：现有证据总体上支持这样一个方向性结论——对于已经吸传统卷烟的成年人而言，完全从卷烟转向电子烟在暴露水平和部分健康风险上“很可能更低”，电子烟因此可被视为一种潜在减害工具；但电子烟自身并非无害，已被发现与呼吸和心血管等多种不良结局相关，而对长期癌症与心血管风险的真实大小尚不清楚。尤其对于青少年和从不吸烟人群，电子烟会带来新的健康风险和尼古丁成瘾问题，因此在公共卫生与政策层面，通常更审慎的表述是“对现有烟民相对更少害的替代品”，而不是简单的“更安全产品”。",
+    "topic": "Health"
+  },
+  {
+    "claim": "间歇性断食（如16:8）对普通成年人具有显著的减重和代谢改善优势，优于传统“少量多餐”饮食。",
+    "verdict": "Not Enough Evidence",
+    "error_type": "Unverifiable Claims",
+    "category": "Controversy",
+    "justification": "该命题包含两层强断言：1）“显著的减重和代谢改善优势”；2）“优于传统‘少量多餐’饮食”。目前随机对照试验和系统综述的主流结论是：各种形式的间歇性断食（IF，包括16:8限时进食、5:2、隔日断食等）在减重和改善胰岛素抵抗、血脂等代谢指标方面“至少不劣于”传统的每日连续限能（continuous calorie restriction，CCR），部分策略在个别结局上略有优势，但总体效果多为“相近”而非稳定、显著优于。 多个系统综述与荟萃分析显示：在超重或肥胖成年人中，IF 通常可以在数周到一年内实现约 3%–8% 的体重下降，腰围、脂肪量、胰岛素抵抗和血脂有改善；而与能量严格匹配的传统限能饮食相比，大部分试验中体重和代谢指标改善幅度相似，仅少数研究（尤其是隔日断食或 4:3 模式）在减重幅度上略优于传统限能，但差异多在 1–2 kg 量级，且长期可持续性与依从性仍不明确。 至于与“少量多餐”相比，现有证据并不支持“多餐更有利减重”这一老观念；相反，关于进食频率的研究多发现，在总能量相同的前提下，“少量多餐”相比“两三顿主餐”并无一致的减重优势，有的甚至与更高能量摄入相关。 但“少量多餐”在现实中往往与总能量摄入、饮食结构、生活方式等多因素纠缠，很难将其作为一个统一、标准的对照策略与“16:8”直接比较。目前的大型网络荟萃分析多是将各种 IF 与“常规限能饮食”或“自由饮食”比较，而不是专门对比“少量多餐”，因此证据不足以支持“在普通成年人群中，16:8 等间歇性断食在减重和代谢上显著优于传统少量多餐”的一般性结论。 综合而言，IF 对减重和代谢改善是有效的，且对不少人来说在执行上更简单、饥饿感不明显；但从当前证据看，它更多是“另一种可选、效果大致相当甚至略优于部分模式的饮食工具”，而非在所有普通成年人中都“显著优于”传统少量多餐，尤其缺乏长期（多年）随访数据来证实优势的持续性和安全性，因此该强断言在事实层面证据不足。",
+    "evidence_sources": [
+      {
+        "content": "Intermittent Fasting versus Continuous Calorie Restriction（2022 系统综述与荟萃分析）：在超重/肥胖人群中，IF 与持续限能在体重、BMI、脂肪量和多项代谢指标改善方面“总体等效”，未见稳定、显著优于传统限能的证据。",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9099935/",
+        "credibility": "High"
+      },
+      {
+        "content": "Intermittent fasting and weight loss（2020 系统综述）：纳入 27 个 IF 试验，所有试验均出现 0.8%–13% 体重下降；其中 12 项直接对比 IF 与传统限能，结果“等效”，未显示系统性优势；作者强调样本量小、随访短，长期效果仍不明确。",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32060194/",
+        "credibility": "High"
+      },
+      {
+        "content": "BMJ 及相关网络荟萃分析（2025）：基于近百项 RCT，认为各种 IF 策略在减重和心代谢风险指标上与传统限能饮食“总体相当”，隔日断食在体重和部分指标上略优，但差异不大，且对具体时间限制（如早/晚 8 小时）与进食频率的研究未能得出“明显优于多餐”的一致结论。",
+        "url": "https://bmjgroup.com/intermittent-fasting-comparable-to-traditional-diets-for-weight-loss/",
+        "credibility": "High"
+      }
+    ],
+    "correct_answer": "目前的临床研究和系统综述大致表明：间歇性断食（包括16:8 限时进食）在减重和改善血糖、血脂等代谢指标方面是有效的，其效果总体上与传统的每日限能饮食相当，有些方案在特定结局上可能略有优势，但尚不足以得出“在普通成年人群中显著优于传统‘少量多餐’饮食”的一般性结论；进食频率本身（少量多餐 vs. 几顿主餐）在总能量相同时对减重的影响有限。因此，更稳妥的说法是：间歇性断食是一个对很多人有效、在减重和代谢改善方面不逊于传统限能的可选策略，是否更“优”取决于个体依从性、生活方式与健康状况，而目前证据不足以宣称其对所有普通成年人都有稳定且显著的优势。",
+    "topic": "Health"
   }
 ]

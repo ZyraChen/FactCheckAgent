@@ -1,0 +1,46 @@
+
+============================================================
+数据集标签分布统计报告
+============================================================
+
+数据集概览:
+- 总样本数: 756
+
+1. Verdict 分布:
+   - Refuted: 399 (52.8%)
+   - Supported: 293 (38.8%)
+   - Not Enough Evidence: 64 (8.5%)
+
+2. Error Type 分布:
+   - Evidence Errors: 128 (27.6%)
+   - Semantic Errors: 82 (17.7%)
+   - Temporal Errors: 78 (16.8%)
+   - Unverifiable Claims: 64 (13.8%)
+   - Factual Errors: 63 (13.6%)
+   - Data Errors: 48 (10.4%)
+
+3. Category 分布 (Top 10):
+   - Controversy: 54 (11.7%)
+   - Fake or Fabricated Sources: 53 (11.4%)
+   - Rumor / Unverified Reports: 47 (10.2%)
+   - Outdated Information: 35 (7.6%)
+   - Incorrect Time Information: 34 (7.3%)
+   - Statistical Data Errors: 34 (7.3%)
+   - Public Fact Errors: 29 (6.3%)
+   - Scope Confusion: 23 (5.0%)
+   - Out-of-context / Misinterpretation: 23 (5.0%)
+   - Causal Reasoning Errors: 23 (5.0%)
+
+4. Topic 分布:
+   - Politics: 133 (17.6%)
+   - Sports: 130 (17.2%)
+   - Entertainment: 108 (14.3%)
+   - Society: 82 (10.8%)
+   - Economy: 76 (10.1%)
+   - Culture: 70 (9.3%)
+   - Science: 57 (7.5%)
+   - Environment: 37 (4.9%)
+   - Policy: 33 (4.4%)
+   - Health: 30 (4.0%)
+
+============================================================

@@ -1,0 +1,166 @@
+{
+  "claim": "2022年美国失业率是 50 年来最低。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T17:16:48.316636",
+  "statistics": {
+    "total_evidences": 6,
+    "pro_evidences": 4,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 6,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_19d179d4",
+        "content": "2022年美国全国失业率仅为3.6%，创造了50年来的历史新低。这是3月1日美国劳工统计局公布的数据。仅在今年1月份，美国就新增就业51.7万人，失业率进一步 ...",
+        "url": "https://zhuanlan.zhihu.com/p/611842693",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4698,
+        "priority": 0.28187999999999996,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "美国劳工部2022年失业率创50年最低官方数据",
+        "timestamp": "2025-12-20T16:52:51.329606"
+      },
+      {
+        "id": "pro_2_23b41972",
+        "content": "以Jan Hatzius 為首的高盛經濟學家，周一(9 日) 將今年底美國的失業率預測下修至4.1%，並且認為明年可以來到3.5%，這將代表美股就業由疫情下復甦，失業率降至 ...",
+        "url": "https://news.cnyes.com/news/id/4699762",
+        "source": "news.cnyes.com",
+        "credibility": "Medium",
+        "quality_score": 0.474,
+        "priority": 0.2844,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "高盛2023年1月报告确认2022年美国失业率50年来最低",
+        "timestamp": "2025-12-20T16:55:48.484859"
+      },
+      {
+        "id": "con_2_8f7c4e57",
+        "content": "劳工统计局报告失业率。失业率是一个滞后的经济指标，通常在衰退结束后 ... 失业率在1982年11月和12月升至10.8%，且连续10个月高于10%。 1990-91 ...",
+        "url": "https://finance.sina.cn/futuremarket/qsyw/2022-05-13/detail-imcwipii9572860.d.html",
+        "source": "finance.sina.cn",
+        "credibility": "Low",
+        "quality_score": 0.2622,
+        "priority": 0.07866,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "美国劳工统计局1969年3月失业率历史记录官方数据",
+        "timestamp": "2025-12-20T16:56:15.481415"
+      },
+      {
+        "id": "pro_3_46b94ae4",
+        "content": "2022年失业率率低点（截止目前）为3.5%，2023年美国失业率均值4.4%，高于前12个月失业率低点0.5个百分点以上。 根据萨姆规则，这将被视为“美国出现经济衰退”。",
+        "url": "https://www.guancha.cn/economy/2022_10_08_661148.shtml",
+        "source": "www.guancha.cn",
+        "credibility": "Low",
+        "quality_score": 0.2616,
+        "priority": 0.07848,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "美国劳工部2023年年度经济报告确认2022年失业率50年最低",
+        "timestamp": "2025-12-20T16:59:31.672909"
+      },
+      {
+        "id": "pro_3_cfcd025f",
+        "content": "周四(9月21日)，上周美国失业救济金申请降至一月以来的最低水平，表明劳动力市场健康，继续支撑经济。这些数字与劳工统计局月度就业报告的参考期相对应，突显了劳动力市场的弹性。尽管整个市场的招聘速度有所放缓，但企业基本上避免了裁员。",
+        "url": "https://www.fx168news.com/article/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E-308671",
+        "source": "www.fx168news.com",
+        "credibility": "Medium",
+        "quality_score": 0.4884,
+        "priority": 0.29303999999999997,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "美国劳工部2023年年度经济报告确认2022年失业率50年最低",
+        "timestamp": "2025-12-20T16:59:31.672909"
+      },
+      {
+        "id": "con_3_c388025f",
+        "content": "Graph and download economic data for Unemployment Rate - 70-74 Yrs. (LNU04024941) from Jan 1981 to Nov 2025 about 70 to 74 years, unemployment, rate, and USA.",
+        "url": "https://fred.stlouisfed.org/series/LNU04024941",
+        "source": "fred.stlouisfed.org",
+        "credibility": "Medium",
+        "quality_score": 0.5147999999999999,
+        "priority": 0.30887999999999993,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "美国劳工统计局1970年全年平均失业率官方数据",
+        "timestamp": "2025-12-20T16:59:57.473384"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_3_cfcd025f",
+        "agent": "pro",
+        "priority": 0.29303999999999997,
+        "source": "www.fx168news.com",
+        "content_preview": "周四(9月21日)，上周美国失业救济金申请降至一月以来的最低水平，表明劳动力市场健康，继续支撑经济。这些数字与劳工统计局月度就业报告的参考期相对应，突显了劳动力市场的弹性。尽管整个市场的招聘速度有所放缓，但企业基本上避免了裁员。..."
+      },
+      {
+        "id": "con_2_8f7c4e57",
+        "agent": "con",
+        "priority": 0.07866,
+        "source": "finance.sina.cn",
+        "content_preview": "劳工统计局报告失业率。失业率是一个滞后的经济指标，通常在衰退结束后 ... 失业率在1982年11月和12月升至10.8%，且连续10个月高于10%。 1990-91 ......"
+      },
+      {
+        "id": "pro_2_23b41972",
+        "agent": "pro",
+        "priority": 0.2844,
+        "source": "news.cnyes.com",
+        "content_preview": "以Jan Hatzius 為首的高盛經濟學家，周一(9 日) 將今年底美國的失業率預測下修至4.1%，並且認為明年可以來到3.5%，這將代表美股就業由疫情下復甦，失業率降至 ......"
+      },
+      {
+        "id": "pro_3_46b94ae4",
+        "agent": "pro",
+        "priority": 0.07848,
+        "source": "www.guancha.cn",
+        "content_preview": "2022年失业率率低点（截止目前）为3.5%，2023年美国失业率均值4.4%，高于前12个月失业率低点0.5个百分点以上。 根据萨姆规则，这将被视为“美国出现经济衰退”。..."
+      },
+      {
+        "id": "pro_1_19d179d4",
+        "agent": "pro",
+        "priority": 0.28187999999999996,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "2022年美国全国失业率仅为3.6%，创造了50年来的历史新低。这是3月1日美国劳工统计局公布的数据。仅在今年1月份，美国就新增就业51.7万人，失业率进一步 ......"
+      },
+      {
+        "id": "con_3_c388025f",
+        "agent": "con",
+        "priority": 0.30887999999999993,
+        "source": "fred.stlouisfed.org",
+        "content_preview": "Graph and download economic data for Unemployment Rate - 70-74 Yrs. (LNU04024941) from Jan 1981 to Nov 2025 about 70 to 74 years, unemployment, rate, and USA...."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_3_cfcd025f",
+      "con_2_8f7c4e57",
+      "pro_2_23b41972",
+      "pro_3_46b94ae4",
+      "pro_1_19d179d4",
+      "con_3_c388025f"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "",
+    "key_evidence_ids": [],
+    "pro_strength": 0.18301499999999998,
+    "con_strength": 0.29663999999999996,
+    "total_evidences": 6,
+    "accepted_evidences": 6
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

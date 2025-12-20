@@ -1,0 +1,127 @@
+{
+  "claim": "海平面持续缓慢上升，早于工业化时期就存在。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T17:30:15.210358",
+  "statistics": {
+    "total_evidences": 4,
+    "pro_evidences": 2,
+    "con_evidences": 2,
+    "total_attacks": 0,
+    "accepted_evidences": 4,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_cab1835c",
+        "content": "IPCC第六次评估报告（AR6）中海洋、冰冻圈和海平面变化章节利用古气候重建资料、仪器观测资料以及模式模拟结果评估了海洋、冰冻圈和海平面过去和未来的变化。海洋和冰冻圈（ ...",
+        "url": "https://www.climatechange.cn/article/2022/1673-1719/1673-1719-18-1-19.shtml",
+        "source": "www.climatechange.cn",
+        "credibility": "Low",
+        "quality_score": 0.2628,
+        "priority": 0.07884,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "工业化前海平面长期缓慢上升趋势古气候重建研究",
+        "timestamp": "2025-12-20T17:18:17.667212"
+      },
+      {
+        "id": "con_1_24d51753",
+        "content": "联合国秘书长古特雷斯与联大主席克勒希今天在安理会就海平面上升问题举行的公开辩论上共同指出，安理会可发挥关键作用来动员各方的政治意愿，以应对海平面上升对全球安全构成的毁灭性挑战。 |",
+        "url": "https://news.un.org/zh/story/2023/02/1115137",
+        "source": "news.un.org",
+        "credibility": "High",
+        "quality_score": 0.754,
+        "priority": 0.754,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "海平面上升速度超过过去3000年任何时候权威证据",
+        "timestamp": "2025-12-20T17:18:43.651951"
+      },
+      {
+        "id": "pro_2_1f10b14d",
+        "content": "2003年，这些与海平面变化有关的未解决的问. 题及其年代际变率使以下问题变得很不清，. 即19932003年期间，海平面上升速率有多大. Page 69. 术要. 全球和大陆温度变化. 图TS ...",
+        "url": "https://www.ipcc.ch/site/assets/uploads/2020/02/ar4-wg1-sum-vol-zh.pdf",
+        "source": "www.ipcc.ch",
+        "credibility": "Low",
+        "quality_score": 0.2706,
+        "priority": 0.08118,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "全新世晚期1850年前海平面自然上升速率权威研究",
+        "timestamp": "2025-12-20T17:21:25.228934"
+      },
+      {
+        "id": "con_2_ccc6f84b",
+        "content": "本研究通过整合地质海平面代用指标与验潮仪数据，构建时空分层模型，揭示自1900年以来全球平均海平面上升速率（GMSL，1.51±0.16 mm yr?1）已超过过去四千年任何世纪，打破中国东南部长期稳定格局；同时发现现代城市沉降（VLM）至少94%由人类活动驱动，局部沉降速率常超过GMSL上升，凸显全球海平面加速与局部沉降叠加对高人口密度沿海地区的重大威胁。",
+        "url": "https://www.ebiotrade.com/newsf/2025-10/20251017112057023.htm",
+        "source": "www.ebiotrade.com",
+        "credibility": "Medium",
+        "quality_score": 0.528,
+        "priority": 0.3168,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "古气候重建证实工业化前中国东南沿海海平面四千年稳定期而非持续缓慢上升",
+        "timestamp": "2025-12-20T17:21:51.216452"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_2_ccc6f84b",
+        "agent": "con",
+        "priority": 0.3168,
+        "source": "www.ebiotrade.com",
+        "content_preview": "本研究通过整合地质海平面代用指标与验潮仪数据，构建时空分层模型，揭示自1900年以来全球平均海平面上升速率（GMSL，1.51±0.16 mm yr?1）已超过过去四千年任何世纪，打破中国东南部长期稳定格局；同时发现现代城市沉降（VLM）至少94%由人类活动驱动，局部沉降速率常超过GMSL上升，凸显全球海平面加速与局部沉降叠加对高人口密度沿海地区的重大威胁。..."
+      },
+      {
+        "id": "pro_1_cab1835c",
+        "agent": "pro",
+        "priority": 0.07884,
+        "source": "www.climatechange.cn",
+        "content_preview": "IPCC第六次评估报告（AR6）中海洋、冰冻圈和海平面变化章节利用古气候重建资料、仪器观测资料以及模式模拟结果评估了海洋、冰冻圈和海平面过去和未来的变化。海洋和冰冻圈（ ......"
+      },
+      {
+        "id": "con_1_24d51753",
+        "agent": "con",
+        "priority": 0.754,
+        "source": "news.un.org",
+        "content_preview": "联合国秘书长古特雷斯与联大主席克勒希今天在安理会就海平面上升问题举行的公开辩论上共同指出，安理会可发挥关键作用来动员各方的政治意愿，以应对海平面上升对全球安全构成的毁灭性挑战。 |..."
+      },
+      {
+        "id": "pro_2_1f10b14d",
+        "agent": "pro",
+        "priority": 0.08118,
+        "source": "www.ipcc.ch",
+        "content_preview": "2003年，这些与海平面变化有关的未解决的问. 题及其年代际变率使以下问题变得很不清，. 即19932003年期间，海平面上升速率有多大. Page 69. 术要. 全球和大陆温度变化. 图TS ......"
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_2_ccc6f84b",
+      "pro_1_cab1835c",
+      "con_1_24d51753",
+      "pro_2_1f10b14d"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "该声明声称\"海平面持续缓慢上升，早于工业化时期就存在\"。关键可验证部分是\"早于工业化时期就存在\"持续上升。知识库中多条高可信度证据直接反驳此点：明确指出\"尽管像中世纪温暖时期和小冰河期一样重大气候事件,但直到1900年,海平面仍然异常的稳定\"，表明工业化前海平面并未持续上升。另一关键证据显示\"现代海平面上升始于1863年\"，与工业化时期吻合。反对证据进一步证实\"自1900年以来全球平均海平面上升速率已超过过去四千年任何世纪\"，暗示工业化前上升速率极低甚至稳定。支持证据未提供任何关于工业化前持续上升的证明，仅讨论现代海平面问题。决定性证据明确显示工业化前海平面稳定，而非持续上升，因此声明被证伪。",
+    "key_evidence_ids": [
+      "con_2_ccc6f84b",
+      "pro_1_cab1835c"
+    ],
+    "pro_strength": 0.41759,
+    "con_strength": 0.19782,
+    "total_evidences": 4,
+    "accepted_evidences": 4
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

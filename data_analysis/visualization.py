@@ -277,6 +277,49 @@ if topic_error_data:
     plt.close()
     print("✓ 改进的 Topic vs Error Type 热力图已保存")
 
+# ============ 6. 改进的 Topic vs verdict 热力图 - 分块显示 ============
+print("绘制改进的 Topic vs verdict 热力图...")
+
+topic_verdict_data = []
+for item in data:
+    if item['verdict'] is not None and item['topic'] is not None:
+        topic_verdict_data.append({
+            'topic': item['topic'],
+            'verdict': item['verdict']
+        })
+
+if topic_verdict_data:
+    df_topic_verdict = pd.DataFrame(topic_verdict_data)
+    cross_tab_topic = pd.crosstab(df_topic_verdict['topic'], df_topic_verdict['verdict'])
+
+    # 使用对数标准化来处理极端值
+    cross_tab_log = np.log1p(cross_tab_topic)  # log(x+1) 避免log(0)
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 10))
+
+    # 原始数据
+    sns.heatmap(cross_tab_topic, annot=True, fmt='d', cmap='YlOrRd',
+                cbar_kws={'label': 'Count'}, linewidths=0.5, linecolor='gray',
+                ax=ax1)
+    ax1.set_title('Topic vs Verdict - Raw Count', fontsize=14, weight='bold')
+    ax1.set_xlabel('Verdict', fontsize=12, weight='bold')
+    ax1.set_ylabel('Topic', fontsize=12, weight='bold')
+    plt.setp(ax1.xaxis.get_majorticklabels(), rotation=45, ha='right')
+
+    # 对数变换
+    sns.heatmap(cross_tab_log, annot=cross_tab_topic.values, fmt='d', cmap='viridis',
+                cbar_kws={'label': 'log(Count+1)'}, linewidths=0.5, linecolor='gray',
+                ax=ax2)
+    ax2.set_title('Topic vs Verdict - Log-Transformed', fontsize=14, weight='bold')
+    ax2.set_xlabel('Verdict', fontsize=12, weight='bold')
+    ax2.set_ylabel('Topic', fontsize=12, weight='bold')
+    plt.setp(ax2.xaxis.get_majorticklabels(), rotation=45, ha='right')
+
+    plt.tight_layout()
+    plt.savefig('improved_7_topic_verdict_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✓ 改进的 Topic vs Verdict 热力图已保存")
+
 # ============ 7. 数据分布均匀性分析报告 ============
 print("生成数据分布分析报告...")
 

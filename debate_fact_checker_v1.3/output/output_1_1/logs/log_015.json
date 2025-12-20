@@ -1,0 +1,84 @@
+{
+  "claim": "根据2025年6月最新数据，伊朗女性识字率达98.9%，且70%的理工科大学毕业生为女性。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T16:51:27.319585",
+  "statistics": {
+    "total_evidences": 2,
+    "pro_evidences": 1,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 2,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_7af93e04",
+        "content": "In Iran, the female literacy rate is 98.9% and 70% of STEM university graduates are women, as of the most recent data available in June 2025.",
+        "url": "https://ca.news.yahoo.com/fact-check-checking-claims-irans-013000911.html",
+        "source": "ca.news.yahoo.com",
+        "credibility": "Medium",
+        "quality_score": 0.5045999999999999,
+        "priority": 0.30276,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "联合国教科文组织2025年6月伊朗女性识字率98.9%理工科大学毕业生70%女性",
+        "timestamp": "2025-12-20T16:43:52.957048"
+      },
+      {
+        "id": "con_1_cc88ac74",
+        "content": "识字率，青年女性（占15-24 岁女性人口的百分比） - Iran, Islamic Rep. · 女性与男性青年识字人数比（% ages 15-24） · 识字率，青年男性（占15-24 岁男性人口的百分比） · 识字率， ...",
+        "url": "https://data.worldbank.org.cn/indicator/SE.ADT.1524.LT.FE.ZS?locations=IR",
+        "source": "data.worldbank.org.cn",
+        "credibility": "Medium",
+        "quality_score": 0.4896,
+        "priority": 0.29375999999999997,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "联合国教科文组织2025年伊朗女性总体识字率与理工科毕业生性别比",
+        "timestamp": "2025-12-20T16:44:20.841106"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_cc88ac74",
+        "agent": "con",
+        "priority": 0.29375999999999997,
+        "source": "data.worldbank.org.cn",
+        "content_preview": "识字率，青年女性（占15-24 岁女性人口的百分比） - Iran, Islamic Rep. · 女性与男性青年识字人数比（% ages 15-24） · 识字率，青年男性（占15-24 岁男性人口的百分比） · 识字率， ......"
+      },
+      {
+        "id": "pro_1_7af93e04",
+        "agent": "pro",
+        "priority": 0.30276,
+        "source": "ca.news.yahoo.com",
+        "content_preview": "In Iran, the female literacy rate is 98.9% and 70% of STEM university graduates are women, as of the most recent data available in June 2025...."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_cc88ac74",
+      "pro_1_7af93e04"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.5,
+    "reasoning": "该claim包含两个关键可验证部分：1)伊朗女性识字率达98.9%（2025年6月数据）；2)70%的理工科大学毕业生为女性。知识库显示，'伊朗女性识字率98.9%'特指青年群体(15-24岁)，而成年女性识字率实际约为85%-89%（截至2025年6月23日）。claim未区分群体，表述不准确。更关键的是，claim称'70%的理工科大学毕业生为女性'，但知识库明确指出'许多理工科专业并不鼓励女性报考'，且无任何证据支持70%这一比例。相反，知识库提到伊朗高等教育中女性总体比例超过男性（约60%拥有高中以上学历），但特别强调理工科领域存在性别限制。因此，claim的两个核心部分均存在严重错误，应被反驳。",
+    "key_evidence_ids": [
+      "con_1_cc88ac74"
+    ],
+    "pro_strength": 0.30276,
+    "con_strength": 0.29375999999999997,
+    "total_evidences": 2,
+    "accepted_evidences": 2
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}

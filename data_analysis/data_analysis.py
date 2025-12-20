@@ -13,6 +13,8 @@ from collections import Counter
 import pandas as pd
 from matplotlib import font_manager
 import warnings
+from matplotlib.colors import LogNorm
+from matplotlib.ticker import PercentFormatter
 
 warnings.filterwarnings('ignore')
 
@@ -314,6 +316,86 @@ fig.suptitle('Dataset Label Distribution Dashboard', fontsize=18, weight='bold',
 plt.savefig('7_comprehensive_dashboard.png', bbox_inches='tight', dpi=300)
 plt.close()
 print("✓ 综合仪表盘已保存")
+# ========== 7. Topic vs Verdict 热力图（改进版：百分比 + 对数计数） ==========
+print("绘制 Topic vs Verdict 热力图（百分比 + 对数计数）...")
+
+topic_verdict_rows = []
+for item in data:
+    if item.get('verdict') is not None and item.get('topic') is not None:
+        topic_verdict_rows.append({
+            'topic': item['topic'],
+            'verdict': item['verdict']
+        })
+
+if topic_verdict_rows:
+    df_topic_verdict = pd.DataFrame(topic_verdict_rows)
+    cross_tab_topic = pd.crosstab(df_topic_verdict['topic'], df_topic_verdict['verdict'])
+
+    # ---- 7.1 行归一化（每个 Topic 内比例）----  ✅ 推荐主图
+    cross_tab_pct = cross_tab_topic.div(cross_tab_topic.sum(axis=1), axis=0).fillna(0)
+
+    fig, ax = plt.subplots(figsize=(14, 10))
+    sns.heatmap(
+        cross_tab_pct,
+        annot=True,
+        fmt='.1%',
+        cmap='YlOrRd',
+        cbar_kws={'label': 'Row % (P(verdict | topic))'},
+        linewidths=0.5,
+        linecolor='gray',
+        ax=ax
+    )
+    ax.set_title('Topic vs Verdict Heatmap (Row-normalized %)', fontsize=16, weight='bold', pad=20)
+    ax.set_xlabel('Verdict', fontsize=13, weight='bold')
+    ax.set_ylabel('Topic', fontsize=13, weight='bold')
+    plt.xticks(rotation=45, ha='right')
+    plt.yticks(rotation=0)
+    plt.savefig('7_topic_verdict_heatmap_rowpct.png', bbox_inches='tight', dpi=300)
+    plt.close()
+    print("✓ Topic vs Verdict 百分比热力图已保存: 7_topic_verdict_heatmap_rowpct.png")
+
+    # ---- 7.2 原始计数（对数色阶）----  ✅ 用于同时展示规模
+    fig, ax = plt.subplots(figsize=(14, 10))
+    topic_order = [
+        'Environment',
+        'Economy',
+        'Society',
+        'Health',
+        'Policy',
+        'Entertainment',
+        'Culture',
+        'Science',
+        'Sports',
+        'Politics'
+    ]
+    verdict_order = [
+        'Supported',
+        'Refuted',
+        'Not Enough Evidence'
+    ]
+    cross_tab_topic = cross_tab_topic.reindex(
+        index=topic_order,
+        columns=verdict_order
+    )
+    sns.heatmap(
+        cross_tab_topic,
+        annot=True,
+        fmt='d',
+        cmap='YlOrRd',
+        norm=LogNorm(),  # 关键：对数色阶，减少“碾压感”
+        cbar_kws={'label': 'Count (Log scale)'},
+        linewidths=0.5,
+        linecolor='gray',
+        ax=ax
+    )
+    ax.set_title('Topic vs Verdict Heatmap (Counts, Log-scaled)', fontsize=16, weight='bold', pad=20)
+    ax.set_xlabel('Verdict', fontsize=13, weight='bold')
+    ax.set_ylabel('Topic', fontsize=13, weight='bold')
+    plt.xticks(rotation=45, ha='right')
+    plt.yticks(rotation=0)
+    plt.savefig('7_topic_verdict_heatmap_logcount.png', bbox_inches='tight', dpi=300)
+    plt.close()
+    print("✓ Topic vs Verdict 对数计数热力图已保存: 7_topic_verdict_heatmap_logcount.png")
 
 # ========== 8. 生成统计报告 ==========
 print("\n生成统计报告...")

@@ -1,0 +1,141 @@
+{
+  "claim": "印尼已将首都迁至努山塔拉。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-20T17:45:44.681097",
+  "statistics": {
+    "total_evidences": 4,
+    "pro_evidences": 2,
+    "con_evidences": 2,
+    "total_attacks": 1,
+    "accepted_evidences": 3,
+    "defeated_evidences": 1
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "con_1_5b352cdd",
+        "content": "11月27日，包括雅加达特区在内的印尼37个省级行政区以及其他各个市、区举行了地方选举。在爪哇岛乃至印尼全国的最大城市、有着省级行政区地位的雅加达，普拉博沃和佐科阵营却难言喜悦。",
+        "url": "https://news.cctv.com/2024/11/29/ARTIYqpQ955RrChx7VzwxHNn241129.shtml",
+        "source": "news.cctv.com",
+        "credibility": "Medium",
+        "quality_score": 0.4734,
+        "priority": 0.28403999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "印尼政府官方确认努山塔拉仅为政治首都未完全迁都",
+        "timestamp": "2025-12-20T17:32:04.709422"
+      },
+      {
+        "id": "pro_2_aad0a479",
+        "content": "印度尼西亚已正式将首都从爪哇岛的雅加达迁至位于东加里曼丹岛的努山塔拉市。 新首都目前正在建设中，印尼政府公务员计划于2025年初开始搬迁至新首都。 印 ...",
+        "url": "https://news.cctv.com/2024/11/19/ARTIdBJEgWKYJeZevpD8jVnl241119.shtml",
+        "source": "news.cctv.com",
+        "credibility": "Medium",
+        "quality_score": 0.4674,
+        "priority": 0.28043999999999997,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "印度尼西亚总统2024年签署雅加达特区法案确认努山塔拉为新首都",
+        "timestamp": "2025-12-20T17:34:54.780161"
+      },
+      {
+        "id": "pro_2_d507dfb1",
+        "content": "... 首都从雅加达迁至东加里曼丹省一处森林腹地。新首都努山塔拉建设工作于2022年年中正式启动，分五阶段开发，定于2045年完成建设，预计建成后人口将超过200万。",
+        "url": "http://www.news.cn/20241120/ec1f0f2b07d744e082a0ce5a29d52b21/c.html",
+        "source": "www.news.cn",
+        "credibility": "Low",
+        "quality_score": 0.2598,
+        "priority": 0.07794,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "印度尼西亚总统2024年签署雅加达特区法案确认努山塔拉为新首都",
+        "timestamp": "2025-12-20T17:34:54.780161"
+      },
+      {
+        "id": "con_2_4b00d1e5",
+        "content": "美都新闻网 12 月18 日电：新首都管理局确认，位于东加里曼丹省的新首都努山达拉将于2028年做好作为印尼政治首都的准备。 18日，新首都管理局秘书比莫（Bimo Adi ...",
+        "url": "https://www.medcom.id/cn/business/read/2025/12/18/46423",
+        "source": "www.medcom.id",
+        "credibility": "Medium",
+        "quality_score": 0.474,
+        "priority": 0.2844,
+        "retrieved_by": "con",
+        "round_num": 2,
+        "search_query": "印尼总统办公室2025年12月确认努山塔拉迁都计划仍按2028年时间表进行",
+        "timestamp": "2025-12-20T17:35:20.512250"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_2_aad0a479",
+        "agent": "pro",
+        "priority": 0.28043999999999997,
+        "source": "news.cctv.com",
+        "content_preview": "印度尼西亚已正式将首都从爪哇岛的雅加达迁至位于东加里曼丹岛的努山塔拉市。 新首都目前正在建设中，印尼政府公务员计划于2025年初开始搬迁至新首都。 印 ......"
+      },
+      {
+        "id": "con_1_5b352cdd",
+        "agent": "con",
+        "priority": 0.28403999999999996,
+        "source": "news.cctv.com",
+        "content_preview": "11月27日，包括雅加达特区在内的印尼37个省级行政区以及其他各个市、区举行了地方选举。在爪哇岛乃至印尼全国的最大城市、有着省级行政区地位的雅加达，普拉博沃和佐科阵营却难言喜悦。..."
+      },
+      {
+        "id": "con_2_4b00d1e5",
+        "agent": "con",
+        "priority": 0.2844,
+        "source": "www.medcom.id",
+        "content_preview": "美都新闻网 12 月18 日电：新首都管理局确认，位于东加里曼丹省的新首都努山达拉将于2028年做好作为印尼政治首都的准备。 18日，新首都管理局秘书比莫（Bimo Adi ......"
+      }
+    ],
+    "defeated_evidences": [
+      {
+        "id": "pro_2_d507dfb1",
+        "agent": "pro",
+        "priority": 0.07794,
+        "defeated_by": [
+          "con_2_4b00d1e5"
+        ]
+      }
+    ]
+  },
+  "argumentation": {
+    "attack_edges": [
+      {
+        "from_evidence_id": "con_2_4b00d1e5",
+        "from_agent": "con",
+        "from_priority": 0.2844,
+        "to_evidence_id": "pro_2_d507dfb1",
+        "to_agent": "pro",
+        "to_priority": 0.07794,
+        "strength": 0.20645999999999998,
+        "rationale": "证据1称2028年准备好，证据2称2045年完成，时间矛盾",
+        "round_num": 2
+      }
+    ],
+    "grounded_extension": [
+      "pro_2_aad0a479",
+      "con_1_5b352cdd",
+      "con_2_4b00d1e5"
+    ]
+  },
+  "verdict": {
+    "decision": "Refuted",
+    "confidence": 0.7,
+    "reasoning": "Claim的核心在于\"已将\"一词，暗示迁都已完成。分析证据发现：虽然2024年11月印尼国会通过法案取消雅加达首都地位，但实际搬迁进程仍在进行中。2024年12月10日资料明确指出\"印尼计划于2028年将国家首都迁往努山塔拉\"，2025年10月23日报道仍使用\"打算\"描述迁都。最关键的是[www.medcom.id]证据确认\"新首都将于2028年做好作为印尼政治首都的准备\"，直接证明迁都尚未完成。2025年11月的报道标题仍使用\"将\"字，而非\"已\"字，进一步佐证迁都仍在进行中。因此，claim中\"已将\"的表述与事实不符，应判定为Refuted。",
+    "key_evidence_ids": [
+      "pro_2_aad0a479",
+      "con_1_5b352cdd",
+      "con_2_4b00d1e5"
+    ],
+    "pro_strength": 0.0,
+    "con_strength": 0.28295999999999993,
+    "total_evidences": 4,
+    "accepted_evidences": 3
+  },
+  "evaluation": {
+    "predicted": "Refuted",
+    "ground_truth": "Refuted",
+    "correct": true
+  }
+}
