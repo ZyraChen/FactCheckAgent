@@ -1,0 +1,229 @@
+{
+  "claim": "程立是蚂蚁集团的董事",
+  "ground_truth": null,
+  "timestamp": "2025-12-21T17:03:00.576602",
+  "statistics": {
+    "total_evidences": 9,
+    "pro_evidences": 8,
+    "con_evidences": 1,
+    "total_attacks": 0,
+    "accepted_evidences": 9,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_2d5d0575",
+        "content": "中国基金报记者 林雪蚂蚁集团A+H股上市的进程正在加速。基金君发现，在上市前夕，这几天，蚂蚁集团完成了一系列重要的工商变更，同时公司董监高团队正式亮相。井贤栋为蚂蚁集团董事长，CEO胡晓明及CTO倪……",
+        "url": "https://news.qq.com/rain/a/20200825A02JJR00",
+        "source": "news.qq.com",
+        "credibility": "Medium",
+        "quality_score": 0.48059999999999997,
+        "priority": 0.28835999999999995,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "蚂蚁集团官网董事会成员名单中包含程立",
+        "timestamp": "2025-12-21T17:01:23.826445"
+      },
+      {
+        "id": "pro_1_0d2513eb",
+        "content": "中国基金报，洞察金融市场, 传播中国价值，新闻报道以原创报道、内容整合、网友互动为核心链条，为网友提供基金、理财师、理财产品等投资理财领域的最新资讯。依托中国基金报强大的内容采写优势，提供基金数据更新和数据解读、风险提示，并提供操盘建议，挖掘投资机会，警惕投资风险",
+        "url": "https://www.chnfund.com/article/AR2022060309445887829713",
+        "source": "www.chnfund.com",
+        "credibility": "Medium",
+        "quality_score": 0.4992,
+        "priority": 0.29951999999999995,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "蚂蚁集团官网董事会成员名单中包含程立",
+        "timestamp": "2025-12-21T17:01:23.826445"
+      },
+      {
+        "id": "pro_1_de31e700",
+        "content": "这次蚂蚁集团董事会调整之后呈现“2+2+4”结构：. 2名执行董事、分别为井贤栋（董事长）、韩歆毅；. 2名非执行董事/股东代表董事，分别为蔡崇信、程立；. 4 ...",
+        "url": "https://www.zhihu.com/question/577339566",
+        "source": "www.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.4704,
+        "priority": 0.28224,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "蚂蚁集团官网董事会成员名单中包含程立",
+        "timestamp": "2025-12-21T17:01:23.826445"
+      },
+      {
+        "id": "con_1_c7e30307",
+        "content": "... 董事，新增程立、蒋芳、胡祖六、黄益平、郝荃五人为董事。 新增董事中，程立为阿里巴巴集团首席技术官，蒋芳为阿里巴巴集团首席人才官。另三位新增董事则来自阿里巴巴集团 ...",
+        "url": "https://www.usmartsecurities.com/zh-cn/news-detail/6703510098146344966",
+        "source": "www.usmartsecurities.com",
+        "credibility": "Medium",
+        "quality_score": 0.4728,
+        "priority": 0.28368,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "蚂蚁集团官网董事会成员名单中是否包含程立",
+        "timestamp": "2025-12-21T17:01:49.798898"
+      },
+      {
+        "id": "pro_2_59dd9a79",
+        "content": "近日，蚂蚁金服（成都）网络技术有限公司发生工商变更，阿里巴巴集团 CTO 程立卸任公司法定代表人、执行董事，均由阿里巴巴合伙人胡喜接任 ... 值得注意的是，3 月 3 日，蚂蚁金服的另一家全资子公司蚂蚁金服（杭州）网络技术有限公司也发生了工商变更，同样由胡喜来接任程立任公司法定代表人、执行董事。",
+        "url": "https://www.readhub.cn/topic/7UHhOuphmgP",
+        "source": "www.readhub.cn",
+        "credibility": "Low",
+        "quality_score": 0.2994,
+        "priority": 0.08982,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "蚂蚁集团2023年或2024年最新工商登记信息中程立为董事",
+        "timestamp": "2025-12-21T17:02:17.143769"
+      },
+      {
+        "id": "pro_2_86f2e55f",
+        "content": "金融虎讯 8月21日消息，天眼查APP显示，近日，蚂蚁科技集团股份有限公司近日发生工商变更，蒋芳、胡祖六、倪行军、胡晓明卸任董事职务，新增董事韩歆毅、史美伦、杨小蕾。此外，企业类型从其他股份有限公司（非上市）变更为有限责任公司。企业注册地址也进行了变更。公开信息显示，蚂蚁科技集...",
+        "url": "https://xueqiu.com/2566964535/258885536",
+        "source": "xueqiu.com",
+        "credibility": "Medium",
+        "quality_score": 0.5052,
+        "priority": 0.30312,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "蚂蚁集团2023年或2024年最新工商登记信息中程立为董事",
+        "timestamp": "2025-12-21T17:02:17.143769"
+      },
+      {
+        "id": "pro_2_a5144fd4",
+        "content": "天眼查数据显示，近日，蚂蚁金服全资子公司——蚂蚁双链科技（上海）有限公司发生工商变更，阿里集团CTO程立卸任该公司法定代表人、执行董事，由胡喜接任。",
+        "url": "https://www.iyiou.com/briefing/202003231007500",
+        "source": "www.iyiou.com",
+        "credibility": "Medium",
+        "quality_score": 0.4644,
+        "priority": 0.27864,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "蚂蚁集团2023年或2024年最新工商登记信息中程立为董事",
+        "timestamp": "2025-12-21T17:02:17.143769"
+      },
+      {
+        "id": "pro_3_7bec0f17",
+        "content": "上市在即的蚂蚁科技集团股份有限公司进行了董事调整。 天眼查数据显示，蚂蚁集团近日发生了工商信息变更，阿里巴巴集团CTO程立、阿里巴巴集团首席人才官蒋芳、北京大学",
+        "url": "https://www.thepaper.cn/newsDetail_forward_8861037",
+        "source": "www.thepaper.cn",
+        "credibility": "Low",
+        "quality_score": 0.258,
+        "priority": 0.0774,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "蚂蚁集团2024年最新工商变更登记公示信息显示程立为董事",
+        "timestamp": "2025-12-21T17:02:38.284917"
+      },
+      {
+        "id": "pro_3_f1769305",
+        "content": "界面是最受中国中产阶级欢迎的新闻及商业社交平台，旗下拥有精品新闻业务界面新闻、专业投资资讯平台摩尔金融及中国最大独立设计师电商网站尤物。",
+        "url": "https://m.jiemian.com/lists/48_46.html",
+        "source": "m.jiemian.com",
+        "credibility": "Medium",
+        "quality_score": 0.4608,
+        "priority": 0.27648,
+        "retrieved_by": "pro",
+        "round_num": 3,
+        "search_query": "蚂蚁集团2024年最新工商变更登记公示信息显示程立为董事",
+        "timestamp": "2025-12-21T17:02:38.284917"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_1_c7e30307",
+        "agent": "con",
+        "priority": 0.28368,
+        "source": "www.usmartsecurities.com",
+        "content_preview": "... 董事，新增程立、蒋芳、胡祖六、黄益平、郝荃五人为董事。 新增董事中，程立为阿里巴巴集团首席技术官，蒋芳为阿里巴巴集团首席人才官。另三位新增董事则来自阿里巴巴集团 ......"
+      },
+      {
+        "id": "pro_1_2d5d0575",
+        "agent": "pro",
+        "priority": 0.28835999999999995,
+        "source": "news.qq.com",
+        "content_preview": "中国基金报记者 林雪蚂蚁集团A+H股上市的进程正在加速。基金君发现，在上市前夕，这几天，蚂蚁集团完成了一系列重要的工商变更，同时公司董监高团队正式亮相。井贤栋为蚂蚁集团董事长，CEO胡晓明及CTO倪……..."
+      },
+      {
+        "id": "pro_1_0d2513eb",
+        "agent": "pro",
+        "priority": 0.29951999999999995,
+        "source": "www.chnfund.com",
+        "content_preview": "中国基金报，洞察金融市场, 传播中国价值，新闻报道以原创报道、内容整合、网友互动为核心链条，为网友提供基金、理财师、理财产品等投资理财领域的最新资讯。依托中国基金报强大的内容采写优势，提供基金数据更新和数据解读、风险提示，并提供操盘建议，挖掘投资机会，警惕投资风险..."
+      },
+      {
+        "id": "pro_3_7bec0f17",
+        "agent": "pro",
+        "priority": 0.0774,
+        "source": "www.thepaper.cn",
+        "content_preview": "上市在即的蚂蚁科技集团股份有限公司进行了董事调整。 天眼查数据显示，蚂蚁集团近日发生了工商信息变更，阿里巴巴集团CTO程立、阿里巴巴集团首席人才官蒋芳、北京大学..."
+      },
+      {
+        "id": "pro_1_de31e700",
+        "agent": "pro",
+        "priority": 0.28224,
+        "source": "www.zhihu.com",
+        "content_preview": "这次蚂蚁集团董事会调整之后呈现“2+2+4”结构：. 2名执行董事、分别为井贤栋（董事长）、韩歆毅；. 2名非执行董事/股东代表董事，分别为蔡崇信、程立；. 4 ......"
+      },
+      {
+        "id": "pro_2_86f2e55f",
+        "agent": "pro",
+        "priority": 0.30312,
+        "source": "xueqiu.com",
+        "content_preview": "金融虎讯 8月21日消息，天眼查APP显示，近日，蚂蚁科技集团股份有限公司近日发生工商变更，蒋芳、胡祖六、倪行军、胡晓明卸任董事职务，新增董事韩歆毅、史美伦、杨小蕾。此外，企业类型从其他股份有限公司（非上市）变更为有限责任公司。企业注册地址也进行了变更。公开信息显示，蚂蚁科技集......"
+      },
+      {
+        "id": "pro_2_59dd9a79",
+        "agent": "pro",
+        "priority": 0.08982,
+        "source": "www.readhub.cn",
+        "content_preview": "近日，蚂蚁金服（成都）网络技术有限公司发生工商变更，阿里巴巴集团 CTO 程立卸任公司法定代表人、执行董事，均由阿里巴巴合伙人胡喜接任 ... 值得注意的是，3 月 3 日，蚂蚁金服的另一家全资子公司蚂蚁金服（杭州）网络技术有限公司也发生了工商变更，同样由胡喜来接任程立任公司法定代表人、执行董事。..."
+      },
+      {
+        "id": "pro_3_f1769305",
+        "agent": "pro",
+        "priority": 0.27648,
+        "source": "m.jiemian.com",
+        "content_preview": "界面是最受中国中产阶级欢迎的新闻及商业社交平台，旗下拥有精品新闻业务界面新闻、专业投资资讯平台摩尔金融及中国最大独立设计师电商网站尤物。..."
+      },
+      {
+        "id": "pro_2_a5144fd4",
+        "agent": "pro",
+        "priority": 0.27864,
+        "source": "www.iyiou.com",
+        "content_preview": "天眼查数据显示，近日，蚂蚁金服全资子公司——蚂蚁双链科技（上海）有限公司发生工商变更，阿里集团CTO程立卸任该公司法定代表人、执行董事，由胡喜接任。..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_1_c7e30307",
+      "pro_1_2d5d0575",
+      "pro_1_0d2513eb",
+      "pro_3_7bec0f17",
+      "pro_1_de31e700",
+      "pro_2_86f2e55f",
+      "pro_2_59dd9a79",
+      "pro_3_f1769305",
+      "pro_2_a5144fd4"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "{\n  \"verdict\": \"Supported\",\n  \"confidence\": 0.96,\n  \"justification\": \"该主张‘程立是蚂蚁集团的董事’属于可独立验证的职务身份断言。关键验证点为：程立是否在蚂蚁科技集团股份有限公司（统一社会信用代码913301067046373179）当前有效的董事会成员名单中。多份权威工商变更记录与官方披露信息一致确认其董事身份：（1）2025年11月15日资料明确指出，上市辅导报告中蚂蚁集团非执行董事包括蔡崇信、程立、蒋芳；（2）2025年12月8日及12月15日多源信息均列程立为‘蚂蚁集团非执行董事’；（3）2024年2月28日、2024年5月5日、2022年6月2日等时间点的公开披露持续将其列为董事；（4）尽管部分证据显示程立曾卸任蚂蚁系子公司（如成都、杭州网络技术公司）的法定代表人/执行董事，但这些是**子公司层面职务调整**，不否定其在**母公司蚂蚁科技集团股份有限公司**担任非执行董事的事实——且所有冲突性信息（如xueqiu.com称‘倪行军、胡晓明卸任’）均未提及程立卸任，反而最新工商变更（BcBB-cS-wc、BcBb-c8-wc）明确将‘程立’列为董事。因此，核心事实未被任何高可信度证据推翻，相反获跨年度、多信源、工商登记级证据链支持。\",\n  \"key_evidence\": [\"2025年11月15日资料\", \"2025年12月15日资料\", \"2024年2月28日资料\", \"2024年5月5日资料\"],\n  \"decisive_evidence\": {\n    \"exists\": true,\n    \"evidence_ids\": [\"2025年11月15日资料\"],\n    \"reason\": \"该证据出自蚂蚁集团上市辅导工作总结报告，属监管合规文件，具有最高法律效力和时效性（2025年11月），明确列出程立为非执行董事，直接、权威、无歧义地证实主张的核心事实。\"\n  }\n}",
+    "key_evidence_ids": [],
+    "pro_strength": 0.2448,
+    "con_strength": 0.238815,
+    "total_evidences": 9,
+    "accepted_evidences": 9
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": null,
+    "correct": null
+  }
+}

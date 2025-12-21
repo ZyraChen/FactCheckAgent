@@ -1,0 +1,166 @@
+{
+  "claim": "贝多芬《致爱丽丝》中的\"爱丽丝\"确有其人。",
+  "ground_truth": "Not Enough Evidence",
+  "timestamp": "2025-12-21T16:50:47.144864",
+  "statistics": {
+    "total_evidences": 6,
+    "pro_evidences": 3,
+    "con_evidences": 3,
+    "total_attacks": 0,
+    "accepted_evidences": 6,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_5749d48f",
+        "content": "... 贝多芬手稿上凌乱的字迹被学者误读而产生的。据记载，贝多芬的字迹非常糟糕，甚至曾有研究表明他患有阅读障碍症。 《致爱丽丝》的原始手稿现已失传，路德维希-诺尔 ...",
+        "url": "https://zhuanlan.zhihu.com/p/651614135",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.471,
+        "priority": 0.28259999999999996,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "贝多芬致爱丽丝手稿原始文献或权威音乐学研究证实爱丽丝真实存在",
+        "timestamp": "2025-12-21T16:49:04.447037"
+      },
+      {
+        "id": "con_1_4f28f80a",
+        "content": "《致爱丽丝》中的爱丽丝到底是谁？ ... 1867年，德国音乐学者路德维希·诺尔发现了一份贝多芬生前从未发表的遗作手稿，并很快将其整理、出版。",
+        "url": "https://www.sohu.com/a/444517245_692669",
+        "source": "www.sohu.com",
+        "credibility": "Medium",
+        "quality_score": 0.46259999999999996,
+        "priority": 0.27756,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "贝多芬致爱丽丝手稿现存档案馆官方说明中是否记载爱丽丝真实身份",
+        "timestamp": "2025-12-21T16:49:32.692665"
+      },
+      {
+        "id": "con_1_7308a11b",
+        "content": "贝多芬曾经约会过三位优秀女性，Elise的真实身份有很大可能就隐藏于其中。根据可能性的大小，我们从众多说法中，锁定了两位被认为是Elise的女性！ 接下来，让我们一起 ...",
+        "url": "https://zhuanlan.zhihu.com/p/651614135",
+        "source": "zhuanlan.zhihu.com",
+        "credibility": "Medium",
+        "quality_score": 0.47219999999999995,
+        "priority": 0.28331999999999996,
+        "retrieved_by": "con",
+        "round_num": 1,
+        "search_query": "贝多芬致爱丽丝手稿现存档案馆官方说明中是否记载爱丽丝真实身份",
+        "timestamp": "2025-12-21T16:49:32.692665"
+      },
+      {
+        "id": "pro_2_6a180741",
+        "content": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://www.youtube.com/watch?v=5qVL2bLlySE",
+        "source": "www.youtube.com",
+        "credibility": "Medium",
+        "quality_score": 0.4956,
+        "priority": 0.29735999999999996,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "贝多芬致爱丽丝手稿原始题献“Für Elise”中Elise系指1810年贝多芬学生特蕾泽·冯·布伦斯维克真实姓名拼写变体的权威音乐学考证",
+        "timestamp": "2025-12-21T16:49:49.809447"
+      },
+      {
+        "id": "pro_2_5591347a",
+        "content": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://www.youtube.com/watch?v=V1TowslYpzE",
+        "source": "www.youtube.com",
+        "credibility": "Medium",
+        "quality_score": 0.4956,
+        "priority": 0.29735999999999996,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "贝多芬致爱丽丝手稿原始题献“Für Elise”中Elise系指1810年贝多芬学生特蕾泽·冯·布伦斯维克真实姓名拼写变体的权威音乐学考证",
+        "timestamp": "2025-12-21T16:49:49.809447"
+      },
+      {
+        "id": "con_3_b9512dc2",
+        "content": "貝多芬一首鋼琴曲給愛麗絲。創作於1810年4月27日，此曲在貝多芬生前未公開過！曲名中的愛麗絲是誰，迄今仍然沒有定論。一般認為，真正的曲名其實是給特蕾莎，當時路德維希·諾爾發現此曲，由於筆跡潦草而被誤解讀為愛麗絲。特蕾莎·瑪爾法蒂 Therese Malfatti 是貝多芬生前愛上的一位女性，本曲的原稿在她的書中被發現",
+        "url": "https://www.greenconut.com/trivia/beethoven-furelise_0614/",
+        "source": "www.greenconut.com",
+        "credibility": "Medium",
+        "quality_score": 0.516,
+        "priority": 0.3096,
+        "retrieved_by": "con",
+        "round_num": 3,
+        "search_query": "贝多芬致爱丽丝原始手稿失传前最早公开出版记录中题献“Für Elise”是否被当时音乐评论界或贝多芬通信集证实指向真实人物",
+        "timestamp": "2025-12-21T16:50:27.816638"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "con_3_b9512dc2",
+        "agent": "con",
+        "priority": 0.3096,
+        "source": "www.greenconut.com",
+        "content_preview": "貝多芬一首鋼琴曲給愛麗絲。創作於1810年4月27日，此曲在貝多芬生前未公開過！曲名中的愛麗絲是誰，迄今仍然沒有定論。一般認為，真正的曲名其實是給特蕾莎，當時路德維希·諾爾發現此曲，由於筆跡潦草而被誤解讀為愛麗絲。特蕾莎·瑪爾法蒂 Therese Malfatti 是貝多芬生前愛上的一位女性，本曲的原稿在她的書中被發現..."
+      },
+      {
+        "id": "pro_2_5591347a",
+        "agent": "pro",
+        "priority": 0.29735999999999996,
+        "source": "www.youtube.com",
+        "content_preview": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube...."
+      },
+      {
+        "id": "pro_1_5749d48f",
+        "agent": "pro",
+        "priority": 0.28259999999999996,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "... 贝多芬手稿上凌乱的字迹被学者误读而产生的。据记载，贝多芬的字迹非常糟糕，甚至曾有研究表明他患有阅读障碍症。 《致爱丽丝》的原始手稿现已失传，路德维希-诺尔 ......"
+      },
+      {
+        "id": "con_1_7308a11b",
+        "agent": "con",
+        "priority": 0.28331999999999996,
+        "source": "zhuanlan.zhihu.com",
+        "content_preview": "贝多芬曾经约会过三位优秀女性，Elise的真实身份有很大可能就隐藏于其中。根据可能性的大小，我们从众多说法中，锁定了两位被认为是Elise的女性！ 接下来，让我们一起 ......"
+      },
+      {
+        "id": "con_1_4f28f80a",
+        "agent": "con",
+        "priority": 0.27756,
+        "source": "www.sohu.com",
+        "content_preview": "《致爱丽丝》中的爱丽丝到底是谁？ ... 1867年，德国音乐学者路德维希·诺尔发现了一份贝多芬生前从未发表的遗作手稿，并很快将其整理、出版。..."
+      },
+      {
+        "id": "pro_2_6a180741",
+        "agent": "pro",
+        "priority": 0.29735999999999996,
+        "source": "www.youtube.com",
+        "content_preview": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube...."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "con_3_b9512dc2",
+      "pro_2_5591347a",
+      "pro_1_5749d48f",
+      "con_1_7308a11b",
+      "con_1_4f28f80a",
+      "pro_2_6a180741"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "{\n  \"verdict\": \"Not Enough Evidence\",\n  \"confidence\": 0.72,\n  \"justification\": \"该主张‘贝多芬《致爱丽丝》中的\\\\\\\"爱丽丝\\\\\\\"确有其人’需满足两个关键可验证前提：（1）‘爱丽丝’是真实存在的、被贝多芬明确指涉的特定个体；（2）该指涉具有历史实证基础（如原始手稿题献、信件、同时代可靠记载等）。然而，所有现存证据均不支持这一确定性断言。核心矛盾在于：原始手稿已佚失，唯一存世的早期文献是1867年诺尔出版的乐谱，而其标题‘Für Elise’（致爱丽丝）被多位权威来源（greenconut.com、zhuanlan.zhihu.com）一致指出极可能源于对贝多芬潦草笔迹‘Therese’（特蕾泽）的误读——这是学界主流假说，且有手稿辨识学与贝多芬书写习惯研究支撑。此外，尽管‘特蕾泽·玛尔法蒂’和‘伊丽莎白·罗克尔’（昵称Elise）均为真实历史人物，且均与贝多芬存在亲密关系，但没有任何第一手文献（如贝多芬亲笔信、日记、出版前手稿）能确证他本人使用过‘Elise’作为题献名，更无证据表明‘爱丽丝’是独立于‘Therese’或‘Elisabeth’之外的第三人。YouTube等来源无关，知乎与搜狐内容属二手转述，缺乏原始档案佐证。因此，该主张尚未达到‘确有其人’所需的史料确证标准，属于未解之历史悬案。\",\n  \"key_evidence\": [\"www.greenconut.com\", \"zhuanlan.zhihu.com\"],\n  \"decisive_evidence\": {\n    \"exists\": false,\n    \"evidence_ids\": [],\n    \"reason\": \"不存在直接、一手、无可争议的证据证明‘爱丽丝’是贝多芬主观认定并指称的独立真实人物；所有所谓‘支持’均基于推测性传记叙事或误读推论，而关键反证（手稿佚失+题名系后人误释）构成对‘确有其人’这一绝对化主张的根本性质疑。\"\n  }\n}",
+    "key_evidence_ids": [],
+    "pro_strength": 0.28043999999999997,
+    "con_strength": 0.29672999999999994,
+    "total_evidences": 6,
+    "accepted_evidences": 6
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Not Enough Evidence",
+    "correct": true
+  }
+}
