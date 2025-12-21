@@ -38,6 +38,7 @@ class ConQueryChain:
 
         Args:
             llm: LangChain compatible LLM (QwenLLMWrapper)
+                 应配置为 enable_search=True, force_search=False
         """
         self.llm = llm
 

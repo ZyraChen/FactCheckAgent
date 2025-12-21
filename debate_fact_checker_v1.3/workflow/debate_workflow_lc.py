@@ -69,17 +69,38 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
 
     # 1. 初始化组件
     llm_client = QwenClient(config.DASHSCOPE_API_KEY)
-    llm_wrapper = QwenLLMWrapper(qwen_client=llm_client)  # LangChain wrapper
 
     jina = JinaSearch(config.JINA_API_KEY)
     evidence_pool = EvidencePool()
     arg_graph = ArgumentationGraph(claim)
     attack_detector = AttackDetector(llm_client)
 
-    # 创建 LangChain Chains
-    pro_chain = ProQueryChain(llm=llm_wrapper)
-    con_chain = ConQueryChain(llm=llm_wrapper)
-    judge_chain = JudgeChain(llm=llm_wrapper)
+    # 创建 LangChain Chains，每个使用独立的 LLM wrapper 实例以便配置不同的搜索参数
+    # Pro Chain: enable_search=True, force_search=False (智能搜索)
+    pro_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=True,
+        force_search=False,
+        search_strategy="auto"
+    )
+    pro_chain = ProQueryChain(llm=pro_llm)
+
+    # Con Chain: enable_search=True, force_search=False (智能搜索)
+    con_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=True,
+        force_search=False,
+        search_strategy="auto"
+    )
+    con_chain = ConQueryChain(llm=con_llm)
+
+    # Judge Chain: 将在 JudgeChain 内部为不同方法配置不同参数
+    judge_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=False,  # 默认关闭，在 make_verdict 时再开启
+        force_search=False
+    )
+    judge_chain = JudgeChain(llm=judge_llm)
 
     # 记录所有查询（避免重复）
     all_queries = []
