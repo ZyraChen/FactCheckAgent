@@ -80,7 +80,8 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
     pro_llm = QwenLLMWrapper(
         qwen_client=llm_client,
         enable_search=True,
-        force_search=False
+        force_search=False,
+        search_strategy="auto"
     )
     pro_chain = ProQueryChain(llm=pro_llm)
 
@@ -88,7 +89,8 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
     con_llm = QwenLLMWrapper(
         qwen_client=llm_client,
         enable_search=True,
-        force_search=False
+        force_search=False,
+        search_strategy="auto"
     )
     con_chain = ConQueryChain(llm=con_llm)
 
@@ -113,7 +115,6 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         print("[查询生成]")
 
         # Pro 生成查询
-        print("开始生成正方查询词")
         con_evidences = evidence_pool.get_by_agent("con")
         pro_queries = pro_chain.generate_queries(
             claim=claim,
@@ -123,7 +124,6 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         )
 
         # Con 生成查询
-        print("开始生成反方查询词")
         pro_evidences = evidence_pool.get_by_agent("pro")
         con_queries = con_chain.generate_queries(
             claim=claim,
@@ -195,7 +195,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         stats = evidence_pool.get_statistics()
         print(f"\n[本轮统计] Pro:{stats['pro']}个, Con:{stats['con']}个, 总计:{stats['total']}个证据节点")
 
-    # 3. Judge 判决
+    # 3. Judge 判决（使用 LangChain Chain）
     print(f"\n{'='*80}")
     print("Judge 判决")
     print(f"{'='*80}\n")
