@@ -51,9 +51,9 @@ Refuting Evidence (strength: {refute_strength:.2f}):
 {refute_evidences}
 
 Please make a final verdict:
-- Supported: There is sufficient evidence to support the claim
-- Refuted: There is sufficient evidence to refute the claim
-- Not Enough Evidence: Issues where evidence is insufficient or contentious, or where no consensus has been reached.
+    - Supported: The claim is TRUE based on the evidence you found
+    - Refuted: The claim is FALSE based on the evidence you found
+    - Not Enough Evidence: Insufficient reliable information to determine truth or falsehood, the issue involves unresolved academic/expert controversy, or credible sources provide irreconcilable conflicting information.
 
 Verdict Guidelines:
 1. Identify decisive evidence:
@@ -123,7 +123,7 @@ Now make the verdict:"""
         try:
             result = self.stance_chain.invoke({
                 "claim": claim,
-                "evidence_content": evidence.content[:500],
+                "evidence_content": evidence.content[:100],
                 "evidence_source": evidence.source
             })
 
@@ -195,8 +195,8 @@ Now make the verdict:"""
         print(f"\n支持强度: {support_strength:.3f}, 反对强度: {refute_strength:.3f}")
 
         # 3. 构建证据摘要
-        support_summary = "\n".join([f"- [{ev.source}] {ev.content[:100]}..." for ev in supporting[:3]]) if supporting else "无"
-        refute_summary = "\n".join([f"- [{ev.source}] {ev.content[:100]}..." for ev in refuting[:3]]) if refuting else "无"
+        support_summary = "\n".join([f"- [{ev.source}] {ev.content[:300]}..." for ev in supporting[:3]]) if supporting else "无"
+        refute_summary = "\n".join([f"- [{ev.source}] {ev.content[:300]}..." for ev in refuting[:3]]) if refuting else "无"
 
         # 4. 调用 LLM 生成判决
         # 启用完整搜索：这是最关键的决策，值得投入最多资源

@@ -240,8 +240,8 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="LangChain Lite 辩论式事实核查")
     # parser.add_argument("--claim", type=str, default="越南通过人工智能法,在最后立法会议中通过51项法案")
-    parser.add_argument("--dataset", type=str, default="data/dataset_part_8.json")
-    parser.add_argument("--output", type=str, default="output/output_1_1/results_lc_lite.json")
+    parser.add_argument("--dataset", type=str, default="../data/dataset_part_8.json")
+    parser.add_argument("--output", type=str, default="output/output_8/results_lc_lite.json")
     parser.add_argument("--max-samples", type=int, default=50)
     parser.add_argument("--rounds", type=int, default=3, help="辩论轮次")
 

@@ -33,7 +33,7 @@ class QwenClient:
         enable_search: bool = False,
         force_search: bool = False,
         enable_thinking: bool = True,
-        search_strategy: str = "auto"
+        search_strategy: str = "turbo"
     ) -> str:
         """
         标准对话接口
