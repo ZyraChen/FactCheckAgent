@@ -66,11 +66,11 @@ Query generation requirements:
 Query format specifications (important):
 - Chinese queries: Use natural sentences with no spaces between words
   Example: `蚂蚁集团官方网站最新董事会成员中有程立`
-- English queries: Connect keywords with plus signs (+)
-  Example: `Craigslist's+official+website+has+ad+recruiting+LA+protests+evidence`
-
+- English queries: Use natural sentences and connect keywords with plus signs (+)
+  Example: `Pluto+aphelion+distance+astronomical+units`
 Output requirements:
 Only output 1 search query, do not include any explanations, punctuation, or extra text.
+The language used for the query should be consistent with the claim.
 
 Now please provide the query:"""
         )

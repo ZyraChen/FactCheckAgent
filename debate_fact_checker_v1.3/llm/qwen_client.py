@@ -46,7 +46,7 @@ class QwenClient:
             enable_search: 是否启用搜索功能（默认False）
             force_search: 是否强制搜索（默认False，仅在enable_search=True时有效）
             enable_thinking: 是否启用思考模式（默认True）
-            search_strategy: 搜索策略 "auto"/"max"（默认auto）
+            search_strategy: 搜索策略 "max"
         """
         # 如果有system prompt,添加到messages开头
         if system:

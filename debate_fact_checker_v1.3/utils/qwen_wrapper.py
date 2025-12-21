@@ -14,11 +14,11 @@ class QwenLLMWrapper(LLM):
     将原有的 QwenClient 包装为 LangChain compatible LLM
     """
     qwen_client: Any  # QwenClient instance
-    temperature: float = 0.7
+    temperature: float = 0.1
     enable_search: bool = False  # 默认关闭搜索
     force_search: bool = False
-    enable_thinking: bool = True
-    search_strategy: str = "auto"
+    enable_thinking: bool = False
+    search_strategy: str = "max"
 
     class Config:
         arbitrary_types_allowed = True

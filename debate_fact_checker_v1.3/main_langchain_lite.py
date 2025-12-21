@@ -111,16 +111,16 @@ def process_dataset(dataset_path: str, output_path: str, max_samples: int = None
                 print(f"检测到进度文件，已处理 {len(processed_indices)} 条数据")
                 print(f"   将从第 {len(processed_indices)+1} 条继续...\n")
         except Exception as e:
-            print(f"⚠ 无法读取进度文件: {e}")
+            print(f" 无法读取进度文件: {e}")
 
     # 加载已有结果
     if Path(output_path).exists():
         try:
             with open(output_path, "r", encoding="utf-8") as f:
                 results = json.load(f)
-                print(f"📂 加载了 {len(results)} 条已有结果\n")
+                print(f" 加载了 {len(results)} 条已有结果\n")
         except Exception as e:
-            print(f"⚠ 无法读取结果文件: {e}")
+            print(f" 无法读取结果文件: {e}")
             results = []
 
     for i, item in enumerate(dataset):
@@ -239,7 +239,7 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="LangChain Lite 辩论式事实核查")
-    # parser.add_argument("--claim", type=str, default="越南通过人工智能法,在最后立法会议中通过51项法案")
+    parser.add_argument("--claim", type=str, default="程立是蚂蚁集团的董事")
     parser.add_argument("--dataset", type=str, default="../data/dataset_part_8.json")
     parser.add_argument("--output", type=str, default="output/output_8/results_lc_lite.json")
     parser.add_argument("--max-samples", type=int, default=50)
@@ -247,10 +247,10 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    # if args.claim:
-    #     process_single_claim(args.claim, args.rounds)
-    # elif args.dataset:
-    process_dataset(args.dataset, args.output, args.max_samples)
+    if args.claim:
+        process_single_claim(args.claim, args.rounds)
+    elif args.dataset:
+        process_dataset(args.dataset, args.output, args.max_samples)
     # else:
     #     # 默认测试
     #     test_claim = "欧盟计划在2030年全面禁止销售燃油车。"

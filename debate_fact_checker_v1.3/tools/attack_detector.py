@@ -44,9 +44,6 @@ class AttackDetector:
                 if new_ev.id == existing_ev.id:
                     continue
 
-                # 只检测对立立场
-                if new_ev.retrieved_by == existing_ev.retrieved_by:
-                    continue
 
                 # 只检测高优先级→低优先级
                 priority_diff = new_ev.get_priority() - existing_ev.get_priority()

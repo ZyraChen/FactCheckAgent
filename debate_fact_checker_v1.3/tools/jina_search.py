@@ -14,12 +14,12 @@ import time
 class JinaSearch:
     """Jina Reader Search API 封装"""
 
-    def __init__(self, api_key: str, max_results_per_query: int = 5):
+    def __init__(self, api_key: str, max_results_per_query: int = 20):
         self.api_key = api_key
         self.max_results = max_results_per_query
         self.base_url = "https://s.jina.ai/?q="
 
-    def search(self, query: str, top_k: int = 5) -> List[Dict]:
+    def search(self, query: str, top_k: int = 10) -> List[Dict]:
         """
         同步搜索方法 (兼容性接口)
 
@@ -124,14 +124,17 @@ class JinaSearch:
                         url = line.split('] URL Source:')[1].strip()
                     elif line.startswith('[') and '] Description:' in line:
                         description = line.split('] Description:')[1].strip()
-                    elif i > 3:  # 内容在metadata后面
-                        content += line + "\n"
+                    elif i > 4:  # 内容在metadata后面
+                        break
 
-                # content = content.strip()[:1000]
+                content = content.strip()[:1000]
+
+
+                # content = content.strip()[:300]
                 #
                 # # 如果没有独立内容,用描述
-                # if not content and description:
-                #     content = description
+                # if len(description)<20:
+                #     description = content
 
                 if title and url:
                     results.append({

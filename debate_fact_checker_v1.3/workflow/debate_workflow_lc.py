@@ -81,7 +81,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         qwen_client=llm_client,
         enable_search=True,
         force_search=False,
-        search_strategy="auto"
+        search_strategy="turbo"
     )
     pro_chain = ProQueryChain(llm=pro_llm)
 
@@ -90,7 +90,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         qwen_client=llm_client,
         enable_search=True,
         force_search=False,
-        search_strategy="auto"
+        search_strategy="turbo"
     )
     con_chain = ConQueryChain(llm=con_llm)
 
@@ -146,7 +146,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         for query, agent, r_num in all_search_queries:
             try:
                 print(f"搜索: [{agent.upper()}] {query}")
-                results = jina.search(query, top_k=2)
+                results = jina.search(query, top_k=10)
 
                 for result in results:
                     # 创建 Evidence 对象
@@ -247,7 +247,7 @@ def _print_final_report(
 ):
     """打印最终报告"""
     print(f"\n\n{'='*80}")
-    print("📊 最终判决")
+    print(" 最终判决")
     print(f"{'='*80}\n")
     print(f"Claim: {claim}\n")
 
