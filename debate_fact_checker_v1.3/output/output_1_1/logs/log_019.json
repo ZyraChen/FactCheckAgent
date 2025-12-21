@@ -1,0 +1,103 @@
+{
+  "claim": "沙特阿拉伯在2023年加入金砖国家。",
+  "ground_truth": "Refuted",
+  "timestamp": "2025-12-21T15:30:14.909430",
+  "statistics": {
+    "total_evidences": 3,
+    "pro_evidences": 3,
+    "con_evidences": 0,
+    "total_attacks": 0,
+    "accepted_evidences": 3,
+    "defeated_evidences": 0
+  },
+  "evidences": {
+    "all_evidences": [
+      {
+        "id": "pro_1_c60cd162",
+        "content": "在南非的金砖国家峰会，伊朗、沙特阿拉伯、阿联酋、阿根廷、埃及和埃塞俄比亚受邀加入这个新兴国家俱乐部。在中、俄主张扩员制衡西方的同时，美国则试图淡化金砖国家的历史性扩员。",
+        "url": "https://www.dw.com/zh/%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%86%8D%E5%A2%9E%E5%85%AD%E5%9B%BD%E7%BE%8E%E5%9B%BD%E6%B7%A1%E5%8C%96%E5%8E%86%E5%8F%B2%E6%80%A7%E6%89%A9%E5%91%98/a-66617444",
+        "source": "www.dw.com",
+        "credibility": "Medium",
+        "quality_score": 0.4704,
+        "priority": 0.28224,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "金砖国家官网2023年新成员名单包含沙特阿拉伯",
+        "timestamp": "2025-12-21T15:21:26.916989"
+      },
+      {
+        "id": "pro_1_0a721fc8",
+        "content": "2023 年 8 月 24 日结束的金砖国家峰会宣布欢迎六个新成员，他们分别是阿根廷、埃及、埃塞俄比亚、沙特阿拉伯、阿拉伯联合酋长国和伊朗。他们的成员国资格将于……",
+        "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230828-%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A-%E6%96%B0%E6%88%90%E5%91%98%E5%85%A5%E7%9B%9F%E6%A0%87%E5%87%86%E4%BB%80%E4%B9%88",
+        "source": "www.rfi.fr",
+        "credibility": "Low",
+        "quality_score": 0.2592,
+        "priority": 0.07776,
+        "retrieved_by": "pro",
+        "round_num": 1,
+        "search_query": "金砖国家官网2023年新成员名单包含沙特阿拉伯",
+        "timestamp": "2025-12-21T15:21:26.918002"
+      },
+      {
+        "id": "pro_2_78dd93f6",
+        "content": "如今的金砖国家不仅仅是一个合作组织，更是一股迅速崛起、举世瞩目的力量。金砖国家联合了全球最大的几个发展中经济体，这些经济体在全球GDP、人口和贸易中占据重要份额。金砖国家致力于改革国际金融和政治体系，以维护发展中国家的利益，并倡导建立一个公平公正的新世界秩序。",
+        "url": "https://tvbrics.com/cn/bricslife/the-history-and-evolution-of-the-brics-countries-from-concept-to-a-powerful-alliance/",
+        "source": "tvbrics.com",
+        "credibility": "Medium",
+        "quality_score": 0.498,
+        "priority": 0.2988,
+        "retrieved_by": "pro",
+        "round_num": 2,
+        "search_query": "沙特阿拉伯外交部2023年12月4日宣布加入金砖国家",
+        "timestamp": "2025-12-21T15:24:08.352931"
+      }
+    ],
+    "accepted_evidences": [
+      {
+        "id": "pro_2_78dd93f6",
+        "agent": "pro",
+        "priority": 0.2988,
+        "source": "tvbrics.com",
+        "content_preview": "如今的金砖国家不仅仅是一个合作组织，更是一股迅速崛起、举世瞩目的力量。金砖国家联合了全球最大的几个发展中经济体，这些经济体在全球GDP、人口和贸易中占据重要份额。金砖国家致力于改革国际金融和政治体系，以维护发展中国家的利益，并倡导建立一个公平公正的新世界秩序。..."
+      },
+      {
+        "id": "pro_1_c60cd162",
+        "agent": "pro",
+        "priority": 0.28224,
+        "source": "www.dw.com",
+        "content_preview": "在南非的金砖国家峰会，伊朗、沙特阿拉伯、阿联酋、阿根廷、埃及和埃塞俄比亚受邀加入这个新兴国家俱乐部。在中、俄主张扩员制衡西方的同时，美国则试图淡化金砖国家的历史性扩员。..."
+      },
+      {
+        "id": "pro_1_0a721fc8",
+        "agent": "pro",
+        "priority": 0.07776,
+        "source": "www.rfi.fr",
+        "content_preview": "2023 年 8 月 24 日结束的金砖国家峰会宣布欢迎六个新成员，他们分别是阿根廷、埃及、埃塞俄比亚、沙特阿拉伯、阿拉伯联合酋长国和伊朗。他们的成员国资格将于……..."
+      }
+    ],
+    "defeated_evidences": []
+  },
+  "argumentation": {
+    "attack_edges": [],
+    "grounded_extension": [
+      "pro_2_78dd93f6",
+      "pro_1_c60cd162",
+      "pro_1_0a721fc8"
+    ]
+  },
+  "verdict": {
+    "decision": "Not Enough Evidence",
+    "confidence": 0.5,
+    "reasoning": "{\n  \"verdict\": \"Refuted\",\n  \"confidence\": 0.85,\n  \"justification\": \"该主张的关键可验证部分是'沙特阿拉伯在2023年加入金砖国家'，需确认两点：1)沙特是否加入金砖国家；2)加入时间是否为2023年。\\n\\n根据知识库信息，2023年8月24日金砖国家领导人第十五次会晤确实'邀请'沙特等六国加入，但关键在于'邀请'不等于'正式加入'。知识库中多处证据表明：1)2023年8月25日的资料明确指出'他们可能会在明年年初'加入；2)2024年2月2日的消息才称'沙特阿联酋官宣加入金砖国家'；3)更关键的是，收录于2025年7月7日的信息明确指出'沙特阿拉伯原本表示愿意加入，但后来表示仍在考虑中'。\\n\\n这些证据构成决定性链条：沙特在2023年仅获邀，未完成正式加入程序。'受邀'与'加入'是两个不同概念，前者是邀请意向，后者是完成程序。主张混淆了这两个概念，将'受邀'等同于'加入'。因此，尽管沙特确实被邀请且最终可能加入了，但'在2023年加入'这一时间点的说法被证据明确反驳。\",\n  \"key_evidence\": [\n    \"沙特阿拉伯、阿联酋和埃及周四在南非金砖国家领导人第十五次会晤期间受到邀请，将加入由主要新兴市场国家组成的金砖国家集团。他们可能会在明年年初（来自2023年8月25日的资料）\",\n    \"沙特阿联酋官宣加入金砖国家，意味着什么？阿联酋和沙特加入金砖国家标志着其地缘政治战略的显著转变，反映了其扩大全球影响力和加强全球事务参与的愿望。（消息于2024年2月2日发布）\",\n    \"另一个改变主意的国家是沙特阿拉伯，它原本表示愿意加入，但后来表示仍在考虑中。（搜索结果收录于2025年7月7日）\"\n  ],\n  \"decisive_evidence\": {\n    \"exists\": true,\n    \"evidence_ids\": [\n      \"沙特阿拉伯、阿联酋和埃及周四在南非金砖国家领导人第十五次会晤期间受到邀请，将加入由主要新兴市场国家组成的金砖国家集团。他们可能会在明年年初（来自2023年8月25日的资料）\"\n    ],\n    \"reason\": \"该证据明确区分了'受邀'与'正式加入'的时间点，指出正式加入'可能会在明年年初'，直接反驳了'2023年加入'的时间表述。这是决定性证据，因为它证明主张中关于时间的关键要素不成立，即使沙特最终加入了金砖国家，也不改变'2023年加入'这一具体说法的错误性。\"\n  }\n}",
+    "key_evidence_ids": [],
+    "pro_strength": 0.18828,
+    "con_strength": 0.28224,
+    "total_evidences": 3,
+    "accepted_evidences": 3
+  },
+  "evaluation": {
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "correct": false
+  }
+}

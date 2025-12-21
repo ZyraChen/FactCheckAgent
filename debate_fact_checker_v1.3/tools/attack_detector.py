@@ -120,7 +120,14 @@ Yes/No | [Your concise reasoning]"""
         messages = [{"role": "user", "content": prompt}]
 
         try:
-            response = self.llm.chat(messages, system=system, temperature=0.3)
+            # 攻击检测不需要搜索，关闭以提升速度
+            response = self.llm.chat(
+                messages,
+                system=system,
+                temperature=0.3,
+                enable_search=False,  # 关闭搜索
+                force_search=False
+            )
 
             # 解析响应
             if '|' in response:

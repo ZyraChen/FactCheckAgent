@@ -29,28 +29,47 @@ class QwenClient:
         messages: List[Dict[str, str]],
         system: Optional[str] = None,
         temperature: float = 0.7,
-        max_tokens: int = 4000
+        max_tokens: int = 4000,
+        enable_search: bool = False,
+        force_search: bool = False,
+        enable_thinking: bool = True,
+        search_strategy: str = "auto"
     ) -> str:
         """
         标准对话接口
+
+        Args:
+            messages: 对话消息列表
+            system: 系统提示词
+            temperature: 温度参数
+            max_tokens: 最大token数
+            enable_search: 是否启用搜索功能（默认False）
+            force_search: 是否强制搜索（默认False，仅在enable_search=True时有效）
+            enable_thinking: 是否启用思考模式（默认True）
+            search_strategy: 搜索策略 "auto"/"max"（默认auto）
         """
         # 如果有system prompt,添加到messages开头
         if system:
             messages = [{"role": "system", "content": system}] + messages
 
         try:
-            extra_body = {
-                "enable_thinking": True,
-                "enable_search": True,
-                "search_options": {
-                    "forced_search": True,
-                    "search_strategy": "max"
+            # 根据参数构建 extra_body
+            extra_body = {}
+
+            if enable_thinking:
+                extra_body["enable_thinking"] = True
+
+            if enable_search:
+                extra_body["enable_search"] = True
+                extra_body["search_options"] = {
+                    "forced_search": force_search,
+                    "search_strategy": search_strategy
                 }
-            }
+
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=messages,
-                extra_body=extra_body,
+                extra_body=extra_body if extra_body else None,
                 temperature=temperature,
                 max_tokens=max_tokens
             )
@@ -101,7 +120,7 @@ class QwenClient:
         existing_topics: List[str]
     ) -> List[str]:
         """生成搜索查询词"""
-        system = f"""你是一个{agent_role}的事实核查辩论Agent。
+        system = f"""你是一个{agent_role}的事实核查Agent。
 
 重要规则:
 1. 必须用中文
@@ -115,7 +134,6 @@ class QwenClient:
 
 坏的例子(不要这样):
 - "Pluto aphelion distance" (不是问句)
-- "欧盟燃油车禁令" (不是问句)
 - "查找数据" (太模糊)
 """
 

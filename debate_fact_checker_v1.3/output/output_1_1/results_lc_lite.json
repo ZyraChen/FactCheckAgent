@@ -142,5 +142,13 @@
     "ground_truth": "Refuted",
     "confidence": 0.7,
     "correct": true
+  },
+  {
+    "index": 18,
+    "claim": "沙特阿拉伯在2023年加入金砖国家。",
+    "predicted": "Not Enough Evidence",
+    "ground_truth": "Refuted",
+    "confidence": 0.5,
+    "correct": false
   }
 ]

@@ -69,17 +69,36 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
 
     # 1. 初始化组件
     llm_client = QwenClient(config.DASHSCOPE_API_KEY)
-    llm_wrapper = QwenLLMWrapper(qwen_client=llm_client)  # LangChain wrapper
 
     jina = JinaSearch(config.JINA_API_KEY)
     evidence_pool = EvidencePool()
     arg_graph = ArgumentationGraph(claim)
     attack_detector = AttackDetector(llm_client)
 
-    # 创建 LangChain Chains
-    pro_chain = ProQueryChain(llm=llm_wrapper)
-    con_chain = ConQueryChain(llm=llm_wrapper)
-    judge_chain = JudgeChain(llm=llm_wrapper)
+    # 创建 LangChain Chains，每个使用独立的 LLM wrapper 实例以便配置不同的搜索参数
+    # Pro Chain: enable_search=True, force_search=False (智能搜索)
+    pro_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=True,
+        force_search=False
+    )
+    pro_chain = ProQueryChain(llm=pro_llm)
+
+    # Con Chain: enable_search=True, force_search=False (智能搜索)
+    con_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=True,
+        force_search=False
+    )
+    con_chain = ConQueryChain(llm=con_llm)
+
+    # Judge Chain: 将在 JudgeChain 内部为不同方法配置不同参数
+    judge_llm = QwenLLMWrapper(
+        qwen_client=llm_client,
+        enable_search=False,  # 默认关闭，在 make_verdict 时再开启
+        force_search=False
+    )
+    judge_chain = JudgeChain(llm=judge_llm)
 
     # 记录所有查询（避免重复）
     all_queries = []
@@ -94,6 +113,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         print("[查询生成]")
 
         # Pro 生成查询
+        print("开始生成正方查询词")
         con_evidences = evidence_pool.get_by_agent("con")
         pro_queries = pro_chain.generate_queries(
             claim=claim,
@@ -103,6 +123,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         )
 
         # Con 生成查询
+        print("开始生成反方查询词")
         pro_evidences = evidence_pool.get_by_agent("pro")
         con_queries = con_chain.generate_queries(
             claim=claim,
@@ -174,7 +195,7 @@ def run_debate_workflow_lc(claim: str, max_rounds: int = 3) -> dict:
         stats = evidence_pool.get_statistics()
         print(f"\n[本轮统计] Pro:{stats['pro']}个, Con:{stats['con']}个, 总计:{stats['total']}个证据节点")
 
-    # 3. Judge 判决（使用 LangChain Chain）
+    # 3. Judge 判决
     print(f"\n{'='*80}")
     print("Judge 判决")
     print(f"{'='*80}\n")

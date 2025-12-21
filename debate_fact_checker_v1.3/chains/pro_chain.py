@@ -39,6 +39,7 @@ class ProQueryChain:
 
         Args:
             llm: LangChain compatible LLM (QwenLLMWrapper)
+                 应配置为 enable_search=True, force_search=False
         """
         self.llm = llm
 
@@ -112,7 +113,7 @@ Now please provide the query:"""
         if existing_queries:
             existing_topics = "已搜索过的主题(请避免重复):\n" + "\n".join([f"- {q}" for q in existing_queries[-5:]])
 
-        # 调用 Chain
+        # 调用 Chain (LLM已配置 enable_search=True, force_search=False)
         try:
             result = self.chain.invoke({
                 "claim": claim,

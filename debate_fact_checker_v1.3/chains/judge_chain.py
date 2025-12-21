@@ -114,6 +114,12 @@ Now make the verdict:"""
         Returns:
             "support" 或 "refute"
         """
+        # 临时设置：立场判断不需要搜索
+        original_search = self.llm.enable_search
+        original_force = self.llm.force_search
+        self.llm.enable_search = False
+        self.llm.force_search = False
+
         try:
             result = self.stance_chain.invoke({
                 "claim": claim,
@@ -133,6 +139,10 @@ Now make the verdict:"""
         except Exception as e:
             print(f"⚠ 立场判断失败: {e}")
             return 'neutral'
+        finally:
+            # 恢复原始配置
+            self.llm.enable_search = original_search
+            self.llm.force_search = original_force
 
     def make_verdict(
         self,
@@ -151,7 +161,7 @@ Now make the verdict:"""
         Returns:
             Verdict 对象
         """
-        if not accepted_evidences:
+        if len(accepted_evidences)==0:
             return Verdict(
                 decision="Not Enough Evidence",
                 confidence=0.3,
@@ -189,6 +199,15 @@ Now make the verdict:"""
         refute_summary = "\n".join([f"- [{ev.source}] {ev.content[:100]}..." for ev in refuting[:3]]) if refuting else "无"
 
         # 4. 调用 LLM 生成判决
+        # 启用完整搜索：这是最关键的决策，值得投入最多资源
+        original_search = self.llm.enable_search
+        original_force = self.llm.force_search
+        original_strategy = self.llm.search_strategy
+
+        self.llm.enable_search = True
+        self.llm.force_search = True
+        self.llm.search_strategy = "max"
+
         try:
             result = self.verdict_chain.invoke({
                 "claim": claim,
@@ -259,3 +278,8 @@ Now make the verdict:"""
                 total_evidences=all_evidences_count,
                 accepted_evidences=len(accepted_evidences)
             )
+        finally:
+            # 恢复原始配置
+            self.llm.enable_search = original_search
+            self.llm.force_search = original_force
+            self.llm.search_strategy = original_strategy
